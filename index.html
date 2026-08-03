@@ -6,6 +6,7 @@
 <meta name="robots" content="noindex, nofollow, noarchive">
 <meta name="theme-color" content="#16131c">
 <title>jdv Tages-Anstoss</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='16' fill='%238a2d3b'/%3E%3Ctext x='16' y='23' text-anchor='middle' font-family='Georgia' font-style='italic' font-size='20' fill='white'%3Ej%3C/text%3E%3C/svg%3E">
 <style>
   :root {
     --ink: #16131c;
@@ -190,6 +191,9 @@ document.getElementById('issuelist').href = `https://github.com/${REPO}/issues`;
 const LS_TOKEN = 'jdv_token', LS_STATE = 'jdv_state', LS_QUEUE = 'jdv_queue';
 
 const state = JSON.parse(localStorage.getItem(LS_STATE) || '{}');
+Object.keys(state).forEach(k => {
+  if (typeof state[k] === 'string') state[k] = { v: state[k], r: null };
+});
 const saveState = () => localStorage.setItem(LS_STATE, JSON.stringify(state));
 
 function toast(msg) {
@@ -252,15 +256,19 @@ function washClass(typ) {
 
 function markDone(slot, idee, verdictText) {
   slot.classList.add('done'); slot.classList.remove('asking');
-  slot.querySelector('.verdict').textContent = verdictText;
-  state[idee.id] = verdictText; saveState(); updateDateline();
+  const st = state[idee.id] = state[idee.id] || { v: null, r: null };
+  st.v = verdictText; saveState();
+  slot.querySelector('.verdict').textContent =
+    verdictText + (st.r ? ` · bewertet ${st.r}/5` : '');
+  updateDateline();
 }
 
 let total = 0;
 function updateDateline() {
-  const open = total - Object.keys(state).filter(k => k.startsWith(window._datum || '')).length;
+  const done = Object.entries(state)
+    .filter(([k, s]) => k.startsWith(window._datum || '') && s && s.v).length;
   const d = document.getElementById('dateline');
-  d.innerHTML = `${window._datumFmt || ''} · <b>${Math.max(open, 0)} von ${total} offen</b>`;
+  d.innerHTML = `${window._datumFmt || ''} · <b>${Math.max(total - done, 0)} von ${total} offen</b>`;
 }
 
 function card(idee) {
@@ -319,20 +327,29 @@ function card(idee) {
   });
 
   const stars = post.querySelector('.stars');
+  const paint = n => [...stars.children].forEach((s, i) => s.classList.toggle('lit', i < n));
   for (let n = 1; n <= 5; n++) {
     const b = document.createElement('button');
     b.textContent = '★'; b.title = `${n}/5`;
-    b.onmouseenter = () => [...stars.children].forEach((s, i) => s.classList.toggle('lit', i < n));
+    b.onmouseenter = () => paint(n);
+    b.onmouseleave = () => paint((state[idee.id] || {}).r || 0);
     b.onclick = async () => {
-      markDone(slot, idee, `Bewertet: ${n}/5`);
-      const res = await sendIssue(`RATE ${n}/5: ${idee.id}`, `Stichwort: ${idee.stichwort}\nBewertung: ${n}/5`);
-      toast(res === 'sent' ? `${n}/5 gesendet` : `${n}/5 wird später gesendet`);
+      const st = state[idee.id] = state[idee.id] || { v: null, r: null };
+      st.r = n; saveState(); paint(n);
+      const res = await sendIssue(`RATE ${n}/5: ${idee.id}`,
+        `Stichwort: ${idee.stichwort}\nBewertung: ${n}/5`);
+      toast(res === 'sent' ? `${n}/5 gesendet. Nehmen geht weiterhin.`
+                           : `${n}/5 gemerkt, wird später gesendet`);
     };
     stars.appendChild(b);
   }
 
   slot.appendChild(post);
-  if (state[idee.id]) markDone(slot, idee, state[idee.id]);
+  const st = state[idee.id];
+  if (st) {
+    if (st.r) paint(st.r);
+    if (st.v) markDone(slot, idee, st.v);
+  }
   return slot;
 }
 
@@ -371,7 +388,7 @@ document.getElementById('tokendel').onclick = () => {
     liste.textContent = '';
     d.ideen.forEach(i => liste.appendChild(card(i)));
     updateDateline();
-    const openCount = d.ideen.filter(i => !state[i.id]).length;
+    const openCount = d.ideen.filter(i => !(state[i.id] && state[i.id].v)).length;
     if (!openCount) {
       const a = document.createElement('div');
       a.className = 'alldone'; a.textContent = 'Alles beurteilt. Bis morgen früh.';
