@@ -1,0 +1,27 @@
+{
+  "datum": "2026-08-03",
+  "hinweis": "Erste Befüllung zum Test der Seite. Ab Aktivierung des Tages-Anstoss-Tasks kommt werktags um 07:57 frischer Inhalt.",
+  "ideen": [
+    {
+      "id": "2026-08-03-1",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neutralitätsinitiative (Kampagnenstart 04.08., Abstimmung 27.09.)",
+      "plattform": "Threads + Bluesky",
+      "text": "Strikte Neutralität heisst: kein Urteil, keine Partei, keine Einmischung.\n\nVorgestellt wird die Initiative von Christoph Blocher."
+    },
+    {
+      "id": "2026-08-03-2",
+      "typ": "persönlich (Serie Hunde-Duo)",
+      "stichwort": "Hitzewelle + Herdenschutzhund",
+      "plattform": "Threads + Bluesky",
+      "text": "Mein Herdenschutzhund ist für Minus 20 Grad im Karpatenwinter gebaut.\n\nBei 30 Grad liegt er auf dem Badezimmerboden und verweigert jede Verhandlung.\n\n(Detail bitte gegen ein echtes Verhalten tauschen, Regel: nur echtes Material)"
+    },
+    {
+      "id": "2026-08-03-3",
+      "typ": "Schnittmenge (Doppelmoral, DACH-tauglich)",
+      "stichwort": "Ernährungsinitiative politisch chancenlos",
+      "plattform": "Threads, später IG-Grafik",
+      "text": "Eine Initiative will, dass die Schweiz mehr Pflanzen und weniger Tiere isst.\n\nDagegen sind: alle Parteien, der Bauernverband, und Organisationen, die den Schutz von Tieren im Namen tragen."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<title>jdv Tages-Anstoss</title>
+<style>
+  :root {
+    --bg: #f6f5f2; --card: #ffffff; --text: #1c1c1c; --muted: #6b6b6b;
+    --line: #e3e1dc; --accent: #2f6f4f; --danger: #a33a3a; --chip: #eceae4;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #131313; --card: #1d1d1d; --text: #ececec; --muted: #9a9a9a;
+      --line: #2c2c2c; --accent: #6fbf95; --danger: #d98080; --chip: #262626;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 16px; background: var(--bg); color: var(--text);
+    font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif;
+    max-width: 640px; margin-inline: auto;
+  }
+  header { margin: 8px 0 20px; }
+  h1 { font-size: 1.25rem; margin: 0 0 2px; }
+  .sub { color: var(--muted); font-size: .9rem; }
+  .hinweis {
+    background: var(--chip); border-radius: 10px; padding: 10px 14px;
+    font-size: .9rem; color: var(--muted); margin-bottom: 16px;
+  }
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+    padding: 16px; margin-bottom: 16px;
+  }
+  .meta { font-size: .8rem; color: var(--muted); margin-bottom: 10px; }
+  .meta .chip {
+    display: inline-block; background: var(--chip); border-radius: 999px;
+    padding: 2px 10px; margin-right: 6px; margin-bottom: 4px;
+  }
+  .posttext {
+    white-space: pre-wrap; font-size: 1.02rem; margin: 0 0 14px;
+    border-left: 3px solid var(--line); padding-left: 12px;
+  }
+  .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  button, .btn {
+    appearance: none; border: 1px solid var(--line); background: var(--chip);
+    color: var(--text); border-radius: 10px; padding: 8px 14px; font-size: .92rem;
+    cursor: pointer; text-decoration: none; display: inline-block;
+  }
+  .btn-ok { border-color: var(--accent); color: var(--accent); font-weight: 600; }
+  .btn-no { border-color: var(--danger); color: var(--danger); }
+  .stars { margin-top: 10px; font-size: .9rem; color: var(--muted); }
+  .stars a { text-decoration: none; font-size: 1.25rem; padding: 0 3px; filter: grayscale(.6); }
+  .stars a:hover { filter: none; }
+  .done { opacity: .45; }
+  .copied { color: var(--accent); font-size: .85rem; }
+  footer { color: var(--muted); font-size: .8rem; margin-top: 24px; }
+  footer a { color: inherit; }
+</style>
+</head>
+<body>
+<header>
+  <h1>jdv Tages-Anstoss</h1>
+  <div class="sub" id="datum"></div>
+</header>
+<div id="hinweis" class="hinweis" hidden></div>
+<main id="liste">Lade Vorschläge …</main>
+<footer>
+  Feedback läuft über GitHub-Issues und fliesst in die nächste Ideen-Runde ein.
+  <a id="issuelist" href="#">Offene Rückmeldungen ansehen</a>
+</footer>
+<script>
+const REPO = 'manuelweingartner/jdv-anstoss';
+document.getElementById('issuelist').href = `https://github.com/${REPO}/issues`;
+
+function issueUrl(title, body) {
+  return `https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+}
+
+async function copyText(text, note) {
+  try { await navigator.clipboard.writeText(text); }
+  catch (e) {
+    const ta = document.createElement('textarea');
+    ta.value = text; document.body.appendChild(ta); ta.select();
+    document.execCommand('copy'); ta.remove();
+  }
+  if (note) { note.hidden = false; setTimeout(() => { note.hidden = true; }, 1800); }
+}
+
+function card(idee, datum) {
+  const el = document.createElement('article');
+  el.className = 'card';
+  const kurz = idee.stichwort || idee.id;
+
+  const meta = document.createElement('div');
+  meta.className = 'meta';
+  meta.innerHTML = `<span class="chip">${idee.typ || 'Idee'}</span>` +
+    `<span class="chip">${idee.plattform || 'Threads'}</span> ${kurz}`;
+  el.appendChild(meta);
+
+  const p = document.createElement('p');
+  p.className = 'posttext';
+  p.textContent = idee.text;
+  el.appendChild(p);
+
+  const row = document.createElement('div');
+  row.className = 'row';
+
+  const note = document.createElement('span');
+  note.className = 'copied'; note.textContent = 'kopiert'; note.hidden = true;
+
+  const bCopy = document.createElement('button');
+  bCopy.textContent = 'Kopieren';
+  bCopy.onclick = () => copyText(idee.text, note);
+
+  const bOk = document.createElement('a');
+  bOk.className = 'btn btn-ok'; bOk.target = '_blank'; bOk.rel = 'noopener';
+  bOk.textContent = 'Nehm ich';
+  bOk.href = issueUrl(`OK: ${idee.id}`,
+    `Stichwort: ${kurz}\n\nText (ggf. gefeilte Fassung hier einfuegen):\n\n${idee.text}\n\nGepostet auf: `);
+  bOk.onclick = () => copyText(idee.text, note);
+
+  const bNo = document.createElement('a');
+  bNo.className = 'btn btn-no'; bNo.target = '_blank'; bNo.rel = 'noopener';
+  bNo.textContent = 'Ablehnen';
+  bNo.href = issueUrl(`NEIN: ${idee.id}`,
+    `Stichwort: ${kurz}\n\nGrund (kurz, hilft dem Geschmacksmodell):\n- [ ] zu erklaerend\n- [ ] konstruiert / nicht relatable\n- [ ] kein Widerspruch drin\n- [ ] Thema falsch\n- [ ] anders: `);
+
+  row.appendChild(bCopy); row.appendChild(bOk); row.appendChild(bNo); row.appendChild(note);
+  el.appendChild(row);
+
+  const stars = document.createElement('div');
+  stars.className = 'stars';
+  stars.append('Bewerten: ');
+  for (let n = 1; n <= 5; n++) {
+    const a = document.createElement('a');
+    a.href = issueUrl(`RATE ${n}/5: ${idee.id}`, `Stichwort: ${kurz}\nBewertung: ${n}/5\nKommentar (optional): `);
+    a.target = '_blank'; a.rel = 'noopener'; a.textContent = '⭐';
+    a.title = `${n}/5`;
+    stars.appendChild(a);
+  }
+  el.appendChild(stars);
+  return el;
+}
+
+(async () => {
+  const liste = document.getElementById('liste');
+  try {
+    const r = await fetch(`data/ideen.json?t=${Date.now()}`);
+    const d = await r.json();
+    document.getElementById('datum').textContent =
+      `Vorschläge vom ${new Date(d.datum).toLocaleDateString('de-CH', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })}`;
+    if (d.hinweis) {
+      const h = document.getElementById('hinweis');
+      h.textContent = d.hinweis; h.hidden = false;
+    }
+    liste.textContent = '';
+    d.ideen.forEach(i => liste.appendChild(card(i, d.datum)));
+  } catch (e) {
+    liste.textContent = 'Konnte data/ideen.json nicht laden: ' + e.message;
+  }
+})();
+</script>
+</body>
+</html>
