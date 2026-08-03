@@ -3,46 +3,144 @@
   "hinweis": "",
   "ideen": [
     {
-      "id": "2026-08-03-1",
+      "id": "2026-08-03b-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Neutralitätsinitiative, Kampagnenstart 04.08., Abstimmung 27.09.",
+      "stichwort": "Neutralitätsinitiative, Kampagnenstart 04.08.",
       "plattform": "Threads + Bluesky",
       "text": "Strikte Neutralität heisst: kein Urteil, keine Partei, keine Einmischung.\n\nVorgestellt wird die Initiative von Christoph Blocher."
     },
     {
-      "id": "2026-08-03-2",
-      "typ": "mitmach",
-      "stichwort": "Neutralität als Mitmach-Lücke",
-      "plattform": "Threads",
-      "text": "Die Schweiz ist absolut neutral, ausser bei ___."
+      "id": "2026-08-03b-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neutralität und Waffenexporte (steil)",
+      "plattform": "Threads + Bluesky",
+      "text": "Die Schweiz ist so neutral, dass ihre Waffen in jedem Krieg dabei sein dürfen."
     },
     {
-      "id": "2026-08-03-3",
+      "id": "2026-08-03b-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Blocher finanziert Unabhängigkeits-Kampagne",
+      "plattform": "Threads + Bluesky",
+      "text": "Die Kampagne für die Unabhängigkeit der Schweiz bezahlt ein Milliardär."
+    },
+    {
+      "id": "2026-08-03b-04",
       "typ": "schnittmenge",
       "stichwort": "Ernährungsinitiative politisch chancenlos",
       "plattform": "Threads, später IG-Grafik",
       "text": "Eine Initiative will, dass die Schweiz mehr Pflanzen und weniger Tiere isst.\n\nDagegen sind: alle Parteien, der Bauernverband, und Organisationen, die den Schutz von Tieren im Namen tragen."
     },
     {
-      "id": "2026-08-03-4",
+      "id": "2026-08-03b-05",
       "typ": "politisch-aktuell",
       "stichwort": "Publibike geht an britischen Investor",
       "plattform": "Threads + Bluesky",
       "text": "Der nationale Veloverleih gehört jetzt einem Investor aus London.\n\nWer sein Land liebt, verkauft es offenbar stückweise."
     },
     {
-      "id": "2026-08-03-5",
-      "typ": "mitmach",
-      "stichwort": "Mieterhöhungs-Gründe sammeln (DACH, dein Feld)",
-      "plattform": "Threads",
-      "text": "Was war der absurdeste Grund, mit dem euch je die Miete erhöht wurde?\n\nIch fange an: ___\n\n(dein echtes Beispiel als Start einsetzen)"
+      "id": "2026-08-03b-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Blitzermarathon startet (DACH)",
+      "plattform": "Threads + Bluesky",
+      "text": "Diese Woche ist Blitzermarathon. Einmal im Jahr gilt das Tempolimit auch für Leute mit teuren Autos."
     },
     {
-      "id": "2026-08-03-6",
+      "id": "2026-08-03b-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Blitzermarathon, Ansage vorab (DACH)",
+      "plattform": "Threads",
+      "text": "Diese Woche verrät der Staat im Voraus, wo er hinschaut.\n\nVermögensverwalter nennen das seit Jahrzehnten Standortvorteil."
+    },
+    {
+      "id": "2026-08-03b-08",
+      "typ": "schnittmenge",
+      "stichwort": "Mieten-Doppelmoral (DACH)",
+      "plattform": "Threads, später IG-Grafik",
+      "text": "Wenn Mieter*innen zu wenig zahlen, heisst das Zahlungsverzug.\n\nWenn Vermieter zu viel verlangen, heisst das Marktpreis."
+    },
+    {
+      "id": "2026-08-03b-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Referenzzinssatz vs. Mieten",
+      "plattform": "Threads + Bluesky",
+      "text": "Der Referenzzinssatz sinkt.\n\nDeine Miete bleibt aus Solidarität oben."
+    },
+    {
+      "id": "2026-08-03b-10",
+      "typ": "schnittmenge",
+      "stichwort": "Erben vs. Leistung (DACH)",
+      "plattform": "Threads, später IG-Grafik",
+      "text": "Leistung muss sich lohnen.\n\nDeshalb besteuern wir Löhne höher als Erbschaften."
+    },
+    {
+      "id": "2026-08-03b-11",
+      "typ": "schnittmenge",
+      "stichwort": "Geld arbeitet (DACH)",
+      "plattform": "Threads + Bluesky",
+      "text": "Arbeit muss sich wieder lohnen, sagen vor allem Leute, deren Geld die Arbeit macht."
+    },
+    {
+      "id": "2026-08-03b-12",
+      "typ": "politisch-aktuell",
+      "stichwort": "EU-Botschafter beraten nach Ceuta (steil)",
+      "plattform": "Threads + Bluesky",
+      "text": "Nach Ceuta beraten die EU-Botschafter heute über Konsequenzen.\n\nGemeint sind Zäune, nicht Rettungsboote."
+    },
+    {
+      "id": "2026-08-03b-13",
+      "typ": "remix",
+      "stichwort": "Remix der USA-Reisetipps (17,7% Like-Quote, unterausgespielt)",
+      "plattform": "Threads + Bluesky",
+      "text": "Packliste für die USA:\n\n1. Reisepass\n2. ESTA\n3. Anwalt"
+    },
+    {
+      "id": "2026-08-03b-14",
+      "typ": "schnittmenge",
+      "stichwort": "KI-Firmen und Trainingsdaten (DACH)",
+      "plattform": "Threads, später IG-Grafik",
+      "text": "KI-Firmen können sich Trainingsdaten leider nicht leisten.\n\nBewertet werden sie mit 500 Milliarden."
+    },
+    {
+      "id": "2026-08-03b-15",
       "typ": "persönlich",
       "stichwort": "Hitze-Alltag, Erwartung gegen Realität",
       "plattform": "Threads + Bluesky",
       "text": "Erwartung: Sommerabend auf dem Balkon mit Buch.\n\nRealität: 23 Uhr, offener Kühlschrank, ich nenne es Klimaanlage.\n\n(nur wenn es bei dir wirklich so läuft, sonst echtes Detail einsetzen)"
+    },
+    {
+      "id": "2026-08-03b-16",
+      "typ": "persönlich",
+      "stichwort": "Postfach nach den Ferien",
+      "plattform": "Threads",
+      "text": "Erwartung nach den Ferien: 300 wichtige Mails.\n\nRealität: 296 mal 'Danke!' und viermal die Frage, wer den Kühlschrank geräumt hat.\n\n(Zahlen durch dein echtes Postfach ersetzen)"
+    },
+    {
+      "id": "2026-08-03b-17",
+      "typ": "persönlich",
+      "stichwort": "Chronisch krank vs. Versicherungsformulare (steil)",
+      "plattform": "Threads + Bluesky",
+      "text": "Die Versicherung glaubt mir erst, dass ich krank bin, wenn ich gesund genug bin, ihre Formulare auszufüllen."
+    },
+    {
+      "id": "2026-08-03b-18",
+      "typ": "persönlich",
+      "stichwort": "Kind und Handy-Doppelmoral",
+      "plattform": "Threads",
+      "text": "Kind: 'Warum dürfen Erwachsene ans Handy und Kinder nicht?'\n\nIch, am Handy: 'Das verstehst du später.'\n\n(nur mit echtem Zitat deines Kindes posten)"
+    },
+    {
+      "id": "2026-08-03b-19",
+      "typ": "politisch-aktuell",
+      "stichwort": "Heissester Sommer, Statistik-Deadpan",
+      "plattform": "Threads + Bluesky",
+      "text": "Es ist der heisseste Sommer seit Messbeginn.\n\nZum vierten Mal in fünf Jahren."
+    },
+    {
+      "id": "2026-08-03b-20",
+      "typ": "mitmach",
+      "stichwort": "Mieterhöhungs-Gründe sammeln (Frage, kein Lückentext)",
+      "plattform": "Threads",
+      "text": "Was war der absurdeste Grund, mit dem euch je die Miete erhöht wurde?"
     }
   ]
 }

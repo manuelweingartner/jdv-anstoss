@@ -331,8 +331,8 @@ function card(idee) {
     stars.appendChild(b);
   }
 
-  if (state[idee.id]) markDone(slot, idee, state[idee.id]);
   slot.appendChild(post);
+  if (state[idee.id]) markDone(slot, idee, state[idee.id]);
   return slot;
 }
 
