@@ -282,7 +282,7 @@ function card(idee) {
     <p class="posttext"></p>
     <div class="kicker"></div>
     <div class="actions">
-      <button class="b-take">Nehmen · kopiert</button>
+      <button class="b-take">Nehmen</button>
       <button class="b-no" aria-label="Ablehnen">✕</button>
       <div class="stars"></div>
     </div>
@@ -362,11 +362,12 @@ document.getElementById('tokendel').onclick = () => {
     window._datumFmt = new Date(d.datum).toLocaleDateString('de-CH',
       { weekday: 'long', day: 'numeric', month: 'long' });
     total = d.ideen.length;
-    if (d.hinweis && !localStorage.getItem(LS_TOKEN)) {
+    const hasToken = !!localStorage.getItem(LS_TOKEN);
+    document.getElementById('tokenbanner').hidden = hasToken;
+    if (d.hinweis && hasToken) {
       const h = document.getElementById('hinweis');
       h.textContent = d.hinweis; h.hidden = false;
     }
-    document.getElementById('tokenbanner').hidden = !!localStorage.getItem(LS_TOKEN);
     liste.textContent = '';
     d.ideen.forEach(i => liste.appendChild(card(i)));
     updateDateline();
