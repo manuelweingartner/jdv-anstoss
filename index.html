@@ -207,12 +207,19 @@ function toast(msg) {
 
 async function copyText(text) {
   const clean = text.replace(/\n?\(.*?\)\s*$/s, '').trim();
-  try { await navigator.clipboard.writeText(clean); }
-  catch (e) {
+  const viaApi = navigator.clipboard
+    ? Promise.race([
+        navigator.clipboard.writeText(clean).then(() => true),
+        new Promise(res => setTimeout(() => res(false), 1500)),
+      ]).catch(() => false)
+    : Promise.resolve(false);
+  if (await viaApi) return true;
+  try {
     const ta = document.createElement('textarea');
     ta.value = clean; document.body.appendChild(ta); ta.select();
-    document.execCommand('copy'); ta.remove();
-  }
+    const ok = document.execCommand('copy'); ta.remove();
+    return ok;
+  } catch (e) { return false; }
 }
 
 async function sendIssue(title, body) {
@@ -310,9 +317,9 @@ function card(idee) {
   post.querySelector('.kicker').textContent = `${idee.typ} · ${idee.stichwort} · ${idee.plattform}`;
 
   post.querySelector('.b-take').onclick = async () => {
-    await copyText(idee.text);
-    toast('Kopiert. Viel Erfolg!');
     markDone(slot, idee, 'Genommen und kopiert');
+    const ok = await copyText(idee.text);
+    toast(ok ? 'Kopiert. Viel Erfolg!' : 'Markiert. Kopieren blockiert, bitte Text manuell kopieren.');
   };
 
   post.querySelector('.b-no').onclick = () => slot.classList.toggle('asking');
