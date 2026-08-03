@@ -1,27 +1,48 @@
 {
   "datum": "2026-08-03",
-  "hinweis": "Erste Befüllung zum Test der Seite. Ab Aktivierung des Tages-Anstoss-Tasks kommt werktags um 07:57 frischer Inhalt.",
+  "hinweis": "Damit Nehmen/Ablehnen/Sterne direkt senden: einmalig unter dem Zahnrad oben rechts einen GitHub-Token hinterlegen.",
   "ideen": [
     {
       "id": "2026-08-03-1",
       "typ": "politisch-aktuell",
-      "stichwort": "Neutralitätsinitiative (Kampagnenstart 04.08., Abstimmung 27.09.)",
+      "stichwort": "Neutralitätsinitiative, Kampagnenstart 04.08., Abstimmung 27.09.",
       "plattform": "Threads + Bluesky",
       "text": "Strikte Neutralität heisst: kein Urteil, keine Partei, keine Einmischung.\n\nVorgestellt wird die Initiative von Christoph Blocher."
     },
     {
       "id": "2026-08-03-2",
-      "typ": "persönlich (Serie Hunde-Duo)",
-      "stichwort": "Hitzewelle + Herdenschutzhund",
-      "plattform": "Threads + Bluesky",
-      "text": "Mein Herdenschutzhund ist für Minus 20 Grad im Karpatenwinter gebaut.\n\nBei 30 Grad liegt er auf dem Badezimmerboden und verweigert jede Verhandlung.\n\n(Detail bitte gegen ein echtes Verhalten tauschen, Regel: nur echtes Material)"
+      "typ": "mitmach",
+      "stichwort": "Neutralität als Mitmach-Lücke",
+      "plattform": "Threads",
+      "text": "Die Schweiz ist absolut neutral, ausser bei ___."
     },
     {
       "id": "2026-08-03-3",
-      "typ": "Schnittmenge (Doppelmoral, DACH-tauglich)",
+      "typ": "schnittmenge",
       "stichwort": "Ernährungsinitiative politisch chancenlos",
       "plattform": "Threads, später IG-Grafik",
       "text": "Eine Initiative will, dass die Schweiz mehr Pflanzen und weniger Tiere isst.\n\nDagegen sind: alle Parteien, der Bauernverband, und Organisationen, die den Schutz von Tieren im Namen tragen."
+    },
+    {
+      "id": "2026-08-03-4",
+      "typ": "politisch-aktuell",
+      "stichwort": "Publibike geht an britischen Investor",
+      "plattform": "Threads + Bluesky",
+      "text": "Der nationale Veloverleih gehört jetzt einem Investor aus London.\n\nWer sein Land liebt, verkauft es offenbar stückweise."
+    },
+    {
+      "id": "2026-08-03-5",
+      "typ": "mitmach",
+      "stichwort": "Mieterhöhungs-Gründe sammeln (DACH, dein Feld)",
+      "plattform": "Threads",
+      "text": "Was war der absurdeste Grund, mit dem euch je die Miete erhöht wurde?\n\nIch fange an: ___\n\n(dein echtes Beispiel als Start einsetzen)"
+    },
+    {
+      "id": "2026-08-03-6",
+      "typ": "persönlich",
+      "stichwort": "Hitze-Alltag, Erwartung gegen Realität",
+      "plattform": "Threads + Bluesky",
+      "text": "Erwartung: Sommerabend auf dem Balkon mit Buch.\n\nRealität: 23 Uhr, offener Kühlschrank, ich nenne es Klimaanlage.\n\n(nur wenn es bei dir wirklich so läuft, sonst echtes Detail einsetzen)"
     }
   ]
 }

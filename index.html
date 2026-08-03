@@ -4,161 +4,381 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow, noarchive">
+<meta name="theme-color" content="#16131c">
 <title>jdv Tages-Anstoss</title>
 <style>
   :root {
-    --bg: #f6f5f2; --card: #ffffff; --text: #1c1c1c; --muted: #6b6b6b;
-    --line: #e3e1dc; --accent: #2f6f4f; --danger: #a33a3a; --chip: #eceae4;
+    --ink: #16131c;
+    --ink-soft: #221d2b;
+    --paper: #fffdf9;
+    --paper-text: #191919;
+    --paper-muted: #75707a;
+    --vin: #8a2d3b;
+    --vin-bright: #c4576a;
+    --cloud: #b9b3c2;
+    --line: rgba(255, 255, 255, .09);
+    --ok: #3f7d5c;
+    --wash-politisch: linear-gradient(135deg, #a9c3b2, #d9c9b8);
+    --wash-persoenlich: linear-gradient(135deg, #d9b8bd, #c9c2dc);
+    --wash-mitmach: linear-gradient(135deg, #b0c4d6, #cfd8b8);
+    --wash-schnittmenge: linear-gradient(135deg, #d6c8a8, #c0b6d0);
   }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #131313; --card: #1d1d1d; --text: #ececec; --muted: #9a9a9a;
-      --line: #2c2c2c; --accent: #6fbf95; --danger: #d98080; --chip: #262626;
-    }
-  }
-  * { box-sizing: border-box; }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html { background: var(--ink); }
   body {
-    margin: 0; padding: 16px; background: var(--bg); color: var(--text);
-    font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif;
-    max-width: 640px; margin-inline: auto;
+    margin: 0; padding: 20px 14px 60px; background: var(--ink); color: var(--cloud);
+    font: 16px/1.5 -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    max-width: 560px; margin-inline: auto; min-height: 100vh;
   }
-  header { margin: 8px 0 20px; }
-  h1 { font-size: 1.25rem; margin: 0 0 2px; }
-  .sub { color: var(--muted); font-size: .9rem; }
-  .hinweis {
-    background: var(--chip); border-radius: 10px; padding: 10px 14px;
-    font-size: .9rem; color: var(--muted); margin-bottom: 16px;
+
+  /* Kopf wie eine Morgenzeitung */
+  .masthead { text-align: center; margin: 10px 0 26px; position: relative; }
+  .eyebrow {
+    font-size: .68rem; letter-spacing: .32em; text-transform: uppercase;
+    color: var(--vin-bright); font-weight: 600;
   }
-  .card {
-    background: var(--card); border: 1px solid var(--line); border-radius: 14px;
-    padding: 16px; margin-bottom: 16px;
+  h1 {
+    font-family: Didot, "Bodoni MT", "Playfair Display", Georgia, serif;
+    font-style: italic; font-weight: 500; font-size: 2.1rem;
+    margin: 2px 0 6px; color: #f2eff6; letter-spacing: .01em;
   }
-  .meta { font-size: .8rem; color: var(--muted); margin-bottom: 10px; }
-  .meta .chip {
-    display: inline-block; background: var(--chip); border-radius: 999px;
-    padding: 2px 10px; margin-right: 6px; margin-bottom: 4px;
+  .dateline { font-size: .82rem; color: var(--cloud); }
+  .dateline b { color: #f2eff6; font-weight: 600; }
+  .gear {
+    position: absolute; right: 0; top: 0; background: none; border: none;
+    font-size: 1.25rem; cursor: pointer; color: var(--cloud); padding: 6px;
   }
-  .posttext {
-    white-space: pre-wrap; font-size: 1.02rem; margin: 0 0 14px;
-    border-left: 3px solid var(--line); padding-left: 12px;
+
+  .banner {
+    background: var(--ink-soft); border: 1px solid var(--line); border-radius: 12px;
+    padding: 10px 14px; font-size: .85rem; margin-bottom: 18px; color: var(--cloud);
   }
-  .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
-  button, .btn {
-    appearance: none; border: 1px solid var(--line); background: var(--chip);
-    color: var(--text); border-radius: 10px; padding: 8px 14px; font-size: .92rem;
-    cursor: pointer; text-decoration: none; display: inline-block;
+  .banner.warn { border-color: var(--vin); }
+
+  /* Einstellungen */
+  .settings {
+    background: var(--ink-soft); border: 1px solid var(--line); border-radius: 12px;
+    padding: 14px; margin-bottom: 18px; font-size: .88rem;
   }
-  .btn-ok { border-color: var(--accent); color: var(--accent); font-weight: 600; }
-  .btn-no { border-color: var(--danger); color: var(--danger); }
-  .stars { margin-top: 10px; font-size: .9rem; color: var(--muted); }
-  .stars a { text-decoration: none; font-size: 1.25rem; padding: 0 3px; filter: grayscale(.6); }
-  .stars a:hover { filter: none; }
-  .done { opacity: .45; }
-  .copied { color: var(--accent); font-size: .85rem; }
-  footer { color: var(--muted); font-size: .8rem; margin-top: 24px; }
+  .settings h2 { font-size: .95rem; margin: 0 0 8px; color: #f2eff6; }
+  .settings p { margin: 6px 0; }
+  .settings a { color: var(--vin-bright); }
+  .settings input {
+    width: 100%; padding: 10px; border-radius: 8px; border: 1px solid var(--line);
+    background: var(--ink); color: #f2eff6; font-size: .9rem; margin: 8px 0;
+  }
+  .settings .row { display: flex; gap: 8px; }
+
+  /* Der Post-Mock: weisse Screenshot-Karte auf farbigem Wash, wie die IG-Grafiken */
+  .slot { padding: 14px; border-radius: 18px; margin-bottom: 18px; }
+  .slot.politisch-aktuell { background: var(--wash-politisch); }
+  .slot.persönlich       { background: var(--wash-persoenlich); }
+  .slot.mitmach          { background: var(--wash-mitmach); }
+  .slot.schnittmenge     { background: var(--wash-schnittmenge); }
+  .slot { animation: rise .45s ease both; }
+  .slot:nth-child(2) { animation-delay: .05s } .slot:nth-child(3) { animation-delay: .1s }
+  .slot:nth-child(4) { animation-delay: .15s } .slot:nth-child(5) { animation-delay: .2s }
+  .slot:nth-child(6) { animation-delay: .25s } .slot:nth-child(7) { animation-delay: .3s }
+  @keyframes rise { from { opacity: 0; transform: translateY(10px); } }
+  @media (prefers-reduced-motion: reduce) { .slot { animation: none; } }
+
+  .post {
+    background: var(--paper); color: var(--paper-text); border-radius: 12px;
+    padding: 14px 16px 10px; box-shadow: 0 10px 24px rgba(0, 0, 0, .25);
+  }
+  .who { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+  .ava {
+    width: 34px; height: 34px; border-radius: 50%; background: var(--vin);
+    color: #fff; display: grid; place-items: center;
+    font-family: Georgia, serif; font-style: italic; font-size: 1.1rem;
+  }
+  .handle { font-size: .85rem; line-height: 1.25; }
+  .handle b { display: block; font-size: .9rem; }
+  .handle span { color: var(--paper-muted); }
+  .posttext { white-space: pre-wrap; font-size: 1.04rem; line-height: 1.45; margin: 0 0 10px; }
+  .posttext .note { color: var(--paper-muted); font-size: .85rem; font-style: italic; }
+  .kicker {
+    font-size: .74rem; color: var(--paper-muted); border-top: 1px solid #eee;
+    padding-top: 8px; letter-spacing: .02em;
+  }
+
+  /* Die Aktionsleiste des Posts ist die Triage */
+  .actions { display: flex; gap: 10px; margin-top: 12px; align-items: center; }
+  .actions button {
+    appearance: none; border: none; border-radius: 999px; padding: 11px 18px;
+    font-size: .95rem; font-weight: 600; cursor: pointer;
+  }
+  .b-take { background: var(--ink); color: #fff; flex: 1; }
+  .b-take:active { transform: scale(.97); }
+  .b-no { background: rgba(0, 0, 0, .28); color: #fff; width: 46px; height: 42px; font-size: 1.05rem; }
+  .stars { display: flex; gap: 2px; margin-left: auto; }
+  .stars button {
+    background: none; padding: 4px 2px; font-size: 1.15rem; filter: grayscale(1) opacity(.55);
+  }
+  .stars button.lit { filter: none; }
+
+  /* Ablehn-Gründe klappen direkt auf */
+  .reasons { display: none; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+  .slot.asking .reasons { display: flex; }
+  .reasons button {
+    appearance: none; border: 1px solid rgba(0, 0, 0, .25); background: rgba(255, 255, 255, .65);
+    color: #222; border-radius: 999px; padding: 8px 13px; font-size: .85rem; cursor: pointer;
+  }
+
+  .slot.done { opacity: .5; }
+  .slot.done .actions, .slot.done .reasons { display: none; }
+  .verdict {
+    display: none; margin-top: 12px; font-size: .88rem; font-weight: 600;
+    color: #222;
+  }
+  .slot.done .verdict { display: block; }
+
+  .toast {
+    position: fixed; left: 50%; bottom: 26px; transform: translateX(-50%);
+    background: #f2eff6; color: var(--ink); border-radius: 999px;
+    padding: 10px 20px; font-size: .9rem; font-weight: 600;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .4); opacity: 0; pointer-events: none;
+    transition: opacity .2s;
+  }
+  .toast.show { opacity: 1; }
+
+  .alldone {
+    text-align: center; padding: 40px 10px; color: var(--cloud);
+    font-family: Georgia, serif; font-style: italic; font-size: 1.15rem;
+  }
+  footer { text-align: center; color: #6d6678; font-size: .78rem; margin-top: 28px; }
   footer a { color: inherit; }
 </style>
 </head>
 <body>
-<header>
-  <h1>jdv Tages-Anstoss</h1>
-  <div class="sub" id="datum"></div>
+<header class="masthead">
+  <div class="eyebrow">jardinduvin</div>
+  <h1>Tages-Anstoss</h1>
+  <div class="dateline" id="dateline"></div>
+  <button class="gear" id="gear" aria-label="Einstellungen">⚙︎</button>
 </header>
-<div id="hinweis" class="hinweis" hidden></div>
-<main id="liste">Lade Vorschläge …</main>
+
+<div class="banner warn" id="tokenbanner" hidden>
+  Feedback wird lokal gesammelt. Damit Ablehnen und Sterne direkt senden,
+  einmalig unter ⚙︎ einen Token hinterlegen.
+</div>
+<div class="banner" id="hinweis" hidden></div>
+
+<section class="settings" id="settings" hidden>
+  <h2>Direkt senden einrichten (einmalig pro Gerät)</h2>
+  <p>1. <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Fine-grained Token erstellen</a>:
+     nur Repo <b>jdv-anstoss</b>, Berechtigung <b>Issues: Read and write</b>, Ablauf 1 Jahr.</p>
+  <p>2. Hier einfügen. Er bleibt nur im Browser dieses Geräts.</p>
+  <input type="password" id="tokeninput" placeholder="github_pat_…" autocomplete="off">
+  <div class="row">
+    <button class="b-take" id="tokensave" style="padding:10px 18px">Speichern</button>
+    <button class="b-no" id="tokendel" title="Token löschen" style="width:auto;padding:10px 14px">Löschen</button>
+  </div>
+</section>
+
+<main id="liste"><div class="alldone">Lade Vorschläge …</div></main>
+
 <footer>
-  Feedback läuft über GitHub-Issues und fliesst in die nächste Ideen-Runde ein.
-  <a id="issuelist" href="#">Offene Rückmeldungen ansehen</a>
+  Genommenes erkennt Claude am nächsten Threads-Abgleich von selbst.
+  <a id="issuelist" href="#">Gesendetes Feedback</a>
 </footer>
+<div class="toast" id="toast"></div>
+
 <script>
 const REPO = 'manuelweingartner/jdv-anstoss';
 document.getElementById('issuelist').href = `https://github.com/${REPO}/issues`;
+const LS_TOKEN = 'jdv_token', LS_STATE = 'jdv_state', LS_QUEUE = 'jdv_queue';
 
-function issueUrl(title, body) {
-  return `https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+const state = JSON.parse(localStorage.getItem(LS_STATE) || '{}');
+const saveState = () => localStorage.setItem(LS_STATE, JSON.stringify(state));
+
+function toast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg; t.classList.add('show');
+  clearTimeout(t._h); t._h = setTimeout(() => t.classList.remove('show'), 1600);
 }
 
-async function copyText(text, note) {
-  try { await navigator.clipboard.writeText(text); }
+async function copyText(text) {
+  const clean = text.replace(/\n?\(.*?\)\s*$/s, '').trim();
+  try { await navigator.clipboard.writeText(clean); }
   catch (e) {
     const ta = document.createElement('textarea');
-    ta.value = text; document.body.appendChild(ta); ta.select();
+    ta.value = clean; document.body.appendChild(ta); ta.select();
     document.execCommand('copy'); ta.remove();
   }
-  if (note) { note.hidden = false; setTimeout(() => { note.hidden = true; }, 1800); }
 }
 
-function card(idee, datum) {
-  const el = document.createElement('article');
-  el.className = 'card';
-  const kurz = idee.stichwort || idee.id;
-
-  const meta = document.createElement('div');
-  meta.className = 'meta';
-  meta.innerHTML = `<span class="chip">${idee.typ || 'Idee'}</span>` +
-    `<span class="chip">${idee.plattform || 'Threads'}</span> ${kurz}`;
-  el.appendChild(meta);
-
-  const p = document.createElement('p');
-  p.className = 'posttext';
-  p.textContent = idee.text;
-  el.appendChild(p);
-
-  const row = document.createElement('div');
-  row.className = 'row';
-
-  const note = document.createElement('span');
-  note.className = 'copied'; note.textContent = 'kopiert'; note.hidden = true;
-
-  const bCopy = document.createElement('button');
-  bCopy.textContent = 'Kopieren';
-  bCopy.onclick = () => copyText(idee.text, note);
-
-  const bOk = document.createElement('a');
-  bOk.className = 'btn btn-ok'; bOk.target = '_blank'; bOk.rel = 'noopener';
-  bOk.textContent = 'Nehm ich';
-  bOk.href = issueUrl(`OK: ${idee.id}`,
-    `Stichwort: ${kurz}\n\nText (ggf. gefeilte Fassung hier einfuegen):\n\n${idee.text}\n\nGepostet auf: `);
-  bOk.onclick = () => copyText(idee.text, note);
-
-  const bNo = document.createElement('a');
-  bNo.className = 'btn btn-no'; bNo.target = '_blank'; bNo.rel = 'noopener';
-  bNo.textContent = 'Ablehnen';
-  bNo.href = issueUrl(`NEIN: ${idee.id}`,
-    `Stichwort: ${kurz}\n\nGrund (kurz, hilft dem Geschmacksmodell):\n- [ ] zu erklaerend\n- [ ] konstruiert / nicht relatable\n- [ ] kein Widerspruch drin\n- [ ] Thema falsch\n- [ ] anders: `);
-
-  row.appendChild(bCopy); row.appendChild(bOk); row.appendChild(bNo); row.appendChild(note);
-  el.appendChild(row);
-
-  const stars = document.createElement('div');
-  stars.className = 'stars';
-  stars.append('Bewerten: ');
-  for (let n = 1; n <= 5; n++) {
-    const a = document.createElement('a');
-    a.href = issueUrl(`RATE ${n}/5: ${idee.id}`, `Stichwort: ${kurz}\nBewertung: ${n}/5\nKommentar (optional): `);
-    a.target = '_blank'; a.rel = 'noopener'; a.textContent = '⭐';
-    a.title = `${n}/5`;
-    stars.appendChild(a);
+async function sendIssue(title, body) {
+  const token = localStorage.getItem(LS_TOKEN);
+  const queue = JSON.parse(localStorage.getItem(LS_QUEUE) || '[]');
+  if (!token) {
+    queue.push({ title, body });
+    localStorage.setItem(LS_QUEUE, JSON.stringify(queue));
+    return 'queued';
   }
-  el.appendChild(stars);
-  return el;
+  try {
+    const r = await fetch(`https://api.github.com/repos/${REPO}/issues`, {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${token}`, Accept: 'application/vnd.github+json' },
+      body: JSON.stringify({ title, body }),
+    });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    return 'sent';
+  } catch (e) {
+    queue.push({ title, body });
+    localStorage.setItem(LS_QUEUE, JSON.stringify(queue));
+    return 'queued';
+  }
 }
+
+async function flushQueue() {
+  const token = localStorage.getItem(LS_TOKEN);
+  if (!token) return;
+  const queue = JSON.parse(localStorage.getItem(LS_QUEUE) || '[]');
+  if (!queue.length) return;
+  localStorage.setItem(LS_QUEUE, '[]');
+  for (const q of queue) await sendIssue(q.title, q.body);
+  toast(`${queue.length} wartende Rückmeldungen gesendet`);
+}
+
+const REASONS = ['zu erklärend', 'konstruiert', 'kein Widerspruch', 'Thema falsch', 'schon gemacht', 'einfach nicht lustig'];
+
+function washClass(typ) {
+  if (/pers/i.test(typ)) return 'persönlich';
+  if (/mitmach/i.test(typ)) return 'mitmach';
+  if (/schnitt/i.test(typ)) return 'schnittmenge';
+  return 'politisch-aktuell';
+}
+
+function markDone(slot, idee, verdictText) {
+  slot.classList.add('done'); slot.classList.remove('asking');
+  slot.querySelector('.verdict').textContent = verdictText;
+  state[idee.id] = verdictText; saveState(); updateDateline();
+}
+
+let total = 0;
+function updateDateline() {
+  const open = total - Object.keys(state).filter(k => k.startsWith(window._datum || '')).length;
+  const d = document.getElementById('dateline');
+  d.innerHTML = `${window._datumFmt || ''} · <b>${Math.max(open, 0)} von ${total} offen</b>`;
+}
+
+function card(idee) {
+  const slot = document.createElement('section');
+  slot.className = `slot ${washClass(idee.typ)}`;
+
+  const post = document.createElement('article');
+  post.className = 'post';
+
+  const noteSplit = idee.text.match(/^([\s\S]*?)(\n?\(.*\))?$/);
+  const mainText = (noteSplit[1] || idee.text).trim();
+  const note = (noteSplit[2] || '').trim();
+
+  post.innerHTML = `
+    <div class="who">
+      <div class="ava">j</div>
+      <div class="handle"><b>jardinduvin</b><span>@jardinduvin · Entwurf</span></div>
+    </div>
+    <p class="posttext"></p>
+    <div class="kicker"></div>
+    <div class="actions">
+      <button class="b-take">Nehmen · kopiert</button>
+      <button class="b-no" aria-label="Ablehnen">✕</button>
+      <div class="stars"></div>
+    </div>
+    <div class="reasons"></div>
+    <div class="verdict"></div>`;
+
+  const pt = post.querySelector('.posttext');
+  pt.textContent = mainText;
+  if (note) {
+    const n = document.createElement('span');
+    n.className = 'note'; n.textContent = '\n\n' + note;
+    pt.appendChild(n);
+  }
+  post.querySelector('.kicker').textContent = `${idee.typ} · ${idee.stichwort} · ${idee.plattform}`;
+
+  post.querySelector('.b-take').onclick = async () => {
+    await copyText(idee.text);
+    toast('Kopiert. Viel Erfolg!');
+    markDone(slot, idee, 'Genommen und kopiert');
+  };
+
+  post.querySelector('.b-no').onclick = () => slot.classList.toggle('asking');
+
+  const reasons = post.querySelector('.reasons');
+  REASONS.forEach(r => {
+    const b = document.createElement('button');
+    b.textContent = r;
+    b.onclick = async () => {
+      markDone(slot, idee, `Abgelehnt: ${r}`);
+      const res = await sendIssue(`NEIN: ${idee.id}`, `Stichwort: ${idee.stichwort}\nGrund: ${r}`);
+      toast(res === 'sent' ? 'Abgelehnt, gesendet' : 'Abgelehnt, wird später gesendet');
+    };
+    reasons.appendChild(b);
+  });
+
+  const stars = post.querySelector('.stars');
+  for (let n = 1; n <= 5; n++) {
+    const b = document.createElement('button');
+    b.textContent = '★'; b.title = `${n}/5`;
+    b.onmouseenter = () => [...stars.children].forEach((s, i) => s.classList.toggle('lit', i < n));
+    b.onclick = async () => {
+      markDone(slot, idee, `Bewertet: ${n}/5`);
+      const res = await sendIssue(`RATE ${n}/5: ${idee.id}`, `Stichwort: ${idee.stichwort}\nBewertung: ${n}/5`);
+      toast(res === 'sent' ? `${n}/5 gesendet` : `${n}/5 wird später gesendet`);
+    };
+    stars.appendChild(b);
+  }
+
+  if (state[idee.id]) markDone(slot, idee, state[idee.id]);
+  slot.appendChild(post);
+  return slot;
+}
+
+/* Einstellungen */
+const settings = document.getElementById('settings');
+document.getElementById('gear').onclick = () => { settings.hidden = !settings.hidden; };
+document.getElementById('tokensave').onclick = () => {
+  const v = document.getElementById('tokeninput').value.trim();
+  if (!v) return;
+  localStorage.setItem(LS_TOKEN, v);
+  document.getElementById('tokeninput').value = '';
+  settings.hidden = true;
+  document.getElementById('tokenbanner').hidden = true;
+  toast('Token gespeichert');
+  flushQueue();
+};
+document.getElementById('tokendel').onclick = () => {
+  localStorage.removeItem(LS_TOKEN); toast('Token gelöscht');
+};
 
 (async () => {
   const liste = document.getElementById('liste');
   try {
     const r = await fetch(`data/ideen.json?t=${Date.now()}`);
     const d = await r.json();
-    document.getElementById('datum').textContent =
-      `Vorschläge vom ${new Date(d.datum).toLocaleDateString('de-CH', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })}`;
-    if (d.hinweis) {
+    window._datum = d.datum;
+    window._datumFmt = new Date(d.datum).toLocaleDateString('de-CH',
+      { weekday: 'long', day: 'numeric', month: 'long' });
+    total = d.ideen.length;
+    if (d.hinweis && !localStorage.getItem(LS_TOKEN)) {
       const h = document.getElementById('hinweis');
       h.textContent = d.hinweis; h.hidden = false;
     }
+    document.getElementById('tokenbanner').hidden = !!localStorage.getItem(LS_TOKEN);
     liste.textContent = '';
-    d.ideen.forEach(i => liste.appendChild(card(i, d.datum)));
+    d.ideen.forEach(i => liste.appendChild(card(i)));
+    updateDateline();
+    const openCount = d.ideen.filter(i => !state[i.id]).length;
+    if (!openCount) {
+      const a = document.createElement('div');
+      a.className = 'alldone'; a.textContent = 'Alles beurteilt. Bis morgen früh.';
+      liste.appendChild(a);
+    }
+    flushQueue();
   } catch (e) {
-    liste.textContent = 'Konnte data/ideen.json nicht laden: ' + e.message;
+    liste.innerHTML = `<div class="alldone">Konnte die Vorschläge nicht laden (${e.message}).</div>`;
   }
 })();
 </script>
