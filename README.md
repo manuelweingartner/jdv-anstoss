@@ -18,8 +18,12 @@ diesem Repo (kein Backend, keine Secrets auf der Seite).
 - Sind alle Vorschläge beurteilt, bietet die Seite zuunterst "20 neue" an,
   optional mit Fokus-Stichwort: das legt ein Issue `MEHR:` (bzw.
   `MEHR: <Stichwort>`) an; der lokale Windows-Task `jdvMehrIdeen`
-  (alle 10 Minuten, nur bei laufendem Laptop) generiert daraufhin eine
-  frische Liste und schliesst das Issue.
+  (alle 2 Minuten, nur bei laufendem Laptop) generiert daraufhin eine
+  frische Liste und schliesst das Issue. Der Knopf zeigt danach die
+  Laufzeit ("Läuft … 2:15"), übersteht einen Reload und verweigert einen
+  zweiten Auftrag, solange einer läuft: mehrere Knopfdrücke erzeugten
+  sonst mehrere Runden, von denen jede die vorige ins Archiv schob.
+  Rechnen mit rund 2 Minuten Wartezeit plus 4 bis 7 Minuten Generierung.
 - Ab 4 Sternen zeigt eine Karte "3 Varianten anfordern" (Issue
   `VARIANTE: <id>`, gleicher Poller, Varianten erscheinen zuoberst).
 - Jede Idee trägt `schaerfe` (breit/mittel/steil, filterbar neben dem Typ)
@@ -27,10 +31,17 @@ diesem Repo (kein Backend, keine Secrets auf der Seite).
   streut der Generator im Hintergrund rotierend ein
   (Format-Bibliothek im lokalen Skill-Ordner, nicht in diesem Repo).
 - Vor jedem Überschreiben wandert die alte Liste nach `data/archiv.json`.
-- `best.html` zeigt alle bewerteten, nicht abgelehnten Vorschläge: Sterne
-  absteigend, Alters-Badge pro Post, Copy-Button, Warnhinweis bei
-  news-gebundenen Ideen ab 3 Tagen. Quellen sind Archiv, Tagesliste, die
-  öffentlichen Issues und der localStorage des Geräts.
+- `best.html` ("Auszählung") zeigt alle bewerteten, noch offenen Vorschläge:
+  Bewertung absteigend, Alter pro Zettel, Warnhinweis bei news-gebundenen
+  Ideen ab 3 Tagen. Pro Zettel **Kopieren, "Nehme ich" und Ablehnen mit
+  Grund** (gleiche Issue-Konvention wie der Anstoss). Genommenes trägt bis
+  zum Neuladen einen Stempel, Abgelehntes verschwindet sofort; beides fällt
+  danach aus der Liste. Quellen sind Archiv, Tagesliste, die öffentlichen
+  Issues und der localStorage des Geräts.
+- Beide Seiten sind als Stimmzettel gebaut: ein Zettel pro Vorschlag,
+  Zettelfarbe = Post-Typ, Bewertung als Kästchenfeld, Entscheide als
+  Stempel. Schriften Archivo (Titel), IBM Plex Sans (Post), IBM Plex Mono
+  (Daten).
 - Issues werden von der nächsten Skill-Sitzung eingelesen (Titelkonvention
   `OK:` / `NEIN:` / `RATE n/5:` plus Ideen-ID), fliessen ins
   Runden-Protokoll/Geschmacksmodell und werden danach geschlossen.

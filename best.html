@@ -4,116 +4,218 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow, noarchive">
-<meta name="theme-color" content="#16131c">
-<title>jdv Beste Vorschläge</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='16' fill='%238a2d3b'/%3E%3Ctext x='16' y='23' text-anchor='middle' font-family='Georgia' font-style='italic' font-size='20' fill='white'%3Ej%3C/text%3E%3C/svg%3E">
+<meta name="theme-color" content="#363a34">
+<title>jdv Auszählung</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23363a34'/%3E%3Crect x='5' y='5' width='22' height='22' fill='none' stroke='%23e3ddc0' stroke-width='2'/%3E%3Cpath d='M10 17l4 4 8-9' fill='none' stroke='%23b3241f' stroke-width='3'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700&family=IBM+Plex+Mono:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --ink: #16131c;
-    --ink-soft: #221d2b;
-    --paper: #fffdf9;
-    --paper-text: #191919;
-    --paper-muted: #75707a;
-    --vin: #8a2d3b;
-    --vin-bright: #c4576a;
-    --cloud: #b9b3c2;
-    --line: rgba(255, 255, 255, .09);
-    --wash-politisch: linear-gradient(135deg, #a9c3b2, #d9c9b8);
-    --wash-persoenlich: linear-gradient(135deg, #d9b8bd, #c9c2dc);
-    --wash-mitmach: linear-gradient(135deg, #b0c4d6, #cfd8b8);
-    --wash-schnittmenge: linear-gradient(135deg, #d6c8a8, #c0b6d0);
+    /* Grund: Linoleum im Gemeindehaus, nicht Papier, nicht Schwarz */
+    --pult: #363a34;
+    --pult-tief: #2b2e28;
+    --ink: #14140f;
+    --stempel: #b3241f;
+    --hell: #e7e4da;
+    /* Zettelfarben: flache Amtstoene, ein Ton pro Typ wie im echten Urnengang */
+    --z-politisch: #e3ddc0;
+    --z-persoenlich: #e5d6d8;
+    --z-mitmach: #cfdad4;
+    --z-schnittmenge: #d6d3e0;
+    --linie: rgba(20, 20, 15, .22);
   }
   * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
-  html { background: var(--ink); }
+  html { background: var(--pult); }
   body {
-    margin: 0; padding: 20px 14px 60px; background: var(--ink); color: var(--cloud);
-    font: 16px/1.5 -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-    max-width: 560px; margin-inline: auto; min-height: 100vh;
+    margin: 0 auto; padding: 22px 14px 70px; max-width: 540px; min-height: 100vh;
+    background: var(--pult); color: var(--hell);
+    font: 400 16px/1.5 "IBM Plex Sans", system-ui, sans-serif;
   }
-  .masthead { text-align: center; margin: 10px 0 26px; }
-  .eyebrow {
-    font-size: .68rem; letter-spacing: .32em; text-transform: uppercase;
-    color: var(--vin-bright); font-weight: 600;
+
+  /* ---------------------------------------------------------------- Kopf */
+  .amt {
+    display: flex; justify-content: space-between; align-items: baseline;
+    font: 500 .68rem/1 "IBM Plex Mono", monospace;
+    letter-spacing: .16em; text-transform: uppercase;
+    color: #a8a99c; padding-bottom: 7px; border-bottom: 1px solid rgba(255,255,255,.16);
   }
   h1 {
-    font-family: Didot, "Bodoni MT", "Playfair Display", Georgia, serif;
-    font-style: italic; font-weight: 500; font-size: 2.1rem;
-    margin: 2px 0 6px; color: #f2eff6; letter-spacing: .01em;
+    font: 700 2.35rem/1 "Archivo", system-ui, sans-serif;
+    letter-spacing: -.02em; text-transform: uppercase;
+    margin: 14px 0 0; color: #f4f2e9;
   }
-  .dateline { font-size: .82rem; color: var(--cloud); }
+  .lead {
+    font: 400 .84rem/1.45 "IBM Plex Mono", monospace;
+    color: #a8a99c; margin: 8px 0 22px;
+  }
+  .lead b { color: var(--hell); font-weight: 500; }
 
-  .slot { padding: 14px; border-radius: 18px; margin-bottom: 18px; }
-  .slot.politisch-aktuell { background: var(--wash-politisch); }
-  .slot.persönlich       { background: var(--wash-persoenlich); }
-  .slot.mitmach          { background: var(--wash-mitmach); }
-  .slot.schnittmenge     { background: var(--wash-schnittmenge); }
+  /* -------------------------------------------------------------- Zettel */
+  .zettel {
+    position: relative; background: var(--z-politisch); color: var(--ink);
+    border: 1px solid var(--ink); box-shadow: 6px 6px 0 rgba(0,0,0,.3);
+    padding: 12px 14px 14px; margin-bottom: 26px;
+    transition: max-height .3s ease, opacity .3s ease, margin .3s ease;
+    max-height: 1200px;
+  }
+  .zettel.typ-persoenlich   { background: var(--z-persoenlich); }
+  .zettel.typ-mitmach       { background: var(--z-mitmach); }
+  .zettel.typ-schnittmenge  { background: var(--z-schnittmenge); }
 
-  .post {
-    background: var(--paper); color: var(--paper-text); border-radius: 12px;
-    padding: 14px 16px 12px; box-shadow: 0 10px 24px rgba(0, 0, 0, .25);
+  .z-kopf {
+    display: flex; justify-content: space-between; gap: 10px; align-items: baseline;
+    font: 500 .66rem/1 "IBM Plex Mono", monospace;
+    letter-spacing: .13em; text-transform: uppercase; color: #5d5a4e;
+    border-bottom: 1px solid var(--linie); padding-bottom: 7px;
   }
-  .topline { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
-  .starsline { color: #d9a400; font-size: 1.05rem; letter-spacing: .06em; }
-  .starsline span { color: #ccc; }
-  .age {
-    margin-left: auto; font-size: .74rem; font-weight: 600; border-radius: 999px;
-    padding: 3px 10px; background: #efece7; color: #6d6678;
+  .z-band {
+    display: flex; align-items: center; gap: 9px; margin: 9px 0 11px;
+    font: 500 .64rem/1 "IBM Plex Mono", monospace;
+    letter-spacing: .13em; text-transform: uppercase; color: #5d5a4e;
   }
-  .age.frisch { background: var(--vin); color: #fff; }
-  .warnchip {
-    font-size: .74rem; font-weight: 600; border-radius: 999px;
-    padding: 3px 10px; background: #f3dcd4; color: #9c4a2e;
+  .kaestchen { display: inline-flex; gap: 3px; }
+  .kaestchen i {
+    width: 11px; height: 11px; border: 1px solid var(--ink); display: block;
   }
-  .posttext { white-space: pre-wrap; font-size: 1.04rem; line-height: 1.45; margin: 0 0 10px; }
-  .posttext .note { color: var(--paper-muted); font-size: .85rem; font-style: italic; }
-  .kicker {
-    font-size: .74rem; color: var(--paper-muted); border-top: 1px solid #eee;
-    padding-top: 8px; letter-spacing: .02em;
+  .kaestchen i.voll { background: var(--ink); }
+  .z-alter { margin-left: auto; color: var(--ink); }
+  .z-alter.frisch {
+    background: var(--ink); color: var(--z-politisch); padding: 3px 7px;
   }
-  .actions { margin-top: 10px; }
-  .b-copy {
-    appearance: none; border: none; border-radius: 999px; padding: 10px 18px;
-    background: var(--ink); color: #fff; font-size: .92rem; font-weight: 600;
-    cursor: pointer; width: 100%;
+  .warnung {
+    display: block; margin: 0 0 10px; padding: 6px 8px;
+    border-left: 3px solid var(--stempel);
+    font: 500 .7rem/1.35 "IBM Plex Mono", monospace;
+    letter-spacing: .06em; text-transform: uppercase; color: #8d2a20;
   }
-  .b-copy:active { transform: scale(.98); }
 
-  .empty {
-    text-align: center; padding: 40px 10px; color: var(--cloud);
-    font-family: Georgia, serif; font-style: italic; font-size: 1.15rem;
+  .z-text {
+    white-space: pre-wrap; font-size: 1.06rem; line-height: 1.5;
+    margin: 0 0 12px; color: var(--ink);
+  }
+  .z-text .note {
+    display: block; margin-top: 10px; color: #5d5a4e;
+    font: 400 .82rem/1.4 "IBM Plex Mono", monospace;
+  }
+  .z-daten {
+    border-top: 1px solid var(--linie); padding-top: 8px;
+    font: 400 .68rem/1.4 "IBM Plex Mono", monospace;
+    color: #5d5a4e; word-break: break-word;
+  }
+
+  /* ------------------------------------------------------------ Abstimmen */
+  .z-vote { display: flex; gap: 7px; margin-top: 12px; }
+  .z-vote button {
+    appearance: none; border: 1px solid var(--ink); border-radius: 0;
+    background: transparent; color: var(--ink); cursor: pointer;
+    font: 700 .76rem/1 "Archivo", system-ui, sans-serif;
+    letter-spacing: .1em; text-transform: uppercase; padding: 12px 10px;
+  }
+  .z-vote .v-ja { background: var(--ink); color: var(--hell); flex: 1 1 auto; }
+  .z-vote .v-kopie { flex: 0 0 auto; }
+  .z-vote .v-nein {
+    flex: 0 0 auto; border-color: var(--stempel); color: var(--stempel);
+    padding-inline: 14px;
+  }
+  .z-vote button:active { transform: translate(1px, 1px); }
+  .z-vote button:focus-visible, .z-gruende button:focus-visible {
+    outline: 2px solid var(--stempel); outline-offset: 2px;
+  }
+
+  .z-gruende { display: none; gap: 6px; flex-wrap: wrap; margin-top: 10px; }
+  .zettel.fragt .z-gruende { display: flex; }
+  .zettel.fragt .z-vote { display: none; }
+  .z-gruende .titel {
+    flex: 1 0 100%; font: 500 .64rem/1 "IBM Plex Mono", monospace;
+    letter-spacing: .13em; text-transform: uppercase; color: #5d5a4e;
+    margin-bottom: 2px;
+  }
+  .z-gruende button {
+    appearance: none; border: 1px dashed var(--ink); border-radius: 0;
+    background: transparent; color: var(--ink); cursor: pointer;
+    font: 400 .78rem/1 "IBM Plex Sans", sans-serif; padding: 9px 11px;
+  }
+
+  /* --------------------------------------------------------- Stempel, weg */
+  /* Der Stempel steht in der Zeile, in der die Knoepfe standen: frei
+     positioniert deckte er den Post-Text ab. */
+  .z-fuss { display: none; justify-content: flex-end; margin: 14px 6px 2px 0; }
+  .zettel.genommen .z-fuss { display: flex; }
+  .stempel {
+    transform: rotate(-7deg); padding: 6px 12px;
+    border: 2px solid var(--stempel); outline: 1px solid var(--stempel);
+    outline-offset: 2px; color: var(--stempel); opacity: .9;
+    font: 700 .8rem/1.15 "IBM Plex Mono", monospace;
+    letter-spacing: .18em; text-transform: uppercase; text-align: center;
+    pointer-events: none;
+  }
+  .stempel span { display: block; font-weight: 400; letter-spacing: .1em; }
+  .zettel.genommen .stempel { animation: druck .16s ease-out; }
+  .zettel.genommen .z-vote, .zettel.genommen .z-gruende { display: none; }
+  /* Spitzenzettel: 5 von 5 tragen eine schwere Oberkante, damit die Rangfolge
+     schon beim Scrollen sichtbar ist. */
+  .zettel.spitze { border-top-width: 7px; }
+  @keyframes druck {
+    from { transform: rotate(-7deg) scale(1.5); opacity: 0; }
+    to   { transform: rotate(-7deg) scale(1); opacity: .9; }
+  }
+  .zettel.weg {
+    max-height: 0; opacity: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0;
+    overflow: hidden; border-width: 0;
+  }
+
+  /* ----------------------------------------------------------- Randnotizen */
+  .leer {
+    border: 1px dashed rgba(255,255,255,.3); padding: 32px 18px; text-align: center;
+    font: 400 .9rem/1.5 "IBM Plex Mono", monospace; color: #a8a99c;
   }
   .toast {
-    position: fixed; left: 50%; bottom: 26px; transform: translateX(-50%);
-    background: #f2eff6; color: var(--ink); border-radius: 999px;
-    padding: 10px 20px; font-size: .9rem; font-weight: 600;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, .4); opacity: 0; pointer-events: none;
-    transition: opacity .2s;
+    position: fixed; left: 50%; bottom: 22px; transform: translateX(-50%);
+    background: var(--hell); color: var(--ink); border: 1px solid var(--ink);
+    padding: 11px 18px; font: 500 .82rem/1 "IBM Plex Mono", monospace;
+    letter-spacing: .04em; opacity: 0; pointer-events: none;
+    transition: opacity .18s; max-width: 92vw; text-align: center;
   }
   .toast.show { opacity: 1; }
-  footer { text-align: center; color: #6d6678; font-size: .78rem; margin-top: 28px; }
-  footer a { color: inherit; }
+  footer {
+    margin-top: 30px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,.16);
+    font: 400 .72rem/1.5 "IBM Plex Mono", monospace;
+    letter-spacing: .06em; text-transform: uppercase; color: #a8a99c;
+  }
+  footer a { color: var(--hell); text-decoration: none; border-bottom: 1px solid var(--stempel); }
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; transition: none !important; }
+  }
 </style>
 </head>
 <body>
-<header class="masthead">
-  <div class="eyebrow">jardinduvin</div>
-  <h1>Beste Vorschläge</h1>
-  <div class="dateline" id="dateline">Bewertet, nicht abgelehnt, Sterne zuerst.</div>
+<header>
+  <div class="amt"><span>jardinduvin</span><span id="stand">lädt</span></div>
+  <h1>Auszählung</h1>
+  <p class="lead" id="dateline">Angenommene Zettel, nach Bewertung geordnet.</p>
 </header>
 
-<main id="liste"><div class="empty">Lade Bewertungen …</div></main>
+<main id="liste"><div class="leer">Zettel werden ausgezählt …</div></main>
 
-<footer><a href="index.html">← zurück zum Tages-Anstoss</a></footer>
+<footer>
+  Genommenes und Abgelehntes fällt aus der Liste.
+  <a href="index.html">← zurück zum Anstoss</a>
+</footer>
 <div class="toast" id="toast"></div>
 
 <script>
 const REPO = 'manuelweingartner/jdv-anstoss';
-const LS_STATE = 'jdv_state';
+const LS_STATE = 'jdv_state', LS_TOKEN = 'jdv_token', LS_QUEUE = 'jdv_queue';
+const REASONS = ['zu erklärend', 'konstruiert', 'kein Widerspruch', 'Thema falsch', 'schon gemacht', 'einfach nicht lustig'];
+
+const lokal = JSON.parse(localStorage.getItem(LS_STATE) || '{}');
+const saveLokal = () => localStorage.setItem(LS_STATE, JSON.stringify(lokal));
 
 function toast(msg) {
   const t = document.getElementById('toast');
   t.textContent = msg; t.classList.add('show');
-  clearTimeout(t._h); t._h = setTimeout(() => t.classList.remove('show'), 1600);
+  clearTimeout(t._h); t._h = setTimeout(() => t.classList.remove('show'), 1900);
 }
 
 async function copyText(text) {
@@ -133,11 +235,36 @@ async function copyText(text) {
   } catch (e) { return false; }
 }
 
-function washClass(typ) {
-  if (/pers/i.test(typ)) return 'persönlich';
-  if (/mitmach/i.test(typ)) return 'mitmach';
-  if (/schnitt/i.test(typ)) return 'schnittmenge';
-  return 'politisch-aktuell';
+/* Gleiche Mechanik wie auf dem Anstoss: ohne Token wandert die Meldung in die
+   localStorage-Queue und geht beim naechsten Besuch mit Token raus. */
+async function sendIssue(title, body) {
+  const token = localStorage.getItem(LS_TOKEN);
+  const queue = JSON.parse(localStorage.getItem(LS_QUEUE) || '[]');
+  if (!token) {
+    queue.push({ title, body });
+    localStorage.setItem(LS_QUEUE, JSON.stringify(queue));
+    return 'queued';
+  }
+  try {
+    const r = await fetch(`https://api.github.com/repos/${REPO}/issues`, {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${token}`, Accept: 'application/vnd.github+json' },
+      body: JSON.stringify({ title, body }),
+    });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    return 'sent';
+  } catch (e) {
+    queue.push({ title, body });
+    localStorage.setItem(LS_QUEUE, JSON.stringify(queue));
+    return 'queued';
+  }
+}
+
+function typKlasse(typ) {
+  if (/pers/i.test(typ)) return 'typ-persoenlich';
+  if (/mitmach/i.test(typ)) return 'typ-mitmach';
+  if (/schnitt/i.test(typ)) return 'typ-schnittmenge';
+  return 'typ-politisch';
 }
 
 /* Alle je generierten Ideen: Archiv + aktuelle Tagesliste */
@@ -154,9 +281,9 @@ async function loadIdeen() {
   return all;
 }
 
-/* Bewertungen: öffentliche Issues (RATE/NEIN), neueste zuerst geliefert */
+/* Bewertungen: oeffentliche Issues (RATE/NEIN/OK), neueste zuerst geliefert */
 async function loadFeedback() {
-  const rating = new Map(), rejected = new Set();
+  const rating = new Map(), rejected = new Set(), genommen = new Set();
   for (let page = 1; page <= 5; page++) {
     const r = await fetch(`https://api.github.com/repos/${REPO}/issues?state=all&per_page=100&page=${page}`,
       { headers: { Accept: 'application/vnd.github+json' } });
@@ -167,74 +294,133 @@ async function loadFeedback() {
       if (m && !rating.has(m[2])) rating.set(m[2], +m[1]);
       m = it.title.match(/^NEIN: (\S+)/);
       if (m) rejected.add(m[1]);
+      m = it.title.match(/^OK: (\S+)/);
+      if (m) genommen.add(m[1]);
     }
     if (items.length < 100) break;
   }
-  return { rating, rejected };
+  return { rating, rejected, genommen };
 }
 
-function ageLabel(datum) {
-  const days = Math.round((new Date().setHours(0,0,0,0) - new Date(datum).setHours(0,0,0,0)) / 86400000);
-  if (days <= 0) return { text: 'heute', frisch: true };
-  if (days === 1) return { text: 'gestern', frisch: false };
-  return { text: `vor ${days} Tagen`, frisch: false };
+function alter(datum) {
+  const tage = Math.round((new Date().setHours(0,0,0,0) - new Date(datum).setHours(0,0,0,0)) / 86400000);
+  if (tage <= 0) return { text: 'heute', frisch: true, tage: 0 };
+  if (tage === 1) return { text: 'gestern', frisch: false, tage: 1 };
+  return { text: `vor ${tage} Tagen`, frisch: false, tage };
 }
 
-function card(idee, sterne) {
-  const slot = document.createElement('section');
-  slot.className = `slot ${washClass(idee.typ)}`;
-  const post = document.createElement('article');
-  post.className = 'post';
+function zettel(idee, sterne) {
+  const el = document.createElement('section');
+  el.className = `zettel ${typKlasse(idee.typ)}`;
 
-  const noteSplit = idee.text.match(/^([\s\S]*?)(\n?\(.*\))?$/);
-  const mainText = (noteSplit[1] || idee.text).trim();
-  const note = (noteSplit[2] || '').trim();
-  const age = ageLabel(idee.datum);
+  const split = idee.text.match(/^([\s\S]*?)(\n?\(.*\))?$/);
+  const haupt = (split[1] || idee.text).trim();
+  const note = (split[2] || '').trim();
+  const a = alter(idee.datum);
   const datumFmt = new Date(idee.datum).toLocaleDateString('de-CH',
-    { day: 'numeric', month: 'long', year: 'numeric' });
+    { day: '2-digit', month: '2-digit', year: 'numeric' });
+  const nr = String(idee.id).split('-').slice(-2).join('-');
 
-  post.innerHTML = `
-    <div class="topline">
-      <div class="starsline">${'★'.repeat(sterne)}<span>${'★'.repeat(5 - sterne)}</span></div>
-      <div class="age"></div>
+  el.innerHTML = `
+    <div class="z-kopf">
+      <span>Zettel ${nr}</span>
+      <span>${idee.typ || 'politisch-aktuell'}</span>
     </div>
-    <p class="posttext"></p>
-    <div class="kicker"></div>
-    <div class="actions"><button class="b-copy">Post kopieren</button></div>`;
+    <div class="z-band">
+      <span>Bewertung</span>
+      <span class="kaestchen"></span>
+      <span class="z-alter"></span>
+    </div>
+    <p class="z-text"></p>
+    <div class="z-daten"></div>
+    <div class="z-vote">
+      <button class="v-ja">Nehme ich</button>
+      <button class="v-kopie">Kopieren</button>
+      <button class="v-nein" aria-label="Ablehnen">Nein</button>
+    </div>
+    <div class="z-gruende"><span class="titel">Grund</span></div>
+    <div class="z-fuss"><div class="stempel">Genommen<span></span></div></div>`;
+  if (sterne >= 5) el.classList.add('spitze');
 
-  const ageEl = post.querySelector('.age');
-  ageEl.textContent = age.text;
-  if (age.frisch) ageEl.classList.add('frisch');
+  const kaestchen = el.querySelector('.kaestchen');
+  for (let n = 1; n <= 5; n++) {
+    const i = document.createElement('i');
+    if (n <= sterne) i.className = 'voll';
+    kaestchen.appendChild(i);
+  }
 
-  /* News-gebundene Ideen veralten: ab 3 Tagen warnen. Alte Einträge ohne
-     haltbarkeit-Feld gelten als tagesgebunden, ausser persönlich/mitmach. */
+  const alterEl = el.querySelector('.z-alter');
+  alterEl.textContent = a.text;
+  if (a.frisch) alterEl.classList.add('frisch');
+
+  /* News-gebundene Ideen veralten: ab 3 Tagen warnen. Alte Eintraege ohne
+     haltbarkeit-Feld gelten als tagesgebunden, ausser persoenlich/mitmach. */
   const halt = idee.haltbarkeit
     || (/pers|mitmach/i.test(idee.typ) ? 'evergreen' : 'tagesgebunden');
-  const tage = Math.round((new Date().setHours(0,0,0,0) - new Date(idee.datum).setHours(0,0,0,0)) / 86400000);
-  if (halt === 'tagesgebunden' && tage >= 3) {
-    const w = document.createElement('div');
-    w.className = 'warnchip';
-    w.textContent = 'News-gebunden, prüfen ob noch aktuell';
-    ageEl.before(w);
+  if (halt === 'tagesgebunden' && a.tage >= 3) {
+    const w = document.createElement('span');
+    w.className = 'warnung';
+    w.textContent = 'News-gebunden, vor dem Posten auf Aktualität prüfen';
+    el.querySelector('.z-text').before(w);
   }
 
-  const pt = post.querySelector('.posttext');
-  pt.textContent = mainText;
+  const txt = el.querySelector('.z-text');
+  txt.textContent = haupt;
   if (note) {
     const n = document.createElement('span');
-    n.className = 'note'; n.textContent = '\n\n' + note;
-    pt.appendChild(n);
+    n.className = 'note'; n.textContent = note;
+    txt.appendChild(n);
   }
-  post.querySelector('.kicker').textContent =
-    `${idee.typ} · ${idee.stichwort} · ${datumFmt}`;
+  el.querySelector('.z-daten').textContent =
+    [idee.id, idee.stichwort, idee.plattform, datumFmt].filter(Boolean).join(' · ');
 
-  post.querySelector('.b-copy').onclick = async () => {
+  el.querySelector('.v-kopie').onclick = async () => {
     const ok = await copyText(idee.text);
-    toast(ok ? 'Kopiert' : 'Kopieren blockiert, bitte manuell markieren');
+    toast(ok ? 'Kopiert' : 'Kopieren blockiert, Text bitte markieren');
   };
 
-  slot.appendChild(post);
-  return slot;
+  el.querySelector('.v-ja').onclick = async () => {
+    const zeit = new Date().toLocaleTimeString('de-CH', { hour: '2-digit', minute: '2-digit' });
+    el.querySelector('.stempel span').textContent = zeit;
+    el.classList.add('genommen');
+    const st = lokal[idee.id] = lokal[idee.id] || { v: null, r: sterne };
+    st.v = 'Genommen und kopiert'; saveLokal();
+    const ok = await copyText(idee.text);
+    const res = await sendIssue(`OK: ${idee.id}`,
+      `Stichwort: ${idee.stichwort}\nPlattform: ${idee.plattform}\nAus der Auszählung genommen.`);
+    toast(ok
+      ? (res === 'sent' ? 'Kopiert und gemeldet. Viel Erfolg!' : 'Kopiert. Meldung wartet auf Token.')
+      : 'Gestempelt. Kopieren blockiert, Text bitte markieren.');
+  };
+
+  el.querySelector('.v-nein').onclick = () => el.classList.toggle('fragt');
+
+  const gruende = el.querySelector('.z-gruende');
+  REASONS.forEach(grund => {
+    const b = document.createElement('button');
+    b.textContent = grund;
+    b.onclick = async () => {
+      const st = lokal[idee.id] = lokal[idee.id] || { v: null, r: sterne };
+      st.v = `Abgelehnt: ${grund}`; saveLokal();
+      el.classList.add('weg');
+      setTimeout(() => { el.remove(); zaehlen(); }, 320);
+      const res = await sendIssue(`NEIN: ${idee.id}`,
+        `Stichwort: ${idee.stichwort}\nGrund: ${grund}\nAus der Auszählung abgelehnt.`);
+      toast(res === 'sent' ? 'Abgelehnt, gesendet' : 'Abgelehnt, wird später gesendet');
+    };
+    gruende.appendChild(b);
+  });
+
+  return el;
+}
+
+function zaehlen() {
+  const n = document.querySelectorAll('#liste .zettel').length;
+  document.getElementById('stand').textContent = `${n} Zettel`;
+  if (!n) {
+    document.getElementById('liste').innerHTML =
+      '<div class="leer">Alles abgeräumt. Neue Bewertungen entstehen auf dem Anstoss.</div>';
+  }
 }
 
 (async () => {
@@ -242,29 +428,32 @@ function card(idee, sterne) {
   try {
     const [ideen, fb] = await Promise.all([loadIdeen(), loadFeedback()]);
 
-    /* Lokalen Stand desselben Geräts einmischen: deckt Wartendes ohne Token ab */
-    const local = JSON.parse(localStorage.getItem(LS_STATE) || '{}');
-    Object.entries(local).forEach(([id, st]) => {
+    /* Lokalen Stand desselben Geraets einmischen: deckt Wartendes ohne Token ab */
+    Object.entries(lokal).forEach(([id, st]) => {
       if (!st || typeof st !== 'object') return;
       if (st.r && !fb.rating.has(id)) fb.rating.set(id, st.r);
       if (st.v && /^Abgelehnt/.test(st.v)) fb.rejected.add(id);
+      if (st.v && /^Genommen/.test(st.v)) fb.genommen.add(id);
     });
 
     const best = [...fb.rating.entries()]
-      .filter(([id, r]) => r > 0 && !fb.rejected.has(id) && ideen.has(id))
+      .filter(([id, r]) => r > 0 && !fb.rejected.has(id) && !fb.genommen.has(id) && ideen.has(id))
       .map(([id, r]) => ({ idee: ideen.get(id), sterne: r }))
       .sort((a, b) => b.sterne - a.sterne || b.idee.datum.localeCompare(a.idee.datum));
 
     liste.textContent = '';
     if (!best.length) {
-      liste.innerHTML = '<div class="empty">Noch nichts bewertet. Sterne vergeben auf dem Tages-Anstoss, dann sammelt sich hier das Beste.</div>';
+      liste.innerHTML = '<div class="leer">Noch nichts bewertet. Sterne vergibst du auf dem Anstoss, hier sammelt sich das Beste.</div>';
+      document.getElementById('stand').textContent = '0 Zettel';
       return;
     }
+    const schnitt = (best.reduce((s, b) => s + b.sterne, 0) / best.length).toFixed(1);
     document.getElementById('dateline').innerHTML =
-      `<b>${best.length}</b> ${best.length === 1 ? 'bewerteter Vorschlag' : 'bewertete Vorschläge'} · Sterne zuerst, Alter am Post`;
-    best.forEach(({ idee, sterne }) => liste.appendChild(card(idee, sterne)));
+      `<b>${best.length}</b> offene Zettel · Schnitt <b>${schnitt}</b> von 5`;
+    best.forEach(({ idee, sterne }) => liste.appendChild(zettel(idee, sterne)));
+    zaehlen();
   } catch (e) {
-    liste.innerHTML = `<div class="empty">Konnte die Bewertungen nicht laden (${e.message}). Später nochmal versuchen.</div>`;
+    liste.innerHTML = `<div class="leer">Bewertungen nicht geladen (${e.message}). Seite neu laden.</div>`;
   }
 })();
 </script>
