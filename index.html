@@ -4,253 +4,213 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow, noarchive">
-<meta name="theme-color" content="#363a34">
+<meta name="theme-color" content="#ebebe8">
 <title>jdv Tages-Anstoss</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23363a34'/%3E%3Crect x='5' y='5' width='22' height='22' fill='none' stroke='%23e3ddc0' stroke-width='2'/%3E%3Cpath d='M10 17l4 4 8-9' fill='none' stroke='%23b3241f' stroke-width='3'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23ebebe8'/%3E%3Crect x='4' y='7' width='24' height='2.5' fill='%2316181a'/%3E%3Crect x='4' y='14' width='24' height='2.5' fill='%2316181a'/%3E%3Crect x='4' y='21' width='14' height='2.5' fill='%23a41f1a'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700&family=IBM+Plex+Mono:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
+  /* Redaktionsliste: ein Werkzeug, keine Publikation. Eine Schriftfamilie,
+     Trennlinien statt Karten, kein Kopfbereich ausser der Statuszeile. */
   :root {
-    /* Grund: Linoleum im Gemeindehaus, nicht Papier, nicht Schwarz */
-    --pult: #363a34;
-    --pult-tief: #2b2e28;
-    --ink: #14140f;
-    --stempel: #b3241f;
-    --hell: #e7e4da;
-    --grau: #a8a99c;
-    /* Zettelfarben: flache Amtstoene, ein Ton pro Typ wie im echten Urnengang */
-    --z-politisch: #e3ddc0;
-    --z-persoenlich: #e5d6d8;
-    --z-mitmach: #cfdad4;
-    --z-schnittmenge: #d6d3e0;
-    --linie: rgba(20, 20, 15, .22);
+    --grund: #ebebe8;
+    --tinte: #16181a;
+    --matt: #6b6f73;
+    --linie: rgba(0, 0, 0, .16);
+    --nein: #a41f1a;
+    --t-politisch: #2b5d8a;
+    --t-schnittmenge: #8a6d1f;
+    --t-persoenlich: #7a3f6d;
+    --t-remix: #3f7a6a;
+    --t-mitmach: #6b6f73;
   }
   * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
-  html { background: var(--pult); }
+  html { background: var(--grund); }
   body {
-    margin: 0 auto; padding: 22px 14px 70px; max-width: 540px; min-height: 100vh;
-    background: var(--pult); color: var(--hell);
-    font: 400 16px/1.5 "IBM Plex Sans", system-ui, sans-serif;
+    margin: 0 auto; padding: 0 13px 60px; max-width: 620px;
+    background: var(--grund); color: var(--tinte);
+    font: 400 15.5px/1.65 "IBM Plex Mono", ui-monospace, monospace;
   }
 
-  /* ------------------------------------------------------------------ Kopf */
-  .amt {
-    display: flex; justify-content: space-between; align-items: center;
-    font: 500 .68rem/1 "IBM Plex Mono", monospace;
-    letter-spacing: .16em; text-transform: uppercase; color: var(--grau);
-    padding-bottom: 7px; border-bottom: 1px solid rgba(255,255,255,.16);
+  /* -------------------------------------------------------------- Statuszeile */
+  .status {
+    position: sticky; top: 0; z-index: 20; background: var(--grund);
+    display: flex; align-items: center; gap: 8px;
+    padding: 11px 0 9px; border-bottom: 1px solid var(--tinte);
+    font-size: .74rem; letter-spacing: .04em; color: var(--matt);
   }
-  .werkzeug { display: flex; gap: 6px; }
-  .werkzeug button {
-    appearance: none; width: 30px; height: 30px; cursor: pointer;
-    border: 1px solid rgba(255,255,255,.28); background: transparent;
-    color: var(--hell); font-size: .95rem; line-height: 1; border-radius: 0;
+  .status > span:first-child { white-space: nowrap; }
+  .status b { color: var(--tinte); font-weight: 600; }
+  .status .werkzeug { margin-left: auto; display: flex; gap: 4px; flex: 0 0 auto; }
+  .status button {
+    appearance: none; border: 1px solid var(--linie); background: transparent;
+    color: var(--tinte); width: 27px; height: 27px; cursor: pointer;
+    border-radius: 0; font-size: .8rem; line-height: 1;
   }
-  .werkzeug button:active { transform: translate(1px, 1px); }
-  h1 {
-    font: 700 clamp(1.7rem, 8.5vw, 2.35rem)/1 "Archivo", system-ui, sans-serif;
-    letter-spacing: -.02em; text-transform: uppercase;
-    margin: 14px 0 0; color: #f4f2e9;
+  .status button:active { transform: translate(1px, 1px); }
+  /* Tastatur-Hinweis nur, wo es eine Tastatur gibt UND Platz ist */
+  .tasten {
+    display: none; font-size: .68rem; color: var(--matt);
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   }
-  .dateline {
-    font: 400 .84rem/1.45 "IBM Plex Mono", monospace;
-    color: var(--grau); margin: 8px 0 20px;
-  }
-  .dateline b { color: var(--hell); font-weight: 500; }
+  @media (pointer: fine) and (min-width: 560px) { .tasten { display: inline; } }
 
+  .zeile {
+    display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+    padding: 9px 0; border-bottom: 1px solid var(--linie);
+    font-size: .72rem; letter-spacing: .04em; color: var(--matt);
+  }
+  .zeile button {
+    appearance: none; border: none; background: transparent; cursor: pointer;
+    color: var(--matt); font: inherit; padding: 2px 0;
+    border-bottom: 1px solid transparent;
+  }
+  .zeile button.on { color: var(--tinte); border-bottom-color: var(--nein); }
   .banner {
-    border: 1px solid rgba(255,255,255,.2); border-left: 3px solid var(--grau);
-    padding: 10px 13px; margin-bottom: 16px; color: var(--grau);
-    font: 400 .82rem/1.45 "IBM Plex Mono", monospace;
+    padding: 10px 0 11px; border-bottom: 1px solid var(--linie);
+    font-size: .76rem; line-height: 1.5; color: var(--matt);
   }
-  .banner.warn { border-left-color: var(--stempel); }
+  .banner.warn { color: var(--nein); }
 
-  /* ------------------------------------------------------------ Auswahlband */
-  .filterbar { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 18px; }
-  .filterbar button {
-    appearance: none; border: 1px solid rgba(255,255,255,.28); border-radius: 0;
-    background: transparent; color: var(--grau); cursor: pointer;
-    font: 500 .68rem/1 "IBM Plex Mono", monospace;
-    letter-spacing: .1em; text-transform: uppercase; padding: 8px 11px;
-  }
-  .filterbar button.on { background: var(--hell); border-color: var(--hell); color: var(--ink); }
-  .slot.gefiltert { display: none; }
-
-  /* --------------------------------------------------------- Einstellungen */
+  /* ---------------------------------------------------------- Einstellungen */
   .settings {
-    border: 1px solid rgba(255,255,255,.2); padding: 14px; margin-bottom: 18px;
-    font: 400 .84rem/1.5 "IBM Plex Mono", monospace; color: var(--grau);
+    padding: 12px 0 14px; border-bottom: 1px solid var(--linie);
+    font-size: .78rem; line-height: 1.6; color: var(--matt);
   }
-  .settings h2 {
-    font: 700 .8rem/1.2 "Archivo", sans-serif; letter-spacing: .1em;
-    text-transform: uppercase; margin: 0 0 10px; color: var(--hell);
-  }
-  .settings p { margin: 6px 0; }
-  .settings a { color: var(--hell); }
+  .settings h2 { font: 600 .78rem/1.4 inherit; margin: 0 0 6px; color: var(--tinte); }
+  .settings p { margin: 4px 0; }
+  .settings a { color: var(--tinte); }
   .settings input {
-    width: 100%; padding: 10px; border-radius: 0; border: 1px solid rgba(255,255,255,.28);
-    background: var(--pult-tief); color: var(--hell); margin: 10px 0;
-    font: 400 .84rem/1 "IBM Plex Mono", monospace;
+    width: 100%; padding: 9px 10px; margin: 9px 0; border-radius: 0;
+    border: 1px solid var(--tinte); background: #fff; color: var(--tinte);
+    font: inherit;
   }
-  .settings .row { display: flex; gap: 8px; }
-  .settings .row button {
-    appearance: none; border: 1px solid var(--hell); border-radius: 0; cursor: pointer;
-    font: 700 .74rem/1 "Archivo", sans-serif; letter-spacing: .1em;
-    text-transform: uppercase; padding: 11px 16px;
-    background: var(--hell); color: var(--ink);
-  }
-  .settings .row button#tokendel {
-    background: transparent; border-color: var(--stempel); color: #e0837a;
-  }
+  .settings .row { display: flex; gap: 6px; }
 
-  /* ---------------------------------------------------------------- Zettel */
-  .slot {
-    position: relative; background: var(--z-politisch); color: var(--ink);
-    border: 1px solid var(--ink); box-shadow: 6px 6px 0 rgba(0,0,0,.3);
-    padding: 12px 14px 14px; margin-bottom: 26px;
+  /* ------------------------------------------------------------------ Zeilen */
+  .slot { padding: 15px 0 16px; border-bottom: 1px solid var(--linie); }
+  .slot.gefiltert { display: none; }
+  .slot.weg {
+    max-height: 0; padding: 0; opacity: 0; overflow: hidden; border-width: 0;
+    transition: max-height .26s ease, opacity .2s ease, padding .26s ease;
   }
-  .slot.persönlich      { background: var(--z-persoenlich); }
-  .slot.mitmach         { background: var(--z-mitmach); }
-  .slot.schnittmenge    { background: var(--z-schnittmenge); }
+  .kopf {
+    display: flex; align-items: center; gap: 7px;
+    font-size: .7rem; letter-spacing: .09em; text-transform: uppercase;
+    color: var(--matt); margin-bottom: 9px;
+  }
+  .kopf .nr { color: var(--tinte); font-weight: 600; }
+  .kopf i {
+    width: 8px; height: 8px; display: block; background: var(--t-politisch);
+  }
+  .slot[data-typ*="persön"] .kopf i { background: var(--t-persoenlich); }
+  .slot[data-typ*="schnitt"] .kopf i { background: var(--t-schnittmenge); }
+  .slot[data-typ*="remix"] .kopf i { background: var(--t-remix); }
+  .slot[data-typ*="mitmach"] .kopf i { background: var(--t-mitmach); }
 
-  .z-kopf {
-    display: flex; justify-content: space-between; gap: 10px; align-items: baseline;
-    font: 500 .66rem/1 "IBM Plex Mono", monospace;
-    letter-spacing: .13em; text-transform: uppercase; color: #5d5a4e;
-    border-bottom: 1px solid var(--linie); padding-bottom: 7px; margin-bottom: 11px;
-  }
-  .posttext {
-    white-space: pre-wrap; font-size: 1.06rem; line-height: 1.5;
-    margin: 0 0 12px; color: var(--ink);
-  }
-  .posttext .note {
-    display: block; margin-top: 10px; color: #5d5a4e;
-    font: 400 .82rem/1.4 "IBM Plex Mono", monospace;
-  }
-  .kicker {
-    border-top: 1px solid var(--linie); padding-top: 8px;
-    font: 400 .68rem/1.4 "IBM Plex Mono", monospace;
-    color: #5d5a4e; word-break: break-word;
-  }
+  .posttext { white-space: pre-wrap; margin: 0 0 10px; }
+  .posttext .note { display: block; margin-top: 9px; color: var(--matt); font-size: .8rem; }
+  .kicker { font-size: .68rem; line-height: 1.5; color: var(--matt); word-break: break-word; }
 
-  /* ------------------------------------------------------------- Abstimmen */
-  .actions { display: flex; gap: 7px; margin-top: 12px; align-items: stretch; }
+  /* ---------------------------------------------------------------- Aktionen */
+  .actions { display: flex; align-items: center; gap: 6px; margin-top: 11px; flex-wrap: wrap; }
   .actions button {
-    appearance: none; border: 1px solid var(--ink); border-radius: 0;
-    background: transparent; color: var(--ink); cursor: pointer;
-    font: 700 .76rem/1 "Archivo", system-ui, sans-serif;
-    letter-spacing: .1em; text-transform: uppercase; padding: 12px 10px;
+    appearance: none; border: 1px solid var(--tinte); border-radius: 0;
+    background: transparent; color: var(--tinte); cursor: pointer;
+    font: 500 .74rem/1 inherit; letter-spacing: .04em; padding: 9px 11px;
   }
-  .b-take { background: var(--ink) !important; color: var(--hell) !important; flex: 1 1 auto; }
+  .actions .b-take { background: var(--tinte); color: var(--grund); }
+  .actions .b-no { border-color: var(--nein); color: var(--nein); }
   .actions button:active { transform: translate(1px, 1px); }
-  .b-no { border-color: var(--stempel) !important; color: var(--stempel) !important; padding-inline: 14px; }
-  /* Bewertung als beschriftetes Kaestchenfeld, nicht als Sterne */
-  .bewertung {
-    display: flex; align-items: center; gap: 10px; margin-top: 11px;
-    border-top: 1px solid var(--linie); padding-top: 10px;
-    font: 500 .64rem/1 "IBM Plex Mono", monospace;
-    letter-spacing: .13em; text-transform: uppercase; color: #5d5a4e;
-  }
-  .slot.asking .bewertung, .slot.done .bewertung { display: none; }
-  .stars { display: flex; gap: 3px; margin-left: auto; align-items: center; }
+  .stars { display: flex; gap: 3px; margin-left: auto; }
   .stars button {
-    width: 20px; height: 20px; padding: 0; border: 1px solid var(--ink);
+    width: 17px; height: 17px; padding: 0; border: 1px solid var(--linie);
     background: transparent; cursor: pointer; border-radius: 0;
   }
-  .stars button.lit { background: var(--ink); }
+  .stars button.lit { background: var(--tinte); border-color: var(--tinte); }
   .b-var {
-    appearance: none; border: 1px dashed var(--ink); border-radius: 0; margin-top: 10px;
-    background: transparent; color: var(--ink); cursor: pointer; width: 100%;
-    font: 500 .74rem/1 "IBM Plex Mono", monospace;
-    letter-spacing: .08em; text-transform: uppercase; padding: 10px;
+    appearance: none; margin-top: 9px; width: 100%; cursor: pointer;
+    border: 1px dashed var(--tinte); border-radius: 0; background: transparent;
+    color: var(--tinte); font: 400 .72rem/1 inherit; padding: 9px;
+    letter-spacing: .04em;
   }
   .b-var:disabled { opacity: .5; cursor: default; }
 
-  /* Ablehn-Gruende klappen direkt auf */
-  .reasons { display: none; flex-wrap: wrap; gap: 6px; margin-top: 11px; }
+  .reasons { display: none; flex-wrap: wrap; gap: 5px; margin-top: 10px; }
   .slot.asking .reasons { display: flex; }
-  .slot.asking .actions { display: none; }
+  .slot.asking .actions, .slot.asking .b-var { display: none; }
   .reasons button {
-    appearance: none; border: 1px dashed var(--ink); border-radius: 0;
-    background: transparent; color: var(--ink); cursor: pointer;
-    font: 400 .78rem/1 "IBM Plex Sans", sans-serif; padding: 9px 11px;
+    appearance: none; border: 1px dashed var(--nein); border-radius: 0;
+    background: transparent; color: var(--nein); cursor: pointer;
+    font: 400 .74rem/1 inherit; padding: 9px 10px;
   }
   .actions button:focus-visible, .reasons button:focus-visible,
-  .filterbar button:focus-visible, .b-var:focus-visible, .b-more:focus-visible {
-    outline: 2px solid var(--stempel); outline-offset: 2px;
+  .zeile button:focus-visible, .b-var:focus-visible, .b-more:focus-visible {
+    outline: 2px solid var(--nein); outline-offset: 2px;
+  }
+  /* Die aktive Zeile fuer die Tastatur, nur am Desktop sichtbar markiert */
+  @media (pointer: fine) {
+    .slot.aktiv { box-shadow: -13px 0 0 0 var(--tinte); }
   }
 
-  /* Erledigt: der Zettel bleibt liegen, aber gestempelt und still */
-  .slot.done { opacity: .62; }
   .slot.done .actions, .slot.done .reasons, .slot.done .b-var { display: none; }
+  .slot.done .posttext, .slot.done .kicker { color: var(--matt); }
   .verdict {
-    display: none; margin-top: 13px; padding: 6px 11px; float: right;
-    max-width: 62%; text-align: center;
-    transform: rotate(-6deg); border: 2px solid var(--stempel);
-    outline: 1px solid var(--stempel); outline-offset: 2px; color: var(--stempel);
-    font: 700 .72rem/1.3 "IBM Plex Mono", monospace;
-    letter-spacing: .1em; text-transform: uppercase;
+    display: none; margin-top: 10px; font-size: .72rem; letter-spacing: .06em;
+    text-transform: uppercase; color: var(--tinte);
   }
+  .verdict::before { content: "\2713  "; color: var(--tinte); }
   .slot.done .verdict { display: block; }
-  /* Der gestempelte Zettel floatet, sonst laeuft er aus dem Rand */
-  .post::after { content: ''; display: block; clear: both; }
+
+  /* --------------------------------------------------------------- Nachschub */
+  #morebox { padding: 16px 0 8px; }
+  .alldone { font-size: .78rem; color: var(--matt); padding: 22px 0; }
+  .nachschub {
+    display: flex; gap: 6px; align-items: stretch; margin-top: 10px;
+  }
+  .fokus {
+    flex: 1 1 auto; min-width: 0; padding: 10px; border-radius: 0;
+    border: 1px solid var(--linie); background: #fff; color: var(--tinte);
+    font: 400 .76rem/1 inherit;
+  }
+  .fokus::placeholder { color: var(--matt); }
+  .b-more {
+    appearance: none; border: 1px solid var(--tinte); border-radius: 0;
+    background: var(--tinte); color: var(--grund); cursor: pointer;
+    font: 500 .76rem/1 inherit; letter-spacing: .04em; padding: 10px 14px;
+    white-space: nowrap;
+  }
+  .b-more:disabled { background: transparent; color: var(--matt); border-color: var(--linie); cursor: default; }
 
   .toast {
-    position: fixed; left: 50%; bottom: 22px; transform: translateX(-50%);
-    background: var(--hell); color: var(--ink); border: 1px solid var(--ink);
-    padding: 11px 18px; font: 500 .82rem/1 "IBM Plex Mono", monospace;
-    letter-spacing: .04em; opacity: 0; pointer-events: none;
-    transition: opacity .18s; max-width: 92vw; text-align: center;
+    position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%);
+    background: var(--tinte); color: var(--grund); padding: 10px 15px;
+    font-size: .76rem; opacity: 0; pointer-events: none; transition: opacity .18s;
+    max-width: 92vw; text-align: center; z-index: 30;
   }
   .toast.show { opacity: 1; }
-
-  /* -------------------------------------------------------- Neue Zettel an */
-  .alldone {
-    border: 1px dashed rgba(255,255,255,.3); padding: 26px 16px; text-align: center;
-    font: 400 .9rem/1.5 "IBM Plex Mono", monospace; color: var(--grau);
-  }
-  .b-more {
-    appearance: none; border: 1px solid var(--hell); border-radius: 0; padding: 13px 26px;
-    background: var(--hell); color: var(--ink); cursor: pointer; margin-top: 14px;
-    font: 700 .8rem/1 "Archivo", system-ui, sans-serif;
-    letter-spacing: .1em; text-transform: uppercase;
-  }
-  .b-more:disabled { background: transparent; color: var(--grau); border-color: var(--grau); cursor: default; }
-  .fokus {
-    display: block; width: 100%; max-width: 320px; margin: 14px auto 0;
-    padding: 11px 13px; border-radius: 0; border: 1px solid rgba(255,255,255,.28);
-    background: var(--pult-tief); color: var(--hell); text-align: center;
-    font: 400 .84rem/1 "IBM Plex Mono", monospace;
-  }
-  .fokus::placeholder { color: #7d7e72; }
   footer {
-    margin-top: 30px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,.16);
-    font: 400 .72rem/1.6 "IBM Plex Mono", monospace;
-    letter-spacing: .06em; text-transform: uppercase; color: var(--grau);
+    margin-top: 22px; padding-top: 11px; border-top: 1px solid var(--tinte);
+    font-size: .7rem; line-height: 1.6; color: var(--matt);
   }
-  footer a { color: var(--hell); text-decoration: none; border-bottom: 1px solid var(--stempel); }
-  @media (prefers-reduced-motion: reduce) {
-    * { animation: none !important; transition: none !important; }
-  }
+  footer a { color: var(--tinte); }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
 </head>
 <body>
-<header>
-  <div class="amt">
-    <span>jardinduvin</span>
-    <span class="werkzeug">
-      <button id="reload" aria-label="Neu laden">↻</button>
-      <button id="gear" aria-label="Einstellungen">⚙</button>
-    </span>
-  </div>
-  <h1>Tages-Anstoss</h1>
-  <div class="dateline" id="dateline"></div>
-</header>
+<div class="status">
+  <span id="dateline">lädt</span>
+  <span class="tasten" id="tasten"></span>
+  <span class="werkzeug">
+    <button id="reload" aria-label="Neu laden" title="Neu laden">↻</button>
+    <button id="gear" aria-label="Einstellungen" title="Token">⚙</button>
+  </span>
+</div>
 
 <div class="banner warn" id="tokenbanner" hidden>
-  Feedback wird lokal gesammelt. Damit Ablehnen und Sterne direkt senden,
-  einmalig unter ⚙︎ einen Token hinterlegen.
+  Feedback wird lokal gesammelt. Damit Ablehnen und Bewertung direkt senden,
+  einmalig unter ⚙ einen Token hinterlegen.
 </div>
 <div class="banner" id="hinweis" hidden></div>
 
@@ -261,14 +221,14 @@
   <p>2. Hier einfügen. Er bleibt nur im Browser dieses Geräts.</p>
   <input type="password" id="tokeninput" placeholder="github_pat_…" autocomplete="off">
   <div class="row">
-    <button class="b-take" id="tokensave" style="padding:10px 18px">Speichern</button>
-    <button class="b-no" id="tokendel" title="Token löschen" style="width:auto;padding:10px 14px">Löschen</button>
+    <button class="b-more" id="tokensave">Speichern</button>
+    <button class="b-more" id="tokendel" style="background:transparent;color:var(--nein);border-color:var(--nein)">Löschen</button>
   </div>
 </section>
 
-<div class="filterbar" id="filterbar" hidden></div>
+<div class="zeile" id="filterbar" hidden></div>
 
-<main id="liste"><div class="alldone">Lade Vorschläge …</div></main>
+<main id="liste"><div class="alldone">Vorschläge werden geladen …</div></main>
 
 <footer>
   Genommenes erkennt Claude am nächsten Threads-Abgleich von selbst.
@@ -351,55 +311,61 @@ async function flushQueue() {
 
 const REASONS = ['zu erklärend', 'konstruiert', 'kein Widerspruch', 'Thema falsch', 'schon gemacht', 'einfach nicht lustig'];
 
-function washClass(typ) {
-  if (/pers/i.test(typ)) return 'persönlich';
-  if (/mitmach/i.test(typ)) return 'mitmach';
-  if (/schnitt/i.test(typ)) return 'schnittmenge';
-  return 'politisch-aktuell';
-}
+let ideenNow = [];
 
-function markDone(slot, idee, verdictText) {
+/* Genommenes bleibt mit Haken stehen (Manuel will sehen, was er nahm),
+   Abgelehntes verschwindet sofort. */
+function markTaken(slot, idee) {
   slot.classList.add('done'); slot.classList.remove('asking');
   const st = state[idee.id] = state[idee.id] || { v: null, r: null };
-  st.v = verdictText; saveState();
+  st.v = 'Genommen und kopiert'; saveState();
   slot.querySelector('.verdict').textContent =
-    verdictText + (st.r ? ` · bewertet ${st.r}/5` : '');
-  updateDateline();
+    'genommen' + (st.r ? ` · bewertet ${st.r}/5` : '');
+  updateStatus();
 }
 
-let ideenNow = [];
-function updateDateline() {
+function markRejected(slot, idee, grund) {
+  const st = state[idee.id] = state[idee.id] || { v: null, r: null };
+  st.v = `Abgelehnt: ${grund}`; saveState();
+  slot.classList.add('weg');
+  setTimeout(() => { slot.remove(); updateStatus(); }, 280);
+  updateStatus();
+}
+
+function updateStatus() {
   const done = ideenNow.filter(i => state[i.id] && state[i.id].v).length;
-  const d = document.getElementById('dateline');
-  d.innerHTML = `${window._datumFmt || ''} · <b>${ideenNow.length - done} von ${ideenNow.length} offen</b>`;
-  maybeOfferMore();
+  const offen = ideenNow.length - done;
+  document.getElementById('dateline').innerHTML =
+    `${window._datumKurz || ''} · <b>${offen} offen</b> von ${ideenNow.length}`;
+  const t = document.getElementById('tasten');
+  if (t) t.textContent = offen ? '· c kopieren  j nehmen  n nein  1-5 bewerten' : '';
+  renderNachschub();
 }
 
-/* Alles beurteilt: unten "20 neue" anbieten. Der Knopf legt ein
-   MEHR-Issue an; der Laptop-Poller generiert daraufhin eine frische Liste. */
-function maybeOfferMore() {
+/* "20 neue" steht immer unten, nicht erst wenn alles beurteilt ist. */
+function renderNachschub() {
   if (!window._ready) return;
   const liste = document.getElementById('liste');
   let box = document.getElementById('morebox');
-  const open = ideenNow.filter(i => !(state[i.id] && state[i.id].v)).length;
-  if (open || !ideenNow.length) { if (box) box.remove(); return; }
-  if (box) return;
-  box = document.createElement('div');
-  box.id = 'morebox'; box.className = 'alldone';
-  box.textContent = 'Alles beurteilt.';
-  const inp = document.createElement('input');
-  inp.className = 'fokus'; inp.id = 'fokusinput';
-  inp.placeholder = 'optional: Stichwort für die neuen 20';
-  const b = document.createElement('button');
-  b.className = 'b-more'; b.textContent = '20 neue';
-  b.onclick = requestMore;
-  box.appendChild(inp);
-  box.appendChild(document.createElement('br'));
-  box.appendChild(b);
-  liste.appendChild(box);
-  // Nach einem Reload die laufende Anforderung weiterverfolgen.
-  const laeuft = pendingSeit();
-  if (laeuft !== null) watchForNew(b, laeuft);
+  const offen = ideenNow.filter(i => !(state[i.id] && state[i.id].v)).length;
+  if (!box) {
+    box = document.createElement('div');
+    box.id = 'morebox';
+    box.innerHTML = `
+      <div class="alldone" id="morenote"></div>
+      <div class="nachschub">
+        <input class="fokus" id="fokusinput" placeholder="optional: Stichwort">
+        <button class="b-more">20 neue</button>
+      </div>`;
+    box.querySelector('.b-more').onclick = requestMore;
+    liste.appendChild(box);
+    const laeuft = pendingSeit();
+    if (laeuft !== null) watchForNew(box.querySelector('.b-more'), laeuft);
+  }
+  liste.appendChild(box);  // bleibt unten, auch wenn Zeilen verschwinden
+  document.getElementById('morenote').textContent = offen
+    ? `${offen} noch offen. Neue Runde ersetzt die ganze Liste.`
+    : 'Alles beurteilt.';
 }
 
 async function requestMore() {
@@ -437,13 +403,16 @@ function pendingSeit() {
   return s;
 }
 
-/* Pollt sofort und dann alle 10 Sekunden (vorher: erster Blick erst nach
-   einer Minute) und zeigt die Laufzeit, damit der Knopf nicht tot wirkt. */
-async function watchForNew(b, startSek) {
+/* Pollt sofort und dann alle 5 Sekunden und zeigt die Laufzeit, damit der
+   Knopf nicht tot wirkt. Gemessen 04.08.2026: die Generierung selbst braucht
+   13,6 Sekunden fuer Varianten und 4 bis 7 Minuten fuer eine ganze Runde; der
+   Rest der Wartezeit war Poll-Takt (jetzt 1 Minute) plus Pages-Deploy. */
+async function watchForNew(b, startSek, labelZurueck) {
   if (window._watching) return;
   window._watching = true;
   const firstId = ideenNow[0] && ideenNow[0].id;
   const t0 = Date.now() - (startSek || 0) * 1000;
+  const zurueck = labelZurueck || '20 neue';
   if (b) b.disabled = true;
   try {
     while (true) {
@@ -458,11 +427,11 @@ async function watchForNew(b, startSek) {
         }
       } catch (e) {}
       if (s > 20 * 60) break;
-      await new Promise(r => setTimeout(r, 10000));
+      await new Promise(r => setTimeout(r, 5000));
     }
     localStorage.removeItem(LS_PENDING);
     toast('Keine neue Liste angekommen. Läuft der Laptop?');
-    if (b) { b.disabled = false; b.textContent = '20 neue'; }
+    if (b) { b.disabled = false; b.textContent = zurueck; }
   } finally {
     window._watching = false;
   }
@@ -470,46 +439,49 @@ async function watchForNew(b, startSek) {
 
 function card(idee) {
   const slot = document.createElement('section');
-  slot.className = `slot ${washClass(idee.typ)}`;
+  slot.className = 'slot';
   slot.dataset.typ = idee.typ || '';
   slot.dataset.schaerfe = idee.schaerfe || '';
-
-  const post = document.createElement('article');
-  post.className = 'post';
 
   const noteSplit = idee.text.match(/^([\s\S]*?)(\n?\(.*\))?$/);
   const mainText = (noteSplit[1] || idee.text).trim();
   const note = (noteSplit[2] || '').trim();
-
   const nr = String(ideenNow.indexOf(idee) + 1).padStart(2, '0');
-  post.innerHTML = `
-    <div class="z-kopf">
-      <span>Zettel ${nr} von ${String(ideenNow.length).padStart(2, '0')}</span>
-      <span>${idee.typ || 'politisch-aktuell'}</span>
+
+  slot.innerHTML = `
+    <div class="kopf">
+      <span class="nr">${nr}</span><i></i>
+      <span>${[idee.typ, idee.schaerfe].filter(Boolean).join(' · ')}</span>
     </div>
     <p class="posttext"></p>
     <div class="kicker"></div>
     <div class="actions">
-      <button class="b-take">Nehme ich</button>
-      <button class="b-no" aria-label="Ablehnen">Nein</button>
+      <button class="b-copy">kopieren</button>
+      <button class="b-take">nehme ich</button>
+      <button class="b-no">nein</button>
+      <div class="stars"></div>
     </div>
-    <div class="bewertung"><span>Bewertung</span><div class="stars"></div></div>
     <button class="b-var" hidden>3 Varianten anfordern</button>
     <div class="reasons"></div>
     <div class="verdict"></div>`;
 
-  const pt = post.querySelector('.posttext');
+  const pt = slot.querySelector('.posttext');
   pt.textContent = mainText;
   if (note) {
     const n = document.createElement('span');
-    n.className = 'note'; n.textContent = '\n\n' + note;
+    n.className = 'note'; n.textContent = note;
     pt.appendChild(n);
   }
-  const kickerTeile = [idee.id, idee.schaerfe, idee.stichwort, idee.plattform].filter(Boolean);
-  post.querySelector('.kicker').textContent = kickerTeile.join(' · ');
+  slot.querySelector('.kicker').textContent =
+    [idee.id, idee.stichwort, idee.plattform].filter(Boolean).join(' · ');
 
-  post.querySelector('.b-take').onclick = async () => {
-    markDone(slot, idee, 'Genommen und kopiert');
+  slot.querySelector('.b-copy').onclick = async () => {
+    const ok = await copyText(idee.text);
+    toast(ok ? 'Kopiert' : 'Kopieren blockiert, Text bitte markieren');
+  };
+
+  slot.querySelector('.b-take').onclick = async () => {
+    markTaken(slot, idee);
     const ok = await copyText(idee.text);
     const res = await sendIssue(`OK: ${idee.id}`,
       `Stichwort: ${idee.stichwort}\nPlattform: ${idee.plattform}`);
@@ -518,60 +490,62 @@ function card(idee) {
       : 'Markiert. Kopieren blockiert, bitte Text manuell kopieren.');
   };
 
-  const varBtn = post.querySelector('.b-var');
+  const varBtn = slot.querySelector('.b-var');
   varBtn.onclick = async () => {
-    varBtn.disabled = true; varBtn.textContent = 'Varianten angefordert …';
     const res = await sendIssue(`VARIANTE: ${idee.id}`,
       `Stichwort: ${idee.stichwort}\nText: ${idee.text.slice(0, 140)}`);
     toast(res === 'sent'
-      ? 'Angefordert. Die 3 Varianten erscheinen zuoberst in der Liste.'
+      ? 'Angefordert. Die 3 Varianten erscheinen zuoberst.'
       : 'Gemerkt, wird nach Token-Eingabe gesendet.');
-    if (res === 'sent') watchForNew(null);
+    // Laufzeit auf dem Knopf, damit die Wartezeit sichtbar ist.
+    if (res === 'sent') watchForNew(varBtn, 0, '3 Varianten anfordern');
   };
 
-  post.querySelector('.b-no').onclick = () => slot.classList.toggle('asking');
+  slot.querySelector('.b-no').onclick = () => slot.classList.toggle('asking');
 
-  const reasons = post.querySelector('.reasons');
+  const reasons = slot.querySelector('.reasons');
   REASONS.forEach(r => {
     const b = document.createElement('button');
     b.textContent = r;
     b.onclick = async () => {
-      markDone(slot, idee, `Abgelehnt: ${r}`);
+      markRejected(slot, idee, r);
       const res = await sendIssue(`NEIN: ${idee.id}`, `Stichwort: ${idee.stichwort}\nGrund: ${r}`);
       toast(res === 'sent' ? 'Abgelehnt, gesendet' : 'Abgelehnt, wird später gesendet');
     };
     reasons.appendChild(b);
   });
 
-  const stars = post.querySelector('.stars');
+  const stars = slot.querySelector('.stars');
   const paint = n => [...stars.children].forEach((s, i) => s.classList.toggle('lit', i < n));
   for (let n = 1; n <= 5; n++) {
     const b = document.createElement('button');
     b.title = `${n}/5`; b.setAttribute('aria-label', `Bewertung ${n} von 5`);
     b.onmouseenter = () => paint(n);
     b.onmouseleave = () => paint((state[idee.id] || {}).r || 0);
-    b.onclick = async () => {
-      const st = state[idee.id] = state[idee.id] || { v: null, r: null };
-      st.r = n; saveState(); paint(n);
-      varBtn.hidden = n < 4;
-      const res = await sendIssue(`RATE ${n}/5: ${idee.id}`,
-        `Stichwort: ${idee.stichwort}\nBewertung: ${n}/5`);
-      toast(res === 'sent' ? `${n}/5 gesendet. Nehmen geht weiterhin.`
-                           : `${n}/5 gemerkt, wird später gesendet`);
-    };
+    b.onclick = () => rate(idee, n, paint, varBtn);
     stars.appendChild(b);
   }
+  slot._rate = n => rate(idee, n, paint, varBtn);
 
-  slot.appendChild(post);
   const st = state[idee.id];
   if (st) {
     if (st.r) { paint(st.r); varBtn.hidden = st.r < 4; }
-    if (st.v) markDone(slot, idee, st.v);
+    if (st.v && /^Genommen/.test(st.v)) markTaken(slot, idee);
   }
   return slot;
 }
 
-/* Filter-Chips nach Typ und Schärfe */
+async function rate(idee, n, paint, varBtn) {
+  const st = state[idee.id] = state[idee.id] || { v: null, r: null };
+  st.r = n; saveState(); paint(n);
+  varBtn.hidden = n < 4;
+  const res = await sendIssue(`RATE ${n}/5: ${idee.id}`,
+    `Stichwort: ${idee.stichwort}\nBewertung: ${n}/5`);
+  toast(res === 'sent' ? `${n}/5 gesendet. Nehmen geht weiterhin.`
+                       : `${n}/5 gemerkt, wird später gesendet`);
+}
+
+/* Filter nach Typ und Schärfe */
 const filter = { typ: null, schaerfe: null };
 function applyFilter() {
   document.querySelectorAll('#liste .slot').forEach(s => {
@@ -590,13 +564,16 @@ function renderFilter() {
   let chips = 0;
   for (const [feld, werte] of gruppen) {
     if (werte.length < 2) continue;
+    if (chips) bar.appendChild(document.createTextNode('·'));
     for (const w of werte) {
       const b = document.createElement('button');
       b.textContent = w;
       b.onclick = () => {
         filter[feld] = filter[feld] === w ? null : w;
         [...bar.children].forEach(c => {
-          if (c.dataset.feld === feld) c.classList.toggle('on', c.textContent === filter[feld]);
+          if (c.dataset && c.dataset.feld === feld) {
+            c.classList.toggle('on', c.textContent === filter[feld]);
+          }
         });
         applyFilter();
       };
@@ -608,6 +585,29 @@ function renderFilter() {
   bar.hidden = !chips;
 }
 
+/* Tastatur am Desktop: wirkt auf die oberste sichtbare offene Zeile. */
+function aktiveZeile() {
+  const kandidaten = [...document.querySelectorAll('#liste .slot')]
+    .filter(s => !s.classList.contains('done') && !s.classList.contains('gefiltert')
+      && !s.classList.contains('weg'));
+  const treffer = kandidaten.find(s => s.getBoundingClientRect().bottom > 90)
+    || kandidaten[0];
+  kandidaten.forEach(s => s.classList.toggle('aktiv', s === treffer));
+  return treffer;
+}
+document.addEventListener('keydown', e => {
+  if (e.metaKey || e.ctrlKey || e.altKey) return;
+  const tag = (document.activeElement || {}).tagName;
+  if (tag === 'INPUT' || tag === 'TEXTAREA') return;
+  const s = aktiveZeile();
+  if (!s) return;
+  if (e.key === 'c') { s.querySelector('.b-copy').click(); e.preventDefault(); }
+  else if (e.key === 'j') { s.querySelector('.b-take').click(); e.preventDefault(); }
+  else if (e.key === 'n') { s.querySelector('.b-no').click(); e.preventDefault(); }
+  else if (/^[1-5]$/.test(e.key) && s._rate) { s._rate(+e.key); e.preventDefault(); }
+});
+document.addEventListener('scroll', () => { if (matchMedia('(pointer: fine)').matches) aktiveZeile(); },
+  { passive: true });
 
 /* Einstellungen */
 const settings = document.getElementById('settings');
@@ -632,8 +632,8 @@ document.getElementById('tokendel').onclick = () => {
     const r = await fetch(`data/ideen.json?t=${Date.now()}`);
     const d = await r.json();
     window._datum = d.datum;
-    window._datumFmt = new Date(d.datum).toLocaleDateString('de-CH',
-      { weekday: 'long', day: 'numeric', month: 'long' });
+    window._datumKurz = new Date(d.datum).toLocaleDateString('de-CH',
+      { day: '2-digit', month: '2-digit' });
     ideenNow = d.ideen;
     const hasToken = !!localStorage.getItem(LS_TOKEN);
     document.getElementById('tokenbanner').hidden = hasToken;
@@ -642,13 +642,15 @@ document.getElementById('tokendel').onclick = () => {
       h.textContent = d.hinweis; h.hidden = false;
     }
     liste.textContent = '';
-    d.ideen.forEach(i => liste.appendChild(card(i)));
+    /* Abgelehntes kommt nach einem Reload nicht wieder: es ist erledigt. */
+    d.ideen.filter(i => !(state[i.id] && /^Abgelehnt/.test(state[i.id].v || '')))
+      .forEach(i => liste.appendChild(card(i)));
     window._ready = true;
-    updateDateline();
+    updateStatus();
     renderFilter();
     flushQueue();
   } catch (e) {
-    liste.innerHTML = `<div class="alldone">Konnte die Vorschläge nicht laden (${e.message}).</div>`;
+    liste.innerHTML = `<div class="alldone">Vorschläge nicht geladen (${e.message}). Seite neu laden.</div>`;
   }
 })();
 </script>

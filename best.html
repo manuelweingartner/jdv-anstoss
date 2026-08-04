@@ -4,204 +4,124 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow, noarchive">
-<meta name="theme-color" content="#363a34">
+<meta name="theme-color" content="#ebebe8">
 <title>jdv Auszählung</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23363a34'/%3E%3Crect x='5' y='5' width='22' height='22' fill='none' stroke='%23e3ddc0' stroke-width='2'/%3E%3Cpath d='M10 17l4 4 8-9' fill='none' stroke='%23b3241f' stroke-width='3'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23ebebe8'/%3E%3Crect x='4' y='7' width='24' height='2.5' fill='%2316181a'/%3E%3Crect x='4' y='14' width='24' height='2.5' fill='%2316181a'/%3E%3Crect x='4' y='21' width='14' height='2.5' fill='%23a41f1a'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700&family=IBM+Plex+Mono:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
+  /* Gleiche Redaktionsliste wie der Anstoss, nur nach Bewertung sortiert. */
   :root {
-    /* Grund: Linoleum im Gemeindehaus, nicht Papier, nicht Schwarz */
-    --pult: #363a34;
-    --pult-tief: #2b2e28;
-    --ink: #14140f;
-    --stempel: #b3241f;
-    --hell: #e7e4da;
-    /* Zettelfarben: flache Amtstoene, ein Ton pro Typ wie im echten Urnengang */
-    --z-politisch: #e3ddc0;
-    --z-persoenlich: #e5d6d8;
-    --z-mitmach: #cfdad4;
-    --z-schnittmenge: #d6d3e0;
-    --linie: rgba(20, 20, 15, .22);
+    --grund: #ebebe8;
+    --tinte: #16181a;
+    --matt: #6b6f73;
+    --linie: rgba(0, 0, 0, .16);
+    --nein: #a41f1a;
+    --t-politisch: #2b5d8a;
+    --t-schnittmenge: #8a6d1f;
+    --t-persoenlich: #7a3f6d;
+    --t-remix: #3f7a6a;
+    --t-mitmach: #6b6f73;
   }
   * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
-  html { background: var(--pult); }
+  html { background: var(--grund); }
   body {
-    margin: 0 auto; padding: 22px 14px 70px; max-width: 540px; min-height: 100vh;
-    background: var(--pult); color: var(--hell);
-    font: 400 16px/1.5 "IBM Plex Sans", system-ui, sans-serif;
+    margin: 0 auto; padding: 0 13px 60px; max-width: 620px;
+    background: var(--grund); color: var(--tinte);
+    font: 400 15.5px/1.65 "IBM Plex Mono", ui-monospace, monospace;
   }
+  .status {
+    position: sticky; top: 0; z-index: 20; background: var(--grund);
+    display: flex; align-items: center; gap: 8px;
+    padding: 11px 0 9px; border-bottom: 1px solid var(--tinte);
+    font-size: .74rem; letter-spacing: .04em; color: var(--matt);
+  }
+  .status b { color: var(--tinte); font-weight: 600; }
+  .status a { margin-left: auto; color: var(--tinte); text-decoration: none; flex: 0 0 auto; }
 
-  /* ---------------------------------------------------------------- Kopf */
-  .amt {
-    display: flex; justify-content: space-between; align-items: baseline;
-    font: 500 .68rem/1 "IBM Plex Mono", monospace;
-    letter-spacing: .16em; text-transform: uppercase;
-    color: #a8a99c; padding-bottom: 7px; border-bottom: 1px solid rgba(255,255,255,.16);
+  .slot { padding: 15px 0 16px; border-bottom: 1px solid var(--linie); }
+  .slot.weg {
+    max-height: 0; padding: 0; opacity: 0; overflow: hidden; border-width: 0;
+    transition: max-height .26s ease, opacity .2s ease, padding .26s ease;
   }
-  h1 {
-    font: 700 2.35rem/1 "Archivo", system-ui, sans-serif;
-    letter-spacing: -.02em; text-transform: uppercase;
-    margin: 14px 0 0; color: #f4f2e9;
+  .kopf {
+    display: flex; align-items: center; gap: 7px; flex-wrap: wrap;
+    font-size: .7rem; letter-spacing: .09em; text-transform: uppercase;
+    color: var(--matt); margin-bottom: 9px;
   }
-  .lead {
-    font: 400 .84rem/1.45 "IBM Plex Mono", monospace;
-    color: #a8a99c; margin: 8px 0 22px;
-  }
-  .lead b { color: var(--hell); font-weight: 500; }
-
-  /* -------------------------------------------------------------- Zettel */
-  .zettel {
-    position: relative; background: var(--z-politisch); color: var(--ink);
-    border: 1px solid var(--ink); box-shadow: 6px 6px 0 rgba(0,0,0,.3);
-    padding: 12px 14px 14px; margin-bottom: 26px;
-    transition: max-height .3s ease, opacity .3s ease, margin .3s ease;
-    max-height: 1200px;
-  }
-  .zettel.typ-persoenlich   { background: var(--z-persoenlich); }
-  .zettel.typ-mitmach       { background: var(--z-mitmach); }
-  .zettel.typ-schnittmenge  { background: var(--z-schnittmenge); }
-
-  .z-kopf {
-    display: flex; justify-content: space-between; gap: 10px; align-items: baseline;
-    font: 500 .66rem/1 "IBM Plex Mono", monospace;
-    letter-spacing: .13em; text-transform: uppercase; color: #5d5a4e;
-    border-bottom: 1px solid var(--linie); padding-bottom: 7px;
-  }
-  .z-band {
-    display: flex; align-items: center; gap: 9px; margin: 9px 0 11px;
-    font: 500 .64rem/1 "IBM Plex Mono", monospace;
-    letter-spacing: .13em; text-transform: uppercase; color: #5d5a4e;
-  }
+  .kopf i { width: 8px; height: 8px; display: block; background: var(--t-politisch); }
+  .slot[data-typ*="persön"] .kopf i { background: var(--t-persoenlich); }
+  .slot[data-typ*="schnitt"] .kopf i { background: var(--t-schnittmenge); }
+  .slot[data-typ*="remix"] .kopf i { background: var(--t-remix); }
+  .slot[data-typ*="mitmach"] .kopf i { background: var(--t-mitmach); }
   .kaestchen { display: inline-flex; gap: 3px; }
-  .kaestchen i {
-    width: 11px; height: 11px; border: 1px solid var(--ink); display: block;
-  }
-  .kaestchen i.voll { background: var(--ink); }
-  .z-alter { margin-left: auto; color: var(--ink); }
-  .z-alter.frisch {
-    background: var(--ink); color: var(--z-politisch); padding: 3px 7px;
-  }
+  .kaestchen i { width: 11px; height: 11px; border: 1px solid var(--tinte); background: transparent; }
+  .kaestchen i.voll { background: var(--tinte); }
+  .alter { margin-left: auto; color: var(--matt); }
+  .alter.frisch { color: var(--tinte); font-weight: 600; }
   .warnung {
-    display: block; margin: 0 0 10px; padding: 6px 8px;
-    border-left: 3px solid var(--stempel);
-    font: 500 .7rem/1.35 "IBM Plex Mono", monospace;
-    letter-spacing: .06em; text-transform: uppercase; color: #8d2a20;
+    display: block; margin: 0 0 9px; font-size: .7rem; letter-spacing: .04em;
+    text-transform: uppercase; color: var(--nein);
   }
+  .posttext { white-space: pre-wrap; margin: 0 0 10px; }
+  .posttext .note { display: block; margin-top: 9px; color: var(--matt); font-size: .8rem; }
+  .kicker { font-size: .68rem; line-height: 1.5; color: var(--matt); word-break: break-word; }
 
-  .z-text {
-    white-space: pre-wrap; font-size: 1.06rem; line-height: 1.5;
-    margin: 0 0 12px; color: var(--ink);
+  .actions { display: flex; align-items: center; gap: 6px; margin-top: 11px; flex-wrap: wrap; }
+  .actions button {
+    appearance: none; border: 1px solid var(--tinte); border-radius: 0;
+    background: transparent; color: var(--tinte); cursor: pointer;
+    font: 500 .74rem/1 inherit; letter-spacing: .04em; padding: 9px 11px;
   }
-  .z-text .note {
-    display: block; margin-top: 10px; color: #5d5a4e;
-    font: 400 .82rem/1.4 "IBM Plex Mono", monospace;
+  .actions .v-ja { background: var(--tinte); color: var(--grund); }
+  .actions .v-nein { border-color: var(--nein); color: var(--nein); }
+  .actions button:active { transform: translate(1px, 1px); }
+  .reasons { display: none; flex-wrap: wrap; gap: 5px; margin-top: 10px; }
+  .slot.fragt .reasons { display: flex; }
+  .slot.fragt .actions { display: none; }
+  .reasons button {
+    appearance: none; border: 1px dashed var(--nein); border-radius: 0;
+    background: transparent; color: var(--nein); cursor: pointer;
+    font: 400 .74rem/1 inherit; padding: 9px 10px;
   }
-  .z-daten {
-    border-top: 1px solid var(--linie); padding-top: 8px;
-    font: 400 .68rem/1.4 "IBM Plex Mono", monospace;
-    color: #5d5a4e; word-break: break-word;
+  .actions button:focus-visible, .reasons button:focus-visible {
+    outline: 2px solid var(--nein); outline-offset: 2px;
   }
+  .genommen {
+    display: none; margin-top: 10px; font-size: .72rem; letter-spacing: .06em;
+    text-transform: uppercase;
+  }
+  .genommen::before { content: "\2713  "; }
+  .slot.done .genommen { display: block; }
+  .slot.done .actions, .slot.done .reasons { display: none; }
+  .slot.done .posttext, .slot.done .kicker { color: var(--matt); }
 
-  /* ------------------------------------------------------------ Abstimmen */
-  .z-vote { display: flex; gap: 7px; margin-top: 12px; }
-  .z-vote button {
-    appearance: none; border: 1px solid var(--ink); border-radius: 0;
-    background: transparent; color: var(--ink); cursor: pointer;
-    font: 700 .76rem/1 "Archivo", system-ui, sans-serif;
-    letter-spacing: .1em; text-transform: uppercase; padding: 12px 10px;
-  }
-  .z-vote .v-ja { background: var(--ink); color: var(--hell); flex: 1 1 auto; }
-  .z-vote .v-kopie { flex: 0 0 auto; }
-  .z-vote .v-nein {
-    flex: 0 0 auto; border-color: var(--stempel); color: var(--stempel);
-    padding-inline: 14px;
-  }
-  .z-vote button:active { transform: translate(1px, 1px); }
-  .z-vote button:focus-visible, .z-gruende button:focus-visible {
-    outline: 2px solid var(--stempel); outline-offset: 2px;
-  }
-
-  .z-gruende { display: none; gap: 6px; flex-wrap: wrap; margin-top: 10px; }
-  .zettel.fragt .z-gruende { display: flex; }
-  .zettel.fragt .z-vote { display: none; }
-  .z-gruende .titel {
-    flex: 1 0 100%; font: 500 .64rem/1 "IBM Plex Mono", monospace;
-    letter-spacing: .13em; text-transform: uppercase; color: #5d5a4e;
-    margin-bottom: 2px;
-  }
-  .z-gruende button {
-    appearance: none; border: 1px dashed var(--ink); border-radius: 0;
-    background: transparent; color: var(--ink); cursor: pointer;
-    font: 400 .78rem/1 "IBM Plex Sans", sans-serif; padding: 9px 11px;
-  }
-
-  /* --------------------------------------------------------- Stempel, weg */
-  /* Der Stempel steht in der Zeile, in der die Knoepfe standen: frei
-     positioniert deckte er den Post-Text ab. */
-  .z-fuss { display: none; justify-content: flex-end; margin: 14px 6px 2px 0; }
-  .zettel.genommen .z-fuss { display: flex; }
-  .stempel {
-    transform: rotate(-7deg); padding: 6px 12px;
-    border: 2px solid var(--stempel); outline: 1px solid var(--stempel);
-    outline-offset: 2px; color: var(--stempel); opacity: .9;
-    font: 700 .8rem/1.15 "IBM Plex Mono", monospace;
-    letter-spacing: .18em; text-transform: uppercase; text-align: center;
-    pointer-events: none;
-  }
-  .stempel span { display: block; font-weight: 400; letter-spacing: .1em; }
-  .zettel.genommen .stempel { animation: druck .16s ease-out; }
-  .zettel.genommen .z-vote, .zettel.genommen .z-gruende { display: none; }
-  /* Spitzenzettel: 5 von 5 tragen eine schwere Oberkante, damit die Rangfolge
-     schon beim Scrollen sichtbar ist. */
-  .zettel.spitze { border-top-width: 7px; }
-  @keyframes druck {
-    from { transform: rotate(-7deg) scale(1.5); opacity: 0; }
-    to   { transform: rotate(-7deg) scale(1); opacity: .9; }
-  }
-  .zettel.weg {
-    max-height: 0; opacity: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0;
-    overflow: hidden; border-width: 0;
-  }
-
-  /* ----------------------------------------------------------- Randnotizen */
-  .leer {
-    border: 1px dashed rgba(255,255,255,.3); padding: 32px 18px; text-align: center;
-    font: 400 .9rem/1.5 "IBM Plex Mono", monospace; color: #a8a99c;
-  }
+  .leer { padding: 26px 0; font-size: .8rem; color: var(--matt); }
   .toast {
-    position: fixed; left: 50%; bottom: 22px; transform: translateX(-50%);
-    background: var(--hell); color: var(--ink); border: 1px solid var(--ink);
-    padding: 11px 18px; font: 500 .82rem/1 "IBM Plex Mono", monospace;
-    letter-spacing: .04em; opacity: 0; pointer-events: none;
-    transition: opacity .18s; max-width: 92vw; text-align: center;
+    position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%);
+    background: var(--tinte); color: var(--grund); padding: 10px 15px;
+    font-size: .76rem; opacity: 0; pointer-events: none; transition: opacity .18s;
+    max-width: 92vw; text-align: center; z-index: 30;
   }
   .toast.show { opacity: 1; }
   footer {
-    margin-top: 30px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,.16);
-    font: 400 .72rem/1.5 "IBM Plex Mono", monospace;
-    letter-spacing: .06em; text-transform: uppercase; color: #a8a99c;
+    margin-top: 22px; padding-top: 11px; border-top: 1px solid var(--tinte);
+    font-size: .7rem; line-height: 1.6; color: var(--matt);
   }
-  footer a { color: var(--hell); text-decoration: none; border-bottom: 1px solid var(--stempel); }
-  @media (prefers-reduced-motion: reduce) {
-    * { animation: none !important; transition: none !important; }
-  }
+  footer a { color: var(--tinte); }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
 </head>
 <body>
-<header>
-  <div class="amt"><span>jardinduvin</span><span id="stand">lädt</span></div>
-  <h1>Auszählung</h1>
-  <p class="lead" id="dateline">Angenommene Zettel, nach Bewertung geordnet.</p>
-</header>
+<div class="status">
+  <span id="stand">zählt</span>
+  <a href="index.html">← Anstoss</a>
+</div>
 
-<main id="liste"><div class="leer">Zettel werden ausgezählt …</div></main>
+<main id="liste"><div class="leer">Bewertungen werden geladen …</div></main>
 
-<footer>
-  Genommenes und Abgelehntes fällt aus der Liste.
-  <a href="index.html">← zurück zum Anstoss</a>
-</footer>
+<footer>Genommenes und Abgelehntes fällt aus der Liste.</footer>
 <div class="toast" id="toast"></div>
 
 <script>
@@ -260,14 +180,6 @@ async function sendIssue(title, body) {
   }
 }
 
-function typKlasse(typ) {
-  if (/pers/i.test(typ)) return 'typ-persoenlich';
-  if (/mitmach/i.test(typ)) return 'typ-mitmach';
-  if (/schnitt/i.test(typ)) return 'typ-schnittmenge';
-  return 'typ-politisch';
-}
-
-/* Alle je generierten Ideen: Archiv + aktuelle Tagesliste */
 async function loadIdeen() {
   const all = new Map();
   try {
@@ -281,7 +193,7 @@ async function loadIdeen() {
   return all;
 }
 
-/* Bewertungen: oeffentliche Issues (RATE/NEIN/OK), neueste zuerst geliefert */
+/* Bewertungen aus den oeffentlichen Issues, neueste zuerst geliefert */
 async function loadFeedback() {
   const rating = new Map(), rejected = new Set(), genommen = new Set();
   for (let page = 1; page <= 5; page++) {
@@ -309,9 +221,10 @@ function alter(datum) {
   return { text: `vor ${tage} Tagen`, frisch: false, tage };
 }
 
-function zettel(idee, sterne) {
+function zeile(idee, sterne) {
   const el = document.createElement('section');
-  el.className = `zettel ${typKlasse(idee.typ)}`;
+  el.className = 'slot';
+  el.dataset.typ = idee.typ || '';
 
   const split = idee.text.match(/^([\s\S]*?)(\n?\(.*\))?$/);
   const haupt = (split[1] || idee.text).trim();
@@ -319,37 +232,31 @@ function zettel(idee, sterne) {
   const a = alter(idee.datum);
   const datumFmt = new Date(idee.datum).toLocaleDateString('de-CH',
     { day: '2-digit', month: '2-digit', year: 'numeric' });
-  const nr = String(idee.id).split('-').slice(-2).join('-');
 
   el.innerHTML = `
-    <div class="z-kopf">
-      <span>Zettel ${nr}</span>
-      <span>${idee.typ || 'politisch-aktuell'}</span>
-    </div>
-    <div class="z-band">
-      <span>Bewertung</span>
+    <div class="kopf">
       <span class="kaestchen"></span>
-      <span class="z-alter"></span>
+      <i></i><span>${[idee.typ, idee.schaerfe].filter(Boolean).join(' · ')}</span>
+      <span class="alter"></span>
     </div>
-    <p class="z-text"></p>
-    <div class="z-daten"></div>
-    <div class="z-vote">
-      <button class="v-ja">Nehme ich</button>
-      <button class="v-kopie">Kopieren</button>
-      <button class="v-nein" aria-label="Ablehnen">Nein</button>
+    <p class="posttext"></p>
+    <div class="kicker"></div>
+    <div class="actions">
+      <button class="v-kopie">kopieren</button>
+      <button class="v-ja">nehme ich</button>
+      <button class="v-nein">nein</button>
     </div>
-    <div class="z-gruende"><span class="titel">Grund</span></div>
-    <div class="z-fuss"><div class="stempel">Genommen<span></span></div></div>`;
-  if (sterne >= 5) el.classList.add('spitze');
+    <div class="reasons"></div>
+    <div class="genommen"></div>`;
 
-  const kaestchen = el.querySelector('.kaestchen');
+  const k = el.querySelector('.kaestchen');
   for (let n = 1; n <= 5; n++) {
     const i = document.createElement('i');
     if (n <= sterne) i.className = 'voll';
-    kaestchen.appendChild(i);
+    k.appendChild(i);
   }
 
-  const alterEl = el.querySelector('.z-alter');
+  const alterEl = el.querySelector('.alter');
   alterEl.textContent = a.text;
   if (a.frisch) alterEl.classList.add('frisch');
 
@@ -361,17 +268,17 @@ function zettel(idee, sterne) {
     const w = document.createElement('span');
     w.className = 'warnung';
     w.textContent = 'News-gebunden, vor dem Posten auf Aktualität prüfen';
-    el.querySelector('.z-text').before(w);
+    el.querySelector('.posttext').before(w);
   }
 
-  const txt = el.querySelector('.z-text');
+  const txt = el.querySelector('.posttext');
   txt.textContent = haupt;
   if (note) {
     const n = document.createElement('span');
     n.className = 'note'; n.textContent = note;
     txt.appendChild(n);
   }
-  el.querySelector('.z-daten').textContent =
+  el.querySelector('.kicker').textContent =
     [idee.id, idee.stichwort, idee.plattform, datumFmt].filter(Boolean).join(' · ');
 
   el.querySelector('.v-kopie').onclick = async () => {
@@ -381,8 +288,8 @@ function zettel(idee, sterne) {
 
   el.querySelector('.v-ja').onclick = async () => {
     const zeit = new Date().toLocaleTimeString('de-CH', { hour: '2-digit', minute: '2-digit' });
-    el.querySelector('.stempel span').textContent = zeit;
-    el.classList.add('genommen');
+    el.querySelector('.genommen').textContent = `genommen ${zeit}`;
+    el.classList.add('done');
     const st = lokal[idee.id] = lokal[idee.id] || { v: null, r: sterne };
     st.v = 'Genommen und kopiert'; saveLokal();
     const ok = await copyText(idee.text);
@@ -390,12 +297,13 @@ function zettel(idee, sterne) {
       `Stichwort: ${idee.stichwort}\nPlattform: ${idee.plattform}\nAus der Auszählung genommen.`);
     toast(ok
       ? (res === 'sent' ? 'Kopiert und gemeldet. Viel Erfolg!' : 'Kopiert. Meldung wartet auf Token.')
-      : 'Gestempelt. Kopieren blockiert, Text bitte markieren.');
+      : 'Markiert. Kopieren blockiert, Text bitte markieren.');
+    zaehlen();
   };
 
   el.querySelector('.v-nein').onclick = () => el.classList.toggle('fragt');
 
-  const gruende = el.querySelector('.z-gruende');
+  const reasons = el.querySelector('.reasons');
   REASONS.forEach(grund => {
     const b = document.createElement('button');
     b.textContent = grund;
@@ -403,23 +311,24 @@ function zettel(idee, sterne) {
       const st = lokal[idee.id] = lokal[idee.id] || { v: null, r: sterne };
       st.v = `Abgelehnt: ${grund}`; saveLokal();
       el.classList.add('weg');
-      setTimeout(() => { el.remove(); zaehlen(); }, 320);
+      setTimeout(() => { el.remove(); zaehlen(); }, 280);
       const res = await sendIssue(`NEIN: ${idee.id}`,
         `Stichwort: ${idee.stichwort}\nGrund: ${grund}\nAus der Auszählung abgelehnt.`);
       toast(res === 'sent' ? 'Abgelehnt, gesendet' : 'Abgelehnt, wird später gesendet');
     };
-    gruende.appendChild(b);
+    reasons.appendChild(b);
   });
 
   return el;
 }
 
 function zaehlen() {
-  const n = document.querySelectorAll('#liste .zettel').length;
-  document.getElementById('stand').textContent = `${n} Zettel`;
-  if (!n) {
+  const alle = [...document.querySelectorAll('#liste .slot')];
+  const offen = alle.filter(s => !s.classList.contains('done')).length;
+  document.getElementById('stand').innerHTML = `<b>${offen}</b> offen`;
+  if (!alle.length) {
     document.getElementById('liste').innerHTML =
-      '<div class="leer">Alles abgeräumt. Neue Bewertungen entstehen auf dem Anstoss.</div>';
+      '<div class="leer">Abgeräumt. Neue Bewertungen entstehen auf dem Anstoss.</div>';
   }
 }
 
@@ -443,14 +352,11 @@ function zaehlen() {
 
     liste.textContent = '';
     if (!best.length) {
-      liste.innerHTML = '<div class="leer">Noch nichts bewertet. Sterne vergibst du auf dem Anstoss, hier sammelt sich das Beste.</div>';
-      document.getElementById('stand').textContent = '0 Zettel';
+      liste.innerHTML = '<div class="leer">Noch nichts bewertet. Bewertung vergibst du auf dem Anstoss, hier sammelt sich das Beste.</div>';
+      document.getElementById('stand').textContent = '0 offen';
       return;
     }
-    const schnitt = (best.reduce((s, b) => s + b.sterne, 0) / best.length).toFixed(1);
-    document.getElementById('dateline').innerHTML =
-      `<b>${best.length}</b> offene Zettel · Schnitt <b>${schnitt}</b> von 5`;
-    best.forEach(({ idee, sterne }) => liste.appendChild(zettel(idee, sterne)));
+    best.forEach(({ idee, sterne }) => liste.appendChild(zeile(idee, sterne)));
     zaehlen();
   } catch (e) {
     liste.innerHTML = `<div class="leer">Bewertungen nicht geladen (${e.message}). Seite neu laden.</div>`;
