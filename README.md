@@ -8,8 +8,17 @@ diesem Repo (kein Backend, keine Secrets auf der Seite).
 - Seite: https://manuelweingartner.github.io/jdv-anstoss/
 - Befüllt wird `data/ideen.json` vom Tages-Anstoss (werktags 07:57, siehe
   Bauplan im lokalen Skill-Ordner) oder von Hand aus einer Claude-Sitzung.
+- Sind alle Vorschläge beurteilt, bietet die Seite zuunterst "20 neue" an:
+  das legt ein Issue `MEHR:` an; der lokale Windows-Task `jdvMehrIdeen`
+  (alle 10 Minuten, nur bei laufendem Laptop) generiert daraufhin eine
+  frische Liste und schliesst das Issue.
+- Vor jedem Überschreiben wandert die alte Liste nach `data/archiv.json`.
+- `best.html` zeigt alle bewerteten, nicht abgelehnten Vorschläge: Sterne
+  absteigend, Alters-Badge pro Post, Copy-Button. Quellen sind Archiv,
+  Tagesliste, die öffentlichen Issues und der localStorage des Geräts.
 - Issues werden von der nächsten Skill-Sitzung eingelesen (Titelkonvention
   `OK:` / `NEIN:` / `RATE n/5:` plus Ideen-ID), fliessen ins
   Runden-Protokoll/Geschmacksmodell und werden danach geschlossen.
+  `MEHR:`-Issues schliesst der Poller selbst.
 
 Der generierende Skill selbst liegt bewusst NICHT in diesem Repo.
