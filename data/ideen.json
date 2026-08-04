@@ -1,146 +1,146 @@
 {
-  "datum": "2026-08-03",
+  "datum": "2026-08-04",
   "hinweis": "",
   "ideen": [
     {
-      "id": "2026-08-03b-01",
+      "id": "2026-08-04-0602-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Neutralitätsinitiative, Kampagnenstart 04.08.",
+      "stichwort": "Legionellen Basel, Kühlturm-Selbstkontrolle",
       "plattform": "Threads + Bluesky",
-      "text": "Strikte Neutralität heisst: kein Urteil, keine Partei, keine Einmischung.\n\nVorgestellt wird die Initiative von Christoph Blocher."
+      "text": "Eine Kühlanlage in einem Basler Bürohaus hat eine Person getötet und 25 weitere ins Spital gebracht.\n\nWer solche Anlagen kontrolliert? In der Schweiz meistens: der Betreiber selbst."
     },
     {
-      "id": "2026-08-03b-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neutralität und Waffenexporte (steil)",
-      "plattform": "Threads + Bluesky",
-      "text": "Die Schweiz ist so neutral, dass ihre Waffen in jedem Krieg dabei sein dürfen."
-    },
-    {
-      "id": "2026-08-03b-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Blocher finanziert Unabhängigkeits-Kampagne",
-      "plattform": "Threads + Bluesky",
-      "text": "Die Kampagne für die Unabhängigkeit der Schweiz bezahlt ein Milliardär."
-    },
-    {
-      "id": "2026-08-03b-04",
+      "id": "2026-08-04-0602-02",
       "typ": "schnittmenge",
-      "stichwort": "Ernährungsinitiative politisch chancenlos",
+      "stichwort": "Aktivist*innen vs. Konzerne, Doppelmoral",
       "plattform": "Threads, später IG-Grafik",
-      "text": "Eine Initiative will, dass die Schweiz mehr Pflanzen und weniger Tiere isst.\n\nDagegen sind: alle Parteien, der Bauernverband, und Organisationen, die den Schutz von Tieren im Namen tragen."
+      "text": "Wenn Klimaaktivist*innen eine Strasse blockieren, ist das Nötigung.\n\nWenn ein Konzern einen Fluss vergiftet, ist das ein bedauerlicher Betriebsunfall."
     },
     {
-      "id": "2026-08-03b-05",
+      "id": "2026-08-04-0602-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Publibike geht an britischen Investor",
+      "stichwort": "EU-Waldbrandhilfe, Schweiz muss warten",
       "plattform": "Threads + Bluesky",
-      "text": "Der nationale Veloverleih gehört jetzt einem Investor aus London.\n\nWer sein Land liebt, verkauft es offenbar stückweise."
+      "text": "Halb Europa brennt, und die EU-Staaten helfen sich gegenseitig mit Löschflugzeugen.\n\nDie Schweiz würde gerne mitmachen, ist aber offiziell neutral gegenüber brennenden Wäldern."
     },
     {
-      "id": "2026-08-03b-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Blitzermarathon startet (DACH)",
-      "plattform": "Threads + Bluesky",
-      "text": "Diese Woche ist Blitzermarathon. Einmal im Jahr gilt das Tempolimit auch für Leute mit teuren Autos."
-    },
-    {
-      "id": "2026-08-03b-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Blitzermarathon, Ansage vorab (DACH)",
+      "id": "2026-08-04-0602-04",
+      "typ": "persönlich",
+      "stichwort": "Abwaschmaschine ECO seit 7 Jahren + Mineralwasser-Import",
       "plattform": "Threads",
-      "text": "Diese Woche verrät der Staat im Voraus, wo er hinschaut.\n\nVermögensverwalter nennen das seit Jahrzehnten Standortvorteil."
+      "text": "Ich stelle die Abwaschmaschine seit sieben Jahren aus Prinzip auf ECO.\n\nDie Schweiz importiert im Gegenzug jedes zweite Mineralwasser aus dem Ausland, aber meine Gabeln sind sauber und klimaneutral."
     },
     {
-      "id": "2026-08-03b-08",
-      "typ": "schnittmenge",
-      "stichwort": "Mieten-Doppelmoral (DACH)",
-      "plattform": "Threads, später IG-Grafik",
-      "text": "Wenn Mieter*innen zu wenig zahlen, heisst das Zahlungsverzug.\n\nWenn Vermieter zu viel verlangen, heisst das Marktpreis."
-    },
-    {
-      "id": "2026-08-03b-09",
+      "id": "2026-08-04-0602-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Referenzzinssatz vs. Mieten",
+      "stichwort": "Wolfswelpen Schwyz, Abschussgesuch",
       "plattform": "Threads + Bluesky",
-      "text": "Der Referenzzinssatz sinkt.\n\nDeine Miete bleibt aus Solidarität oben."
+      "text": "Im Kanton Schwyz streifen fünf frischgeborene Wolfswelpen durchs Unterholz.\n\nDer Kanton hat beim Bund bereits ein Gesuch gestellt, sie abzuschiessen."
     },
     {
-      "id": "2026-08-03b-10",
+      "id": "2026-08-04-0602-06",
       "typ": "schnittmenge",
-      "stichwort": "Erben vs. Leistung (DACH)",
+      "stichwort": "Migration vs. Kapitalflucht, Doppelmoral",
       "plattform": "Threads, später IG-Grafik",
-      "text": "Leistung muss sich lohnen.\n\nDeshalb besteuern wir Löhne höher als Erbschaften."
+      "text": "Wenn Menschen vor Krieg und Armut fliehen, heisst das Migrationsdruck.\n\nWenn Kapital vor Steuern flieht, heisst das Standortwettbewerb."
     },
     {
-      "id": "2026-08-03b-11",
-      "typ": "schnittmenge",
-      "stichwort": "Geld arbeitet (DACH)",
-      "plattform": "Threads + Bluesky",
-      "text": "Arbeit muss sich wieder lohnen, sagen vor allem Leute, deren Geld die Arbeit macht."
-    },
-    {
-      "id": "2026-08-03b-12",
+      "id": "2026-08-04-0602-07",
       "typ": "politisch-aktuell",
-      "stichwort": "EU-Botschafter beraten nach Ceuta (steil)",
+      "stichwort": "Liechtenstein Cyberangriff, Stiftungsdaten",
       "plattform": "Threads + Bluesky",
-      "text": "Nach Ceuta beraten die EU-Botschafter heute über Konsequenzen.\n\nGemeint sind Zäune, nicht Rettungsboote."
+      "text": "Aus liechtensteinischen Stiftungen wurden 31'000 Datensätze gestohlen.\n\nZum ersten Mal erfahren wir zufällig, wie viel Vermögen dort eigentlich liegt."
     },
     {
-      "id": "2026-08-03b-13",
+      "id": "2026-08-04-0602-08",
+      "typ": "persönlich",
+      "stichwort": "Long Covid, 'einfach mal spazieren gehen'",
+      "plattform": "Threads + Bluesky",
+      "text": "Mit Long Covid höre ich ungefähr einmal pro Woche den Ratschlag, doch einfach mal spazieren zu gehen.\n\nMeistens von Leuten, die selbst seit Jahren nicht mehr zu Fuss zum Briefkasten gehen."
+    },
+    {
+      "id": "2026-08-04-0602-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump, Iran-Gespräche 'letzte Chance'",
+      "plattform": "Threads + Bluesky",
+      "text": "Trump nennt die Gespräche mit dem Iran am Montag die 'letzte Chance'.\n\nEs ist in diesem Jahr nicht die erste 'letzte Chance'."
+    },
+    {
+      "id": "2026-08-04-0602-10",
+      "typ": "schnittmenge",
+      "stichwort": "Lohnforderung vs. Bonus, Doppelmoral",
+      "plattform": "Threads, später IG-Grafik",
+      "text": "Wenn Angestellte mehr Lohn fordern, warnt man vor einer Lohn-Preis-Spirale.\n\nWenn Manager sich mehr Bonus geben, nennt man das Leistungsanreiz."
+    },
+    {
+      "id": "2026-08-04-0602-11",
+      "typ": "politisch-aktuell",
+      "stichwort": "CSD-Anschlag Berlin, Bundestags-Sondersitzung",
+      "plattform": "Threads + Bluesky",
+      "text": "Nach dem Anschlag beim Berliner CSD tagt heute hochrangig der Innenausschuss des Bundestags.\n\nVor dem Anschlag reichte für denselben CSD offenbar ein normales Polizeiaufgebot."
+    },
+    {
+      "id": "2026-08-04-0602-12",
+      "typ": "persönlich",
+      "stichwort": "Kind, Sommerferien-Umdeutung",
+      "plattform": "Threads",
+      "text": "Mein Kind hat entschieden, dass die diesjährige Sommerferien-Langeweile ab sofort 'Kreativzeit' heisst.\n\n(echtes Zitat oder echte Situation deines Kindes einsetzen, sonst weglassen)"
+    },
+    {
+      "id": "2026-08-04-0602-13",
+      "typ": "politisch-aktuell",
+      "stichwort": "KI-Radio Schaffhausen",
+      "plattform": "Threads + Bluesky",
+      "text": "Bei Radio Schaffhuuse moderiert jetzt eine KI die Songs an und liest die Nachrichten.\n\nAm einzigen, woran sie scheitert, sind die Ortsnamen. Für den Rest reicht's schon lange."
+    },
+    {
+      "id": "2026-08-04-0602-14",
+      "typ": "schnittmenge",
+      "stichwort": "Datenschutz Konzern vs. Staat, Doppelmoral",
+      "plattform": "Threads, später IG-Grafik",
+      "text": "Wenn Konzerne all deine Daten sammeln, heisst das Personalisierung.\n\nWenn der Staat dieselben Daten will, heisst das Überwachungsstaat."
+    },
+    {
+      "id": "2026-08-04-0602-15",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ukraine- und Iran-Krieg verschmelzen",
+      "plattform": "Threads + Bluesky",
+      "text": "Der Ukraine-Krieg und der Iran-Krieg verschmelzen laut Expert*innen zunehmend zu einem einzigen Konflikt.\n\nDie Rüstungsindustrie nennt das Effizienzgewinn."
+    },
+    {
+      "id": "2026-08-04-0602-16",
+      "typ": "persönlich",
+      "stichwort": "Immensee, Zentralschweiz-Alltag",
+      "plattform": "Threads",
+      "text": "In Immensee hat mich neulich jemand nach dem Weg gefragt, und ich habe geantwortet, bevor mir aufgefallen ist, dass ich selbst keine Ahnung hatte.\n\n(echte Immensee-Situation einsetzen, sonst weglassen)"
+    },
+    {
+      "id": "2026-08-04-0602-17",
+      "typ": "schnittmenge",
+      "stichwort": "Privatjet vs. Velo, Klimagipfel-Doppelmoral",
+      "plattform": "Threads, später IG-Grafik",
+      "text": "Wer mit dem Privatjet zum Klimagipfel fliegt, rettet dort offiziell das Klima.\n\nWer ohne Privatjet zur Arbeit radelt, wird gefragt, ob das wirklich reicht."
+    },
+    {
+      "id": "2026-08-04-0602-18",
       "typ": "remix",
-      "stichwort": "Remix der USA-Reisetipps (17,7% Like-Quote, unterausgespielt)",
+      "stichwort": "Zwei-Listen-Format neu aufgehängt an Legionellen",
       "plattform": "Threads + Bluesky",
-      "text": "Packliste für die USA:\n\n1. Reisepass\n2. ESTA\n3. Anwalt"
+      "text": "Was gegen Legionellen in Kühltürmen helfen würde:\n- Regelmässige Pflichtkontrollen\n- Meldepflicht bei Wartungslücken\n- Konsequenzen für Betreiber\n\nWas es in der Schweiz tatsächlich gibt:\n- Selbstkontrolle der Betreiber"
     },
     {
-      "id": "2026-08-03b-14",
-      "typ": "schnittmenge",
-      "stichwort": "KI-Firmen und Trainingsdaten (DACH)",
-      "plattform": "Threads, später IG-Grafik",
-      "text": "KI-Firmen können sich Trainingsdaten leider nicht leisten.\n\nBewertet werden sie mit 500 Milliarden."
-    },
-    {
-      "id": "2026-08-03b-15",
-      "typ": "persönlich",
-      "stichwort": "Hitze-Alltag, Erwartung gegen Realität",
+      "id": "2026-08-04-0602-19",
+      "typ": "remix",
+      "stichwort": "Cancel-Kalender-Mechanik an Massive Attack Singapur",
       "plattform": "Threads + Bluesky",
-      "text": "Erwartung: Sommerabend auf dem Balkon mit Buch.\n\nRealität: 23 Uhr, offener Kühlschrank, ich nenne es Klimaanlage.\n\n(nur wenn es bei dir wirklich so läuft, sonst echtes Detail einsetzen)"
+      "text": "Dieses Jahr im Cancel-Kalender: eine Band, die in Singapur nicht mehr auftreten darf, weil sie auf der Bühne 'Free Palestine' gerufen hat.\n\nAuftrittsverbote gegen Kriegsverbrecher verhängt Singapur bisher keine."
     },
     {
-      "id": "2026-08-03b-16",
-      "typ": "persönlich",
-      "stichwort": "Postfach nach den Ferien",
-      "plattform": "Threads",
-      "text": "Erwartung nach den Ferien: 300 wichtige Mails.\n\nRealität: 296 mal 'Danke!' und viermal die Frage, wer den Kühlschrank geräumt hat.\n\n(Zahlen durch dein echtes Postfach ersetzen)"
-    },
-    {
-      "id": "2026-08-03b-17",
-      "typ": "persönlich",
-      "stichwort": "Chronisch krank vs. Versicherungsformulare (steil)",
-      "plattform": "Threads + Bluesky",
-      "text": "Die Versicherung glaubt mir erst, dass ich krank bin, wenn ich gesund genug bin, ihre Formulare auszufüllen."
-    },
-    {
-      "id": "2026-08-03b-18",
-      "typ": "persönlich",
-      "stichwort": "Kind und Handy-Doppelmoral",
-      "plattform": "Threads",
-      "text": "Kind: 'Warum dürfen Erwachsene ans Handy und Kinder nicht?'\n\nIch, am Handy: 'Das verstehst du später.'\n\n(nur mit echtem Zitat deines Kindes posten)"
-    },
-    {
-      "id": "2026-08-03b-19",
-      "typ": "politisch-aktuell",
-      "stichwort": "Heissester Sommer, Statistik-Deadpan",
-      "plattform": "Threads + Bluesky",
-      "text": "Es ist der heisseste Sommer seit Messbeginn.\n\nZum vierten Mal in fünf Jahren."
-    },
-    {
-      "id": "2026-08-03b-20",
+      "id": "2026-08-04-0602-20",
       "typ": "mitmach",
-      "stichwort": "Mieterhöhungs-Gründe sammeln (Frage, kein Lückentext)",
+      "stichwort": "Absurdeste Amt-Absage, offene Frage",
       "plattform": "Threads",
-      "text": "Was war der absurdeste Grund, mit dem euch je die Miete erhöht wurde?"
+      "text": "Welches Amt hat euch schon mal eine Absage mit einer Begründung geschickt, die überhaupt keinen Sinn ergeben hat?"
     }
   ]
 }
