@@ -245,7 +245,7 @@ function card(idee, sterne) {
       return;
     }
     document.getElementById('dateline').innerHTML =
-      `<b>${best.length}</b> bewertete Vorschläge · Sterne zuerst, Alter am Post`;
+      `<b>${best.length}</b> ${best.length === 1 ? 'bewerteter Vorschlag' : 'bewertete Vorschläge'} · Sterne zuerst, Alter am Post`;
     best.forEach(({ idee, sterne }) => liste.appendChild(card(idee, sterne)));
   } catch (e) {
     liste.innerHTML = `<div class="empty">Konnte die Bewertungen nicht laden (${e.message}). Später nochmal versuchen.</div>`;
