@@ -1,186 +1,186 @@
 {
   "datum": "2026-08-04",
-  "hinweis": "Fokus penis: 14 der 20 Ideen arbeiten mit dem Stichwort, ueber verschiedene Mechaniken (Monument, Ruestung, Medizin, Aufklaerung, Selbstironie). Ceuta nur als Nebenaspekt (Idee 08, Fruehwarnsystem). Format-Rotation: 09 Doppelmoral-Zweizeiler, 11 Screenshot-Einzeiler, 18 gebaut-fuer-X-versagt-bei-X, 20 Mitmach-Frage. Hunde bewusst ausgesetzt (Serien-Cooldown nach dem 31.07.-Hit).",
+  "hinweis": "Ceuta nur als schraeger Nebenaspekt: Idee 01 nimmt die heute veroeffentlichten Asylzahlen gegen die Dauer-Notstandsrhetorik, kein Grenz-Content. Hunde weiter ausgesetzt (Serien-Cooldown nach dem 31.07.-Hit), Trockenheit/Niedrigwasser bewusst weggelassen (dreimal als 'nicht lustig' abgelehnt), Rhein/AKW/Jungfraujoch/Penis-Achse aus der gestrigen Liste komplett gemieden. Format-Rotation ueber bisher unbespielte Mechaniken: 04 Euphemismus-Dekonstruktion, 06 Nationalmythologie umgedeutet, 14 Wholesome-Persoenlich mit Twist, 18 Screenshot-Einzeiler, 19 Kalender-Rueckblick. Steil: 03, 05, 08, 19.",
   "ideen": [
     {
-      "id": "2026-08-04-2222-01",
+      "id": "2026-08-04-2231-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Washington: Reflecting Pool und der Steinpenis",
+      "stichwort": "Asylerstantraege Juli auf 4311 gesunken",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "In Washington wird gerade der Teich renoviert, in dem sich ein 169 Meter hoher Steinpenis spiegelt.\n\nEine Staatsanwältin hat darüber ihren Job verloren. Nicht wegen der Lügen, die sie mitgetragen hat. Wegen des Pools."
+      "text": "In Deutschland haben im Juli 4'311 Menschen Asyl beantragt, fast halb so viele wie im Vorjahr.\n\nDie Zahl der Talkshows über die Belastungsgrenze bleibt stabil."
     },
     {
-      "id": "2026-08-04-2222-02",
+      "id": "2026-08-04-2231-02",
       "typ": "politisch-aktuell",
-      "stichwort": "SpaceX-Raketenstufe kracht auf den Mond",
+      "stichwort": "Zermatt stellt Sommerskibetrieb ein, Verband verlegt Trainings hin",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Am Mittwoch kracht eine ausgebrannte SpaceX-Raketenstufe auf den Mond.\n\nEs gibt Männer, die stellen sich ein Cabrio vor die Tür. Und es gibt Männer, die parkieren einen ausgebrannten Metallzylinder auf einem Himmelskörper."
+      "text": "In Zermatt ist der Sommerskibetrieb eingestellt, weil der Gletscher zu schnell schmilzt.\n\nDer Skiverband verlegt jetzt mehr Trainings dorthin. Man muss ja hin, solange es noch etwas zu befahren gibt."
     },
     {
-      "id": "2026-08-04-2222-03",
+      "id": "2026-08-04-2231-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Rhein-Niedrigwasser, Fahrrinne vertiefen",
+      "stichwort": "Eziden: Genozid anerkannt, Abschiebungen laufen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Tausende Eziden haben in Hannover an den Völkermord vor zwölf Jahren erinnert, den Deutschland offiziell als Genozid anerkennt.\n\nDie Abschiebungen in die Region laufen weiter. Anerkennen, gedenken, abschieben, alles im selben Amt."
+    },
+    {
+      "id": "2026-08-04-2231-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pflegereform setzt auf Praevention",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Der Rhein führt so wenig Wasser, dass die Frachtschiffe stehen bleiben. Die Politik will jetzt die Fahrrinne vertiefen.\n\nEin Fluss trocknet aus, und die Antwort lautet mehr Tiefe. Bei manchen Problemen glauben Männer wirklich, es gehe um Zentimeter."
+      "text": "Die Bundesregierung will die Zahl der Pflegebedürftigen senken und setzt dafür auf Prävention.\n\nÜbersetzt: Werde bitte nicht pflegebedürftig. Für den anderen Fall haben wir niemanden."
     },
     {
-      "id": "2026-08-04-2222-04",
+      "id": "2026-08-04-2231-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Frankreichs AKW drosseln wegen warmem Kühlwasser",
+      "stichwort": "Israel setzt strengere Angriffsregeln in Gaza in Kraft",
       "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Israel setzt laut Berichten strengere Regeln für Angriffe im Gazastreifen in Kraft.\n\nEs gab also vorher weniger strenge."
+    },
+    {
+      "id": "2026-08-04-2231-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Samuel Giger erster Schwingprofi",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Samuel Giger ist der erste Schwinger, der offiziell Profi sein darf.\n\nDer Sport war jahrzehntelang stolz darauf, dass niemand daran verdient. Verdient haben in dieser Zeit nur die, die nie in die Hose steigen mussten."
+    },
+    {
+      "id": "2026-08-04-2231-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Barcelona: Wohnung fuer Touristen statt fuer Muetter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "In Barcelona finden migrantische Mütter kaum noch eine Wohnung, weil Ferienvermietung mehr einbringt. In den Anzeigen steht: Hunde erlaubt, Kinder nicht.\n\nKinder haben in diesem Markt einen entscheidenden Nachteil. Sie bleiben."
+    },
+    {
+      "id": "2026-08-04-2231-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "WNBA-Spielerin gegen trans Athletinnen, Trump applaudiert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Eine Basketballerin in der WNBA will trans Athletinnen aus dem Frauensport heraushalten und nennt das gesunden Menschenverstand.\n\nDonald Trump hat ihr öffentlich zugestimmt. Wenn er deinen Menschenverstand lobt, war es keiner."
+    },
+    {
+      "id": "2026-08-04-2231-09",
+      "typ": "schnittmenge",
+      "stichwort": "Milliardaers-Spende vs. Vermoegenssteuer",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Wenn ein Milliardär nach einer Katastrophe 80'000 Euro spendet, heisst das Verantwortung.\n\nWenn er auf sein Vermögen Steuern zahlen soll, heisst das Neiddebatte."
+    },
+    {
+      "id": "2026-08-04-2231-10",
+      "typ": "schnittmenge",
+      "stichwort": "Koerperkommentare vs. Rueckzug (Ariana Grande)",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "text": "Wenn Fremde monatelang über den Körper einer Sängerin urteilen, heisst das Sorge.\n\nWenn sie deswegen aufhört, heisst das Diva."
+    },
+    {
+      "id": "2026-08-04-2231-11",
+      "typ": "schnittmenge",
+      "stichwort": "Spital-Personalabbau vs. Gratis-Pflege durch Angehoerige",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "text": "Wenn ein Spital Personal abbaut, heisst das Effizienz.\n\nWenn danach Angehörige rund um die Uhr pflegen, heisst das Familie."
+    },
+    {
+      "id": "2026-08-04-2231-12",
+      "typ": "schnittmenge",
+      "stichwort": "Hitzekonzept im Zoo vs. Empfehlungen auf dem Bau",
+      "plattform": "Threads, später IG-Grafik",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "text": "Frankreichs Atomkraftwerke drosseln ihre Leistung, weil das Kühlwasser in den Flüssen zu warm ist.\n\nDie stolzeste Energieform Europas schafft es bei über dreissig Grad nicht mehr. Willkommen im Klub."
+      "text": "Für die Tiere im Zoo gibt es bei achtunddreissig Grad Kühlmatten, Eisblöcke und ein Hitzekonzept.\n\nFür Menschen auf dem Bau gibt es Empfehlungen."
     },
     {
-      "id": "2026-08-04-2222-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bundeswehr-Propagandaserie, Spamordner",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "In meinem Spamordner werben genau zwei Dinge damit, dass ich endlich ein richtiger Mann werde: Potenzmittel und die Bundeswehr.\n\nEins davon hat jetzt eine eigene Serie mit Millionenbudget."
-    },
-    {
-      "id": "2026-08-04-2222-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Jungfraujoch, Kühlmittel aus Autoklimaanlagen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Auf der höchsten Messstation Europas finden Forschende Kühlmittel aus Autoklimaanlagen in der Luft.\n\nSo weit hinauf reicht ein Auto, das gekauft wurde, damit sich sein Fahrer grösser fühlt."
-    },
-    {
-      "id": "2026-08-04-2222-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Dänemark 11 Monate Wehrdienst, neuer Zivildienst",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Dänemark verlängert den Wehrdienst von vier auf elf Monate, in Berlin wird ein neuer Zivildienst geplant.\n\nDer Dienst an der Waffe heisst Ehre. Der Dienst am Menschen heisst Randnotiz."
-    },
-    {
-      "id": "2026-08-04-2222-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "EU-Lehre aus Ceuta: Frühwarnsysteme",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Die EU zieht aus Ceuta eine Lehre und kündigt Frühwarnsysteme an.\n\nFür Hitzetote und ausgetrocknete Flüsse hat dieser Kontinent immer noch nur Pressekonferenzen, und die kommen zuverlässig danach."
-    },
-    {
-      "id": "2026-08-04-2222-09",
+      "id": "2026-08-04-2231-13",
       "typ": "schnittmenge",
-      "stichwort": "Marmorpenis vs. Frühsexualisierung",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "text": "Wenn ein nackter Marmorpenis in einem Museum steht, heisst das Hochkultur.\n\nWenn in der Schule erklärt wird, wozu er da ist, heisst das Frühsexualisierung."
-    },
-    {
-      "id": "2026-08-04-2222-10",
-      "typ": "schnittmenge",
-      "stichwort": "Ungefragtes Penisbild vs. Rufmord",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "text": "Wenn ein Mann ungefragt das Bild seines Penis schickt, nennt er das ein Kompliment.\n\nWenn die Empfängerin es öffentlich zeigt, nennt er das Rufmord."
-    },
-    {
-      "id": "2026-08-04-2222-11",
-      "typ": "schnittmenge",
-      "stichwort": "Waffenmessen, Einzeiler",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "text": "Waffenmessen sind Schwanzvergleiche mit Katalog."
-    },
-    {
-      "id": "2026-08-04-2222-12",
-      "typ": "schnittmenge",
-      "stichwort": "Wachstumszwang der Wirtschaft",
+      "stichwort": "Wut an der Urne vs. Wut im Streik",
       "plattform": "Threads, später IG-Grafik",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "text": "Die Wirtschaft muss wachsen. Immer, überall, endlos, sonst gilt sie als krank.\n\nEs gibt genau ein zweites Gebiet, auf dem Männer diese Logik mit derselben Verzweiflung verteidigen."
+      "text": "Wenn Menschen aus Wut rechts wählen, heisst das ein Signal, das man ernst nehmen muss.\n\nWenn sie aus Wut streiken, heisst das Erpressung."
     },
     {
-      "id": "2026-08-04-2222-13",
-      "typ": "schnittmenge",
-      "stichwort": "BP verdoppelt Kriegsgewinn, keine Übergewinnsteuer",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "BP hat seinen Gewinn im Krieg verdoppelt.\n\nDeutschland diskutiert dazu keine Übergewinnsteuer, sondern die Frage, ob sich Arbeit überhaupt noch lohnt."
-    },
-    {
-      "id": "2026-08-04-2222-14",
+      "id": "2026-08-04-2231-14",
       "typ": "persönlich",
-      "stichwort": "Tochter benutzt die korrekten Körperwörter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Meine Tochter benennt Körperteile mit den korrekten Wörtern, weil wir ihr die korrekten Wörter beigebracht haben.\n\nRot werden dabei ausschliesslich die Erwachsenen."
-    },
-    {
-      "id": "2026-08-04-2222-15",
-      "typ": "persönlich",
-      "stichwort": "Sechs Medikamente gegen Erektionsstörungen, keins gegen ME/CFS",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "text": "Gegen Erektionsstörungen gibt es ein halbes Dutzend zugelassene Medikamente.\n\nGegen ME/CFS, das ich seit Jahren habe, gibt es keins."
-    },
-    {
-      "id": "2026-08-04-2222-16",
-      "typ": "persönlich",
-      "stichwort": "Männer und der späte Arztbesuch",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "text": "Männer gehen im Schnitt später zum Arzt als Frauen. Ich habe das jahrelang als Charaktereigenschaft verkauft.\n\nMit einer chronischen Krankheit war dieser Vorsprung innerhalb von (echtes Detail einsetzen) restlos aufgebraucht."
-    },
-    {
-      "id": "2026-08-04-2222-17",
-      "typ": "persönlich",
-      "stichwort": "Aufklärungsbuch zuerst selbst gelesen",
+      "stichwort": "Woche ohne Bildschirme, Kind sorgt sich um den Vater",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "text": "Ich habe als Vater ein Aufklärungsbuch für Kinder gekauft (echtes Detail einsetzen: Anlass) und es zuerst selbst gelesen.\n\nDarin stand mehr über Körper, als ich in meiner ganzen Schulzeit gelernt habe."
+      "text": "Wir haben in der Familie eine Woche ohne Bildschirme gemacht, und ich hatte mich darauf vorbereitet, dass mein Kind leidet.\n\nAm (echtes Detail einsetzen: welcher Tag) hat es gefragt, ob ich Hilfe brauche."
     },
     {
-      "id": "2026-08-04-2222-18",
+      "id": "2026-08-04-2231-15",
+      "typ": "persönlich",
+      "stichwort": "Hitze-Ratschlaege sind mein Alltag als chronisch Kranker",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Bei diesen Temperaturen empfehlen jetzt alle, viel zu trinken, sich hinzulegen und nichts zu leisten.\n\nGenau das mache ich seit Jahren, weil ich chronisch krank bin. Zum ersten Mal gilt es als vernünftig."
+    },
+    {
+      "id": "2026-08-04-2231-16",
+      "typ": "persönlich",
+      "stichwort": "Ferienlager fuer Angehoerige, mein Auffangnetz ist eine Person",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "In Interlaken gibt es ein Ferienlager für Angehörige von Demenzkranken, damit die einmal wirklich Ferien haben. Ein gutes Projekt.\n\nAuch bei meiner chronischen Krankheit heisst das Auffangnetz nicht Sozialstaat, sondern eine einzelne Person (echtes Detail einsetzen: Umfang, ohne Namen)."
+    },
+    {
+      "id": "2026-08-04-2231-17",
+      "typ": "persönlich",
+      "stichwort": "Reihenfolge in der Nachrichten-App",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Meine Nachrichten-App hat mir heute in dieser Reihenfolge gemeldet: eine Müllabfuhr rettet in Italien einen Lottoschein über eine Million, eine Drohne jagt in der Ukraine einen Gemüsehändler, danach Tipps für den Umzug.\n\nAm längsten geblieben bin ich bei den Umzugstipps."
+    },
+    {
+      "id": "2026-08-04-2231-18",
       "typ": "remix",
-      "stichwort": "Aare, Fischsterben im Kraftwerk mit Fischschutzanlage",
-      "plattform": "Threads + Bluesky",
+      "stichwort": "Einzeiler: kontrolliert vs. beraten",
+      "plattform": "Threads, später IG-Grafik",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Tausende Fische sind Ende Juli in der Aare gestorben, weil es im Kraftwerk eine Störung gab.\n\nDas Kraftwerk hat eine Fischschutzanlage. Verantwortlich ist ein Staatsbetrieb, also niemand."
+      "haltbarkeit": "evergreen",
+      "text": "Wer in diesem Land arm ist, wird kontrolliert. Wer reich ist, wird beraten."
     },
     {
-      "id": "2026-08-04-2222-19",
+      "id": "2026-08-04-2231-19",
       "typ": "remix",
-      "stichwort": "China verschärft Ausreise, USA verschärft Einreise",
+      "stichwort": "Obama wird 65, Rueckblick-Mechanik",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "text": "Ab September muss in China begründen, wer ausreisen will.\n\nWer in die USA einreisen will, muss das auch. Zwei Systeme, die sich hassen, benutzen inzwischen dasselbe Formular."
+      "text": "Barack Obama wird heute 65, und die Rückblicke handeln von Hoffnung.\n\nIn seinen acht Jahren blieb Guantanamo offen, das Drohnenprogramm wuchs, der Friedensnobelpreis blieb im Regal. Gefeiert wird, dass er dabei so freundlich geblieben ist."
     },
     {
-      "id": "2026-08-04-2222-20",
+      "id": "2026-08-04-2231-21",
       "typ": "mitmach",
-      "stichwort": "Offene Frage: Kindheitswörter für Körperteile",
+      "stichwort": "Offene Frage: Gegenstand, der genau das Gegenteil tut",
       "plattform": "Threads",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "text": "Welches Wort haben die Erwachsenen in deiner Kindheit für Körperteile benutzt, das du heute noch nicht laut sagen kannst?"
+      "text": "Welchen Gegenstand hast du gekauft, weil er ein Problem loesen sollte, und der jetzt exakt dieses Problem verursacht?"
     }
   ]
 }
