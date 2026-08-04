@@ -8,14 +8,21 @@ diesem Repo (kein Backend, keine Secrets auf der Seite).
 - Seite: https://manuelweingartner.github.io/jdv-anstoss/
 - Befüllt wird `data/ideen.json` vom Tages-Anstoss (werktags 07:57, siehe
   Bauplan im lokalen Skill-Ordner) oder von Hand aus einer Claude-Sitzung.
-- Sind alle Vorschläge beurteilt, bietet die Seite zuunterst "20 neue" an:
-  das legt ein Issue `MEHR:` an; der lokale Windows-Task `jdvMehrIdeen`
+- Sind alle Vorschläge beurteilt, bietet die Seite zuunterst "20 neue" an,
+  optional mit Fokus-Stichwort: das legt ein Issue `MEHR:` (bzw.
+  `MEHR: <Stichwort>`) an; der lokale Windows-Task `jdvMehrIdeen`
   (alle 10 Minuten, nur bei laufendem Laptop) generiert daraufhin eine
   frische Liste und schliesst das Issue.
+- Ab 4 Sternen zeigt eine Karte "3 Varianten anfordern" (Issue
+  `VARIANTE: <id>`, gleicher Poller, Varianten erscheinen zuoberst).
+- Jede Idee trägt `schaerfe` (breit/mittel/steil, filterbar neben dem Typ),
+  `haltbarkeit` (evergreen/tagesgebunden) und optional `serie`;
+  `data/serien.json` speist die Serien-Cooldown-Leiste oben.
 - Vor jedem Überschreiben wandert die alte Liste nach `data/archiv.json`.
 - `best.html` zeigt alle bewerteten, nicht abgelehnten Vorschläge: Sterne
-  absteigend, Alters-Badge pro Post, Copy-Button. Quellen sind Archiv,
-  Tagesliste, die öffentlichen Issues und der localStorage des Geräts.
+  absteigend, Alters-Badge pro Post, Copy-Button, Warnhinweis bei
+  news-gebundenen Ideen ab 3 Tagen. Quellen sind Archiv, Tagesliste, die
+  öffentlichen Issues und der localStorage des Geräts.
 - Issues werden von der nächsten Skill-Sitzung eingelesen (Titelkonvention
   `OK:` / `NEIN:` / `RATE n/5:` plus Ideen-ID), fliessen ins
   Runden-Protokoll/Geschmacksmodell und werden danach geschlossen.

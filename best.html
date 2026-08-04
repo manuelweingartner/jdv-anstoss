@@ -60,6 +60,10 @@
     padding: 3px 10px; background: #efece7; color: #6d6678;
   }
   .age.frisch { background: var(--vin); color: #fff; }
+  .warnchip {
+    font-size: .74rem; font-weight: 600; border-radius: 999px;
+    padding: 3px 10px; background: #f3dcd4; color: #9c4a2e;
+  }
   .posttext { white-space: pre-wrap; font-size: 1.04rem; line-height: 1.45; margin: 0 0 10px; }
   .posttext .note { color: var(--paper-muted); font-size: .85rem; font-style: italic; }
   .kicker {
@@ -201,6 +205,18 @@ function card(idee, sterne) {
   const ageEl = post.querySelector('.age');
   ageEl.textContent = age.text;
   if (age.frisch) ageEl.classList.add('frisch');
+
+  /* News-gebundene Ideen veralten: ab 3 Tagen warnen. Alte Einträge ohne
+     haltbarkeit-Feld gelten als tagesgebunden, ausser persönlich/mitmach. */
+  const halt = idee.haltbarkeit
+    || (/pers|mitmach/i.test(idee.typ) ? 'evergreen' : 'tagesgebunden');
+  const tage = Math.round((new Date().setHours(0,0,0,0) - new Date(idee.datum).setHours(0,0,0,0)) / 86400000);
+  if (halt === 'tagesgebunden' && tage >= 3) {
+    const w = document.createElement('div');
+    w.className = 'warnchip';
+    w.textContent = 'News-gebunden, prüfen ob noch aktuell';
+    ageEl.before(w);
+  }
 
   const pt = post.querySelector('.posttext');
   pt.textContent = mainText;

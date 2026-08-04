@@ -57,6 +57,24 @@
   }
   .banner.warn { border-color: var(--vin); }
 
+  /* Serien-Cooldown-Leiste */
+  .serien { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+  .serien span {
+    font-size: .72rem; border-radius: 999px; padding: 4px 10px;
+    border: 1px solid var(--line); color: #857e91;
+  }
+  .serien span.frei { border-color: var(--ok); color: #7db99a; }
+
+  /* Filter nach Typ und Schärfe */
+  .filterbar { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+  .filterbar button {
+    appearance: none; border: 1px solid var(--line); background: var(--ink-soft);
+    color: var(--cloud); border-radius: 999px; padding: 6px 12px;
+    font-size: .78rem; cursor: pointer;
+  }
+  .filterbar button.on { background: var(--vin); border-color: var(--vin); color: #fff; }
+  .slot.gefiltert { display: none; }
+
   /* Einstellungen */
   .settings {
     background: var(--ink-soft); border: 1px solid var(--line); border-radius: 12px;
@@ -118,6 +136,12 @@
     background: none; padding: 4px 2px; font-size: 1.15rem; filter: grayscale(1) opacity(.55);
   }
   .stars button.lit { filter: none; }
+  .b-var {
+    appearance: none; border: none; border-radius: 999px; margin-top: 10px;
+    background: rgba(0, 0, 0, .28); color: #fff; padding: 8px 14px;
+    font-size: .85rem; font-weight: 600; cursor: pointer;
+  }
+  .b-var:disabled { opacity: .55; cursor: default; }
 
   /* Ablehn-Gründe klappen direkt auf */
   .reasons { display: none; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
@@ -128,7 +152,7 @@
   }
 
   .slot.done { opacity: .5; }
-  .slot.done .actions, .slot.done .reasons { display: none; }
+  .slot.done .actions, .slot.done .reasons, .slot.done .b-var { display: none; }
   .verdict {
     display: none; margin-top: 12px; font-size: .88rem; font-weight: 600;
     color: #222;
@@ -155,6 +179,14 @@
     cursor: pointer; margin-top: 14px;
   }
   .b-more:disabled { opacity: .55; cursor: default; }
+  .fokus {
+    display: block; width: 100%; max-width: 320px; margin: 16px auto 0;
+    padding: 10px 14px; border-radius: 999px; border: 1px solid var(--line);
+    background: var(--ink-soft); color: #f2eff6; font-size: .9rem;
+    font-family: -apple-system, "Segoe UI", Roboto, sans-serif; font-style: normal;
+    text-align: center;
+  }
+  .fokus::placeholder { color: #6d6678; }
   footer { text-align: center; color: #6d6678; font-size: .78rem; margin-top: 28px; }
   footer a { color: inherit; }
 </style>
@@ -185,6 +217,9 @@
     <button class="b-no" id="tokendel" title="Token löschen" style="width:auto;padding:10px 14px">Löschen</button>
   </div>
 </section>
+
+<div class="serien" id="serien" hidden></div>
+<div class="filterbar" id="filterbar" hidden></div>
 
 <main id="liste"><div class="alldone">Lade Vorschläge …</div></main>
 
@@ -302,9 +337,13 @@ function maybeOfferMore() {
   box = document.createElement('div');
   box.id = 'morebox'; box.className = 'alldone';
   box.textContent = 'Alles beurteilt.';
+  const inp = document.createElement('input');
+  inp.className = 'fokus'; inp.id = 'fokusinput';
+  inp.placeholder = 'optional: Stichwort für die neuen 20';
   const b = document.createElement('button');
   b.className = 'b-more'; b.textContent = '20 neue';
   b.onclick = requestMore;
+  box.appendChild(inp);
   box.appendChild(document.createElement('br'));
   box.appendChild(b);
   liste.appendChild(box);
@@ -314,7 +353,9 @@ async function requestMore() {
   const b = document.querySelector('#morebox .b-more');
   b.disabled = true; b.textContent = 'Angefordert …';
   const stamp = new Date().toLocaleString('de-CH');
-  const res = await sendIssue('MEHR: 20 neue', `Angefordert von der Seite am ${stamp}`);
+  const fokus = (document.getElementById('fokusinput')?.value || '').trim();
+  const res = await sendIssue(`MEHR: ${fokus || '20 neue'}`,
+    `Angefordert von der Seite am ${stamp}${fokus ? `\nFokus: ${fokus}` : ''}`);
   toast(res === 'sent'
     ? 'Angefordert. Der Laptop generiert, das dauert ein paar Minuten.'
     : 'Gemerkt, wird nach Token-Eingabe gesendet.');
@@ -337,6 +378,8 @@ async function watchForNew(b) {
 function card(idee) {
   const slot = document.createElement('section');
   slot.className = `slot ${washClass(idee.typ)}`;
+  slot.dataset.typ = idee.typ || '';
+  slot.dataset.schaerfe = idee.schaerfe || '';
 
   const post = document.createElement('article');
   post.className = 'post';
@@ -357,6 +400,7 @@ function card(idee) {
       <button class="b-no" aria-label="Ablehnen">✕</button>
       <div class="stars"></div>
     </div>
+    <button class="b-var" hidden>3 Varianten anfordern</button>
     <div class="reasons"></div>
     <div class="verdict"></div>`;
 
@@ -367,12 +411,29 @@ function card(idee) {
     n.className = 'note'; n.textContent = '\n\n' + note;
     pt.appendChild(n);
   }
-  post.querySelector('.kicker').textContent = `${idee.typ} · ${idee.stichwort} · ${idee.plattform}`;
+  const kickerTeile = [idee.typ, idee.schaerfe, idee.serie ? `Serie: ${idee.serie}` : '',
+    idee.stichwort, idee.plattform].filter(Boolean);
+  post.querySelector('.kicker').textContent = kickerTeile.join(' · ');
 
   post.querySelector('.b-take').onclick = async () => {
     markDone(slot, idee, 'Genommen und kopiert');
     const ok = await copyText(idee.text);
-    toast(ok ? 'Kopiert. Viel Erfolg!' : 'Markiert. Kopieren blockiert, bitte Text manuell kopieren.');
+    const res = await sendIssue(`OK: ${idee.id}`,
+      `Stichwort: ${idee.stichwort}\nPlattform: ${idee.plattform}${idee.serie ? `\nSerie: ${idee.serie}` : ''}`);
+    toast(ok
+      ? (res === 'sent' ? 'Kopiert und gemeldet. Viel Erfolg!' : 'Kopiert. Meldung wartet auf Token.')
+      : 'Markiert. Kopieren blockiert, bitte Text manuell kopieren.');
+  };
+
+  const varBtn = post.querySelector('.b-var');
+  varBtn.onclick = async () => {
+    varBtn.disabled = true; varBtn.textContent = 'Varianten angefordert …';
+    const res = await sendIssue(`VARIANTE: ${idee.id}`,
+      `Stichwort: ${idee.stichwort}\nText: ${idee.text.slice(0, 140)}`);
+    toast(res === 'sent'
+      ? 'Angefordert. Die 3 Varianten erscheinen zuoberst in der Liste.'
+      : 'Gemerkt, wird nach Token-Eingabe gesendet.');
+    if (res === 'sent') watchForNew(null);
   };
 
   post.querySelector('.b-no').onclick = () => slot.classList.toggle('asking');
@@ -399,6 +460,7 @@ function card(idee) {
     b.onclick = async () => {
       const st = state[idee.id] = state[idee.id] || { v: null, r: null };
       st.r = n; saveState(); paint(n);
+      varBtn.hidden = n < 4;
       const res = await sendIssue(`RATE ${n}/5: ${idee.id}`,
         `Stichwort: ${idee.stichwort}\nBewertung: ${n}/5`);
       toast(res === 'sent' ? `${n}/5 gesendet. Nehmen geht weiterhin.`
@@ -410,10 +472,66 @@ function card(idee) {
   slot.appendChild(post);
   const st = state[idee.id];
   if (st) {
-    if (st.r) paint(st.r);
+    if (st.r) { paint(st.r); varBtn.hidden = st.r < 4; }
     if (st.v) markDone(slot, idee, st.v);
   }
   return slot;
+}
+
+/* Filter-Chips nach Typ und Schärfe */
+const filter = { typ: null, schaerfe: null };
+function applyFilter() {
+  document.querySelectorAll('#liste .slot').forEach(s => {
+    const passt = (!filter.typ || s.dataset.typ === filter.typ)
+      && (!filter.schaerfe || s.dataset.schaerfe === filter.schaerfe);
+    s.classList.toggle('gefiltert', !passt);
+  });
+}
+function renderFilter() {
+  const bar = document.getElementById('filterbar');
+  bar.textContent = '';
+  const gruppen = [
+    ['typ', [...new Set(ideenNow.map(i => i.typ).filter(Boolean))]],
+    ['schaerfe', ['breit', 'mittel', 'steil'].filter(s => ideenNow.some(i => i.schaerfe === s))],
+  ];
+  let chips = 0;
+  for (const [feld, werte] of gruppen) {
+    if (werte.length < 2) continue;
+    for (const w of werte) {
+      const b = document.createElement('button');
+      b.textContent = w;
+      b.onclick = () => {
+        filter[feld] = filter[feld] === w ? null : w;
+        [...bar.children].forEach(c => {
+          if (c.dataset.feld === feld) c.classList.toggle('on', c.textContent === filter[feld]);
+        });
+        applyFilter();
+      };
+      b.dataset.feld = feld;
+      bar.appendChild(b);
+      chips++;
+    }
+  }
+  bar.hidden = !chips;
+}
+
+/* Serien-Cooldown-Leiste */
+async function renderSerien() {
+  try {
+    const d = await (await fetch(`data/serien.json?t=${Date.now()}`)).json();
+    const el = document.getElementById('serien');
+    el.textContent = '';
+    (d.serien || []).forEach(s => {
+      const chip = document.createElement('span');
+      if (s.frei) { chip.classList.add('frei'); chip.textContent = `${s.name}: frei`; }
+      else {
+        const ab = new Date(s.frei_ab).toLocaleDateString('de-CH', { day: 'numeric', month: 'numeric' });
+        chip.textContent = `${s.name}: ab ${ab}`;
+      }
+      el.appendChild(chip);
+    });
+    el.hidden = !el.children.length;
+  } catch (e) {}
 }
 
 /* Einstellungen */
@@ -452,6 +570,8 @@ document.getElementById('tokendel').onclick = () => {
     d.ideen.forEach(i => liste.appendChild(card(i)));
     window._ready = true;
     updateDateline();
+    renderFilter();
+    renderSerien();
     flushQueue();
   } catch (e) {
     liste.innerHTML = `<div class="alldone">Konnte die Vorschläge nicht laden (${e.message}).</div>`;
