@@ -15,9 +15,10 @@ diesem Repo (kein Backend, keine Secrets auf der Seite).
   frische Liste und schliesst das Issue.
 - Ab 4 Sternen zeigt eine Karte "3 Varianten anfordern" (Issue
   `VARIANTE: <id>`, gleicher Poller, Varianten erscheinen zuoberst).
-- Jede Idee trägt `schaerfe` (breit/mittel/steil, filterbar neben dem Typ),
-  `haltbarkeit` (evergreen/tagesgebunden) und optional `serie`;
-  `data/serien.json` speist die Serien-Cooldown-Leiste oben.
+- Jede Idee trägt `schaerfe` (breit/mittel/steil, filterbar neben dem Typ)
+  und `haltbarkeit` (evergreen/tagesgebunden). Bewährte Format-Kategorien
+  streut der Generator im Hintergrund rotierend ein
+  (Format-Bibliothek im lokalen Skill-Ordner, nicht in diesem Repo).
 - Vor jedem Überschreiben wandert die alte Liste nach `data/archiv.json`.
 - `best.html` zeigt alle bewerteten, nicht abgelehnten Vorschläge: Sterne
   absteigend, Alters-Badge pro Post, Copy-Button, Warnhinweis bei

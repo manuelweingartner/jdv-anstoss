@@ -57,14 +57,6 @@
   }
   .banner.warn { border-color: var(--vin); }
 
-  /* Serien-Cooldown-Leiste */
-  .serien { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
-  .serien span {
-    font-size: .72rem; border-radius: 999px; padding: 4px 10px;
-    border: 1px solid var(--line); color: #857e91;
-  }
-  .serien span.frei { border-color: var(--ok); color: #7db99a; }
-
   /* Filter nach Typ und Schärfe */
   .filterbar { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
   .filterbar button {
@@ -218,7 +210,6 @@
   </div>
 </section>
 
-<div class="serien" id="serien" hidden></div>
 <div class="filterbar" id="filterbar" hidden></div>
 
 <main id="liste"><div class="alldone">Lade Vorschläge …</div></main>
@@ -411,15 +402,14 @@ function card(idee) {
     n.className = 'note'; n.textContent = '\n\n' + note;
     pt.appendChild(n);
   }
-  const kickerTeile = [idee.typ, idee.schaerfe, idee.serie ? `Serie: ${idee.serie}` : '',
-    idee.stichwort, idee.plattform].filter(Boolean);
+  const kickerTeile = [idee.typ, idee.schaerfe, idee.stichwort, idee.plattform].filter(Boolean);
   post.querySelector('.kicker').textContent = kickerTeile.join(' · ');
 
   post.querySelector('.b-take').onclick = async () => {
     markDone(slot, idee, 'Genommen und kopiert');
     const ok = await copyText(idee.text);
     const res = await sendIssue(`OK: ${idee.id}`,
-      `Stichwort: ${idee.stichwort}\nPlattform: ${idee.plattform}${idee.serie ? `\nSerie: ${idee.serie}` : ''}`);
+      `Stichwort: ${idee.stichwort}\nPlattform: ${idee.plattform}`);
     toast(ok
       ? (res === 'sent' ? 'Kopiert und gemeldet. Viel Erfolg!' : 'Kopiert. Meldung wartet auf Token.')
       : 'Markiert. Kopieren blockiert, bitte Text manuell kopieren.');
@@ -515,24 +505,6 @@ function renderFilter() {
   bar.hidden = !chips;
 }
 
-/* Serien-Cooldown-Leiste */
-async function renderSerien() {
-  try {
-    const d = await (await fetch(`data/serien.json?t=${Date.now()}`)).json();
-    const el = document.getElementById('serien');
-    el.textContent = '';
-    (d.serien || []).forEach(s => {
-      const chip = document.createElement('span');
-      if (s.frei) { chip.classList.add('frei'); chip.textContent = `${s.name}: frei`; }
-      else {
-        const ab = new Date(s.frei_ab).toLocaleDateString('de-CH', { day: 'numeric', month: 'numeric' });
-        chip.textContent = `${s.name}: ab ${ab}`;
-      }
-      el.appendChild(chip);
-    });
-    el.hidden = !el.children.length;
-  } catch (e) {}
-}
 
 /* Einstellungen */
 const settings = document.getElementById('settings');
@@ -571,7 +543,6 @@ document.getElementById('tokendel').onclick = () => {
     window._ready = true;
     updateDateline();
     renderFilter();
-    renderSerien();
     flushQueue();
   } catch (e) {
     liste.innerHTML = `<div class="alldone">Konnte die Vorschläge nicht laden (${e.message}).</div>`;
