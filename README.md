@@ -6,8 +6,15 @@ ablehnen und bewerten; jedes Feedback erzeugt ein vorbefülltes GitHub-Issue in
 diesem Repo (kein Backend, keine Secrets auf der Seite).
 
 - Seite: https://manuelweingartner.github.io/jdv-anstoss/
-- Befüllt wird `data/ideen.json` vom Tages-Anstoss (werktags 07:57, siehe
-  Bauplan im lokalen Skill-Ordner) oder von Hand aus einer Claude-Sitzung.
+- Befüllt wird `data/ideen.json` vom Tages-Anstoss (Windows-Task
+  `jdvTagesAnstoss`, werktags 07:57; Skript und Doku im lokalen
+  Skill-Ordner `~/.claude/skills/jdv-post/metrics/`). Von Hand nur, wenn
+  das Skript ausfällt: dann bleibt die alte Liste stehen und die Seite
+  zeigt sichtbar das alte Datum.
+- **Feedback braucht einen Token pro Gerät:** fine-grained PAT unter ⚙,
+  nur dieses Repo, Issues Read+Write. Ohne Token sammelt die Seite alles in
+  einer localStorage-Queue und sendet es nach der Eingabe nach. Der
+  aktuelle Token läuft am 04.08.2027 ab.
 - Sind alle Vorschläge beurteilt, bietet die Seite zuunterst "20 neue" an,
   optional mit Fokus-Stichwort: das legt ein Issue `MEHR:` (bzw.
   `MEHR: <Stichwort>`) an; der lokale Windows-Task `jdvMehrIdeen`
@@ -27,6 +34,8 @@ diesem Repo (kein Backend, keine Secrets auf der Seite).
 - Issues werden von der nächsten Skill-Sitzung eingelesen (Titelkonvention
   `OK:` / `NEIN:` / `RATE n/5:` plus Ideen-ID), fliessen ins
   Runden-Protokoll/Geschmacksmodell und werden danach geschlossen.
-  `MEHR:`-Issues schliesst der Poller selbst.
+  `MEHR:`- und `VARIANTE:`-Issues schliesst der Poller selbst.
 
-Der generierende Skill selbst liegt bewusst NICHT in diesem Repo.
+Der generierende Skill liegt bewusst NICHT in diesem Repo (er wird separat
+in ein privates Repo gesichert). Dieses Repo hier ist öffentlich, inklusive
+der Feedback-Issues — bewusster Entscheid, nicht versehentlich.
