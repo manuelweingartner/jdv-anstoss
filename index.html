@@ -221,6 +221,7 @@
   Feedback wird lokal gesammelt. Damit Ablehnen und Bewertung direkt senden,
   einmalig unter ⚙ einen Token hinterlegen.
 </div>
+<div class="banner warn" id="stau" hidden></div>
 <div class="banner" id="hinweis" hidden></div>
 
 <section class="settings" id="settings" hidden>
@@ -310,12 +311,29 @@ async function sendIssue(title, body) {
 
 async function flushQueue() {
   const token = localStorage.getItem(LS_TOKEN);
-  if (!token) return;
+  if (!token) { zeigeStau(); return; }
   const queue = JSON.parse(localStorage.getItem(LS_QUEUE) || '[]');
-  if (!queue.length) return;
+  if (!queue.length) { zeigeStau(); return; }
   localStorage.setItem(LS_QUEUE, '[]');
   for (const q of queue) await sendIssue(q.title, q.body);
   toast(`${queue.length} wartende Rückmeldungen gesendet`);
+  zeigeStau();
+}
+
+/* Ungesendetes dauerhaft anzeigen, nicht nur als Toast. Am 05.08.2026 ging
+   eine "20 neue"-Anforderung so verloren: die Seite legte sie in die Queue,
+   sagte es 1,6 Sekunden lang, und der Laptop wartete auf ein Issue, das nie
+   kam. Ein Stau kann auch mit Token entstehen (Netz weg, Recht entzogen). */
+function zeigeStau() {
+  const queue = JSON.parse(localStorage.getItem(LS_QUEUE) || '[]');
+  const el = document.getElementById('stau');
+  if (!el) return;
+  if (!queue.length) { el.hidden = true; return; }
+  const mehr = queue.filter(q => /^MEHR/.test(q.title)).length;
+  el.textContent = `${queue.length} Rückmeldung${queue.length > 1 ? 'en' : ''} `
+    + `noch nicht gesendet${mehr ? `, darunter ${mehr} mal "20 neue"` : ''}. `
+    + 'Der Laptop sieht davon nichts. Token unter ⚙ prüfen.';
+  el.hidden = false;
 }
 
 const REASONS = ['zu erklärend', 'konstruiert', 'kein Widerspruch', 'Thema falsch', 'schon gemacht', 'einfach nicht lustig'];
@@ -397,7 +415,12 @@ async function requestMore() {
   if (res === 'sent') {
     localStorage.setItem(LS_PENDING, String(Date.now()));
     watchForNew(b, 0);
-  } else { b.disabled = false; b.textContent = '20 neue'; }
+  } else {
+    // Nicht gesendet heisst: der Laptop erfaehrt nichts davon. Das bleibt
+    // sichtbar stehen, statt nach 1,6 Sekunden mit dem Toast zu verschwinden.
+    b.disabled = false; b.textContent = 'nicht gesendet, nochmal';
+    zeigeStau();
+  }
 }
 
 const mmss = s => `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`;
