@@ -33,6 +33,13 @@
     font: 400 15.5px/1.65 "IBM Plex Mono", ui-monospace, monospace;
   }
 
+  /* Titel: eine Zeile, keine Bildschirmhoehe */
+  .titel {
+    padding: 13px 0 9px; font-size: .8rem; font-weight: 600;
+    letter-spacing: .13em; text-transform: uppercase;
+  }
+  .titel span { float: right; font-weight: 400; color: var(--matt); }
+
   /* -------------------------------------------------------------- Statuszeile */
   .status {
     position: sticky; top: 0; z-index: 20; background: var(--grund);
@@ -199,6 +206,8 @@
 </style>
 </head>
 <body>
+<header class="titel">Tages-Anstoss <span>jardinduvin</span></header>
+
 <div class="status">
   <span id="dateline">lädt</span>
   <span class="tasten" id="tasten"></span>
@@ -637,7 +646,11 @@ document.getElementById('tokendel').onclick = () => {
     ideenNow = d.ideen;
     const hasToken = !!localStorage.getItem(LS_TOKEN);
     document.getElementById('tokenbanner').hidden = hasToken;
-    if (d.hinweis && hasToken) {
+    /* hinweis ist nur fuer kurze Systemmeldungen des Skripts da (etwa "3 Ideen
+       blieben im Gate haengen"). Die lange Redaktions-Begruendung des
+       Generators steht seit 05.08.2026 im Log, nicht mehr hier: Manuel will
+       oben keinen Textblock lesen. Lange Texte werden darum abgewiesen. */
+    if (d.hinweis && hasToken && d.hinweis.length <= 120) {
       const h = document.getElementById('hinweis');
       h.textContent = d.hinweis; h.hidden = false;
     }
