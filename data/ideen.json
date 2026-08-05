@@ -1,177 +1,186 @@
 {
   "datum": "2026-08-05",
-  "hinweis": "1 Ideen blieben im Aehnlichkeits-Gate haengen.",
+  "hinweis": "",
   "ideen": [
     {
-      "id": "2026-08-05-1055-02",
+      "id": "2026-08-05-1116-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Buerokratieabbau, ausser beim Pinkeln",
+      "stichwort": "Monarchie-Töchter als Modernisierung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "text": "Eigenverantwortung, Bürokratieabbau, weniger Vorschriften: so steht es im Programm der Jungen SVP.\n\nAusgenommen ist das Pinkeln. Dafür braucht es zwei Türen, ein Reglement und einen Vorstoss."
+      "text": "Europas Monarchien gelten plötzlich als fortschrittlich, weil bald ein paar Töchter erben.\n\nDie Qualifikation bleibt dieselbe: richtige Vagina zur richtigen Zeit."
     },
     {
-      "id": "2026-08-05-1055-03",
+      "id": "2026-08-05-1116-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Wehrhaftigkeit endet am Waschbecken",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Wehrhaftigkeit, Selbstverteidigung, notfalls an die Grenze: dazu erklärt sich die Junge SVP jederzeit bereit.\n\nUnzumutbar wird es beim gemeinsamen Waschbecken."
-    },
-    {
-      "id": "2026-08-05-1055-04",
-      "typ": "schnittmenge",
-      "stichwort": "Zug-WC ist seit hundert Jahren unisex",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Seit über hundert Jahren teilen sich im Zug alle Geschlechter dasselbe WC.\n\nBeschwerden gab es bisher nur über den Geruch."
-    },
-    {
-      "id": "2026-08-05-1055-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Prioritaetenliste einer Jungpartei",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Krankenkassenprämien steigen, Mieten steigen, Löhne nicht.\n\nDie Jugendorganisation der grössten Partei des Landes hat trotzdem ausgerechnet, wo zuerst eingegriffen werden muss: bei den Toiletten der Kantonsschule."
-    },
-    {
-      "id": "2026-08-05-1055-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "«Es geht nicht gegen Menschen»",
+      "stichwort": "Polen: Gewalt gegen Ukrainer*innen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "text": "Es gehe nicht gegen einzelne Menschen, sagt die Junge SVP, es gehe um Sicherheit.\n\nGemeint sind zwei Handvoll Jugendliche, die einfach nur aufs Klo müssen."
+      "text": "In Polen werden Menschen zusammengeschlagen, die vor russischen Raketen geflohen sind.\n\nDie Täter haben monatelang gelesen, dass diese Leute das eigentliche Problem seien, und irgendwann glaubt man alles, was gratis ist."
     },
     {
-      "id": "2026-08-05-1055-07",
-      "typ": "schnittmenge",
-      "stichwort": "Chefetagen-WC vs. Berufsschule",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "text": "Für die Geschäftsleitung gibt es im obersten Stock eine Einzeltoilette, dort spielt Geschlecht plötzlich keine Rolle.\n\nAn der Berufsschule wird aus derselben Tür ein Kulturkampf."
-    },
-    {
-      "id": "2026-08-05-1055-08",
-      "typ": "persönlich",
-      "stichwort": "Zuhause gibt es nur ein WC",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Zuhause teilen wir alle dasselbe WC, seit Jahren, ohne Schild an der Tür.\n\nGestritten wird dabei über (echtes Detail einsetzen: was daheim wirklich für Streit sorgt), nie über das Geschlecht der Person davor."
-    },
-    {
-      "id": "2026-08-05-1055-09",
-      "typ": "persönlich",
-      "stichwort": "Anerkennung der Krankheit vs. Tempo beim Klo-Vorstoss",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "text": "Bis meine chronische Krankheit anerkannt war, brauchte es (echtes Detail einsetzen: Anzahl) Jahre, mehrere Gutachten und einen Ordner, den ich kaum tragen kann.\n\nDie Junge SVP brauchte ein Wochenende und eine Medienmitteilung, um die Schultoiletten zu retten."
-    },
-    {
-      "id": "2026-08-05-1055-10",
-      "typ": "schnittmenge",
-      "stichwort": "Einzeiler: Armeewaffe ja, Toilette nein",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "text": "Die Junge SVP hat kein Problem mit der Armeewaffe im Keller, aber eines mit einer Toilette ohne Beschriftung."
-    },
-    {
-      "id": "2026-08-05-1055-11",
+      "id": "2026-08-05-1116-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Jahresrueckblick einer Jungpartei",
+      "stichwort": "Notabfischung als Rettung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Kopftuch, Gendersternchen, jetzt die Toilettentür: der Jahresrückblick der Jungen SVP schreibt sich fast von selbst.\n\nNächstes Jahr kommt vermutlich das Waschbecken."
+      "text": "Millionen Fische drohen in ausgetrockneten Schweizer Bächen zu sterben, deshalb werden sie jetzt notabgefischt.\n\nGerettet heisst in diesem Fall: rausgeholt, verfrachtet, und der Bach bleibt trocken."
     },
     {
-      "id": "2026-08-05-1055-12",
-      "typ": "persönlich",
-      "stichwort": "Kind erklaert die Schultoilette",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Mein Kind hat mir erklärt, wie das an der Schule mit den Toiletten funktioniert: rein, wenn frei ist, sonst warten.\n\nDamit hat es eine ganze Jungpartei arbeitslos gemacht, ohne es zu merken. (echtes Detail einsetzen: falls das Kind es anders gesagt hat, wörtlich übernehmen)"
-    },
-    {
-      "id": "2026-08-05-1055-13",
+      "id": "2026-08-05-1116-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Schutzbehauptung und die echte Statistik",
+      "stichwort": "Zürcher Drogenszene: Sichtbarkeit als Problem",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "text": "Als Grund nennt die Junge SVP den Schutz von Mädchen.\n\nWer Mädchen tatsächlich gefährdet, sitzt statistisch am Familientisch und nicht in der Nachbarkabine."
+      "text": "Zürcher Gewerbetreibende warnen vor einem zweiten Platzspitz, die Stadt schickt mehr Polizei.\n\nSüchtige verschwinden davon nicht, sie stehen nur ein paar Strassen weiter, wo niemand ein Schaufenster hat."
     },
     {
-      "id": "2026-08-05-1055-14",
+      "id": "2026-08-05-1116-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Hegseth nennt sich Kriegsminister",
+      "stichwort": "Gotthard-Nachtsperren vs. Bahnausbau",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Zwölf Nächte lang ist der Gotthardtunnel im August gesperrt, und das Land bespricht das wie eine Naturkatastrophe.\n\nUnter dem Berg fährt die ganze Zeit eine Bahn, über die seit dreissig Jahren gesagt wird, sie sei zu teuer."
+    },
+    {
+      "id": "2026-08-05-1116-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mittelstand ohne Kredit, Konzerne mit Rekordgewinn",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Der US-Verteidigungsminister nennt sich jetzt Kriegsminister und verbringt den Vormittag damit, CNN auf X zu beschimpfen.\n\nZuständig für die Atomwaffen ist derselbe Account."
+      "text": "Banken geben mittelständischen Betrieben kaum noch Darlehen, weil die Lage zu unsicher sei.\n\nDieselben Institute finden bei Konzernen mit Rekordgewinn erstaunlich viel Sicherheit."
     },
     {
-      "id": "2026-08-05-1055-15",
+      "id": "2026-08-05-1116-09",
       "typ": "politisch-aktuell",
-      "stichwort": "Strompreise sinken in den 2030er-Jahren",
+      "stichwort": "Bafög sinkt, Reform wird beraten",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Deutlich niedrigere Strompreise verspricht die Wirtschaftsministerin für die 2030er-Jahre.\n\nWer bis dahin heizen muss, gilt in dieser Rechnung als Übergangsphase."
+      "text": "Die Zahl der Bafög-Beziehenden ist erneut um sieben Prozent gesunken, während über die grosse Reform noch beraten wird.\n\nBillig wird Bildungsförderung immer dann, wenn niemand mehr hinkommt."
     },
     {
-      "id": "2026-08-05-1055-16",
+      "id": "2026-08-05-1116-13",
+      "typ": "schnittmenge",
+      "stichwort": "Akku ersetzen darf man nicht selbst",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Reparieren sollen wir alle, das steht in jeder Klimabroschüre.\n\nDen Akku öffnen darf nur, wer eine Lizenz und einen Preis hat, den man auch für ein neues Gerät zahlt."
+    },
+    {
+      "id": "2026-08-05-1116-14",
+      "typ": "schnittmenge",
+      "stichwort": "Hitzeschutz endet an der Türschwelle",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Kühlräume für alle, sagt das Hitzekonzept.\n\nWer nicht selbst hinkommt, ist im Konzept nicht vorgesehen."
+    },
+    {
+      "id": "2026-08-05-1116-15",
+      "typ": "schnittmenge",
+      "stichwort": "Gründen aus Verzweiflung",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "text": "Die Zahl der Firmengründungen steigt deutlich, meldet die Handelskammer, und nennt das Unternehmergeist.\n\nWer keine Stelle findet und trotzdem Miete zahlen muss, nennt es anders."
+    },
+    {
+      "id": "2026-08-05-1116-17",
       "typ": "persönlich",
-      "stichwort": "ECO-Programm und die unreparierbare Maschine",
+      "stichwort": "Nebenjob in der Rente vs. Krankheit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Jede siebte Person in Rente arbeitet nebenbei noch, und das wird als Aktivität im Alter verkauft.\n\nMir hat man bei chronischer Krankheit erklärt, ich solle (echtes Detail einsetzen: der genaue Ratschlag, den du wirklich bekommen hast), dann würde das mit dem Arbeiten schon wieder."
+    },
+    {
+      "id": "2026-08-05-1116-19",
+      "typ": "persönlich",
+      "stichwort": "Brief mit 13 Jahren Verspätung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "text": "Meine Abwaschmaschine läuft seit sieben Jahren nur im ECO-Programm, aus Prinzip.\n\nKaputtgehen darf sie trotzdem nicht: eine Reparatur kostet mehr als ein neues Gerät, und das heisst dann Marktwirtschaft."
+      "text": "Irgendwo ist gerade ein Brief mit dreizehn Jahren Verspätung angekommen, voller Kinderjahre.\n\nBei mir würde so eine Post im gleichen Stapel liegen wie die Arztberichte von damals, nur dass ich die nicht rührend finde, sondern noch brauche."
     },
     {
-      "id": "2026-08-05-1055-17",
-      "typ": "schnittmenge",
-      "stichwort": "Sichtbares vs. unsichtbares Elend",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "text": "Sichtbares Elend in der Innenstadt gilt als Standortproblem.\n\nUnsichtbares Elend gilt als gelöst."
-    },
-    {
-      "id": "2026-08-05-1055-18",
-      "typ": "schnittmenge",
-      "stichwort": "Neubau mit Photovoltaik, Abriss ohne Bilanz",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "text": "Ein Neubau mit Photovoltaik auf dem Dach gilt als Klimaschutz.\n\nDas abgerissene Haus daneben kommt in keiner Bilanz vor."
-    },
-    {
-      "id": "2026-08-05-1055-19",
-      "typ": "schnittmenge",
-      "stichwort": "Zinsen: Rendite oben, Nichtexistenz unten",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "text": "Sinkende Zinsen sind für Eigentümer eine Rendite.\n\nFür Mieter*innen sind sie eine Zahl, die es laut Verwaltung nie gegeben hat."
-    },
-    {
-      "id": "2026-08-05-1055-20",
+      "id": "2026-08-05-1116-20",
       "typ": "remix",
-      "stichwort": "Ruetli ohne getrennte Toiletten",
+      "stichwort": "Flughafen-Sicherheit gebaut für genau diesen Fall",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Am Anfang dieses Landes stehen drei Männer auf einer Wiese: ohne Dach, ohne Reglement, ohne getrennte Toiletten.\n\nBis zum Vorstoss über Türschilder an einer Kantonsschule hat es dann siebenhundert Jahre gebraucht."
+      "text": "Ein Frachtflughafen wird gebaut, überwacht und militärisch gesichert für den einen Fall, dass etwas Verdächtiges am Zaun auftaucht.\n\nGefunden hat es dann jemand nachts neben dem Flugzeug, und danach war der Betrieb eingestellt."
+    },
+    {
+      "id": "2026-08-05-1116-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Königinnen als Modernisierung der Erbfolge",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Europas Monarchien bekommen in den nächsten Jahren mehrere Königinnen, und ein Experte nennt das einen Trumpf für die Institution.\n\nModernisiert wird dabei das Geschlecht der Person, die den Job geerbt hat."
+    },
+    {
+      "id": "2026-08-05-1116-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gründungswelle als Aufbruch verbucht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Deutlich mehr Firmengründungen meldet die Handelskammer und spricht von Aufbruch.\n\nGegründet wird, weil die Stelle weg ist, die Bewerbungen nichts bringen und irgendwer beim Amt ein Konzept sehen will."
+    },
+    {
+      "id": "2026-08-05-1116-23",
+      "typ": "schnittmenge",
+      "stichwort": "Armut als Führungsfehler bei McDonald's",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Bei McDonald's kaufen Menschen mit kleinen Einkommen weniger, also muss der US-Chef gehen.\n\nArmut gilt in dieser Rechnung als Führungsfehler und wird mit einer Personalie behoben."
+    },
+    {
+      "id": "2026-08-05-1116-24",
+      "typ": "schnittmenge",
+      "stichwort": "Notfallplan für den Käfer, Beobachtungszeitraum fürs Klima",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "text": "Ein eingeschleppter Käfer bekommt Meldepflicht, Sperrzone und einen Notfallplan.\n\nDas Klima, das ihn hergebracht hat, bekommt einen Beobachtungszeitraum."
+    },
+    {
+      "id": "2026-08-05-1116-25",
+      "typ": "persönlich",
+      "stichwort": "Brief mit dreizehn Jahren Zustellzeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Dreizehn Jahre war ein Brief unterwegs, und drin standen Spaghettireste und Schlittenfahrten mit kleinen Kindern.\n\nBei mir kommt sowas schneller an: mein Kind legt die Nachricht direkt auf die Tastatur, damit ich sie nicht dreizehn Jahre lang übersehe. (echtes Detail einsetzen: was zuletzt wirklich dort lag)"
+    },
+    {
+      "id": "2026-08-05-1116-26",
+      "typ": "persönlich",
+      "stichwort": "Kind auf dem Velo, Autos im Quartier",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Seit mein Kind Velo fährt, kenne ich jedes Auto im Quartier persönlich, vor allem die, die knapp genug hupen.\n\nGestritten wird trotzdem darüber, ob Kinder auf der Strasse ein Sicherheitsrisiko sind, und gemeint sind dabei die Kinder. (echtes Detail einsetzen: die Stelle im Quartier, wo es wirklich eng wird)"
+    },
+    {
+      "id": "2026-08-05-1116-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Geleaktes Telefonat zu Abtreibungsverboten",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Ein geleaktes Telefonat des US-Justizministers dreht sich darum, wie Abtreibungen noch weiter eingeschränkt werden können.\n\nAm Gespräch beteiligt war niemand, der jemals in diese Lage kommen wird."
     }
   ]
 }
