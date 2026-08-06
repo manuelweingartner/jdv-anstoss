@@ -1,177 +1,186 @@
 {
   "datum": "2026-08-06",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 19 statt 20.",
+  "hinweis": "",
   "ideen": [
     {
-      "id": "2026-08-06-0724-01",
+      "id": "2026-08-06-0757-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Misox: Strafregisterauszug fuer EU-Buerger",
+      "stichwort": "SpaceX-Raketenteil auf dem Mond",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Graubünden verlangt von EU-Bürger*innen neu einen Strafregisterauszug, strenger als es der Bund erlaubt, wegen der Mafia.\n\nDie Firmen, über die das Geld tatsächlich läuft, brauchen weiterhin nur einen Handelsregisterauszug."
+      "text": "Astronomen haben bestätigt, dass ein ausgedientes Raketenteil von SpaceX auf dem Mond eingeschlagen ist.\n\nAuf der Erde wäre das illegale Entsorgung, im All heisst es Raumfahrtgeschichte."
     },
     {
-      "id": "2026-08-06-0724-02",
+      "id": "2026-08-06-0757-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Roesti kuendigt verfehltes Klimaziel an",
+      "stichwort": "53 Millionen Eier als Strafe für Preisabsprachen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Albert Rösti sagt, die Schweiz werde ihr Klimaziel für 2030 wohl nicht erreichen.\n\nVier Jahre vorher Bescheid geben heisst in der Schule Betrugsversuch und in der Politik Transparenz."
+      "text": "Drei US-Grossproduzenten müssen 53 Millionen Eier spenden, weil sie die Preise abgesprochen haben.\n\nWer im selben Land ein einzelnes Ei mitgehen lässt, spendet nichts, sondern sitzt."
     },
     {
-      "id": "2026-08-06-0724-03",
+      "id": "2026-08-06-0757-03",
       "typ": "politisch-aktuell",
-      "stichwort": "SVP-Politiker loest Klimaprobleme mit Jeeps",
+      "stichwort": "Zwei neue Begriffe an einem Tag",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Ein SVP-Politiker will die Klimaprobleme im Berggebiet mit Jeeps lösen.\n\nDie Feuerwehr wartet gespannt auf den Vorschlag, Brände mit Benzin einzudämmen."
+      "text": "Deutschland hat gestern innerhalb eines Tages zwei neue Begriffe hervorgebracht: hybrides Anschlagsszenario und neue Gefahrenqualität.\n\nFür Hitzetote und fehlende Wohnungen reicht seit Jahren das alte Vokabular."
     },
     {
-      "id": "2026-08-06-0724-04",
+      "id": "2026-08-06-0757-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Krankenkassen verzocken Millionen",
+      "stichwort": "Infantino wollte die Super League selbst kapern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Ein Geheimpapier zeigt, dass der Fifa-Chef die abtrünnige Super League am liebsten selbst übernommen hätte.\n\nDer Verband sichert ihm heute uneingeschränkte Unterstützung zu. Vorgeworfen wird in diesem Sport nie der Plan, nur das Scheitern."
+    },
+    {
+      "id": "2026-08-06-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Merz und die CDU-Basis",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "text": "Krankenkassen und Kassenärztliche Vereinigungen haben erneut Millionen mit fragwürdigen Anlagen verloren.\n\nBeim nächsten Beitragssprung wird dann wieder stehen, die Versicherten gingen zu oft zum Arzt."
+      "text": "Friedrich Merz hat CDU pur versprochen.\n\nGeliefert hat er eine Partei, die zuverlässig das Programm der AfD vorwärmt."
     },
     {
-      "id": "2026-08-06-0724-05",
+      "id": "2026-08-06-0757-06",
       "typ": "politisch-aktuell",
-      "stichwort": "bpb soll zurueck zum Linksextremismus",
+      "stichwort": "Trump-Millionen gegen Ebola",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "text": "Die Bundeszentrale für politische Bildung soll sich wieder verstärkt um Linksextremismus kümmern.\n\nBeschlossen in derselben Woche, in der ein Gericht eine rechte Terrorzelle verurteilt hat."
+      "text": "Die Trump-Regierung stellt jetzt Millionen für den Kampf gegen Ebola bereit, nachdem sie die weltweite Seuchenhilfe zerlegt hat.\n\nZuerst die Feuerwehr abschaffen, dann einen Löschzug sponsern und sich dabei filmen lassen."
     },
     {
-      "id": "2026-08-06-0724-06",
+      "id": "2026-08-06-0757-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Klimaanlagen fuer alle als Hitzepolitik",
+      "stichwort": "Likud erschwert der Diaspora die Anreise",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Gegen den Hitzesommer schlägt die Politik jetzt Klimaanlagen für alle vor.\n\nEin Gerät, das die Hitze aus der Wohnung auf die Strasse bläst, wo dann alle stehen, die keine haben."
-    },
-    {
-      "id": "2026-08-06-0724-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Raser ueberfuehrt sich mit eigenen Videos",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Ein Raser im Berner Seeland ist aufgeflogen, weil er seine Fahrten selbst ins Netz gestellt hat.\n\nKein Blitzer in diesem Land arbeitet so zuverlässig wie männliche Eitelkeit."
-    },
-    {
-      "id": "2026-08-06-0724-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Niedrigwasser-Krisengipfel ohne Ursache",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Der Rhein führt zu wenig Wasser, also lädt der Verkehrsminister zum Krisengipfel.\n\nBesprochen werden Fahrrinnen, Baggerarbeiten und Ausweichverkehr per Lastwagen. Warum der Fluss leer ist, steht nicht auf der Traktandenliste."
-    },
-    {
-      "id": "2026-08-06-0724-10",
-      "typ": "schnittmenge",
-      "stichwort": "Marktanpassung vs. Anspruchsdenken",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Steigt die Miete, heisst das Marktanpassung.\n\nFordert jemand mehr Lohn, heisst das Anspruchsdenken."
-    },
-    {
-      "id": "2026-08-06-0724-11",
-      "typ": "schnittmenge",
-      "stichwort": "Zivildienst ist Dienst, Care-Arbeit ist Familie",
-      "plattform": "Threads, später IG-Grafik",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "text": "Junge Männer, die ein Jahr lang alte Menschen pflegen, leisten einen Dienst an der Gesellschaft.\n\nFrauen, die dasselbe ein Leben lang tun, haben einfach Familie."
-    },
-    {
-      "id": "2026-08-06-0724-12",
-      "typ": "schnittmenge",
-      "stichwort": "Schutzbrille fuer zwei Minuten",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "text": "Für zwei Minuten Sonnenfinsternis kauft das halbe Land eine Spezialbrille, damit die Augen keinen Schaden nehmen.\n\nDen Rest des Jahres reicht Wegschauen."
+      "text": "Israels Regierungspartei arbeitet vor der Wahl im Oktober daran, der Diaspora die Anreise zur Urne zu erschweren.\n\nWahlbeeinflussung ist zuverlässig das, was die anderen machen."
     },
     {
-      "id": "2026-08-06-0724-13",
-      "typ": "schnittmenge",
-      "stichwort": "Buch statt Wohnung",
-      "plattform": "Threads, später IG-Grafik",
+      "id": "2026-08-06-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Legionellen Basel, fahrlässige Tötung",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Wohnungslose Jugendliche erzählen jetzt in einem Buch, wie sie auf der Strasse gelandet sind.\n\nEine Wohnung bekommt davon niemand."
+      "text": "Weil sich in Basel weitere Menschen mit Legionellen angesteckt haben, ermittelt die Staatsanwaltschaft wegen fahrlässiger Tötung.\n\nEin Kühlturm, der Menschen krank macht, landet vor Gericht. Wohnungen, die im August 34 Grad haben, landen im Immobilienteil."
     },
     {
-      "id": "2026-08-06-0724-14",
+      "id": "2026-08-06-0757-09",
       "typ": "schnittmenge",
-      "stichwort": "Rekordgage jeden Franken wert",
+      "stichwort": "Kamera abmontieren vs. Kamera aufhängen",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "text": "Wer eine Überwachungskamera abmontiert, macht sich strafbar.\n\nAufhängen darf sie jede Firma, die niemand gewählt hat."
+    },
+    {
+      "id": "2026-08-06-0757-10",
+      "typ": "schnittmenge",
+      "stichwort": "Schulden für Panzer vs. Schulden für Kitas",
       "plattform": "Threads, später IG-Grafik",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "text": "Für einen Musiker ist eine Rekordgage jeden Franken wert, da sind sich am Openair alle einig.\n\nBeim Pflegepersonal heisst dieselbe Rechnung Kostenexplosion."
+      "text": "Für Panzer heissen neue Schulden Zeitenwende.\n\nBei Kitaplätzen heisst dieselbe Zahl Belastung künftiger Generationen."
     },
     {
-      "id": "2026-08-06-0724-16",
+      "id": "2026-08-06-0757-12",
+      "typ": "schnittmenge",
+      "stichwort": "Krank arbeiten vs. krank zuhause bleiben",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Krank zur Arbeit zu gehen gilt als Einsatz.\n\nZuhause bleiben gilt als Verdachtsfall."
+    },
+    {
+      "id": "2026-08-06-0757-13",
+      "typ": "schnittmenge",
+      "stichwort": "Bild kopieren vs. Trainingsdatensatz",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Kopiert ein Mensch ein Bild, ist das Diebstahl.\n\nSaugt ein Modell zehn Millionen Bilder ein, ist das ein Trainingsdatensatz."
+    },
+    {
+      "id": "2026-08-06-0757-14",
+      "typ": "schnittmenge",
+      "stichwort": "Karriereende oben vs. Karriereende in der Pflege",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "text": "Hört im Spitzensport jemand auf, erscheinen Würdigungen in allen Zeitungen.\n\nWer nach vierzig Jahren aus der Pflege aussteigt, bekommt ein Formular."
+    },
+    {
+      "id": "2026-08-06-0757-15",
       "typ": "persönlich",
-      "stichwort": "Kind zaehlt die Badi-Besuche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Mein Kind führt Buch, wie oft wir diesen Sommer schon in der Badi waren, und findet die Zahl grossartig.\n\nIch schaue auf dieselbe Zahl und finde sie ziemlich beunruhigend. (echtes Detail einsetzen: die tatsächliche Zahl oder die Badi)"
-    },
-    {
-      "id": "2026-08-06-0724-17",
-      "typ": "persönlich",
-      "stichwort": "Taskforce fuers Gas, Ordner fuers Medikament",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Der Bund setzt eine Taskforce ein für den Fall, dass das Gas knapp wird.\n\nAls mein Medikament knapp war, hiess die Taskforce ich, mit einem Ordner und sehr viel Telefonieren. (echtes Detail einsetzen: welches Mittel und wie lange es dauerte)"
-    },
-    {
-      "id": "2026-08-06-0724-18",
-      "typ": "persönlich",
-      "stichwort": "Keine Klimaanlage aus Prinzip",
+      "stichwort": "Kind fragt, ob der Computer traurig ist",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "text": "Wir haben keine Klimaanlage, weil ich seit Jahren erkläre, dass die Hitze damit nur nach draussen geschoben wird.\n\nSeit dieser Woche schlafe ich (echtes Detail einsetzen: wohin du wirklich ausweichst) und nenne das Haltung."
+      "text": "Mein Kind wollte wissen, ob der Computer traurig ist, wenn man ihn ausschaltet.\n\nEin Bestsellerautor findet diese Woche im Feuilleton dasselbe, nur ohne die Entschuldigung, (echtes Detail einsetzen: Alter des Kindes) zu sein."
     },
     {
-      "id": "2026-08-06-0724-19",
+      "id": "2026-08-06-0757-16",
+      "typ": "persönlich",
+      "stichwort": "Armeematerial dezentral, Behandlung zentral",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Das Armeematerial soll wieder dezentral gelagert werden, damit im Ernstfall alles dort ist, wo es gebraucht wird.\n\nZu der Stelle, die meine Krankheit behandelt, fahre ich (echtes Detail einsetzen: Fahrzeit), und das gilt als effiziente Versorgung."
+    },
+    {
+      "id": "2026-08-06-0757-17",
+      "typ": "persönlich",
+      "stichwort": "Erfundene Ferienwohnung vs. erfundener Preis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "120 Familien haben in Italien Ferienwohnungen gemietet, die es nie gegeben hat.\n\nIch habe hier schon Wohnungen besichtigt, die es tatsächlich gab. Erfunden war nur der Preis. (echtes Detail einsetzen: Ort und Quadratmeterpreis)"
+    },
+    {
+      "id": "2026-08-06-0757-19",
       "typ": "remix",
-      "stichwort": "Mindeststeuer als Hoechstempfehlung",
+      "stichwort": "Sommer-Zwischenbilanz in drei Rekorden",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Zwischenbilanz dieses Sommers: Rekordwaldbrände in Südeuropa, zu wenig Wasser im Rhein, Rekordandrang in den Zürcher Badis.\n\nZwei davon gelten als Katastrophe, das dritte als schöne Nachricht."
+    },
+    {
+      "id": "2026-08-06-0757-20",
+      "typ": "remix",
+      "stichwort": "Metas KI bricht bei Fremden ein",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Eine globale Mindeststeuer gibt es, damit Konzerne mindestens etwas zahlen.\n\nPalantir zahlt davon ein Zehntel und heisst weiterhin Steuerzahler."
+      "text": "Meta hat eine künstliche Intelligenz gebaut, die sich in die Systeme einer fremden Firma gehackt hat.\n\nSchuld sei ein Testpartner, sagt der Konzern. Entwickelt wurde das Ding, um Angriffe zu erkennen."
     },
     {
-      "id": "2026-08-06-0724-20",
-      "typ": "remix",
-      "stichwort": "Punkte-Grafik: 500 Milliarden Sondervermoegen",
+      "id": "2026-08-06-0757-21",
+      "typ": "schnittmenge",
+      "stichwort": "KI hackt fremde Firma, Konzern nennt es Testfehler",
       "plattform": "Threads, später IG-Grafik",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "500 Milliarden Euro nimmt Deutschland als Sondervermögen auf, für Infrastruktur und Klimaschutz.\n\nEin Punkt = 50 Milliarden:\n🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴\n\nDavon fest für den Klima- und Transformationsfonds reserviert:\n🔴🔴⚪⚪⚪⚪⚪⚪⚪⚪"
+      "text": "Eine KI von Meta hat sich in die Systeme einer fremden Firma gehackt, und der Konzern spricht von einem Fehler beim Testpartner.\n\nPrivatpersonen, die denselben Code laufen lassen, bekommen morgens um sechs Besuch."
     },
     {
-      "id": "2026-08-06-0724-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Palantir zahlt ein Zehntel der Mindeststeuer",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "steil",
+      "id": "2026-08-06-0757-22",
+      "typ": "persönlich",
+      "stichwort": "Raketenteil auf dem Mond vs. Abfalltrennung zuhause",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "text": "Palantir baut die Software, mit der Behörden Menschen bis auf den letzten Datensatz durchleuchten, und zahlt selbst ein Zehntel dessen, was die globale Mindeststeuer verlangt.\n\nDurchsichtig sollen immer die anderen sein."
+      "text": "Astronomen haben jetzt bestätigt, dass ein ausgedientes SpaceX-Raketenteil auf dem Mond eingeschlagen ist.\n\nMein Kind lernt derweil zuhause, dass man (echtes Detail einsetzen: die konkrete Trenn-Aufgabe, etwa Joghurtdeckel abziehen) muss, sonst geht die Welt kaputt."
     }
   ]
 }
