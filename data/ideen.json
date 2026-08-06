@@ -1,186 +1,51 @@
 {
   "datum": "2026-08-06",
-  "hinweis": "",
+  "hinweis": "5 von 20 da, der Rest lädt noch.",
   "ideen": [
     {
-      "id": "2026-08-06-2120-03",
+      "id": "2026-08-06-2151-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Weltkriegsbombe taucht im Niedrigwasser auf",
+      "stichwort": "CDU-Ministerpraesidenten und ihre eigene Rentenposition",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Bei Köln ist im Niedrigwasser des Rheins eine Weltkriegsbombe aufgetaucht, zwei Fernsehsender mussten ihre Studios räumen.\n\nDer Fluss gibt zurück, was Europa dort versenkt hat, sobald man ihm genug Wasser wegnimmt."
+      "text": "Drei CDU-Ministerpräsidenten kämpfen diese Woche für die abschlagsfreie Rente nach 45 Beitragsjahren.\n\nVor Kurzem wollten dieselben Männer sie abschaffen, damals hiess das Generationengerechtigkeit."
     },
     {
-      "id": "2026-08-06-2120-04",
+      "id": "2026-08-06-2151-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Epstein-Akten und das zuständige Ministerium",
+      "stichwort": "AfD auf Höchstwert, Union verliert nach Kabinettsumbildung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "text": "Akten im Fall Epstein werden weiter zurückgehalten, zuständig für die Aufklärung ist das Justizministerium.\n\nDessen oberster Dienstherr kommt in genau diesen Akten vor."
+      "text": "Die AfD steht im DeutschlandTrend so hoch wie noch nie, die Union verliert nach der Kabinettsumbildung weiter.\n\nZwei Jahre lang hat sie deren Sätze nachgesprochen, damit niemand mehr das Original braucht."
     },
     {
-      "id": "2026-08-06-2120-05",
+      "id": "2026-08-06-2151-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Bündnis fordert Hitzegipfel",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Mieterbund, Gewerkschaften und Umweltverbände fordern gemeinsam einen Hitzegipfel.\n\nEinen Gipfel zur Wettbewerbsfähigkeit bekommt dieses Land zweimal im Jahr, ohne dass jemand darum bitten muss."
-    },
-    {
-      "id": "2026-08-06-2120-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Apollo übernimmt Easyjet",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Easyjet gehört künftig einem US-Finanzinvestor, bewertet mit 6,7 Milliarden Euro.\n\nBei diesem Geschäftsmodell bleibt am Ende zuverlässig nur eines billig, und das sind die Löhne am Boden."
-    },
-    {
-      "id": "2026-08-06-2120-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Felssturz am Matterhorn, Touren gestoppt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Am Matterhorn ist ein Teil der Südseite abgebrochen, die Bergführer stellen sämtliche Touren ein.\n\nAuf dem Werbeplakat am Bahnhof steht der Berg unverändert da wie vor fünfzig Jahren."
-    },
-    {
-      "id": "2026-08-06-2120-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Abstammungsrecht: Adoption des eigenen Kindes",
+      "stichwort": "Heimweg-App vs. Aargauer Betäubungsfälle",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "text": "Zwei Frauen bekommen zusammen ein Kind, und eine von beiden muss es anschliessend adoptieren.\n\nDie Partei, die diese Reform seit Jahren blockiert, führt das C für christlich im Namen und den Schutz der Familie im Programm."
+      "text": "Damit Frauen sicher nach Hause kommen, gibt es jetzt eine App für den Heimweg.\n\nIn beiden Aargauer Fällen dieser Woche wurden die Frauen betäubt, bevor überhaupt jemand nach Hause ging."
     },
     {
-      "id": "2026-08-06-2120-09",
+      "id": "2026-08-06-2151-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Kartellsöldner als Drohnenpiloten, Diplome warten zwei Jahre",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Kolumbianische Söldner fliegen inzwischen Kampfdrohnen im Ukrainekrieg, angeworben aus dem Umfeld der Kartelle.\n\nEine Pflegefachfrau aus demselben Land wartet hier zwei Jahre auf die Anerkennung ihres Diploms."
-    },
-    {
-      "id": "2026-08-06-2120-10",
-      "typ": "schnittmenge",
-      "stichwort": "Grenze wird biometrisch kontrolliert, Schattenflotte nicht",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Wer ohne Papiere über eine Grenze will, wird erfasst, befragt, registriert und weggesperrt.\n\nEin Tanker ohne Flagge fährt jahrelang unbehelligt durchs Meer, bis er sein Öl verliert."
-    },
-    {
-      "id": "2026-08-06-2120-11",
-      "typ": "schnittmenge",
-      "stichwort": "Männerparlament heisst gewachsen, fünf Frauen heissen Quote",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "text": "Achtzig Prozent Männer in einem Parlament heissen historisch gewachsen.\n\nFünf Frauen in einem Gremium heissen Quote."
-    },
-    {
-      "id": "2026-08-06-2120-12",
-      "typ": "schnittmenge",
-      "stichwort": "Schweröl auf See vs. Grill im Innenhof",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Zwölf Tage Schweröl auf offener See gelten als Traumreise.\n\nEin Grillabend im Innenhof gilt als Feinstaubproblem."
-    },
-    {
-      "id": "2026-08-06-2120-14",
-      "typ": "schnittmenge",
-      "stichwort": "Frachtterminal sofort, Turnhalle seit acht Jahren",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Bedroht eine Drohne ein Frachtterminal, tagt am nächsten Morgen die halbe Regierung.\n\nSeit acht Jahren bröckelt die Decke einer Turnhalle, und das heisst Sanierungsstau."
-    },
-    {
-      "id": "2026-08-06-2120-15",
-      "typ": "schnittmenge",
-      "stichwort": "Chinesisches Modell gratis vs. kalifornisches Absaugen",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "text": "Stellt eine chinesische Firma ihr KI-Modell gratis ins Netz, gilt das als Sicherheitsrisiko.\n\nSaugt eine kalifornische Firma das halbe Internet ab, gilt das als Innovation."
-    },
-    {
-      "id": "2026-08-06-2120-17",
-      "typ": "persönlich",
-      "stichwort": "Kind legt sich bei Hitze hin, Erwachsene laufen Ultratrail",
+      "stichwort": "Street Parade bewilligt, Demo nicht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "text": "Mein Kind hat heute entschieden, dass es bei dieser Hitze nicht rennt, und sich in den Schatten gelegt (echtes Detail einsetzen: wohin genau, etwa Balkon oder Wohnzimmerboden).\n\nErwachsene laufen bei derselben Temperatur hundert Kilometer und nennen es mentale Stärke."
+      "text": "Zur Street Parade fährt Zürich am Samstag eine Million Menschen mit dem öffentlichen Verkehr in die Innenstadt, und die Stadt kriegt das organisiert.\n\nBei dreitausend Leuten mit Transparenten scheitert es regelmässig schon an der Bewilligung."
     },
     {
-      "id": "2026-08-06-2120-18",
-      "typ": "persönlich",
-      "stichwort": "Studienlage E-Trotti vs. Studienlage chronische Krankheit",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Über E-Trotti-Unfälle gibt es seit dieser Woche eine Studie mit Zahlen, Grafiken und Empfehlungen.\n\nZu der Krankheit, mit der ich seit (echtes Detail einsetzen: Anzahl Jahre) lebe, gibt es eine Broschüre mit dem Rat, es langsam anzugehen."
-    },
-    {
-      "id": "2026-08-06-2120-19",
-      "typ": "persönlich",
-      "stichwort": "ECO-Programm seit sieben Jahren vs. Milliarde fürs Nichtbauen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren im ECO-Programm, aus Prinzip, obwohl es ewig dauert.\n\nEin Energiekonzern kassiert in den USA gerade über eine Milliarde Dollar dafür, dass er Windparks nicht baut."
-    },
-    {
-      "id": "2026-08-06-2120-20",
-      "typ": "remix",
-      "stichwort": "Kanada, Teleprompter, Nachbar im Süden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Kanadas Premier steht mitten in der Rede ohne Teleprompter da und macht daraus einen Witz über den Nachbarn im Süden.\n\nSüdlich der Grenze steht derselbe Text auf dem Prompter und stimmt trotzdem nicht."
-    },
-    {
-      "id": "2026-08-06-2120-21",
+      "id": "2026-08-06-2151-05",
       "typ": "politisch-aktuell",
-      "stichwort": "USA zahlen RWE fürs Nichtbauen von Windparks",
+      "stichwort": "Was «moderat» in den US-Vorwahlen heisst",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Über eine Milliarde Dollar überweist die Trump-Regierung an RWE, damit geplante Windparks nicht gebaut werden.\n\nDer teuerste Windpark der Welt steht jetzt nirgendwo."
-    },
-    {
-      "id": "2026-08-06-2120-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Abstammungsrecht: zwei Mütter, eine muss adoptieren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Zwei Frauen bekommen in Deutschland ein Kind, und eine von beiden muss es hinterher adoptieren.\n\nEin Ehemann wird automatisch Vater, auch wenn nichts an dem Kind von ihm stammt."
-    },
-    {
-      "id": "2026-08-06-2120-23",
-      "typ": "schnittmenge",
-      "stichwort": "Gratis-KI aus China vs. Bezahl-KI aus Kalifornien",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "text": "Kommt ein KI-Modell gratis aus China, warnen hier alle vor dem Sicherheitsrisiko.\n\nDasselbe Modell aus Kalifornien, nur gegen Gebühr, heisst Fortschritt."
-    },
-    {
-      "id": "2026-08-06-2120-24",
-      "typ": "persönlich",
-      "stichwort": "Ultra-Trail-Gesicht für Likes vs. eigene Belastungsgrenze",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Junge Menschen rennen freiwillig hundert Kilometer am Stück und filmen sich dabei bei Kilometer achtzig.\n\nDenselben Gesichtsausdruck habe ich nach (echtes Detail einsetzen: konkrete Alltagsstrecke, etwa vom Sofa bis zum Briefkasten), und dafür gibt es keine Startnummer."
+      "text": "Politikwissenschaftler warnen, in den Vorwahlen der Demokraten würden moderate Positionen verdrängt.\n\nModerat heisst dort: Krankenversicherung ja, aber bitte nur für die, die sie sich ohnehin leisten können."
     }
   ]
 }
