@@ -27,9 +27,27 @@ diesem Repo (kein Backend, keine Secrets auf der Seite).
 - Ab 4 in der Bewertung erscheint "3 Varianten anfordern" (Issue
   `VARIANTE: <id>`, gleicher Poller, Varianten erscheinen zuoberst). Auch
   dieser Knopf zeigt die Laufzeit.
-- **Gemessene Wartezeiten (04.08.2026):** Varianten 13,6 Sekunden, ganze
-  Runde 4 bis 7 Minuten. Alles darüber ist Poll-Takt plus Pages-Deploy,
-  darum der Ein-Minuten-Takt und das Polling der Seite alle 5 Sekunden.
+- **Gemessene Wartezeiten (06.08.2026, nach dem Umbau):** ganze Runde 3:15,
+  erste Teilliste nach 2:39. Eine Runde wird seither in vier parallele
+  Teilaufträge über je 5 Ideen zerlegt, und der erste fertige Teil geht sofort
+  raus; die restlichen 15 kommen in einem zweiten Push nach. Vorher, mit einem
+  einzigen Auftrag über alle 20: **9:11** (5:48 Generierung, 1:04
+  Ähnlichkeits-Gate, 2:06 Ersatzrunde plus Publizieren). Varianten 13,6
+  Sekunden (Messung 04.08.).
+- **Die Seite holt ihre Daten NICHT über den Pages-Build.** Am 06.08.2026 hat
+  das Skript um 21:29:13 publiziert, der zugehörige Pages-Build endete auf
+  `errored`, und die Seite hätte die 20 Vorschläge darum **nie** gezeigt: nach
+  20 Minuten wäre nur „Keine neue Liste angekommen" erschienen. Am 05.08. lief
+  er zweimal auf `errored`, sonst dauert er 35 bis 50 Sekunden. Seither holen
+  `index.html` und `best.html` `data/*.json` über die **SHA-gepinnte
+  raw-URL**: erst den SHA von `main` per commits-API, dann
+  `raw.githubusercontent.com/<repo>/<sha>/data/...`. Diese URL ist pro Commit
+  eindeutig und kann darum nicht abgestanden sein. `raw/main` allein taugt
+  nicht, es hat `max-age=300` und ignoriert den Cache-Buster (gemessen:
+  `X-Cache: HIT` auf einem nie abgefragten Query-String). Rückfallkette
+  `raw/<sha>` → `raw/main` → Pages-Pfad, ohne Token greift das API-Limit von
+  60 Abrufen pro Stunde und der Rückfall übernimmt. Die HTML-Dateien selbst
+  kommen weiter von Pages, die ändern sich selten.
 - Jede Idee trägt `schaerfe` (breit/mittel/steil, filterbar neben dem Typ)
   und `haltbarkeit` (evergreen/tagesgebunden). Bewährte Format-Kategorien
   streut der Generator im Hintergrund rotierend ein

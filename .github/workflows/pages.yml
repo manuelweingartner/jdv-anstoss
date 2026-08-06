@@ -1,0 +1,47 @@
+# Deploy der Seite ueber GitHub Actions statt ueber den Legacy-Pages-Build.
+#
+# Warum: am 06.08.2026 schlugen ab 21:29 ALLE Legacy-Builds fehl ("Page build
+# failed", error.message leer), der letzte erfolgreiche war um 06:04. Die Seite
+# war damit einen ganzen Tag eingefroren, ohne dass es jemandem auffiel, weil
+# der Generator brav weiterlief und "publiziert" ins Log schrieb. Das Repo hat
+# sechs Dateien und kein Liquid, der Fehler lag also nicht am Inhalt. Der
+# Actions-Weg hat Logs, laesst sich per Hand ausloesen und braucht kein Jekyll.
+#
+# paths-ignore auf data/**: eine Runde pusht seit dem Umbau nach JEDEM Shard,
+# also sieben bis neun Mal. Jeder dieser Pushes wuerde sonst einen Deploy
+# ausloesen, obwohl die Seite ihre Daten laengst an Pages vorbei ueber die
+# SHA-gepinnte raw-URL holt (siehe index.html). Deploys braucht nur, wer HTML
+# aendert.
+name: Pages
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data/**'
+      - 'README.md'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4
