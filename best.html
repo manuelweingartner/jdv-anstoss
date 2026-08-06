@@ -132,6 +132,46 @@ const REASONS = ['zu erklärend', 'konstruiert', 'kein Widerspruch', 'Thema fals
 const lokal = JSON.parse(localStorage.getItem(LS_STATE) || '{}');
 const saveLokal = () => localStorage.setItem(LS_STATE, JSON.stringify(lokal));
 
+/* Daten am Pages-Build vorbei laden, gleiche Begruendung wie in index.html:
+   der Build hing am 06.08.2026 sieben Minuten und lieferte 17 Minuten nach dem
+   Knopfdruck noch die alte Liste. SHA-gepinnte raw-URL ist pro Commit
+   eindeutig und damit nie abgestanden; raw/main (max-age=300, Cache-Buster
+   wirkungslos) und der Pages-Pfad bleiben als Rueckfall. */
+let shaAus = false;
+async function headShaSafe() {
+  if (shaAus) return null;
+  try {
+    const tok = localStorage.getItem(LS_TOKEN);
+    const h = { Accept: 'application/vnd.github+json' };
+    if (tok) h.Authorization = `Bearer ${tok}`;
+    const r = await fetch(`https://api.github.com/repos/${REPO}/commits?per_page=1`,
+      { headers: h });
+    if (!r.ok) throw new Error(`commits ${r.status}`);
+    return (await r.json())[0].sha;
+  } catch (e) {
+    shaAus = true;
+    return null;
+  }
+}
+
+async function ladeDaten(name, sha) {
+  const quellen = [];
+  if (sha) quellen.push(`https://raw.githubusercontent.com/${REPO}/${sha}/data/${name}`);
+  quellen.push(`https://raw.githubusercontent.com/${REPO}/main/data/${name}?t=${Date.now()}`);
+  quellen.push(`data/${name}?t=${Date.now()}`);
+  let letzter = new Error('keine Quelle');
+  for (const u of quellen) {
+    try {
+      const r = await fetch(u);
+      if (r.ok) return await r.json();
+      letzter = new Error(`${r.status}`);
+    } catch (e) {
+      letzter = e;
+    }
+  }
+  throw letzter;
+}
+
 function toast(msg) {
   const t = document.getElementById('toast');
   t.textContent = msg; t.classList.add('show');
@@ -182,12 +222,13 @@ async function sendIssue(title, body) {
 
 async function loadIdeen() {
   const all = new Map();
+  const sha = await headShaSafe();
   try {
-    const a = await (await fetch(`data/archiv.json?t=${Date.now()}`)).json();
+    const a = await ladeDaten('archiv.json', sha);
     (a.ideen || []).forEach(i => all.set(i.id, i));
   } catch (e) {}
   try {
-    const d = await (await fetch(`data/ideen.json?t=${Date.now()}`)).json();
+    const d = await ladeDaten('ideen.json', sha);
     (d.ideen || []).forEach(i => all.set(i.id, { ...i, datum: d.datum }));
   } catch (e) {}
   return all;
