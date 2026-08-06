@@ -1,186 +1,177 @@
 {
-  "datum": "2026-08-05",
-  "hinweis": "",
+  "datum": "2026-08-06",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 19 statt 20.",
   "ideen": [
     {
-      "id": "2026-08-05-1116-02",
+      "id": "2026-08-06-0724-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Monarchie-Töchter als Modernisierung",
+      "stichwort": "Misox: Strafregisterauszug fuer EU-Buerger",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Europas Monarchien gelten plötzlich als fortschrittlich, weil bald ein paar Töchter erben.\n\nDie Qualifikation bleibt dieselbe: richtige Vagina zur richtigen Zeit."
+      "text": "Graubünden verlangt von EU-Bürger*innen neu einen Strafregisterauszug, strenger als es der Bund erlaubt, wegen der Mafia.\n\nDie Firmen, über die das Geld tatsächlich läuft, brauchen weiterhin nur einen Handelsregisterauszug."
     },
     {
-      "id": "2026-08-05-1116-03",
+      "id": "2026-08-06-0724-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Polen: Gewalt gegen Ukrainer*innen",
+      "stichwort": "Roesti kuendigt verfehltes Klimaziel an",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Albert Rösti sagt, die Schweiz werde ihr Klimaziel für 2030 wohl nicht erreichen.\n\nVier Jahre vorher Bescheid geben heisst in der Schule Betrugsversuch und in der Politik Transparenz."
+    },
+    {
+      "id": "2026-08-06-0724-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "SVP-Politiker loest Klimaprobleme mit Jeeps",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Ein SVP-Politiker will die Klimaprobleme im Berggebiet mit Jeeps lösen.\n\nDie Feuerwehr wartet gespannt auf den Vorschlag, Brände mit Benzin einzudämmen."
+    },
+    {
+      "id": "2026-08-06-0724-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Krankenkassen verzocken Millionen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "text": "In Polen werden Menschen zusammengeschlagen, die vor russischen Raketen geflohen sind.\n\nDie Täter haben monatelang gelesen, dass diese Leute das eigentliche Problem seien, und irgendwann glaubt man alles, was gratis ist."
+      "text": "Krankenkassen und Kassenärztliche Vereinigungen haben erneut Millionen mit fragwürdigen Anlagen verloren.\n\nBeim nächsten Beitragssprung wird dann wieder stehen, die Versicherten gingen zu oft zum Arzt."
     },
     {
-      "id": "2026-08-05-1116-04",
+      "id": "2026-08-06-0724-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Notabfischung als Rettung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Millionen Fische drohen in ausgetrockneten Schweizer Bächen zu sterben, deshalb werden sie jetzt notabgefischt.\n\nGerettet heisst in diesem Fall: rausgeholt, verfrachtet, und der Bach bleibt trocken."
-    },
-    {
-      "id": "2026-08-05-1116-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zürcher Drogenszene: Sichtbarkeit als Problem",
+      "stichwort": "bpb soll zurueck zum Linksextremismus",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "text": "Zürcher Gewerbetreibende warnen vor einem zweiten Platzspitz, die Stadt schickt mehr Polizei.\n\nSüchtige verschwinden davon nicht, sie stehen nur ein paar Strassen weiter, wo niemand ein Schaufenster hat."
+      "text": "Die Bundeszentrale für politische Bildung soll sich wieder verstärkt um Linksextremismus kümmern.\n\nBeschlossen in derselben Woche, in der ein Gericht eine rechte Terrorzelle verurteilt hat."
     },
     {
-      "id": "2026-08-05-1116-07",
+      "id": "2026-08-06-0724-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Gotthard-Nachtsperren vs. Bahnausbau",
+      "stichwort": "Klimaanlagen fuer alle als Hitzepolitik",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Gegen den Hitzesommer schlägt die Politik jetzt Klimaanlagen für alle vor.\n\nEin Gerät, das die Hitze aus der Wohnung auf die Strasse bläst, wo dann alle stehen, die keine haben."
+    },
+    {
+      "id": "2026-08-06-0724-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Raser ueberfuehrt sich mit eigenen Videos",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "text": "Zwölf Nächte lang ist der Gotthardtunnel im August gesperrt, und das Land bespricht das wie eine Naturkatastrophe.\n\nUnter dem Berg fährt die ganze Zeit eine Bahn, über die seit dreissig Jahren gesagt wird, sie sei zu teuer."
+      "text": "Ein Raser im Berner Seeland ist aufgeflogen, weil er seine Fahrten selbst ins Netz gestellt hat.\n\nKein Blitzer in diesem Land arbeitet so zuverlässig wie männliche Eitelkeit."
     },
     {
-      "id": "2026-08-05-1116-08",
+      "id": "2026-08-06-0724-08",
       "typ": "politisch-aktuell",
-      "stichwort": "Mittelstand ohne Kredit, Konzerne mit Rekordgewinn",
+      "stichwort": "Niedrigwasser-Krisengipfel ohne Ursache",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Banken geben mittelständischen Betrieben kaum noch Darlehen, weil die Lage zu unsicher sei.\n\nDieselben Institute finden bei Konzernen mit Rekordgewinn erstaunlich viel Sicherheit."
+      "text": "Der Rhein führt zu wenig Wasser, also lädt der Verkehrsminister zum Krisengipfel.\n\nBesprochen werden Fahrrinnen, Baggerarbeiten und Ausweichverkehr per Lastwagen. Warum der Fluss leer ist, steht nicht auf der Traktandenliste."
     },
     {
-      "id": "2026-08-05-1116-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bafög sinkt, Reform wird beraten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Die Zahl der Bafög-Beziehenden ist erneut um sieben Prozent gesunken, während über die grosse Reform noch beraten wird.\n\nBillig wird Bildungsförderung immer dann, wenn niemand mehr hinkommt."
-    },
-    {
-      "id": "2026-08-05-1116-13",
+      "id": "2026-08-06-0724-10",
       "typ": "schnittmenge",
-      "stichwort": "Akku ersetzen darf man nicht selbst",
+      "stichwort": "Marktanpassung vs. Anspruchsdenken",
       "plattform": "Threads, später IG-Grafik",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "text": "Reparieren sollen wir alle, das steht in jeder Klimabroschüre.\n\nDen Akku öffnen darf nur, wer eine Lizenz und einen Preis hat, den man auch für ein neues Gerät zahlt."
+      "text": "Steigt die Miete, heisst das Marktanpassung.\n\nFordert jemand mehr Lohn, heisst das Anspruchsdenken."
     },
     {
-      "id": "2026-08-05-1116-14",
+      "id": "2026-08-06-0724-11",
       "typ": "schnittmenge",
-      "stichwort": "Hitzeschutz endet an der Türschwelle",
+      "stichwort": "Zivildienst ist Dienst, Care-Arbeit ist Familie",
       "plattform": "Threads, später IG-Grafik",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "text": "Kühlräume für alle, sagt das Hitzekonzept.\n\nWer nicht selbst hinkommt, ist im Konzept nicht vorgesehen."
+      "text": "Junge Männer, die ein Jahr lang alte Menschen pflegen, leisten einen Dienst an der Gesellschaft.\n\nFrauen, die dasselbe ein Leben lang tun, haben einfach Familie."
     },
     {
-      "id": "2026-08-05-1116-15",
+      "id": "2026-08-06-0724-12",
       "typ": "schnittmenge",
-      "stichwort": "Gründen aus Verzweiflung",
+      "stichwort": "Schutzbrille fuer zwei Minuten",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Für zwei Minuten Sonnenfinsternis kauft das halbe Land eine Spezialbrille, damit die Augen keinen Schaden nehmen.\n\nDen Rest des Jahres reicht Wegschauen."
+    },
+    {
+      "id": "2026-08-06-0724-13",
+      "typ": "schnittmenge",
+      "stichwort": "Buch statt Wohnung",
       "plattform": "Threads, später IG-Grafik",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "text": "Die Zahl der Firmengründungen steigt deutlich, meldet die Handelskammer, und nennt das Unternehmergeist.\n\nWer keine Stelle findet und trotzdem Miete zahlen muss, nennt es anders."
+      "haltbarkeit": "tagesgebunden",
+      "text": "Wohnungslose Jugendliche erzählen jetzt in einem Buch, wie sie auf der Strasse gelandet sind.\n\nEine Wohnung bekommt davon niemand."
     },
     {
-      "id": "2026-08-05-1116-17",
+      "id": "2026-08-06-0724-14",
+      "typ": "schnittmenge",
+      "stichwort": "Rekordgage jeden Franken wert",
+      "plattform": "Threads, später IG-Grafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Für einen Musiker ist eine Rekordgage jeden Franken wert, da sind sich am Openair alle einig.\n\nBeim Pflegepersonal heisst dieselbe Rechnung Kostenexplosion."
+    },
+    {
+      "id": "2026-08-06-0724-16",
       "typ": "persönlich",
-      "stichwort": "Nebenjob in der Rente vs. Krankheit",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "text": "Jede siebte Person in Rente arbeitet nebenbei noch, und das wird als Aktivität im Alter verkauft.\n\nMir hat man bei chronischer Krankheit erklärt, ich solle (echtes Detail einsetzen: der genaue Ratschlag, den du wirklich bekommen hast), dann würde das mit dem Arbeiten schon wieder."
-    },
-    {
-      "id": "2026-08-05-1116-19",
-      "typ": "persönlich",
-      "stichwort": "Brief mit 13 Jahren Verspätung",
+      "stichwort": "Kind zaehlt die Badi-Besuche",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "text": "Irgendwo ist gerade ein Brief mit dreizehn Jahren Verspätung angekommen, voller Kinderjahre.\n\nBei mir würde so eine Post im gleichen Stapel liegen wie die Arztberichte von damals, nur dass ich die nicht rührend finde, sondern noch brauche."
+      "text": "Mein Kind führt Buch, wie oft wir diesen Sommer schon in der Badi waren, und findet die Zahl grossartig.\n\nIch schaue auf dieselbe Zahl und finde sie ziemlich beunruhigend. (echtes Detail einsetzen: die tatsächliche Zahl oder die Badi)"
     },
     {
-      "id": "2026-08-05-1116-20",
+      "id": "2026-08-06-0724-17",
+      "typ": "persönlich",
+      "stichwort": "Taskforce fuers Gas, Ordner fuers Medikament",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Der Bund setzt eine Taskforce ein für den Fall, dass das Gas knapp wird.\n\nAls mein Medikament knapp war, hiess die Taskforce ich, mit einem Ordner und sehr viel Telefonieren. (echtes Detail einsetzen: welches Mittel und wie lange es dauerte)"
+    },
+    {
+      "id": "2026-08-06-0724-18",
+      "typ": "persönlich",
+      "stichwort": "Keine Klimaanlage aus Prinzip",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Wir haben keine Klimaanlage, weil ich seit Jahren erkläre, dass die Hitze damit nur nach draussen geschoben wird.\n\nSeit dieser Woche schlafe ich (echtes Detail einsetzen: wohin du wirklich ausweichst) und nenne das Haltung."
+    },
+    {
+      "id": "2026-08-06-0724-19",
       "typ": "remix",
-      "stichwort": "Flughafen-Sicherheit gebaut für genau diesen Fall",
+      "stichwort": "Mindeststeuer als Hoechstempfehlung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Ein Frachtflughafen wird gebaut, überwacht und militärisch gesichert für den einen Fall, dass etwas Verdächtiges am Zaun auftaucht.\n\nGefunden hat es dann jemand nachts neben dem Flugzeug, und danach war der Betrieb eingestellt."
+      "text": "Eine globale Mindeststeuer gibt es, damit Konzerne mindestens etwas zahlen.\n\nPalantir zahlt davon ein Zehntel und heisst weiterhin Steuerzahler."
     },
     {
-      "id": "2026-08-05-1116-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Königinnen als Modernisierung der Erbfolge",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Europas Monarchien bekommen in den nächsten Jahren mehrere Königinnen, und ein Experte nennt das einen Trumpf für die Institution.\n\nModernisiert wird dabei das Geschlecht der Person, die den Job geerbt hat."
-    },
-    {
-      "id": "2026-08-05-1116-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gründungswelle als Aufbruch verbucht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Deutlich mehr Firmengründungen meldet die Handelskammer und spricht von Aufbruch.\n\nGegründet wird, weil die Stelle weg ist, die Bewerbungen nichts bringen und irgendwer beim Amt ein Konzept sehen will."
-    },
-    {
-      "id": "2026-08-05-1116-23",
-      "typ": "schnittmenge",
-      "stichwort": "Armut als Führungsfehler bei McDonald's",
+      "id": "2026-08-06-0724-20",
+      "typ": "remix",
+      "stichwort": "Punkte-Grafik: 500 Milliarden Sondervermoegen",
       "plattform": "Threads, später IG-Grafik",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "Bei McDonald's kaufen Menschen mit kleinen Einkommen weniger, also muss der US-Chef gehen.\n\nArmut gilt in dieser Rechnung als Führungsfehler und wird mit einer Personalie behoben."
+      "text": "500 Milliarden Euro nimmt Deutschland als Sondervermögen auf, für Infrastruktur und Klimaschutz.\n\nEin Punkt = 50 Milliarden:\n🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴\n\nDavon fest für den Klima- und Transformationsfonds reserviert:\n🔴🔴⚪⚪⚪⚪⚪⚪⚪⚪"
     },
     {
-      "id": "2026-08-05-1116-24",
-      "typ": "schnittmenge",
-      "stichwort": "Notfallplan für den Käfer, Beobachtungszeitraum fürs Klima",
-      "plattform": "Threads, später IG-Grafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "text": "Ein eingeschleppter Käfer bekommt Meldepflicht, Sperrzone und einen Notfallplan.\n\nDas Klima, das ihn hergebracht hat, bekommt einen Beobachtungszeitraum."
-    },
-    {
-      "id": "2026-08-05-1116-25",
-      "typ": "persönlich",
-      "stichwort": "Brief mit dreizehn Jahren Zustellzeit",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Dreizehn Jahre war ein Brief unterwegs, und drin standen Spaghettireste und Schlittenfahrten mit kleinen Kindern.\n\nBei mir kommt sowas schneller an: mein Kind legt die Nachricht direkt auf die Tastatur, damit ich sie nicht dreizehn Jahre lang übersehe. (echtes Detail einsetzen: was zuletzt wirklich dort lag)"
-    },
-    {
-      "id": "2026-08-05-1116-26",
-      "typ": "persönlich",
-      "stichwort": "Kind auf dem Velo, Autos im Quartier",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Seit mein Kind Velo fährt, kenne ich jedes Auto im Quartier persönlich, vor allem die, die knapp genug hupen.\n\nGestritten wird trotzdem darüber, ob Kinder auf der Strasse ein Sicherheitsrisiko sind, und gemeint sind dabei die Kinder. (echtes Detail einsetzen: die Stelle im Quartier, wo es wirklich eng wird)"
-    },
-    {
-      "id": "2026-08-05-1116-27",
+      "id": "2026-08-06-0724-22",
       "typ": "politisch-aktuell",
-      "stichwort": "Geleaktes Telefonat zu Abtreibungsverboten",
+      "stichwort": "Palantir zahlt ein Zehntel der Mindeststeuer",
       "plattform": "Threads, später IG-Grafik",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "text": "Ein geleaktes Telefonat des US-Justizministers dreht sich darum, wie Abtreibungen noch weiter eingeschränkt werden können.\n\nAm Gespräch beteiligt war niemand, der jemals in diese Lage kommen wird."
+      "text": "Palantir baut die Software, mit der Behörden Menschen bis auf den letzten Datensatz durchleuchten, und zahlt selbst ein Zehntel dessen, was die globale Mindeststeuer verlangt.\n\nDurchsichtig sollen immer die anderen sein."
     }
   ]
 }
