@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -94,13 +94,13 @@
       "text": "Meine Tochter wollte wissen, ob unsere Wohnung uns gehört. Nein, sagte ich, wir zahlen sie nur ab. Für jemand anderen."
     },
     {
-      "id": "2026-08-07-0559-11",
-      "typ": "persönlich",
-      "stichwort": "ECO-Programm und das Vorspülen von Hand",
+      "id": "2026-08-07-0559-11e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Jugendamt vs. Meta-Strafe",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Unsere Abwaschmaschine läuft seit sieben Jahren nur im ECO-Programm, aus Prinzip. Vorgespült wird von Hand, mit heissem Wasser."
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Wer sein Kind allein vor dem Bildschirm lässt, bekommt Besuch vom Jugendamt. Meta bekommt eine Rechnung."
     },
     {
       "id": "2026-08-07-0559-12",
