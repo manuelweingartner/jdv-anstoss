@@ -1,8 +1,35 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-07-0559-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "FIFA ist ein Verein wie der Turnverein",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "text": "Rechtlich ist die FIFA in der Schweiz ein Verein wie der Turnverein im Dorf. Beim Turnverein prüft wenigstens jemand die Kasse."
+    },
+    {
+      "id": "2026-08-07-0559-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "ZDF-Talk über mehr arbeiten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Im ZDF diskutiert eine Runde eine Stunde lang, dass wir alle mehr arbeiten müssen. Das war die Arbeit."
+    },
+    {
+      "id": "2026-08-07-0559-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Geburtstourismus vs. Abtreibungsverbot",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Die USA verschärfen die Einreiseregeln für Schwangere. Wer schon im Land ist, darf ohnehin nicht selbst entscheiden, ob sie schwanger bleibt."
+    },
     {
       "id": "2026-08-07-0559-04",
       "typ": "politisch-aktuell",
