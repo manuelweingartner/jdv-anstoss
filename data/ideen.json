@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -29,6 +29,33 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "text": "Katherina Reiche kürzt die Sanierungsförderung. Bezahlt wird die Wärmewende weiter von Mieter*innen, jetzt einfach über die Heizkosten."
+    },
+    {
+      "id": "2026-08-07-0949-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Meta-Kinderschutzstrafe vs. Toilettenschilder",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Meta zahlt eine halbe Milliarde Strafe für fehlenden Kinderschutz. Die Junge SVP kämpft gegen Toiletten ohne Geschlecht."
+    },
+    {
+      "id": "2026-08-07-0949-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pflegeroboter Lio statt Personal",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Seit Jahren fordert die Pflege mehr Personal. Geliefert wird jetzt ein Roboter, der freundlich Hallo sagt."
+    },
+    {
+      "id": "2026-08-07-0949-06",
+      "typ": "remix",
+      "stichwort": "Weniger Staat, ausser vor der Klotür",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Weniger Staat, fordert die Junge SVP. Ausser vor der Toilettentür, da soll er kontrollieren, wer reindarf."
     },
     {
       "id": "2026-08-07-0949-07",
