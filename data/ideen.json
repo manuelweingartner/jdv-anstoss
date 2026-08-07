@@ -1,8 +1,35 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "6 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-07-0559-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lotto-Rente vs. Grundeinkommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Das bedingungslose Grundeinkommen lehnte die Schweiz ab, weil dann niemand mehr arbeitet. Jemand bekommt hier jetzt dreissig Jahre lang 22'222 Franken monatlich, und alle gratulieren."
+    },
+    {
+      "id": "2026-08-07-0559-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rote Kapelle: Widerstand mit achtzig Jahren Verspätung",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Hilde Coppi wurde von den Nazis ermordet, jetzt erscheint ein Buch über ihren Mut. Widerstand findet dieses Land grossartig, sobald er achtzig Jahre her ist."
+    },
+    {
+      "id": "2026-08-07-0559-06",
+      "typ": "remix",
+      "stichwort": "Grossraumbüro und die laut diktierte Mail",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Grossraumbüros wurden gebaut, damit Menschen miteinander reden. Jetzt diktiert jeder seine Mails laut ins Handy, und die Einzige, mit der noch gesprochen wird, ist Frau Meier."
+    },
     {
       "id": "2026-08-07-0559-07",
       "typ": "schnittmenge",
