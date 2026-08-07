@@ -15,25 +15,51 @@ diesem Repo (kein Backend, keine Secrets auf der Seite).
   nur dieses Repo, Issues Read+Write. Ohne Token sammelt die Seite alles in
   einer localStorage-Queue und sendet es nach der Eingabe nach. Der
   aktuelle Token läuft am 04.08.2027 ab.
-- Zuunterst steht **immer** "20 neue", optional mit Fokus-Stichwort: das legt
-  ein Issue `MEHR:` (bzw. `MEHR: <Stichwort>`) an; der lokale Windows-Task
-  `jdvMehrIdeen` (**jede Minute**, nur bei laufendem Laptop) generiert
-  daraufhin eine frische Liste und schliesst das Issue. Der Knopf zeigt
-  danach die Laufzeit ("Läuft … 2:15"), übersteht einen Reload und
-  verweigert einen zweiten Auftrag, solange einer läuft: mehrere
-  Knopfdrücke erzeugten sonst mehrere Runden, von denen jede die vorige ins
-  Archiv schob. **Eine neue Runde ersetzt die ganze Liste**, auch wenn noch
-  Vorschläge offen sind.
+- **Eine Runde sind 12 Vorschläge** (bis 06.08.2026 waren es 20, Entscheid
+  Manuel). Zwei Gründe fielen zusammen: eine komplette Runde soll unter zwei
+  Minuten bleiben, und das ist bei rund 19 Sekunden Modellzeit pro Idee plus
+  37 Sekunden Anlauf mit 20 Ideen nicht zu machen (gemessen 146 Sekunden). Dazu
+  die Trefferquote: von 184 Urteilen auf der Seite waren 144 ein Nein und nur 3
+  ein Ja, häufigster Grund „einfach nicht lustig". 20 Vorschläge, von denen 18
+  wegfliegen, sind nicht besser als 12.
+- Zuunterst steht **immer** der Nachschub-Knopf ("12 neue"), optional mit
+  Fokus-Stichwort: das legt ein Issue `MEHR:` (bzw. `MEHR: <Stichwort>`) an;
+  der lokale Windows-Task `jdvMehrIdeen` (**jede Minute**, nur bei laufendem
+  Laptop) generiert daraufhin eine frische Liste und schliesst das Issue. Der
+  Knopf zeigt danach Laufzeit und Stand ("Läuft … 1:23 · 6 von 12"), übersteht
+  einen Reload und verweigert einen zweiten Auftrag, solange einer läuft:
+  mehrere Knopfdrücke erzeugten sonst mehrere Runden, von denen jede die
+  vorige ins Archiv schob. **Eine neue Runde ersetzt die ganze Liste**, auch
+  wenn noch Vorschläge offen sind.
+  Der Knopftext wird in `index.html` aus `SOLL` abgeleitet und ist **zugleich
+  das Protokollwort**: `mehr_poll.py` liest alles, was nicht `<Zahl> neue` ist,
+  als Fokus-Stichwort. Ein von Hand geänderter Knopftext hätte aus jedem
+  Knopfdruck eine Fokus-Runde über das Stichwort „12 neue" gemacht.
 - Ab 4 in der Bewertung erscheint "3 Varianten anfordern" (Issue
   `VARIANTE: <id>`, gleicher Poller, Varianten erscheinen zuoberst). Auch
   dieser Knopf zeigt die Laufzeit.
-- **Gemessene Wartezeiten (06.08.2026, nach dem Umbau):** ganze Runde 3:15,
-  erste Teilliste nach 2:39. Eine Runde wird seither in vier parallele
-  Teilaufträge über je 5 Ideen zerlegt, und der erste fertige Teil geht sofort
-  raus; die restlichen 15 kommen in einem zweiten Push nach. Vorher, mit einem
-  einzigen Auftrag über alle 20: **9:11** (5:48 Generierung, 1:04
-  Ähnlichkeits-Gate, 2:06 Ersatzrunde plus Publizieren). Varianten 13,6
-  Sekunden (Messung 04.08.).
+- **Gemessene Wartezeiten (06.08.2026, nach dem Umbau).** Vorher, ein einziger
+  Auftrag über alle 20 Ideen und alles streng hintereinander: **9:11** (5:48
+  Generierung, 1:04 Ähnlichkeits-Gate, 2:06 Ersatzrunde plus Publizieren).
+  Nachher, bei 20 Ideen zum Vergleich: erste Vorschläge nach 57 Sekunden, alle
+  20 nach 146. Bei 12 entsprechend weniger. Varianten 13,6 Sekunden (Messung
+  04.08.). Vier Änderungen tragen das:
+  1. Die Runde wird in **parallele Teilaufträge über je 3 Ideen** zerlegt.
+     Zuschnitt ist gemessen: rund 37 Sekunden fix plus 19 pro Idee (n=2 74s,
+     n=3 90s, n=5 131s), ein Ähnlichkeits-Gate 25 bis 35 Sekunden, ein CLI-Start
+     allein 8 bis 10.
+  2. **Publiziert wird nach jedem Teilauftrag**, die Liste füllt sich also
+     sichtbar. Die Seite lädt erst am Ende neu (Feld `fertig` in `ideen.json`)
+     und zeigt bis dahin den Stand am Knopf.
+  3. **Jeder Teilauftrag läuft doppelt, der schnellere zählt.** Die Streuung
+     steckt in der einzelnen Anfrage, nicht in der Menge: der langsamste Shard
+     einer Runde hatte nur zwei Ideen und brauchte 191 Sekunden, wo die
+     Einzelmessung 74 sagt. Das Verdoppeln drückte den Nachzügler von 201 auf
+     146 Sekunden.
+  4. **Ähnlichkeits-Gate und Ersatzrunde laufen erst nach dem Publizieren**
+     (auf Sonnet, in Vierer-Häppchen parallel). Der Preis ist echt: bis die
+     Korrekturrunde durch ist, können Vorschläge auf der Seite stehen, die eine
+     bereits gepostete Pointe nacherzählen. In einer Runde waren das 4 von 20.
 - **Die Seite holt ihre Daten NICHT über den Pages-Build.** Am 06.08.2026 hat
   das Skript um 21:29:13 publiziert, der zugehörige Pages-Build endete auf
   `errored`, und die Seite hätte die 20 Vorschläge darum **nie** gezeigt: nach
