@@ -1,8 +1,35 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "6 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-07-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Walliser Polizei überlastet vs. überlasteter Angestellter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Meldet die Walliser Polizei Überlastung, kommen Ressourcen. Meldet ein Angestellter dasselbe, kommt ein Kurs zur Selbstorganisation."
+    },
+    {
+      "id": "2026-08-07-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "München-Urteil: Debatte über Migration statt über die Angegriffenen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Auf eine Gewerkschaftsdemo fährt jemand ein Auto. Diskutiert wurde danach über Migration, nie über die Angegriffenen."
+    },
+    {
+      "id": "2026-08-07-0757-06",
+      "typ": "remix",
+      "stichwort": "Taggeldversicherung schickt den eigenen Arzt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "text": "Die Taggeldversicherung ist für den Fall gemacht, dass jemand lange krank wird. Genau dann schickt sie ihren eigenen Arzt."
+    },
     {
       "id": "2026-08-07-0757-07",
       "typ": "schnittmenge",
