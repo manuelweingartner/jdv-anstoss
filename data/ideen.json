@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -49,31 +49,31 @@
       "text": "Seit Jahren fordert die Pflege mehr Personal. Geliefert wird jetzt ein Roboter, der freundlich Hallo sagt."
     },
     {
-      "id": "2026-08-07-0949-06",
-      "typ": "remix",
-      "stichwort": "Weniger Staat, ausser vor der Klotür",
+      "id": "2026-08-07-0949-06e",
+      "typ": "schnittmenge",
+      "stichwort": "Rente mit 63 verteidigen die im Sitzen",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Plötzlich verteidigen CDU und SPD die Rente mit 63. Profitieren wird, wer im Sitzen alt geworden ist."
+    },
+    {
+      "id": "2026-08-07-0949-07e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Polizei behält den SMS-Blaster",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Der Betrüger baut den SMS-Blaster und kommt dafür vor Gericht. Die Polizei behält das Gerät und schult damit."
+    },
+    {
+      "id": "2026-08-07-0949-08e",
+      "typ": "politisch-aktuell",
+      "stichwort": "43 Studenten, elf Jahre bis zur Festnahme",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "text": "Weniger Staat, fordert die Junge SVP. Ausser vor der Toilettentür, da soll er kontrollieren, wer reindarf."
-    },
-    {
-      "id": "2026-08-07-0949-07",
-      "typ": "schnittmenge",
-      "stichwort": "Unisex-Toilette zuhause",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Zuhause teilen sich alle dieselbe Toilette. Erst mit einem Schild an der Tür wird daraus Genderwahn."
-    },
-    {
-      "id": "2026-08-07-0949-08",
-      "typ": "schnittmenge",
-      "stichwort": "JSVP sorgt sich um die falschen Männer",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "text": "Junge SVP sorgt sich um Männer auf der Frauentoilette. Um Männer im Pfarrhaus sorgt sich niemand."
+      "haltbarkeit": "tagesgebunden",
+      "text": "Elf Jahre nach dem Verschwinden von 43 Studenten wird in Mexiko der damalige Gouverneur festgenommen. Beim Vertuschen war man schneller."
     },
     {
       "id": "2026-08-07-0949-09",
@@ -85,13 +85,13 @@
       "text": "Farbe auf einem Gemälde bringt eine Anzeige. Öl in der Grösse des Genfersees bringt eine Pressemitteilung."
     },
     {
-      "id": "2026-08-07-0949-10",
-      "typ": "persönlich",
-      "stichwort": "eine Toilette für alle, seit Jahren",
+      "id": "2026-08-07-0949-10e",
+      "typ": "schnittmenge",
+      "stichwort": "Zwei Euro pro Liter, gleich viel gefahren",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Bei uns teilen sich alle eine Toilette, seit Jahren ohne Zwischenfall. Die Junge SVP hätte da Sicherheitsbedenken."
+      "haltbarkeit": "evergreen",
+      "text": "Benzin kostet zwei Euro, gefahren wird gleich viel. Teuer genug zum Jammern, billig genug zum Fahren."
     },
     {
       "id": "2026-08-07-0949-11",
@@ -103,13 +103,13 @@
       "text": "Meine Tochter benutzt die Toilette, die gerade frei ist. Die Junge SVP braucht dafür eine Volksabstimmung."
     },
     {
-      "id": "2026-08-07-0949-12",
-      "typ": "persönlich",
-      "stichwort": "Standby abschalten vs. Rechenzentrum-Stromtarif",
+      "id": "2026-08-07-0949-12e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pflegeroboter hat einen Namen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "text": "Ich schalte nachts die Steckdosenleiste ab, wegen dem Standby (echtes Detail einsetzen). Das Rechenzentrum nebenan zahlt weniger für den Strom als ich."
+      "haltbarkeit": "tagesgebunden",
+      "text": "Assistenzroboter Lio bekommt in der Klinik einen Namen. Das Pflegepersonal bekommt eine Nummer im Dienstplan."
     }
   ]
 }
