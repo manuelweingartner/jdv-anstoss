@@ -1,124 +1,34 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-07-0757-01",
+      "id": "2026-08-07-0949-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Baschi-Album über Vaterschaft vs. zwei Wochen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Baschi macht ein ganzes Album über die Vaterschaft. Für Väter in diesem Land sind zwei Wochen vorgesehen."
-    },
-    {
-      "id": "2026-08-07-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Krisentreffen für die Fracht, nicht für den Fluss",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Die Flüsse fallen trocken. Das Krisentreffen gibt es für die Fracht, nicht für den Fluss."
-    },
-    {
-      "id": "2026-08-07-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wählbarkeit wird nur links geprüft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Linke gewinnen bei den Demokraten, und alle sorgen sich um die Wählbarkeit. Rechtsaussen wird nie nach Wählbarkeit gefragt."
-    },
-    {
-      "id": "2026-08-07-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Walliser Polizei überlastet vs. überlasteter Angestellter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Meldet die Walliser Polizei Überlastung, kommen Ressourcen. Meldet ein Angestellter dasselbe, kommt ein Kurs zur Selbstorganisation."
-    },
-    {
-      "id": "2026-08-07-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "München-Urteil: Debatte über Migration statt über die Angegriffenen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Auf eine Gewerkschaftsdemo fährt jemand ein Auto. Diskutiert wurde danach über Migration, nie über die Angegriffenen."
-    },
-    {
-      "id": "2026-08-07-0757-06",
-      "typ": "remix",
-      "stichwort": "Taggeldversicherung schickt den eigenen Arzt",
+      "stichwort": "Unisex-Toilette gibt es in jeder Wohnung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "text": "Die Taggeldversicherung ist für den Fall gemacht, dass jemand lange krank wird. Genau dann schickt sie ihren eigenen Arzt."
+      "text": "Unisex-Toiletten sind laut Junger SVP eine Gefahr für die Schweiz. In jeder Wohnung dieses Landes steht genau eine."
     },
     {
-      "id": "2026-08-07-0757-07",
-      "typ": "schnittmenge",
-      "stichwort": "Konzern-Person vs. Neugeborenes",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Konzerne werden in den USA wie Personen behandelt. Neugeborene müssen die richtigen Eltern nachweisen."
-    },
-    {
-      "id": "2026-08-07-0757-08e",
+      "id": "2026-08-07-0949-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Umweltranking kürt das am wenigsten schlimme Kreuzfahrtschiff",
+      "stichwort": "Staat raushalten, ausser beim Pinkeln",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Eine Partei will den Staat aus allem raushalten und dann doch wissen, auf welcher Toilette du pinkelst."
+    },
+    {
+      "id": "2026-08-07-0949-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reiche kürzt Sanierungsförderung, Miete zahlt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Umweltrankings für Kreuzfahrten wurden erfunden, um die Branche zu verbessern. Ausgezeichnet wird jedes Jahr das am wenigsten schlimme Schiff."
-    },
-    {
-      "id": "2026-08-07-0757-08e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Visum verlangt Social-Media-Konten, Regierung rückt keine Akten raus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "text": "Wer ein US-Visum will, legt künftig seine Social-Media-Konten offen. Wer dort regiert, legt nicht einmal seine Akten offen."
-    },
-    {
-      "id": "2026-08-07-0757-09",
-      "typ": "schnittmenge",
-      "stichwort": "Drohne über Menschenmenge, je nach Ort",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "text": "Über einer Menschenmenge in Deutschland wird eine Drohne angezeigt. Über einer Menschenmenge im Jemen wird sie ausgewertet."
-    },
-    {
-      "id": "2026-08-07-0757-10",
-      "typ": "persönlich",
-      "stichwort": "Fertigsauce als Restaurantkonzept",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Bei uns hiess Verfeinerung: ein Schuss Rahm in die Fertigsauce (echtes Detail einsetzen). Heute wäre das ein Restaurantkonzept mit Warteliste."
-    },
-    {
-      "id": "2026-08-07-0757-11",
-      "typ": "persönlich",
-      "stichwort": "Bergführer raten ab, ich auch",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Bergführer raten vom Matterhorn ab, der Permafrost hält nicht mehr. Ich rate seit Jahren von Bergen ab, mich fragt nur niemand."
-    },
-    {
-      "id": "2026-08-07-0757-12",
-      "typ": "persönlich",
-      "stichwort": "Gern geschehen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Ich poste seit Jahren gegen Rechts. Die AfD steht heute so hoch wie nie. Gern geschehen."
+      "text": "Katherina Reiche kürzt die Sanierungsförderung. Bezahlt wird die Wärmewende weiter von Mieter*innen, jetzt einfach über die Heizkosten."
     }
   ]
 }
