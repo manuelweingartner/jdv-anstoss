@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "6 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -29,6 +29,33 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "text": "Freiwillig öffnet die Telekom ihr Netz für die Konkurrenz. Freiwillig wie eine Steuererklärung."
+    },
+    {
+      "id": "2026-08-07-0732-07",
+      "typ": "schnittmenge",
+      "stichwort": "Diesel-Sondersendung vs. Mietaufschlag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Zehn Rappen mehr beim Diesel: Sondersendung. Zweihundert Franken mehr Miete: eine Zeile im Wirtschaftsteil."
+    },
+    {
+      "id": "2026-08-07-0732-08",
+      "typ": "schnittmenge",
+      "stichwort": "Senator zwei Monate Spital vs. Fragebogen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Zwei Monate Spital, und der US-Senator bleibt im Amt. Zwei Monate krank hier, und die Versicherung schickt einen Fragebogen."
+    },
+    {
+      "id": "2026-08-07-0732-09",
+      "typ": "schnittmenge",
+      "stichwort": "Epstein-Akten unauffindbar, Sozialamt weiss alles",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Das Justizministerium findet die Epstein-Akten nicht. Beim Sozialamt ist innert Tagen aktenkundig, wer bei wem übernachtet hat."
     }
   ]
 }
