@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -83,6 +83,33 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "text": "Über einer Menschenmenge in Deutschland wird eine Drohne angezeigt. Über einer Menschenmenge im Jemen wird sie ausgewertet."
+    },
+    {
+      "id": "2026-08-07-0757-10",
+      "typ": "persönlich",
+      "stichwort": "Fertigsauce als Restaurantkonzept",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Bei uns hiess Verfeinerung: ein Schuss Rahm in die Fertigsauce (echtes Detail einsetzen). Heute wäre das ein Restaurantkonzept mit Warteliste."
+    },
+    {
+      "id": "2026-08-07-0757-11",
+      "typ": "persönlich",
+      "stichwort": "Bergführer raten ab, ich auch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Bergführer raten vom Matterhorn ab, der Permafrost hält nicht mehr. Ich rate seit Jahren von Bergen ab, mich fragt nur niemand."
+    },
+    {
+      "id": "2026-08-07-0757-12",
+      "typ": "persönlich",
+      "stichwort": "Gern geschehen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Ich poste seit Jahren gegen Rechts. Die AfD steht heute so hoch wie nie. Gern geschehen."
     }
   ]
 }
