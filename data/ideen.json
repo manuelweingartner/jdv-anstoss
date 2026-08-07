@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -74,15 +74,6 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "text": "Zwei Monate Spital, und der US-Senator bleibt im Amt. Zwei Monate krank hier, und die Versicherung schickt einen Fragebogen."
-    },
-    {
-      "id": "2026-08-07-0732-09",
-      "typ": "schnittmenge",
-      "stichwort": "Epstein-Akten unauffindbar, Sozialamt weiss alles",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Das Justizministerium findet die Epstein-Akten nicht. Beim Sozialamt ist innert Tagen aktenkundig, wer bei wem übernachtet hat."
     },
     {
       "id": "2026-08-07-0732-10",
