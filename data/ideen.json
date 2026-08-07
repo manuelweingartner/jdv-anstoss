@@ -1,8 +1,35 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-07-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Baschi-Album über Vaterschaft vs. zwei Wochen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Baschi macht ein ganzes Album über die Vaterschaft. Für Väter in diesem Land sind zwei Wochen vorgesehen."
+    },
+    {
+      "id": "2026-08-07-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Krisentreffen für die Fracht, nicht für den Fluss",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Die Flüsse fallen trocken. Das Krisentreffen gibt es für die Fracht, nicht für den Fluss."
+    },
+    {
+      "id": "2026-08-07-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wählbarkeit wird nur links geprüft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Linke gewinnen bei den Demokraten, und alle sorgen sich um die Wählbarkeit. Rechtsaussen wird nie nach Wählbarkeit gefragt."
+    },
     {
       "id": "2026-08-07-0757-04",
       "typ": "politisch-aktuell",
