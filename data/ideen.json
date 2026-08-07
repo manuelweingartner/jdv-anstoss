@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -83,6 +83,33 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "text": "Farbe auf einem Gemälde bringt eine Anzeige. Öl in der Grösse des Genfersees bringt eine Pressemitteilung."
+    },
+    {
+      "id": "2026-08-07-0949-10",
+      "typ": "persönlich",
+      "stichwort": "eine Toilette für alle, seit Jahren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Bei uns teilen sich alle eine Toilette, seit Jahren ohne Zwischenfall. Die Junge SVP hätte da Sicherheitsbedenken."
+    },
+    {
+      "id": "2026-08-07-0949-11",
+      "typ": "persönlich",
+      "stichwort": "Kind nimmt die freie Kabine, Partei braucht eine Abstimmung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Meine Tochter benutzt die Toilette, die gerade frei ist. Die Junge SVP braucht dafür eine Volksabstimmung."
+    },
+    {
+      "id": "2026-08-07-0949-12",
+      "typ": "persönlich",
+      "stichwort": "Standby abschalten vs. Rechenzentrum-Stromtarif",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "text": "Ich schalte nachts die Steckdosenleiste ab, wegen dem Standby (echtes Detail einsetzen). Das Rechenzentrum nebenan zahlt weniger für den Strom als ich."
     }
   ]
 }
