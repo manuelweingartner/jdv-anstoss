@@ -5,6 +5,14 @@ die `data/ideen.json` rendert. Manuel kann pro Vorschlag kopieren, annehmen,
 ablehnen und bewerten; jedes Feedback erzeugt ein vorbefülltes GitHub-Issue in
 diesem Repo (kein Backend, keine Secrets auf der Seite).
 
+**Der Pages-Deploy läuft über einen Actions-Workflow**
+(`.github/workflows/pages.yml`), nicht über den Legacy-Build: der scheiterte am
+06.08.2026 während einer GitHub-Störung reihenweise mit `Page build failed` und
+ohne Fehlermeldung (Ursache im Log: `The job was not acquired by Runner of type
+hosted`). Der Workflow hat Logs, lässt sich per `gh workflow run Pages` von Hand
+auslösen, braucht kein Jekyll und ignoriert `data/**`. Ein Deploy ist nur nötig,
+wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
+
 - Seite: https://manuelweingartner.github.io/jdv-anstoss/
 - Befüllt wird `data/ideen.json` vom Tages-Anstoss (Windows-Task
   `jdvTagesAnstoss`, werktags 07:57; Skript und Doku im lokalen
