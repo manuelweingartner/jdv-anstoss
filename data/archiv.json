@@ -2517,6 +2517,116 @@
       "haltbarkeit": "evergreen",
       "text": "Mir wurde gegen die Krankheit schon empfohlen: kalt duschen, positiv denken, weniger googeln (echtes Detail einsetzen: der absurdeste Ratschlag). Von Leuten, die nie länger als eine Woche krank waren.",
       "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0732-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Raserlärm Boowald: Musikbox vs. Auspuff",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Ein Jugendlicher mit Musikbox im Park bekommt die Polizei. Ein Mann mit frisiertem Auspuff bekommt eine Arbeitsgruppe.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0732-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sachsen-Anhalt: wer beobachtet wird und wer vorn liegt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Wer sich gegen Rechtsextreme organisiert, landet im Verfassungsschutzbericht. Wer rechtsextrem ist, landet in den Umfragen vorn.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0732-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Glasfaser-Fairplay: freiwillige Netzöffnung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Freiwillig öffnet die Telekom ihr Netz für die Konkurrenz. Freiwillig wie eine Steuererklärung.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0732-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vincenz sitzt keinen Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Der Ex-Raiffeisen-Chef geht laut Experten keinen einzigen Tag ins Gefängnis. Wer dreimal schwarzfährt, schon.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0732-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Waffenhub ohne Drohnenschutz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Deutschlands wichtigster Waffenumschlagplatz hat keinen Drohnenschutz. Der Bundesinnenminister hat ein Konzept.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0732-06",
+      "typ": "remix",
+      "stichwort": "IV prüft, bis es sich erledigt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Die Invalidenversicherung prüft so gründlich, dass sich manche Anträge biologisch von selbst erledigen.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0732-07",
+      "typ": "schnittmenge",
+      "stichwort": "Diesel-Sondersendung vs. Mietaufschlag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Zehn Rappen mehr beim Diesel: Sondersendung. Zweihundert Franken mehr Miete: eine Zeile im Wirtschaftsteil.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0732-08",
+      "typ": "schnittmenge",
+      "stichwort": "Senator zwei Monate Spital vs. Fragebogen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Zwei Monate Spital, und der US-Senator bleibt im Amt. Zwei Monate krank hier, und die Versicherung schickt einen Fragebogen.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0732-10",
+      "typ": "persönlich",
+      "stichwort": "Tochter hat kein Social-Media-Konto",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Bald prüfen die USA die Social-Media-Konten aller Einreisenden. Meine Tochter hat keine. Also besonders verdächtig.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0732-11",
+      "typ": "persönlich",
+      "stichwort": "Miete kennt eine Richtung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Unsere Miete kennt nur eine Richtung. Der Referenzzinssatz kennt zwei, davon interessiert die Verwaltung genau eine.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0732-12",
+      "typ": "persönlich",
+      "stichwort": "Zuzug wegen tiefer Steuern, Bus fährt trotzdem stündlich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Bei uns ziehen Leute wegen der tiefen Steuern her. Der Bus fährt trotzdem nur jede Stunde (echtes Detail einsetzen).",
+      "datum": "2026-08-07"
     }
   ]
 }
