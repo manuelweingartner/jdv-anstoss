@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -83,6 +83,33 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "text": "Kündigt ein Soldat wegen dieses Krieges, prüft ihn ein Militärgericht. Angeordnet hat ihn ein Mann, den niemand prüft."
+    },
+    {
+      "id": "2026-08-07-0559-10",
+      "typ": "persönlich",
+      "stichwort": "Kind fragt, wem die Wohnung gehört",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "text": "Meine Tochter wollte wissen, ob unsere Wohnung uns gehört. Nein, sagte ich, wir zahlen sie nur ab. Für jemand anderen."
+    },
+    {
+      "id": "2026-08-07-0559-11",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm und das Vorspülen von Hand",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Unsere Abwaschmaschine läuft seit sieben Jahren nur im ECO-Programm, aus Prinzip. Vorgespült wird von Hand, mit heissem Wasser."
+    },
+    {
+      "id": "2026-08-07-0559-12",
+      "typ": "persönlich",
+      "stichwort": "Gesundheitstipps von nie länger Kranken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Mir wurde gegen die Krankheit schon empfohlen: kalt duschen, positiv denken, weniger googeln (echtes Detail einsetzen: der absurdeste Ratschlag). Von Leuten, die nie länger als eine Woche krank waren."
     }
   ]
 }
