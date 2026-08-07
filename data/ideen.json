@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -29,6 +29,33 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "text": "Freiwillig öffnet die Telekom ihr Netz für die Konkurrenz. Freiwillig wie eine Steuererklärung."
+    },
+    {
+      "id": "2026-08-07-0732-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vincenz sitzt keinen Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Der Ex-Raiffeisen-Chef geht laut Experten keinen einzigen Tag ins Gefängnis. Wer dreimal schwarzfährt, schon."
+    },
+    {
+      "id": "2026-08-07-0732-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Waffenhub ohne Drohnenschutz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Deutschlands wichtigster Waffenumschlagplatz hat keinen Drohnenschutz. Der Bundesinnenminister hat ein Konzept."
+    },
+    {
+      "id": "2026-08-07-0732-06",
+      "typ": "remix",
+      "stichwort": "IV prüft, bis es sich erledigt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Die Invalidenversicherung prüft so gründlich, dass sich manche Anträge biologisch von selbst erledigen."
     },
     {
       "id": "2026-08-07-0732-07",
