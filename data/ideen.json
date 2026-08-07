@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -67,13 +67,22 @@
       "text": "Konzerne werden in den USA wie Personen behandelt. Neugeborene müssen die richtigen Eltern nachweisen."
     },
     {
-      "id": "2026-08-07-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "Niedrigwasser löst mehr Lastwagen aus",
-      "plattform": "Threads + Bluesky + Instagram",
+      "id": "2026-08-07-0757-08e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Umweltranking kürt das am wenigsten schlimme Kreuzfahrtschiff",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Umweltrankings für Kreuzfahrten wurden erfunden, um die Branche zu verbessern. Ausgezeichnet wird jedes Jahr das am wenigsten schlimme Schiff."
+    },
+    {
+      "id": "2026-08-07-0757-08e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Visum verlangt Social-Media-Konten, Regierung rückt keine Akten raus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "text": "Der Klimawandel legt den Rhein trocken. Beschlossen wird deshalb: mehr Lastwagen, auch sonntags."
+      "text": "Wer ein US-Visum will, legt künftig seine Social-Media-Konten offen. Wer dort regiert, legt nicht einmal seine Akten offen."
     },
     {
       "id": "2026-08-07-0757-09",
