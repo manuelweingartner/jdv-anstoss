@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "6 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -29,6 +29,33 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "text": "Katherina Reiche kürzt die Sanierungsförderung. Bezahlt wird die Wärmewende weiter von Mieter*innen, jetzt einfach über die Heizkosten."
+    },
+    {
+      "id": "2026-08-07-0949-07",
+      "typ": "schnittmenge",
+      "stichwort": "Unisex-Toilette zuhause",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Zuhause teilen sich alle dieselbe Toilette. Erst mit einem Schild an der Tür wird daraus Genderwahn."
+    },
+    {
+      "id": "2026-08-07-0949-08",
+      "typ": "schnittmenge",
+      "stichwort": "JSVP sorgt sich um die falschen Männer",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Junge SVP sorgt sich um Männer auf der Frauentoilette. Um Männer im Pfarrhaus sorgt sich niemand."
+    },
+    {
+      "id": "2026-08-07-0949-09",
+      "typ": "schnittmenge",
+      "stichwort": "Farbe aufs Gemälde vs. Öl ins Meer",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Farbe auf einem Gemälde bringt eine Anzeige. Öl in der Grösse des Genfersees bringt eine Pressemitteilung."
     }
   ]
 }
