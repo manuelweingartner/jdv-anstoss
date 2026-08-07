@@ -1,115 +1,34 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-07-0559-01",
+      "id": "2026-08-07-0732-01",
       "typ": "politisch-aktuell",
-      "stichwort": "FIFA ist ein Verein wie der Turnverein",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "text": "Rechtlich ist die FIFA in der Schweiz ein Verein wie der Turnverein im Dorf. Beim Turnverein prüft wenigstens jemand die Kasse."
-    },
-    {
-      "id": "2026-08-07-0559-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "ZDF-Talk über mehr arbeiten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Im ZDF diskutiert eine Runde eine Stunde lang, dass wir alle mehr arbeiten müssen. Das war die Arbeit."
-    },
-    {
-      "id": "2026-08-07-0559-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Geburtstourismus vs. Abtreibungsverbot",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Die USA verschärfen die Einreiseregeln für Schwangere. Wer schon im Land ist, darf ohnehin nicht selbst entscheiden, ob sie schwanger bleibt."
-    },
-    {
-      "id": "2026-08-07-0559-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lotto-Rente vs. Grundeinkommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Das bedingungslose Grundeinkommen lehnte die Schweiz ab, weil dann niemand mehr arbeitet. Jemand bekommt hier jetzt dreissig Jahre lang 22'222 Franken monatlich, und alle gratulieren."
-    },
-    {
-      "id": "2026-08-07-0559-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rote Kapelle: Widerstand mit achtzig Jahren Verspätung",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Hilde Coppi wurde von den Nazis ermordet, jetzt erscheint ein Buch über ihren Mut. Widerstand findet dieses Land grossartig, sobald er achtzig Jahre her ist."
-    },
-    {
-      "id": "2026-08-07-0559-06",
-      "typ": "remix",
-      "stichwort": "Grossraumbüro und die laut diktierte Mail",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "Grossraumbüros wurden gebaut, damit Menschen miteinander reden. Jetzt diktiert jeder seine Mails laut ins Handy, und die Einzige, mit der noch gesprochen wird, ist Frau Meier."
-    },
-    {
-      "id": "2026-08-07-0559-07",
-      "typ": "schnittmenge",
-      "stichwort": "Handy weg vom Kind, Rechnung an den Konzern",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "text": "In der Schule wird dem Kind das Handy abgenommen. Dem Konzern, der es süchtig gemacht hat, wird eine Rechnung geschickt."
-    },
-    {
-      "id": "2026-08-07-0559-08",
-      "typ": "schnittmenge",
-      "stichwort": "1600 Schweine, Schlagzeile über Löscharbeiten",
+      "stichwort": "Raserlärm Boowald: Musikbox vs. Auspuff",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "text": "1600 Schweine verbrennen in einer Halle, und die Schlagzeile handelt von den Löscharbeiten. Bei 1600 Hunden gäbe es eine Sondersendung."
+      "text": "Ein Jugendlicher mit Musikbox im Park bekommt die Polizei. Ein Mann mit frisiertem Auspuff bekommt eine Arbeitsgruppe."
     },
     {
-      "id": "2026-08-07-0559-09",
-      "typ": "schnittmenge",
-      "stichwort": "Soldat kündigt, Befehlsgeber wird nicht geprüft",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Kündigt ein Soldat wegen dieses Krieges, prüft ihn ein Militärgericht. Angeordnet hat ihn ein Mann, den niemand prüft."
-    },
-    {
-      "id": "2026-08-07-0559-10",
-      "typ": "persönlich",
-      "stichwort": "Kind fragt, wem die Wohnung gehört",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "text": "Meine Tochter wollte wissen, ob unsere Wohnung uns gehört. Nein, sagte ich, wir zahlen sie nur ab. Für jemand anderen."
-    },
-    {
-      "id": "2026-08-07-0559-11e",
+      "id": "2026-08-07-0732-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Jugendamt vs. Meta-Strafe",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Wer sein Kind allein vor dem Bildschirm lässt, bekommt Besuch vom Jugendamt. Meta bekommt eine Rechnung."
-    },
-    {
-      "id": "2026-08-07-0559-12",
-      "typ": "persönlich",
-      "stichwort": "Gesundheitstipps von nie länger Kranken",
+      "stichwort": "Sachsen-Anhalt: wer beobachtet wird und wer vorn liegt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "text": "Mir wurde gegen die Krankheit schon empfohlen: kalt duschen, positiv denken, weniger googeln (echtes Detail einsetzen: der absurdeste Ratschlag). Von Leuten, die nie länger als eine Woche krank waren."
+      "haltbarkeit": "tagesgebunden",
+      "text": "Wer sich gegen Rechtsextreme organisiert, landet im Verfassungsschutzbericht. Wer rechtsextrem ist, landet in den Umfragen vorn."
+    },
+    {
+      "id": "2026-08-07-0732-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Glasfaser-Fairplay: freiwillige Netzöffnung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Freiwillig öffnet die Telekom ihr Netz für die Konkurrenz. Freiwillig wie eine Steuererklärung."
     }
   ]
 }
