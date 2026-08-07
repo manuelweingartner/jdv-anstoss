@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-07",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -83,6 +83,33 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "text": "Das Justizministerium findet die Epstein-Akten nicht. Beim Sozialamt ist innert Tagen aktenkundig, wer bei wem übernachtet hat."
+    },
+    {
+      "id": "2026-08-07-0732-10",
+      "typ": "persönlich",
+      "stichwort": "Tochter hat kein Social-Media-Konto",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Bald prüfen die USA die Social-Media-Konten aller Einreisenden. Meine Tochter hat keine. Also besonders verdächtig."
+    },
+    {
+      "id": "2026-08-07-0732-11",
+      "typ": "persönlich",
+      "stichwort": "Miete kennt eine Richtung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Unsere Miete kennt nur eine Richtung. Der Referenzzinssatz kennt zwei, davon interessiert die Verwaltung genau eine."
+    },
+    {
+      "id": "2026-08-07-0732-12",
+      "typ": "persönlich",
+      "stichwort": "Zuzug wegen tiefer Steuern, Bus fährt trotzdem stündlich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Bei uns ziehen Leute wegen der tiefen Steuern her. Der Bus fährt trotzdem nur jede Stunde (echtes Detail einsetzen)."
     }
   ]
 }
