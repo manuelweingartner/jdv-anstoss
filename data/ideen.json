@@ -1,8 +1,38 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-1450-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rennrad bei 38 Grad",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Ein Mann fährt bei 38 Grad freiwillig achtzig Kilometer Rennrad und nennt es Disziplin. Die Notaufnahme nennt es Dienstag."
+    },
+    {
+      "id": "2026-08-08-1450-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Locarno: Abrechnung mit dem Schweizer Film",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "An der Piazza Grande zerlegt ein Oscarpreisträger den heimischen Film. Applaus, Apéro, gefördert wird nächstes Jahr dasselbe."
+    },
+    {
+      "id": "2026-08-08-1450-06",
+      "typ": "remix",
+      "stichwort": "Therapie findet trotzdem statt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Männer lehnen Therapie ab. Die Sitzungen finden trotzdem statt, abends, unbezahlt, geführt von ihrer Partnerin."
+    },
     {
       "id": "2026-08-08-1450-07",
       "typ": "schnittmenge",
