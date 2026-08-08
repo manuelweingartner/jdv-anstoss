@@ -1,8 +1,38 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-1450-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fitnessstudio allein vs. Verein",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Im Fitnessstudio trainieren vor allem Männer, im Verein vor allem Frauen. Das einsamste Geschlecht nennt sich das unabhängige."
+    },
+    {
+      "id": "2026-08-08-1450-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nackter Randalierer im Imbiss",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Männer sind das einzige Geschlecht, das nackt in einem Imbiss randaliert und danach über Frauen in Führungspositionen diskutiert."
+    },
+    {
+      "id": "2026-08-08-1450-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lake Mead tief, Golfplätze grün",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Der grösste Stausee der USA steht historisch tief. Die Golfplätze in der Wüste sind weiterhin sattgrün."
+    },
     {
       "id": "2026-08-08-1450-04",
       "typ": "politisch-aktuell",
