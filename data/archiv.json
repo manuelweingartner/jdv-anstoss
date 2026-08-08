@@ -3350,6 +3350,138 @@
       "format": "frei",
       "text": "Meiner Tochter soll ich beibringen, nachts aufzupassen. Wovor genau, erklärt mir kein einziger Vater von Söhnen.",
       "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1506-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump-Video: Swift-Song wieder raus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trumps Team klaut einen Taylor-Swift-Song und muss ihn löschen. Der Rechtsstaat greift, sobald ein Konzern betroffen ist.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1506-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gardasee: Wald brennt, Hotspot wird evakuiert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Ein Wald brennt, in der Meldung heisst der Ort Tourismus-Hotspot. Evakuiert wird die Saison.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1506-03e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ungarn nominiert den abgesetzten Richter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ungarns Regierungspartei macht den Richter zum Präsidenten, den sie selbst abgesetzt hat. Gefährlich war er nur, solange er urteilen durfte.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1506-04e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wahlsieg ohne Lobbygeld als Kuriosität",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "In Michigan gewinnt einer, der kein Lobbygeld nimmt. Die Berichte darüber erklären geduldig, wie ungewöhnlich das ist.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1506-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rücktrittsforderung an Infantino",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ein deutscher Minister fordert Infantinos Rücktritt. Bei der Fifa endet so ein Verfahren traditionell mit einer Wiederwahl.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1506-06",
+      "typ": "remix",
+      "stichwort": "Diagnose sieben Jahre, Absage sechs Wochen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Das Gesundheitssystem ist so effizient, dass eine Diagnose sieben Jahre dauert und die Absage der Kasse sechs Wochen.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1506-07e",
+      "typ": "schnittmenge",
+      "stichwort": "Reformrechner statt Reform",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ein Rechner sagt dir, ob die Reform dich ärmer macht. Die Regierung hat den Rechner nicht gebaut, nur die Reform.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1506-08e",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm gegen Privatjet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren im ECO-Programm. Ein Privatjet nach Ibiza holt das in vier Minuten ein.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1506-09",
+      "typ": "schnittmenge",
+      "stichwort": "Tier im Dezember vs. im August",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Im Dezember ist ein Tier ein Geschenk. Im August ist es ein Platzproblem.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1506-10",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm vs. Netto-Null-Ziel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Ich lasse die Abwaschmaschine seit sieben Jahren vier Stunden auf ECO laufen. Ein Konzern hat in dieser Zeit sein Netto-Null-Ziel dreimal verschoben.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1506-11",
+      "typ": "persönlich",
+      "stichwort": "Kind fragt: Arm zahlt die Kasse, Zähne nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Meine Tochter fragt, warum die Versicherung ihren Arm zahlt und ihre Zähne nicht. Medizinisch endet der Mensch beim Kiefer.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1506-12e",
+      "typ": "schnittmenge",
+      "stichwort": "Anerkennung durch Versicherung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Eine Krankheit ist anerkannt, sobald eine Versicherung sie bezahlt. Vorher ist sie eine Meinung.",
+      "datum": "2026-08-08"
     }
   ]
 }
