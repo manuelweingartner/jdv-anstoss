@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -34,14 +34,14 @@
       "text": "Gute Nachricht aus der Personalabteilung: Wer seine Erschöpfung zu spät bemerkt, meldet sich auch zu spät krank."
     },
     {
-      "id": "2026-08-08-2216-04",
+      "id": "2026-08-08-2216-04e",
       "typ": "politisch-aktuell",
-      "stichwort": "Eine Million darf die Strasse besetzen",
+      "stichwort": "Indigene Ärzt*innen als Modellprojekt",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Endlich verstehen wir uns: Eine Million Menschen dürfen die Strasse besetzen, solange sie dabei nichts fordern."
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Indigene Patient*innen leben länger, wenn ihre Ärztin indigen ist. Das Gesundheitssystem nennt das ein spannendes Modellprojekt."
     },
     {
       "id": "2026-08-08-2216-05",
@@ -54,34 +54,24 @@
       "text": "Sein Vermögen wohnt seit Jahren in einem Land, in dem er selbst noch nie übernachtet hat."
     },
     {
-      "id": "2026-08-08-2216-06",
+      "id": "2026-08-08-2216-07e",
       "typ": "politisch-aktuell",
-      "stichwort": "Busse für alle gleich teuer",
+      "stichwort": "Thailand: legal seit es sich lohnt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Endlich Gleichbehandlung: dieselbe Busse für alle. Für die einen ist es der Monat, für die anderen der Kaffee danach."
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "In Thailand boomt der Cannabis-Handel. Wer vor der Legalisierung damit erwischt wurde, sitzt weiter."
     },
     {
-      "id": "2026-08-08-2216-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Putzkraft geprüft, Chef abgefunden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer die Firma putzt, wird auf Diebstahl kontrolliert. Wer sie ausräumt, bekommt eine Abfindung."
-    },
-    {
-      "id": "2026-08-08-2216-08",
+      "id": "2026-08-08-2216-08e",
       "typ": "schnittmenge",
-      "stichwort": "Vulkanasche stoppt Flüge sofort, CO2 nie",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Spuckt ein Vulkan Asche, steht der Flugverkehr in zwei Stunden still. Spucken die Flugzeuge, steht ein Ziel für 2050."
+      "stichwort": "Schunkelshow scheitert nach oben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Show mit den schwächsten Quoten wechselt zum grösseren Sender. Quote ist etwas für Angestellte."
     },
     {
       "id": "2026-08-08-2216-09",
@@ -94,24 +84,24 @@
       "text": "Der Hang rutscht so langsam, dass er nie zur Katastrophe wird. Nur zu einer Adresse, die niemand mehr versichert."
     },
     {
-      "id": "2026-08-08-2216-10",
-      "typ": "persönlich",
-      "stichwort": "Bergwacht warnt, mein Hund fürchtet Tüten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 2,
-      "text": "Die Bergwacht meldet mehr unerfahrene Leute am Berg. Mein Hund wurde gegen Wölfe gezüchtet und fürchtet Einkaufstüten."
-    },
-    {
-      "id": "2026-08-08-2216-11",
-      "typ": "persönlich",
-      "stichwort": "Jahrelang nicht reklamiert, jahrelang nicht gesenkt",
+      "id": "2026-08-08-2216-10e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Aufrüstung gegen Elektromarkt-Drohne",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Jahrzehnte Aufrüstung gegen jede denkbare Bedrohung. Dann kommt eine Drohne aus dem Elektromarkt und niemand ist zuständig."
+    },
+    {
+      "id": "2026-08-08-2216-11e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Brandmauer mit Verfallsdatum",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Ich habe jahrelang nicht reklamiert, weil ich niemanden ärgern wollte. Mein Vermieter hat jahrelang nicht gesenkt, weil ihn niemand geärgert hat."
+      "format": "frei",
+      "text": "Vor jeder Wahl schliesst die Mitte eine Koalition mit den Rechtsextremen aus. Nach jeder Wahl rechnet sie nach."
     },
     {
       "id": "2026-08-08-2216-12",
