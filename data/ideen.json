@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "5 Ideen aussortiert und nicht ersetzt, Liste hat 7 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -44,16 +44,6 @@
       "text": "Wer die Miete zu spät zahlt, zahlt Verzugszins. Wer sie zu hoch angesetzt hat, behält die Differenz."
     },
     {
-      "id": "2026-08-08-1531-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trinkgeld versteuern, Erbe nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Trinkgeld musst du versteuern. Das geerbte Haus deines Vermieters nicht."
-    },
-    {
       "id": "2026-08-08-1531-06",
       "typ": "politisch-aktuell",
       "stichwort": "Briefkasten als produktivster Arbeiter",
@@ -62,36 +52,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Kein Mensch in diesem Land arbeitet so produktiv wie ein Briefkasten mit Firmensitz."
-    },
-    {
-      "id": "2026-08-08-1531-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pensionskasse in Ruestung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Beruhigend, dass die Pensionskassen in Rüstung investieren. Ihr Alter ist gesichert, solange geschossen wird."
-    },
-    {
-      "id": "2026-08-08-1531-08",
-      "typ": "schnittmenge",
-      "stichwort": "Ravioli-Kaninchen vs. Betriebsbewilligung",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Ein Mann wird verurteilt, weil er seine Kaninchen mit Ravioli fütterte. Wer Millionen Tiere mit Antibiotika füttert, bekommt eine Betriebsbewilligung."
-    },
-    {
-      "id": "2026-08-08-1531-09",
-      "typ": "schnittmenge",
-      "stichwort": "Erschöpfung aus dem Leistungskatalog",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Beruhigend, dass niemand mehr an Erschöpfung leidet, seit die Versicherung das Wort aus ihrem Katalog gestrichen hat."
     },
     {
       "id": "2026-08-08-1531-10",
@@ -112,16 +72,6 @@
       "haltbarkeit": "evergreen",
       "format": 2,
       "text": "Unser Wasserhund hasst Wasser, ist allergisch auf Gras und versteht kein Französisch. Wir haben ihn wegen der Allergie geholt."
-    },
-    {
-      "id": "2026-08-08-1531-12",
-      "typ": "persönlich",
-      "stichwort": "Bonitätsauskunft vs. Mieterhöhung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Ich musste für meine Wohnung eine Bonitätsauskunft einreichen. Der Eigentümer musste nur die Miete erhöhen."
     }
   ]
 }
