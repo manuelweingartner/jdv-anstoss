@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -34,24 +34,24 @@
       "text": "Endlich zeigen wir die WNBA zur besten Sendezeit. Um drei Uhr nachts stört uns niemand."
     },
     {
-      "id": "2026-08-08-2133-04",
+      "id": "2026-08-08-2133-04e",
       "typ": "schnittmenge",
-      "stichwort": "Drohungen gegen Spielerinnen geprüft",
+      "stichwort": "Mittelsitz statt Charterflug",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Beruhigend, dass wir die Drohungen gegen WNBA-Spielerinnen geprüft haben. Gefährlich ist bei uns erst, wer zurückschreibt."
+      "format": "frei",
+      "text": "Zum Auswärtsspiel flogen die besten Basketballerinnen der Welt jahrelang im Mittelsitz. Als hart gilt der Sport der anderen."
     },
     {
-      "id": "2026-08-08-2133-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rekordvertrag NBA vs. WNBA",
+      "id": "2026-08-08-2133-05e",
+      "typ": "schnittmenge",
+      "stichwort": "Niemand schaut, kennt aber alles",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "In der NBA ist der Rekordvertrag eine Eilmeldung. In der WNBA reicht er knapp für die Anzahlung."
+      "format": "frei",
+      "text": "Niemand interessiert sich für Frauenbasketball, schreibt ein Mann, der offenbar jedes Ergebnis kennt."
     },
     {
       "id": "2026-08-08-2133-06",
@@ -64,24 +64,24 @@
       "text": "Bezahlter Mutterschutz galt im Profisport als unbezahlbar. Bis die Basketballerinnen ihn sich in den Vertrag verhandelten."
     },
     {
-      "id": "2026-08-08-2133-07",
+      "id": "2026-08-08-2133-07e",
       "typ": "politisch-aktuell",
-      "stichwort": "Frauensport muss sich rechnen",
+      "stichwort": "Wer spielt, wer redet",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Schön, dass wir uns einig sind: Frauenbasketball muss sich erst rechnen. Männerbasketball bekommt einfach ein Stadion."
+      "format": "frei",
+      "text": "Die politisch lauteste Liga der USA wird von Schwarzen Frauen getragen. Über Haltung im Sport reden im Studio dann Männer."
     },
     {
-      "id": "2026-08-08-2133-08",
+      "id": "2026-08-08-2133-08e",
       "typ": "schnittmenge",
-      "stichwort": "Rekordumsatz heisst Marktwert oder Dankbarkeit",
-      "plattform": "Threads + Bluesky + Instagram",
+      "stichwort": "Sportsendung ohne Frauenbasketball",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Bei den Männern heisst Rekordumsatz Marktwert. Bei den Frauen heisst derselbe Rekordumsatz Danke für die Chance."
+      "format": 2,
+      "text": "Neunzig Minuten Sportsendung, gebaut fürs Zeigen von Sport, schaffen keine dreissig Sekunden Frauenbasketball."
     },
     {
       "id": "2026-08-08-2133-09",
@@ -104,14 +104,14 @@
       "text": "Ich habe am Küchentisch erklärt, warum die besten Basketballerinnen im Winter in Istanbul arbeiten. Es lag nicht am Wetter."
     },
     {
-      "id": "2026-08-08-2133-11",
-      "typ": "persönlich",
-      "stichwort": "Tochter googelt die WNBA-Löhne",
+      "id": "2026-08-08-2133-11e",
+      "typ": "schnittmenge",
+      "stichwort": "Kindertrikots im Sportgeschäft",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 5,
-      "text": "Meine Tochter soll bei Frauenbasketball sehen, dass Leistung sich lohnt. Sie hat dann die Löhne gegoogelt."
+      "format": "frei",
+      "text": "Im Sportgeschäft hängen Basketballtrikots für Kinder. Auch die in Mädchengrössen tragen hinten einen Männernamen."
     },
     {
       "id": "2026-08-08-2133-12",
