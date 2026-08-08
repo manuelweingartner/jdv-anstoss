@@ -2987,6 +2987,127 @@
       "haltbarkeit": "evergreen",
       "text": "Kein Mann in meinem Umfeld hat ein Burn-out. Alle haben nur eine Firma, die gerade eine schwierige Phase durchläuft.",
       "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1030-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bundeswehr findet jede Adresse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Mit 18 findet die Bundeswehr jede Adresse in diesem Land. Beim Wohngeld ist dieselbe Adresse ein halbes Jahr lang unauffindbar.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1030-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Drohne als Weckruf, Hitzesommer als Räuspern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Eine Drohne in Leipzig ist ein Weckruf für die Schweiz. Die Hitzesommer der letzten Jahre waren offenbar nur ein Räuspern.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1030-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gaza: Bomben fallen nicht, Wasser auch nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seit einer Woche fallen in Gaza keine Bomben. Wasser fällt seit Monaten auch keins.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1030-04e",
+      "typ": "schnittmenge",
+      "stichwort": "Klimaanlage vs. Rechenzentren im All",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer bei 38 Grad die Klimaanlage einschaltet, bekommt eine Ökobilanz vorgehalten. Wer Rechenzentren ins All schiessen will, bekommt Kapital.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1030-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nackt-Fahrraddemo Berlin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die erste Nackt-Fahrraddemo Deutschlands fährt am Sonntag durch Berlin. Diskutiert wird danach über die Körper, nicht über die Autos.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1030-06",
+      "typ": "remix",
+      "stichwort": "Verteidigungspakt Mekka",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Drei Länder unterschreiben in Mekka einen Verteidigungspakt. Dieselbe Unterschrift im Iran wäre eine Achse des Bösen.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1030-07",
+      "typ": "schnittmenge",
+      "stichwort": "Personalausweis ohne Adresse",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Vom neuen Personalausweis verschwindet die Adresse. Wer keine hat, bekommt trotzdem keinen.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1030-08e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fussballverband: Sexmassagen vs. Regenbogenbinde",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Südkoreas Fussballverband hat Schiedsrichtern Sexmassagen spendiert. Im selben Sport ist eine Regenbogenbinde ein unerlaubtes politisches Statement.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1030-09",
+      "typ": "schnittmenge",
+      "stichwort": "Psychosekte sammelt, Staatsschutz ermittelt",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Bei der Neutralitätsinitiative sammelt eine Psychosekte Unterschriften. Beim Klimaprotest ermittelt der Staatsschutz gegen Zwanzigjährige.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1030-10",
+      "typ": "persönlich",
+      "stichwort": "Bauprofile im Nachbartal vs. Freilichtspiel Morgarten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Im Nachbartal stehen Bauprofile für ein Luxus-Resort. Das Freilichtspiel dort handelt davon, wie man solche Herren aus dem Tal jagt.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1030-12",
+      "typ": "persönlich",
+      "stichwort": "Kinderärzteverband nennt es Elternversagen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Meine Tochter kriegt Videos vorgeschlagen, die niemand bestellt hat. Der Kinderärzteverband sieht darin gravierendes Elternversagen.",
+      "datum": "2026-08-08"
     }
   ]
 }
