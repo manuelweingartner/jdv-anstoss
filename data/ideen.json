@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "5 von 12 da, der Rest lädt noch.",
+  "hinweis": "8 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Ich finde es richtig, dass Kranke ihre Krankheit selbst belegen. Wer das Formular schafft, war offensichtlich arbeitsfähig."
+    },
+    {
+      "id": "2026-08-08-2239-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Produktivitaet verdoppelt, Zeit anderswo",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seit 1980 arbeiten wir doppelt so produktiv. Die eingesparte Zeit hat jemand anders bekommen."
+    },
+    {
+      "id": "2026-08-08-2239-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Puenktliche Miete gilt als Risiko",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer zehn Jahre Miete pünktlich zahlt, gilt der Bank als zu unsicher für eine tiefere Rate."
+    },
+    {
+      "id": "2026-08-08-2239-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Care-Arbeit unbezahlbar, darum unbezahlt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Gute Nachricht aus der Chefetage: Care-Arbeit ist unbezahlbar. Darum haben wir das Bezahlen gleich weggelassen."
     },
     {
       "id": "2026-08-08-2239-10",
