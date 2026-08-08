@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "10 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -72,6 +72,26 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Gute Nachricht aus der Chefetage: Care-Arbeit ist unbezahlbar. Darum haben wir das Bezahlen gleich weggelassen."
+    },
+    {
+      "id": "2026-08-08-2239-08",
+      "typ": "schnittmenge",
+      "stichwort": "Traditionsmarke geht, Menschen kommen",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Kommen Menschen ins Land, heisst das Überfremdung. Geht die Traditionsmarke ins Ausland, heisst das Standortsicherung."
+    },
+    {
+      "id": "2026-08-08-2239-09",
+      "typ": "remix",
+      "stichwort": "Strahlung aus dem Himmel, jetzt mit Abo",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Wer jahrelang vor Strahlung aus dem Himmel gewarnt hat, bezieht sein Internet jetzt genau von dort."
     },
     {
       "id": "2026-08-08-2239-10",
