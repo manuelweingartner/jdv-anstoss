@@ -2757,6 +2757,126 @@
       "haltbarkeit": "tagesgebunden",
       "text": "Ich poste seit Jahren gegen Rechts. Die AfD steht heute so hoch wie nie. Gern geschehen.",
       "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0949-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Unisex-Toilette gibt es in jeder Wohnung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "text": "Unisex-Toiletten sind laut Junger SVP eine Gefahr für die Schweiz. In jeder Wohnung dieses Landes steht genau eine.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0949-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Staat raushalten, ausser beim Pinkeln",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Eine Partei will den Staat aus allem raushalten und dann doch wissen, auf welcher Toilette du pinkelst.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0949-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reiche kürzt Sanierungsförderung, Miete zahlt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Katherina Reiche kürzt die Sanierungsförderung. Bezahlt wird die Wärmewende weiter von Mieter*innen, jetzt einfach über die Heizkosten.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0949-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Meta-Kinderschutzstrafe vs. Toilettenschilder",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Meta zahlt eine halbe Milliarde Strafe für fehlenden Kinderschutz. Die Junge SVP kämpft gegen Toiletten ohne Geschlecht.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0949-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pflegeroboter Lio statt Personal",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Seit Jahren fordert die Pflege mehr Personal. Geliefert wird jetzt ein Roboter, der freundlich Hallo sagt.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0949-06e",
+      "typ": "schnittmenge",
+      "stichwort": "Rente mit 63 verteidigen die im Sitzen",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Plötzlich verteidigen CDU und SPD die Rente mit 63. Profitieren wird, wer im Sitzen alt geworden ist.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0949-07e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Polizei behält den SMS-Blaster",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Der Betrüger baut den SMS-Blaster und kommt dafür vor Gericht. Die Polizei behält das Gerät und schult damit.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0949-08e",
+      "typ": "politisch-aktuell",
+      "stichwort": "43 Studenten, elf Jahre bis zur Festnahme",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Elf Jahre nach dem Verschwinden von 43 Studenten wird in Mexiko der damalige Gouverneur festgenommen. Beim Vertuschen war man schneller.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0949-09",
+      "typ": "schnittmenge",
+      "stichwort": "Farbe aufs Gemälde vs. Öl ins Meer",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Farbe auf einem Gemälde bringt eine Anzeige. Öl in der Grösse des Genfersees bringt eine Pressemitteilung.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0949-10e",
+      "typ": "schnittmenge",
+      "stichwort": "Zwei Euro pro Liter, gleich viel gefahren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Benzin kostet zwei Euro, gefahren wird gleich viel. Teuer genug zum Jammern, billig genug zum Fahren.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0949-11",
+      "typ": "persönlich",
+      "stichwort": "Kind nimmt die freie Kabine, Partei braucht eine Abstimmung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Meine Tochter benutzt die Toilette, die gerade frei ist. Die Junge SVP braucht dafür eine Volksabstimmung.",
+      "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-0949-12e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pflegeroboter hat einen Namen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Assistenzroboter Lio bekommt in der Klinik einen Namen. Das Pflegepersonal bekommt eine Nummer im Dienstplan.",
+      "datum": "2026-08-07"
     }
   ]
 }
