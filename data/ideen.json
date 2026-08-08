@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "6 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 10,
       "text": "Der Krieg hat die Strasse von Hormus so befriedet, dass sich kein einziger Tanker mehr durchtraut."
+    },
+    {
+      "id": "2026-08-08-1440-10",
+      "typ": "persönlich",
+      "stichwort": "Fedpol-Gesichtserkennung vs. Kind erkennt alle",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Fedpol braucht ab 2027 Gesichtserkennung. Meine Tochter erkennt jeden Nachbarn am Gang, ganz ohne Rechtsgrundlage. (echtes Detail einsetzen)"
+    },
+    {
+      "id": "2026-08-08-1440-11",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm seit sieben Jahren vs. leerer Stausee",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seit sieben Jahren läuft unsere Abwaschmaschine aus Prinzip nur im ECO-Programm. Der grösste Stausee der USA ist jetzt trotzdem leer."
+    },
+    {
+      "id": "2026-08-08-1440-12",
+      "typ": "persönlich",
+      "stichwort": "Hund aus Rumänien: Formular stimmte",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Mein Hund kam aus Rumänien hierher, weil ein Formular stimmte. Für Menschen heisst dasselbe Formular ein dreijähriges Verfahren."
     }
   ]
 }
