@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "7 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-1531-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Dichtestress je nach Publikum",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Eine Million Menschen auf engstem Raum heisst in Zürich Street Parade. Anderswo heisst genau dasselbe Dichtestress."
+    },
+    {
+      "id": "2026-08-08-1531-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kiew: Wohnhäuser und Öltanks",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "In Kiew wurden Wohnhäuser und Öltanks getroffen. Beruhigend, dass Europa bei einem davon sofort weiss, was es kostet."
+    },
     {
       "id": "2026-08-08-1531-03",
       "typ": "politisch-aktuell",
