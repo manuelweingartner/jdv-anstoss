@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,36 @@
       "haltbarkeit": "evergreen",
       "format": 10,
       "text": "Versichert war das Jahrhundertereignis. Seit es dreimal pro Sommer eintritt, heisst es in der Police Vorschädigung."
+    },
+    {
+      "id": "2026-08-08-2216-10",
+      "typ": "persönlich",
+      "stichwort": "Tierheim hat eine Saison",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Unser Hund kam im Winter aus Rumänien. Im August lernte er, dass Tierheime hier eine Saison haben."
+    },
+    {
+      "id": "2026-08-08-2216-11",
+      "typ": "persönlich",
+      "stichwort": "Sandalen am Berg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Am Berg hat mich ein Mann in Sandalen überholt. Die Rettung kostet für uns beide gleich viel, ich habe nur die teureren Schuhe."
+    },
+    {
+      "id": "2026-08-08-2216-12",
+      "typ": "persönlich",
+      "stichwort": "Eigene App, eigene Miete",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ich habe eine App gebaut, die zu hohe Mieten senkt. Auf die eigene Wohnung anwenden traue ich mich nicht."
     }
   ]
 }
