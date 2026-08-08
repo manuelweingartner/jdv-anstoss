@@ -1,8 +1,38 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "6 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-1506-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Street Parade: Dichtestress an einem Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "In Zürich tanzt eine Million Menschen, die Polizei nennt es Dichtestress. Dieselbe Zahl über zwanzig Jahre nennt man Bedrohung."
+    },
+    {
+      "id": "2026-08-08-1506-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rücktrittsforderung an Infantino",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ein deutscher Minister fordert Infantinos Rücktritt. Bei der Fifa endet so ein Verfahren traditionell mit einer Wiederwahl."
+    },
+    {
+      "id": "2026-08-08-1506-06",
+      "typ": "remix",
+      "stichwort": "Diagnose sieben Jahre, Absage sechs Wochen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Das Gesundheitssystem ist so effizient, dass eine Diagnose sieben Jahre dauert und die Absage der Kasse sechs Wochen."
+    },
     {
       "id": "2026-08-08-1506-07",
       "typ": "schnittmenge",
