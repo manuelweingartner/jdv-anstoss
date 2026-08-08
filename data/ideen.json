@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -44,14 +44,14 @@
       "text": "Ukrainische Drohnen treffen Russlands grössten Onlinehändler. Der Krieg ist dort angekommen, wo Lieferfristen zählen."
     },
     {
-      "id": "2026-08-08-1519-05",
+      "id": "2026-08-08-1519-05e",
       "typ": "politisch-aktuell",
-      "stichwort": "Dichtestress an der Parade, Marktmiete in der Wohnung",
+      "stichwort": "Fährlinie Rom nach Algerien, Gegenrichtung",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Eine Million Menschen an der Street Parade heissen Dichtestress. Vier in einer Zweizimmerwohnung heissen Marktmiete."
+      "format": 3,
+      "text": "Zweimal pro Woche fährt jetzt ein Schiff von Rom nach Algerien. Die Gegenrichtung gilt weiterhin als Krise."
     },
     {
       "id": "2026-08-08-1519-06",
@@ -64,24 +64,14 @@
       "text": "Care-Arbeit ist so systemrelevant, dass sie unbezahlt bleibt. Boni fliessen dorthin, wo ein Ausfall folgenlos bliebe."
     },
     {
-      "id": "2026-08-08-1519-07",
+      "id": "2026-08-08-1519-08e",
       "typ": "schnittmenge",
-      "stichwort": "Mietwucher-Kontrollen vs. Sozialhilfe-Kontrollen",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "mittel",
+      "stichwort": "Weltkatzentag, Katze erklärt nichts",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Mietwucher soll jetzt von der Polizei kontrolliert werden. Bei Sozialhilfe musste das nie jemand vorschlagen."
-    },
-    {
-      "id": "2026-08-08-1519-08",
-      "typ": "schnittmenge",
-      "stichwort": "Abwehrmunition fehlt, heisst Lieferengpass",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Der Ukraine fehlt die Munition gegen ballistische Raketen. In den Meldungen heisst das Lieferengpass, in der Statistik zivile Opfer."
+      "format": "frei",
+      "text": "Am Weltkatzentag erklären uns Zeitungen die Katze. Die Katze erklärt gar nichts und wohnt trotzdem gratis."
     },
     {
       "id": "2026-08-08-1519-09",
@@ -94,24 +84,24 @@
       "text": "In Basel holen Freiwillige fremde Motorräder aus dem Rhein. Wer den Rest hineinleitet, taucht nie selber runter."
     },
     {
-      "id": "2026-08-08-1519-10",
-      "typ": "persönlich",
-      "stichwort": "Allergikerhund ist selbst Allergiker",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 2,
-      "text": "Wir haben uns extra einen Hund für Allergiker geholt. Er ist allergisch auf Gräser."
-    },
-    {
-      "id": "2026-08-08-1519-11",
-      "typ": "persönlich",
-      "stichwort": "Pillen geprüft, Altersvorsorge nicht",
+      "id": "2026-08-08-1519-10e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ballsaal-Baustopp hält Trump auf",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Vor der Street Parade sagt man mir, was in den Pillen ist. Was in meiner Altersvorsorge steckt, sagt mir niemand."
+      "format": "frei",
+      "text": "Ein Gericht stoppt Trumps Ballsaal. Wer ihn aufhalten will, muss ihn also zum Bauherrn machen."
+    },
+    {
+      "id": "2026-08-08-1519-11e",
+      "typ": "schnittmenge",
+      "stichwort": "Lake Mead, Rekord mit Verfallsdatum",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der grösste Stausee der USA führt so wenig Wasser wie nie. Der Rekord gilt bis nächstes Jahr."
     },
     {
       "id": "2026-08-08-1519-12",
