@@ -6,22 +6,22 @@
     {
       "id": "2026-08-08-2133-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Sportticker: Männersieg vorne, Frauensaisonende hinten",
+      "stichwort": "Frauensaison hinter drei Pluszeichen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Beim Männersport meldet der Ticker Siege, beim Frauensport das Saisonende. Die Reichweite der WNBA nennen sie dann ein Marktproblem."
+      "text": "Beim Motorrad reicht ein Sprintsieg für die Schlagzeile. Bei den Frauen reicht eine ganze Saison für drei Pluszeichen."
     },
     {
       "id": "2026-08-08-2133-02",
       "typ": "politisch-aktuell",
-      "stichwort": "CSD vorbei, Sponsoren atmen auf",
+      "stichwort": "Verbände prüfen, wer als Frau gilt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Gute Nachricht für alle Sponsoren: Der CSD ist vorbei, ab jetzt darf die WNBA wieder unter Ausschluss der Öffentlichkeit spielen."
+      "text": "Endlich prüfen Sportverbände wieder genau, wer als Frau antreten darf. Sichtbarkeit muss man sich schliesslich verdienen."
     },
     {
       "id": "2026-08-08-2133-03",
@@ -46,32 +46,32 @@
     {
       "id": "2026-08-08-2133-05",
       "typ": "politisch-aktuell",
-      "stichwort": "WNBA-Weltspitze mit Zweitjob im Winter",
+      "stichwort": "Rekordvertrag NBA vs. WNBA",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Basketballerinnen der Weltspitze spielen im Winter im Ausland, weil ein Weltklassejob nicht für die Miete reicht."
+      "format": 1,
+      "text": "In der NBA ist der Rekordvertrag eine Eilmeldung. In der WNBA reicht er knapp für die Anzahlung."
     },
     {
       "id": "2026-08-08-2133-06",
       "typ": "politisch-aktuell",
-      "stichwort": "NBA teilt die Hälfte, WNBA nennt zehn Prozent Aufbauphase",
+      "stichwort": "Mutterschutz im Profisport verhandelt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Die NBA teilt die Hälfte ihrer Einnahmen mit den Spielern. Zehn Prozent für die Frauen heissen Aufbauphase."
+      "format": "frei",
+      "text": "Bezahlter Mutterschutz galt im Profisport als unbezahlbar. Bis die Basketballerinnen ihn sich in den Vertrag verhandelten."
     },
     {
       "id": "2026-08-08-2133-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Frauensport rechnet sich nicht, Stadion zahlt die Stadt",
+      "stichwort": "Frauensport muss sich rechnen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Frauensport rechnet sich nicht, sagen Leute, deren Lieblingsstadion die Stadt bezahlt hat."
+      "format": 13,
+      "text": "Schön, dass wir uns einig sind: Frauenbasketball muss sich erst rechnen. Männerbasketball bekommt einfach ein Stadion."
     },
     {
       "id": "2026-08-08-2133-08",
