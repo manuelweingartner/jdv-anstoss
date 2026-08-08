@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "8 von 12 da, der Rest lädt noch.",
+  "hinweis": "10 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-2239-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Serbien: Haltung bis jemand zahlt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Serbien steht fest an Russlands Seite und schliesst Freihandel mit der Ukraine. Haltung hat man, bis jemand zahlt."
+    },
+    {
+      "id": "2026-08-08-2239-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Dürre legt Kriegswracks frei",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Endlich hat die Dürre etwas Gutes: Die Donau gibt die Wracks des letzten Weltkriegs frei. Erinnerungskultur zum Nulltarif."
+    },
     {
       "id": "2026-08-08-2239-03",
       "typ": "politisch-aktuell",
