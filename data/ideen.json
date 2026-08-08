@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Im Dezember ist ein Tier ein Geschenk. Im August ist es ein Platzproblem."
+    },
+    {
+      "id": "2026-08-08-1506-10",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm vs. Netto-Null-Ziel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Ich lasse die Abwaschmaschine seit sieben Jahren vier Stunden auf ECO laufen. Ein Konzern hat in dieser Zeit sein Netto-Null-Ziel dreimal verschoben."
+    },
+    {
+      "id": "2026-08-08-1506-11",
+      "typ": "persönlich",
+      "stichwort": "Kind fragt: Arm zahlt die Kasse, Zähne nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Meine Tochter fragt, warum die Versicherung ihren Arm zahlt und ihre Zähne nicht. Medizinisch endet der Mensch beim Kiefer."
+    },
+    {
+      "id": "2026-08-08-1506-12",
+      "typ": "persönlich",
+      "stichwort": "Lohnabzug vs. Erbe",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Von meinem Lohn geht jeden Monat ein Viertel weg. Wer zehn Millionen erbt, füllt ein Formular aus."
     }
   ]
 }
