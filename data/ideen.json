@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "hinweis": "5 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Endlich verstehen wir uns: Eine Million Menschen dürfen die Strasse besetzen, solange sie dabei nichts fordern."
+    },
+    {
+      "id": "2026-08-08-2216-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vermögen wohnt woanders",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Sein Vermögen wohnt seit Jahren in einem Land, in dem er selbst noch nie übernachtet hat."
+    },
+    {
+      "id": "2026-08-08-2216-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Busse für alle gleich teuer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Endlich Gleichbehandlung: dieselbe Busse für alle. Für die einen ist es der Monat, für die anderen der Kaffee danach."
+    },
+    {
+      "id": "2026-08-08-2216-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Putzkraft geprüft, Chef abgefunden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer die Firma putzt, wird auf Diebstahl kontrolliert. Wer sie ausräumt, bekommt eine Abfindung."
     }
   ]
 }
