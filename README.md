@@ -15,7 +15,7 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
 
 - Seite: https://manuelweingartner.github.io/jdv-anstoss/
 - Befüllt wird `data/ideen.json` vom Tages-Anstoss (Windows-Task
-  `jdvTagesAnstoss`, werktags 07:57; Skript und Doku im lokalen
+  `jdvTagesAnstoss`, täglich 07:57; Skript und Doku im lokalen
   Skill-Ordner `~/.claude/skills/jdv-post/metrics/`). Von Hand nur, wenn
   das Skript ausfällt: dann bleibt die alte Liste stehen und die Seite
   zeigt sichtbar das alte Datum.
