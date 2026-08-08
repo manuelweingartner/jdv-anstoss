@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -54,44 +54,34 @@
       "text": "Vermögen entsteht in diesem Land durch Leistung. Nur selten durch die eigene."
     },
     {
-      "id": "2026-08-08-2115-06",
+      "id": "2026-08-08-2115-06e",
       "typ": "politisch-aktuell",
-      "stichwort": "Busse ist Strafe oder Preis",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Bussen sind für alle gleich hoch. Für die einen sind sie eine Strafe, für die anderen ein Preis."
-    },
-    {
-      "id": "2026-08-08-2115-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rekorddividende der Rüstung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich finde es richtig, dass Rüstungskonzerne Rekorddividenden zahlen. Vom Sterben muss ja auch jemand leben können."
-    },
-    {
-      "id": "2026-08-08-2115-08",
-      "typ": "schnittmenge",
-      "stichwort": "Brandmauer gilt fuer Haendedruck, nicht fuers Programm",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Mit Rechtsextremen wird nicht koaliert, ihre Themen übernimmt man trotzdem. Verboten ist nur der Händedruck, nicht das Programm."
-    },
-    {
-      "id": "2026-08-08-2115-09",
-      "typ": "schnittmenge",
-      "stichwort": "Mittelalterliche Baeckerei weicht Muellcontainer",
+      "stichwort": "Mittelalterliche Bäckerei weicht Müllcontainer",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Sieben Jahrhunderte Bäckerei werden sorgfältig dokumentiert und weichen einem Müllcontainer. Denkmalschutz heisst: wir haben Fotos."
+      "format": "frei",
+      "text": "Unter einer Luzerner Baustelle liegt eine mittelalterliche Bäckerei. Sie wird sorgfältig dokumentiert und dann abgerissen, für den Müllcontainer."
+    },
+    {
+      "id": "2026-08-08-2115-07e",
+      "typ": "schnittmenge",
+      "stichwort": "Filmstar schämt sich für Wohnungskauf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ein Filmstar entschuldigt sich öffentlich dafür, mit 22 eine Wohnung gekauft zu haben. Unsere Grosseltern nannten das erwachsen werden."
+    },
+    {
+      "id": "2026-08-08-2115-08e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trumps Anwalt wird Justizminister",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 4,
+      "text": "Der persönliche Anwalt des Präsidenten wird jetzt Justizminister. Wahlbeobachter*innen schicken die USA weiterhin nur in andere Länder."
     },
     {
       "id": "2026-08-08-2115-10",
