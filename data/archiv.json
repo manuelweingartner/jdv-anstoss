@@ -2877,6 +2877,116 @@
       "haltbarkeit": "tagesgebunden",
       "text": "Assistenzroboter Lio bekommt in der Klinik einen Namen. Das Pflegepersonal bekommt eine Nummer im Dienstplan.",
       "datum": "2026-08-07"
+    },
+    {
+      "id": "2026-08-08-0916-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Blümchen zu links für die Bundeszentrale",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Ein Elefant, der den Zoo vor der Schliessung rettet, ist der Bundeszentrale für politische Bildung zu links.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-0916-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Street Parade: Labor am Samstag, Anzeige am Dienstag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "An der Street Parade lässt der Staat Drogen im Labor testen. Wer dieselbe Pille am Dienstag hat, bekommt eine Anzeige.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-0916-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gastro-Mehrwertsteuer gesenkt, Preise nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Sechs Monate reduzierte Mehrwertsteuer auf Essen. Gesenkt hat sich am Ende nur die Steuer, nicht der Preis.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-0916-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ostdeutschland dulden vs. tolerieren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Die CDU-Spitze würde eine AfD-Koalition im Osten nicht dulden. Gedulet wird sie seit Jahren im eigenen Wortschatz.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-0916-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Meta trägt Mitschuld, zahlt nichts",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Brüssel sagt, Meta und TikTok hätten Zehntausende an die Grenze gelockt. Festgehalten wurden trotzdem nur die Gelockten.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-0916-06",
+      "typ": "remix",
+      "stichwort": "Witwenrente streichen, Wirtschaftsweise beraten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Wer ein Leben lang unbezahlt gepflegt hat, bekommt jetzt ein Splitting. Wer sie beraten hat, bekommt einen Lehrstuhl.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-0916-08",
+      "typ": "schnittmenge",
+      "stichwort": "Geisteswissenschaften plötzlich gefragt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "text": "Jahrzehntelang galten Geisteswissenschaften als brotlos. Jetzt sucht die Tech-Branche Leute, die merken, wenn eine Maschine lügt.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-0916-09",
+      "typ": "schnittmenge",
+      "stichwort": "Rotes Meer: Schiff vs. Mensch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Ein beschossenes Frachtschiff im Roten Meer bekommt Marineschutz aus drei Ländern. Ein beschossenes Boot im Mittelmeer bekommt eine Zuständigkeitsfrage.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-0916-10e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Witwenrente streichen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Der Wirtschaftsweise will die Witwenrente streichen. Wer jahrzehntelang gratis gepflegt hat, soll jetzt flexibel sein.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-0916-11",
+      "typ": "persönlich",
+      "stichwort": "Tochter fragt, Trump baut",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Meine Tochter fragt, bevor sie ihr Zimmer umstellt. Trump baut den Ballsaal und fragt den Kongress hinterher.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-0916-12",
+      "typ": "persönlich",
+      "stichwort": "Männer haben kein Burn-out",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Kein Mann in meinem Umfeld hat ein Burn-out. Alle haben nur eine Firma, die gerade eine schwierige Phase durchläuft.",
+      "datum": "2026-08-08"
     }
   ]
 }
