@@ -26,72 +26,72 @@
     {
       "id": "2026-08-08-2115-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Niedrigwasser: Schiffe stehen, Lastwagen fahren",
+      "stichwort": "Niedrigwasser: Fracht auf die Strasse",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die Flüsse trocknen aus, die Schiffe kommen nicht mehr durch. Gelöst wird das mit mehr Lastwagen am Sonntag."
+      "format": 13,
+      "text": "Zu wenig Wasser in den Flüssen, also fährt die Fracht jetzt per Lastwagen. Endlich ein Problem, das sich selber nachbestellt."
     },
     {
       "id": "2026-08-08-2115-04",
       "typ": "remix",
-      "stichwort": "Daten sammeln: Risiko oder Geschäftsmodell",
+      "stichwort": "Kündigungsschutz schützt die Ungefährdeten",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer Daten über den Staat sammelt, ist ein Sicherheitsrisiko. Wer Daten über uns sammelt, ist ein Geschäftsmodell."
+      "format": 2,
+      "text": "Der Kündigungsschutz in diesem Land schützt zuverlässig alle, denen sowieso niemand kündigen wollte."
     },
     {
       "id": "2026-08-08-2115-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Erben statt Leisten",
+      "stichwort": "Vermögen durch Leistung, selten die eigene",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Leistung muss sich lohnen, sagen ausgerechnet die, deren Vermögen aus einem Todesfall stammt."
+      "text": "Vermögen entsteht in diesem Land durch Leistung. Nur selten durch die eigene."
     },
     {
       "id": "2026-08-08-2115-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Überstunden in der Bilanz",
+      "stichwort": "Busse ist Strafe oder Preis",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Gute Nachricht: Ihre unbezahlten Überstunden stehen dieses Jahr erstmals in der Bilanz. Beim Gewinn."
+      "format": 1,
+      "text": "Bussen sind für alle gleich hoch. Für die einen sind sie eine Strafe, für die anderen ein Preis."
     },
     {
       "id": "2026-08-08-2115-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Pflege wird bezahlbar durch Zuzug",
+      "stichwort": "Rekorddividende der Rüstung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Häusliche Pflege gilt als unbezahlbar. Bezahlbar wird sie, sobald jemand aus Polen dafür ins Gästezimmer zieht."
+      "format": 13,
+      "text": "Ich finde es richtig, dass Rüstungskonzerne Rekorddividenden zahlen. Vom Sterben muss ja auch jemand leben können."
     },
     {
       "id": "2026-08-08-2115-08",
       "typ": "schnittmenge",
-      "stichwort": "Helikopter freiwillig, Verfahren unfreiwillig",
+      "stichwort": "Brandmauer gilt fuer Haendedruck, nicht fuers Programm",
       "plattform": "Instagram + Threads",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Wer sich freiwillig in Lebensgefahr bringt, wird mit dem Helikopter geholt. Wer unfreiwillig darin sitzt, bekommt ein Verfahren."
+      "text": "Mit Rechtsextremen wird nicht koaliert, ihre Themen übernimmt man trotzdem. Verboten ist nur der Händedruck, nicht das Programm."
     },
     {
       "id": "2026-08-08-2115-09",
       "typ": "schnittmenge",
-      "stichwort": "Baeckerei dokumentiert, dann abgeraeumt",
+      "stichwort": "Mittelalterliche Baeckerei weicht Muellcontainer",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 3,
-      "text": "Archäologen dokumentieren eine mittelalterliche Bäckerei sorgfältig. Weichen muss sie einem Müllcontainer."
+      "text": "Sieben Jahrhunderte Bäckerei werden sorgfältig dokumentiert und weichen einem Müllcontainer. Denkmalschutz heisst: wir haben Fotos."
     },
     {
       "id": "2026-08-08-2115-10",
