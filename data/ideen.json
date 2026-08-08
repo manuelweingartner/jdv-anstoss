@@ -76,52 +76,52 @@
     {
       "id": "2026-08-08-2216-08",
       "typ": "schnittmenge",
-      "stichwort": "Gipfel besteigen vs. Meer überqueren",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
+      "stichwort": "Vulkanasche stoppt Flüge sofort, CO2 nie",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Wer bei Lebensgefahr einen Gipfel besteigt, ist mutig. Wer bei Lebensgefahr ein Meer überquert, ist ein Problem."
+      "text": "Spuckt ein Vulkan Asche, steht der Flugverkehr in zwei Stunden still. Spucken die Flugzeuge, steht ein Ziel für 2050."
     },
     {
       "id": "2026-08-08-2216-09",
       "typ": "remix",
-      "stichwort": "Jahrhundertereignis heisst jetzt Vorschädigung",
+      "stichwort": "Hangrutsch zu langsam für Katastrophe",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 10,
-      "text": "Versichert war das Jahrhundertereignis. Seit es dreimal pro Sommer eintritt, heisst es in der Police Vorschädigung."
+      "text": "Der Hang rutscht so langsam, dass er nie zur Katastrophe wird. Nur zu einer Adresse, die niemand mehr versichert."
     },
     {
       "id": "2026-08-08-2216-10",
       "typ": "persönlich",
-      "stichwort": "Tierheim hat eine Saison",
+      "stichwort": "Bergwacht warnt, mein Hund fürchtet Tüten",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 5,
-      "text": "Unser Hund kam im Winter aus Rumänien. Im August lernte er, dass Tierheime hier eine Saison haben."
+      "format": 2,
+      "text": "Die Bergwacht meldet mehr unerfahrene Leute am Berg. Mein Hund wurde gegen Wölfe gezüchtet und fürchtet Einkaufstüten."
     },
     {
       "id": "2026-08-08-2216-11",
       "typ": "persönlich",
-      "stichwort": "Sandalen am Berg",
+      "stichwort": "Jahrelang nicht reklamiert, jahrelang nicht gesenkt",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Am Berg hat mich ein Mann in Sandalen überholt. Die Rettung kostet für uns beide gleich viel, ich habe nur die teureren Schuhe."
+      "format": 1,
+      "text": "Ich habe jahrelang nicht reklamiert, weil ich niemanden ärgern wollte. Mein Vermieter hat jahrelang nicht gesenkt, weil ihn niemand geärgert hat."
     },
     {
       "id": "2026-08-08-2216-12",
       "typ": "persönlich",
-      "stichwort": "Eigene App, eigene Miete",
+      "stichwort": "Neue Nachbarn, schöne Aussicht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ich habe eine App gebaut, die zu hohe Mieten senkt. Auf die eigene Wohnung anwenden traue ich mich nicht."
+      "format": 3,
+      "text": "Neue Nachbarn ziehen wegen der Aussicht hierher. Gemeint ist die auf ihre künftige Steuerrechnung."
     }
   ]
 }
