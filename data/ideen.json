@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -34,14 +34,14 @@
       "text": "Gute Nachricht: Über die globalen Krisen wird diese Woche beraten. Wir als Verursacher schicken jemanden zum Zuhören."
     },
     {
-      "id": "2026-08-08-2239-04",
-      "typ": "schnittmenge",
-      "stichwort": "Beweislast: wer das Formular schafft",
+      "id": "2026-08-08-2239-04e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Verhandeln über schrumpfenden Fluss",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich finde es richtig, dass Kranke ihre Krankheit selbst belegen. Wer das Formular schafft, war offensichtlich arbeitsfähig."
+      "format": "frei",
+      "text": "Zwei Staaten verhandeln, wem der Fluss gehört. Der Fluss verhandelt nicht mit, er wird einfach kleiner."
     },
     {
       "id": "2026-08-08-2239-05",
@@ -64,24 +64,24 @@
       "text": "Wer zehn Jahre Miete pünktlich zahlt, gilt der Bank als zu unsicher für eine tiefere Rate."
     },
     {
-      "id": "2026-08-08-2239-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Care-Arbeit unbezahlbar, darum unbezahlt",
+      "id": "2026-08-08-2239-07e",
+      "typ": "schnittmenge",
+      "stichwort": "Campingkocher statt Pillen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Gute Nachricht aus der Chefetage: Care-Arbeit ist unbezahlbar. Darum haben wir das Bezahlen gleich weggelassen."
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Das gefährlichste Gerät auf dem Festivalgelände war ein Campingkocher. Gewarnt wird trotzdem weiter vor den Pillen."
     },
     {
-      "id": "2026-08-08-2239-08",
-      "typ": "schnittmenge",
-      "stichwort": "Traditionsmarke geht, Menschen kommen",
-      "plattform": "Instagram + Threads",
+      "id": "2026-08-08-2239-08e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mammut wird chinesisch",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Kommen Menschen ins Land, heisst das Überfremdung. Geht die Traditionsmarke ins Ausland, heisst das Standortsicherung."
+      "haltbarkeit": "tagesgebunden",
+      "format": 12,
+      "text": "Mammut, die Marke der Schweizer Berge, gehört jetzt Shanghai. Die Berge bleiben hier, das Geld war nie hier."
     },
     {
       "id": "2026-08-08-2239-09",
@@ -114,14 +114,14 @@
       "text": "Unsere Mieterhöhung heisst im Brief wertvermehrende Investition. Wertvermehrt hat sich bisher nur die Miete. (echtes Detail einsetzen)"
     },
     {
-      "id": "2026-08-08-2239-12",
-      "typ": "persönlich",
-      "stichwort": "Mit Kind im Zug vs. SUV vor der Schule",
+      "id": "2026-08-08-2239-12e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Autokrat stürzt über Preise",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Mit Kind im Zug bin ich ein Verkehrshindernis. Mit SUV vor der Schule bin ich ein besorgter Vater."
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Autokrat in Ungarn stürzte nicht über seine Politik, sondern über die Preise. Moral hatte nie eine Mehrheit."
     }
   ]
 }
