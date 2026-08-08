@@ -1,8 +1,38 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-1506-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump-Video: Swift-Song wieder raus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trumps Team klaut einen Taylor-Swift-Song und muss ihn löschen. Der Rechtsstaat greift, sobald ein Konzern betroffen ist."
+    },
+    {
+      "id": "2026-08-08-1506-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gardasee: Wald brennt, Hotspot wird evakuiert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Ein Wald brennt, in der Meldung heisst der Ort Tourismus-Hotspot. Evakuiert wird die Saison."
+    },
+    {
+      "id": "2026-08-08-1506-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fähre Rom nach Algerien, zweimal pro Woche",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Zweimal pro Woche fährt jetzt eine Fähre von Rom nach Algerien. In die Gegenrichtung heisst dasselbe Meer Fluchtroute."
+    },
     {
       "id": "2026-08-08-1506-04",
       "typ": "politisch-aktuell",
