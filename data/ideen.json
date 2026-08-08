@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -83,6 +83,33 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "text": "Ein beschossenes Frachtschiff im Roten Meer bekommt Marineschutz aus drei Ländern. Ein beschossenes Boot im Mittelmeer bekommt eine Zuständigkeitsfrage."
+    },
+    {
+      "id": "2026-08-08-0916-10",
+      "typ": "persönlich",
+      "stichwort": "Wasserhund vs. AKW-Drosselung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Unser Wasserhund geht nicht ins Wasser, wenn es heiss ist. Die Schweizer AKWs machen es jetzt genauso."
+    },
+    {
+      "id": "2026-08-08-0916-11",
+      "typ": "persönlich",
+      "stichwort": "Tochter fragt, Trump baut",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Meine Tochter fragt, bevor sie ihr Zimmer umstellt. Trump baut den Ballsaal und fragt den Kongress hinterher."
+    },
+    {
+      "id": "2026-08-08-0916-12",
+      "typ": "persönlich",
+      "stichwort": "Männer haben kein Burn-out",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Kein Mann in meinem Umfeld hat ein Burn-out. Alle haben nur eine Firma, die gerade eine schwierige Phase durchläuft."
     }
   ]
 }
