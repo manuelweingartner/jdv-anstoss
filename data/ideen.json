@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "4 von 12 da, der Rest lädt noch.",
+  "hinweis": "6 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-2323-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vulkan streicht Flüge, Klimapolitik nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ein Vulkan hat in zwei Stunden mehr Flüge gestrichen als dreissig Jahre Klimapolitik."
+    },
+    {
+      "id": "2026-08-08-2323-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Drogenmarkt als deregulierter Traum",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Endlich ein Markt ohne Bürokratie: keine Deklarationspflicht, keine Zulassung, keine Preisaufsicht. Die Wirtschaftsverbände sollten sich am Drogenhandel orientieren."
+    },
     {
       "id": "2026-08-08-2323-03",
       "typ": "politisch-aktuell",
