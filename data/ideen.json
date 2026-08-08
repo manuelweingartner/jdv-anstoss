@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,36 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Ich finde es richtig, dass Kranke ihre Krankheit beweisen müssen. Wer das drei Jahre durchhält, war offensichtlich gesund genug."
+    },
+    {
+      "id": "2026-08-08-2323-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Busse als Gebuehr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Dieselbe Busse ist für die einen eine Strafe und für die anderen eine Gebühr."
+    },
+    {
+      "id": "2026-08-08-2323-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Praktikum als Auswahlverfahren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Unbezahlte Praktika sind kein Berufseinstieg, sondern ein Auswahlverfahren unter Eltern."
+    },
+    {
+      "id": "2026-08-08-2323-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Erben bleibt steuerfrei",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Gute Nachricht: Erben bleibt steuerfrei. Steuern zahlt in diesem Land nur, wer sein Geld selbst verdient."
     },
     {
       "id": "2026-08-08-2323-08",
