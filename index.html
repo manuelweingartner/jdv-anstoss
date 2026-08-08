@@ -402,6 +402,18 @@ const REASONS = ['zu erklärend', 'zu lang', 'konstruiert', 'kein Widerspruch',
                  'Thema falsch', 'Thema hatte ich schon', 'Schema hatte ich grad',
                  'News zu wenig bekannt', 'nicht lustig'];
 
+/* Kurznamen der Format-Bibliothek (references/formate.md im Skill-Ordner).
+   Seit 08.08.2026 auf der Karte sichtbar und filterbar: das Feld stand vorher
+   zwar in den Daten, aber nirgends im Bild. Manuel suchte Meta-Vorschläge und
+   fand keine, obwohl zwei in der Liste standen. */
+const FORMATE = {
+  1: 'Doppelmoral', 2: 'Gebaut für X', 3: 'Euphemismus', 4: 'Einzeiler',
+  5: 'Wholesome', 6: 'Mitmach', 7: 'Grafik', 8: 'Kalender',
+  9: 'Kampagne', 10: 'Remix', 11: 'Zwei Listen', 12: 'Mythologie',
+  13: 'Meta',
+};
+const formatName = f => FORMATE[Number(f)] || '';
+
 let ideenNow = [];
 
 /* Genommenes bleibt mit Haken stehen (Manuel will sehen, was er nahm),
@@ -550,6 +562,7 @@ function card(idee) {
   slot.className = 'slot';
   slot.dataset.typ = idee.typ || '';
   slot.dataset.schaerfe = idee.schaerfe || '';
+  slot.dataset.format = formatName(idee.format);
 
   const noteSplit = idee.text.match(/^([\s\S]*?)(\n?\(.*\))?$/);
   const mainText = (noteSplit[1] || idee.text).trim();
@@ -559,7 +572,7 @@ function card(idee) {
   slot.innerHTML = `
     <div class="kopf">
       <span class="nr">${nr}</span><i></i>
-      <span>${[idee.typ, idee.schaerfe].filter(Boolean).join(' · ')}</span>
+      <span>${[idee.typ, idee.schaerfe, formatName(idee.format)].filter(Boolean).join(' · ')}</span>
     </div>
     <p class="posttext"></p>
     <div class="kicker"></div>
@@ -653,12 +666,13 @@ async function rate(idee, n, paint, varBtn) {
                        : `${n}/5 gemerkt, wird später gesendet`);
 }
 
-/* Filter nach Typ und Schärfe */
-const filter = { typ: null, schaerfe: null };
+/* Filter nach Typ, Schärfe und Format */
+const filter = { typ: null, schaerfe: null, format: null };
 function applyFilter() {
   document.querySelectorAll('#liste .slot').forEach(s => {
     const passt = (!filter.typ || s.dataset.typ === filter.typ)
-      && (!filter.schaerfe || s.dataset.schaerfe === filter.schaerfe);
+      && (!filter.schaerfe || s.dataset.schaerfe === filter.schaerfe)
+      && (!filter.format || s.dataset.format === filter.format);
     s.classList.toggle('gefiltert', !passt);
   });
 }
@@ -668,6 +682,7 @@ function renderFilter() {
   const gruppen = [
     ['typ', [...new Set(ideenNow.map(i => i.typ).filter(Boolean))]],
     ['schaerfe', ['breit', 'mittel', 'steil'].filter(s => ideenNow.some(i => i.schaerfe === s))],
+    ['format', [...new Set(ideenNow.map(i => formatName(i.format)).filter(Boolean))]],
   ];
   let chips = 0;
   for (const [feld, werte] of gruppen) {

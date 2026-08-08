@@ -133,6 +133,15 @@ const REASONS = ['zu erklärend', 'zu lang', 'konstruiert', 'kein Widerspruch',
                  'Thema falsch', 'Thema hatte ich schon', 'Schema hatte ich grad',
                  'News zu wenig bekannt', 'nicht lustig'];
 
+/* Gleiche Kurznamen wie index.html, siehe dort. */
+const FORMATE = {
+  1: 'Doppelmoral', 2: 'Gebaut für X', 3: 'Euphemismus', 4: 'Einzeiler',
+  5: 'Wholesome', 6: 'Mitmach', 7: 'Grafik', 8: 'Kalender',
+  9: 'Kampagne', 10: 'Remix', 11: 'Zwei Listen', 12: 'Mythologie',
+  13: 'Meta',
+};
+const formatName = f => FORMATE[Number(f)] || '';
+
 const lokal = JSON.parse(localStorage.getItem(LS_STATE) || '{}');
 const saveLokal = () => localStorage.setItem(LS_STATE, JSON.stringify(lokal));
 
@@ -281,7 +290,7 @@ function zeile(idee, sterne) {
   el.innerHTML = `
     <div class="kopf">
       <span class="kaestchen"></span>
-      <i></i><span>${[idee.typ, idee.schaerfe].filter(Boolean).join(' · ')}</span>
+      <i></i><span>${[idee.typ, idee.schaerfe, formatName(idee.format)].filter(Boolean).join(' · ')}</span>
       <span class="alter"></span>
     </div>
     <p class="posttext"></p>
