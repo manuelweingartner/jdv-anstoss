@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "5 von 12 da, der Rest lädt noch.",
+  "hinweis": "7 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Häusliche Pflege gilt als unbezahlbar. Bezahlbar wird sie, sobald jemand aus Polen dafür ins Gästezimmer zieht."
+    },
+    {
+      "id": "2026-08-08-2115-08",
+      "typ": "schnittmenge",
+      "stichwort": "Helikopter freiwillig, Verfahren unfreiwillig",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer sich freiwillig in Lebensgefahr bringt, wird mit dem Helikopter geholt. Wer unfreiwillig darin sitzt, bekommt ein Verfahren."
+    },
+    {
+      "id": "2026-08-08-2115-09",
+      "typ": "schnittmenge",
+      "stichwort": "Baeckerei dokumentiert, dann abgeraeumt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Archäologen dokumentieren eine mittelalterliche Bäckerei sorgfältig. Weichen muss sie einem Müllcontainer."
     }
   ]
 }
