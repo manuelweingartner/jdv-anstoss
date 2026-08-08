@@ -1,8 +1,35 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "6 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-0916-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ostdeutschland dulden vs. tolerieren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Die CDU-Spitze würde eine AfD-Koalition im Osten nicht dulden. Gedulet wird sie seit Jahren im eigenen Wortschatz."
+    },
+    {
+      "id": "2026-08-08-0916-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Meta trägt Mitschuld, zahlt nichts",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Brüssel sagt, Meta und TikTok hätten Zehntausende an die Grenze gelockt. Festgehalten wurden trotzdem nur die Gelockten."
+    },
+    {
+      "id": "2026-08-08-0916-06",
+      "typ": "remix",
+      "stichwort": "Witwenrente streichen, Wirtschaftsweise beraten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "text": "Wer ein Leben lang unbezahlt gepflegt hat, bekommt jetzt ein Splitting. Wer sie beraten hat, bekommt einen Lehrstuhl."
+    },
     {
       "id": "2026-08-08-0916-07",
       "typ": "schnittmenge",
