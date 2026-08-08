@@ -1,8 +1,38 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-1440-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Alkoholwerbung vs. Zellgift",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Alkoholwerbung zeigt Freunde am See. Die Forschung führt dieselbe Substanz in derselben Gruppe wie Asbest."
+    },
+    {
+      "id": "2026-08-08-1440-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwei Republikanerinnen bleiben fern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Zwei Republikanerinnen wollten den neuen US-Justizminister nicht. Also blieben sie der Abstimmung fern und liessen ihn durch."
+    },
+    {
+      "id": "2026-08-08-1440-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ebola-Impfstoff am falschen Ort",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Gegen Ebola gibt es seit Jahren einen Impfstoff. Er lagert zuverlässig dort, wo die Krankheit nicht ist."
+    },
     {
       "id": "2026-08-08-1440-04",
       "typ": "politisch-aktuell",
