@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -24,24 +24,24 @@
       "text": "Ein Wald brennt, in der Meldung heisst der Ort Tourismus-Hotspot. Evakuiert wird die Saison."
     },
     {
-      "id": "2026-08-08-1506-03",
+      "id": "2026-08-08-1506-03e",
       "typ": "politisch-aktuell",
-      "stichwort": "Fähre Rom nach Algerien, zweimal pro Woche",
+      "stichwort": "Ungarn nominiert den abgesetzten Richter",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Zweimal pro Woche fährt jetzt eine Fähre von Rom nach Algerien. In die Gegenrichtung heisst dasselbe Meer Fluchtroute."
+      "format": "frei",
+      "text": "Ungarns Regierungspartei macht den Richter zum Präsidenten, den sie selbst abgesetzt hat. Gefährlich war er nur, solange er urteilen durfte."
     },
     {
-      "id": "2026-08-08-1506-04",
+      "id": "2026-08-08-1506-04e",
       "typ": "politisch-aktuell",
-      "stichwort": "Street Parade: Dichtestress an einem Tag",
+      "stichwort": "Wahlsieg ohne Lobbygeld als Kuriosität",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "In Zürich tanzt eine Million Menschen, die Polizei nennt es Dichtestress. Dieselbe Zahl über zwanzig Jahre nennt man Bedrohung."
+      "format": "frei",
+      "text": "In Michigan gewinnt einer, der kein Lobbygeld nimmt. Die Berichte darüber erklären geduldig, wie ungewöhnlich das ist."
     },
     {
       "id": "2026-08-08-1506-05",
@@ -64,24 +64,24 @@
       "text": "Das Gesundheitssystem ist so effizient, dass eine Diagnose sieben Jahre dauert und die Absage der Kasse sechs Wochen."
     },
     {
-      "id": "2026-08-08-1506-07",
+      "id": "2026-08-08-1506-07e",
       "typ": "schnittmenge",
-      "stichwort": "Vermisster Segler vs. Boot daneben",
+      "stichwort": "Reformrechner statt Reform",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Für einen vermissten Segler fährt vor Griechenland jedes Schiff raus. Für das Boot daneben gibt es ein Verfahren."
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ein Rechner sagt dir, ob die Reform dich ärmer macht. Die Regierung hat den Rechner nicht gebaut, nur die Reform."
     },
     {
-      "id": "2026-08-08-1506-08",
-      "typ": "schnittmenge",
-      "stichwort": "Stausee: historisch niedriger Wasserstand",
+      "id": "2026-08-08-1506-08e",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm gegen Privatjet",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Der grösste Stausee der USA meldet historisch niedrigen Wasserstand. Früher hiess das Wüste."
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren im ECO-Programm. Ein Privatjet nach Ibiza holt das in vier Minuten ein."
     },
     {
       "id": "2026-08-08-1506-09",
@@ -114,14 +114,14 @@
       "text": "Meine Tochter fragt, warum die Versicherung ihren Arm zahlt und ihre Zähne nicht. Medizinisch endet der Mensch beim Kiefer."
     },
     {
-      "id": "2026-08-08-1506-12",
-      "typ": "persönlich",
-      "stichwort": "Lohnabzug vs. Erbe",
+      "id": "2026-08-08-1506-12e",
+      "typ": "schnittmenge",
+      "stichwort": "Anerkennung durch Versicherung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Von meinem Lohn geht jeden Monat ein Viertel weg. Wer zehn Millionen erbt, füllt ein Formular aus."
+      "format": "frei",
+      "text": "Eine Krankheit ist anerkannt, sobald eine Versicherung sie bezahlt. Vorher ist sie eine Meinung."
     }
   ]
 }
