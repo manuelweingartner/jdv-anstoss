@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "5 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-2115-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Niedrigwasser: Schiffe stehen, Lastwagen fahren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Flüsse trocknen aus, die Schiffe kommen nicht mehr durch. Gelöst wird das mit mehr Lastwagen am Sonntag."
+    },
+    {
+      "id": "2026-08-08-2115-04",
+      "typ": "remix",
+      "stichwort": "Daten sammeln: Risiko oder Geschäftsmodell",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer Daten über den Staat sammelt, ist ein Sicherheitsrisiko. Wer Daten über uns sammelt, ist ein Geschäftsmodell."
+    },
     {
       "id": "2026-08-08-2115-05",
       "typ": "politisch-aktuell",
