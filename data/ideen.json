@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,36 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Beruhigend, dass niemand mehr an Erschöpfung leidet, seit die Versicherung das Wort aus ihrem Katalog gestrichen hat."
+    },
+    {
+      "id": "2026-08-08-1531-10",
+      "typ": "persönlich",
+      "stichwort": "Tochter fragt nach dem Sommer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Meine Tochter will wissen, ob der Sommer immer so war. Ich sage ja, weil die Wahrheit länger dauert."
+    },
+    {
+      "id": "2026-08-08-1531-11",
+      "typ": "persönlich",
+      "stichwort": "Wasserhund hasst Wasser",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 2,
+      "text": "Unser Wasserhund hasst Wasser, ist allergisch auf Gras und versteht kein Französisch. Wir haben ihn wegen der Allergie geholt."
+    },
+    {
+      "id": "2026-08-08-1531-12",
+      "typ": "persönlich",
+      "stichwort": "Bonitätsauskunft vs. Mieterhöhung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Ich musste für meine Wohnung eine Bonitätsauskunft einreichen. Der Eigentümer musste nur die Miete erhöhen."
     }
   ]
 }
