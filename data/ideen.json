@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -58,15 +58,6 @@
       "text": "Wer ein Leben lang unbezahlt gepflegt hat, bekommt jetzt ein Splitting. Wer sie beraten hat, bekommt einen Lehrstuhl."
     },
     {
-      "id": "2026-08-08-0916-07",
-      "typ": "schnittmenge",
-      "stichwort": "Kinderärzte: Elternversagen vs. Konzern",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Der Kinderärzteverband nennt Bildschirmzeit gravierendes Elternversagen. Die Firma, die den Feed gebaut hat, kriegt eine Steuergutschrift."
-    },
-    {
       "id": "2026-08-08-0916-08",
       "typ": "schnittmenge",
       "stichwort": "Geisteswissenschaften plötzlich gefragt",
@@ -85,13 +76,13 @@
       "text": "Ein beschossenes Frachtschiff im Roten Meer bekommt Marineschutz aus drei Ländern. Ein beschossenes Boot im Mittelmeer bekommt eine Zuständigkeitsfrage."
     },
     {
-      "id": "2026-08-08-0916-10",
-      "typ": "persönlich",
-      "stichwort": "Wasserhund vs. AKW-Drosselung",
+      "id": "2026-08-08-0916-10e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Witwenrente streichen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "text": "Unser Wasserhund geht nicht ins Wasser, wenn es heiss ist. Die Schweizer AKWs machen es jetzt genauso."
+      "text": "Der Wirtschaftsweise will die Witwenrente streichen. Wer jahrzehntelang gratis gepflegt hat, soll jetzt flexibel sein."
     },
     {
       "id": "2026-08-08-0916-11",
