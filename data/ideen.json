@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "7 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -72,6 +72,26 @@
       "haltbarkeit": "evergreen",
       "format": 1,
       "text": "Wer die Firma putzt, wird auf Diebstahl kontrolliert. Wer sie ausräumt, bekommt eine Abfindung."
+    },
+    {
+      "id": "2026-08-08-2216-08",
+      "typ": "schnittmenge",
+      "stichwort": "Gipfel besteigen vs. Meer überqueren",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer bei Lebensgefahr einen Gipfel besteigt, ist mutig. Wer bei Lebensgefahr ein Meer überquert, ist ein Problem."
+    },
+    {
+      "id": "2026-08-08-2216-09",
+      "typ": "remix",
+      "stichwort": "Jahrhundertereignis heisst jetzt Vorschädigung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Versichert war das Jahrhundertereignis. Seit es dreimal pro Sommer eintritt, heisst es in der Police Vorschädigung."
     }
   ]
 }
