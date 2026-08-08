@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "7 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -72,6 +72,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Frauensport rechnet sich nicht, sagen Leute, deren Lieblingsstadion die Stadt bezahlt hat."
+    },
+    {
+      "id": "2026-08-08-2133-08",
+      "typ": "schnittmenge",
+      "stichwort": "Rekordumsatz heisst Marktwert oder Dankbarkeit",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Bei den Männern heisst Rekordumsatz Marktwert. Bei den Frauen heisst derselbe Rekordumsatz Danke für die Chance."
+    },
+    {
+      "id": "2026-08-08-2133-09",
+      "typ": "remix",
+      "stichwort": "Winterjob im Ausland, genannt Marktlogik",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Die WNBA zahlt Weltmeisterinnen so wenig, dass sie im Winter in Diktaturen arbeiten. Das nennt man Marktlogik."
     }
   ]
 }
