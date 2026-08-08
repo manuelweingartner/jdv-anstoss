@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "hinweis": "4 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-2323-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bewilligter Umzug ohne Forderung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Endlich ein Umzug, den wir gerne bewilligen: eine Million Menschen auf der Strasse, ohne eine einzige Forderung."
+    },
+    {
+      "id": "2026-08-08-2323-04",
+      "typ": "schnittmenge",
+      "stichwort": "Beweislast bei den Kranken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich finde es richtig, dass Kranke ihre Krankheit beweisen müssen. Wer das drei Jahre durchhält, war offensichtlich gesund genug."
+    },
     {
       "id": "2026-08-08-2323-08",
       "typ": "schnittmenge",
