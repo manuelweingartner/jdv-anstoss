@@ -3229,6 +3229,127 @@
       "format": "frei",
       "text": "Mein Hund kam aus Rumänien hierher, weil ein Formular stimmte. Für Menschen heisst dasselbe Formular ein dreijähriges Verfahren.",
       "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1450-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fitnessstudio allein vs. Verein",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Im Fitnessstudio trainieren vor allem Männer, im Verein vor allem Frauen. Das einsamste Geschlecht nennt sich das unabhängige.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1450-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nackter Randalierer im Imbiss",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Männer sind das einzige Geschlecht, das nackt in einem Imbiss randaliert und danach über Frauen in Führungspositionen diskutiert.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1450-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rennrad bei 38 Grad",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Ein Mann fährt bei 38 Grad freiwillig achtzig Kilometer Rennrad und nennt es Disziplin. Die Notaufnahme nennt es Dienstag.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1450-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Locarno: Abrechnung mit dem Schweizer Film",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "An der Piazza Grande zerlegt ein Oscarpreisträger den heimischen Film. Applaus, Apéro, gefördert wird nächstes Jahr dasselbe.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1450-06",
+      "typ": "remix",
+      "stichwort": "Therapie findet trotzdem statt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Männer lehnen Therapie ab. Die Sitzungen finden trotzdem statt, abends, unbezahlt, geführt von ihrer Partnerin.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1450-07e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angekündigter Song, gelieferte Stille",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trumps Social-Media-Team kündigt einen Taylor-Swift-Song an und liefert Stille. Die erste ehrliche Kulturpolitik dieser Regierung.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1450-08",
+      "typ": "schnittmenge",
+      "stichwort": "Maennerschmerz: Arzt vs. Weltlage",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ein Mann braucht drei Jahre, um mit Rückenschmerzen zum Arzt zu gehen. Zur Weltlage hat er nach neun Sekunden eine Meinung.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1450-09",
+      "typ": "schnittmenge",
+      "stichwort": "Rhein-Fundstuecke vs. Maennerauftritt",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Im Rhein liegen Motorräder und ein Gebiss. Beides hat ein Mann getragen, um jünger zu wirken.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1450-10e",
+      "typ": "schnittmenge",
+      "stichwort": "Debattenkultur als Etikett",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "In der Politik heisst es Debattenkultur. Überall sonst heisst es: ein Mann hört nicht zu.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1450-11",
+      "typ": "persönlich",
+      "stichwort": "Männer reden im Fernsehen alleine",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Warum reden Männer im Fernsehen immer alleine, fragt meine Tochter. Ich erkläre es ihr, ausführlich.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1450-12",
+      "typ": "persönlich",
+      "stichwort": "Nachts aufpassen, Väter von Söhnen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Meiner Tochter soll ich beibringen, nachts aufzupassen. Wovor genau, erklärt mir kein einziger Vater von Söhnen.",
+      "datum": "2026-08-08"
     }
   ]
 }
