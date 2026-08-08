@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Seit einer Woche fallen in Gaza keine Bomben. Wasser fällt seit Monaten auch keins."
+    },
+    {
+      "id": "2026-08-08-1030-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wanderwege in den Schatten verlegt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Gegen die Klimaerhitzung tut die Schweiz jetzt endlich etwas: Sie verlegt Wanderwege in den Schatten."
+    },
+    {
+      "id": "2026-08-08-1030-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nackt-Fahrraddemo Berlin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die erste Nackt-Fahrraddemo Deutschlands fährt am Sonntag durch Berlin. Diskutiert wird danach über die Körper, nicht über die Autos."
+    },
+    {
+      "id": "2026-08-08-1030-06",
+      "typ": "remix",
+      "stichwort": "Verteidigungspakt Mekka",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Drei Länder unterschreiben in Mekka einen Verteidigungspakt. Dieselbe Unterschrift im Iran wäre eine Achse des Bösen."
     },
     {
       "id": "2026-08-08-1030-07",
