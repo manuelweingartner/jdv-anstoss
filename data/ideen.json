@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "7 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 1,
       "text": "Wer gegen Rechtsextreme demonstriert, wird eingekesselt. Wer neben ihnen demonstriert, wird gezählt."
+    },
+    {
+      "id": "2026-08-08-2125-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Auto in Velogruppe heisst Streit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Zwei Tonnen Auto fahren in eine Gruppe Velofahrer*innen. In der Meldung ist das ein Streit, der eskaliert."
+    },
+    {
+      "id": "2026-08-08-2125-04",
+      "typ": "remix",
+      "stichwort": "Musik nach zehn vs. Autobahn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer nach zehn Uhr Musik hört, kriegt die Polizei. Wer eine Autobahn baut, kriegt eine Lärmschutzwand."
     },
     {
       "id": "2026-08-08-2125-05",
