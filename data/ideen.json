@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "10 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-2115-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Besetztes Haus geräumt, Leerstand abgeschrieben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Wer ein Haus besetzt, wird geräumt. Wer eines leer stehen lässt, wird abgeschrieben."
+    },
+    {
+      "id": "2026-08-08-2115-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Migräne heisst Kopfschmerz, Versicherung rechnet damit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Migräne gilt als Kopfschmerz, wie ein Erdbeben als Erschütterung gilt. Die Versicherung rechnet mit dem Kopfschmerz."
+    },
     {
       "id": "2026-08-08-2115-03",
       "typ": "politisch-aktuell",
