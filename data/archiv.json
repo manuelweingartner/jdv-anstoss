@@ -4274,6 +4274,138 @@
       "format": 3,
       "text": "Neue Nachbarn ziehen wegen der Aussicht hierher. Gemeint ist die auf ihre künftige Steuerrechnung.",
       "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2239-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Serbien: Haltung bis jemand zahlt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Serbien steht fest an Russlands Seite und schliesst Freihandel mit der Ukraine. Haltung hat man, bis jemand zahlt.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2239-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Dürre legt Kriegswracks frei",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Endlich hat die Dürre etwas Gutes: Die Donau gibt die Wracks des letzten Weltkriegs frei. Erinnerungskultur zum Nulltarif.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2239-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Krisengipfel: Verursacher schicken Beobachter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Gute Nachricht: Über die globalen Krisen wird diese Woche beraten. Wir als Verursacher schicken jemanden zum Zuhören.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2239-04e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Verhandeln über schrumpfenden Fluss",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Zwei Staaten verhandeln, wem der Fluss gehört. Der Fluss verhandelt nicht mit, er wird einfach kleiner.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2239-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Produktivitaet verdoppelt, Zeit anderswo",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seit 1980 arbeiten wir doppelt so produktiv. Die eingesparte Zeit hat jemand anders bekommen.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2239-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Puenktliche Miete gilt als Risiko",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer zehn Jahre Miete pünktlich zahlt, gilt der Bank als zu unsicher für eine tiefere Rate.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2239-07e",
+      "typ": "schnittmenge",
+      "stichwort": "Campingkocher statt Pillen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Das gefährlichste Gerät auf dem Festivalgelände war ein Campingkocher. Gewarnt wird trotzdem weiter vor den Pillen.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2239-08e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mammut wird chinesisch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 12,
+      "text": "Mammut, die Marke der Schweizer Berge, gehört jetzt Shanghai. Die Berge bleiben hier, das Geld war nie hier.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2239-09",
+      "typ": "remix",
+      "stichwort": "Strahlung aus dem Himmel, jetzt mit Abo",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Wer jahrelang vor Strahlung aus dem Himmel gewarnt hat, bezieht sein Internet jetzt genau von dort.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2239-10",
+      "typ": "persönlich",
+      "stichwort": "Kind will laufen, ich will die Seilbahn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Das Kind will zu Fuss auf den Berg, ich will die Seilbahn. Gerettet werden am Ende Leute wie ich.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2239-11",
+      "typ": "persönlich",
+      "stichwort": "Wertvermehrende Investition, vermehrt hat sich die Miete",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Unsere Mieterhöhung heisst im Brief wertvermehrende Investition. Wertvermehrt hat sich bisher nur die Miete. (echtes Detail einsetzen)",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2239-12e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Autokrat stürzt über Preise",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Autokrat in Ungarn stürzte nicht über seine Politik, sondern über die Preise. Moral hatte nie eine Mehrheit.",
+      "datum": "2026-08-08"
     }
   ]
 }
