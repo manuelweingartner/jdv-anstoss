@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "5 von 12 da, der Rest lädt noch.",
+  "hinweis": "7 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-1531-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Monkey Dust: Problem je nach Quartier",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Neue Droge, billig, macht sofort abhängig. Zum Problem wird sie erst, wenn sie in guten Vierteln ankommt."
+    },
+    {
+      "id": "2026-08-08-1531-04",
+      "typ": "remix",
+      "stichwort": "Verzugszins gegen zu hohe Miete",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Wer die Miete zu spät zahlt, zahlt Verzugszins. Wer sie zu hoch angesetzt hat, behält die Differenz."
+    },
     {
       "id": "2026-08-08-1531-05",
       "typ": "politisch-aktuell",
