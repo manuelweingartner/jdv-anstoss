@@ -1,8 +1,38 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "6 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-1030-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bundeswehr findet jede Adresse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Mit 18 findet die Bundeswehr jede Adresse in diesem Land. Beim Wohngeld ist dieselbe Adresse ein halbes Jahr lang unauffindbar."
+    },
+    {
+      "id": "2026-08-08-1030-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Drohne als Weckruf, Hitzesommer als Räuspern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Eine Drohne in Leipzig ist ein Weckruf für die Schweiz. Die Hitzesommer der letzten Jahre waren offenbar nur ein Räuspern."
+    },
+    {
+      "id": "2026-08-08-1030-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gaza: Bomben fallen nicht, Wasser auch nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seit einer Woche fallen in Gaza keine Bomben. Wasser fällt seit Monaten auch keins."
+    },
     {
       "id": "2026-08-08-1030-07",
       "typ": "schnittmenge",
