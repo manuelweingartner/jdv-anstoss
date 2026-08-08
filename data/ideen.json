@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -34,14 +34,14 @@
       "text": "Endlich ein Umzug, den wir gerne bewilligen: eine Million Menschen auf der Strasse, ohne eine einzige Forderung."
     },
     {
-      "id": "2026-08-08-2323-04",
+      "id": "2026-08-08-2323-04e",
       "typ": "schnittmenge",
-      "stichwort": "Beweislast bei den Kranken",
+      "stichwort": "Nacktes Streichquartett als Kulturpolitik",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich finde es richtig, dass Kranke ihre Krankheit beweisen müssen. Wer das drei Jahre durchhält, war offensichtlich gesund genug."
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ein Streichquartett spielt nackt und ohne Probe. So arbeitet die Kultur seit der letzten Sparrunde."
     },
     {
       "id": "2026-08-08-2323-05",
@@ -64,44 +64,34 @@
       "text": "Unbezahlte Praktika sind kein Berufseinstieg, sondern ein Auswahlverfahren unter Eltern."
     },
     {
-      "id": "2026-08-08-2323-07",
+      "id": "2026-08-08-2323-07e",
       "typ": "politisch-aktuell",
-      "stichwort": "Erben bleibt steuerfrei",
+      "stichwort": "Gefährder-Überwachung bis das Personal fehlt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Gute Nachricht: Erben bleibt steuerfrei. Steuern zahlt in diesem Land nur, wer sein Geld selbst verdient."
+      "format": "frei",
+      "text": "Gefährder werden überwacht, bis das Personal fehlt. Danach übernimmt die Hoffnung."
     },
     {
-      "id": "2026-08-08-2323-08",
+      "id": "2026-08-08-2323-08e",
       "typ": "schnittmenge",
-      "stichwort": "Tausende belagern ein Dorf",
+      "stichwort": "Ätna: Katastrophe ab Flugplan",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Dreitausend Menschen belagern ein Dorf und feiern: Volksfest. Dreissig schlafen im Park: Sicherheitsproblem."
-    },
-    {
-      "id": "2026-08-08-2323-09",
-      "typ": "remix",
-      "stichwort": "Ausgrabung nach Bauplan",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Die Bäckerei stand 700 Jahre. Dokumentiert wurde sie an dem Tag, an dem der Bagger kam."
+      "format": "frei",
+      "text": "Naturgewalt ist erst eine Katastrophe, wenn sie den Flugplan von Catania trifft."
     },
     {
-      "id": "2026-08-08-2323-10",
-      "typ": "persönlich",
-      "stichwort": "Tochter fragt nach der Bewilligung",
+      "id": "2026-08-08-2323-10e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Heilige Mission heisst Nachschub",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 5,
-      "text": "Meine Tochter fragt, warum eine Million Menschen tanzen dürfen und dreissig für eine Demo eine Bewilligung brauchen."
+      "format": 3,
+      "text": "Moskau nennt die Granatenlieferung aus Nordkorea eine heilige Mission. Heilig ist hier der Nachschub."
     },
     {
       "id": "2026-08-08-2323-11",
@@ -114,14 +104,14 @@
       "text": "Ich bringe dem Kind bei, Dinge zu reparieren. Der Hersteller hat das Gehäuse verklebt."
     },
     {
-      "id": "2026-08-08-2323-12",
-      "typ": "persönlich",
-      "stichwort": "Helikopter für mich, Debatte für andere",
+      "id": "2026-08-08-2323-12e",
+      "typ": "schnittmenge",
+      "stichwort": "Streep spielt Macht, echt bleibt Fiktion",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Gerate ich in den Bergen in Not, kommt ein Helikopter. Geraten andere im Meer in Not, kommt eine Debatte."
+      "format": "frei",
+      "text": "Meryl Streep spielt seit fünfzig Jahren Frauen mit Macht. Im echten Leben bleibt das Fiktion."
     }
   ]
 }
