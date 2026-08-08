@@ -46,52 +46,52 @@
     {
       "id": "2026-08-08-2125-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Produktivität gestiegen, Arbeitszeit nicht",
+      "stichwort": "Vier-Tage-Woche scheitert an Befuerchtung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Die Produktivität ist seit dreissig Jahren gestiegen. Die Arbeitszeit hat davon nie erfahren."
+      "text": "Die Vier-Tage-Woche scheitert an der Produktivität. Nachweisen muss das niemand, es reicht, sie zu befürchten."
     },
     {
       "id": "2026-08-08-2125-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Hinterziehung vs. Standortoptimierung",
+      "stichwort": "Steuerhinterziehung nicht mehr selbst gemacht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Geld verstecken heisst Hinterziehung. Sehr viel Geld verstecken heisst Standortoptimierung."
+      "format": 13,
+      "text": "Steuerhinterziehung wird bei uns hart bestraft. Deshalb macht das niemand mehr selbst, sondern lässt es eine Kanzlei erledigen."
     },
     {
       "id": "2026-08-08-2125-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Rüstung als Branche mit Planungssicherheit",
+      "stichwort": "Umverteilung ohne Antrag pro Todesfall",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Endlich eine Branche mit Planungssicherheit: Die Rüstung kalkuliert längst mit Kriegen, die noch niemand erklärt hat."
+      "format": "frei",
+      "text": "Das grösste Umverteilungsprogramm dieses Landes läuft ohne Antrag, ohne Bedürftigkeitsprüfung und einmal pro Todesfall."
     },
     {
       "id": "2026-08-08-2125-08",
       "typ": "schnittmenge",
-      "stichwort": "Campingkocher vs. Chemiefabrik",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
+      "stichwort": "Gipfel besteigen vs. Grenze überqueren",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Ein Campingkocher verletzt zehn Menschen und heisst Sicherheitsrisiko. Eine Chemiefabrik verletzt eine ganze Region und heisst Arbeitgeber."
+      "text": "Wer einen Gipfel besteigt, überwindet sich. Wer eine Grenze überquert, überwindet uns."
     },
     {
       "id": "2026-08-08-2125-09",
       "typ": "schnittmenge",
-      "stichwort": "Harte Hand fängt unten an",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Kolumbiens neuer Präsident will hart gegen Verbrechen vorgehen. Beruhigend, dass er dabei ganz unten anfängt."
+      "stichwort": "Krachen lassen, wer versichert ist",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Endlich mal richtig krachen lassen, sagen vor allem die, deren Wohnung versichert ist."
     },
     {
       "id": "2026-08-08-2125-10",
