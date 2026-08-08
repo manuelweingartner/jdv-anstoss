@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -44,16 +44,6 @@
       "text": "Wanderwege werden künftig beschattet und verlegt, damit die Hitze erträglich bleibt. Die Hitze selbst gilt weiterhin als nicht verhandelbar."
     },
     {
-      "id": "2026-08-08-1440-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gesundheitsreform-Rechner für die, die verlieren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Zur Gesundheitsreform gibt es einen Rechner für alle, die danach weniger haben. Wer mehr hat, braucht keinen."
-    },
-    {
       "id": "2026-08-08-1440-06",
       "typ": "remix",
       "stichwort": "Hormus so befriedet, dass niemand mehr fährt",
@@ -64,24 +54,24 @@
       "text": "Der Krieg hat die Strasse von Hormus so befriedet, dass sich kein einziger Tanker mehr durchtraut."
     },
     {
-      "id": "2026-08-08-1440-07",
+      "id": "2026-08-08-1440-07e",
       "typ": "schnittmenge",
-      "stichwort": "Fitnessbeitrag vs. Gutachten",
-      "plattform": "Threads + Bluesky + Instagram",
+      "stichwort": "Kinderlose Männer, zuständig ist die Frau",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer sich bewegen kann, bekommt von der Kasse einen Fitnessbeitrag. Wer sich nicht bewegen kann, bekommt ein Gutachten."
+      "format": "frei",
+      "text": "Immer mehr Männer bleiben kinderlos. Zuständig für den Geburtenrückgang ist in jeder Debatte trotzdem die Frau."
     },
     {
-      "id": "2026-08-08-1440-08",
-      "typ": "schnittmenge",
-      "stichwort": "Orbán nominiert den abgesetzten Richter",
-      "plattform": "Threads + Bluesky + Instagram",
+      "id": "2026-08-08-1440-08e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Starlink: Schalter für ganze Länder",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Orbáns Partei macht den Richter zum Staatsoberhaupt, den sie 2011 abgesetzt hat. Rechtsstaat heisst dort Personalplanung."
+      "format": "frei",
+      "text": "Ganze Länder gehen über Satellit online. Den Schalter dafür hält weiterhin Elon Musk allein."
     },
     {
       "id": "2026-08-08-1440-09",
@@ -104,14 +94,14 @@
       "text": "Fedpol braucht ab 2027 Gesichtserkennung. Meine Tochter erkennt jeden Nachbarn am Gang, ganz ohne Rechtsgrundlage. (echtes Detail einsetzen)"
     },
     {
-      "id": "2026-08-08-1440-11",
-      "typ": "persönlich",
-      "stichwort": "ECO-Programm seit sieben Jahren vs. leerer Stausee",
+      "id": "2026-08-08-1440-11e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gesichtserkennung findet die Falschen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seit sieben Jahren läuft unsere Abwaschmaschine aus Prinzip nur im ECO-Programm. Der grösste Stausee der USA ist jetzt trotzdem leer."
+      "format": 2,
+      "text": "Gesichtserkennung wurde gebaut, um Täter zu finden. Zuverlässig findet sie bisher vor allem die Falschen."
     },
     {
       "id": "2026-08-08-1440-12",
