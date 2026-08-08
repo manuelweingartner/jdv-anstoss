@@ -1,127 +1,27 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-08-2133-01",
+      "id": "2026-08-08-2216-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Frauensaison hinter drei Pluszeichen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Beim Motorrad reicht ein Sprintsieg für die Schlagzeile. Bei den Frauen reicht eine ganze Saison für drei Pluszeichen."
-    },
-    {
-      "id": "2026-08-08-2133-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Verbände prüfen, wer als Frau gilt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Endlich prüfen Sportverbände wieder genau, wer als Frau antreten darf. Sichtbarkeit muss man sich schliesslich verdienen."
-    },
-    {
-      "id": "2026-08-08-2133-03",
-      "typ": "schnittmenge",
-      "stichwort": "WNBA zur besten Sendezeit",
+      "stichwort": "Personalabteilung freut sich über späte Erschöpfung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Endlich zeigen wir die WNBA zur besten Sendezeit. Um drei Uhr nachts stört uns niemand."
+      "text": "Gute Nachricht aus der Personalabteilung: Wer seine Erschöpfung zu spät bemerkt, meldet sich auch zu spät krank."
     },
     {
-      "id": "2026-08-08-2133-04e",
-      "typ": "schnittmenge",
-      "stichwort": "Mittelsitz statt Charterflug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Zum Auswärtsspiel flogen die besten Basketballerinnen der Welt jahrelang im Mittelsitz. Als hart gilt der Sport der anderen."
-    },
-    {
-      "id": "2026-08-08-2133-05e",
-      "typ": "schnittmenge",
-      "stichwort": "Niemand schaut, kennt aber alles",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Niemand interessiert sich für Frauenbasketball, schreibt ein Mann, der offenbar jedes Ergebnis kennt."
-    },
-    {
-      "id": "2026-08-08-2133-06",
+      "id": "2026-08-08-2216-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Mutterschutz im Profisport verhandelt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Bezahlter Mutterschutz galt im Profisport als unbezahlbar. Bis die Basketballerinnen ihn sich in den Vertrag verhandelten."
-    },
-    {
-      "id": "2026-08-08-2133-07e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wer spielt, wer redet",
+      "stichwort": "Eine Million darf die Strasse besetzen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die politisch lauteste Liga der USA wird von Schwarzen Frauen getragen. Über Haltung im Sport reden im Studio dann Männer."
-    },
-    {
-      "id": "2026-08-08-2133-08e",
-      "typ": "schnittmenge",
-      "stichwort": "Sportsendung ohne Frauenbasketball",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 2,
-      "text": "Neunzig Minuten Sportsendung, gebaut fürs Zeigen von Sport, schaffen keine dreissig Sekunden Frauenbasketball."
-    },
-    {
-      "id": "2026-08-08-2133-09",
-      "typ": "remix",
-      "stichwort": "Winterjob im Ausland, genannt Marktlogik",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Die WNBA zahlt Weltmeisterinnen so wenig, dass sie im Winter in Diktaturen arbeiten. Das nennt man Marktlogik."
-    },
-    {
-      "id": "2026-08-08-2133-10",
-      "typ": "persönlich",
-      "stichwort": "Basketballerinnen arbeiten im Winter in Istanbul",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ich habe am Küchentisch erklärt, warum die besten Basketballerinnen im Winter in Istanbul arbeiten. Es lag nicht am Wetter."
-    },
-    {
-      "id": "2026-08-08-2133-11e",
-      "typ": "schnittmenge",
-      "stichwort": "Kindertrikots im Sportgeschäft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Im Sportgeschäft hängen Basketballtrikots für Kinder. Auch die in Mädchengrössen tragen hinten einen Männernamen."
-    },
-    {
-      "id": "2026-08-08-2133-12",
-      "typ": "persönlich",
-      "stichwort": "Feed-Männer und Frauensport",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die Männer in meinem Feed interessieren sich für Frauensport genau dann, wenn es um Regeln geht, wer nicht mitspielen darf."
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Endlich verstehen wir uns: Eine Million Menschen dürfen die Strasse besetzen, solange sie dabei nichts fordern."
     }
   ]
 }
