@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Kolumbiens neuer Präsident will hart gegen Verbrechen vorgehen. Beruhigend, dass er dabei ganz unten anfängt."
+    },
+    {
+      "id": "2026-08-08-2125-10",
+      "typ": "persönlich",
+      "stichwort": "Papierkarte im Restaurant, QR-Reflex",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Das Restaurant hat wieder Karten aus Papier. Beim Bestellen habe ich trotzdem zwei Minuten den QR-Code gesucht."
+    },
+    {
+      "id": "2026-08-08-2125-11",
+      "typ": "persönlich",
+      "stichwort": "Tierheim als Ferienprogramm",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Unser Hund kam aus einem rumänischen Tierheim. Im August lernt man, dass Tierheime hier auch ein Ferienprogramm anbieten."
+    },
+    {
+      "id": "2026-08-08-2125-12",
+      "typ": "persönlich",
+      "stichwort": "Kind spielt nicht mit denen, die schlagen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Meine Tochter spielt nicht mit Kindern, die schlagen. Die CDU nennt dasselbe eine schwierige Abwägung."
     }
   ]
 }
