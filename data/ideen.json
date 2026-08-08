@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Eine Managerin wird Almerin und sagt, es ziehe sie nicht mehr ins Tal. Aussteigen darf, wer vorher genug verdient hat."
+    },
+    {
+      "id": "2026-08-08-1519-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Drohnen auf Onlinehändler: Krieg trifft Lieferfristen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ukrainische Drohnen treffen Russlands grössten Onlinehändler. Der Krieg ist dort angekommen, wo Lieferfristen zählen."
+    },
+    {
+      "id": "2026-08-08-1519-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Dichtestress an der Parade, Marktmiete in der Wohnung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Eine Million Menschen an der Street Parade heissen Dichtestress. Vier in einer Zweizimmerwohnung heissen Marktmiete."
+    },
+    {
+      "id": "2026-08-08-1519-06",
+      "typ": "remix",
+      "stichwort": "Systemrelevant heisst unbezahlt, Boni anderswo",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Care-Arbeit ist so systemrelevant, dass sie unbezahlt bleibt. Boni fliessen dorthin, wo ein Ausfall folgenlos bliebe."
     },
     {
       "id": "2026-08-08-1519-07",
