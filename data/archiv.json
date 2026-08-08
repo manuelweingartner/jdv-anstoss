@@ -3482,6 +3482,127 @@
       "format": "frei",
       "text": "Eine Krankheit ist anerkannt, sobald eine Versicherung sie bezahlt. Vorher ist sie eine Meinung.",
       "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1519-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mailand: falscher Embryo eingesetzt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "In Mailand bekommt eine Frau den falschen Embryo eingesetzt. Der Staat sagt ihr trotzdem, wie sie sich zu entscheiden hat.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1519-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "SRG-Umfrage vs. Kampagnengeld",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Vor jeder Abstimmung fragt mich die SRG nach meiner Meinung. Wer sie mit Millionen kauft, wird nicht gefragt.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1519-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Managerin wird Almerin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Eine Managerin wird Almerin und sagt, es ziehe sie nicht mehr ins Tal. Aussteigen darf, wer vorher genug verdient hat.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1519-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Drohnen auf Onlinehändler: Krieg trifft Lieferfristen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ukrainische Drohnen treffen Russlands grössten Onlinehändler. Der Krieg ist dort angekommen, wo Lieferfristen zählen.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1519-05e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fährlinie Rom nach Algerien, Gegenrichtung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Zweimal pro Woche fährt jetzt ein Schiff von Rom nach Algerien. Die Gegenrichtung gilt weiterhin als Krise.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1519-06",
+      "typ": "remix",
+      "stichwort": "Systemrelevant heisst unbezahlt, Boni anderswo",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Care-Arbeit ist so systemrelevant, dass sie unbezahlt bleibt. Boni fliessen dorthin, wo ein Ausfall folgenlos bliebe.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1519-08e",
+      "typ": "schnittmenge",
+      "stichwort": "Weltkatzentag, Katze erklärt nichts",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Am Weltkatzentag erklären uns Zeitungen die Katze. Die Katze erklärt gar nichts und wohnt trotzdem gratis.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1519-09",
+      "typ": "schnittmenge",
+      "stichwort": "Freiwillige räumen den Fluss, Verursacher nicht",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "In Basel holen Freiwillige fremde Motorräder aus dem Rhein. Wer den Rest hineinleitet, taucht nie selber runter.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1519-10e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ballsaal-Baustopp hält Trump auf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ein Gericht stoppt Trumps Ballsaal. Wer ihn aufhalten will, muss ihn also zum Bauherrn machen.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1519-11e",
+      "typ": "schnittmenge",
+      "stichwort": "Lake Mead, Rekord mit Verfallsdatum",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der grösste Stausee der USA führt so wenig Wasser wie nie. Der Rekord gilt bis nächstes Jahr.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-1519-12",
+      "typ": "persönlich",
+      "stichwort": "Flimmerpause als Familiendrama",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Kinder im Libanon zeichnen, um den Krieg zu verarbeiten. Bei uns war das grösste Familiendrama eine Woche ohne Bildschirm.",
+      "datum": "2026-08-08"
     }
   ]
 }

@@ -1,117 +1,37 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "Anforderung um 15:34 fehlgeschlagen (kein Shard hat geliefert). Liste unverändert, bitte nochmal.",
-  "fertig": true,
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-08-1519-01",
+      "id": "2026-08-08-1531-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Mailand: falscher Embryo eingesetzt",
+      "stichwort": "Trinkgeld versteuern, Erbe nicht",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "In Mailand bekommt eine Frau den falschen Embryo eingesetzt. Der Staat sagt ihr trotzdem, wie sie sich zu entscheiden hat."
-    },
-    {
-      "id": "2026-08-08-1519-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "SRG-Umfrage vs. Kampagnengeld",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Vor jeder Abstimmung fragt mich die SRG nach meiner Meinung. Wer sie mit Millionen kauft, wird nicht gefragt."
+      "text": "Trinkgeld musst du versteuern. Das geerbte Haus deines Vermieters nicht."
     },
     {
-      "id": "2026-08-08-1519-03",
+      "id": "2026-08-08-1531-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Managerin wird Almerin",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Eine Managerin wird Almerin und sagt, es ziehe sie nicht mehr ins Tal. Aussteigen darf, wer vorher genug verdient hat."
-    },
-    {
-      "id": "2026-08-08-1519-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Drohnen auf Onlinehändler: Krieg trifft Lieferfristen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ukrainische Drohnen treffen Russlands grössten Onlinehändler. Der Krieg ist dort angekommen, wo Lieferfristen zählen."
-    },
-    {
-      "id": "2026-08-08-1519-05e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fährlinie Rom nach Algerien, Gegenrichtung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Zweimal pro Woche fährt jetzt ein Schiff von Rom nach Algerien. Die Gegenrichtung gilt weiterhin als Krise."
-    },
-    {
-      "id": "2026-08-08-1519-06",
-      "typ": "remix",
-      "stichwort": "Systemrelevant heisst unbezahlt, Boni anderswo",
+      "stichwort": "Briefkasten als produktivster Arbeiter",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 10,
-      "text": "Care-Arbeit ist so systemrelevant, dass sie unbezahlt bleibt. Boni fliessen dorthin, wo ein Ausfall folgenlos bliebe."
-    },
-    {
-      "id": "2026-08-08-1519-08e",
-      "typ": "schnittmenge",
-      "stichwort": "Weltkatzentag, Katze erklärt nichts",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Am Weltkatzentag erklären uns Zeitungen die Katze. Die Katze erklärt gar nichts und wohnt trotzdem gratis."
+      "text": "Kein Mensch in diesem Land arbeitet so produktiv wie ein Briefkasten mit Firmensitz."
     },
     {
-      "id": "2026-08-08-1519-09",
-      "typ": "schnittmenge",
-      "stichwort": "Freiwillige räumen den Fluss, Verursacher nicht",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "In Basel holen Freiwillige fremde Motorräder aus dem Rhein. Wer den Rest hineinleitet, taucht nie selber runter."
-    },
-    {
-      "id": "2026-08-08-1519-10e",
+      "id": "2026-08-08-1531-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Ballsaal-Baustopp hält Trump auf",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ein Gericht stoppt Trumps Ballsaal. Wer ihn aufhalten will, muss ihn also zum Bauherrn machen."
-    },
-    {
-      "id": "2026-08-08-1519-11e",
-      "typ": "schnittmenge",
-      "stichwort": "Lake Mead, Rekord mit Verfallsdatum",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Der grösste Stausee der USA führt so wenig Wasser wie nie. Der Rekord gilt bis nächstes Jahr."
-    },
-    {
-      "id": "2026-08-08-1519-12",
-      "typ": "persönlich",
-      "stichwort": "Flimmerpause als Familiendrama",
+      "stichwort": "Pensionskasse in Ruestung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 5,
-      "text": "Kinder im Libanon zeichnen, um den Krieg zu verarbeiten. Bei uns war das grösste Familiendrama eine Woche ohne Bildschirm."
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Beruhigend, dass die Pensionskassen in Rüstung investieren. Ihr Alter ist gesichert, solange geschossen wird."
     }
   ]
 }
