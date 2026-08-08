@@ -1,117 +1,37 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
-  "fertig": true,
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-08-2115-01",
+      "id": "2026-08-08-2125-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Besetztes Haus geräumt, Leerstand abgeschrieben",
+      "stichwort": "Produktivität gestiegen, Arbeitszeit nicht",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Wer ein Haus besetzt, wird geräumt. Wer eines leer stehen lässt, wird abgeschrieben."
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die Produktivität ist seit dreissig Jahren gestiegen. Die Arbeitszeit hat davon nie erfahren."
     },
     {
-      "id": "2026-08-08-2115-02",
+      "id": "2026-08-08-2125-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Migräne heisst Kopfschmerz, Versicherung rechnet damit",
+      "stichwort": "Hinterziehung vs. Standortoptimierung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": 3,
-      "text": "Migräne gilt als Kopfschmerz, wie ein Erdbeben als Erschütterung gilt. Die Versicherung rechnet mit dem Kopfschmerz."
+      "text": "Geld verstecken heisst Hinterziehung. Sehr viel Geld verstecken heisst Standortoptimierung."
     },
     {
-      "id": "2026-08-08-2115-03",
+      "id": "2026-08-08-2125-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Niedrigwasser: Fracht auf die Strasse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Zu wenig Wasser in den Flüssen, also fährt die Fracht jetzt per Lastwagen. Endlich ein Problem, das sich selber nachbestellt."
-    },
-    {
-      "id": "2026-08-08-2115-04",
-      "typ": "remix",
-      "stichwort": "Kündigungsschutz schützt die Ungefährdeten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 2,
-      "text": "Der Kündigungsschutz in diesem Land schützt zuverlässig alle, denen sowieso niemand kündigen wollte."
-    },
-    {
-      "id": "2026-08-08-2115-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vermögen durch Leistung, selten die eigene",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Vermögen entsteht in diesem Land durch Leistung. Nur selten durch die eigene."
-    },
-    {
-      "id": "2026-08-08-2115-06e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mittelalterliche Bäckerei weicht Müllcontainer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Unter einer Luzerner Baustelle liegt eine mittelalterliche Bäckerei. Sie wird sorgfältig dokumentiert und dann abgerissen, für den Müllcontainer."
-    },
-    {
-      "id": "2026-08-08-2115-07e",
-      "typ": "schnittmenge",
-      "stichwort": "Filmstar schämt sich für Wohnungskauf",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ein Filmstar entschuldigt sich öffentlich dafür, mit 22 eine Wohnung gekauft zu haben. Unsere Grosseltern nannten das erwachsen werden."
-    },
-    {
-      "id": "2026-08-08-2115-08e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trumps Anwalt wird Justizminister",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 4,
-      "text": "Der persönliche Anwalt des Präsidenten wird jetzt Justizminister. Wahlbeobachter*innen schicken die USA weiterhin nur in andere Länder."
-    },
-    {
-      "id": "2026-08-08-2115-10",
-      "typ": "persönlich",
-      "stichwort": "Tochter teilt den Kuchen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 5,
-      "text": "Meine Tochter teilt den Kuchen und nimmt sich selbst das kleinste Stück. Das wird sie sich abgewöhnen müssen, sagt die Wirtschaft."
-    },
-    {
-      "id": "2026-08-08-2115-11",
-      "typ": "persönlich",
-      "stichwort": "Vierzig Leute im Flur",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Bei der Wohnungsbesichtigung waren wir vierzig im Flur und haben uns angelächelt. Der Markt nennt das freie Wahl."
-    },
-    {
-      "id": "2026-08-08-2115-12",
-      "typ": "persönlich",
-      "stichwort": "Lob für dasselbe",
+      "stichwort": "Rüstung als Branche mit Planungssicherheit",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ich habe als Vater dreimal so viel Lob bekommen wie meine Frau für exakt dasselbe. Behalten habe ich es trotzdem."
+      "format": 13,
+      "text": "Endlich eine Branche mit Planungssicherheit: Die Rüstung kalkuliert längst mit Kriegen, die noch niemand erklärt hat."
     }
   ]
 }
