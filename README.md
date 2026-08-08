@@ -82,15 +82,29 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
   `raw/<sha>` → `raw/main` → Pages-Pfad, ohne Token greift das API-Limit von
   60 Abrufen pro Stunde und der Rückfall übernimmt. Die HTML-Dateien selbst
   kommen weiter von Pages, die ändern sich selten.
-- Jede Idee trägt `schaerfe` (breit/mittel/steil, filterbar neben dem Typ)
-  und `haltbarkeit` (evergreen/tagesgebunden). Bewährte Format-Kategorien
-  streut der Generator im Hintergrund rotierend ein
-  (Format-Bibliothek im lokalen Skill-Ordner, nicht in diesem Repo).
+- Jede Idee trägt `schaerfe` (breit/mittel/steil), `haltbarkeit`
+  (evergreen/tagesgebunden) und seit 08.08.2026 `format` (Nummer 1 bis 13 aus
+  der Format-Bibliothek oder `frei`). Alle drei sind filterbar, das Format
+  steht zusätzlich als Kurzname im Kicker der Zeile („politisch-aktuell ·
+  steil · Meta"). Vorher stand das Feld nur in den Daten und war im Bild
+  unsichtbar, was dazu führte, dass Manuel Meta-Vorschläge suchte und keine
+  fand, obwohl zwei in der Liste standen.
+- **Format-Kontingent:** ein Format, das in den letzten 14 Tagen gepostet
+  wurde, fällt aus der Rotation. Die Format-Bibliothek selbst liegt im lokalen
+  Skill-Ordner, nicht in diesem Repo.
 - Vor jedem Überschreiben wandert die alte Liste nach `data/archiv.json`.
 - Pro Zeile drei Knöpfe: **kopieren**, **nehme ich** (kopiert mit und meldet
   `OK:`), **nein** (klappt die Gründe auf). Abgelehntes verschwindet sofort
   und kommt nach einem Reload nicht wieder, Genommenes bleibt mit Haken
   stehen. Rechts die Bewertung als fünf Kästchen.
+- **Ablehngründe, seit 08.08.2026 neun statt sechs:** zu erklärend, zu lang,
+  konstruiert, kein Widerspruch, Thema falsch, Thema hatte ich schon, Schema
+  hatte ich grad, News zu wenig bekannt, nicht lustig. „schon gemacht" ist weg,
+  es vermischte Themen- und Mechanik-Wiederholung und war darum nicht
+  auswertbar. Die beiden Nachfolger trennen genau das, und „Schema hatte ich
+  grad" setzt das betroffene Format direkt auf den 14-Tage-Cooldown. „zu lang"
+  ist neu, weil die Länge der stärkste gemessene Faktor ist (Korrelation
+  −0,46) und bisher unter „nicht lustig" verschwand.
 - `best.html` ("Auszählung") zeigt alle bewerteten, noch offenen Vorschläge:
   Bewertung absteigend, Alter pro Zeile, Warnhinweis bei news-gebundenen
   Ideen ab 3 Tagen, dieselben drei Knöpfe. Genommenes und Abgelehntes fällt
