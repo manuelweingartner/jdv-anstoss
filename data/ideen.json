@@ -1,117 +1,37 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
-  "fertig": true,
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-08-1440-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Alkoholwerbung vs. Zellgift",
-      "plattform": "Threads + Bluesky",
+      "id": "2026-08-08-1450-07",
+      "typ": "schnittmenge",
+      "stichwort": "Maenner: Hobby vs. Persoenlichkeit",
+      "plattform": "Instagram + Threads",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Alkoholwerbung zeigt Freunde am See. Die Forschung führt dieselbe Substanz in derselben Gruppe wie Asbest."
-    },
-    {
-      "id": "2026-08-08-1440-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwei Republikanerinnen bleiben fern",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Zwei Republikanerinnen wollten den neuen US-Justizminister nicht. Also blieben sie der Abstimmung fern und liessen ihn durch."
-    },
-    {
-      "id": "2026-08-08-1440-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ebola-Impfstoff am falschen Ort",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Gegen Ebola gibt es seit Jahren einen Impfstoff. Er lagert zuverlässig dort, wo die Krankheit nicht ist."
+      "text": "Frauen haben Hobbys. Männer haben Identitäten, die zufällig auch ein Hobby sind."
     },
     {
-      "id": "2026-08-08-1440-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wanderwege werden verlegt, die Hitze nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Wanderwege werden künftig beschattet und verlegt, damit die Hitze erträglich bleibt. Die Hitze selbst gilt weiterhin als nicht verhandelbar."
-    },
-    {
-      "id": "2026-08-08-1440-06",
-      "typ": "remix",
-      "stichwort": "Hormus so befriedet, dass niemand mehr fährt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Der Krieg hat die Strasse von Hormus so befriedet, dass sich kein einziger Tanker mehr durchtraut."
-    },
-    {
-      "id": "2026-08-08-1440-07e",
+      "id": "2026-08-08-1450-08",
       "typ": "schnittmenge",
-      "stichwort": "Kinderlose Männer, zuständig ist die Frau",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "stichwort": "Maennerschmerz: Arzt vs. Weltlage",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Immer mehr Männer bleiben kinderlos. Zuständig für den Geburtenrückgang ist in jeder Debatte trotzdem die Frau."
+      "text": "Ein Mann braucht drei Jahre, um mit Rückenschmerzen zum Arzt zu gehen. Zur Weltlage hat er nach neun Sekunden eine Meinung."
     },
     {
-      "id": "2026-08-08-1440-08e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Starlink: Schalter für ganze Länder",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ganze Länder gehen über Satellit online. Den Schalter dafür hält weiterhin Elon Musk allein."
-    },
-    {
-      "id": "2026-08-08-1440-09",
+      "id": "2026-08-08-1450-09",
       "typ": "schnittmenge",
-      "stichwort": "Wallfahrt als Arbeitsmarktprogramm",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "In Buenos Aires pilgern Tausende zum Schutzpatron der Arbeitssuchenden. Mehr Arbeitsmarktprogramm hat Milei nicht im Angebot."
-    },
-    {
-      "id": "2026-08-08-1440-10",
-      "typ": "persönlich",
-      "stichwort": "Fedpol-Gesichtserkennung vs. Kind erkennt alle",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 5,
-      "text": "Fedpol braucht ab 2027 Gesichtserkennung. Meine Tochter erkennt jeden Nachbarn am Gang, ganz ohne Rechtsgrundlage. (echtes Detail einsetzen)"
-    },
-    {
-      "id": "2026-08-08-1440-11e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gesichtserkennung findet die Falschen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 2,
-      "text": "Gesichtserkennung wurde gebaut, um Täter zu finden. Zuverlässig findet sie bisher vor allem die Falschen."
-    },
-    {
-      "id": "2026-08-08-1440-12",
-      "typ": "persönlich",
-      "stichwort": "Hund aus Rumänien: Formular stimmte",
-      "plattform": "Threads + Bluesky",
+      "stichwort": "Rhein-Fundstuecke vs. Maennerauftritt",
+      "plattform": "Instagram + Threads",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Mein Hund kam aus Rumänien hierher, weil ein Formular stimmte. Für Menschen heisst dasselbe Formular ein dreijähriges Verfahren."
+      "text": "Im Rhein liegen Motorräder und ein Gebiss. Beides hat ein Mann getragen, um jünger zu wirken."
     }
   ]
 }
