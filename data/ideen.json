@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 10,
       "text": "Die Bäckerei stand 700 Jahre. Dokumentiert wurde sie an dem Tag, an dem der Bagger kam."
+    },
+    {
+      "id": "2026-08-08-2323-10",
+      "typ": "persönlich",
+      "stichwort": "Hund gegen Wölfe, Wölfe werden abgeschossen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 2,
+      "text": "Unser Hund wurde gegen Wölfe gezüchtet. Jetzt schiesst man die Wölfe, der Hund bleibt arbeitslos."
+    },
+    {
+      "id": "2026-08-08-2323-11",
+      "typ": "persönlich",
+      "stichwort": "Kind fragt nach Gratiskunst",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Das Kind fragt, warum Kunst im Wald gratis ist und im Museum nicht."
+    },
+    {
+      "id": "2026-08-08-2323-12",
+      "typ": "persönlich",
+      "stichwort": "Heizkosten im Hitzesommer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die Nebenkostenabrechnung verlangt Heizkosten für den heissesten Sommer. Kühlen ist laut Verwaltung Privatsache. (echtes Detail einsetzen)"
     }
   ]
 }
