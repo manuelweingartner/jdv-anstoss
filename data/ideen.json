@@ -96,32 +96,32 @@
     {
       "id": "2026-08-08-2323-10",
       "typ": "persönlich",
-      "stichwort": "Hund gegen Wölfe, Wölfe werden abgeschossen",
+      "stichwort": "Tochter fragt nach der Bewilligung",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 2,
-      "text": "Unser Hund wurde gegen Wölfe gezüchtet. Jetzt schiesst man die Wölfe, der Hund bleibt arbeitslos."
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Meine Tochter fragt, warum eine Million Menschen tanzen dürfen und dreissig für eine Demo eine Bewilligung brauchen."
     },
     {
       "id": "2026-08-08-2323-11",
       "typ": "persönlich",
-      "stichwort": "Kind fragt nach Gratiskunst",
+      "stichwort": "Reparieren beibringen, Gehäuse verklebt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Das Kind fragt, warum Kunst im Wald gratis ist und im Museum nicht."
+      "text": "Ich bringe dem Kind bei, Dinge zu reparieren. Der Hersteller hat das Gehäuse verklebt."
     },
     {
       "id": "2026-08-08-2323-12",
       "typ": "persönlich",
-      "stichwort": "Heizkosten im Hitzesommer",
+      "stichwort": "Helikopter für mich, Debatte für andere",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die Nebenkostenabrechnung verlangt Heizkosten für den heissesten Sommer. Kühlen ist laut Verwaltung Privatsache. (echtes Detail einsetzen)"
+      "format": 1,
+      "text": "Gerate ich in den Bergen in Not, kommt ein Helikopter. Geraten andere im Meer in Not, kommt eine Debatte."
     }
   ]
 }
