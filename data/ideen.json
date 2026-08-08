@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -62,6 +62,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "In Basel holen Freiwillige fremde Motorräder aus dem Rhein. Wer den Rest hineinleitet, taucht nie selber runter."
+    },
+    {
+      "id": "2026-08-08-1519-10",
+      "typ": "persönlich",
+      "stichwort": "Allergikerhund ist selbst Allergiker",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 2,
+      "text": "Wir haben uns extra einen Hund für Allergiker geholt. Er ist allergisch auf Gräser."
+    },
+    {
+      "id": "2026-08-08-1519-11",
+      "typ": "persönlich",
+      "stichwort": "Pillen geprüft, Altersvorsorge nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Vor der Street Parade sagt man mir, was in den Pillen ist. Was in meiner Altersvorsorge steckt, sagt mir niemand."
+    },
+    {
+      "id": "2026-08-08-1519-12",
+      "typ": "persönlich",
+      "stichwort": "Flimmerpause als Familiendrama",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Kinder im Libanon zeichnen, um den Krieg zu verarbeiten. Bei uns war das grösste Familiendrama eine Woche ohne Bildschirm."
     }
   ]
 }
