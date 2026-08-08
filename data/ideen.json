@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -34,14 +34,14 @@
       "text": "Seit einer Woche fallen in Gaza keine Bomben. Wasser fällt seit Monaten auch keins."
     },
     {
-      "id": "2026-08-08-1030-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wanderwege in den Schatten verlegt",
-      "plattform": "Threads + Bluesky",
+      "id": "2026-08-08-1030-04e",
+      "typ": "schnittmenge",
+      "stichwort": "Klimaanlage vs. Rechenzentren im All",
+      "plattform": "Threads + Bluesky + Instagram",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Gegen die Klimaerhitzung tut die Schweiz jetzt endlich etwas: Sie verlegt Wanderwege in den Schatten."
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer bei 38 Grad die Klimaanlage einschaltet, bekommt eine Ökobilanz vorgehalten. Wer Rechenzentren ins All schiessen will, bekommt Kapital."
     },
     {
       "id": "2026-08-08-1030-05",
@@ -74,14 +74,14 @@
       "text": "Vom neuen Personalausweis verschwindet die Adresse. Wer keine hat, bekommt trotzdem keinen."
     },
     {
-      "id": "2026-08-08-1030-08",
-      "typ": "schnittmenge",
-      "stichwort": "Kuba als Operationsbasis",
-      "plattform": "Instagram + Bluesky",
+      "id": "2026-08-08-1030-08e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fussballverband: Sexmassagen vs. Regenbogenbinde",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 4,
-      "text": "Kuba sei eine Operationsbasis für fremde Mächte, sagt ein Land mit 750 Militärbasen im Ausland."
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Südkoreas Fussballverband hat Schiedsrichtern Sexmassagen spendiert. Im selben Sport ist eine Regenbogenbinde ein unerlaubtes politisches Statement."
     },
     {
       "id": "2026-08-08-1030-09",
@@ -102,16 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Im Nachbartal stehen Bauprofile für ein Luxus-Resort. Das Freilichtspiel dort handelt davon, wie man solche Herren aus dem Tal jagt."
-    },
-    {
-      "id": "2026-08-08-1030-11",
-      "typ": "persönlich",
-      "stichwort": "Wasserhund und AKW-Drosselung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 2,
-      "text": "Unser Hund wurde für Wasser gezüchtet und hasst Wasser. Unsere AKWs stehen am Fluss und drosseln, sobald es heiss wird."
     },
     {
       "id": "2026-08-08-1030-12",
