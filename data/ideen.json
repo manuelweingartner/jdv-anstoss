@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 1,
       "text": "Bei der Neutralitätsinitiative sammelt eine Psychosekte Unterschriften. Beim Klimaprotest ermittelt der Staatsschutz gegen Zwanzigjährige."
+    },
+    {
+      "id": "2026-08-08-1030-10",
+      "typ": "persönlich",
+      "stichwort": "Bauprofile im Nachbartal vs. Freilichtspiel Morgarten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Im Nachbartal stehen Bauprofile für ein Luxus-Resort. Das Freilichtspiel dort handelt davon, wie man solche Herren aus dem Tal jagt."
+    },
+    {
+      "id": "2026-08-08-1030-11",
+      "typ": "persönlich",
+      "stichwort": "Wasserhund und AKW-Drosselung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Unser Hund wurde für Wasser gezüchtet und hasst Wasser. Unsere AKWs stehen am Fluss und drosseln, sobald es heiss wird."
+    },
+    {
+      "id": "2026-08-08-1030-12",
+      "typ": "persönlich",
+      "stichwort": "Kinderärzteverband nennt es Elternversagen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Meine Tochter kriegt Videos vorgeschlagen, die niemand bestellt hat. Der Kinderärzteverband sieht darin gravierendes Elternversagen."
     }
   ]
 }
