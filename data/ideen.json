@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "6 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Im Rhein liegen Motorräder und ein Gebiss. Beides hat ein Mann getragen, um jünger zu wirken."
+    },
+    {
+      "id": "2026-08-08-1450-10",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm als Weltrettung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren auf ECO. So retten Männer die Welt: eine Handlung, ein ganzes Selbstbild."
+    },
+    {
+      "id": "2026-08-08-1450-11",
+      "typ": "persönlich",
+      "stichwort": "Männer reden im Fernsehen alleine",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Warum reden Männer im Fernsehen immer alleine, fragt meine Tochter. Ich erkläre es ihr, ausführlich."
+    },
+    {
+      "id": "2026-08-08-1450-12",
+      "typ": "persönlich",
+      "stichwort": "Nachts aufpassen, Väter von Söhnen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Meiner Tochter soll ich beibringen, nachts aufzupassen. Wovor genau, erklärt mir kein einziger Vater von Söhnen."
     }
   ]
 }
