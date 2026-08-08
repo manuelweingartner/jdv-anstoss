@@ -391,7 +391,16 @@ function zeigeStau() {
   el.hidden = false;
 }
 
-const REASONS = ['zu erklärend', 'konstruiert', 'kein Widerspruch', 'Thema falsch', 'schon gemacht', 'einfach nicht lustig'];
+/* Gründe, 08.08.2026 überarbeitet. "schon gemacht" deckte zwei verschiedene
+   Beschwerden ab (Thema schon gehabt vs. Mechanik schon gehabt) und war für den
+   Generator darum wertlos; die beiden sind jetzt getrennt, und "Schema hatte ich
+   grad" steuert den 14-Tage-Format-Cooldown. "zu lang" ist neu, weil die Länge
+   der stärkste gemessene Faktor ist (Korrelation -0,46) und bisher unter
+   "nicht lustig" verschwand. "News zu wenig bekannt" trennt den schwachen
+   Aufhänger von der schwachen Pointe. */
+const REASONS = ['zu erklärend', 'zu lang', 'konstruiert', 'kein Widerspruch',
+                 'Thema falsch', 'Thema hatte ich schon', 'Schema hatte ich grad',
+                 'News zu wenig bekannt', 'nicht lustig'];
 
 let ideenNow = [];
 
