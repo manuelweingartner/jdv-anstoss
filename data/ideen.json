@@ -1,8 +1,35 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-0916-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Blümchen zu links für die Bundeszentrale",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Ein Elefant, der den Zoo vor der Schliessung rettet, ist der Bundeszentrale für politische Bildung zu links."
+    },
+    {
+      "id": "2026-08-08-0916-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Street Parade: Labor am Samstag, Anzeige am Dienstag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "An der Street Parade lässt der Staat Drogen im Labor testen. Wer dieselbe Pille am Dienstag hat, bekommt eine Anzeige."
+    },
+    {
+      "id": "2026-08-08-0916-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gastro-Mehrwertsteuer gesenkt, Preise nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Sechs Monate reduzierte Mehrwertsteuer auf Essen. Gesenkt hat sich am Ende nur die Steuer, nicht der Preis."
+    },
     {
       "id": "2026-08-08-0916-04",
       "typ": "politisch-aktuell",
