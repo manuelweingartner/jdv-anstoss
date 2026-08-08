@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 10,
       "text": "Der Krieg hat die Strasse von Hormus so befriedet, dass sich kein einziger Tanker mehr durchtraut."
+    },
+    {
+      "id": "2026-08-08-1440-07",
+      "typ": "schnittmenge",
+      "stichwort": "Fitnessbeitrag vs. Gutachten",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer sich bewegen kann, bekommt von der Kasse einen Fitnessbeitrag. Wer sich nicht bewegen kann, bekommt ein Gutachten."
+    },
+    {
+      "id": "2026-08-08-1440-08",
+      "typ": "schnittmenge",
+      "stichwort": "Orbán nominiert den abgesetzten Richter",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Orbáns Partei macht den Richter zum Staatsoberhaupt, den sie 2011 abgesetzt hat. Rechtsstaat heisst dort Personalplanung."
+    },
+    {
+      "id": "2026-08-08-1440-09",
+      "typ": "schnittmenge",
+      "stichwort": "Wallfahrt als Arbeitsmarktprogramm",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "In Buenos Aires pilgern Tausende zum Schutzpatron der Arbeitssuchenden. Mehr Arbeitsmarktprogramm hat Milei nicht im Angebot."
     },
     {
       "id": "2026-08-08-1440-10",
