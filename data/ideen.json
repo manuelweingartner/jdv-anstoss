@@ -96,32 +96,32 @@
     {
       "id": "2026-08-08-2239-10",
       "typ": "persönlich",
-      "stichwort": "Tierheim voll, Zucht laeuft weiter",
+      "stichwort": "Kind will laufen, ich will die Seilbahn",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die Tierheime sind überfüllt. Züchter*innen nennen das eine gute Nachfrage."
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Das Kind will zu Fuss auf den Berg, ich will die Seilbahn. Gerettet werden am Ende Leute wie ich."
     },
     {
       "id": "2026-08-08-2239-11",
       "typ": "persönlich",
-      "stichwort": "Wasserhund als Allergie-Lösung",
+      "stichwort": "Wertvermehrende Investition, vermehrt hat sich die Miete",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 2,
-      "text": "Wir haben einen Hund geholt, der für Allergiker*innen gezüchtet wurde. Er ist selbst allergisch."
+      "format": 3,
+      "text": "Unsere Mieterhöhung heisst im Brief wertvermehrende Investition. Wertvermehrt hat sich bisher nur die Miete. (echtes Detail einsetzen)"
     },
     {
       "id": "2026-08-08-2239-12",
       "typ": "persönlich",
-      "stichwort": "45 Kilo, Bergwacht-Logik",
+      "stichwort": "Mit Kind im Zug vs. SUV vor der Schule",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Mein Hund wurde gegen Wölfe gezüchtet und fürchtet Einkaufstüten. Genau so bin ich auf den Berg vorbereitet."
+      "format": 1,
+      "text": "Mit Kind im Zug bin ich ein Verkehrshindernis. Mit SUV vor der Schule bin ich ein besorgter Vater."
     }
   ]
 }
