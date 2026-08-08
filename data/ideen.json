@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "5 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Beruhigend, dass die Pensionskassen in Rüstung investieren. Ihr Alter ist gesichert, solange geschossen wird."
+    },
+    {
+      "id": "2026-08-08-1531-08",
+      "typ": "schnittmenge",
+      "stichwort": "Ravioli-Kaninchen vs. Betriebsbewilligung",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Ein Mann wird verurteilt, weil er seine Kaninchen mit Ravioli fütterte. Wer Millionen Tiere mit Antibiotika füttert, bekommt eine Betriebsbewilligung."
+    },
+    {
+      "id": "2026-08-08-1531-09",
+      "typ": "schnittmenge",
+      "stichwort": "Erschöpfung aus dem Leistungskatalog",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Beruhigend, dass niemand mehr an Erschöpfung leidet, seit die Versicherung das Wort aus ihrem Katalog gestrichen hat."
     }
   ]
 }
