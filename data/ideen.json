@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "5 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-2239-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Krisengipfel: Verursacher schicken Beobachter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Gute Nachricht: Über die globalen Krisen wird diese Woche beraten. Wir als Verursacher schicken jemanden zum Zuhören."
+    },
+    {
+      "id": "2026-08-08-2239-04",
+      "typ": "schnittmenge",
+      "stichwort": "Beweislast: wer das Formular schafft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich finde es richtig, dass Kranke ihre Krankheit selbst belegen. Wer das Formular schafft, war offensichtlich arbeitsfähig."
+    },
     {
       "id": "2026-08-08-2239-10",
       "typ": "persönlich",
