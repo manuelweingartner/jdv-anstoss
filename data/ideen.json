@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "5 von 12 da, der Rest lädt noch.",
+  "hinweis": "7 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-2216-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zehntausend fuer Rechte, zweihundert dagegen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Zehntausend Menschen für queere Rechte auf der Strasse heisst Ideologie. Zweihundert dagegen heisst besorgte Mitte."
+    },
+    {
+      "id": "2026-08-08-2216-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Substanzen kennen, Vermögen nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Beruhigend, dass wir vor der Street Parade jede Substanz im Umlauf kennen. Bei den Vermögen geht das leider nicht."
+    },
     {
       "id": "2026-08-08-2216-03",
       "typ": "politisch-aktuell",
