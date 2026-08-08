@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "hinweis": "5 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Beruhigend, dass wir die Drohungen gegen WNBA-Spielerinnen geprüft haben. Gefährlich ist bei uns erst, wer zurückschreibt."
+    },
+    {
+      "id": "2026-08-08-2133-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "WNBA-Weltspitze mit Zweitjob im Winter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Basketballerinnen der Weltspitze spielen im Winter im Ausland, weil ein Weltklassejob nicht für die Miete reicht."
+    },
+    {
+      "id": "2026-08-08-2133-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "NBA teilt die Hälfte, WNBA nennt zehn Prozent Aufbauphase",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Die NBA teilt die Hälfte ihrer Einnahmen mit den Spielern. Zehn Prozent für die Frauen heissen Aufbauphase."
+    },
+    {
+      "id": "2026-08-08-2133-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Frauensport rechnet sich nicht, Stadion zahlt die Stadt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Frauensport rechnet sich nicht, sagen Leute, deren Lieblingsstadion die Stadt bezahlt hat."
     }
   ]
 }
