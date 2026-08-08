@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -22,16 +22,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Männer sind das einzige Geschlecht, das nackt in einem Imbiss randaliert und danach über Frauen in Führungspositionen diskutiert."
-    },
-    {
-      "id": "2026-08-08-1450-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lake Mead tief, Golfplätze grün",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Der grösste Stausee der USA steht historisch tief. Die Golfplätze in der Wüste sind weiterhin sattgrün."
     },
     {
       "id": "2026-08-08-1450-04",
@@ -64,14 +54,14 @@
       "text": "Männer lehnen Therapie ab. Die Sitzungen finden trotzdem statt, abends, unbezahlt, geführt von ihrer Partnerin."
     },
     {
-      "id": "2026-08-08-1450-07",
-      "typ": "schnittmenge",
-      "stichwort": "Maenner: Hobby vs. Persoenlichkeit",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Frauen haben Hobbys. Männer haben Identitäten, die zufällig auch ein Hobby sind."
+      "id": "2026-08-08-1450-07e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angekündigter Song, gelieferte Stille",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trumps Social-Media-Team kündigt einen Taylor-Swift-Song an und liefert Stille. Die erste ehrliche Kulturpolitik dieser Regierung."
     },
     {
       "id": "2026-08-08-1450-08",
@@ -94,14 +84,14 @@
       "text": "Im Rhein liegen Motorräder und ein Gebiss. Beides hat ein Mann getragen, um jünger zu wirken."
     },
     {
-      "id": "2026-08-08-1450-10",
-      "typ": "persönlich",
-      "stichwort": "ECO-Programm als Weltrettung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "id": "2026-08-08-1450-10e",
+      "typ": "schnittmenge",
+      "stichwort": "Debattenkultur als Etikett",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren auf ECO. So retten Männer die Welt: eine Handlung, ein ganzes Selbstbild."
+      "format": 3,
+      "text": "In der Politik heisst es Debattenkultur. Überall sonst heisst es: ein Mann hört nicht zu."
     },
     {
       "id": "2026-08-08-1450-11",
