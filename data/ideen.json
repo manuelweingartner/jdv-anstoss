@@ -1,8 +1,38 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "6 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-08-1519-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mailand: falscher Embryo eingesetzt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "In Mailand bekommt eine Frau den falschen Embryo eingesetzt. Der Staat sagt ihr trotzdem, wie sie sich zu entscheiden hat."
+    },
+    {
+      "id": "2026-08-08-1519-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "SRG-Umfrage vs. Kampagnengeld",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Vor jeder Abstimmung fragt mich die SRG nach meiner Meinung. Wer sie mit Millionen kauft, wird nicht gefragt."
+    },
+    {
+      "id": "2026-08-08-1519-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Managerin wird Almerin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Eine Managerin wird Almerin und sagt, es ziehe sie nicht mehr ins Tal. Aussteigen darf, wer vorher genug verdient hat."
+    },
     {
       "id": "2026-08-08-1519-07",
       "typ": "schnittmenge",
