@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,36 @@
       "haltbarkeit": "evergreen",
       "format": 3,
       "text": "Die WNBA zahlt Weltmeisterinnen so wenig, dass sie im Winter in Diktaturen arbeiten. Das nennt man Marktlogik."
+    },
+    {
+      "id": "2026-08-08-2133-10",
+      "typ": "persönlich",
+      "stichwort": "Basketballerinnen arbeiten im Winter in Istanbul",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ich habe am Küchentisch erklärt, warum die besten Basketballerinnen im Winter in Istanbul arbeiten. Es lag nicht am Wetter."
+    },
+    {
+      "id": "2026-08-08-2133-11",
+      "typ": "persönlich",
+      "stichwort": "Tochter googelt die WNBA-Löhne",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Meine Tochter soll bei Frauenbasketball sehen, dass Leistung sich lohnt. Sie hat dann die Löhne gegoogelt."
+    },
+    {
+      "id": "2026-08-08-2133-12",
+      "typ": "persönlich",
+      "stichwort": "Feed-Männer und Frauensport",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die Männer in meinem Feed interessieren sich für Frauensport genau dann, wenn es um Regeln geht, wer nicht mitspielen darf."
     }
   ]
 }
