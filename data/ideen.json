@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-08",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -34,16 +34,6 @@
       "text": "Zwei Tonnen Auto fahren in eine Gruppe Velofahrer*innen. In der Meldung ist das ein Streit, der eskaliert."
     },
     {
-      "id": "2026-08-08-2125-04",
-      "typ": "remix",
-      "stichwort": "Musik nach zehn vs. Autobahn",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer nach zehn Uhr Musik hört, kriegt die Polizei. Wer eine Autobahn baut, kriegt eine Lärmschutzwand."
-    },
-    {
       "id": "2026-08-08-2125-05",
       "typ": "politisch-aktuell",
       "stichwort": "Vier-Tage-Woche scheitert an Befuerchtung",
@@ -54,14 +44,14 @@
       "text": "Die Vier-Tage-Woche scheitert an der Produktivität. Nachweisen muss das niemand, es reicht, sie zu befürchten."
     },
     {
-      "id": "2026-08-08-2125-06",
+      "id": "2026-08-08-2125-06e",
       "typ": "politisch-aktuell",
-      "stichwort": "Steuerhinterziehung nicht mehr selbst gemacht",
+      "stichwort": "Ein Jahr saniert, unpünktlicher als vorher",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Steuerhinterziehung wird bei uns hart bestraft. Deshalb macht das niemand mehr selbst, sondern lässt es eine Kanzlei erledigen."
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Nach einem Jahr Vollsperrung fahren drei von vier Zügen zu spät. Vorher war die Strecke nur kaputt."
     },
     {
       "id": "2026-08-08-2125-07",
@@ -74,14 +64,14 @@
       "text": "Das grösste Umverteilungsprogramm dieses Landes läuft ohne Antrag, ohne Bedürftigkeitsprüfung und einmal pro Todesfall."
     },
     {
-      "id": "2026-08-08-2125-08",
-      "typ": "schnittmenge",
-      "stichwort": "Gipfel besteigen vs. Grenze überqueren",
-      "plattform": "Instagram + Threads",
+      "id": "2026-08-08-2125-08e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Luxustasche: 2000 Franken, 4 fürs Nähen",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer einen Gipfel besteigt, überwindet sich. Wer eine Grenze überquert, überwindet uns."
+      "format": "frei",
+      "text": "Zweitausend Franken kostet die Tasche, vier das Nähen. Der Rest ist italienische Handwerkstradition."
     },
     {
       "id": "2026-08-08-2125-09",
