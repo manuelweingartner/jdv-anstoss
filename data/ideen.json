@@ -1,157 +1,27 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-09-134436-v1",
+      "id": "2026-08-09-1347-03",
       "typ": "schnittmenge",
-      "stichwort": "Variante zu: Lohn nur bis zur Wiederkehr",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Wir zahlen exakt so viel, dass Sie morgen wieder hier stehen."
-    },
-    {
-      "id": "2026-08-09-134436-v2",
-      "typ": "schnittmenge",
-      "stichwort": "Variante zu: Lohn nur bis zur Wiederkehr",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Wer sparen kann, kündigt irgendwann. Darum können Sie nicht sparen."
-    },
-    {
-      "id": "2026-08-09-134436-v3",
-      "typ": "schnittmenge",
-      "stichwort": "Variante zu: Lohn nur bis zur Wiederkehr",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ihr Pensum ist genau so gross, dass Sie keine Zeit finden, etwas Besseres zu suchen."
-    },
-    {
-      "id": "2026-08-09-1227-01",
-      "typ": "schnittmenge",
-      "stichwort": "Sparprogramm mit Adresse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Schön, dass wir uns einig sind: Der Staat soll sparen. Wir fangen bei euch an."
-    },
-    {
-      "id": "2026-08-09-1227-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wasser wird verhandelbar",
+      "stichwort": "Sonntagabend als Produktivitätsfaktor",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Erfreulich, dass über Wasser endlich verhandelt wird. Verschenkt haben wir es lange genug."
+      "text": "Endlich schlafen die Leute wieder schlecht. Ein Sonntagabend ohne Angst wäre ein Produktivitätsverlust."
     },
     {
-      "id": "2026-08-09-1227-03",
-      "typ": "schnittmenge",
-      "stichwort": "Rekordgewinn kommt an",
+      "id": "2026-08-09-1347-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Amt hat sonntags zu, Not wartet",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Unsere Rekordgewinne kommen bei den Menschen an. Bei ungefähr vierzig."
-    },
-    {
-      "id": "2026-08-09-1227-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Teststreifen statt Erziehung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Schön, dass Frauen bald Teststreifen bekommen. Männern etwas beizubringen wäre ein unverhältnismässiger Eingriff in die Freiheit."
-    },
-    {
-      "id": "2026-08-09-1227-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Farage besucht seinen Wahlkreis",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Endlich ein Volksvertreter, der ganz nah bei den Menschen ist. Nigel Farage besucht seinen Wahlkreis fast jährlich."
-    },
-    {
-      "id": "2026-08-09-1227-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neun Jahre Sorgfalt für den Bankchef",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Gute Nachricht für den Rechtsstaat: Auch ein Bankchef kann verurteilt werden. Wir prüfen das seit neun Jahren sehr sorgfältig."
-    },
-    {
-      "id": "2026-08-09-1227-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Amazonas-Erfolg wird anderswo ausgeglichen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Grossartig, dass im Amazonas so wenig gerodet wird wie seit zehn Jahren nicht. Wir gleichen das anderswo gerne aus."
-    },
-    {
-      "id": "2026-08-09-1227-08",
-      "typ": "schnittmenge",
-      "stichwort": "Stille als letztes unverkauftes Gut",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ein Tal mit zehn Einwohnern und absoluter Stille. Wir kaufen sie, bevor sie noch jemandem gratis zufällt."
-    },
-    {
-      "id": "2026-08-09-1227-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wiederaufbau als Geschäftsmodell",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Wir denken schon an den Wiederaufbau von Odessa. Je gründlicher jetzt zerstört wird, desto grösser unser Anteil daran."
-    },
-    {
-      "id": "2026-08-09-1227-10",
-      "typ": "schnittmenge",
-      "stichwort": "Versicherung wartet den Anspruch aus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Gute Nachricht aus der Versicherung: Wer lange genug auf den Entscheid wartet, braucht am Ende keine Rente mehr."
-    },
-    {
-      "id": "2026-08-09-1227-11e",
-      "typ": "schnittmenge",
-      "stichwort": "Satire-Rückblick altert nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der Satire-Rückblick zeigt Sketche von vor zehn Jahren. Gealtert ist nur die Bildqualität."
-    },
-    {
-      "id": "2026-08-09-1227-12",
-      "typ": "schnittmenge",
-      "stichwort": "Lohn nur bis zur Wiederkehr",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Wir zahlen genau so viel Lohn, dass Sie morgen wiederkommen müssen. Mehr wäre Verschwendung."
+      "text": "Ich finde es richtig, dass sonntags niemand etwas einreichen kann. Wer es wirklich nötig hat, wartet bis Montag."
     }
   ]
 }
