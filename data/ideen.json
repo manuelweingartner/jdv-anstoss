@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,36 @@
       "haltbarkeit": "evergreen",
       "format": 10,
       "text": "Ich habe 20 Franken Mahngebühr bezahlt, weil eine Rechnung elf Tage zu spät war. Beim Klimaziel nennt man elf Jahre Verzug einen Zwischenbericht."
+    },
+    {
+      "id": "2026-08-09-2037-10",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm gegen Waffentempo",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich stelle die Abwaschmaschine seit sieben Jahren aufs ECO-Programm. Das Pentagon fordert diese Woche mehr Tempo bei der Waffenproduktion, meine Gabeln trocknen dafür langsam."
+    },
+    {
+      "id": "2026-08-09-2037-11",
+      "typ": "persönlich",
+      "stichwort": "Hund kriegt Termin, Kranke kriegen Zweifel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich hatte für meinen Hund in vier Tagen einen Spezialistentermin. Chronisch Kranke warten sieben Monate, dafür fragt beim Hund niemand, ob er sich das nur einbildet. (echtes Detail einsetzen)"
+    },
+    {
+      "id": "2026-08-09-2037-12",
+      "typ": "persönlich",
+      "stichwort": "Ferienplanung scheitert doppelt, Hund egal",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Wir hatten Italien geplant. Spanien weist seit Samstag Reisende aus Italien ab, in derselben Woche streitet Italien über 25 Euro Eintritt am Strand. Unser Wasserhund hasst Wasser sowieso."
     }
   ]
 }
