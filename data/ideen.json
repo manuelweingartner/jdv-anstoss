@@ -46,52 +46,52 @@
     {
       "id": "2026-08-09-0757-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Erben schlägt Arbeiten",
+      "stichwort": "Eigenbedarf ist der einzige anerkannte Bedarf",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer erbt, bekommt einen Steuerberater. Wer arbeitet, bekommt eine Lohnabrechnung mit Erklärung, warum es diesmal weniger ist."
+      "format": "frei",
+      "text": "Eigenbedarf ist der einzige Bedarf in diesem Land, der ohne Prüfung anerkannt wird."
     },
     {
       "id": "2026-08-09-0757-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Leere Wohnung als Wertanlage",
+      "stichwort": "Erbschaftssteuer gehört abgeschafft",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Beruhigend, dass die leerstehende Zweitwohnung im dritten Stock wenigstens keine Lärmklagen verursacht."
+      "text": "Endlich eine Steuer, die weg gehört: die auf Geld, für das niemand gearbeitet hat."
     },
     {
       "id": "2026-08-09-0757-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Arbeitszeiterfassung nur nach unten",
+      "stichwort": "Rüstungsaktien als ehrlichste Geldanlage",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Am Bau wird jede Minute gestempelt. Im Verwaltungsrat reicht ein Sitzungsgeld für Anwesenheit."
+      "text": "Rüstungsaktien sind die ehrlichste Geldanlage: Sie steigen genau dann, wenn du die Nachrichten wegdrückst."
     },
     {
       "id": "2026-08-09-0757-08",
       "typ": "schnittmenge",
-      "stichwort": "Drohne niemand zuständig, Roller sofort",
+      "stichwort": "Bergnot bekommt Helikopter, Seenot bekommt Debatte",
       "plattform": "Threads + Instagram",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Für die Drohne über dem Flughafen ist niemand zuständig. Für den falsch geparkten Roller sind es drei Behörden."
+      "text": "Wer freiwillig in Bergnot gerät, bekommt einen Helikopter. Wer im Meer treibt, bekommt eine Debatte."
     },
     {
       "id": "2026-08-09-0757-09",
       "typ": "remix",
-      "stichwort": "Hitzeplan wartet auf die Sommerferien",
+      "stichwort": "Hitzeplan empfiehlt Schatten, den es nicht mehr gibt",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Der Hitzenotfallplan der Stadt greift zuverlässig, sobald die zuständige Abteilung aus den Sommerferien zurück ist."
+      "format": 2,
+      "text": "Der städtische Hitzeplan empfiehlt Schatten. Die Bäume dafür standen dem Parkplatz im Weg."
     },
     {
       "id": "2026-08-09-0757-10",
