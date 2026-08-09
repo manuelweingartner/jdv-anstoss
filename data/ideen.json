@@ -5,63 +5,63 @@
   "ideen": [
     {
       "id": "2026-08-09-1227-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wasser wird verhandelt statt verteilt",
+      "typ": "schnittmenge",
+      "stichwort": "Sparprogramm mit Adresse",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Endlich wird Wasser verhandelt statt verteilt. Verschenkt haben wir es lange genug."
+      "text": "Schön, dass wir uns einig sind: Der Staat soll sparen. Wir fangen bei euch an."
     },
     {
       "id": "2026-08-09-1227-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wasser wird verhandelbar",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Erfreulich, dass über Wasser endlich verhandelt wird. Verschenkt haben wir es lange genug."
+    },
+    {
+      "id": "2026-08-09-1227-03",
       "typ": "schnittmenge",
-      "stichwort": "Gärtnern im Lager als Erfolg der Lagerpolitik",
+      "stichwort": "Rekordgewinn kommt an",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Wir begrüssen, dass im Lager gegärtnert wird. Wer erntet, hat sich mit dem Warten arrangiert."
-    },
-    {
-      "id": "2026-08-09-1227-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Frisur statt Politik",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Gut, dass online endlich über seine Frisur gestritten wird. Zu seiner Politik hatten wir ohnehin keine Haltung."
+      "text": "Unsere Rekordgewinne kommen bei den Menschen an. Bei ungefähr vierzig."
     },
     {
       "id": "2026-08-09-1227-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Gewalt chemisch bekämpfen",
+      "stichwort": "Teststreifen statt Erziehung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Gute Nachricht: Sexualisierte Gewalt bekämpfen wir jetzt chemisch. Über die Männer reden wir, sobald die Tropfen weg sind."
+      "text": "Schön, dass Frauen bald Teststreifen bekommen. Männern etwas beizubringen wäre ein unverhältnismässiger Eingriff in die Freiheit."
     },
     {
       "id": "2026-08-09-1227-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Verfahren überdauert den Bonus",
+      "stichwort": "Farage besucht seinen Wahlkreis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Endlich ein Volksvertreter, der ganz nah bei den Menschen ist. Nigel Farage besucht seinen Wahlkreis fast jährlich."
+    },
+    {
+      "id": "2026-08-09-1227-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neun Jahre Sorgfalt für den Bankchef",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich finde es richtig, dass sich auch ein Bankchef vor Gericht verantworten muss. Bis zum Urteil ist der Bonus ohnehin ausgegeben."
-    },
-    {
-      "id": "2026-08-09-1227-06",
-      "typ": "schnittmenge",
-      "stichwort": "Aufstieg steht allen offen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Schön, dass der Aufstieg allen offensteht. Den Helikopter nehmen wir trotzdem lieber unter uns."
+      "text": "Gute Nachricht für den Rechtsstaat: Auch ein Bankchef kann verurteilt werden. Wir prüfen das seit neun Jahren sehr sorgfältig."
     },
     {
       "id": "2026-08-09-1227-07",
@@ -95,33 +95,33 @@
     },
     {
       "id": "2026-08-09-1227-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wasser wird knapp, endlich ein Preis",
+      "typ": "schnittmenge",
+      "stichwort": "Versicherung wartet den Anspruch aus",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Gute Nachricht: Wasser wird knapp. Endlich bekommt es einen Preis, den sich nicht mehr jeder leisten kann."
+      "text": "Gute Nachricht aus der Versicherung: Wer lange genug auf den Entscheid wartet, braucht am Ende keine Rente mehr."
     },
     {
       "id": "2026-08-09-1227-11",
-      "typ": "politisch-aktuell",
-      "stichwort": "Verbote für Rasen, nicht für Fabriken",
+      "typ": "schnittmenge",
+      "stichwort": "Steuern zahlt man gern, woanders",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Schön, dass wir uns einig sind: Beim Wassersparen fangen wir bei den Gärten an. Unsere Werkhallen sparen schon seit Jahren nicht."
+      "text": "Ich zahle wirklich gern Steuern. Deshalb habe ich mir ein Land ausgesucht, in dem das selten vorkommt."
     },
     {
       "id": "2026-08-09-1227-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "Notstand als Aktionärsgeschenk",
+      "typ": "schnittmenge",
+      "stichwort": "Lohn nur bis zur Wiederkehr",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Beruhigend, dass der Notstand immer erst ausgerufen wird, wenn das Löschen teurer ist als das Verhindern gewesen wäre."
+      "text": "Wir zahlen genau so viel Lohn, dass Sie morgen wiederkommen müssen. Mehr wäre Verschwendung."
     }
   ]
 }
