@@ -25,23 +25,23 @@
     },
     {
       "id": "2026-08-09-2212-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rentenalter 70, wer früh stirbt leistet mehr",
+      "typ": "schnittmenge",
+      "stichwort": "Rente bis 70, vier Sitzungen im Jahr",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Ich finde es richtig, dass wir wieder über Rentenalter 70 reden. Wer mit 68 stirbt, spart zwei Jahre Rente und leistet damit mehr als jede Reform."
+      "text": "Endlich reden wir ehrlich über die Rente: Wer länger arbeitet, hat länger etwas davon. Ich arbeite bis 70, im Verwaltungsrat, vier Sitzungen im Jahr."
     },
     {
       "id": "2026-08-09-2212-04",
-      "typ": "schnittmenge",
-      "stichwort": "Amt: 14 Monate Bearbeitung als Bedürfnisprüfung",
+      "typ": "politisch-aktuell",
+      "stichwort": "Drohnenabwehr an der Ostgrenze, Behoerdenstimme",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Gute Nachricht aus dem Amt: Ihr Antrag ist seit vierzehn Monaten in Bearbeitung. Wer so lange wartet, braucht das Geld erfahrungsgemäss nicht mehr dringend."
+      "text": "Beruhigend: Unsere Drohnenabwehr an der Ostgrenze stört, verwirrt und verunsichert zuverlässig. Drei Dinge, die wir in der Kommunikation mit der Bevölkerung längst beherrschen."
     },
     {
       "id": "2026-08-09-2212-05",
@@ -96,32 +96,32 @@
     {
       "id": "2026-08-09-2212-10",
       "typ": "persönlich",
-      "stichwort": "ECO-Programm gegen Amazonas-Öl",
+      "stichwort": "ECO-Programm und Lulas Amazonas-Öl",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich lasse die Abwaschmaschine seit sieben Jahren im ECO-Programm laufen. Brasilien finanziert seine Energiewende mit Öl aus dem Amazonas. Wir kommen beide gut voran."
+      "text": "Seit sieben Jahren wasche ich aus Prinzip nur im ECO-Programm ab. Lula finanziert Brasiliens Energiewende jetzt mit Öl aus dem Amazonasdelta. Zusammen sind wir klimaneutral."
     },
     {
       "id": "2026-08-09-2212-11",
       "typ": "persönlich",
-      "stichwort": "Odysseus ohne Reisedokument",
+      "stichwort": "Odyssee im Kino, Pentagon drückt aufs Tempo",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 5,
-      "text": "Nach Nolans Odyssee will meine Tochter wissen, warum Odysseus zehn Jahre für den Heimweg braucht. Ich sage ihr: kein gültiges Reisedokument."
+      "format": 18,
+      "text": "Ich habe am Samstag Nolans Odyssee gesehen: zehn Jahre Heimweg aus einem Krieg. Am selben Tag rief das Pentagon nach schnellerer Waffenproduktion. Den Rückweg dreht niemand."
     },
     {
       "id": "2026-08-09-2212-12",
       "typ": "persönlich",
-      "stichwort": "10'000 gegen die AfD, bei uns reicht Tempo 30",
+      "stichwort": "26 Franken Zug, 24 Franken Flug",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Knapp 10'000 Menschen sind am Wochenende für ein AfD-Verbotsverfahren auf die Strasse gegangen. Bei uns im Dorf schafft das nur eine neue Tempo-30-Zone."
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich zahle 26 Franken für die Zugfahrt nach Zürich, 24 für den Flug nach Barcelona. Am Bahnhof bittet mich ein Plakat, öfter den Zug zu nehmen."
     }
   ]
 }
