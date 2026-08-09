@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -34,24 +34,14 @@
       "text": "Beruhigend, dass die Drohne bei uns aus Versehen explodiert ist. Für Absicht hätten wir uns äussern müssen."
     },
     {
-      "id": "2026-08-09-0805-04",
-      "typ": "schnittmenge",
-      "stichwort": "Beweislast bei den Kranken",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich finde es richtig, dass die Beweislast bei den Kranken liegt. Wer gesund wird, hat gelogen."
-    },
-    {
-      "id": "2026-08-09-0805-05",
+      "id": "2026-08-09-0805-04e",
       "typ": "politisch-aktuell",
-      "stichwort": "Kaffee mitnehmen vs. Überstunden streichen",
+      "stichwort": "Mittelalterliche Bäckerei weicht Müllcontainer",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer im Lager eine Packung Kaffee mitnimmt, wird fristlos entlassen. Wer die Überstunden nicht auszahlt, optimiert die Lohnkosten."
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Unter der Baustelle liegt eine mittelalterliche Bäckerei. Sie wird sorgfältig dokumentiert und dann für einen Müllcontainer abgeräumt."
     },
     {
       "id": "2026-08-09-0805-06",
@@ -74,14 +64,14 @@
       "text": "Leistung müsse sich endlich wieder lohnen, sagt eine Klasse, deren Vermögen aus einem Sterbedatum stammt."
     },
     {
-      "id": "2026-08-09-0805-08",
+      "id": "2026-08-09-0805-08e",
       "typ": "schnittmenge",
-      "stichwort": "Bergrettung zahlt man selbst, Bankenrettung nicht",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "breit",
+      "stichwort": "KI nimmt Arbeit ab, angefangen bei der Kunst",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer sich in den Bergen verirrt, zahlt den Helikopter selbst. Wer eine Bank an die Wand fährt, bekommt einen."
+      "format": 4,
+      "text": "Künstliche Intelligenz nimmt uns die Arbeit ab. Angefangen hat sie bei denen, die Bücher schreiben und Bilder malen."
     },
     {
       "id": "2026-08-09-0805-09",
