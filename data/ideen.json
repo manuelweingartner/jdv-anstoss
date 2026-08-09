@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "6 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Auch die Fünftagewoche galt mal als Untergang der Wirtschaft. Durchgesetzt haben sie angeblich Faule."
+    },
+    {
+      "id": "2026-08-09-1357-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Care-Arbeit kostet niemanden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Care-Arbeit heisst so, weil sie niemanden etwas kostet. Ausser die, die sie machen."
+    },
+    {
+      "id": "2026-08-09-1357-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Unbezahlbare Arbeitszeit, geheime Boni",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Kürzere Arbeitszeit sei unbezahlbar, sagt der Chef, dessen Bonusrunde Betriebsgeheimnis ist."
+    },
+    {
+      "id": "2026-08-09-1357-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Milliardär als nicht ausgezahlter Lohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Es gibt keine Selfmade-Milliardäre. Es gibt Löhne, die jemand nicht ausgezahlt hat."
     }
   ]
 }
