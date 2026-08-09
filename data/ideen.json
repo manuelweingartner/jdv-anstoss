@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -34,14 +34,14 @@
       "text": "Ich finde es richtig, dass der Sonntag heilig bleibt. Deshalb schicken wir die Aufgaben für Montag schon am Freitag."
     },
     {
-      "id": "2026-08-09-1347-04",
-      "typ": "schnittmenge",
-      "stichwort": "Erholungspflicht mit Missbrauchsverdacht",
+      "id": "2026-08-09-1347-04e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mehr Ausnahmen als Sonntage",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Endlich eine Erholungspflicht. Wer sich am Montag nicht erholt zeigt, hat den Sonntag missbräuchlich verwendet."
+      "format": "frei",
+      "text": "Das Verbot der Sonntagsarbeit kennt inzwischen mehr Ausnahmen als der Kalender Sonntage."
     },
     {
       "id": "2026-08-09-1347-05",
@@ -54,14 +54,14 @@
       "text": "Der Sonntag ist gesetzlich geschützt. Der Montag in deinem Kopf schon ab dem Mittagessen nicht."
     },
     {
-      "id": "2026-08-09-1347-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Freier Tag heisst Wartungsfenster",
+      "id": "2026-08-09-1347-06e",
+      "typ": "schnittmenge",
+      "stichwort": "App gegen die Angst, nicht gegen den Grund",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Endlich ein Tag, der ganz Ihnen gehört. Wir nennen ihn intern das Wartungsfenster."
+      "format": "frei",
+      "text": "Es gibt Apps gegen die Angst vor dem Montag, aber keine gegen den Montag."
     },
     {
       "id": "2026-08-09-1347-07",
@@ -74,24 +74,14 @@
       "text": "Sonntagabends nervös zu werden ist kein Charakterfehler. Es ist eine Frage des Kontostands."
     },
     {
-      "id": "2026-08-09-1347-08",
-      "typ": "schnittmenge",
-      "stichwort": "Sonntagsruhe gilt nach Frachtvolumen",
-      "plattform": "Threads + Bluesky + Instagram",
+      "id": "2026-08-09-1347-08e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sonntagsarbeit taucht in keiner Statistik auf",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer sonntags bohrt, bekommt Besuch von der Polizei. Wer sonntags vierzig Tonnen fährt, bekommt eine Ausnahmebewilligung."
-    },
-    {
-      "id": "2026-08-09-1347-09",
-      "typ": "remix",
-      "stichwort": "Freier Sonntag als unbezahlte Montagsschicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 10,
-      "text": "Der Sonntag ist so frei, dass ihn Millionen unbezahlt damit verbringen, den Montag vorzubereiten."
+      "format": "frei",
+      "text": "Am Sonntag wird gekocht, geputzt und die ganze Woche vorbereitet. Volkswirtschaftlich ist das der Tag, an dem nichts passiert."
     },
     {
       "id": "2026-08-09-1347-10",
@@ -114,14 +104,14 @@
       "text": "Sonntags rechne ich nach, ob die Miete noch geht. Montags rechnet der Vermieter, ob mehr geht."
     },
     {
-      "id": "2026-08-09-1347-12",
-      "typ": "persönlich",
-      "stichwort": "Achtsamkeit gegen den Sonntagabend",
+      "id": "2026-08-09-1347-12e",
+      "typ": "schnittmenge",
+      "stichwort": "Der freie Tag hat einen Gott, der Arbeitstag nicht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Gegen meine Sonntagabende bietet die Firma Achtsamkeit an. Gegen sich selbst bietet sie nichts."
+      "format": "frei",
+      "text": "Der freie Sonntag stammt von einer Religion, an die kaum jemand mehr glaubt. Der Montag braucht keinen Gott."
     }
   ]
 }
