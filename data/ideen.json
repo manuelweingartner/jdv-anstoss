@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "7 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 3,
       "text": "Fünf Jahre nach der Machtübernahme öffnen die Taliban Afghanistan für Touristen. Im Reiseprospekt stehen Berge, Gastfreundschaft und Ruhe, im Land stehen Frauen nicht mehr im Weg."
+    },
+    {
+      "id": "2026-08-09-2333-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "40-Tonner sonntags, weil die Flüsse leer sind",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es richtig, dass unsere 40-Tonner wegen der ausgetrockneten Flüsse jetzt auch sonntags fahren dürfen. Wer das Wasser wegheizt, soll die Autobahn dafür kriegen."
+    },
+    {
+      "id": "2026-08-09-2333-04",
+      "typ": "schnittmenge",
+      "stichwort": "Meer gehört allen, verpachtet ist nur der Sand davor",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Beruhigend, dass in Italien das Meer weiterhin allen gehört. Verpachtet sind nur die dreissig Meter Sand davor. Wer von aussen hinschwimmt, zahlt nichts."
     },
     {
       "id": "2026-08-09-2333-05",
