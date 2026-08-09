@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -62,6 +62,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Seit heute liegt meine Brille im Vierwaldstättersee. Beruhigend: Solange er meine 300 Franken Gleitsicht behält, kann der Bund die Hitzewarnung Stufe 3 wieder einpacken."
+    },
+    {
+      "id": "2026-08-09-1943-07",
+      "typ": "persönlich",
+      "stichwort": "Pegel rührt sich für mich nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "151 Gemeinden rationieren diese Woche das Wasser, gleiche Woche legt die Elbe einen Hungerstein frei. Meine Brille liegt seit Samstag im See, und der Pegel rührt sich nicht."
+    },
+    {
+      "id": "2026-08-09-1943-08",
+      "typ": "persönlich",
+      "stichwort": "Nicht die Trockenheit unterschätzt, das Wasser",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Ich habe am Samstag meine Brille im See verloren. Unterschätzt habe ich nicht die Trockenheit, sondern wie viel Wasser nach drei Dürresommern immer noch drin ist."
+    },
+    {
+      "id": "2026-08-09-1943-09",
+      "typ": "persönlich",
+      "stichwort": "380 Franken als Pegelmessung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich finde es beruhigend, dass mein See eine Brille für 380 Franken einfach behält. So tief kann der Pegel dieses Jahr also nicht gesunken sein."
     },
     {
       "id": "2026-08-09-1943-10",
