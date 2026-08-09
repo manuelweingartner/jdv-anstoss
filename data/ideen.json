@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "7 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-09-2037-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gentechnik gegen die Mücke, Warnstufe gegen die Hitze",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich erschlage jeden Abend Mücken auf dem Balkon. Forscher lassen die Tigermücke per Gentechnik aussterben, gegen die Hitze gibt es am selben Tag Warnstufe 3."
+    },
+    {
+      "id": "2026-08-09-2037-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Thurn und Taxis lebt vom Porto und verhöhnt Maffay",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seit 500 Jahren lebt die Familie Thurn und Taxis vom Porto. Jetzt verhöhnt ihre Fürstin Peter Maffay als Zugereisten, und ich frankiere weiter."
+    },
     {
       "id": "2026-08-09-2037-03",
       "typ": "politisch-aktuell",
