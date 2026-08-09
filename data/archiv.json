@@ -4406,6 +4406,127 @@
       "format": "frei",
       "text": "Der Autokrat in Ungarn stürzte nicht über seine Politik, sondern über die Preise. Moral hatte nie eine Mehrheit.",
       "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2323-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vulkan streicht Flüge, Klimapolitik nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ein Vulkan hat in zwei Stunden mehr Flüge gestrichen als dreissig Jahre Klimapolitik.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2323-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Drogenmarkt als deregulierter Traum",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Endlich ein Markt ohne Bürokratie: keine Deklarationspflicht, keine Zulassung, keine Preisaufsicht. Die Wirtschaftsverbände sollten sich am Drogenhandel orientieren.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2323-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bewilligter Umzug ohne Forderung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Endlich ein Umzug, den wir gerne bewilligen: eine Million Menschen auf der Strasse, ohne eine einzige Forderung.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2323-04e",
+      "typ": "schnittmenge",
+      "stichwort": "Nacktes Streichquartett als Kulturpolitik",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ein Streichquartett spielt nackt und ohne Probe. So arbeitet die Kultur seit der letzten Sparrunde.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2323-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Busse als Gebuehr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Dieselbe Busse ist für die einen eine Strafe und für die anderen eine Gebühr.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2323-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Praktikum als Auswahlverfahren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Unbezahlte Praktika sind kein Berufseinstieg, sondern ein Auswahlverfahren unter Eltern.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2323-07e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gefährder-Überwachung bis das Personal fehlt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Gefährder werden überwacht, bis das Personal fehlt. Danach übernimmt die Hoffnung.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2323-08e",
+      "typ": "schnittmenge",
+      "stichwort": "Ätna: Katastrophe ab Flugplan",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Naturgewalt ist erst eine Katastrophe, wenn sie den Flugplan von Catania trifft.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2323-10e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Heilige Mission heisst Nachschub",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Moskau nennt die Granatenlieferung aus Nordkorea eine heilige Mission. Heilig ist hier der Nachschub.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2323-11",
+      "typ": "persönlich",
+      "stichwort": "Reparieren beibringen, Gehäuse verklebt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ich bringe dem Kind bei, Dinge zu reparieren. Der Hersteller hat das Gehäuse verklebt.",
+      "datum": "2026-08-08"
+    },
+    {
+      "id": "2026-08-08-2323-12e",
+      "typ": "schnittmenge",
+      "stichwort": "Streep spielt Macht, echt bleibt Fiktion",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Meryl Streep spielt seit fünfzig Jahren Frauen mit Macht. Im echten Leben bleibt das Fiktion.",
+      "datum": "2026-08-08"
     }
   ]
 }

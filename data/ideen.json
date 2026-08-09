@@ -1,117 +1,37 @@
 {
-  "datum": "2026-08-08",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
-  "fertig": true,
+  "datum": "2026-08-09",
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-08-2323-01",
+      "id": "2026-08-09-0643-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Vulkan streicht Flüge, Klimapolitik nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ein Vulkan hat in zwei Stunden mehr Flüge gestrichen als dreissig Jahre Klimapolitik."
-    },
-    {
-      "id": "2026-08-08-2323-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Drogenmarkt als deregulierter Traum",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Endlich ein Markt ohne Bürokratie: keine Deklarationspflicht, keine Zulassung, keine Preisaufsicht. Die Wirtschaftsverbände sollten sich am Drogenhandel orientieren."
-    },
-    {
-      "id": "2026-08-08-2323-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bewilligter Umzug ohne Forderung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Endlich ein Umzug, den wir gerne bewilligen: eine Million Menschen auf der Strasse, ohne eine einzige Forderung."
-    },
-    {
-      "id": "2026-08-08-2323-04e",
-      "typ": "schnittmenge",
-      "stichwort": "Nacktes Streichquartett als Kulturpolitik",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ein Streichquartett spielt nackt und ohne Probe. So arbeitet die Kultur seit der letzten Sparrunde."
-    },
-    {
-      "id": "2026-08-08-2323-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Busse als Gebuehr",
+      "stichwort": "Zinsen oben, Gebühren unten",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Dieselbe Busse ist für die einen eine Strafe und für die anderen eine Gebühr."
+      "text": "Wer Geld hat, bekommt Zinsen. Wer keins hat, bekommt Gebühren."
     },
     {
-      "id": "2026-08-08-2323-06",
+      "id": "2026-08-09-0643-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Praktikum als Auswahlverfahren",
+      "stichwort": "Fachkräftemangel statt Lohnproblem",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Unbezahlte Praktika sind kein Berufseinstieg, sondern ein Auswahlverfahren unter Eltern."
+      "format": 13,
+      "text": "Beruhigend, dass die Pflege einen Fachkräftemangel hat und kein Lohnproblem. Ein Lohnproblem müsste man ja lösen."
     },
     {
-      "id": "2026-08-08-2323-07e",
+      "id": "2026-08-09-0643-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Gefährder-Überwachung bis das Personal fehlt",
+      "stichwort": "Polizei schützt Eigentum, wie gebaut",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Gefährder werden überwacht, bis das Personal fehlt. Danach übernimmt die Hoffnung."
-    },
-    {
-      "id": "2026-08-08-2323-08e",
-      "typ": "schnittmenge",
-      "stichwort": "Ätna: Katastrophe ab Flugplan",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Naturgewalt ist erst eine Katastrophe, wenn sie den Flugplan von Catania trifft."
-    },
-    {
-      "id": "2026-08-08-2323-10e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Heilige Mission heisst Nachschub",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Moskau nennt die Granatenlieferung aus Nordkorea eine heilige Mission. Heilig ist hier der Nachschub."
-    },
-    {
-      "id": "2026-08-08-2323-11",
-      "typ": "persönlich",
-      "stichwort": "Reparieren beibringen, Gehäuse verklebt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ich bringe dem Kind bei, Dinge zu reparieren. Der Hersteller hat das Gehäuse verklebt."
-    },
-    {
-      "id": "2026-08-08-2323-12e",
-      "typ": "schnittmenge",
-      "stichwort": "Streep spielt Macht, echt bleibt Fiktion",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Meryl Streep spielt seit fünfzig Jahren Frauen mit Macht. Im echten Leben bleibt das Fiktion."
+      "format": 2,
+      "text": "Die Polizei wurde gebaut, um Eigentum zu schützen. Sie funktioniert bis heute einwandfrei."
     }
   ]
 }
