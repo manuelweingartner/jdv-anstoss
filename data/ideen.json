@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "11 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,26 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Ich ziehe jedes Ladegerät aus der Dose, sobald das Handy voll ist. Ein Rechenzentrum hat in derselben Zeit vier Bilder von einer Katze im Anzug erzeugt."
+    },
+    {
+      "id": "2026-08-09-2333-10",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm gegen Amazonas-Öl",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich stelle die Abwaschmaschine seit sieben Jahren aus Prinzip auf ECO. Brasilien bohrt jetzt an der Amazonasmündung nach Öl, um die Energiewende zu bezahlen."
+    },
+    {
+      "id": "2026-08-09-2333-12",
+      "typ": "persönlich",
+      "stichwort": "Tochter fragt nach zehntausend gegen die AfD",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Meine Tochter hört, dass zehntausend Leute ein AfD-Verbot fordern, und fragt, ob das reicht. Ich sage ihr, dafür braucht es Richter, keine Menschen."
     }
   ]
 }
