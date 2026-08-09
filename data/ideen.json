@@ -1,117 +1,37 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
-  "fertig": true,
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-09-2127-01",
+      "id": "2026-08-09-2212-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Hitzewarnstufe 3 gegen zu viele Staatsstellen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich soll ab Sonntag bei Hitzewarnstufe 3 im Schatten bleiben. Am selben Tag warnt ein Ökonom, das grösste Risiko für den Wohlstand seien neue Stellen beim Staat."
-    },
-    {
-      "id": "2026-08-09-2127-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Aufmarsch in Plauen, ordentlich angemeldet",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Beruhigend, dass in Plauen wieder ein paar Hundert Rechtsextreme durch die Innenstadt marschieren. Ordentlich angemeldet, und um 22 Uhr ist Schluss, man will die Nachbarn ja nicht wecken."
-    },
-    {
-      "id": "2026-08-09-2127-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Oliven im Zürcher Weinland, Klimaziel gern später",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich freue mich, dass im Zürcher Weinland jetzt Oliven wachsen. Die Klimaziele für 2050 verschieben wir gern noch einmal, solange die Ernte so gut läuft."
-    },
-    {
-      "id": "2026-08-09-2127-04e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Demokratie im Keller überwintert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 12,
-      "text": "Ich habe in der Schule gelernt, dass die Schweiz ihre Demokratie durch zwei Weltkriege gerettet hat. Sie lag die ganze Zeit gut verpackt im Keller."
-    },
-    {
-      "id": "2026-08-09-2127-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Parkbusse gegen Rückstellung",
+      "stichwort": "180 Überstunden zählt keine App",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Für 20 Minuten zu lang parkieren zahle ich 40 Franken Busse. Grosse Konzerne nennen so etwas Rückstellung und buchen es vorher ein."
+      "text": "Seit Januar zählt meine Uhr jeden Schritt und erinnert mich stündlich ans Atmen. Meine 180 unbezahlten Überstunden zählt sie nicht, die zählt niemand."
     },
     {
-      "id": "2026-08-09-2127-06",
+      "id": "2026-08-09-2212-06",
       "typ": "politisch-aktuell",
-      "stichwort": "490 Milliarden Steuerflucht, ungefähr Österreich",
+      "stichwort": "160'000 Eigenkapital als unsichtbarer Porsche",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 19,
-      "text": "Konzernen und Vermögenden entgehen den Staaten jedes Jahr 490 Milliarden Dollar an Steuern. Das ist ungefähr Österreich, nur ohne Berge und ohne Rechnung."
+      "text": "Für eine Dreizimmerwohnung brauche ich 160'000 Franken Eigenkapital. Das ist ein Porsche, den ich nie sehe, damit die Bank sieht, dass ich einen hätte."
     },
     {
-      "id": "2026-08-09-2127-07",
+      "id": "2026-08-09-2212-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Neubau ohne Licht, Tresor mit Balkonen",
+      "stichwort": "Bis 67, weil wir alle länger leben",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Ich gehe abends an einem Neubau vorbei, in dem seit zwei Jahren kein Fenster beleuchtet ist. Das ist keine Wohnungsnot, das ist ein Tresor mit Balkonen."
-    },
-    {
-      "id": "2026-08-09-2127-08e",
-      "typ": "schnittmenge",
-      "stichwort": "25 Euro fürs Meer, genannt Ferien",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Gegen private Strände in Italien kämpft jetzt ein 23-jähriger Politiker. Ich habe letzten Sommer 25 Euro bezahlt, um ans Meer zu dürfen, und es Ferien genannt."
-    },
-    {
-      "id": "2026-08-09-2127-09",
-      "typ": "remix",
-      "stichwort": "Härtefall-Liste beim ausgesetzten Familiennachzug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 15,
-      "text": "Der Familiennachzug für Schutzberechtigte ist seit einem Jahr ausgesetzt, vorher waren es 1'000 Menschen im Monat. Als Härtefall gilt jetzt:\n- schwer krank\n- akut bedroht\n- bereits verstorben"
-    },
-    {
-      "id": "2026-08-09-2127-11e",
-      "typ": "persönlich",
-      "stichwort": "Spinnenseide trägt, Miete nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 5,
-      "text": "Ich habe meiner Tochter erklärt, dass Spinnenseide Spider-Man laut Forschung wirklich tragen würde. Sie fragt, wie er sich in New York die Wohnung leistet."
-    },
-    {
-      "id": "2026-08-09-2127-12e",
-      "typ": "persönlich",
-      "stichwort": "Pfadfinderlager schlägt Velowegplanung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Sechstausend Pfadfinder bauen auf einem Feld Küchen, Werkstätten und ein Zeltdorf, in dem alles geteilt wird. Ich warte seit vier Jahren auf einen Veloweg."
+      "format": 17,
+      "text": "Ich soll bis 67 arbeiten, weil wir alle länger leben. Wer mit 30 genug Aktien hat, lebt offenbar kürzer und darf früher aufhören."
     }
   ]
 }
