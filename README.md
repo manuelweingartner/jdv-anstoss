@@ -105,6 +105,15 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
   grad" setzt das betroffene Format direkt auf den 14-Tage-Cooldown. „zu lang"
   ist neu, weil die Länge der stärkste gemessene Faktor ist (Korrelation
   −0,46) und bisher unter „nicht lustig" verschwand.
+- **Nachschub-Feld und Kategorie-Knöpfe.** Das Feld unten nimmt drei Arten von
+  Eingabe, der Generator unterscheidet sie selbst: ein **Stichwort** bindet
+  alle 12 Ideen ans Thema, ein **ganzer Satz** (ab 8 Wörtern mit Satzzeichen)
+  gilt als Entwurf und liefert 12 bessere Fassungen statt neuer Ideen, eine
+  **Kategorie** füllt alle 12 aus einem Topf. Die Kategorien stehen seit
+  09.08.2026 als Knopfleiste da (Meta, Swiss News, Politisch, Doppelmoral,
+  Persönlich, Linke Themen), weil man sie vorher auswendig tippen musste. Ein
+  Tap löst die Runde direkt aus; der Doppeldruck-Riegel gilt weiter, und
+  während einer laufenden Runde sind die Knöpfe gesperrt.
 - **„3 Varianten anfordern" gibt es seit 09.08.2026 auf beiden Seiten.** Im
   Anstoss erscheint der Knopf ab 4 Sternen, in der Auszählung bei jedem
   Eintrag: dort kuratiert Manuel ältere Ideen und entscheidet, ob eine mit

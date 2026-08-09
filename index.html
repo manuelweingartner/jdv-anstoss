@@ -189,6 +189,16 @@
     white-space: nowrap;
   }
   .b-more:disabled { background: transparent; color: var(--matt); border-color: var(--linie); cursor: default; }
+  /* Kategorie-Knoepfe: gestrichelt wie die Ablehngruende, damit klar ist,
+     dass sie zum Feld gehoeren und nicht zur Haupt-Aktion. */
+  .kats { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
+  .kats button {
+    appearance: none; border: 1px dashed var(--linie); border-radius: 0;
+    background: transparent; color: var(--tinte); cursor: pointer;
+    font: 400 .72rem/1 inherit; padding: 8px 10px;
+  }
+  .kats button:disabled { opacity: .45; cursor: default; }
+  .kats button:focus-visible { outline: 2px solid var(--tinte); outline-offset: 2px; }
 
   .toast {
     position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%);
@@ -260,6 +270,20 @@ const SOLL = 12;
    Zwei Literale waeren also nicht nur Redundanz, sondern eine Fokus-Runde
    ueber das Stichwort "12 neue". */
 const MEHR_LABEL = `${SOLL} neue`;
+
+/* Kategorie-Runden per Knopf statt getippt (09.08.2026). Der Generator kennt
+   drei Fokus-Modi: Kategorie, Stichwort, Entwurf. Die Kategorie war die
+   einzige, die man auswendig wissen musste ("meta", "swiss news"), darum
+   steht sie jetzt als Knopfleiste da. Der gesendete Wert MUSS zu _KAT_ALIAS
+   in tages_anstoss.py passen, sonst landet er als gewoehnliches Stichwort. */
+const KATEGORIEN = [
+  ['Meta', 'meta'],
+  ['Swiss News', 'swiss news'],
+  ['Politisch', 'politisch'],
+  ['Doppelmoral', 'doppelmoral'],
+  ['Persönlich', 'persönlich'],
+  ['Linke Themen', 'linke themen'],
+];
 document.getElementById('reload').onclick = () => location.reload();
 
 /* Daten am Pages-Build vorbei laden. Gemessen 06.08.2026: das Skript
@@ -457,10 +481,25 @@ function renderNachschub() {
     box.innerHTML = `
       <div class="alldone" id="morenote"></div>
       <div class="nachschub">
-        <input class="fokus" id="fokusinput" placeholder="optional: Stichwort">
+        <input class="fokus" id="fokusinput" placeholder="optional: Stichwort oder ganzer Satz">
         <button class="b-more">${MEHR_LABEL}</button>
-      </div>`;
+      </div>
+      <div class="kats"></div>`;
     box.querySelector('.b-more').onclick = requestMore;
+    const kats = box.querySelector('.kats');
+    KATEGORIEN.forEach(([label, wort]) => {
+      const b = document.createElement('button');
+      b.textContent = label;
+      b.dataset.kat = wort;
+      // Ein Tap loest die Runde aus, wie bei den Sternen und den Gruenden.
+      // Der Doppeldruck-Riegel in requestMore() gilt weiter.
+      b.onclick = () => {
+        const feld = document.getElementById('fokusinput');
+        if (feld) feld.value = wort;
+        requestMore();
+      };
+      kats.appendChild(b);
+    });
     liste.appendChild(box);
     const laeuft = pendingSeit();
     if (laeuft !== null) watchForNew(box.querySelector('.b-more'), laeuft);
@@ -469,6 +508,15 @@ function renderNachschub() {
   document.getElementById('morenote').textContent = offen
     ? `${offen} noch offen. Neue Runde ersetzt die ganze Liste.`
     : 'Alles beurteilt.';
+}
+
+/* Kategorie-Knoepfe mitsperren, solange eine Runde laeuft. Sonst sieht nur
+   der Hauptknopf gesperrt aus und ein Tap auf "Meta" wirkt, als waere er
+   verpufft (das Issue kaeme zwar nicht doppelt, aber der Toast erklaert es
+   erst nach dem Tippen). */
+function katsSperren(an) {
+  document.querySelectorAll('#morebox .kats button')
+    .forEach(b => { b.disabled = !!an; });
 }
 
 async function requestMore() {
@@ -481,6 +529,7 @@ async function requestMore() {
     return;
   }
   b.disabled = true; b.textContent = 'Angefordert …';
+  katsSperren(true);
   const stamp = new Date().toLocaleString('de-CH');
   const fokus = (document.getElementById('fokusinput')?.value || '').trim();
   const res = await sendIssue(`MEHR: ${fokus || MEHR_LABEL}`,
@@ -495,6 +544,7 @@ async function requestMore() {
     // Nicht gesendet heisst: der Laptop erfaehrt nichts davon. Das bleibt
     // sichtbar stehen, statt nach 1,6 Sekunden mit dem Toast zu verschwinden.
     b.disabled = false; b.textContent = 'nicht gesendet, nochmal';
+    katsSperren(false);
     zeigeStau();
   }
 }
@@ -522,6 +572,7 @@ async function watchForNew(b, startSek, labelZurueck) {
   const t0 = Date.now() - (startSek || 0) * 1000;
   const zurueck = labelZurueck || MEHR_LABEL;
   if (b) b.disabled = true;
+  katsSperren(true);
   let zahl = 0;
   try {
     while (true) {
@@ -552,6 +603,7 @@ async function watchForNew(b, startSek, labelZurueck) {
     localStorage.removeItem(LS_PENDING);
     toast('Keine neue Liste angekommen. Läuft der Laptop?');
     if (b) { b.disabled = false; b.textContent = zurueck; }
+    katsSperren(false);   // sonst bleiben die Kategorien nach dem Timeout tot
   } finally {
     window._watching = false;
   }
