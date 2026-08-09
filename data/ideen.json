@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "4 von 12 da, der Rest lädt noch.",
+  "hinweis": "7 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Endlich gewinnt Demi Vollering die Tour de France der Frauen zum zweiten Mal. Die 50'000 Euro Preisgeld lassen wir so, sonst gewöhnen sie sich noch daran."
+    },
+    {
+      "id": "2026-08-09-2037-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pausenkaffee als Überstundenausgleich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Ich habe keine Work-Life-Balance. Ich habe sechs Überstunden und einen Chef, der den Gutschein für den Pausenkaffee als Ausgleich versteht."
+    },
+    {
+      "id": "2026-08-09-2037-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Unbezahlte Arbeit im BIP eine Null",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Zwischen Kita-Abholung und Waschmaschine mache ich täglich zwei Stunden Arbeit, die niemand zahlt. Zusammen sind das 434 Milliarden Franken im Jahr und im Bruttoinlandprodukt eine Null."
+    },
+    {
+      "id": "2026-08-09-2037-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "95 Milliarden vererbt, mehr als der Bund ausgibt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Vererbt werden in der Schweiz jedes Jahr 95 Milliarden Franken, mehr als der Bund insgesamt ausgibt. Steuerfrei, damit sich Leistung endlich wieder lohnt."
     },
     {
       "id": "2026-08-09-2037-08",
