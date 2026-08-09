@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,36 @@
       "haltbarkeit": "evergreen",
       "format": 2,
       "text": "Ich zahle 480 Franken im Monat an eine Versicherung für den Ernstfall. Sie hat eine eigene Abteilung, die prüft, ob es einer ist."
+    },
+    {
+      "id": "2026-08-09-2212-10",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm gegen Amazonas-Öl",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich lasse die Abwaschmaschine seit sieben Jahren im ECO-Programm laufen. Brasilien finanziert seine Energiewende mit Öl aus dem Amazonas. Wir kommen beide gut voran."
+    },
+    {
+      "id": "2026-08-09-2212-11",
+      "typ": "persönlich",
+      "stichwort": "Odysseus ohne Reisedokument",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Nach Nolans Odyssee will meine Tochter wissen, warum Odysseus zehn Jahre für den Heimweg braucht. Ich sage ihr: kein gültiges Reisedokument."
+    },
+    {
+      "id": "2026-08-09-2212-12",
+      "typ": "persönlich",
+      "stichwort": "10'000 gegen die AfD, bei uns reicht Tempo 30",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Knapp 10'000 Menschen sind am Wochenende für ein AfD-Verbotsverfahren auf die Strasse gegangen. Bei uns im Dorf schafft das nur eine neue Tempo-30-Zone."
     }
   ]
 }
