@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -44,14 +44,14 @@
       "text": "Der Hang stand seit Jahren unter Beobachtung. Gut dokumentiert ist bei uns alles, was wir kommen lassen."
     },
     {
-      "id": "2026-08-09-1802-05",
+      "id": "2026-08-09-1802-05e",
       "typ": "politisch-aktuell",
-      "stichwort": "Giessverbot für Private, Abfüller pumpen weiter",
+      "stichwort": "Sicherheitsfreigabe für ein geschenktes Flugzeug",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "151 Gemeinden verbieten ihrer Bevölkerung das Giessen. Wer Wasser in Flaschen abfüllt, darf weiterpumpen."
+      "format": "frei",
+      "text": "Das Pentagon entzieht einem Beamten die Sicherheitsfreigabe, weil er über Trumps Flugzeug gesprochen hat. Bezahlt hat es Katar."
     },
     {
       "id": "2026-08-09-1802-06",
