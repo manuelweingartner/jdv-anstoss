@@ -1,17 +1,17 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-09-1441-01",
-      "typ": "schnittmenge",
-      "stichwort": "Gramm im Rucksack vs. Abgeordneter im Graben",
-      "plattform": "Instagram + Threads",
+      "id": "2026-08-09-1441-01e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Grönland sagt Nein, der Lastkahn ist schon leer",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Ein Gramm im Rucksack ist ein Strafverfahren. Ein Abgeordneter im Strassengraben ist ein Einzelfall."
+      "format": "frei",
+      "text": "Grönland hat der Ölbohrung widersprochen. Der Lastkahn war da schon entladen."
     },
     {
       "id": "2026-08-09-1441-02",
@@ -84,14 +84,14 @@
       "text": "Fachkräftemangel heisst, dass zu diesem Lohn niemand kommt. Der Lohn steht in keiner Meldung."
     },
     {
-      "id": "2026-08-09-1441-09",
-      "typ": "schnittmenge",
-      "stichwort": "Gutachten als Fitnesstest",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Gute Nachricht für chronisch Kranke: Wer die Gutachten übersteht, war offenbar nie zu krank dafür."
+      "id": "2026-08-09-1441-09e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Letzte Alarmglocke läutet für die Tradition, nicht für den Hitzerekord",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 12,
+      "text": "Schaffhausen hat die letzte aktive Alarmglocke der Schweiz. Sie läutet für die Tradition, nie für den nächsten Hitzerekord."
     },
     {
       "id": "2026-08-09-1441-10",
