@@ -1,67 +1,27 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "6 Ideen aussortiert und nicht ersetzt, Liste hat 6 statt 12.",
-  "fertig": true,
+  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-09-2212-01",
+      "id": "2026-08-09-2333-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Munition eilt, Therapie nicht",
+      "stichwort": "Ermittlung dauerte länger als sein Leben",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Das Pentagon drängt die Rüstungsindustrie, nach dem Irankrieg schneller Munition zu liefern. In derselben Woche heisst es zu Long Covid, wirksame Therapien brauchten eben Zeit."
-    },
-    {
-      "id": "2026-08-09-2212-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Frieden bereits verkündet",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich finde es beruhigend, dass Trump den Frieden für Gaza schon Ende Juli verkündet hat. Was Netanjahu seither macht, ändert am verkündeten Frieden ja nichts."
-    },
-    {
-      "id": "2026-08-09-2212-03",
-      "typ": "schnittmenge",
-      "stichwort": "Rente bis 70, vier Sitzungen im Jahr",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Endlich reden wir ehrlich über die Rente: Wer länger arbeitet, hat länger etwas davon. Ich arbeite bis 70, im Verwaltungsrat, vier Sitzungen im Jahr."
-    },
-    {
-      "id": "2026-08-09-2212-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "180 Überstunden zählt keine App",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Seit Januar zählt meine Uhr jeden Schritt und erinnert mich stündlich ans Atmen. Meine 180 unbezahlten Überstunden zählt sie nicht, die zählt niemand."
-    },
-    {
-      "id": "2026-08-09-2212-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "160'000 Eigenkapital als unsichtbarer Porsche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
       "format": 19,
-      "text": "Für eine Dreizimmerwohnung brauche ich 160'000 Franken Eigenkapital. Das ist ein Porsche, den ich nie sehe, damit die Bank sieht, dass ich einen hätte."
+      "text": "Ich kenne Tupac von einer gebrannten CD. Sein Mordprozess beginnt jetzt in Las Vegas, 29 Jahre später: Die Ermittlung dauerte länger, als er gelebt hat."
     },
     {
-      "id": "2026-08-09-2212-09",
-      "typ": "remix",
-      "stichwort": "Ernstfall-Abteilung der Versicherung",
+      "id": "2026-08-09-2333-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Taliban werben um Touristen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 2,
-      "text": "Ich zahle 480 Franken im Monat an eine Versicherung für den Ernstfall. Sie hat eine eigene Abteilung, die prüft, ob es einer ist."
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Fünf Jahre nach der Machtübernahme öffnen die Taliban Afghanistan für Touristen. Im Reiseprospekt stehen Berge, Gastfreundschaft und Ruhe, im Land stehen Frauen nicht mehr im Weg."
     }
   ]
 }
