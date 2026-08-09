@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Erfreulich, dass die gefährlichen Bergrouten jetzt gesperrt sind. Damit ist die Klimaanpassung planmässig abgeschlossen."
+    },
+    {
+      "id": "2026-08-09-1122-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vertrauensarbeitszeit ohne Gegenvertrauen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Vertrauensarbeitszeit: Das Vertrauen geht in die eine Richtung, die Stunden in die andere."
+    },
+    {
+      "id": "2026-08-09-1122-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Altersvorsorge in Rüstungsfirmen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Beruhigend, dass unsere Altersvorsorge krisensicher angelegt ist. In Firmen, die Krisen herstellen."
+    },
+    {
+      "id": "2026-08-09-1122-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mindestlohn wird geprüft, Höchstlohn nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Der Mindestlohn wird auf volkswirtschaftliche Folgen geprüft. Der Höchstlohn auf Neid."
     },
     {
       "id": "2026-08-09-1122-08",
