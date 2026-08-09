@@ -1,127 +1,37 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-09-1222-01",
+      "id": "2026-08-09-1227-10",
       "typ": "politisch-aktuell",
-      "stichwort": "Hitzetote als Beleg fuer Anpassung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Beruhigend, dass diesen Sommer vor allem Menschen an der Hitze sterben, die sowieso schon krank waren. So bleibt die Statistik sauber."
-    },
-    {
-      "id": "2026-08-09-1222-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bahn erklaert die Verspaetung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Gute Nachricht aus der Konzernleitung: Wir haben die Ursachen der Verspätungen gefunden. Sie heissen Fahrgäste und wir arbeiten daran."
-    },
-    {
-      "id": "2026-08-09-1222-03e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kirchen wollen mehr Mitsprache",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die Kirchen wollen wieder mehr Mitsprache in der Politik. Die Steuerbefreiung war also nur die Probephase."
-    },
-    {
-      "id": "2026-08-09-1222-04e",
-      "typ": "schnittmenge",
-      "stichwort": "Postkarten statt Besuch",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ein Altersheim bekommt jetzt Postkarten aus Grönland und Fidschi. Aus dem Nachbardorf kommt weiterhin niemand."
-    },
-    {
-      "id": "2026-08-09-1222-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ermittlung gegen den, der es meldete",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Wir nehmen Antisemitismus sehr ernst. Deshalb ermitteln wir mit voller Härte gegen den, der ihn öffentlich gemacht hat."
-    },
-    {
-      "id": "2026-08-09-1222-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Spendenskandal als Ankunft in der Mitte",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Beruhigend, dass die Anti-Establishment-Partei jetzt auch Spendenaffären hat. Damit ist sie endlich in der Mitte angekommen."
-    },
-    {
-      "id": "2026-08-09-1222-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Flugabwehr als Wachstumsmarkt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Beruhigend, dass die Flugabwehr immer genau dort Lücken hat, wo unsere Auftragsbücher noch Platz haben."
-    },
-    {
-      "id": "2026-08-09-1222-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pentagon-Geld an Unis",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Schön, dass die Wissenschaft endlich wieder unabhängig forschen darf. Wir sagen ihr ja nur, woran."
-    },
-    {
-      "id": "2026-08-09-1222-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Erbschaft als Leistungsnachweis",
+      "stichwort": "Wasser wird knapp, endlich ein Preis",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "text": "Ich finde es richtig, dass jeder für sein Vermögen etwas leisten muss. Meine Grossmutter zum Beispiel ist gestorben.",
-      "format": 13
+      "format": 13,
+      "text": "Gute Nachricht: Wasser wird knapp. Endlich bekommt es einen Preis, den sich nicht mehr jeder leisten kann."
     },
     {
-      "id": "2026-08-09-1222-10e",
+      "id": "2026-08-09-1227-11",
       "typ": "politisch-aktuell",
-      "stichwort": "Rüstungsgeld an Hochschulen",
+      "stichwort": "Verbote für Rasen, nicht für Fabriken",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Universitäten nehmen Millionen vom Verteidigungsministerium. Studierende, die dagegen protestieren, gefährden die Freiheit der Forschung."
+      "format": 13,
+      "text": "Schön, dass wir uns einig sind: Beim Wassersparen fangen wir bei den Gärten an. Unsere Werkhallen sparen schon seit Jahren nicht."
     },
     {
-      "id": "2026-08-09-1222-11",
-      "typ": "schnittmenge",
-      "stichwort": "Bank findet Bargeld gefährlich",
+      "id": "2026-08-09-1227-12",
+      "typ": "politisch-aktuell",
+      "stichwort": "Notstand als Aktionärsgeschenk",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Wir bei der Bank finden Bargeld gefährlich. Damit kann jeder sein Geld aufbewahren, ohne uns dafür zu bezahlen."
-    },
-    {
-      "id": "2026-08-09-1222-12",
-      "typ": "schnittmenge",
-      "stichwort": "Bildung muss etwas kosten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich finde es richtig, dass Bildung etwas kosten muss. Sonst studieren am Ende Leute, die es nötig haben."
+      "text": "Beruhigend, dass der Notstand immer erst ausgerufen wird, wenn das Löschen teurer ist als das Verhindern gewesen wäre."
     }
   ]
 }
