@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 10 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -54,24 +54,14 @@
       "text": "Ich habe fünf Wochen Ferien im Jahr, meine Tochter dreizehn. Die restlichen acht löst ein Land mit Fachkräftemangel seit dreissig Jahren über Grossmütter."
     },
     {
-      "id": "2026-08-09-2333-06",
+      "id": "2026-08-09-2333-07e",
       "typ": "politisch-aktuell",
-      "stichwort": "1974 gebaut, dreimal abbezahlt, heisst Risiko",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Ich zahle 1'900 Franken Miete für eine Wohnung, die 1974 gebaut und dreimal abbezahlt wurde. Der Eigentümer nennt das sein Risiko."
-    },
-    {
-      "id": "2026-08-09-2333-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "11,85 Prozent Konzern, 26 Prozent ich",
+      "stichwort": "Energiewende auf Öl gebaut",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Endlich mal Klartext beim Steuerwettbewerb: Wer als Konzern 11,85 Prozent zahlt, schafft Arbeitsplätze. Ich zahle 26 und schaffe offenbar Verwaltungsaufwand."
+      "format": "frei",
+      "text": "Lula will Brasiliens Energiewende mit Erdöl aus dem Amazonas bezahlen. Ich bezahle meine Zahnarztrechnungen auch am liebsten mit Zucker."
     },
     {
       "id": "2026-08-09-2333-08",
@@ -94,34 +84,24 @@
       "text": "Ich trage seit vier Jahren Glasflaschen in den vierten Stock, damit kein Mikroplastik in mich kommt. Es ist trotzdem drin, gemessen wird aber weiter bei mir."
     },
     {
-      "id": "2026-08-09-2333-10",
-      "typ": "persönlich",
-      "stichwort": "Wachhund umgekehrt",
+      "id": "2026-08-09-2333-11e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bonus erst jetzt an Pünktlichkeit",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Ich habe mir keinen Wachhund geholt, sondern 45 Kilo Herdenschutzhund aus Rumänien, gezüchtet gegen Wölfe. Seither bewache ich ihn."
-    },
-    {
-      "id": "2026-08-09-2333-11",
-      "typ": "persönlich",
-      "stichwort": "Ladekabel und AfD-Verbot am selben Tag",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Am Sonntag habe ich 40 Minuten nach einem Ladekabel gesucht. Am selben Tag gingen 10'000 Menschen für ein AfD-Verbot auf die Strasse. Gefunden hat am Ende niemand etwas."
+      "format": 14,
+      "text": "Ich ärgere mich nicht über die Verspätungen der Bahn. Sondern darüber, dass ein Verkehrsminister die Boni überhaupt erst noch an Pünktlichkeit knüpfen muss."
     },
     {
-      "id": "2026-08-09-2333-12",
-      "typ": "persönlich",
-      "stichwort": "Miete in Armeesekunden",
+      "id": "2026-08-09-2333-12e",
+      "typ": "schnittmenge",
+      "stichwort": "Frauen-Tour nur aus Versehen gesehen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich zahle 1'700 Franken Miete im Monat (echtes Detail einsetzen). Die Armee gibt denselben Betrag alle neun Sekunden aus, und niemand verlangt von ihr eine Kaution."
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ich habe den zweiten Gesamtsieg von Demi Vollering an der Tour de France der Frauen nur mitbekommen, weil ich nach der Männer-Tour vergessen hatte auszuschalten."
     }
   ]
 }
