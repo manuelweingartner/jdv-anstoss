@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Auch die Fünftagewoche galt mal als Untergang der Wirtschaft. Durchgesetzt haben sie angeblich Faule."
+    },
+    {
+      "id": "2026-08-09-1357-04",
+      "typ": "schnittmenge",
+      "stichwort": "Kapital passiert die Grenze ohne Papiere",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich finde es richtig, dass Kapital die Grenze frei passiert. Es hat ja keine Papiere, die jemanden stören."
+    },
+    {
+      "id": "2026-08-09-1357-05",
+      "typ": "schnittmenge",
+      "stichwort": "Vermögen wächst im Schlaf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Vermögen wächst im Schlaf. Deswegen erklärt man Arbeitenden, dass sich Leistung lohnt."
+    },
+    {
+      "id": "2026-08-09-1357-06",
+      "typ": "schnittmenge",
+      "stichwort": "Produktivität verdoppelt, Arbeitszeit nicht halbiert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die Produktivität hat sich verdoppelt, die Arbeitszeit nicht halbiert. Den Rest hat jemand mitgenommen."
     },
     {
       "id": "2026-08-09-1357-07",
