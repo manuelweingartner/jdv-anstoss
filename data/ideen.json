@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "5 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-09-2212-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rentenalter 70, wer früh stirbt leistet mehr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich finde es richtig, dass wir wieder über Rentenalter 70 reden. Wer mit 68 stirbt, spart zwei Jahre Rente und leistet damit mehr als jede Reform."
+    },
+    {
+      "id": "2026-08-09-2212-04",
+      "typ": "schnittmenge",
+      "stichwort": "Amt: 14 Monate Bearbeitung als Bedürfnisprüfung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Gute Nachricht aus dem Amt: Ihr Antrag ist seit vierzehn Monaten in Bearbeitung. Wer so lange wartet, braucht das Geld erfahrungsgemäss nicht mehr dringend."
+    },
     {
       "id": "2026-08-09-2212-05",
       "typ": "politisch-aktuell",
