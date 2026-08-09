@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "5 von 12 da, der Rest lädt noch.",
+  "hinweis": "8 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Endlich hat der Mittelstand verstanden, dass er sich mit den Armen streiten soll und nicht mit uns."
+    },
+    {
+      "id": "2026-08-09-1756-10",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm gegen Niedrigwasser",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seit sieben Jahren läuft meine Abwaschmaschine auf ECO. Der Rhein liegt trotzdem trocken. Vielleicht liegt es an mir."
+    },
+    {
+      "id": "2026-08-09-1756-11",
+      "typ": "persönlich",
+      "stichwort": "Amerika vermisst Schweizer Touristen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Amerika vermisst Schweizer Touristen. Meine Tochter fragt, ob man dort wieder rauskommt."
+    },
+    {
+      "id": "2026-08-09-1756-12",
+      "typ": "persönlich",
+      "stichwort": "Hund aus Rumänien, bestens integriert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Mein Hund kam aus Rumänien, spricht kein Wort Deutsch und gilt hier als bestens integriert."
     }
   ]
 }
