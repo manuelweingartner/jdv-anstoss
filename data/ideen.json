@@ -35,63 +35,63 @@
     },
     {
       "id": "2026-08-09-1357-04",
-      "typ": "schnittmenge",
-      "stichwort": "Kapital passiert die Grenze ohne Papiere",
+      "typ": "politisch-aktuell",
+      "stichwort": "Arbeit muss sich lohnen, darum arbeiten Reiche nicht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Ich finde es richtig, dass Kapital die Grenze frei passiert. Es hat ja keine Papiere, die jemanden stören."
+      "text": "Ich finde es richtig, dass sich Arbeit lohnen muss. Deshalb arbeiten die Reichsten von uns nicht."
     },
     {
       "id": "2026-08-09-1357-05",
-      "typ": "schnittmenge",
-      "stichwort": "Vermögen wächst im Schlaf",
+      "typ": "politisch-aktuell",
+      "stichwort": "Markt hat die Wohnungsnot geregelt, sie bleibt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Vermögen wächst im Schlaf. Deswegen erklärt man Arbeitenden, dass sich Leistung lohnt."
+      "text": "Der Markt regelt die Wohnungsnot seit dreissig Jahren. Sein Ergebnis liegt vor: Sie bleibt."
     },
     {
       "id": "2026-08-09-1357-06",
-      "typ": "schnittmenge",
-      "stichwort": "Produktivität verdoppelt, Arbeitszeit nicht halbiert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die Produktivität hat sich verdoppelt, die Arbeitszeit nicht halbiert. Den Rest hat jemand mitgenommen."
-    },
-    {
-      "id": "2026-08-09-1357-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Care-Arbeit kostet niemanden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Care-Arbeit heisst so, weil sie niemanden etwas kostet. Ausser die, die sie machen."
-    },
-    {
-      "id": "2026-08-09-1357-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Unbezahlbare Arbeitszeit, geheime Boni",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kürzere Arbeitszeit sei unbezahlbar, sagt der Chef, dessen Bonusrunde Betriebsgeheimnis ist."
-    },
-    {
-      "id": "2026-08-09-1357-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Milliardär als nicht ausgezahlter Lohn",
+      "stichwort": "Zwanzig Millionen bekommt nur, wer nichts braucht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Es gibt keine Selfmade-Milliardäre. Es gibt Löhne, die jemand nicht ausgezahlt hat."
+      "text": "Zwanzig Millionen im Jahr braucht kein Mensch. Bekommen tut sie nur, wer nichts braucht."
+    },
+    {
+      "id": "2026-08-09-1357-07",
+      "typ": "schnittmenge",
+      "stichwort": "Care-Arbeit heisst Liebe, Lücke heisst Fachkräftemangel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Arbeit, für die niemand bezahlt, heisst Liebe. Arbeit, die niemand machen will, heisst Fachkräftemangel."
+    },
+    {
+      "id": "2026-08-09-1357-08",
+      "typ": "schnittmenge",
+      "stichwort": "Leistungsprinzip versagt oben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 2,
+      "text": "Der Kapitalismus belohnt Leistung so zuverlässig, dass die Reichsten längst keine mehr erbringen müssen."
+    },
+    {
+      "id": "2026-08-09-1357-09",
+      "typ": "schnittmenge",
+      "stichwort": "Enteignung nennt es, wer nicht erklären kann",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Enteignung finden vor allem Leute radikal, deren Vermögen niemand mehr erklären kann."
     },
     {
       "id": "2026-08-09-1357-10",
