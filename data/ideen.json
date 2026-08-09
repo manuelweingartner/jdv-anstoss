@@ -1,117 +1,37 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
-  "fertig": true,
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-09-1357-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Care-Arbeit hat zwei Namen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Wir haben zwei Wörter für dieselbe Arbeit. Beruf, wenn sie bezahlt wird. Liebe, wenn nicht."
-    },
-    {
-      "id": "2026-08-09-1357-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Sozialabbau finanziert Drohnen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Endlich rechnet sich der Sozialstaat: Jedes gestrichene Programm finanziert ungefähr eine halbe Drohne."
-    },
-    {
-      "id": "2026-08-09-1357-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fünftagewoche war auch mal Untergang",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Auch die Fünftagewoche galt mal als Untergang der Wirtschaft. Durchgesetzt haben sie angeblich Faule."
-    },
-    {
-      "id": "2026-08-09-1357-04e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kälte als Luxusgut",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kälte wird gerade zum Luxusgut. Die Klimakrise trifft endlich auch die Richtigen, nämlich zuerst alle anderen."
-    },
-    {
-      "id": "2026-08-09-1357-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Markt hat die Wohnungsnot geregelt, sie bleibt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der Markt regelt die Wohnungsnot seit dreissig Jahren. Sein Ergebnis liegt vor: Sie bleibt."
-    },
-    {
-      "id": "2026-08-09-1357-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwanzig Millionen bekommt nur, wer nichts braucht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Zwanzig Millionen im Jahr braucht kein Mensch. Bekommen tut sie nur, wer nichts braucht."
-    },
-    {
-      "id": "2026-08-09-1357-07e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Forschungszentrum gegen Drohnen",
+      "id": "2026-08-09-1441-04",
+      "typ": "schnittmenge",
+      "stichwort": "Sonntagsruhe endet beim Wasserstand",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 2,
-      "text": "Ein Land, das jahrelang Drohnenabwehr gebaut hat, gründet nun ein Forschungszentrum. Thema: Drohnen."
-    },
-    {
-      "id": "2026-08-09-1357-09",
-      "typ": "schnittmenge",
-      "stichwort": "Enteignung nennt es, wer nicht erklären kann",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Enteignung finden vor allem Leute radikal, deren Vermögen niemand mehr erklären kann."
-    },
-    {
-      "id": "2026-08-09-1357-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Produktivität steigt, Arbeitszeit nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Beruhigend: Die Produktivität steigt seit Jahrzehnten, die Arbeitszeit nicht. Sonst wüsste niemand, wohin mit dem Gewinn."
-    },
-    {
-      "id": "2026-08-09-1357-11",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leerstand ist Abschreibung, Besetzung ist Straftat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Wer eine Wohnung besetzt, bekommt die Polizei. Wer hundert Wohnungen leer stehen lässt, bekommt eine Abschreibung."
+      "text": "Die Sonntagsruhe ist heilig, bis ein Fluss zu wenig Wasser hat. Dann fährt sie Lastwagen."
     },
     {
-      "id": "2026-08-09-1357-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "Care-Arbeit lässt sich nicht bestreiken",
+      "id": "2026-08-09-1441-05",
+      "typ": "schnittmenge",
+      "stichwort": "Öl vor Grönland trotz Nein der Insel",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Beruhigend, dass Souveränität weiter gilt. Sie beginnt einfach erst unterhalb der Ölgrenze."
+    },
+    {
+      "id": "2026-08-09-1441-06",
+      "typ": "schnittmenge",
+      "stichwort": "Entlastung schrumpft je nach Kontostand",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Care-Arbeit ist unbezahlt, weil man sie nicht verweigern kann. Streiken kann nur, wer ersetzbar ist."
+      "text": "Eine Entlastung für alle wird im Gesetzestext kleiner. Aber nur an einem Ende der Tabelle."
     }
   ]
 }
