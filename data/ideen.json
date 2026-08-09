@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "11 von 12 da, Dubletten-Check läuft noch.",
+  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
   "fertig": true,
   "ideen": [
     {
@@ -76,42 +76,52 @@
     {
       "id": "2026-08-09-2333-08",
       "typ": "schnittmenge",
-      "stichwort": "15 Punkte abgelehnt, Frieden kostet die Mehrheit",
-      "plattform": "Threads + Bluesky + Instagram",
+      "stichwort": "Pendeluhren gesucht, Netanjahu nicht",
+      "plattform": "Instagram + Threads",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Netanjahu lehnt Trumps 15-Punkte-Friedensplan für Gaza ab. Ich verstehe das: Wer den Krieg gewinnt, verliert bei jedem Frieden automatisch die Mehrheit."
+      "format": 18,
+      "text": "Aus einem Museum in Le Locle sind historische Pendeluhren verschwunden, die Polizei fahndet. Netanjahu lehnt am selben Tag Trumps 15-Punkte-Friedensplan ab, nach ihm fahndet niemand."
     },
     {
       "id": "2026-08-09-2333-09",
       "typ": "remix",
-      "stichwort": "Ladegerät ziehen gegen die Katze im Anzug",
+      "stichwort": "Glasflaschen in den vierten Stock, gemessen wird bei mir",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich ziehe jedes Ladegerät aus der Dose, sobald das Handy voll ist. Ein Rechenzentrum hat in derselben Zeit vier Bilder von einer Katze im Anzug erzeugt."
+      "format": 10,
+      "text": "Ich trage seit vier Jahren Glasflaschen in den vierten Stock, damit kein Mikroplastik in mich kommt. Es ist trotzdem drin, gemessen wird aber weiter bei mir."
     },
     {
       "id": "2026-08-09-2333-10",
       "typ": "persönlich",
-      "stichwort": "ECO-Programm gegen Amazonas-Öl",
+      "stichwort": "Wachhund umgekehrt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Ich habe mir keinen Wachhund geholt, sondern 45 Kilo Herdenschutzhund aus Rumänien, gezüchtet gegen Wölfe. Seither bewache ich ihn."
+    },
+    {
+      "id": "2026-08-09-2333-11",
+      "typ": "persönlich",
+      "stichwort": "Ladekabel und AfD-Verbot am selben Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich stelle die Abwaschmaschine seit sieben Jahren aus Prinzip auf ECO. Brasilien bohrt jetzt an der Amazonasmündung nach Öl, um die Energiewende zu bezahlen."
+      "text": "Am Sonntag habe ich 40 Minuten nach einem Ladekabel gesucht. Am selben Tag gingen 10'000 Menschen für ein AfD-Verbot auf die Strasse. Gefunden hat am Ende niemand etwas."
     },
     {
       "id": "2026-08-09-2333-12",
       "typ": "persönlich",
-      "stichwort": "Tochter fragt nach zehntausend gegen die AfD",
+      "stichwort": "Miete in Armeesekunden",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 5,
-      "text": "Meine Tochter hört, dass zehntausend Leute ein AfD-Verbot fordern, und fragt, ob das reicht. Ich sage ihr, dafür braucht es Richter, keine Menschen."
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich zahle 1'700 Franken Miete im Monat (echtes Detail einsetzen). Die Armee gibt denselben Betrag alle neun Sekunden aus, und niemand verlangt von ihr eine Kaution."
     }
   ]
 }
