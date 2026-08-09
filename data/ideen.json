@@ -36,32 +36,32 @@
     {
       "id": "2026-08-09-1441-04",
       "typ": "schnittmenge",
-      "stichwort": "Sonntagsruhe endet beim Wasserstand",
+      "stichwort": "Grenze überqueren vs. Insel anbohren",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Die Sonntagsruhe ist heilig, bis ein Fluss zu wenig Wasser hat. Dann fährt sie Lastwagen."
+      "text": "Wer ohne Erlaubnis eine Grenze überquert, kriegt die Küstenwache. Wer ohne Erlaubnis eine Insel anbohrt, kriegt Rendite."
     },
     {
       "id": "2026-08-09-1441-05",
       "typ": "schnittmenge",
-      "stichwort": "Öl vor Grönland trotz Nein der Insel",
+      "stichwort": "Steuerentlastung, von der nichts übrig bleibt",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Beruhigend, dass Souveränität weiter gilt. Sie beginnt einfach erst unterhalb der Ölgrenze."
+      "text": "Gute Nachricht: Von der Steuerentlastung bleibt am Ende kaum etwas übrig. So merkt niemand, bei wem sie ankam."
     },
     {
       "id": "2026-08-09-1441-06",
       "typ": "schnittmenge",
-      "stichwort": "Entlastung schrumpft je nach Kontostand",
+      "stichwort": "Körperbild: Erziehung gegen Branche",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Eine Entlastung für alle wird im Gesetzestext kleiner. Aber nur an einem Ende der Tabelle."
+      "text": "Kindern beibringen, ihren Körper zu mögen, nennt man Erziehung. Ihnen das Gegenteil zu verkaufen, nennt man Markt."
     },
     {
       "id": "2026-08-09-1441-07",
@@ -96,32 +96,32 @@
     {
       "id": "2026-08-09-1441-10",
       "typ": "schnittmenge",
-      "stichwort": "Beweislast liegt immer beim Antrag",
+      "stichwort": "Fahrraddiebstahl vs. Lohn nicht ausgezahlt",
       "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Wer eine Leistung beantragt, muss alles belegen. Wer sie ablehnt, muss gar nichts."
+      "text": "Wer ein Fahrrad stiehlt, ist kriminell. Wer Löhne nicht auszahlt, hat ein Liquiditätsproblem."
     },
     {
       "id": "2026-08-09-1441-11",
       "typ": "schnittmenge",
-      "stichwort": "Preisanpassung kennt nur eine Richtung",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Preisanpassung heisst es nur nach oben. Nach unten heisst es nie."
-    },
-    {
-      "id": "2026-08-09-1441-12",
-      "typ": "schnittmenge",
-      "stichwort": "Nicht ausgezahlter Lohn ist kein Diebstahl",
+      "stichwort": "Milliardärs-Stiftung als Steuerfrage",
       "plattform": "Threads + Bluesky + Instagram",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Schön, dass Diebstahl hart bestraft wird. Nicht ausgezahlter Lohn ist zum Glück kein Diebstahl, sondern ein Streitfall."
+      "text": "Endlich ein Milliardär, der etwas zurückgibt. Genau so viel, dass die Stiftung steuerfrei bleibt."
+    },
+    {
+      "id": "2026-08-09-1441-12",
+      "typ": "schnittmenge",
+      "stichwort": "Austherapiert heisst budgetiert",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Austherapiert heisst nicht, dass die Therapie vorbei ist. Sondern das Budget."
     }
   ]
 }
