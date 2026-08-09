@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "4 von 12 da, der Rest lädt noch.",
+  "hinweis": "6 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Meine Brille liegt seit heute im See, die neue kostet 640 Franken. Ich finde es richtig: Wer scharf sehen will, soll es sich verdienen."
+    },
+    {
+      "id": "2026-08-09-1820-08",
+      "typ": "schnittmenge",
+      "stichwort": "Brille im See, Sehen als Hobby",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Meine Brille liegt seit heute im See. Nicht die 480 Franken ärgern mich, sondern dass Sehen bei der Krankenkasse als Hobby gilt."
+    },
+    {
+      "id": "2026-08-09-1820-09",
+      "typ": "remix",
+      "stichwort": "Elf Meter öffentliches Seeufer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe heute meine Brille im See verloren, am öffentlichen Uferstück. Das ist elf Meter lang, der Rest gehört Leuten, die nie baden gehen."
     }
   ]
 }
