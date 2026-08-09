@@ -1,117 +1,37 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
-  "fertig": true,
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-09-1347-01",
+      "id": "2026-08-09-1357-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Melancholie heisst jetzt Sonntagabend",
+      "stichwort": "Care-Arbeit hat zwei Namen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 3,
-      "text": "Früher nannte man es Melancholie, und die Betroffenen schwiegen. Heute nennt man es Sonntagabend, und sie tracken ihren Schlaf."
+      "text": "Wir haben zwei Wörter für dieselbe Arbeit. Beruf, wenn sie bezahlt wird. Liebe, wenn nicht."
     },
     {
-      "id": "2026-08-09-1347-02",
+      "id": "2026-08-09-1357-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Militär für den Feriensonntag",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Spanien mobilisiert für einen Feriensonntag das Militär. Wir Arbeitgeber sparen uns das: Bei uns diszipliniert der Montag gratis."
-    },
-    {
-      "id": "2026-08-09-1347-03",
-      "typ": "schnittmenge",
-      "stichwort": "Sonntag heilig, Aufgaben ab Freitag",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich finde es richtig, dass der Sonntag heilig bleibt. Deshalb schicken wir die Aufgaben für Montag schon am Freitag."
-    },
-    {
-      "id": "2026-08-09-1347-04e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mehr Ausnahmen als Sonntage",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Das Verbot der Sonntagsarbeit kennt inzwischen mehr Ausnahmen als der Kalender Sonntage."
-    },
-    {
-      "id": "2026-08-09-1347-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ruhetag endet beim Mittagessen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Der Sonntag ist gesetzlich geschützt. Der Montag in deinem Kopf schon ab dem Mittagessen nicht."
-    },
-    {
-      "id": "2026-08-09-1347-06e",
-      "typ": "schnittmenge",
-      "stichwort": "App gegen die Angst, nicht gegen den Grund",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Es gibt Apps gegen die Angst vor dem Montag, aber keine gegen den Montag."
-    },
-    {
-      "id": "2026-08-09-1347-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Sonntagsangst als Vermögensfrage",
+      "stichwort": "Sozialabbau finanziert Drohnen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Sonntagabends nervös zu werden ist kein Charakterfehler. Es ist eine Frage des Kontostands."
+      "format": 13,
+      "text": "Endlich rechnet sich der Sozialstaat: Jedes gestrichene Programm finanziert ungefähr eine halbe Drohne."
     },
     {
-      "id": "2026-08-09-1347-08e",
+      "id": "2026-08-09-1357-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Sonntagsarbeit taucht in keiner Statistik auf",
+      "stichwort": "Fünftagewoche war auch mal Untergang",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Am Sonntag wird gekocht, geputzt und die ganze Woche vorbereitet. Volkswirtschaftlich ist das der Tag, an dem nichts passiert."
-    },
-    {
-      "id": "2026-08-09-1347-10",
-      "typ": "persönlich",
-      "stichwort": "Tochter freut sich auf Montag",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 5,
-      "text": "Meine Tochter freut sich auf den Montag. Offenbar habe ich ihr noch nicht alles erzählt."
-    },
-    {
-      "id": "2026-08-09-1347-11",
-      "typ": "persönlich",
-      "stichwort": "Sonntags nachrechnen, montags hochrechnen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Sonntags rechne ich nach, ob die Miete noch geht. Montags rechnet der Vermieter, ob mehr geht."
-    },
-    {
-      "id": "2026-08-09-1347-12e",
-      "typ": "schnittmenge",
-      "stichwort": "Der freie Tag hat einen Gott, der Arbeitstag nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der freie Sonntag stammt von einer Religion, an die kaum jemand mehr glaubt. Der Montag braucht keinen Gott."
+      "text": "Auch die Fünftagewoche galt mal als Untergang der Wirtschaft. Durchgesetzt haben sie angeblich Faule."
     }
   ]
 }
