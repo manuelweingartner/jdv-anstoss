@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -44,14 +44,14 @@
       "text": "Endlich mal ein Konzern mit Haltung: Solange Iran die Strasse von Hormus dichthält, geben wir die Unsicherheit an der Zapfsäule eins zu eins weiter. Aufgerundet."
     },
     {
-      "id": "2026-08-09-2000-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwoelf Jahre sparen gegen eine Beerdigung",
+      "id": "2026-08-09-2000-05e",
+      "typ": "schnittmenge",
+      "stichwort": "Helmpflicht für mich, zwei Tonnen für niemanden",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe zwölf Jahre für die Anzahlung gespart. Mein Nachbar musste einmal kurz zu einer Beerdigung. Wir gelten beide als Selfmade."
+      "haltbarkeit": "tagesgebunden",
+      "format": 17,
+      "text": "Sicherheit geht vor, sagt Paris und schreibt mir auf dem E-Scooter einen Helm vor. Dem SUV daneben, zwei Tonnen schwer, schreibt es gar nichts vor."
     },
     {
       "id": "2026-08-09-2000-06",
@@ -74,44 +74,34 @@
       "text": "Seit 2022 hat sich die Rheinmetall-Aktie verzehnfacht. Sie liegt auch in meiner Pensionskasse. Immerhin habe ich so etwas vom Krieg."
     },
     {
-      "id": "2026-08-09-2000-08",
+      "id": "2026-08-09-2000-08e",
       "typ": "schnittmenge",
-      "stichwort": "Grenzstreit Spanien/Italien: zwei beleidigte Innenminister",
+      "stichwort": "Beiger Anzug als grösster Skandal",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Obama spielt in einem Sketch seinen beigen Anzug von 2014 nach, den grössten Aufreger seiner Amtszeit. Ich hätte gern wieder Probleme, die man in der Reinigung löst."
+    },
+    {
+      "id": "2026-08-09-2000-09e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wirkstoff gegen Albträume, Zulassung nach Rendite",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Spanien weist seit Samstag Reisende aus Italien ab, als Antwort auf Roms Kontrollen. Nicht die Migration hat Europas Grenzen zurückgebracht. Sondern zwei beleidigte Innenminister."
+      "format": "frei",
+      "text": "Ich habe gelesen, dass ein Cannabis-Wirkstoff gegen belastende Albträume hilft. Verschrieben wird er, sobald jemand ausgerechnet hat, wie viel schlechter Schlaf pro Nacht abwirft."
     },
     {
-      "id": "2026-08-09-2000-09",
-      "typ": "remix",
-      "stichwort": "Ventilator für 19 Franken als Aussenpolitik",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe im Juli einen Ventilator für 19 Franken bestellt. Deutschland importiert aus keinem Land mehr als aus China, und das ist offenbar meine Aussenpolitik."
-    },
-    {
-      "id": "2026-08-09-2000-10",
-      "typ": "persönlich",
-      "stichwort": "ECO-Programm gegen Rechenzentrum",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich lasse die Abwaschmaschine seit sieben Jahren im ECO-Programm laufen, dreieinhalb Stunden pro Ladung. Ein Rechenzentrum hat in der Zeit gelernt, Katzenbilder zu malen."
-    },
-    {
-      "id": "2026-08-09-2000-11",
-      "typ": "persönlich",
-      "stichwort": "Oliven und Cannabis in derselben Woche",
+      "id": "2026-08-09-2000-10e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Roboter kontrolliert die letzte Putzkraft",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich habe diese Woche zwei Meldungen gelesen: im Zürcher Weinland wachsen jetzt Oliven, und Cannabis hilft gegen Albträume. Beides bestellt, das nenne ich jetzt Klimaanpassung."
+      "format": 2,
+      "text": "Gegen den Personalmangel hat ein Hotel in Potsdam einen Roboter angeschafft. Er kontrolliert jetzt, ob die eine Person, die geblieben ist, sauber genug arbeitet."
     },
     {
       "id": "2026-08-09-2000-12",
