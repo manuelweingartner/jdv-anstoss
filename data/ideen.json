@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "11 von 12 da, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -34,14 +34,14 @@
       "text": "Ich freue mich, dass im Zürcher Weinland jetzt Oliven wachsen. Die Klimaziele für 2050 verschieben wir gern noch einmal, solange die Ernte so gut läuft."
     },
     {
-      "id": "2026-08-09-2127-04",
+      "id": "2026-08-09-2127-04e",
       "typ": "politisch-aktuell",
-      "stichwort": "Rentenalter 67, mein Vermögen geht nie in Rente",
+      "stichwort": "Demokratie im Keller überwintert",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Endlich diskutieren wir wieder über das Rentenalter 67. Ich finde das richtig, mein Vermögen arbeitet seit Jahren ohne einen einzigen Beitrag und geht trotzdem nie in Rente."
+      "format": 12,
+      "text": "Ich habe in der Schule gelernt, dass die Schweiz ihre Demokratie durch zwei Weltkriege gerettet hat. Sie lag die ganze Zeit gut verpackt im Keller."
     },
     {
       "id": "2026-08-09-2127-05",
@@ -74,14 +74,14 @@
       "text": "Ich gehe abends an einem Neubau vorbei, in dem seit zwei Jahren kein Fenster beleuchtet ist. Das ist keine Wohnungsnot, das ist ein Tresor mit Balkonen."
     },
     {
-      "id": "2026-08-09-2127-08",
+      "id": "2026-08-09-2127-08e",
       "typ": "schnittmenge",
-      "stichwort": "Nach dem CSD-Anschlag ist die Flagge das Sicherheitsrisiko",
-      "plattform": "Threads + Instagram",
+      "stichwort": "25 Euro fürs Meer, genannt Ferien",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Nach dem Anschlag auf den Berliner CSD ist die Sicherheitslage endlich klar: Gefährlich ist in dieser Stadt vor allem die Regenbogenflagge am Rathaus."
+      "format": "frei",
+      "text": "Gegen private Strände in Italien kämpft jetzt ein 23-jähriger Politiker. Ich habe letzten Sommer 25 Euro bezahlt, um ans Meer zu dürfen, und es Ferien genannt."
     },
     {
       "id": "2026-08-09-2127-09",
@@ -94,24 +94,24 @@
       "text": "Der Familiennachzug für Schutzberechtigte ist seit einem Jahr ausgesetzt, vorher waren es 1'000 Menschen im Monat. Als Härtefall gilt jetzt:\n- schwer krank\n- akut bedroht\n- bereits verstorben"
     },
     {
-      "id": "2026-08-09-2127-10",
+      "id": "2026-08-09-2127-11e",
       "typ": "persönlich",
-      "stichwort": "Kino mit Tochter, Verantwortung als Science-Fiction",
+      "stichwort": "Spinnenseide trägt, Miete nicht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich war mit meiner Tochter im neuen Spider-Man, 19 Franken pro Ticket. Sie fand die Fäden unrealistisch, mich hat gestört, dass jemand im Film Verantwortung übernimmt."
+      "format": 5,
+      "text": "Ich habe meiner Tochter erklärt, dass Spinnenseide Spider-Man laut Forschung wirklich tragen würde. Sie fragt, wie er sich in New York die Wohnung leistet."
     },
     {
-      "id": "2026-08-09-2127-12",
+      "id": "2026-08-09-2127-12e",
       "typ": "persönlich",
-      "stichwort": "Jahresabo gegen einen Kampfjet aufgerechnet",
+      "stichwort": "Pfadfinderlager schlägt Velowegplanung",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Für ein Jahresabo im Zug zahle ich 3'995 Franken. Ein einzelner F-35 kostet 167 Millionen, das sind 41'000 Jahre Zugfahren für Leute wie mich."
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Sechstausend Pfadfinder bauen auf einem Feld Küchen, Werkstätten und ein Zeltdorf, in dem alles geteilt wird. Ich warte seit vier Jahren auf einen Veloweg."
     }
   ]
 }
