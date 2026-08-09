@@ -1,247 +1,27 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-09-165729-v1",
+      "id": "2026-08-09-1756-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: Hitzetote als Beleg fuer Anpassung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Diesen Sommer sterben vor allem Kranke an der Hitze. So bleibt die Statistik gesund."
-    },
-    {
-      "id": "2026-08-09-165729-v2",
-      "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: Hitzetote als Beleg fuer Anpassung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Hitzetote gibt es keine, nur Menschen, die zufällig bei 38 Grad krank waren."
-    },
-    {
-      "id": "2026-08-09-165729-v3",
-      "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: Hitzetote als Beleg fuer Anpassung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Die Wälder brennen nicht wegen des Klimas, sondern wegen Funkenflug. So bleibt die Bilanz sauber."
-    },
-    {
-      "id": "2026-08-09-164856-v1",
-      "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: Hitzetote als Beleg fuer Anpassung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Die Hitzetoten waren fast alle vorerkrankt. Ein Glück, sonst müsste man etwas ändern."
-    },
-    {
-      "id": "2026-08-09-164856-v2",
-      "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: Hitzetote als Beleg fuer Anpassung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Wer gesund ist, übersteht den Sommer. Wer stirbt, war ja schon vorher krank."
-    },
-    {
-      "id": "2026-08-09-164856-v3",
-      "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: Hitzetote als Beleg fuer Anpassung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Die Hitze trifft vor allem Leute ohne Klimaanlage. Also niemanden, den man kennt."
-    },
-    {
-      "id": "2026-08-09-164828-v1",
-      "typ": "schnittmenge",
-      "stichwort": "Variante zu: Lohn nur bis zur Wiederkehr",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Wir zahlen genau so viel, dass Sie morgen wieder hier stehen. Sparen wäre Sabotage."
-    },
-    {
-      "id": "2026-08-09-164828-v2",
-      "typ": "schnittmenge",
-      "stichwort": "Variante zu: Lohn nur bis zur Wiederkehr",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Wer genug verdient, kündigt. Wer knapp verdient, ist motiviert."
-    },
-    {
-      "id": "2026-08-09-164828-v3",
-      "typ": "schnittmenge",
-      "stichwort": "Variante zu: Lohn nur bis zur Wiederkehr",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Sie kriegen genau so viel Ferien, dass Sie sich erholen, aber nichts ändern. Mehr wäre gefährlich."
-    },
-    {
-      "id": "2026-08-09-162323-v1",
-      "typ": "schnittmenge",
-      "stichwort": "Variante zu: Körperbild: Erziehung gegen Branche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kindern beibringen, ihren Körper zu mögen: Erziehung. Ihnen das Gegenteil verkaufen: Quartalsziel."
-    },
-    {
-      "id": "2026-08-09-162323-v2",
-      "typ": "schnittmenge",
-      "stichwort": "Variante zu: Körperbild: Erziehung gegen Branche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die Kosmetikbranche gibt Millionen für Selbstliebe-Kampagnen aus. Ihr Geschäftsmodell braucht, dass die nicht wirken."
-    },
-    {
-      "id": "2026-08-09-162323-v3",
-      "typ": "schnittmenge",
-      "stichwort": "Variante zu: Körperbild: Erziehung gegen Branche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kindern beibringen, mit Geld umzugehen, nennt man Erziehung. Ihnen In-App-Käufe unterschieben, nennt man Wachstum."
-    },
-    {
-      "id": "2026-08-09-1441-01e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Grönland sagt Nein, der Lastkahn ist schon leer",
+      "stichwort": "Niedrigwasser, also mehr Diesel",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Grönland hat der Ölbohrung widersprochen. Der Lastkahn war da schon entladen."
+      "format": 13,
+      "text": "Die Flüsse führen zu wenig Wasser. Gut, dass wir dafür jetzt mehr Diesel verbrennen dürfen."
     },
     {
-      "id": "2026-08-09-1441-02",
+      "id": "2026-08-09-1756-04",
       "typ": "schnittmenge",
-      "stichwort": "Beweislast bei den Kranken, überaffirmiert",
+      "stichwort": "Menschenrechte im Einkauf",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Verständlich, dass Kranke ihre Krankheit erst beweisen müssen. Sonst wäre am Ende jeder krank, der es ist."
-    },
-    {
-      "id": "2026-08-09-1441-03",
-      "typ": "schnittmenge",
-      "stichwort": "Provinz in drei Tagen geräumt, Klima in dreissig Jahren beredet",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Für einen Taifun räumt man in drei Tagen eine ganze Provinz. Für das Klima braucht es dreissig Jahre Gespräche."
-    },
-    {
-      "id": "2026-08-09-1441-04",
-      "typ": "schnittmenge",
-      "stichwort": "Grenze überqueren vs. Insel anbohren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer ohne Erlaubnis eine Grenze überquert, kriegt die Küstenwache. Wer ohne Erlaubnis eine Insel anbohrt, kriegt Rendite."
-    },
-    {
-      "id": "2026-08-09-1441-05",
-      "typ": "schnittmenge",
-      "stichwort": "Steuerentlastung, von der nichts übrig bleibt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Gute Nachricht: Von der Steuerentlastung bleibt am Ende kaum etwas übrig. So merkt niemand, bei wem sie ankam."
-    },
-    {
-      "id": "2026-08-09-1441-06",
-      "typ": "schnittmenge",
-      "stichwort": "Körperbild: Erziehung gegen Branche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kindern beibringen, ihren Körper zu mögen, nennt man Erziehung. Ihnen das Gegenteil zu verkaufen, nennt man Markt."
-    },
-    {
-      "id": "2026-08-09-1441-07",
-      "typ": "schnittmenge",
-      "stichwort": "Verspätung skaliert nach oben",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Zehn Minuten zu spät ist ein Charakterfehler. Zehn Jahre zu spät ist ein Grossprojekt."
-    },
-    {
-      "id": "2026-08-09-1441-08",
-      "typ": "schnittmenge",
-      "stichwort": "Fachkräftemangel ohne Preisangabe",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Fachkräftemangel heisst, dass zu diesem Lohn niemand kommt. Der Lohn steht in keiner Meldung."
-    },
-    {
-      "id": "2026-08-09-1441-09e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Letzte Alarmglocke läutet für die Tradition, nicht für den Hitzerekord",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 12,
-      "text": "Schaffhausen hat die letzte aktive Alarmglocke der Schweiz. Sie läutet für die Tradition, nie für den nächsten Hitzerekord."
-    },
-    {
-      "id": "2026-08-09-1441-10",
-      "typ": "schnittmenge",
-      "stichwort": "Fahrraddiebstahl vs. Lohn nicht ausgezahlt",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer ein Fahrrad stiehlt, ist kriminell. Wer Löhne nicht auszahlt, hat ein Liquiditätsproblem."
-    },
-    {
-      "id": "2026-08-09-1441-11",
-      "typ": "schnittmenge",
-      "stichwort": "Milliardärs-Stiftung als Steuerfrage",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Endlich ein Milliardär, der etwas zurückgibt. Genau so viel, dass die Stiftung steuerfrei bleibt."
-    },
-    {
-      "id": "2026-08-09-1441-12",
-      "typ": "schnittmenge",
-      "stichwort": "Austherapiert heisst budgetiert",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Austherapiert heisst nicht, dass die Therapie vorbei ist. Sondern das Budget."
+      "text": "Menschenrechte sind uns wichtig. Darum beziehen wir sie von dort, wo sie am günstigsten sind."
     }
   ]
 }
