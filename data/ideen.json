@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "11 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -62,6 +62,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Seit vier Hitzewellen ist der See erstaunlich voll, meine Brille liegt trotzdem irgendwo drin. Der Bundesrat und ich haben dasselbe Problem: Wir sehen nichts und tauchen trotzdem weiter."
+    },
+    {
+      "id": "2026-08-09-1955-07",
+      "typ": "schnittmenge",
+      "stichwort": "Brille an der Street Parade versenkt, waehrend rationiert wird",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich habe an der Street Parade meine Brille im See verloren, in derselben Woche, in der 151 Gemeinden das Wasser rationieren. Trocken war da unten nichts."
+    },
+    {
+      "id": "2026-08-09-1955-08",
+      "typ": "schnittmenge",
+      "stichwort": "Brille in Litern Leitungswasser umgerechnet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich habe eine 420-Franken-Brille im See verloren, das sind 200'000 Liter Leitungswasser. Nach vier Hitzewellen lag beides noch da unten, gesehen habe ich nichts davon."
     },
     {
       "id": "2026-08-09-1955-10",
