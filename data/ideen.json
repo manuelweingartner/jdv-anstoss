@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -62,6 +62,36 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Schön, dass der Aufstieg allen offensteht. Den Helikopter nehmen wir trotzdem lieber unter uns."
+    },
+    {
+      "id": "2026-08-09-1227-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Amazonas-Erfolg wird anderswo ausgeglichen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Grossartig, dass im Amazonas so wenig gerodet wird wie seit zehn Jahren nicht. Wir gleichen das anderswo gerne aus."
+    },
+    {
+      "id": "2026-08-09-1227-08",
+      "typ": "schnittmenge",
+      "stichwort": "Stille als letztes unverkauftes Gut",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ein Tal mit zehn Einwohnern und absoluter Stille. Wir kaufen sie, bevor sie noch jemandem gratis zufällt."
+    },
+    {
+      "id": "2026-08-09-1227-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wiederaufbau als Geschäftsmodell",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Wir denken schon an den Wiederaufbau von Odessa. Je gründlicher jetzt zerstört wird, desto grösser unser Anteil daran."
     },
     {
       "id": "2026-08-09-1227-10",
