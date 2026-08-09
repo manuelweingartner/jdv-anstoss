@@ -77,9 +77,20 @@
   .actions .v-ja { background: var(--tinte); color: var(--grund); }
   .actions .v-nein { border-color: var(--nein); color: var(--nein); }
   .actions button:active { transform: translate(1px, 1px); }
+  /* Gleiche Optik wie der Varianten-Knopf im Anstoss: gestrichelt, volle
+     Breite, damit er sich von den drei Entscheid-Knoepfen absetzt. */
+  .v-var {
+    appearance: none; margin-top: 9px; width: 100%; cursor: pointer;
+    border: 1px dashed var(--tinte); border-radius: 0; background: transparent;
+    color: var(--tinte); font: 400 .72rem/1 inherit; padding: 9px;
+    letter-spacing: .04em;
+  }
+  .v-var:disabled { opacity: .5; cursor: default; }
+  .v-var:focus-visible { outline: 2px solid var(--nein); outline-offset: 2px; }
+
   .reasons { display: none; flex-wrap: wrap; gap: 5px; margin-top: 10px; }
   .slot.fragt .reasons { display: flex; }
-  .slot.fragt .actions { display: none; }
+  .slot.fragt .actions, .slot.fragt .v-var { display: none; }
   .reasons button {
     appearance: none; border: 1px dashed var(--nein); border-radius: 0;
     background: transparent; color: var(--nein); cursor: pointer;
@@ -94,7 +105,7 @@
   }
   .genommen::before { content: "\2713  "; }
   .slot.done .genommen { display: block; }
-  .slot.done .actions, .slot.done .reasons { display: none; }
+  .slot.done .actions, .slot.done .reasons, .slot.done .v-var { display: none; }
   .slot.done .posttext, .slot.done .kicker { color: var(--matt); }
 
   .leer { padding: 26px 0; font-size: .8rem; color: var(--matt); }
@@ -300,6 +311,7 @@ function zeile(idee, sterne) {
       <button class="v-ja">nehme ich</button>
       <button class="v-nein">nein</button>
     </div>
+    <button class="v-var">3 Varianten anfordern</button>
     <div class="reasons"></div>
     <div class="genommen"></div>`;
 
@@ -353,6 +365,31 @@ function zeile(idee, sterne) {
       ? (res === 'sent' ? 'Kopiert und gemeldet. Viel Erfolg!' : 'Kopiert. Meldung wartet auf Token.')
       : 'Markiert. Kopieren blockiert, Text bitte markieren.');
     zaehlen();
+  };
+
+  /* Varianten auch aus der Auszählung, seit 09.08.2026. Vorher ging das nur
+     im Anstoss und dort erst ab 4 Sternen. Hier steht der Knopf bei jedem
+     Eintrag: die Auszählung ist die Kurations-Ansicht, dort sitzt Manuel
+     gerade über einer älteren Idee und entscheidet, ob sie mit einem Dreh
+     doch noch taugt. Eine Sternenschwelle wäre da im Weg.
+
+     Wichtig: die Varianten landen im ANSTOSS, nicht hier. `make_variants`
+     hängt sie zuoberst an die aktuelle ideen.json. Der Toast sagt das, sonst
+     sucht man sie auf der falschen Seite. */
+  const varBtn = el.querySelector('.v-var');
+  varBtn.onclick = async () => {
+    varBtn.disabled = true;
+    varBtn.textContent = 'Angefordert …';
+    const res = await sendIssue(`VARIANTE: ${idee.id}`,
+      `Stichwort: ${idee.stichwort}\nText: ${(idee.text || '').slice(0, 140)}\n`
+      + 'Aus der Auszählung angefordert.');
+    toast(res === 'sent'
+      ? 'Angefordert. Die 3 Varianten erscheinen im Anstoss zuoberst.'
+      : 'Gemerkt, wird nach Token-Eingabe gesendet.');
+    if (res !== 'sent') {
+      varBtn.disabled = false;
+      varBtn.textContent = '3 Varianten anfordern';
+    }
   };
 
   el.querySelector('.v-nein').onclick = () => el.classList.toggle('fragt');

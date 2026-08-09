@@ -105,6 +105,13 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
   grad" setzt das betroffene Format direkt auf den 14-Tage-Cooldown. „zu lang"
   ist neu, weil die Länge der stärkste gemessene Faktor ist (Korrelation
   −0,46) und bisher unter „nicht lustig" verschwand.
+- **„3 Varianten anfordern" gibt es seit 09.08.2026 auf beiden Seiten.** Im
+  Anstoss erscheint der Knopf ab 4 Sternen, in der Auszählung bei jedem
+  Eintrag: dort kuratiert Manuel ältere Ideen und entscheidet, ob eine mit
+  einem Dreh doch noch taugt, da wäre eine Sternenschwelle im Weg. **Die
+  Varianten landen in beiden Fällen im Anstoss**, nicht in der Auszählung, weil
+  `make_variants` sie zuoberst an die aktuelle `ideen.json` hängt. Der Toast
+  sagt das ausdrücklich.
 - `best.html` ("Auszählung") zeigt alle bewerteten, noch offenen Vorschläge:
   Bewertung absteigend, Alter pro Zeile, Warnhinweis bei news-gebundenen
   Ideen ab 3 Tagen, dieselben drei Knöpfe. Genommenes und Abgelehntes fällt
