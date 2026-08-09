@@ -6529,6 +6529,138 @@
       "format": 13,
       "text": "Ich habe meine Brille im See verloren, zwei Meter neben einem trockengefallenen Pegel. Entwarnung an alle, die seit 30 Jahren nichts tun: es ist noch Wasser drin.",
       "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1955-01",
+      "typ": "schnittmenge",
+      "stichwort": "Brille im See, vier Hitzewellen, falscher See",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe meine Brille im See verloren. Nach vier Hitzewellen erstaunlich viel Wasser drin. Vielleicht falscher See.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1955-02",
+      "typ": "schnittmenge",
+      "stichwort": "Brille liegt drin, Wasser reicht noch, vielleicht der falsche",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Meine Brille liegt im See. Nach vier Hitzewellen noch viel Wasser drin. Vielleicht der falsche.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1955-03",
+      "typ": "schnittmenge",
+      "stichwort": "Vier Hitzewellen, See immer noch voll, Brille als Zeugin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Vier Hitzewellen, und im See ist immer noch Wasser. Ich weiss es, meine Brille liegt drin.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1955-04",
+      "typ": "persönlich",
+      "stichwort": "Brille im See, Nestlé hat ihn noch nicht gefunden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe meine Brille im See verloren, drei Dioptrien. Nach vier Hitzewellen liegt sie immer noch unter Wasser, weil Nestlé den See noch nicht gefunden hat.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1955-05",
+      "typ": "persönlich",
+      "stichwort": "Hitzestufe 3 und Olivenernte in derselben Woche",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Meine Brille liegt seit Donnerstag im See. In derselben Woche warnt der Bund vor Hitzestufe 3 und das Zürcher Weinland erntet Oliven. Ich tauche jetzt im Mittelmeer weiter.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1955-06",
+      "typ": "persönlich",
+      "stichwort": "Bundesrat und ich sehen beide nichts",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seit vier Hitzewellen ist der See erstaunlich voll, meine Brille liegt trotzdem irgendwo drin. Der Bundesrat und ich haben dasselbe Problem: Wir sehen nichts und tauchen trotzdem weiter.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1955-07",
+      "typ": "persönlich",
+      "stichwort": "Vierter Dürresommer, falls es der richtige See war",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ich habe meine Brille im See verloren und suche sie seit Freitag. Für einen vierten Dürresommer ist da unten überraschend viel Wasser, falls es der richtige See war.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1955-08",
+      "typ": "persönlich",
+      "stichwort": "Optiker fragt zurück, in welchem See",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ich habe dem Optiker gesagt, meine Brille liege im See. Er fragte, in welchem, 151 Gemeinden rationieren dieses Jahr ihr Wasser. Ohne Brille kann ich das nicht beurteilen.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1955-09",
+      "typ": "persönlich",
+      "stichwort": "Gute Nachricht: die Brille ist untergegangen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Gute Nachricht nach vier Hitzewellen: Meine Brille ist im See untergegangen und nicht bloss liegen geblieben. Ob es der richtige See war, sehe ich ohne sie nicht.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1955-10",
+      "typ": "persönlich",
+      "stichwort": "Brille im See, vier Hitzewellen, falscher See",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe meine Brille im See verloren. Für vier Hitzewellen steht da erstaunlich viel Wasser. Ohne Brille sehe ich allerdings so schlecht, vielleicht war es der falsche See.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1955-11",
+      "typ": "persönlich",
+      "stichwort": "Tauchen nach der Brille, während der Rheinpegel trocken liegt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seit Samstag tauche ich nach meiner Brille. Nach vier Hitzewellen ist da mehr Wasser als im Rhein, wo der Pegel schon trocken liegt. Vermutlich war ich im falschen See.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1955-12",
+      "typ": "persönlich",
+      "stichwort": "Minus drei Dioptrien, See oder Parkplatz nach dem Gewitter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Meine Brille liegt seit Mittwoch im See. Für vier Hitzewellen ist da erstaunlich viel Wasser, aber bei minus drei Dioptrien kann das auch ein Parkplatz nach dem Gewitter sein.",
+      "datum": "2026-08-09"
     }
   ]
 }
