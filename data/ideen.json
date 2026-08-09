@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,36 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Meine Brille liegt seit heute im See, die neue kostet 640 Franken. Ich finde es richtig: Wer scharf sehen will, soll es sich verdienen."
+    },
+    {
+      "id": "2026-08-09-1820-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Brille im See: Sehen ab 18 ist Hobby",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe heute meine Brille im See verloren. 420 Franken für neue Gläser, zahlt niemand: Sehen gilt hier ab 18 als Hobby."
+    },
+    {
+      "id": "2026-08-09-1820-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tauchdauer richtet sich nach dem Lohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Ich tauche seit einer Stunde nach meiner Brille. Nicht weil ich sie brauche, sondern weil man bei 4'000 Franken netto nichts einfach liegen lässt."
+    },
+    {
+      "id": "2026-08-09-1820-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Verlieren überall erlaubt, suchen nur am freien Ufer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Meine Brille liegt seit heute im See. Verlieren darf man in diesem Land überall, suchen nur auf den letzten 200 Metern Ufer, die keinem gehören."
     },
     {
       "id": "2026-08-09-1820-08",
