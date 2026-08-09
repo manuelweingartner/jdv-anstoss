@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "hinweis": "4 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Erfreulich, dass die gefährlichen Bergrouten jetzt gesperrt sind. Damit ist die Klimaanpassung planmässig abgeschlossen."
+    },
+    {
+      "id": "2026-08-09-1122-08",
+      "typ": "schnittmenge",
+      "stichwort": "Bergrettung ja, Seenotrettung selber schuld",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer unvorbereitet in die Berge steigt, wird gerettet. Wer unvorbereitet aufs Meer geht, war selber schuld."
+    },
+    {
+      "id": "2026-08-09-1122-09",
+      "typ": "remix",
+      "stichwort": "Aufsicht kommt nach der Pensionierung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Bis die Aufsicht einen Bankchef verurteilt sieht, ist er pensioniert. Zuständig ist sie für Früherkennung."
     }
   ]
 }
