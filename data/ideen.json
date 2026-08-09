@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "5 von 12 da, der Rest lädt noch.",
+  "hinweis": "7 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,26 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Richtig so: Ladendiebstahl ab 300 Franken kommt vor Gericht. Bei Steuerhinterziehung wäre das Gericht sonst monatelang mit einer einzigen Familie beschäftigt."
+    },
+    {
+      "id": "2026-08-09-2127-08",
+      "typ": "schnittmenge",
+      "stichwort": "Plauen 10'000 gegen Merz, Berlin Schuesse auf den CSD",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "10'000 Menschen demonstrieren in Plauen gegen Merz, in Berlin schiesst jemand auf den CSD. Am selben Wochenende gelten nur die einen als besorgte Bürger."
+    },
+    {
+      "id": "2026-08-09-2127-09",
+      "typ": "remix",
+      "stichwort": "Krankenkasse drei Wochen, Härtefallregel so grosszügig",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich warte drei Wochen auf meine Krankenkasse und finde das eine Zumutung. Die Härtefallregel beim Familiennachzug ist so grosszügig, dass seit einem Jahr kaum jemand ein Härtefall ist."
     }
   ]
 }
