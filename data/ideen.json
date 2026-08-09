@@ -1,117 +1,37 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
-  "fertig": true,
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-09-1820-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Brille im See, See rationiert mit",
+      "id": "2026-08-09-1943-01",
+      "typ": "persönlich",
+      "stichwort": "Brille im See, Niedrigwasser gegen Dioptrien",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich habe heute meine Brille im See verloren. 151 Gemeinden rationieren diesen Sommer das Wasser, Ende Monat liegt sie trocken im Kies."
+      "text": "Ich habe meine Brille im See verloren. Von wegen Niedrigwasser, für 4,5 Dioptrien reicht es locker."
     },
     {
-      "id": "2026-08-09-1820-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Brille schlägt 50'000 Soldaten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Meine Brille liegt seit heute Mittag im See. Selenskyj erwartet 50'000 nordkoreanische Soldaten in Russland, und ich denke die ganze Zeit an die Brille."
-    },
-    {
-      "id": "2026-08-09-1820-03",
+      "id": "2026-08-09-1943-02",
       "typ": "persönlich",
-      "stichwort": "Kasse zahlt nicht, sonst wollen alle sehen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich habe meine Brille im See verloren, 540 Franken. Gut, dass die Kasse dafür nichts zahlt, sonst würde ja jeder einfach so sehen wollen."
-    },
-    {
-      "id": "2026-08-09-1820-04",
-      "typ": "schnittmenge",
-      "stichwort": "Brille im See, Beleg bis Freitag nachreichen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ihre Brille liegt im See, schreiben Sie. Wir finden es richtig, dass Sie das belegen: Reichen Sie sie bis Freitag, 10 Uhr, nach."
-    },
-    {
-      "id": "2026-08-09-1820-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Brille im See, Kasse zahlt null",
+      "stichwort": "Der austrocknende See versteckt sie trotzdem",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Ich habe heute meine Brille im See verloren. Ersatz 380 Franken, die Kasse zahlt null. Augen, Zähne und Psyche gelten offiziell als Zubehör."
+      "text": "Meine Brille liegt seit 20 Minuten im See. Für einen angeblich austrocknenden See erstaunlich gut versteckt."
     },
     {
-      "id": "2026-08-09-1820-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nicht die Brille, das Umsortieren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Ich habe im See nicht die Brille verloren, sondern zwanzig Minuten damit verbracht, drei Rechnungen im Kopf umzusortieren, bis der Ersatz irgendwo hineinpasste."
-    },
-    {
-      "id": "2026-08-09-1820-07e",
-      "typ": "schnittmenge",
-      "stichwort": "Was sonst noch am Seegrund liegt",
+      "id": "2026-08-09-1943-03",
+      "typ": "persönlich",
+      "stichwort": "40 Minuten tauchen, See hat nichts mitbekommen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Auf dem Grund des Sees liegt seit heute meine Brille, dazu 8000 Tonnen versenkte Armeemunition, die dort seit 60 Jahren niemanden stört."
-    },
-    {
-      "id": "2026-08-09-1820-09",
-      "typ": "remix",
-      "stichwort": "Abfalltrennung gegen Chemiefabrik",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 10,
-      "text": "Ich sortiere seit sieben Jahren Abfall in vier Behälter. Heute fiel mir die Brille in den See und ich fühle mich schuldiger als jede Chemiefabrik."
-    },
-    {
-      "id": "2026-08-09-1820-10e",
-      "typ": "persönlich",
-      "stichwort": "Barfusslaufen verbessert die Sehkraft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ich habe meine Brille heute im See verloren und seither drei Leute getroffen, die mir erklärt haben, dass Barfusslaufen die Sehkraft verbessert."
-    },
-    {
-      "id": "2026-08-09-1820-11e",
-      "typ": "persönlich",
-      "stichwort": "Suche ohne das Gesuchte",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ich habe meine Brille heute im See verloren und danach 40 Minuten mit genau der Sehkraft gesucht, wegen der ich sie trage."
-    },
-    {
-      "id": "2026-08-09-1820-12e",
-      "typ": "persönlich",
-      "stichwort": "Tochter taucht auf Honorarbasis",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 5,
-      "text": "Meine Tochter taucht seit einer Stunde nach der Brille, die ich heute im See verloren habe. Zwei Franken pro Versuch, Erfolg kostet extra."
+      "text": "Ich tauche seit 40 Minuten nach meiner Brille. Den Klimawandel hat dieser See noch nicht mitbekommen."
     }
   ]
 }
