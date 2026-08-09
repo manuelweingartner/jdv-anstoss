@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "hinweis": "5 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Russland verliert im Ukraine-Krieg inzwischen über tausend Männer am Tag. Gute Nachricht aus Moskau: gezählt wird nur, was in Quadratkilometern zurückkommt."
+    },
+    {
+      "id": "2026-08-09-2127-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Dossier fuer die Wohnung, Kontonummer fuer den Vermieter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe für eine 3-Zimmer-Wohnung eine Bonitätsauskunft, drei Lohnabrechnungen und ein Foto meines Hundes eingereicht. Der Vermieter musste eine Kontonummer angeben."
+    },
+    {
+      "id": "2026-08-09-2127-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "2'740 Jahre, um eine Milliarde auszugeben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Für eine Milliarde müsste ich 2'740 Jahre lang jeden Tag 1'000 Franken ausgeben. Reich bleibt man offenbar dadurch, dass man das nicht schafft."
+    },
+    {
+      "id": "2026-08-09-2127-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "300-Franken-Grenze, ueberaffirmiert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Richtig so: Ladendiebstahl ab 300 Franken kommt vor Gericht. Bei Steuerhinterziehung wäre das Gericht sonst monatelang mit einer einzigen Familie beschäftigt."
     }
   ]
 }
