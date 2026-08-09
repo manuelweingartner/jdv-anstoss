@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "4 von 12 da, der Rest lädt noch.",
+  "hinweis": "7 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 3,
       "text": "Fünf Jahre nach der Machtübernahme öffnen die Taliban Afghanistan für Touristen. Im Reiseprospekt stehen Berge, Gastfreundschaft und Ruhe, im Land stehen Frauen nicht mehr im Weg."
+    },
+    {
+      "id": "2026-08-09-2333-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fünf Wochen Ferien, dreizehn Wochen Schulferien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe fünf Wochen Ferien im Jahr, meine Tochter dreizehn. Die restlichen acht löst ein Land mit Fachkräftemangel seit dreissig Jahren über Grossmütter."
+    },
+    {
+      "id": "2026-08-09-2333-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "1974 gebaut, dreimal abbezahlt, heisst Risiko",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Ich zahle 1'900 Franken Miete für eine Wohnung, die 1974 gebaut und dreimal abbezahlt wurde. Der Eigentümer nennt das sein Risiko."
+    },
+    {
+      "id": "2026-08-09-2333-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "11,85 Prozent Konzern, 26 Prozent ich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Endlich mal Klartext beim Steuerwettbewerb: Wer als Konzern 11,85 Prozent zahlt, schafft Arbeitsplätze. Ich zahle 26 und schaffe offenbar Verwaltungsaufwand."
     },
     {
       "id": "2026-08-09-2333-08",
