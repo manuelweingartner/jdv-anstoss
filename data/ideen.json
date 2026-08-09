@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -54,34 +54,14 @@
       "text": "Vertrauensarbeitszeit: Das Vertrauen geht in die eine Richtung, die Stunden in die andere."
     },
     {
-      "id": "2026-08-09-1122-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Altersvorsorge in Rüstungsfirmen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Beruhigend, dass unsere Altersvorsorge krisensicher angelegt ist. In Firmen, die Krisen herstellen."
-    },
-    {
-      "id": "2026-08-09-1122-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mindestlohn wird geprüft, Höchstlohn nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Der Mindestlohn wird auf volkswirtschaftliche Folgen geprüft. Der Höchstlohn auf Neid."
-    },
-    {
-      "id": "2026-08-09-1122-08",
+      "id": "2026-08-09-1122-08e",
       "typ": "schnittmenge",
-      "stichwort": "Bergrettung ja, Seenotrettung selber schuld",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
+      "stichwort": "Genug Wohnungen, alle für vier Nächte",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer unvorbereitet in die Berge steigt, wird gerettet. Wer unvorbereitet aufs Meer geht, war selber schuld."
+      "format": "frei",
+      "text": "Die Ferieninsel hat genug Wohnungen. Gebucht sind sie für jeweils vier Nächte."
     },
     {
       "id": "2026-08-09-1122-09",
@@ -94,14 +74,14 @@
       "text": "Bis die Aufsicht einen Bankchef verurteilt sieht, ist er pensioniert. Zuständig ist sie für Früherkennung."
     },
     {
-      "id": "2026-08-09-1122-10",
-      "typ": "persönlich",
-      "stichwort": "Ferienwohnung ist bei uns Erholung",
+      "id": "2026-08-09-1122-10e",
+      "typ": "schnittmenge",
+      "stichwort": "Zu Fuss gehen als Hindernis",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Für uns sind zwei Wochen Ferienwohnung Erholung. Für die Insel sind sie die Wohnungsnot."
+      "format": 2,
+      "text": "Städte wurden für Menschen gebaut. Wer heute zu Fuss geht, gilt als Hindernis."
     },
     {
       "id": "2026-08-09-1122-11",
@@ -114,14 +94,24 @@
       "text": "Wir löschen zu Hause jedes Licht. Meine Tochter fragt, wer die Bürotürme abschaltet."
     },
     {
-      "id": "2026-08-09-1122-12",
-      "typ": "persönlich",
-      "stichwort": "Abfall trennen beruhigt",
+      "id": "2026-08-09-1122-12e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bodycam mit eigener Freigabe",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Beruhigend, dass ich meinen Abfall trenne. Sonst wäre die Klimakrise wirklich ein Problem."
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Bodycams für die Einwanderungsbehörde. Was darauf zu sehen ist, entscheidet die Einwanderungsbehörde."
+    },
+    {
+      "id": "2026-08-09-1122-12e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Langsameres Verschwinden als Erfolg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Weniger Regenwald verschwindet als seit zehn Jahren. Gefeiert wird jetzt das langsamere Verschwinden."
     }
   ]
 }
