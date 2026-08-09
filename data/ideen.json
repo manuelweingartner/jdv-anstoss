@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "hinweis": "4 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-09-1820-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Brille im See, 151 Gemeinden sparen Wasser",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe heute meine Brille im See verloren. 151 Gemeinden dürfen den Rasen nicht mehr giessen, ich hole sie Ende Monat trockenen Fusses ab."
+    },
+    {
+      "id": "2026-08-09-1820-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Brille im See, 50'000 nordkoreanische Soldaten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Meine Brille liegt seit heute Mittag im See, und ich sehe trotzdem, dass 50'000 nordkoreanische Soldaten nach Russland ziehen. Blind ist in Europa niemand. Nur bequem."
+    },
     {
       "id": "2026-08-09-1820-03",
       "typ": "schnittmenge",
