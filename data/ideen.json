@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "6 Ideen aussortiert und nicht ersetzt, Liste hat 6 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -34,16 +34,6 @@
       "text": "Endlich reden wir ehrlich über die Rente: Wer länger arbeitet, hat länger etwas davon. Ich arbeite bis 70, im Verwaltungsrat, vier Sitzungen im Jahr."
     },
     {
-      "id": "2026-08-09-2212-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Drohnenabwehr an der Ostgrenze, Behoerdenstimme",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Beruhigend: Unsere Drohnenabwehr an der Ostgrenze stört, verwirrt und verunsichert zuverlässig. Drei Dinge, die wir in der Kommunikation mit der Bevölkerung längst beherrschen."
-    },
-    {
       "id": "2026-08-09-2212-05",
       "typ": "politisch-aktuell",
       "stichwort": "180 Überstunden zählt keine App",
@@ -64,26 +54,6 @@
       "text": "Für eine Dreizimmerwohnung brauche ich 160'000 Franken Eigenkapital. Das ist ein Porsche, den ich nie sehe, damit die Bank sieht, dass ich einen hätte."
     },
     {
-      "id": "2026-08-09-2212-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bis 67, weil wir alle länger leben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Ich soll bis 67 arbeiten, weil wir alle länger leben. Wer mit 30 genug Aktien hat, lebt offenbar kürzer und darf früher aufhören."
-    },
-    {
-      "id": "2026-08-09-2212-08",
-      "typ": "schnittmenge",
-      "stichwort": "Odessa dunkel, Syrien-Basen verlängert",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Russland lässt Odessa im Dunkeln sitzen und verlängert in derselben Woche seine zwei Militärbasen in Syrien. Wer genug Stromnetze zerstört, bekommt anderswo einen unbefristeten Mietvertrag."
-    },
-    {
       "id": "2026-08-09-2212-09",
       "typ": "remix",
       "stichwort": "Ernstfall-Abteilung der Versicherung",
@@ -92,36 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 2,
       "text": "Ich zahle 480 Franken im Monat an eine Versicherung für den Ernstfall. Sie hat eine eigene Abteilung, die prüft, ob es einer ist."
-    },
-    {
-      "id": "2026-08-09-2212-10",
-      "typ": "persönlich",
-      "stichwort": "ECO-Programm und Lulas Amazonas-Öl",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Seit sieben Jahren wasche ich aus Prinzip nur im ECO-Programm ab. Lula finanziert Brasiliens Energiewende jetzt mit Öl aus dem Amazonasdelta. Zusammen sind wir klimaneutral."
-    },
-    {
-      "id": "2026-08-09-2212-11",
-      "typ": "persönlich",
-      "stichwort": "Odyssee im Kino, Pentagon drückt aufs Tempo",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich habe am Samstag Nolans Odyssee gesehen: zehn Jahre Heimweg aus einem Krieg. Am selben Tag rief das Pentagon nach schnellerer Waffenproduktion. Den Rückweg dreht niemand."
-    },
-    {
-      "id": "2026-08-09-2212-12",
-      "typ": "persönlich",
-      "stichwort": "26 Franken Zug, 24 Franken Flug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich zahle 26 Franken für die Zugfahrt nach Zürich, 24 für den Flug nach Barcelona. Am Bahnhof bittet mich ein Plakat, öfter den Zug zu nehmen."
     }
   ]
 }
