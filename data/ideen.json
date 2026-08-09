@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -62,6 +62,36 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Ich habe heute meine Brille im See verloren, am öffentlichen Uferstück. Das ist elf Meter lang, der Rest gehört Leuten, die nie baden gehen."
+    },
+    {
+      "id": "2026-08-09-1820-10",
+      "typ": "persönlich",
+      "stichwort": "Brille im See, Versicherung will Foto vom Seegrund",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe heute meine Brille im See verloren, 340 Franken. Die Versicherung will jetzt ein Foto vom Seegrund, sonst gilt das als Selbstverschulden."
+    },
+    {
+      "id": "2026-08-09-1820-11",
+      "typ": "persönlich",
+      "stichwort": "Wasserhund bleibt vier Meter vor dem Ufer stehen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 2,
+      "text": "Ich habe heute meine Brille im See verloren. Der Wasserhund blieb vier Meter vor dem Ufer stehen und sah zu, wie sein Daseinszweck versinkt."
+    },
+    {
+      "id": "2026-08-09-1820-12",
+      "typ": "persönlich",
+      "stichwort": "Sehen ist keine Grundversorgung, sondern ein Abo",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Meine Brille liegt seit 14 Uhr im See. Nicht weiter schlimm: Sehen ist in diesem Land ohnehin keine Grundversorgung, sondern ein Abo mit Selbstbehalt."
     }
   ]
 }
