@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "4 von 12 da, der Rest lädt noch.",
+  "hinweis": "7 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Gute Nachricht für Anleger: Kolumbien hat einen neuen Präsidenten. Menschenrechte sind ab sofort wieder verhandelbar."
+    },
+    {
+      "id": "2026-08-09-0805-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kaffee mitnehmen vs. Überstunden streichen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer im Lager eine Packung Kaffee mitnimmt, wird fristlos entlassen. Wer die Überstunden nicht auszahlt, optimiert die Lohnkosten."
+    },
+    {
+      "id": "2026-08-09-0805-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Verantwortung als Lohnbegründung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Der Lohn der Chefetage wird mit Verantwortung begründet. Übernommen hat sie dort zuletzt niemand."
+    },
+    {
+      "id": "2026-08-09-0805-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Erben fordert Leistung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Leistung müsse sich endlich wieder lohnen, sagt eine Klasse, deren Vermögen aus einem Sterbedatum stammt."
     }
   ]
 }
