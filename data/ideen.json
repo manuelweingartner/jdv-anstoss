@@ -1,117 +1,27 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "4 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 12.",
-  "fertig": true,
+  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-09-212315-v1",
+      "id": "2026-08-09-2127-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: 95 Milliarden vererbt, mehr als der Bund ausgibt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "95 Milliarden Franken werden jedes Jahr vererbt, steuerfrei. Leistung muss sich ja lohnen."
-    },
-    {
-      "id": "2026-08-09-212315-v2",
-      "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: 95 Milliarden vererbt, mehr als der Bund ausgibt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Der Bund gibt weniger aus, als in der Schweiz jährlich vererbt wird. Wer erbt, gilt trotzdem als Leistungsträger."
-    },
-    {
-      "id": "2026-08-09-212315-v3",
-      "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: 95 Milliarden vererbt, mehr als der Bund ausgibt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Wer 300 Franken Sozialhilfe zu viel bezieht, kommt vor Gericht. Wer 95 Milliarden erbt, kommt in die Zeitung."
-    },
-    {
-      "id": "2026-08-09-2037-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gentechnik gegen die Mücke, Warnstufe gegen die Hitze",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich erschlage jeden Abend Mücken auf dem Balkon. Forscher lassen die Tigermücke per Gentechnik aussterben, gegen die Hitze gibt es am selben Tag Warnstufe 3."
-    },
-    {
-      "id": "2026-08-09-2037-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Thurn und Taxis lebt vom Porto und verhöhnt Maffay",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seit 500 Jahren lebt die Familie Thurn und Taxis vom Porto. Jetzt verhöhnt ihre Fürstin Peter Maffay als Zugereisten, und ich frankiere weiter."
-    },
-    {
-      "id": "2026-08-09-2037-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rasenverbot in 151 Gemeinden, Behördenstimme",
+      "stichwort": "Sonntagsfahrverbot gelockert, weil der Rhein zu wenig Wasser hat",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich finde es richtig, dass 151 Gemeinden diesen Sommer das Rasensprengen verboten haben. Gespart wird bei uns immer da, wo es keinen Konzern etwas kostet."
+      "text": "Ich finde es richtig, dass Lastwagen jetzt sonntags fahren dürfen, seit der Rhein zu wenig Wasser führt. Die Ware muss ja irgendwie über die Dürre kommen."
     },
     {
-      "id": "2026-08-09-2037-04",
+      "id": "2026-08-09-2127-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Vollering gewinnt, Preisgeld bleibt bei 50'000",
+      "stichwort": "Russische Verluste, gezählt wird in Quadratkilometern",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Endlich gewinnt Demi Vollering die Tour de France der Frauen zum zweiten Mal. Die 50'000 Euro Preisgeld lassen wir so, sonst gewöhnen sie sich noch daran."
-    },
-    {
-      "id": "2026-08-09-2037-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pausenkaffee als Überstundenausgleich",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Ich habe keine Work-Life-Balance. Ich habe sechs Überstunden und einen Chef, der den Gutschein für den Pausenkaffee als Ausgleich versteht."
-    },
-    {
-      "id": "2026-08-09-2037-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Unbezahlte Arbeit im BIP eine Null",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Zwischen Kita-Abholung und Waschmaschine mache ich täglich zwei Stunden Arbeit, die niemand zahlt. Zusammen sind das 434 Milliarden Franken im Jahr und im Bruttoinlandprodukt eine Null."
-    },
-    {
-      "id": "2026-08-09-2037-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "95 Milliarden vererbt, mehr als der Bund ausgibt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Vererbt werden in der Schweiz jedes Jahr 95 Milliarden Franken, mehr als der Bund insgesamt ausgibt. Steuerfrei, damit sich Leistung endlich wieder lohnt."
-    },
-    {
-      "id": "2026-08-09-2037-09",
-      "typ": "remix",
-      "stichwort": "Mahngebühr in Tagen, Klimaziel in Jahren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 10,
-      "text": "Ich habe 20 Franken Mahngebühr bezahlt, weil eine Rechnung elf Tage zu spät war. Beim Klimaziel nennt man elf Jahre Verzug einen Zwischenbericht."
+      "text": "Russland verliert im Ukraine-Krieg inzwischen über tausend Männer am Tag. Gute Nachricht aus Moskau: gezählt wird nur, was in Quadratkilometern zurückkommt."
     }
   ]
 }
