@@ -96,6 +96,7 @@
     background: transparent; color: var(--nein); cursor: pointer;
     font: 400 .74rem/1 inherit; padding: 9px 10px;
   }
+  .reasons .r-zurueck { border-color: var(--linie); color: var(--matt); }
   .actions button:focus-visible, .reasons button:focus-visible {
     outline: 2px solid var(--nein); outline-offset: 2px;
   }
@@ -142,7 +143,7 @@ const LS_STATE = 'jdv_state', LS_TOKEN = 'jdv_token', LS_QUEUE = 'jdv_queue';
    dieselbe Issue-Konvention, die Gründe müssen deckungsgleich bleiben. */
 const REASONS = ['zu erklärend', 'zu lang', 'konstruiert', 'kein Widerspruch',
                  'Thema falsch', 'Thema hatte ich schon', 'Schema hatte ich grad',
-                 'News zu wenig bekannt', 'nicht lustig'];
+                 'News zu wenig bekannt', 'nicht lustig', 'ohne Grund'];
 
 /* Gleiche Kurznamen wie index.html, siehe dort. */
 const FORMATE = {
@@ -395,6 +396,12 @@ function zeile(idee, sterne) {
   el.querySelector('.v-nein').onclick = () => el.classList.toggle('fragt');
 
   const reasons = el.querySelector('.reasons');
+  /* Weg aus der Gruende-Ansicht ohne Urteil, wie im Anstoss (09.08.2026). */
+  const abbrechen = document.createElement('button');
+  abbrechen.textContent = '← zurück';
+  abbrechen.className = 'r-zurueck';
+  abbrechen.onclick = () => el.classList.remove('fragt');
+  reasons.appendChild(abbrechen);
   REASONS.forEach(grund => {
     const b = document.createElement('button');
     b.textContent = grund;

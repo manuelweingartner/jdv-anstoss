@@ -152,6 +152,8 @@
     background: transparent; color: var(--nein); cursor: pointer;
     font: 400 .74rem/1 inherit; padding: 9px 10px;
   }
+  /* Abbrechen setzt sich farblich ab: es ist kein Ablehngrund. */
+  .reasons .r-zurueck { border-color: var(--linie); color: var(--matt); }
   .actions button:focus-visible, .reasons button:focus-visible,
   .zeile button:focus-visible, .b-var:focus-visible, .b-more:focus-visible {
     outline: 2px solid var(--nein); outline-offset: 2px;
@@ -207,6 +209,21 @@
     max-width: 92vw; text-align: center; z-index: 30;
   }
   .toast.show { opacity: 1; }
+  /* Ruecknahme-Leiste. Sitzt ueber dem Toast, bleibt stehen bis der Timer
+     laeuft, und ist mit dem Daumen erreichbar (unten, volle Breite). */
+  .undobar {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 31;
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 10px; padding: 11px 14px calc(11px + env(safe-area-inset-bottom));
+    background: var(--tinte); color: var(--grund); font-size: .76rem;
+  }
+  .undobar button {
+    appearance: none; border: 1px solid var(--grund); border-radius: 0;
+    background: transparent; color: var(--grund); cursor: pointer;
+    font: 500 .74rem/1 inherit; padding: 9px 13px; white-space: nowrap;
+    letter-spacing: .04em;
+  }
+  .undobar[hidden] { display: none; }
   footer {
     margin-top: 22px; padding-top: 11px; border-top: 1px solid var(--tinte);
     font-size: .7rem; line-height: 1.6; color: var(--matt);
@@ -254,6 +271,7 @@
   Genommenes erkennt Claude am nächsten Threads-Abgleich von selbst.
   <a href="best.html">→ Auszählung</a>
 </footer>
+<div class="undobar" id="undobar" hidden></div>
 <div class="toast" id="toast"></div>
 
 <script>
@@ -348,6 +366,64 @@ function toast(msg) {
   clearTimeout(t._h); t._h = setTimeout(() => t.classList.remove('show'), 1600);
 }
 
+/* ------------------------------------------------------------- Rückgängig
+   Manuel am 09.08.2026: "wenn ich nein sage, kann ich nicht zurück."
+
+   Das Urteil wird nicht mehr sofort gesendet, sondern RUECKGAENGIG_MS lang
+   zurueckgehalten. Wer in dem Fenster widerruft, hat nie ein Issue erzeugt:
+   kein falsches NEIN im Geschmacksmodell, keine Korrektur noetig. Erst nach
+   Ablauf geht es raus. Der Preis sind ein paar Sekunden Verzoegerung, die
+   niemand merkt, weil die Zeile ohnehin schon verschwunden ist.
+
+   Ein zweites Urteil vor Ablauf schiebt das erste sofort raus, damit sich
+   nichts staut. Beim Verlassen der Seite ebenso (pagehide). */
+const RUECKGAENGIG_MS = 7000;
+let _rueck = null;
+
+function ruecknahmeLeiste(text, aufRuecknahme) {
+  const bar = document.getElementById('undobar');
+  bar.innerHTML = '';
+  const s = document.createElement('span');
+  s.textContent = text;
+  const b = document.createElement('button');
+  b.textContent = 'rückgängig';
+  b.onclick = aufRuecknahme;
+  bar.append(s, b);
+  bar.hidden = false;
+}
+
+function ruecknahmeWeg() {
+  const bar = document.getElementById('undobar');
+  if (bar) { bar.hidden = true; bar.innerHTML = ''; }
+}
+
+/* Sendet das zurueckgehaltene Urteil sofort ab (Timer abgelaufen, neues
+   Urteil, oder Seite wird verlassen). */
+function urteilAbschicken() {
+  if (!_rueck) return;
+  const { title, body } = _rueck;
+  clearTimeout(_rueck.timer);
+  _rueck = null;
+  ruecknahmeWeg();
+  sendIssue(title, body).then(res => {
+    if (res !== 'sent') zeigeStau();
+  });
+}
+
+/* Urteil vormerken statt senden. wiederher() stellt die Zeile wieder her. */
+function urteilVormerken(title, body, label, wiederher) {
+  urteilAbschicken();                      // ein wartendes zuerst rausschicken
+  _rueck = { title, body };
+  _rueck.timer = setTimeout(urteilAbschicken, RUECKGAENGIG_MS);
+  ruecknahmeLeiste(label, () => {
+    clearTimeout(_rueck.timer);
+    _rueck = null;
+    ruecknahmeWeg();
+    wiederher();
+    toast('Zurückgenommen, nichts gesendet.');
+  });
+}
+
 async function copyText(text) {
   const clean = text.replace(/\n?\(.*?\)\s*$/s, '').trim();
   const viaApi = navigator.clipboard
@@ -421,10 +497,15 @@ function zeigeStau() {
    grad" steuert den 14-Tage-Format-Cooldown. "zu lang" ist neu, weil die Länge
    der stärkste gemessene Faktor ist (Korrelation -0,46) und bisher unter
    "nicht lustig" verschwand. "News zu wenig bekannt" trennt den schwachen
-   Aufhänger von der schwachen Pointe. */
+   Aufhänger von der schwachen Pointe.
+
+   "ohne Grund" kam am 09.08.2026 dazu: 344 von 348 Urteilen sind Ablehnungen,
+   und wer zwoelf davon am Stueck wegklickt, will nicht jedes Mal einen Grund
+   suchen. Lieber ein ehrliches "ohne Grund" als ein falsches "nicht lustig",
+   das das Geschmacksmodell verfaelscht. */
 const REASONS = ['zu erklärend', 'zu lang', 'konstruiert', 'kein Widerspruch',
                  'Thema falsch', 'Thema hatte ich schon', 'Schema hatte ich grad',
-                 'News zu wenig bekannt', 'nicht lustig'];
+                 'News zu wenig bekannt', 'nicht lustig', 'ohne Grund'];
 
 /* Kurznamen der Format-Bibliothek (references/formate.md im Skill-Ordner).
    Seit 08.08.2026 auf der Karte sichtbar und filterbar: das Feld stand vorher
@@ -443,20 +524,39 @@ let ideenNow = [];
 /* Genommenes bleibt mit Haken stehen (Manuel will sehen, was er nahm),
    Abgelehntes verschwindet sofort. */
 function markTaken(slot, idee) {
+  const vorher = state[idee.id] ? { ...state[idee.id] } : null;
   slot.classList.add('done'); slot.classList.remove('asking');
   const st = state[idee.id] = state[idee.id] || { v: null, r: null };
   st.v = 'Genommen und kopiert'; saveState();
   slot.querySelector('.verdict').textContent =
     'genommen' + (st.r ? ` · bewertet ${st.r}/5` : '');
   updateStatus();
+  return () => {
+    if (vorher) state[idee.id] = vorher; else delete state[idee.id];
+    saveState();
+    slot.classList.remove('done');
+    slot.querySelector('.verdict').textContent = '';
+    updateStatus();
+  };
 }
 
 function markRejected(slot, idee, grund) {
+  const vorher = state[idee.id] ? { ...state[idee.id] } : null;
   const st = state[idee.id] = state[idee.id] || { v: null, r: null };
   st.v = `Abgelehnt: ${grund}`; saveState();
   slot.classList.add('weg');
+  const nachbar = slot.nextSibling;
+  const eltern = slot.parentNode;
   setTimeout(() => { slot.remove(); updateStatus(); }, 280);
   updateStatus();
+  // Zeile samt Position wiederherstellen, nicht nur irgendwo anhaengen.
+  return () => {
+    if (vorher) state[idee.id] = vorher; else delete state[idee.id];
+    saveState();
+    slot.classList.remove('weg', 'asking');
+    if (!slot.isConnected && eltern) eltern.insertBefore(slot, nachbar);
+    updateStatus();
+  };
 }
 
 function updateStatus() {
@@ -465,7 +565,8 @@ function updateStatus() {
   document.getElementById('dateline').innerHTML =
     `${window._datumKurz || ''} · <b>${offen} offen</b> von ${ideenNow.length}`;
   const t = document.getElementById('tasten');
-  if (t) t.textContent = offen ? '· c kopieren  j nehmen  n nein  1-5 bewerten' : '';
+  if (t) t.textContent = offen
+    ? '· c kopieren  j nehmen  n nein  1-5 bewerten  u zurück  esc schliessen' : '';
   renderNachschub();
 }
 
@@ -509,6 +610,10 @@ function renderNachschub() {
     ? `${offen} noch offen. Neue Runde ersetzt die ganze Liste.`
     : 'Alles beurteilt.';
 }
+
+/* Wartendes Urteil beim Verlassen der Seite noch rausschicken, sonst geht es
+   verloren, wenn direkt nach dem letzten Nein weggewischt wird. */
+window.addEventListener('pagehide', urteilAbschicken);
 
 /* Kategorie-Knoepfe mitsperren, solange eine Runde laeuft. Sonst sieht nur
    der Hauptknopf gesperrt aus und ein Tap auf "Meta" wirkt, als waere er
@@ -645,8 +750,14 @@ function card(idee) {
     n.className = 'note'; n.textContent = note;
     pt.appendChild(n);
   }
+  /* Wortzahl im Kicker (09.08.2026). Die Laenge ist der einzige harte
+     Zusammenhang im ganzen Korpus, und Manuels eigene Posts liegen im Median
+     bei 22 Woertern. Wer das beim Beurteilen sieht, urteilt konsistenter,
+     als wenn er es schaetzt. */
+  const woerter = mainText.split(/\s+/).filter(Boolean).length;
   slot.querySelector('.kicker').textContent =
-    [idee.id, idee.stichwort, idee.plattform].filter(Boolean).join(' · ');
+    [idee.id, idee.stichwort, `${woerter} W`, idee.plattform]
+      .filter(Boolean).join(' · ');
 
   slot.querySelector('.b-copy').onclick = async () => {
     const ok = await copyText(idee.text);
@@ -654,13 +765,13 @@ function card(idee) {
   };
 
   slot.querySelector('.b-take').onclick = async () => {
-    markTaken(slot, idee);
+    const zurueck = markTaken(slot, idee);
     const ok = await copyText(idee.text);
-    const res = await sendIssue(`OK: ${idee.id}`,
-      `Stichwort: ${idee.stichwort}\nPlattform: ${idee.plattform}`);
-    toast(ok
-      ? (res === 'sent' ? 'Kopiert und gemeldet. Viel Erfolg!' : 'Kopiert. Meldung wartet auf Token.')
-      : 'Markiert. Kopieren blockiert, bitte Text manuell kopieren.');
+    urteilVormerken(`OK: ${idee.id}`,
+      `Stichwort: ${idee.stichwort}\nPlattform: ${idee.plattform}`,
+      'Genommen.', zurueck);
+    toast(ok ? 'Kopiert und genommen.'
+             : 'Genommen. Kopieren blockiert, bitte Text manuell kopieren.');
   };
 
   const varBtn = slot.querySelector('.b-var');
@@ -677,13 +788,22 @@ function card(idee) {
   slot.querySelector('.b-no').onclick = () => slot.classList.toggle('asking');
 
   const reasons = slot.querySelector('.reasons');
+  /* Weg aus der Gruende-Ansicht, ohne ein Urteil zu faellen. Vorher musste man
+     "nein" ein zweites Mal treffen, was auf dem Handy nicht offensichtlich ist
+     und wie eine Sackgasse wirkte (Manuel, 09.08.2026). */
+  const abbrechen = document.createElement('button');
+  abbrechen.textContent = '← zurück';
+  abbrechen.className = 'r-zurueck';
+  abbrechen.onclick = () => slot.classList.remove('asking');
+  reasons.appendChild(abbrechen);
   REASONS.forEach(r => {
     const b = document.createElement('button');
     b.textContent = r;
-    b.onclick = async () => {
-      markRejected(slot, idee, r);
-      const res = await sendIssue(`NEIN: ${idee.id}`, `Stichwort: ${idee.stichwort}\nGrund: ${r}`);
-      toast(res === 'sent' ? 'Abgelehnt, gesendet' : 'Abgelehnt, wird später gesendet');
+    b.onclick = () => {
+      const zurueck = markRejected(slot, idee, r);
+      urteilVormerken(`NEIN: ${idee.id}`,
+        `Stichwort: ${idee.stichwort}\nGrund: ${r}`,
+        `Abgelehnt: ${r}`, zurueck);
     };
     reasons.appendChild(b);
   });
@@ -774,6 +894,16 @@ document.addEventListener('keydown', e => {
   if (e.metaKey || e.ctrlKey || e.altKey) return;
   const tag = (document.activeElement || {}).tagName;
   if (tag === 'INPUT' || tag === 'TEXTAREA') return;
+  // u und Escape brauchen keine aktive Zeile: die letzte Ruecknahme gilt
+  // global, und Escape muss auch dann schliessen, wenn die Zeile schon weg ist.
+  if (e.key === 'u') {
+    const b = document.querySelector('#undobar button');
+    if (b) { b.click(); e.preventDefault(); return; }
+  }
+  if (e.key === 'Escape') {
+    const offen = document.querySelector('#liste .slot.asking');
+    if (offen) { offen.classList.remove('asking'); e.preventDefault(); return; }
+  }
   const s = aktiveZeile();
   if (!s) return;
   if (e.key === 'c') { s.querySelector('.b-copy').click(); e.preventDefault(); }
