@@ -5099,6 +5099,127 @@
       "format": "frei",
       "text": "Weniger Regenwald verschwindet als seit zehn Jahren. Gefeiert wird jetzt das langsamere Verschwinden.",
       "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1130-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Umfrage fragt, Budgets wissen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Eine Umfrage fragt, wie ich im September abstimme. Die Kampagnenbudgets wissen es schon.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1130-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wahllokale, wo die Armee steht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Beruhigend: Israel stellt Wahllokale im Gazastreifen auf. Demokratie kommt eben überall hin, wo die Armee schon ist.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1130-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hitzetote als unerschlossenes Segment",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Gute Nachricht: Zehntausend Hitzetote sind kein Marktversagen. Das ist ein Segment, das wir noch nicht bedient haben.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1130-04e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Helmpflicht für die Leichten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Paris führt die Helmpflicht für E-Scooter ein. Zuverlässig schützt der Helm vor allem, was unter zwanzig Kilo wiegt.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1130-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mahngebühr gegen Zahlungsziel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer zu spät zahlt, bekommt eine Mahngebühr. Wer zu spät auszahlt, nennt es Zahlungsziel.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1130-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Standortattraktivität als Kennzahl",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Standortattraktivität misst, wie wenig ein Land von denen verlangt, die am meisten hätten.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1130-07e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Landwirtschaft krank, Lobby warnt vor Klimaschutz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Landwirt*innen werden nachweislich krank von den Wetterextremen. Die Agrarlobby warnt weiterhin vor den Kosten des Klimaschutzes.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1130-08e",
+      "typ": "schnittmenge",
+      "stichwort": "Steinzeitkleidung hält den Sommer aus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Ein Mann testet Steinzeitkleidung an sich selbst. Sie hält den Sommer besser aus als jedes Neubauviertel.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1130-09",
+      "typ": "remix",
+      "stichwort": "Erschlossen bis man ohne Erfahrung verunglückt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Die Alpen sind inzwischen so gut erschlossen, dass man zum Verunglücken keine Erfahrung mehr braucht.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1130-10",
+      "typ": "persönlich",
+      "stichwort": "Kinderzeichnung gegen Bildgenerator",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Meine Tochter zeichnet eine Stunde an einem Bild (echtes Detail einsetzen). Die KI braucht vier Sekunden und hängt trotzdem nicht am Kühlschrank.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1130-11e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Virus wandert nordwärts, Grenzdebatte nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Mücken bringen das West-Nil-Virus nach Norditalien. In der Grenzdebatte geht es weiterhin ausschliesslich um Menschen.",
+      "datum": "2026-08-09"
     }
   ]
 }

@@ -1,117 +1,37 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
-  "fertig": true,
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-09-1130-01",
+      "id": "2026-08-09-1222-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Umfrage fragt, Budgets wissen",
+      "stichwort": "Flugabwehr als Wachstumsmarkt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Eine Umfrage fragt, wie ich im September abstimme. Die Kampagnenbudgets wissen es schon."
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Beruhigend, dass die Flugabwehr immer genau dort Lücken hat, wo unsere Auftragsbücher noch Platz haben."
     },
     {
-      "id": "2026-08-09-1130-02",
+      "id": "2026-08-09-1222-08",
       "typ": "politisch-aktuell",
-      "stichwort": "Wahllokale, wo die Armee steht",
+      "stichwort": "Pentagon-Geld an Unis",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Beruhigend: Israel stellt Wahllokale im Gazastreifen auf. Demokratie kommt eben überall hin, wo die Armee schon ist."
+      "text": "Schön, dass die Wissenschaft endlich wieder unabhängig forschen darf. Wir sagen ihr ja nur, woran."
     },
     {
-      "id": "2026-08-09-1130-03",
+      "id": "2026-08-09-1222-09",
       "typ": "politisch-aktuell",
-      "stichwort": "Hitzetote als unerschlossenes Segment",
+      "stichwort": "Erbschaft als Leistungsnachweis",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Gute Nachricht: Zehntausend Hitzetote sind kein Marktversagen. Das ist ein Segment, das wir noch nicht bedient haben."
-    },
-    {
-      "id": "2026-08-09-1130-04e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Helmpflicht für die Leichten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Paris führt die Helmpflicht für E-Scooter ein. Zuverlässig schützt der Helm vor allem, was unter zwanzig Kilo wiegt."
-    },
-    {
-      "id": "2026-08-09-1130-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mahngebühr gegen Zahlungsziel",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer zu spät zahlt, bekommt eine Mahngebühr. Wer zu spät auszahlt, nennt es Zahlungsziel."
-    },
-    {
-      "id": "2026-08-09-1130-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Standortattraktivität als Kennzahl",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Standortattraktivität misst, wie wenig ein Land von denen verlangt, die am meisten hätten."
-    },
-    {
-      "id": "2026-08-09-1130-07e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Landwirtschaft krank, Lobby warnt vor Klimaschutz",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Landwirt*innen werden nachweislich krank von den Wetterextremen. Die Agrarlobby warnt weiterhin vor den Kosten des Klimaschutzes."
-    },
-    {
-      "id": "2026-08-09-1130-08e",
-      "typ": "schnittmenge",
-      "stichwort": "Steinzeitkleidung hält den Sommer aus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 2,
-      "text": "Ein Mann testet Steinzeitkleidung an sich selbst. Sie hält den Sommer besser aus als jedes Neubauviertel."
-    },
-    {
-      "id": "2026-08-09-1130-09",
-      "typ": "remix",
-      "stichwort": "Erschlossen bis man ohne Erfahrung verunglückt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 10,
-      "text": "Die Alpen sind inzwischen so gut erschlossen, dass man zum Verunglücken keine Erfahrung mehr braucht."
-    },
-    {
-      "id": "2026-08-09-1130-10",
-      "typ": "persönlich",
-      "stichwort": "Kinderzeichnung gegen Bildgenerator",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 5,
-      "text": "Meine Tochter zeichnet eine Stunde an einem Bild (echtes Detail einsetzen). Die KI braucht vier Sekunden und hängt trotzdem nicht am Kühlschrank."
-    },
-    {
-      "id": "2026-08-09-1130-11e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Virus wandert nordwärts, Grenzdebatte nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Mücken bringen das West-Nil-Virus nach Norditalien. In der Grenzdebatte geht es weiterhin ausschliesslich um Menschen."
+      "text": "Ich finde es richtig, dass jeder für sein Vermögen etwas leisten muss. Meine Grossmutter zum Beispiel ist gestorben.",
+      "format": 13
     }
   ]
 }
