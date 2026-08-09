@@ -6023,6 +6023,127 @@
       "format": 3,
       "text": "Austherapiert heisst nicht, dass die Therapie vorbei ist. Sondern das Budget.",
       "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1756-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trockenheit trifft praktischerweise den Rasen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Beruhigend, dass die Trockenheit vor allem den Rasen trifft. Alles andere hätte Investitionen gebraucht.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1756-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Autoritäre Männlichkeit sitzt im Parlament",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Autoritäre Männlichkeit hat den CSD angegriffen. Sie sitzt seit Jahren im Parlament und stellt Anträge.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1756-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Niedrigwasser, also mehr Diesel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Die Flüsse führen zu wenig Wasser. Gut, dass wir dafür jetzt mehr Diesel verbrennen dürfen.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1756-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gesetz als Preisliste",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ab einem gewissen Vermögen ist das Gesetz kein Verbot mehr, sondern eine Preisliste.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1756-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuervollzug scheitert an der Rechtsabteilung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 2,
+      "text": "Steuerbehörden finden zuverlässig jeden Franken. Ausser er hat eine Rechtsabteilung.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1756-07e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Taliban werben um Touristen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 11,
+      "text": "Reiseprogramm in Afghanistan: Bergwandern, Basar, Gastfreundschaft. Nicht im Programm: die Hälfte der Bevölkerung.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1756-08",
+      "typ": "schnittmenge",
+      "stichwort": "Hungerstein taucht auf, wir fotografieren",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 4,
+      "text": "Auf dem Hungerstein in der Elbe steht seit 1616: Wenn du mich siehst, dann weine. Wir machen ein Foto.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1756-09",
+      "typ": "remix",
+      "stichwort": "Demokratie am Ende, sagen die Blockierer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Die Demokratie sei am Ende, sagen die, die im Parlament jede Abstimmung blockieren. Sie arbeiten daran.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1756-10",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm gegen Niedrigwasser",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seit sieben Jahren läuft meine Abwaschmaschine auf ECO. Der Rhein liegt trotzdem trocken. Vielleicht liegt es an mir.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1756-11",
+      "typ": "persönlich",
+      "stichwort": "Amerika vermisst Schweizer Touristen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Amerika vermisst Schweizer Touristen. Meine Tochter fragt, ob man dort wieder rauskommt.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-1756-12",
+      "typ": "persönlich",
+      "stichwort": "Hund aus Rumänien, bestens integriert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Mein Hund kam aus Rumänien, spricht kein Wort Deutsch und gilt hier als bestens integriert.",
+      "datum": "2026-08-09"
     }
   ]
 }
