@@ -6661,6 +6661,127 @@
       "format": "frei",
       "text": "Meine Brille liegt seit Mittwoch im See. Für vier Hitzewellen ist da erstaunlich viel Wasser, aber bei minus drei Dioptrien kann das auch ein Parkplatz nach dem Gewitter sein.",
       "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2000-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "40 Minuten am Schalter, Ökonom sieht zu viel Staat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich stand letzte Woche 40 Minuten am Schalter eines Amtes. Laut dem Ökonomen in der Zeitung stellt der Staat zu viele Leute ein.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2000-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gaza-Plan war nie ein Plan",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Netanjahu stellt sich gegen Trumps Gaza-Plan von Ende Juli. Nicht der Plan ist das Problem, sondern dass ihn jemand für einen gehalten hat.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2000-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "350 kranke Lehrkräfte als Verwaltungserfolg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es richtig, dass in Berlin 350 Lehrkräfte seit über einem Jahr krankgeschrieben sind. Anders kriegen wir die Klassen ja nie so voll.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2000-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hormus als Preisbegründung an der Zapfsäule",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Endlich mal ein Konzern mit Haltung: Solange Iran die Strasse von Hormus dichthält, geben wir die Unsicherheit an der Zapfsäule eins zu eins weiter. Aufgerundet.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2000-05e",
+      "typ": "schnittmenge",
+      "stichwort": "Helmpflicht für mich, zwei Tonnen für niemanden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 17,
+      "text": "Sicherheit geht vor, sagt Paris und schreibt mir auf dem E-Scooter einen Helm vor. Dem SUV daneben, zwei Tonnen schwer, schreibt es gar nichts vor.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2000-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "170 Jahre fuer ein UBS-Jahresgehalt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Für das Jahresgehalt des UBS-Chefs müsste ich 170 Jahre arbeiten. In dieser Zeit wurden das Telefon und die Rente erfunden. Eines davon erlebe ich noch.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2000-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ruestungsaktie liegt in der eigenen Pensionskasse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seit 2022 hat sich die Rheinmetall-Aktie verzehnfacht. Sie liegt auch in meiner Pensionskasse. Immerhin habe ich so etwas vom Krieg.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2000-08e",
+      "typ": "schnittmenge",
+      "stichwort": "Beiger Anzug als grösster Skandal",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Obama spielt in einem Sketch seinen beigen Anzug von 2014 nach, den grössten Aufreger seiner Amtszeit. Ich hätte gern wieder Probleme, die man in der Reinigung löst.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2000-09e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wirkstoff gegen Albträume, Zulassung nach Rendite",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ich habe gelesen, dass ein Cannabis-Wirkstoff gegen belastende Albträume hilft. Verschrieben wird er, sobald jemand ausgerechnet hat, wie viel schlechter Schlaf pro Nacht abwirft.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2000-10e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Roboter kontrolliert die letzte Putzkraft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Gegen den Personalmangel hat ein Hotel in Potsdam einen Roboter angeschafft. Er kontrolliert jetzt, ob die eine Person, die geblieben ist, sauber genug arbeitet.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2000-12",
+      "typ": "persönlich",
+      "stichwort": "Tochter fragt nach Charkiw",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Meine Tochter wollte wissen, warum Russland nachts Wohnhäuser in Charkiw bombardiert. Ich habe gesagt, dass die Erwachsenen darüber reden. Seit viereinhalb Jahren.",
+      "datum": "2026-08-09"
     }
   ]
 }
