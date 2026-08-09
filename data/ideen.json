@@ -1,127 +1,37 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-09-1943-01",
-      "typ": "persönlich",
-      "stichwort": "Jahrhundertdürre gegen meine Brille",
+      "id": "2026-08-09-1955-01",
+      "typ": "schnittmenge",
+      "stichwort": "Brille im See, vier Hitzewellen, falscher See",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich habe heute meine Brille im See verloren. So viel zur Jahrhundertdürre 2026."
+      "text": "Ich habe meine Brille im See verloren. Nach vier Hitzewellen erstaunlich viel Wasser drin. Vielleicht falscher See."
     },
     {
-      "id": "2026-08-09-1943-02",
-      "typ": "persönlich",
-      "stichwort": "Vierzig Zentimeter Restsee",
+      "id": "2026-08-09-1955-02",
+      "typ": "schnittmenge",
+      "stichwort": "Brille liegt drin, Wasser reicht noch, vielleicht der falsche",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Nicht der Klimawandel hat meine Brille verschluckt. Sondern vierzig Zentimeter Restsee."
+      "format": 16,
+      "text": "Meine Brille liegt im See. Nach vier Hitzewellen noch viel Wasser drin. Vielleicht der falsche."
     },
     {
-      "id": "2026-08-09-1943-03",
-      "typ": "persönlich",
-      "stichwort": "Zwanzig Minuten blind tauchen",
+      "id": "2026-08-09-1955-03",
+      "typ": "schnittmenge",
+      "stichwort": "Vier Hitzewellen, See immer noch voll, Brille als Zeugin",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Ich habe zwanzig Minuten blind nach meiner Brille getaucht. So leer ist der See nicht."
-    },
-    {
-      "id": "2026-08-09-1943-04",
-      "typ": "persönlich",
-      "stichwort": "Tagesschau zeigt Flussbetten, See kassiert 400 Franken",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe heute meine Brille im See verloren. Seit Wochen zeigt die Tagesschau ausgetrocknete Flussbetten, trotzdem hat dieser See 400 Franken in zwei Sekunden verschluckt."
-    },
-    {
-      "id": "2026-08-09-1943-05",
-      "typ": "persönlich",
-      "stichwort": "Nicht der Klimawandel, sondern minus drei Dioptrien",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Ich habe heute meine Brille im See verloren. Nicht der Klimawandel hat sie versteckt, sondern 40 Zentimeter trübes Wasser und meine minus drei Dioptrien."
-    },
-    {
-      "id": "2026-08-09-1943-06",
-      "typ": "persönlich",
-      "stichwort": "Solange der See die Gleitsicht behält, keine Hitzewarnung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Seit heute liegt meine Brille im Vierwaldstättersee. Beruhigend: Solange er meine 300 Franken Gleitsicht behält, kann der Bund die Hitzewarnung Stufe 3 wieder einpacken."
-    },
-    {
-      "id": "2026-08-09-1943-07",
-      "typ": "persönlich",
-      "stichwort": "Pegel rührt sich für mich nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "151 Gemeinden rationieren diese Woche das Wasser, gleiche Woche legt die Elbe einen Hungerstein frei. Meine Brille liegt seit Samstag im See, und der Pegel rührt sich nicht."
-    },
-    {
-      "id": "2026-08-09-1943-08",
-      "typ": "persönlich",
-      "stichwort": "Nicht die Trockenheit unterschätzt, das Wasser",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Ich habe am Samstag meine Brille im See verloren. Unterschätzt habe ich nicht die Trockenheit, sondern wie viel Wasser nach drei Dürresommern immer noch drin ist."
-    },
-    {
-      "id": "2026-08-09-1943-09",
-      "typ": "persönlich",
-      "stichwort": "380 Franken als Pegelmessung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich finde es beruhigend, dass mein See eine Brille für 380 Franken einfach behält. So tief kann der Pegel dieses Jahr also nicht gesunken sein."
-    },
-    {
-      "id": "2026-08-09-1943-10",
-      "typ": "persönlich",
-      "stichwort": "Brille versenkt, Pegel reicht noch",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe meine Brille im See verloren, trotz Rekordniedrigwasser und wochenlanger Dürre. Für 400 Franken Gleitsicht reicht der Pegel offenbar immer noch."
-    },
-    {
-      "id": "2026-08-09-1943-11",
-      "typ": "persönlich",
-      "stichwort": "Brille nötig, um Brille zu finden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Nicht der Rekordtiefstand hat mir die Brille zurückgegeben. Um sie in 1,5 Metern Wasser zu sehen, hätte ich sie halt aufhaben müssen."
-    },
-    {
-      "id": "2026-08-09-1943-12",
-      "typ": "persönlich",
-      "stichwort": "Entwarnung an dreissig Jahre Nichtstun",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich habe meine Brille im See verloren, zwei Meter neben einem trockengefallenen Pegel. Entwarnung an alle, die seit 30 Jahren nichts tun: es ist noch Wasser drin."
+      "text": "Vier Hitzewellen, und im See ist immer noch Wasser. Ich weiss es, meine Brille liegt drin."
     }
   ]
 }
