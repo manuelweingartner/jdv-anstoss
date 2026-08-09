@@ -6,122 +6,122 @@
     {
       "id": "2026-08-09-1802-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Long Covid: erforscht, nicht behandelt",
+      "stichwort": "Long Covid: Akte sagt unauffällig",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Long Covid ist heute besser erforscht als je zuvor. Behandelt wird trotzdem nicht: Wissen ist billiger als Medizin."
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Hunderttausende haben Long Covid und keine Therapie. In der Akte steht: Verlauf unauffällig."
     },
     {
       "id": "2026-08-09-1802-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Warnen ist die mehrheitsfähige Klimamassnahme",
+      "stichwort": "Hitzewarnstufe 3 statt Klimapolitik",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Ab Sonntag warnt der Bund die halbe Schweiz vor Hitze. Warnen ist die einzige Klimamassnahme, die Mehrheiten findet."
+      "text": "Ab Sonntag gilt Hitzewarnstufe 3 für fast das ganze Land. Warnen ist die billigste Form von Klimapolitik."
     },
     {
       "id": "2026-08-09-1802-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Quereinsteiger gewinnt, Diplom wartet",
+      "stichwort": "Fahrlehrer gewinnt Weinpreise",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Ein Fahrlehrer gewinnt mit seinem ersten Wein zwei Preise. Eine Ärztin aus Syrien wartet im dritten Jahr auf ihre Diplomanerkennung."
+      "format": 13,
+      "text": "Ein Fahrlehrer gewinnt mit dem ersten Wein zwei Preise. Schön, dass wir uns einig sind: Alle anderen wollen einfach nicht genug."
     },
     {
       "id": "2026-08-09-1802-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Sprengverbot gilt dem Vorgarten",
+      "stichwort": "Beobachtet wird zuverlässig",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Wo der Rasen nicht mehr bewässert werden darf, geht es um Vorgärten. Golfplätze haben eigene Quellen."
+      "format": 3,
+      "text": "Der Hang stand seit Jahren unter Beobachtung. Gut dokumentiert ist bei uns alles, was wir kommen lassen."
     },
     {
       "id": "2026-08-09-1802-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Berg beobachtet, Zuschauen als Massnahme",
+      "stichwort": "Giessverbot für Private, Abfüller pumpen weiter",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Am Oeschinensee bricht der Fels. Das Gebiet wird seit Jahren beobachtet, Zuschauen gilt inzwischen als Massnahme."
+      "format": 1,
+      "text": "151 Gemeinden verbieten ihrer Bevölkerung das Giessen. Wer Wasser in Flaschen abfüllt, darf weiterpumpen."
     },
     {
       "id": "2026-08-09-1802-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Akkus halten, Zweifel halten länger",
+      "stichwort": "Akkus halten, Ausreden länger",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Die getesteten E-Auto-Akkus halten nach 100'000 Kilometern erstaunlich gut. Die Zweifel daran halten noch länger."
+      "text": "Nach 100'000 Kilometern halten die Akkus noch. Die Ausreden halten länger."
     },
     {
       "id": "2026-08-09-1802-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Postkarten kommen an, Pflegepersonal nicht",
+      "stichwort": "Postkarten kommen, Pflegepersonal nicht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Postkarten für ein Altersheim: Tausende kommen an. Um Pflegepersonal bittet es seit Jahren."
+      "text": "Ein Altersheim bittet um Postkarten und wird überhäuft. Um Pflegepersonal bittet es seit Jahren."
     },
     {
       "id": "2026-08-09-1802-08",
       "typ": "politisch-aktuell",
-      "stichwort": "Wildtiere passen sich an, wir betonieren",
+      "stichwort": "Wolf abschiessen, Hitze nicht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Wildschweine suhlen sich, Bären suchen Schatten. Nur eine Art hier baut bei 38 Grad weiter Parkplätze."
+      "format": 13,
+      "text": "Gut, dass der Wolf zum Abschuss freigegeben ist. Gegen die Hitze hilft leider kein Gewehr."
     },
     {
       "id": "2026-08-09-1802-09",
       "typ": "politisch-aktuell",
-      "stichwort": "Helmpflicht statt zwei Tonnen daneben",
+      "stichwort": "Velofahrer als Hindernis",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ein E-Bike-Fahrer liegt im Spital. Die Debatte dreht sich um Helmpflicht, nicht um die zwei Tonnen daneben."
+      "haltbarkeit": "evergreen",
+      "format": 4,
+      "text": "Auf dem Land ist ein Velofahrer kein Verkehrsteilnehmer, sondern ein Hindernis mit Angehörigen."
     },
     {
       "id": "2026-08-09-1802-10",
       "typ": "politisch-aktuell",
-      "stichwort": "Tanzen bewilligt, Demonstrieren gefährlich",
+      "stichwort": "Drogen: Parade oder Parkbank",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Hunderttausende tanzen auf der Strasse: eine Bewilligung. Tausend demonstrieren auf derselben Strasse: ein Sicherheitsrisiko."
+      "text": "Fast eine Million Menschen auf Drogen heisst Street Parade. Drei auf einer Parkbank heissen Drogenproblem."
     },
     {
       "id": "2026-08-09-1802-11",
       "typ": "politisch-aktuell",
-      "stichwort": "Hitzerekord ohne Training",
+      "stichwort": "Verantwortung unten, Bonus oben",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Endlich ein Hitzerekord, für den niemand trainieren musste. Investiert haben ein paar Konzerne trotzdem jahrzehntelang."
+      "format": 3,
+      "text": "Nach der Klatsche übernimmt der Trainer die Verantwortung. Die Chefetage übernimmt den Bonus."
     },
     {
       "id": "2026-08-09-1802-12",
       "typ": "politisch-aktuell",
-      "stichwort": "Umfrage vor der Abstimmung",
+      "stichwort": "Viermal im Jahr abstimmen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Vor jeder Abstimmung fragt die SRG, wie ich stimme. Beim ersten Mal antworte ich noch ehrlich."
+      "format": 13,
+      "text": "Beruhigend, dass wir viermal im Jahr abstimmen dürfen. So fällt weniger auf, wer die restlichen 361 Tage entscheidet."
     }
   ]
 }
