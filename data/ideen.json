@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "7 von 12 da, der Rest lädt noch.",
+  "hinweis": "10 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -72,6 +72,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Am Bau wird jede Minute gestempelt. Im Verwaltungsrat reicht ein Sitzungsgeld für Anwesenheit."
+    },
+    {
+      "id": "2026-08-09-0757-10",
+      "typ": "persönlich",
+      "stichwort": "Flimmerpause: Kind kennt uns besser als Meta",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Sieben Tage ohne Bildschirm als Familienprogramm. Am vierten Tag kannte das Kind unsere Daten besser als Meta."
+    },
+    {
+      "id": "2026-08-09-0757-11",
+      "typ": "persönlich",
+      "stichwort": "Mietsenkung-App: Angst vor dem Vermieter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ich habe eine App gebaut, die Mieten senkt. Am häufigsten gefragt wird, ob der Vermieter davon erfährt. (echtes Detail einsetzen)"
+    },
+    {
+      "id": "2026-08-09-0757-12",
+      "typ": "persönlich",
+      "stichwort": "Wasserschale für den Hund, Brunnendebatte für Menschen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Für den Hund stelle ich bei Hitze überall Wasser hin. Für Menschen ohne Wohnung diskutiert die Stadt noch über Brunnen."
     }
   ]
 }
