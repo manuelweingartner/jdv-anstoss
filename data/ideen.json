@@ -26,22 +26,22 @@
     {
       "id": "2026-08-09-1122-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Geheimdienstchef wechselt zur Rüstung",
+      "stichwort": "Ex-Geheimdienstchef wechselt in die Rüstung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Gute Nachricht: Der Ex-Geheimdienstchef geht zum Rüstungskonzern. Wer die Nachfrage kennt, soll auch am Angebot verdienen."
+      "text": "Schön, dass der Ex-Mossad-Chef jetzt bei einem Rüstungskonzern anfängt. Die Nachfrage hat er sich jahrelang selbst aufgebaut."
     },
     {
       "id": "2026-08-09-1122-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Gesperrte Routen als Klimaanpassung",
+      "stichwort": "Behördenbilanz nach der Technoparty",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Erfreulich, dass die gefährlichen Bergrouten jetzt gesperrt sind. Damit ist die Klimaanpassung planmässig abgeschlossen."
+      "text": "Erfreulich: 906 Behandlungen bei über 30 Grad. Und trotz der Auslastung haben wir noch 30 Leute festgenommen."
     },
     {
       "id": "2026-08-09-1122-05",
@@ -96,32 +96,32 @@
     {
       "id": "2026-08-09-1122-10",
       "typ": "persönlich",
-      "stichwort": "Notstand als Jahreszeit",
+      "stichwort": "Ferienwohnung ist bei uns Erholung",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 5,
-      "text": "Meine Tochter hält Notstand für eine Jahreszeit. Korrigiert habe ich sie nicht."
+      "format": 1,
+      "text": "Für uns sind zwei Wochen Ferienwohnung Erholung. Für die Insel sind sie die Wohnungsnot."
     },
     {
       "id": "2026-08-09-1122-11",
       "typ": "persönlich",
-      "stichwort": "Joghurtbecher gegen Street Parade",
+      "stichwort": "Tochter fragt nach den Bürotürmen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ich spüle jeden Joghurtbecher aus. Nach einer Nacht Street Parade fahren (echtes Detail einsetzen) Lastwagen Abfall weg."
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Wir löschen zu Hause jedes Licht. Meine Tochter fragt, wer die Bürotürme abschaltet."
     },
     {
       "id": "2026-08-09-1122-12",
       "typ": "persönlich",
-      "stichwort": "Zusammenhalt im Dorf",
+      "stichwort": "Abfall trennen beruhigt",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "In meiner Gemeinde reden alle vom Zusammenhalt. Gemeint ist, dass niemand Neues dazukommt."
+      "format": 13,
+      "text": "Beruhigend, dass ich meinen Abfall trenne. Sonst wäre die Klimakrise wirklich ein Problem."
     }
   ]
 }
