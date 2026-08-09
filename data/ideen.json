@@ -1,127 +1,27 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-09-1802-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Long Covid: Akte sagt unauffällig",
+      "id": "2026-08-09-1820-03",
+      "typ": "schnittmenge",
+      "stichwort": "Brille im See, Kasse findet das gut",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Hunderttausende haben Long Covid und keine Therapie. In der Akte steht: Verlauf unauffällig."
-    },
-    {
-      "id": "2026-08-09-1802-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hitzewarnstufe 3 statt Klimapolitik",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ab Sonntag gilt Hitzewarnstufe 3 für fast das ganze Land. Warnen ist die billigste Form von Klimapolitik."
-    },
-    {
-      "id": "2026-08-09-1802-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fahrlehrer gewinnt Weinpreise",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Ein Fahrlehrer gewinnt mit dem ersten Wein zwei Preise. Schön, dass wir uns einig sind: Alle anderen wollen einfach nicht genug."
+      "text": "Ich habe meine Brille heute im See verloren und es der Kasse gemeldet. Gute Nachricht: Sehen ist seit 2004 keine Leistung, sondern ein Hobby."
     },
     {
-      "id": "2026-08-09-1802-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Beobachtet wird zuverlässig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Der Hang stand seit Jahren unter Beobachtung. Gut dokumentiert ist bei uns alles, was wir kommen lassen."
-    },
-    {
-      "id": "2026-08-09-1802-05e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Sicherheitsfreigabe für ein geschenktes Flugzeug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Das Pentagon entzieht einem Beamten die Sicherheitsfreigabe, weil er über Trumps Flugzeug gesprochen hat. Bezahlt hat es Katar."
-    },
-    {
-      "id": "2026-08-09-1802-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Akkus halten, Ausreden länger",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Nach 100'000 Kilometern halten die Akkus noch. Die Ausreden halten länger."
-    },
-    {
-      "id": "2026-08-09-1802-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Postkarten kommen, Pflegepersonal nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Ein Altersheim bittet um Postkarten und wird überhäuft. Um Pflegepersonal bittet es seit Jahren."
-    },
-    {
-      "id": "2026-08-09-1802-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wolf abschiessen, Hitze nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Gut, dass der Wolf zum Abschuss freigegeben ist. Gegen die Hitze hilft leider kein Gewehr."
-    },
-    {
-      "id": "2026-08-09-1802-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Velofahrer als Hindernis",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 4,
-      "text": "Auf dem Land ist ein Velofahrer kein Verkehrsteilnehmer, sondern ein Hindernis mit Angehörigen."
-    },
-    {
-      "id": "2026-08-09-1802-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Drogen: Parade oder Parkbank",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Fast eine Million Menschen auf Drogen heisst Street Parade. Drei auf einer Parkbank heissen Drogenproblem."
-    },
-    {
-      "id": "2026-08-09-1802-11",
-      "typ": "politisch-aktuell",
-      "stichwort": "Verantwortung unten, Bonus oben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Nach der Klatsche übernimmt der Trainer die Verantwortung. Die Chefetage übernimmt den Bonus."
-    },
-    {
-      "id": "2026-08-09-1802-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "Viermal im Jahr abstimmen",
+      "id": "2026-08-09-1820-04",
+      "typ": "schnittmenge",
+      "stichwort": "640 Franken fürs scharfe Sehen, verdient",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Beruhigend, dass wir viermal im Jahr abstimmen dürfen. So fällt weniger auf, wer die restlichen 361 Tage entscheidet."
+      "text": "Meine Brille liegt seit heute im See, die neue kostet 640 Franken. Ich finde es richtig: Wer scharf sehen will, soll es sich verdienen."
     }
   ]
 }
