@@ -1,137 +1,37 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-09-0643-01",
+      "id": "2026-08-09-0757-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Ebola-Impfstoff liegt am falschen Ort",
+      "stichwort": "Erben schlägt Arbeiten",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Gegen Ebola gibt es seit Jahren einen Impfstoff. Gelagert wird er dort, wo niemand Ebola hat."
+      "text": "Wer erbt, bekommt einen Steuerberater. Wer arbeitet, bekommt eine Lohnabrechnung mit Erklärung, warum es diesmal weniger ist."
     },
     {
-      "id": "2026-08-09-0643-02",
+      "id": "2026-08-09-0757-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Heimliche Mobilisierung, informierte Anleger",
+      "stichwort": "Leere Wohnung als Wertanlage",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Hunderttausende werden heimlich eingezogen. Unsere Rüstungsaktien wussten es schon letzte Woche."
-    },
-    {
-      "id": "2026-08-09-0643-03",
-      "typ": "schnittmenge",
-      "stichwort": "Erschöpfung beweisen, vierzig Seiten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Ich finde es richtig, dass Kranke ihre Krankheit beweisen müssen. Wer wirklich erschöpft ist, schafft die vierzig Seiten locker."
+      "text": "Beruhigend, dass die leerstehende Zweitwohnung im dritten Stock wenigstens keine Lärmklagen verursacht."
     },
     {
-      "id": "2026-08-09-0643-04e",
+      "id": "2026-08-09-0757-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Manager-Bonus an Pünktlichkeit gekoppelt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Zugverspätungen kosten künftig den Manager-Bonus. Neu ist nicht die Pünktlichkeit, neu ist, dass ihr Fehlen jemanden etwas kostet."
-    },
-    {
-      "id": "2026-08-09-0643-05e",
-      "typ": "schnittmenge",
-      "stichwort": "Versicherung erkennt den Ernstfall nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 2,
-      "text": "Versicherungen sind dafür gebaut, im Ernstfall zu zahlen. Den Ernstfall erkennen sie erst nach dem dritten Gutachten."
-    },
-    {
-      "id": "2026-08-09-0643-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Care-Arbeit zählt erst bei Fremden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Care-Arbeit ist die einzige Arbeit, die erst als Arbeit zählt, wenn Fremde sie machen."
-    },
-    {
-      "id": "2026-08-09-0643-07e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Eierwurf im Parlament",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Eine Abgeordnete bewirft den Regierungschef mit Eiern. Zum ersten Mal seit Jahren trifft im Parlament jemand etwas."
-    },
-    {
-      "id": "2026-08-09-0643-08e",
-      "typ": "schnittmenge",
-      "stichwort": "Botox bei Männern als Marktlücke",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Männer entdecken Botox. Die Kosmetikindustrie hat die letzte Zielgruppe gefunden, die sich noch für fertig hielt."
-    },
-    {
-      "id": "2026-08-09-0643-08e",
-      "typ": "schnittmenge",
-      "stichwort": "Freiwillig zur Schule, sobald Noten wegfallen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Jugendliche gehen freiwillig ein Jahr länger zur Schule, sobald es keine Noten gibt. Die Bildungspolitik nennt das nicht übertragbar."
-    },
-    {
-      "id": "2026-08-09-0643-09",
-      "typ": "remix",
-      "stichwort": "Kanada ruft den Notstand aus, Trump fragt nach dem Preis",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "British Columbia ruft den Notstand aus. Trump fragt, ob der Brandschaden im Kaufpreis schon drin ist."
-    },
-    {
-      "id": "2026-08-09-0643-10",
-      "typ": "persönlich",
-      "stichwort": "Kind fragt nach dem Sinn von Noten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 5,
-      "text": "Das Kind will wissen, wofür Noten gut sind. Damit früh feststeht, wer später Anweisungen gibt."
-    },
-    {
-      "id": "2026-08-09-0643-11",
-      "typ": "persönlich",
-      "stichwort": "Sieben Jahre ECO-Programm",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ich wasche seit sieben Jahren im ECO-Programm ab. Die Rettung des Planeten geht gut voran, danke der Nachfrage."
-    },
-    {
-      "id": "2026-08-09-0643-12",
-      "typ": "persönlich",
-      "stichwort": "Hund aus Rumänien ohne Verfahren",
+      "stichwort": "Arbeitszeiterfassung nur nach unten",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Mein Hund kam aus Rumänien. Er brauchte kein Verfahren, nur ein Foto und jemanden, der ihn wollte."
+      "text": "Am Bau wird jede Minute gestempelt. Im Verwaltungsrat reicht ein Sitzungsgeld für Anwesenheit."
     }
   ]
 }
