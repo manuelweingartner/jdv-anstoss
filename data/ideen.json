@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "hinweis": "5 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "evergreen",
       "format": 2,
       "text": "Die Polizei wurde gebaut, um Eigentum zu schützen. Sie funktioniert bis heute einwandfrei."
+    },
+    {
+      "id": "2026-08-09-0643-08",
+      "typ": "schnittmenge",
+      "stichwort": "Ei im Parlament vs. Rentenkürzung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer im Parlament ein Ei wirft, ist ausser Kontrolle. Wer Renten kürzt, ist staatstragend."
+    },
+    {
+      "id": "2026-08-09-0643-09",
+      "typ": "remix",
+      "stichwort": "Versicherung prüft länger als die Kraft reicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Die Versicherung prüft so gründlich, dass die Krankheit einen Namen hat, bevor die Kranken eine Antwort haben."
     }
   ]
 }
