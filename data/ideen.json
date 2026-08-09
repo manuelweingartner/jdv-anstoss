@@ -36,32 +36,32 @@
     {
       "id": "2026-08-09-1222-04",
       "typ": "schnittmenge",
-      "stichwort": "Heizkosten sparen, Miete steigt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Schön, dass Mieter*innen jetzt digital Heizkosten sparen können. Was sie sparen, holen wir bei der nächsten Mieterhöhung zurück."
-    },
-    {
-      "id": "2026-08-09-1222-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bank bekennt sich zur Aufarbeitung",
+      "stichwort": "Wirtschaftsdelikt bis zur Pensionierung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Wir bekennen uns klar zur lückenlosen Aufarbeitung. Sobald die letzten Zeugen pensioniert sind, legen wir los."
+      "text": "Selbstverständlich verfolgen wir Wirtschaftskriminalität konsequent. Bis zum letzten Rekurs, notfalls über die Pensionierung hinaus."
     },
     {
-      "id": "2026-08-09-1222-06",
+      "id": "2026-08-09-1222-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Konzern begrüsst den Notstand",
+      "stichwort": "Ermittlung gegen den, der es meldete",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Als Energiekonzern begrüssen wir den Notstand in British Columbia. Notstände verkürzen Bewilligungsverfahren, davon profitieren am Ende alle."
+      "text": "Wir nehmen Antisemitismus sehr ernst. Deshalb ermitteln wir mit voller Härte gegen den, der ihn öffentlich gemacht hat."
+    },
+    {
+      "id": "2026-08-09-1222-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Spendenskandal als Ankunft in der Mitte",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Beruhigend, dass die Anti-Establishment-Partei jetzt auch Spendenaffären hat. Damit ist sie endlich in der Mitte angekommen."
     },
     {
       "id": "2026-08-09-1222-07",
@@ -96,32 +96,32 @@
     {
       "id": "2026-08-09-1222-10",
       "typ": "schnittmenge",
-      "stichwort": "Wohnen als Menschenrecht, verkäuflich",
+      "stichwort": "Formular als Gesundheitstest",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Selbstverständlich ist Wohnen ein Menschenrecht. Sonst könnten wir es Ihnen ja nicht verkaufen."
+      "text": "Gute Nachricht aus der Versicherung: Wer das Formular allein ausfüllen kann, ist gesund genug zum Arbeiten."
     },
     {
       "id": "2026-08-09-1222-11",
       "typ": "schnittmenge",
-      "stichwort": "Wer Anträge schafft, ist arbeitsfähig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Gute Nachricht aus der Versicherung: Wer nach vier Jahren Abklärung noch Anträge stellen kann, ist offensichtlich arbeitsfähig."
-    },
-    {
-      "id": "2026-08-09-1222-12",
-      "typ": "schnittmenge",
-      "stichwort": "Privatsphäre schützen, vorher kennen",
+      "stichwort": "Bank findet Bargeld gefährlich",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Wir haben nichts gegen Ihre Privatsphäre. Wir möchten sie nur vollständig kennen, bevor wir sie schützen."
+      "text": "Wir bei der Bank finden Bargeld gefährlich. Damit kann jeder sein Geld aufbewahren, ohne uns dafür zu bezahlen."
+    },
+    {
+      "id": "2026-08-09-1222-12",
+      "typ": "schnittmenge",
+      "stichwort": "Bildung muss etwas kosten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich finde es richtig, dass Bildung etwas kosten muss. Sonst studieren am Ende Leute, die es nötig haben."
     }
   ]
 }
