@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "hinweis": "4 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Beruhigend, dass wir bei der Verkehrssicherheit ganz unten anfangen: Helmpflicht für Roller. Tonnen und Tempo prüfen wir später."
+    },
+    {
+      "id": "2026-08-09-1130-08",
+      "typ": "schnittmenge",
+      "stichwort": "Armband für Frauen, Verständnis für Täter",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Gegen K.-o.-Tropfen gibt es Armbänder für Frauen. Gegen Täter gibt es Verständnis."
+    },
+    {
+      "id": "2026-08-09-1130-09",
+      "typ": "remix",
+      "stichwort": "Erschlossen bis man ohne Erfahrung verunglückt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Die Alpen sind inzwischen so gut erschlossen, dass man zum Verunglücken keine Erfahrung mehr braucht."
     }
   ]
 }
