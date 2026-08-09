@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -62,6 +62,36 @@
       "haltbarkeit": "evergreen",
       "text": "Ich finde es richtig, dass jeder für sein Vermögen etwas leisten muss. Meine Grossmutter zum Beispiel ist gestorben.",
       "format": 13
+    },
+    {
+      "id": "2026-08-09-1222-10",
+      "typ": "schnittmenge",
+      "stichwort": "Wohnen als Menschenrecht, verkäuflich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Selbstverständlich ist Wohnen ein Menschenrecht. Sonst könnten wir es Ihnen ja nicht verkaufen."
+    },
+    {
+      "id": "2026-08-09-1222-11",
+      "typ": "schnittmenge",
+      "stichwort": "Wer Anträge schafft, ist arbeitsfähig",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Gute Nachricht aus der Versicherung: Wer nach vier Jahren Abklärung noch Anträge stellen kann, ist offensichtlich arbeitsfähig."
+    },
+    {
+      "id": "2026-08-09-1222-12",
+      "typ": "schnittmenge",
+      "stichwort": "Privatsphäre schützen, vorher kennen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Wir haben nichts gegen Ihre Privatsphäre. Wir möchten sie nur vollständig kennen, bevor wir sie schützen."
     }
   ]
 }
