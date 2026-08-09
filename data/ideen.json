@@ -1,8 +1,38 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "6 von 12 da, der Rest lädt noch.",
+  "hinweis": "9 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-09-1441-01",
+      "typ": "schnittmenge",
+      "stichwort": "Gramm im Rucksack vs. Abgeordneter im Graben",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Ein Gramm im Rucksack ist ein Strafverfahren. Ein Abgeordneter im Strassengraben ist ein Einzelfall."
+    },
+    {
+      "id": "2026-08-09-1441-02",
+      "typ": "schnittmenge",
+      "stichwort": "Beweislast bei den Kranken, überaffirmiert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Verständlich, dass Kranke ihre Krankheit erst beweisen müssen. Sonst wäre am Ende jeder krank, der es ist."
+    },
+    {
+      "id": "2026-08-09-1441-03",
+      "typ": "schnittmenge",
+      "stichwort": "Provinz in drei Tagen geräumt, Klima in dreissig Jahren beredet",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Für einen Taifun räumt man in drei Tagen eine ganze Provinz. Für das Klima braucht es dreissig Jahre Gespräche."
+    },
     {
       "id": "2026-08-09-1441-04",
       "typ": "schnittmenge",
