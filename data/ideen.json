@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -64,24 +64,14 @@
       "text": "Ich habe im See nicht die Brille verloren, sondern zwanzig Minuten damit verbracht, drei Rechnungen im Kopf umzusortieren, bis der Ersatz irgendwo hineinpasste."
     },
     {
-      "id": "2026-08-09-1820-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Der Seegrund hat Erben",
+      "id": "2026-08-09-1820-07e",
+      "typ": "schnittmenge",
+      "stichwort": "Was sonst noch am Seegrund liegt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Meine Brille liegt seit heute Mittag im See. Der Seegrund gehört einer Erbengemeinschaft, die seit 1904 nichts damit macht, ausser ihn zu besitzen."
-    },
-    {
-      "id": "2026-08-09-1820-08",
-      "typ": "schnittmenge",
-      "stichwort": "Brille im See, Sehen als Geschmacksfrage",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Meine Brille liegt seit heute im See. 380 Franken, keine Kasse zahlt mit, weil schlechte Augen offiziell kein Schicksal sind, sondern Geschmack."
+      "format": "frei",
+      "text": "Auf dem Grund des Sees liegt seit heute meine Brille, dazu 8000 Tonnen versenkte Armeemunition, die dort seit 60 Jahren niemanden stört."
     },
     {
       "id": "2026-08-09-1820-09",
@@ -94,34 +84,34 @@
       "text": "Ich sortiere seit sieben Jahren Abfall in vier Behälter. Heute fiel mir die Brille in den See und ich fühle mich schuldiger als jede Chemiefabrik."
     },
     {
-      "id": "2026-08-09-1820-10",
+      "id": "2026-08-09-1820-10e",
       "typ": "persönlich",
-      "stichwort": "Brille im See, Versicherung will Foto vom Seegrund",
+      "stichwort": "Barfusslaufen verbessert die Sehkraft",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe heute meine Brille im See verloren, 340 Franken. Die Versicherung will jetzt ein Foto vom Seegrund, sonst gilt das als Selbstverschulden."
+      "format": "frei",
+      "text": "Ich habe meine Brille heute im See verloren und seither drei Leute getroffen, die mir erklärt haben, dass Barfusslaufen die Sehkraft verbessert."
     },
     {
-      "id": "2026-08-09-1820-11",
+      "id": "2026-08-09-1820-11e",
       "typ": "persönlich",
-      "stichwort": "Wasserhund bleibt vier Meter vor dem Ufer stehen",
+      "stichwort": "Suche ohne das Gesuchte",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 2,
-      "text": "Ich habe heute meine Brille im See verloren. Der Wasserhund blieb vier Meter vor dem Ufer stehen und sah zu, wie sein Daseinszweck versinkt."
+      "format": "frei",
+      "text": "Ich habe meine Brille heute im See verloren und danach 40 Minuten mit genau der Sehkraft gesucht, wegen der ich sie trage."
     },
     {
-      "id": "2026-08-09-1820-12",
+      "id": "2026-08-09-1820-12e",
       "typ": "persönlich",
-      "stichwort": "Sehen ist keine Grundversorgung, sondern ein Abo",
+      "stichwort": "Tochter taucht auf Honorarbasis",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Meine Brille liegt seit 14 Uhr im See. Nicht weiter schlimm: Sehen ist in diesem Land ohnehin keine Grundversorgung, sondern ein Abo mit Selbstbehalt."
+      "format": 5,
+      "text": "Meine Tochter taucht seit einer Stunde nach der Brille, die ich heute im See verloren habe. Zwei Franken pro Versuch, Erfolg kostet extra."
     }
   ]
 }
