@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -34,16 +34,6 @@
       "text": "Die Flüsse führen zu wenig Wasser. Gut, dass wir dafür jetzt mehr Diesel verbrennen dürfen."
     },
     {
-      "id": "2026-08-09-1756-04",
-      "typ": "schnittmenge",
-      "stichwort": "Menschenrechte im Einkauf",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Menschenrechte sind uns wichtig. Darum beziehen wir sie von dort, wo sie am günstigsten sind."
-    },
-    {
       "id": "2026-08-09-1756-05",
       "typ": "politisch-aktuell",
       "stichwort": "Gesetz als Preisliste",
@@ -64,14 +54,14 @@
       "text": "Steuerbehörden finden zuverlässig jeden Franken. Ausser er hat eine Rechtsabteilung."
     },
     {
-      "id": "2026-08-09-1756-07",
+      "id": "2026-08-09-1756-07e",
       "typ": "politisch-aktuell",
-      "stichwort": "Streit nach unten statt nach oben",
+      "stichwort": "Taliban werben um Touristen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Endlich hat der Mittelstand verstanden, dass er sich mit den Armen streiten soll und nicht mit uns."
+      "format": 11,
+      "text": "Reiseprogramm in Afghanistan: Bergwandern, Basar, Gastfreundschaft. Nicht im Programm: die Hälfte der Bevölkerung."
     },
     {
       "id": "2026-08-09-1756-08",
