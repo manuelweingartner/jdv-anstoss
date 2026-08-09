@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "11 von 12 da, Dubletten-Check läuft noch.",
   "fertig": true,
   "ideen": [
     {
@@ -26,102 +26,92 @@
     {
       "id": "2026-08-09-2127-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Sonntagsfahrverbot gelockert, weil der Rhein zu wenig Wasser hat",
+      "stichwort": "Oliven im Zürcher Weinland, Klimaziel gern später",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich finde es richtig, dass Lastwagen jetzt sonntags fahren dürfen, seit der Rhein zu wenig Wasser führt. Die Ware muss ja irgendwie über die Dürre kommen."
+      "text": "Ich freue mich, dass im Zürcher Weinland jetzt Oliven wachsen. Die Klimaziele für 2050 verschieben wir gern noch einmal, solange die Ernte so gut läuft."
     },
     {
       "id": "2026-08-09-2127-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Russische Verluste, gezählt wird in Quadratkilometern",
+      "stichwort": "Rentenalter 67, mein Vermögen geht nie in Rente",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Russland verliert im Ukraine-Krieg inzwischen über tausend Männer am Tag. Gute Nachricht aus Moskau: gezählt wird nur, was in Quadratkilometern zurückkommt."
+      "text": "Endlich diskutieren wir wieder über das Rentenalter 67. Ich finde das richtig, mein Vermögen arbeitet seit Jahren ohne einen einzigen Beitrag und geht trotzdem nie in Rente."
     },
     {
       "id": "2026-08-09-2127-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Dossier fuer die Wohnung, Kontonummer fuer den Vermieter",
+      "stichwort": "Parkbusse gegen Rückstellung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ich habe für eine 3-Zimmer-Wohnung eine Bonitätsauskunft, drei Lohnabrechnungen und ein Foto meines Hundes eingereicht. Der Vermieter musste eine Kontonummer angeben."
+      "text": "Für 20 Minuten zu lang parkieren zahle ich 40 Franken Busse. Grosse Konzerne nennen so etwas Rückstellung und buchen es vorher ein."
     },
     {
       "id": "2026-08-09-2127-06",
       "typ": "politisch-aktuell",
-      "stichwort": "2'740 Jahre, um eine Milliarde auszugeben",
+      "stichwort": "490 Milliarden Steuerflucht, ungefähr Österreich",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 19,
-      "text": "Für eine Milliarde müsste ich 2'740 Jahre lang jeden Tag 1'000 Franken ausgeben. Reich bleibt man offenbar dadurch, dass man das nicht schafft."
+      "text": "Konzernen und Vermögenden entgehen den Staaten jedes Jahr 490 Milliarden Dollar an Steuern. Das ist ungefähr Österreich, nur ohne Berge und ohne Rechnung."
     },
     {
       "id": "2026-08-09-2127-07",
       "typ": "politisch-aktuell",
-      "stichwort": "300-Franken-Grenze, ueberaffirmiert",
+      "stichwort": "Neubau ohne Licht, Tresor mit Balkonen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Richtig so: Ladendiebstahl ab 300 Franken kommt vor Gericht. Bei Steuerhinterziehung wäre das Gericht sonst monatelang mit einer einzigen Familie beschäftigt."
+      "format": 14,
+      "text": "Ich gehe abends an einem Neubau vorbei, in dem seit zwei Jahren kein Fenster beleuchtet ist. Das ist keine Wohnungsnot, das ist ein Tresor mit Balkonen."
     },
     {
       "id": "2026-08-09-2127-08",
       "typ": "schnittmenge",
-      "stichwort": "Plauen 10'000 gegen Merz, Berlin Schuesse auf den CSD",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
+      "stichwort": "Nach dem CSD-Anschlag ist die Flagge das Sicherheitsrisiko",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "10'000 Menschen demonstrieren in Plauen gegen Merz, in Berlin schiesst jemand auf den CSD. Am selben Wochenende gelten nur die einen als besorgte Bürger."
+      "format": 13,
+      "text": "Nach dem Anschlag auf den Berliner CSD ist die Sicherheitslage endlich klar: Gefährlich ist in dieser Stadt vor allem die Regenbogenflagge am Rathaus."
     },
     {
       "id": "2026-08-09-2127-09",
       "typ": "remix",
-      "stichwort": "Krankenkasse drei Wochen, Härtefallregel so grosszügig",
+      "stichwort": "Härtefall-Liste beim ausgesetzten Familiennachzug",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich warte drei Wochen auf meine Krankenkasse und finde das eine Zumutung. Die Härtefallregel beim Familiennachzug ist so grosszügig, dass seit einem Jahr kaum jemand ein Härtefall ist."
+      "format": 15,
+      "text": "Der Familiennachzug für Schutzberechtigte ist seit einem Jahr ausgesetzt, vorher waren es 1'000 Menschen im Monat. Als Härtefall gilt jetzt:\n- schwer krank\n- akut bedroht\n- bereits verstorben"
     },
     {
       "id": "2026-08-09-2127-10",
       "typ": "persönlich",
-      "stichwort": "Spinnenseide geprüft, Waffenproduktion nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich habe zehn Minuten in einen Faktencheck gesteckt, ob Spinnenseide Spider-Man tragen würde. Am selben Tag ruft das Pentagon die Industrie auf, schneller Waffen zu produzieren. Da rechnet niemand nach."
-    },
-    {
-      "id": "2026-08-09-2127-11",
-      "typ": "persönlich",
-      "stichwort": "Prämie höher als Strom, Wasser und Handy",
+      "stichwort": "Kino mit Tochter, Verantwortung als Science-Fiction",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich zahle 380 Franken Krankenkasse im Monat, mehr als für Strom, Wasser und Handy zusammen. Wer davon wirklich etwas braucht, muss zuerst zwei Gutachten bestehen."
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich war mit meiner Tochter im neuen Spider-Man, 19 Franken pro Ticket. Sie fand die Fäden unrealistisch, mich hat gestört, dass jemand im Film Verantwortung übernimmt."
     },
     {
       "id": "2026-08-09-2127-12",
       "typ": "persönlich",
-      "stichwort": "Hund kriegt Diagnose, Menschen warten Jahre",
+      "stichwort": "Jahresabo gegen einen Kampfjet aufgerechnet",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 5,
-      "text": "Unser Wasserhund ist allergisch auf Gräser. Er kam mit Diagnose und Tabletten aus der Praxis, Menschen mit unklaren Symptomen warten hier im Schnitt vier Jahre."
+      "format": 19,
+      "text": "Für ein Jahresabo im Zug zahle ich 3'995 Franken. Ein einzelner F-35 kostet 167 Millionen, das sind 41'000 Jahre Zugfahren für Leute wie mich."
     }
   ]
 }
