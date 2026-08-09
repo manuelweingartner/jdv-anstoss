@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-09",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -34,14 +34,14 @@
       "text": "Gute Nachricht: Zehntausend Hitzetote sind kein Marktversagen. Das ist ein Segment, das wir noch nicht bedient haben."
     },
     {
-      "id": "2026-08-09-1130-04",
+      "id": "2026-08-09-1130-04e",
       "typ": "politisch-aktuell",
-      "stichwort": "Helmpflicht schützt Köpfe, nicht vor Blech",
+      "stichwort": "Helmpflicht für die Leichten",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich finde die Helmpflicht richtig: Wir schützen jetzt die Köpfe. Die zwei Tonnen Blech drumherum bleiben unangetastet."
+      "format": "frei",
+      "text": "Paris führt die Helmpflicht für E-Scooter ein. Zuverlässig schützt der Helm vor allem, was unter zwanzig Kilo wiegt."
     },
     {
       "id": "2026-08-09-1130-05",
@@ -64,24 +64,24 @@
       "text": "Standortattraktivität misst, wie wenig ein Land von denen verlangt, die am meisten hätten."
     },
     {
-      "id": "2026-08-09-1130-07",
+      "id": "2026-08-09-1130-07e",
       "typ": "politisch-aktuell",
-      "stichwort": "Freiwillig spenden statt zahlen",
+      "stichwort": "Landwirtschaft krank, Lobby warnt vor Klimaschutz",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich finde es richtig, dass Milliardäre freiwillig spenden dürfen. Eine Pflicht wäre ja Enteignung."
+      "format": "frei",
+      "text": "Landwirt*innen werden nachweislich krank von den Wetterextremen. Die Agrarlobby warnt weiterhin vor den Kosten des Klimaschutzes."
     },
     {
-      "id": "2026-08-09-1130-08",
+      "id": "2026-08-09-1130-08e",
       "typ": "schnittmenge",
-      "stichwort": "Armband für Frauen, Verständnis für Täter",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Gegen K.-o.-Tropfen gibt es Armbänder für Frauen. Gegen Täter gibt es Verständnis."
+      "stichwort": "Steinzeitkleidung hält den Sommer aus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Ein Mann testet Steinzeitkleidung an sich selbst. Sie hält den Sommer besser aus als jedes Neubauviertel."
     },
     {
       "id": "2026-08-09-1130-09",
@@ -104,24 +104,14 @@
       "text": "Meine Tochter zeichnet eine Stunde an einem Bild (echtes Detail einsetzen). Die KI braucht vier Sekunden und hängt trotzdem nicht am Kühlschrank."
     },
     {
-      "id": "2026-08-09-1130-11",
-      "typ": "persönlich",
-      "stichwort": "Marktübliche Miete, drei Marktteilnehmer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Unsere Miete ist marktüblich. Der Markt sind zwei Firmen und ein Fonds."
-    },
-    {
-      "id": "2026-08-09-1130-12",
-      "typ": "persönlich",
-      "stichwort": "Konzernkritik auf Konzernplattform",
+      "id": "2026-08-09-1130-11e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Virus wandert nordwärts, Grenzdebatte nicht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Schön, dass meine Wut auf Milliardäre ausgerechnet auf der App eines Milliardärs am besten läuft."
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Mücken bringen das West-Nil-Virus nach Norditalien. In der Grenzdebatte geht es weiterhin ausschliesslich um Menschen."
     }
   ]
 }
