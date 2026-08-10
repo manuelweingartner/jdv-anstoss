@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -64,33 +64,33 @@
       }
     },
     {
-      "id": "2026-08-10-2211-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Granaten verkaufen, Wiederaufbau ausschreiben",
+      "id": "2026-08-10-2211-10",
+      "typ": "persönlich",
+      "stichwort": "Sieben Jahre ECO-Programm gegen einen Privatjet-Flug",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Schön, dass sich der Wiederaufbau selbst finanziert: Seit 2022 verkaufen dieselben Länder die Granaten und bewerben sich anschliessend um den Neubau der Städte. Zwei Rechnungen, ein Kunde.",
-      "jury": {
-        "witz": true,
-        "anker": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-10-2211-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Jabloko nicht zur Wahl, Wahlkommission freut sich",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Russland lässt die Antikriegspartei Jabloko im September nicht zur Wahl zu. Als Wahlkommission freue ich mich: So schnell stand ein Ergebnis noch nie fest. Ausgezählt wird trotzdem.",
+      "format": 16,
+      "text": "Sieben Jahre lang habe ich die Abwaschmaschine nur im ECO-Programm laufen lassen, aus Prinzip. Eingespart habe ich damit etwa einen Privatjet-Flug nach Nizza. Nicht pro Jahr. Insgesamt.",
       "jury": {
         "anker": true,
         "witz": true,
-        "neu": true
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-08-10-2211-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ausweis für Wein, Gericht für Waffenschein",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich muss den Ausweis zeigen, wenn ich eine Flasche Wein kaufe. AfD-Mitgliedern musste in Sachsen-Anhalt erst ein Gericht die Waffenerlaubnis wegnehmen. Alkohol ist gefährlich.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
       }
     }
   ]
