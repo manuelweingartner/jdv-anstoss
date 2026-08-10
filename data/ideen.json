@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 10,
       "text": "Ich habe für eine gesprungene Fensterscheibe neun Wochen mit der Versicherung verhandelt. Trump verlangt vom Iran Entschädigung, bevor er überhaupt verhandelt. Nicht Diplomatie. Schadenmeldung mit Armee."
+    },
+    {
+      "id": "2026-08-10-2211-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "1'200 Franken Backenzahn, versichert ausser dort",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe 1'200 Franken für einen Backenzahn bezahlt. Am ganzen Körper bin ich versichert, ausser genau dort, wo man Armut erkennt. Ein Zahn. Hinten links. Bar bezahlt."
     }
   ]
 }
