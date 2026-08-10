@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -34,24 +34,14 @@
       "text": "Ich habe meinen Leuten bei 36 Grad einen Ventilator hingestellt. Wer damit nicht arbeiten kann, will es nicht genug. Ab 40 Grad gibt es Wasser. Aus dem Hahn."
     },
     {
-      "id": "2026-08-10-0757-04",
+      "id": "2026-08-10-0757-04e",
       "typ": "politisch-aktuell",
-      "stichwort": "Loeschprioritaet Ferienresort",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Bei den neuen Waldbränden in Spanien und Frankreich löschen wir zuerst die Ferienresorts. Wer 400 Franken pro Nacht zahlt, hat Anspruch auf Atemluft. Alle anderen: Fenster zu."
-    },
-    {
-      "id": "2026-08-10-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwei Stunden Kalk für die eigene Kaution",
+      "stichwort": "350 getötete Helfer*innen, 99 Prozent einheimisch",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe bei der Wohnungsabgabe zwei Stunden Kalk aus der Duschwand gekratzt, damit ich meine 4'800 Franken Kaution zurückbekomme. Vier Jahre lag sie auf einem Konto. Nicht auf meinem."
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "350 humanitäre Helfer*innen wurden im letzten Jahr getötet, 99 Prozent davon einheimische Kräfte. Ich habe keinen ihrer Namen gelesen. Es wären 350 Zeilen gewesen."
     },
     {
       "id": "2026-08-10-0757-06",
@@ -64,24 +54,24 @@
       "text": "Zehn Stunden Pflege am Bett kosten mich etwa so viel wie eine Stunde Anwalt, der prüft, ob mir die Pflege bezahlt wird. Die Stunde Anwalt ist unbestritten."
     },
     {
-      "id": "2026-08-10-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leistung muss sich lohnen, deshalb erben",
+      "id": "2026-08-10-0757-07e",
+      "typ": "persönlich",
+      "stichwort": "22 Minuten nach dem Kundendienst suchen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich finde es richtig, dass Leistung sich lohnen muss. Wer 40 Millionen erbt, zahlt in den meisten Kantonen null Steuern darauf, er hat ja auch nichts geleistet."
+      "format": 2,
+      "text": "Ich habe 22 Minuten gebraucht, um bei Booking.com den Kundendienst zu finden. Eine Plattform, deren ganzes Geschäft daraus besteht, dass Menschen etwas finden. Gefunden habe ich ein Formular. Auf Englisch."
     },
     {
-      "id": "2026-08-10-0757-08",
+      "id": "2026-08-10-0757-08e",
       "typ": "schnittmenge",
-      "stichwort": "Biya kuriert in der Schweiz, Einreise für einen",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
+      "stichwort": "Hunde besetzen das Bad, schneller als jede Regierung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Kameruns Präsident Biya regiert seit 1982 und kuriert sich gerade in einem Schweizer Hotel aus. Schön, dass wenigstens einer aus Kamerun problemlos einreisen darf. Ohne Termin, ohne Nachweis."
+      "format": 5,
+      "text": "Ich lese, dass Wildtiere bei Hitze in Erdlöcher gehen. Meine zwei Hunde haben seit dem 21. Juni das Badezimmer besetzt. Beide haben schneller reagiert als jede Regierung."
     },
     {
       "id": "2026-08-10-0757-09",
@@ -94,24 +84,24 @@
       "text": "Ich suche seit elf Monaten eine Wohnung. Der Markt ist so gesund, dass ich für eine Besichtigung ein Motivationsschreiben einreichen musste. Vier Seiten. Ohne Rückmeldung."
     },
     {
-      "id": "2026-08-10-0757-10",
-      "typ": "persönlich",
-      "stichwort": "Neun Liter gegen ein Kilo Rindfleisch",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich spüle seit sieben Jahren nur im ECO-Programm, neun Liter pro Ladung. Ein Kilo Rindfleisch braucht 15'000 Liter. Das sind viereinhalb Jahre abwaschen. Jeden Abend."
-    },
-    {
-      "id": "2026-08-10-0757-11",
-      "typ": "persönlich",
-      "stichwort": "Ventilator seit Juni, Stihl will mehr Stunden",
+      "id": "2026-08-10-0757-10e",
+      "typ": "politisch-aktuell",
+      "stichwort": "35 Stunden nicht mehr zeitgemäss, 35 Grad schon",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Zuhause läuft der Ventilator seit Juni durch. Copernicus meldet Westeuropas heissesten Juni und Juli, gleiche Woche nennt Stihl die 35-Stunden-Woche nicht mehr zeitgemäss. Der Ventilator macht die Mehrstunden mit. Unbezahlt."
+      "text": "Der Chef von Stihl findet die 35-Stunden-Woche nicht mehr zeitgemäss. In derselben Woche meldet Westeuropa den heissesten Juli seit Messbeginn. Zeitgemäss sind jetzt 35 Grad. Draussen."
+    },
+    {
+      "id": "2026-08-10-0757-11e",
+      "typ": "politisch-aktuell",
+      "stichwort": "KI-Agenten ersetzen Entwickler*innen, der Vorstand war schneller",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Tausende Entwickler*innen verlieren gerade ihre Stelle an KI-Agenten. Nicht die Maschine hat sie ersetzt. Sondern ein Vorstand, der die Einsparung längst im Quartalsbericht angekündigt hatte."
     },
     {
       "id": "2026-08-10-0757-12",
