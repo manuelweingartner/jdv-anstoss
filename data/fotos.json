@@ -1,22 +1,11 @@
 {
-  "stand": "2026-08-10T18:25:52+02:00",
-  "lauf": "1825",
+  "stand": "2026-08-10T18:32:29+02:00",
+  "lauf": "1831",
   "fotos": [
     {
-      "id": "1825-1",
-      "titel": "Guinnessbuch der Rekorde: Mann läuft Marathon mit 125 T-Shirts übereinander",
-      "was": "Mann in 125 uebereinander getragenen T-Shirts beim Marathonlauf",
-      "grund": "memetauglich",
-      "quelle": "Spiegel",
-      "auch_bei": [],
-      "artikel": "https://www.spiegel.de/panorama/leute/guinnessbuch-der-rekorde-mann-laeuft-marathon-mit-125-t-shirts-uebereinander-a-55113840-e66a-42ce-9ce2-24590f1660b0#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/fe526ae1-b07e-44ac-9f8c-a58c7e1bb71c_w520_r2.08_fpx42.23_fpy49.88.jpg",
-      "zeit": "2026-08-10T15:55+02:00"
-    },
-    {
-      "id": "1825-2",
+      "id": "1831-1",
       "titel": "«Kinderbetreuung ist keine Arbeit»: Österreichs Kanzler stolpert auf seiner eigenen Imagetour",
-      "was": "Kanzler Stocker im Buergergespraech auf seiner Imagetour",
+      "was": "Österreichs Kanzler Stocker im Bürgergespräch, umringt von skeptischen Zuhörenden",
       "grund": "memetauglich",
       "quelle": "NZZ",
       "auch_bei": [],
@@ -25,9 +14,20 @@
       "zeit": "2026-08-10T16:10+02:00"
     },
     {
-      "id": "1825-3",
+      "id": "1831-2",
+      "titel": "Guinnessbuch der Rekorde: Mann läuft Marathon mit 125 T-Shirts übereinander",
+      "was": "Läufer im Marathon, eingepackt in 125 übereinander getragene T-Shirts",
+      "grund": "memetauglich",
+      "quelle": "Spiegel",
+      "auch_bei": [],
+      "artikel": "https://www.spiegel.de/panorama/leute/guinnessbuch-der-rekorde-mann-laeuft-marathon-mit-125-t-shirts-uebereinander-a-55113840-e66a-42ce-9ce2-24590f1660b0#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/fe526ae1-b07e-44ac-9f8c-a58c7e1bb71c_w520_r2.08_fpx42.23_fpy49.88.jpg",
+      "zeit": "2026-08-10T15:55+02:00"
+    },
+    {
+      "id": "1831-3",
       "titel": "Lars Klingbeil: SPD-Finanzminister rudert nach heftiger Kritik bei Steuerplänen für Vereine zurück",
-      "was": "Finanzminister Klingbeil beim Ruderzurueck vor Mikrofonen",
+      "was": "Finanzminister Klingbeil am Mikrofon, während er seine Vereinsplanung zurücknimmt",
       "grund": "breit",
       "quelle": "Spiegel",
       "auch_bei": [
@@ -40,8 +40,12 @@
   ],
   "erwartet": [
     {
-      "wann": "heute ab 18:30",
-      "was": "Pierin Vincenz mit Anwaltspulk vor dem Zuercher Obergericht"
+      "wann": "heute laufend",
+      "was": "Pierin Vincenz mit seinem Anwaltsteam auf dem Weg ins Zürcher Obergericht"
+    },
+    {
+      "wann": "heute abends",
+      "was": "Prozessbeginn in Las Vegas, Angeklagter und Verteidigung im Gerichtssaal"
     }
   ],
   "hinweis": ""
