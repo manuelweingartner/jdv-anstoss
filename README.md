@@ -65,6 +65,12 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
     dann normal, sie gehören zur Fallback-Kette.
   - Der Radar macht **keine Captions und keine Witze**, er verlinkt nur. Die
     Beschilderung macht Manuel selbst.
+  - **Drei harte Regeln** (Entscheide Manuel 10.08.2026, im Skript erzwungen,
+    nicht nur im Prompt): zwei der drei Fotos kommen aus dem breit gelaufenen
+    Topf, **keine Katastrophen und keine Todesfälle** (Sperrliste greift, bevor
+    das Modell die Meldung sieht), und zwei der drei müssen Schweiz-Bezug haben
+    oder ein weltweit verfolgtes Ereignis sein (G7, Fussball-WM, Gipfel). Reine
+    deutsche oder österreichische Innenpolitik ist die Ausnahme.
 - **Gemessene Wartezeiten (06.08.2026, nach dem Umbau).** Vorher, ein einziger
   Auftrag über alle 20 Ideen und alles streng hintereinander: **9:11** (5:48
   Generierung, 1:04 Ähnlichkeits-Gate, 2:06 Ersatzrunde plus Publizieren).
