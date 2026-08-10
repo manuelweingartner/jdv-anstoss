@@ -23,7 +23,21 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
   nur dieses Repo, Issues Read+Write. Ohne Token sammelt die Seite alles in
   einer localStorage-Queue und sendet es nach der Eingabe nach. Der
   aktuelle Token läuft am 04.08.2027 ab.
-- **Eine Runde sind 12 Vorschläge** (bis 06.08.2026 waren es 20, Entscheid
+- **Eine Runde sind seit 10.08.2026 nur noch 6 Vorschläge, aber gesiebte.**
+  Nicht weniger Arbeit, sondern mehr: der Laptop zieht jeden Teilauftrag doppelt,
+  hängt einen Material-Teilauftrag an und schickt rund 24 Ideen durch eine
+  dreiäugige Jury (lustig / konkreter Anker / schon gehabt). Übrig bleiben die 6
+  besten. Anlass war die Bilanz von 348 Urteilen: **344 Ablehnungen, davon 234
+  «einfach nicht lustig», 4 Annahmen.** Manuel arbeitete als Filter für eine
+  Maschine, die fast nur Ausschuss lieferte; das macht jetzt die Maschine.
+  `SOLL` in `index.html` und `ANZAHL` im Generator müssen dabei gleich bleiben.
+- **Der Knopf «merken» ganz oben ist der wertvollste der Seite.** Er wirft eine
+  Beobachtung als Issue `MATERIAL:` ein, der Poller schreibt sie in
+  `references/material_eingang.md`, und ab der nächsten Runde baut ein eigener
+  Teilauftrag Ideen daraus. Er löst **keine** Generierung aus und kostet keine
+  Modellzeit. Grund: der zweitbeste Post der Kontogeschichte ist ein Hund, der
+  vor einer Einkaufstüte kapituliert. Das steht in keinem Nachrichtenfeed.
+- **Eine Runde war bis 10.08.2026 12 Vorschläge** (bis 06.08.2026 waren es 20, Entscheid
   Manuel). Zwei Gründe fielen zusammen: eine komplette Runde soll unter zwei
   Minuten bleiben, und das ist bei rund 19 Sekunden Modellzeit pro Idee plus
   37 Sekunden Anlauf mit 20 Ideen nicht zu machen (gemessen 146 Sekunden). Dazu
