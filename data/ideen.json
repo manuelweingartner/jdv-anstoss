@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 10 statt 12.",
   "fertig": true,
   "ideen": [
     {
@@ -64,14 +64,14 @@
       "text": "90'000 Stunden arbeitet ein Mensch bis zur Rente, am Stück zehn Jahre ohne Schlaf. Ich habe 40'000 hinter mir und eine Waschmaschine, die noch zwei Jahre der Bank gehört."
     },
     {
-      "id": "2026-08-10-2004-07",
+      "id": "2026-08-10-2004-07e",
       "typ": "politisch-aktuell",
-      "stichwort": "Depot statt Haltung zum Frieden",
+      "stichwort": "ICE-Notfallübung per Fax, mein letztes Fax 2014",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Beruhigend, dass sich die Rheinmetall-Aktie seit 2022 verzehnfacht hat. Wer damals 10'000 Franken hineingelegt hat, muss heute niemandem mehr erklären, was er vom Frieden hält. Sauber diversifiziert."
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Bei der Notfallübung im Thüringer Eisenbahntunnel meldete die Leitstelle den brennenden ICE per Fax. Ich habe 2014 mein letztes Fax an eine Krankenkasse geschickt. Nie angekommen."
     },
     {
       "id": "2026-08-10-2004-08",
@@ -94,34 +94,14 @@
       "text": "Ich habe für Mittwoch eine Sonnenfinsternis-Brille gekauft. Zwei Minuten Dunkelheit nehme ich ernst. Gegen den zweitwärmsten Juli der Messgeschichte habe ich ein Ziel für 2050. Unverbindlich."
     },
     {
-      "id": "2026-08-10-2004-10",
-      "typ": "persönlich",
-      "stichwort": "ECO-Programm seit sieben Jahren, Prämie für 100'000-Euro-Autos",
+      "id": "2026-08-10-2004-11e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Studie: rechte Politiker*innen attraktiver",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren im ECO-Programm, aus Prinzip. Diese Woche zahlt der Staat Kaufprämien für Elektroautos über 100'000 Euro. Porsche. Mercedes. Auch Klimaschutz."
-    },
-    {
-      "id": "2026-08-10-2004-11",
-      "typ": "persönlich",
-      "stichwort": "Konto in vier Minuten, brennender ICE per Fax",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Revolut hat jetzt eine Banklizenz, ich eröffne dort in vier Minuten ein Konto per Selfie. Am selben Tag meldet eine Leitstelle einen brennenden ICE per Fax. Angekommen ist er."
-    },
-    {
-      "id": "2026-08-10-2004-12",
-      "typ": "persönlich",
-      "stichwort": "45-Kilo-Hund braucht Chip und Versicherung, Waffe braucht Gerichtsurteil",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Ich brauche für meinen 45-Kilo-Hund eine Haftpflichtversicherung, einen Chip und eine Registrierung. Ob AfD-Mitglieder eine Waffe behalten dürfen, entscheidet ein Gericht. Einzelfallprüfung. Sorgfältig. Seit Jahren."
+      "format": "frei",
+      "text": "Ich verstehe die neue Studie gut, nach der rechte Politiker*innen attraktiver wirken als linke. Wer nichts erklären muss, hat mehr Zeit fürs Gesicht. Kein Programm. Dafür gute Beleuchtung."
     }
   ]
 }
