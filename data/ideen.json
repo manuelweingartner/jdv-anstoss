@@ -1,127 +1,27 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-10-1044-01",
+      "id": "2026-08-10-2004-01",
       "typ": "politisch-aktuell",
-      "stichwort": "20 Jahre, On-Schuhe im Norden, schöne Aussicht",
+      "stichwort": "Duschwasser gegen grün gesprayten Rasen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ich sitze in 20 Jahren in On-Schuhen im kühlen Norden. Mitteleuropa brennt. Schöne Aussicht."
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich giesse meinen Balkon seit sechs Wochen mit dem Duschwasser, halb Europa hat trockene Flüsse und Ernteausfälle. In den USA sprayen sie diese Woche ihren Rasen grün. Optisch gelöst."
     },
     {
-      "id": "2026-08-10-1044-02",
+      "id": "2026-08-10-2004-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Klimakrise persönlich gelöst, Schuhe stehen im Norden",
+      "stichwort": "Zehn Millionen für Gedenkstätten, davon Wachpersonal",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich habe die Klimakrise gelöst: in 20 Jahren stehen meine On-Schuhe im Norden, Mitteleuropa brennt."
-    },
-    {
-      "id": "2026-08-10-1044-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "keine Klimaflucht, nur Umzug mit Aussicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Wir flüchten nicht. Wir sitzen in 20 Jahren in On-Schuhen im Norden, während Mitteleuropa brennt."
-    },
-    {
-      "id": "2026-08-10-1044-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "On-Schuhe nie gerannt, zweitwärmster Juli",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe On-Schuhe für 190 Franken und bin damit noch nie gerannt. Der Juli war weltweit der zweitwärmste seit Messbeginn. In 20 Jahren renne ich damit nach Norden. Endlich eingelaufen."
-    },
-    {
-      "id": "2026-08-10-1044-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Helmpflicht in Paris, Südeuropa brennt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Paris schreibt E-Scooter-Fahrer*innen diese Woche Helme vor. In derselben Woche brennen Spanien und Frankreich. Gegen 25 km/h hilft ein Helm, gegen 20 Sommer wandern wir in On-Schuhen nach Norden ab."
-    },
-    {
-      "id": "2026-08-10-1044-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "800 Kilometer Schuh, 1'100 nach Kopenhagen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "800 Kilometer hält ein Paar On-Schuhe, von Zürich nach Kopenhagen sind es 1'100. Spanien und Frankreich brennen schon jetzt, ich plane meine Flucht in Etappen. Mit Zwischenstopp im Fachgeschäft."
-    },
-    {
-      "id": "2026-08-10-1044-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "189 Franken Schuhe, 40 Franken Feuerlöscher",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe 189 Franken für On-Schuhe ausgegeben und 40 für den Feuerlöscher. In zwanzig Jahren jogge ich damit nordwärts und schaue zu, wie Mitteleuropa brennt. Gute Dämpfung. Leichter Stoff. Atmungsaktiv."
-    },
-    {
-      "id": "2026-08-10-1044-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nordschweden hat 24 Grad, wer flexibel ist gewinnt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich finde diese Klimapanik übertrieben. In zwanzig Jahren hat Nordschweden 24 Grad und Platz für alle, und Mitteleuropa brennt nur vier Monate im Jahr. Wer flexibel ist, gewinnt."
-    },
-    {
-      "id": "2026-08-10-1044-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "20'000 fliehen in Kanada, Rheinkreuzfahrten fallen aus, ich buche 2045",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "20'000 Menschen fliehen in Kanada vor den Waldbränden, in derselben Woche fallen auf dem Rhein die Flusskreuzfahrten aus, zu wenig Wasser. Ich buche für 2045 schon mal Nordschweden. Kühl. Noch frei."
-    },
-    {
-      "id": "2026-08-10-1044-10",
-      "typ": "schnittmenge",
-      "stichwort": "Klimaanlage gekauft, Norwegen gegoogelt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe eine Klimaanlage für 900 Franken gekauft und danach Ferienwohnungen in Norwegen angeschaut. In zwanzig Jahren schauen wir von oben zu, wie der Süden brennt. Erste Reihe."
-    },
-    {
-      "id": "2026-08-10-1044-11",
-      "typ": "schnittmenge",
-      "stichwort": "Rhein auf Tiefstand, Norden als Fluchtplan",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Historische Tiefstände im Rhein, in derselben Woche bremst die Hitze laut EU-Studie das Wirtschaftswachstum. 2046 ziehen wir dann alle in den kühlen Norden. Der Rhein liegt im Norden."
-    },
-    {
-      "id": "2026-08-10-1044-12e",
-      "typ": "politisch-aktuell",
-      "stichwort": "On-Schuhe als Training für 2046",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe mir neue On-Schuhe gekauft. Frankreich und Spanien brennen erneut, und ich trainiere in denen jetzt für 2046. Richtung Norden. Zu Fuss."
+      "text": "Beruhigend: Deutschland gibt den NS-Gedenkstätten zehn Millionen Euro mehr, ein Teil davon für Wachpersonal, weil die Angriffe zunehmen. Die Erinnerungskultur funktioniert. Sie muss nur bewacht werden."
     }
   ]
 }
