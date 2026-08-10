@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "hinweis": "4 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Beruhigend: Deutschland gibt den NS-Gedenkstätten zehn Millionen Euro mehr, ein Teil davon für Wachpersonal, weil die Angriffe zunehmen. Die Erinnerungskultur funktioniert. Sie muss nur bewacht werden."
+    },
+    {
+      "id": "2026-08-10-2004-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lieferzeit zwei Jahre, Nachfrage als Rohstoff",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Zwei Jahre Lieferzeit für Flugabwehrraketen, während die Ukraine beschossen wird. Ich finde es richtig, dass wir nicht überproduzieren: Wer heute alles liefert, verkauft 2028 nichts mehr. Nachfrage ist ein Rohstoff."
+    },
+    {
+      "id": "2026-08-10-2004-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Warnweste in drei Farben als Reaktion",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "2025 sind mehr Kinder im Verkehr gestorben als 2024. Beruhigend, dass wir schon reagiert haben: Die Warnweste gibt es jetzt in drei Farben. Tempo 30 bleibt in Prüfung."
     }
   ]
 }
