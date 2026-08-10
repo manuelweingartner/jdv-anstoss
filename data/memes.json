@@ -1,34 +1,36 @@
 {
-  "stand": "2026-08-10T21:58:48+02:00",
+  "stand": "2026-08-10T22:11:44+02:00",
   "vorschlaege": [
     {
-      "vorlage": "drake",
-      "name": "Drake Hotline Bling",
+      "vorlage": "freund",
+      "name": "Distracted Boyfriend",
       "zeilen": [
-        "Züge pünktlicher machen",
-        "Durchsagen auf Deutsch umstellen"
+        "Steuer auf Kegelvereine",
+        "Klingbeil",
+        "Die grosse Steuerreform"
       ],
-      "warum": "weil die Figur genau das trifft: das naheliegende Problem ausschlagen und stattdessen an den Ansagen schrauben"
+      "warum": "der Finanzminister schaut dem Kleinkram nach und laesst sein eigenes Grossprojekt sitzen",
+      "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "knoepfe",
       "name": "Two Buttons",
       "zeilen": [
-        "Turnvereine besteuern",
-        "Grosskonzerne verschonen",
-        "Lars Klingbeil"
+        "Hochdruckkeil erklaeren",
+        "Klimawandel sagen",
+        "SRF Meteo"
       ],
-      "warum": "weil sich die beiden Knöpfe gar nicht ausschliessen und das Zögern die ganze Steuerreform beschreibt"
+      "warum": "das Zoegern zwischen Wetterkunde und Ursache ist die eigentliche Aussage der Hitzeberichterstattung",
+      "bild": "vorschlag-2.jpg"
     },
     {
-      "vorlage": "freund",
-      "name": "Distracted Boyfriend",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "Rüstungsausgaben erhöhen",
-        "Bundesbern",
-        "Entwicklungshilfe-Versprechen"
+        "Wahl ohne Gegner heisst Ernennung"
       ],
-      "warum": "weil eine Institution ihr eigenes, älteres Versprechen sitzen lässt, während sie dem Neuen nachschaut"
+      "warum": "nach dem Jabloko-Ausschluss ist die These unwiderlegbar, genau das macht die Figur",
+      "bild": "vorschlag-3.jpg"
     }
   ]
 }
