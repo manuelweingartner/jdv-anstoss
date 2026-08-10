@@ -1,36 +1,113 @@
 {
-  "stand": "2026-08-10T22:11:44+02:00",
+  "stand": "2026-08-10T22:28:21+02:00",
   "vorschlaege": [
     {
-      "vorlage": "freund",
-      "name": "Distracted Boyfriend",
+      "vorlage": "drake",
+      "name": "Drake Hotline Bling",
       "zeilen": [
-        "Steuer auf Kegelvereine",
-        "Klingbeil",
-        "Die grosse Steuerreform"
+        "Vermögen über zehn Millionen",
+        "Kasse des Turnvereins"
       ],
-      "warum": "der Finanzminister schaut dem Kleinkram nach und laesst sein eigenes Grossprojekt sitzen",
+      "warum": "Klingbeils Entwurf verwirft das Naheliegende und greift beim Kleinsten zu, genau die Drake-Bewegung",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "knoepfe",
       "name": "Two Buttons",
       "zeilen": [
-        "Hochdruckkeil erklaeren",
-        "Klimawandel sagen",
-        "SRF Meteo"
+        "Trumps Plan zustimmen",
+        "Wahlkampf rechts aussen",
+        "Netanjahu"
       ],
-      "warum": "das Zoegern zwischen Wetterkunde und Ursache ist die eigentliche Aussage der Hitzeberichterstattung",
+      "warum": "beide Knöpfe schliessen sich nicht aus, aber vor der Wahl wird das Zögern selbst zur Politik",
       "bild": "vorschlag-2.jpg"
+    },
+    {
+      "vorlage": "freund",
+      "name": "Distracted Boyfriend",
+      "zeilen": [
+        "Mind the gap, please",
+        "SBB-Durchsagen",
+        "Vier Landessprachen"
+      ],
+      "warum": "eine Institution schaut dem Neuen nach und lässt ihr eigenes Versprechen auf dem Perron sitzen",
+      "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Wahl ohne Gegner heisst Ernennung"
+        "Zwei Rekordsommer sind kein Wetter"
       ],
-      "warum": "nach dem Jabloko-Ausschluss ist die These unwiderlegbar, genau das macht die Figur",
-      "bild": "vorschlag-3.jpg"
+      "warum": "eine These, die um Widerspruch bittet und keinen bekommen kann, weil die Messreihen sie stützen",
+      "bild": "vorschlag-4.jpg"
+    },
+    {
+      "vorlage": "abzweigung",
+      "name": "Left Exit 12 Off Ramp",
+      "zeilen": [
+        "Maut in der Strasse von Hormus",
+        "Deeskalation",
+        "Teheran"
+      ],
+      "warum": "der vernünftige Weg lag offen da, gelenkt wird in letzter Sekunde auf die Gebührenspur",
+      "bild": "vorschlag-5.jpg"
+    },
+    {
+      "vorlage": "handschlag",
+      "name": "Epic Handshake",
+      "zeilen": [
+        "Kreml",
+        "Oberstes Gericht",
+        "Opposition von der Wahl streichen"
+      ],
+      "warum": "zwei formal getrennte Gewalten, in genau einer Sache vollkommen einig",
+      "bild": "vorschlag-6.jpg"
+    },
+    {
+      "vorlage": "gehirn",
+      "name": "Expanding Brain",
+      "zeilen": [
+        "Spesen falsch abgerechnet",
+        "Privatkäufe als Firmenstrategie",
+        "Das Gericht ist nicht zuständig",
+        "Strafrecht gilt nicht für Bankchefs"
+      ],
+      "warum": "der Berufungsprozess liefert die Eskalationsleiter einer Rechtfertigung, die mit jeder Stufe selbstbewusster wird",
+      "bild": "vorschlag-7.jpg"
+    },
+    {
+      "vorlage": "angebot",
+      "name": "Trade Offer",
+      "zeilen": [
+        "Wir kürzen die Hilfsprojekte",
+        "Ihr bleibt bitte stabil"
+      ],
+      "warum": "ein Tauschangebot, bei dem nur eine Seite etwas zu verlieren hat",
+      "bild": "vorschlag-8.jpg"
+    },
+    {
+      "vorlage": "doge",
+      "name": "Buff Doge vs. Cheems",
+      "zeilen": [
+        "Mutter aller Parlamente",
+        "Westminster-Debatten",
+        "Farage im Wahlkampf",
+        "Gegner mit Mülltonne auf dem Kopf"
+      ],
+      "warum": "das behauptete stolze Früher gegen ein Heute, das sich selbst nicht mehr ernst nehmen kann",
+      "bild": "vorschlag-9.jpg"
+    },
+    {
+      "vorlage": "glocke",
+      "name": "Bell Curve",
+      "zeilen": [
+        "Brille mit CE-Zeichen",
+        "Geschweisstes Glas und Handykamera",
+        "Brille mit CE-Zeichen"
+      ],
+      "warum": "die Ränder sagen unabhängig dasselbe Einfache, nur die Mitte bastelt sich eine Methode",
+      "bild": "vorschlag-10.jpg"
     }
   ]
 }
