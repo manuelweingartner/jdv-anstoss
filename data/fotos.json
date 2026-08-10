@@ -1,0 +1,48 @@
+{
+  "stand": "2026-08-10T18:25:52+02:00",
+  "lauf": "1825",
+  "fotos": [
+    {
+      "id": "1825-1",
+      "titel": "Guinnessbuch der Rekorde: Mann läuft Marathon mit 125 T-Shirts übereinander",
+      "was": "Mann in 125 uebereinander getragenen T-Shirts beim Marathonlauf",
+      "grund": "memetauglich",
+      "quelle": "Spiegel",
+      "auch_bei": [],
+      "artikel": "https://www.spiegel.de/panorama/leute/guinnessbuch-der-rekorde-mann-laeuft-marathon-mit-125-t-shirts-uebereinander-a-55113840-e66a-42ce-9ce2-24590f1660b0#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/fe526ae1-b07e-44ac-9f8c-a58c7e1bb71c_w520_r2.08_fpx42.23_fpy49.88.jpg",
+      "zeit": "2026-08-10T15:55+02:00"
+    },
+    {
+      "id": "1825-2",
+      "titel": "«Kinderbetreuung ist keine Arbeit»: Österreichs Kanzler stolpert auf seiner eigenen Imagetour",
+      "was": "Kanzler Stocker im Buergergespraech auf seiner Imagetour",
+      "grund": "memetauglich",
+      "quelle": "NZZ",
+      "auch_bei": [],
+      "artikel": "https://www.nzz.ch/international/fauxpas-ueber-kinderbetreuung-des-kanzlers-sorgt-fuer-eklat-in-oesterreich-ld.10018959",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/10/1ae98382-59cf-47c8-b9ce-553a933de2bf.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2361,2360,x1481,y782",
+      "zeit": "2026-08-10T16:10+02:00"
+    },
+    {
+      "id": "1825-3",
+      "titel": "Lars Klingbeil: SPD-Finanzminister rudert nach heftiger Kritik bei Steuerplänen für Vereine zurück",
+      "was": "Finanzminister Klingbeil beim Ruderzurueck vor Mikrofonen",
+      "grund": "breit",
+      "quelle": "Spiegel",
+      "auch_bei": [
+        "Tagesschau"
+      ],
+      "artikel": "https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-finanzminister-rudert-nach-heftiger-kritik-bei-steuerplaenen-fuer-vereine-zurueck-a-8ca99573-a6e5-4959-9629-6826497e4110#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/60afe90d-4080-40a9-a9bb-af4662fc5580_w520_r2.08_fpx81_fpy47.jpg",
+      "zeit": "2026-08-10T16:39+02:00"
+    }
+  ],
+  "erwartet": [
+    {
+      "wann": "heute ab 18:30",
+      "was": "Pierin Vincenz mit Anwaltspulk vor dem Zuercher Obergericht"
+    }
+  ],
+  "hinweis": ""
+}
