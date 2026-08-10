@@ -1,41 +1,47 @@
 {
-  "stand": "2026-08-10T20:04:40+02:00",
-  "lauf": "2004",
+  "stand": "2026-08-10T20:14:09+02:00",
+  "lauf": "2012",
   "fotos": [
     {
-      "id": "2004-1",
-      "titel": "«Kinderbetreuung ist keine Arbeit»: Österreichs Kanzler stolpert auf seiner eigenen Imagetour",
-      "was": "Kanzler Stocker im Bürgergespräch zwischen Zuhörern, sichtlich unter Druck",
-      "grund": "memetauglich",
-      "quelle": "NZZ",
-      "auch_bei": [],
-      "artikel": "https://www.nzz.ch/international/fauxpas-ueber-kinderbetreuung-des-kanzlers-sorgt-fuer-eklat-in-oesterreich-ld.10018959",
-      "bild": "https://img-msp-prod.nzz.ch/2026/08/10/1ae98382-59cf-47c8-b9ce-553a933de2bf.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2361,2360,x1481,y782",
-      "zeit": "2026-08-10T16:10+02:00"
-    },
-    {
-      "id": "2004-2",
-      "titel": "Thüringen – Notfall-Übung in Eisenbahntunnel: Wenn ein ICE brennt, kommuniziert die Leitstelle per Fax",
-      "was": "Einsatzkräfte in Vollmontur bei Rettungsübung an brennendem ICE im Tunnel",
-      "grund": "memetauglich",
-      "quelle": "Spiegel",
-      "auch_bei": [],
-      "artikel": "https://www.spiegel.de/panorama/thueringen-notfall-uebung-in-eisenbahntunnel-wenn-ein-ice-brennt-kommuniziert-die-leitstelle-per-fax-a-c978f98c-2545-4809-80d6-997cf8440f4a#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/65d18daa-c91e-42f4-a5e8-22782683edf9_w520_r2.08_fpx33.33_fpy50.jpg",
-      "zeit": "2026-08-10T17:42+02:00"
-    },
-    {
-      "id": "2004-3",
-      "titel": "Mette Frederiksen und Giorgia Meloni: Unheilige Schutzpatroninnen des christlichen Abendlandes",
-      "was": "Meloni und Frederiksen nebeneinander posierend beim gemeinsamen Auftritt",
+      "id": "2012-1",
+      "titel": "«Die Beine wollten nicht mehr» – Marlen Reusser sucht nach der Tour de France Erklärungen für die späte Enttäuschung",
+      "was": "Marlen Reusser erschöpft und ratlos im Ziel, Blick ins Leere",
       "grund": "breit",
-      "quelle": "taz",
+      "raum": "",
+      "quelle": "NZZ",
       "auch_bei": [
-        "Tagesschau"
+        "SRF",
+        "Watson"
       ],
-      "artikel": "https://taz.de/Mette-Frederiksen-und-Giorgia-Meloni/!6203209/",
-      "bild": "https://taz.de/picture/8663750/948/41828862.jpeg",
-      "zeit": "2026-08-10T20:00+02:00"
+      "artikel": "https://www.nzz.ch/sport/rad/die-beine-wollten-nicht-mehr-reussers-bitteres-tour-finale-ld.10018884",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/10/bd217013-ea14-4e6f-969b-50ce9e3b1edc.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5504,5503,x59,y1",
+      "zeit": "2026-08-10T17:31+02:00"
+    },
+    {
+      "id": "2012-2",
+      "titel": "KURZMELDUNGEN - Polizei-News aus Zürich: Dutzende von Autolenkern nach der Street Parade gestoppt – 2200 LSD-Portionen bei Dealer sichergestellt",
+      "was": "Polizisten bei Verkehrskontrolle, sichergestellte LSD-Blätter auf einem Tisch",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "Watson"
+      ],
+      "artikel": "https://www.nzz.ch/zuerich/polizei-news-aus-zuerich-dutzende-von-autolenkern-nach-street-parade-gestoppt-ld.10011943",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/10/665dbb17-631d-4c51-83cc-ce9031d7bb74.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3024,3024,x504,y0",
+      "zeit": "2026-08-10T16:49+02:00"
+    },
+    {
+      "id": "2012-3",
+      "titel": "Trockenheit in Graubünden – Trauriger Alpabzug: Kühe müssen früher ins Tal",
+      "was": "Kühe beim vorzeitigen Alpabzug, Bauern auf ausgetrockneter Bündner Alp",
+      "grund": "memetauglich",
+      "raum": "schweiz",
+      "quelle": "SRF",
+      "auch_bei": [],
+      "artikel": "https://www.srf.ch/news/schweiz/trockenheit-in-graubuenden-trauriger-alpabzug-kuehe-muessen-frueher-ins-tal",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/c592bd.jpg",
+      "zeit": "2026-08-10T14:58+02:00"
     }
   ],
   "erwartet": [],
