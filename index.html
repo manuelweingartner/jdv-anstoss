@@ -276,7 +276,14 @@
      Meme-Feld stand darum sichtbar da, obwohl es verborgen sein sollte
      (gemessen 10.08.2026). */
   .material[hidden] { display: none; }
-  .material input:focus { outline: none; border-color: var(--tinte); }
+  .material input:focus, .material select:focus {
+    outline: none; border-color: var(--tinte);
+  }
+  .material select {
+    flex: 0 0 auto; max-width: 42%; padding: 8px 6px; border-radius: 0;
+    border: 1px solid var(--linie); background: #fff; color: var(--tinte);
+    font: 400 .74rem/1.3 inherit;
+  }
   .material button { flex: 0 0 auto; }
 
   /* --------------------------------------------------------------- Nachschub */
@@ -384,6 +391,12 @@
 </div>
 
 <section class="radar" id="radar" hidden></section>
+
+<div class="material" id="vorlagebar">
+  <select id="vorlagewahl" aria-label="Meme-Vorlage"></select>
+  <input id="vorlagetext" placeholder="Zeilen mit | trennen" autocomplete="off">
+  <button class="b-more" id="vorlagesend">Meme</button>
+</div>
 
 <section class="werkstatt" id="werkstatt" hidden></section>
 
@@ -1202,6 +1215,54 @@ function zeigeVerdacht(grund, offen) {
   bar.appendChild(nein);
   bar.hidden = false;
 }
+
+/* --------------------------------------------------------- Meme-Vorlagen */
+/* Manuel 10.08.2026: "musst du echte memes templates nehmen wie von
+   imgflip.com/memegenerator... nicht nur einfach caption". Die Vorlagen kommen
+   aus der oeffentlichen imgflip-Liste, beschriftet wird auf dem Laptop mit
+   Pillow (kein Konto, kein Wasserzeichen).
+   Die vier Kuratierten haben eigene Textfelder, weil "oben und unten" bei ihnen
+   falsch waere. Alles andere faehrt den Klassiker und ist ueber den Namen
+   ansprechbar: dann steht die Vorlage als erste Zeile vor dem ersten Strich. */
+const VORLAGEN = [
+  ['drake', 'Drake: 1 abgelehnt, 2 bevorzugt'],
+  ['knoepfe', 'Zwei Knöpfe: 1+2 Knöpfe, 3 wer schwitzt'],
+  ['freund', 'Abgelenkter Freund: 1 neu, 2 wer schaut, 3 alt'],
+  ['schild', 'Change My Mind: eine Zeile'],
+  ['', 'andere Vorlage (Name als erste Zeile)'],
+];
+
+function vorlagenAufbauen() {
+  const wahl = document.getElementById('vorlagewahl');
+  VORLAGEN.forEach(([wert, text]) => {
+    const o = document.createElement('option');
+    o.value = wert; o.textContent = text;
+    wahl.appendChild(o);
+  });
+  const feld = document.getElementById('vorlagetext');
+  const knopf = document.getElementById('vorlagesend');
+  const los = async () => {
+    const teile = (feld.value || '').split('|').map(s => s.trim()).filter(Boolean);
+    const vorlage = wahl.value;
+    /* Ohne Auswahl steht die Vorlage in der ersten Zeile, dann braucht es
+       mindestens zwei Teile. Mit Auswahl genuegt eine Zeile. */
+    if (teile.length < (vorlage ? 1 : 2)) { feld.focus(); return; }
+    const auftrag = (vorlage ? [vorlage, ...teile] : teile).join(' | ');
+    knopf.disabled = true;
+    const res = await sendIssue(`VORLAGE: ${auftrag.slice(0, 240)}`,
+      `Angefordert von der Seite am ${new Date().toLocaleString('de-CH')}.`);
+    knopf.disabled = false;
+    toast(res === 'sent'
+      ? 'Meme wird gebaut, erscheint gleich in der Werkstatt.'
+      : 'Kein Token, Auftrag liegt in der Warteschlange.');
+    if (res === 'sent') feld.value = ''; else zeigeStau();
+  };
+  knopf.onclick = los;
+  feld.addEventListener('keydown', e => {
+    if (e.key === 'Enter') { e.preventDefault(); los(); }
+  });
+}
+vorlagenAufbauen();
 
 /* ------------------------------------------------------------- Werkstatt */
 /* Fertige Bilder aus dem Laptop, ohne Terminal: Slides aus den letzten
