@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "4 von 12 da, der Rest lädt noch.",
+  "hinweis": "6 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Beruhigend, dass bald 50'000 nordkoreanische Soldaten für Russland kämpfen sollen. Endlich ein Krieg, in dem niemand die eigenen Söhne einziehen muss. Bestellt, nicht eingezogen."
+    },
+    {
+      "id": "2026-08-10-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "Biya kuriert in der Schweiz, Einreise für einen",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Kameruns Präsident Biya regiert seit 1982 und kuriert sich gerade in einem Schweizer Hotel aus. Schön, dass wenigstens einer aus Kamerun problemlos einreisen darf. Ohne Termin, ohne Nachweis."
+    },
+    {
+      "id": "2026-08-10-0757-09",
+      "typ": "remix",
+      "stichwort": "Motivationsschreiben für eine Besichtigung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Ich suche seit elf Monaten eine Wohnung. Der Markt ist so gesund, dass ich für eine Besichtigung ein Motivationsschreiben einreichen musste. Vier Seiten. Ohne Rückmeldung."
     }
   ]
 }
