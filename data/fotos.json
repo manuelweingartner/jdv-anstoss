@@ -1,11 +1,11 @@
 {
-  "stand": "2026-08-10T18:34:44+02:00",
-  "lauf": "1834",
+  "stand": "2026-08-10T20:04:40+02:00",
+  "lauf": "2004",
   "fotos": [
     {
-      "id": "1834-1",
+      "id": "2004-1",
       "titel": "«Kinderbetreuung ist keine Arbeit»: Österreichs Kanzler stolpert auf seiner eigenen Imagetour",
-      "was": "Österreichs Kanzler Stocker im Bürgergespräch zwischen ratlosen Zuhörenden",
+      "was": "Kanzler Stocker im Bürgergespräch zwischen Zuhörern, sichtlich unter Druck",
       "grund": "memetauglich",
       "quelle": "NZZ",
       "auch_bei": [],
@@ -14,39 +14,30 @@
       "zeit": "2026-08-10T16:10+02:00"
     },
     {
-      "id": "1834-2",
-      "titel": "Guinnessbuch der Rekorde: Mann läuft Marathon mit 125 T-Shirts übereinander",
-      "was": "Läufer im Ziel mit 125 übereinander getragenen T-Shirts",
+      "id": "2004-2",
+      "titel": "Thüringen – Notfall-Übung in Eisenbahntunnel: Wenn ein ICE brennt, kommuniziert die Leitstelle per Fax",
+      "was": "Einsatzkräfte in Vollmontur bei Rettungsübung an brennendem ICE im Tunnel",
       "grund": "memetauglich",
       "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.spiegel.de/panorama/leute/guinnessbuch-der-rekorde-mann-laeuft-marathon-mit-125-t-shirts-uebereinander-a-55113840-e66a-42ce-9ce2-24590f1660b0#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/fe526ae1-b07e-44ac-9f8c-a58c7e1bb71c_w520_r2.08_fpx42.23_fpy49.88.jpg",
-      "zeit": "2026-08-10T15:55+02:00"
+      "artikel": "https://www.spiegel.de/panorama/thueringen-notfall-uebung-in-eisenbahntunnel-wenn-ein-ice-brennt-kommuniziert-die-leitstelle-per-fax-a-c978f98c-2545-4809-80d6-997cf8440f4a#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/65d18daa-c91e-42f4-a5e8-22782683edf9_w520_r2.08_fpx33.33_fpy50.jpg",
+      "zeit": "2026-08-10T17:42+02:00"
     },
     {
-      "id": "1834-3",
-      "titel": "Zürich stinkt nach Urin – «das wird so bleiben, bis Regen kommt»",
-      "was": "Reinigungskräfte spritzen Zürcher Gassen nach der Street Parade ab",
+      "id": "2004-3",
+      "titel": "Mette Frederiksen und Giorgia Meloni: Unheilige Schutzpatroninnen des christlichen Abendlandes",
+      "was": "Meloni und Frederiksen nebeneinander posierend beim gemeinsamen Auftritt",
       "grund": "breit",
-      "quelle": "20 Minuten",
+      "quelle": "taz",
       "auch_bei": [
-        "Watson"
+        "Tagesschau"
       ],
-      "artikel": "https://www.20min.ch/story/zuerich-uringeruch-nach-street-parade-bleibt-wohl-bis-zum-regen-103615633",
-      "bild": "https://image.20min.ch/2026/08/10/c0fa4c96-4f6e-46b2-9075-9d036285e444.jpg?s=77ae0049965004a6a558f534416312df",
-      "zeit": "2026-08-10T17:40+02:00"
+      "artikel": "https://taz.de/Mette-Frederiksen-und-Giorgia-Meloni/!6203209/",
+      "bild": "https://taz.de/picture/8663750/948/41828862.jpeg",
+      "zeit": "2026-08-10T20:00+02:00"
     }
   ],
-  "erwartet": [
-    {
-      "wann": "heute bis Abend",
-      "was": "Spielszenen und Jubelbilder von der Ultimate-Frisbee-Klub-WM in Irland"
-    },
-    {
-      "wann": "heute ab 09:00, Bilder laufend",
-      "was": "Pierin Vincenz mit Anwaltsteam beim Berufungsprozess am Zürcher Obergericht"
-    }
-  ],
+  "erwartet": [],
   "hinweis": ""
 }
