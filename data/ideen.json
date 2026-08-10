@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Ich habe dreissig Jahre lang Klimagesetze verhindert, und jetzt waren Juni und Juli in Westeuropa die heissesten seit Messbeginn. Gute Nachricht: die Klimaanlagen verkaufen wir auch. Zwei Jahre Garantie."
+    },
+    {
+      "id": "2026-08-10-2211-08",
+      "typ": "schnittmenge",
+      "stichwort": "Seenotrettung angeklagt, Zuckerbergs Jacht fährt weiter",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Wer Schiffbrüchige aus dem Mittelmeer zieht, wird angeklagt. Zuckerbergs 300-Millionen-Jacht fährt laut Bericht an einem Hilferuf vorbei und bleibt ein Privatboot ohne Vorstrafe."
+    },
+    {
+      "id": "2026-08-10-2211-09",
+      "typ": "remix",
+      "stichwort": "Neun Wochen Fensterscheibe, Trump will Entschädigung vor Verhandlung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich habe für eine gesprungene Fensterscheibe neun Wochen mit der Versicherung verhandelt. Trump verlangt vom Iran Entschädigung, bevor er überhaupt verhandelt. Nicht Diplomatie. Schadenmeldung mit Armee."
     }
   ]
 }
