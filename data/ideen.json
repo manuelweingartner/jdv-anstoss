@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "8 von 12 da, der Rest lädt noch.",
+  "hinweis": "10 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "2025 sind mehr Kinder im Verkehr gestorben als 2024. Beruhigend, dass wir schon reagiert haben: Die Warnweste gibt es jetzt in drei Farben. Tempo 30 bleibt in Prüfung."
+    },
+    {
+      "id": "2026-08-10-2004-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuererklärung ausgefüllt, 300 Reichste besitzen ein Landesjahr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Ich habe meine Steuererklärung ausgefüllt und danach nachgeschaut, was die 300 reichsten Menschen der Schweiz besitzen: ungefähr so viel, wie das Land in einem Jahr erwirtschaftet. Leistung muss sich wieder lohnen."
+    },
+    {
+      "id": "2026-08-10-2004-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Länger arbeiten mit 67, wer Dächer deckt hat zu wenig geerbt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Gute Nachricht: Wir arbeiten alle länger. Wer mit 67 noch Dächer deckt, hat halt zu wenig geerbt. Eigenverantwortung. Von klein auf."
     },
     {
       "id": "2026-08-10-2004-08",
