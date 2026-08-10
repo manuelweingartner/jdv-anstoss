@@ -1,13 +1,10 @@
 {
-  "typ": "slide",
-  "caption": "🌲🌲🌲 🇩🇪🇩🇪🇩🇪 🙃🙃🙃 💸💸💸 🎖️🎖️🎖️",
-  "notiz": "5 Slides aus den letzten Bluesky-Posts",
+  "typ": "meme",
+  "caption": "",
+  "notiz": "Zwei Varianten: Balken unter dem Foto und Schrift im Bild. Welche gilt, entscheidest du.",
   "dateien": [
-    "slide-1.jpg",
-    "slide-2.jpg",
-    "slide-3.jpg",
-    "slide-4.jpg",
-    "slide-5.jpg"
+    "meme-1.jpg",
+    "meme-2.jpg"
   ],
-  "stand": "2026-08-10T21:31:22+02:00"
+  "stand": "2026-08-10T21:33:03+02:00"
 }
