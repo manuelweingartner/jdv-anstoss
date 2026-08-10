@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "5 von 12 da, der Rest lädt noch.",
+  "hinweis": "8 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 17,
       "text": "Meloni und Dänemarks Regierungschefin posten auf Instagram gegen Migrant*innen und nennen sich Schutzpatroninnen des christlichen Abendlandes. Der Mann, um den es in dieser Religion geht, kam als Flüchtlingskind. Ohne Papiere."
+    },
+    {
+      "id": "2026-08-10-2004-10",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm seit sieben Jahren, Prämie für 100'000-Euro-Autos",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren im ECO-Programm, aus Prinzip. Diese Woche zahlt der Staat Kaufprämien für Elektroautos über 100'000 Euro. Porsche. Mercedes. Auch Klimaschutz."
+    },
+    {
+      "id": "2026-08-10-2004-11",
+      "typ": "persönlich",
+      "stichwort": "Konto in vier Minuten, brennender ICE per Fax",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Revolut hat jetzt eine Banklizenz, ich eröffne dort in vier Minuten ein Konto per Selfie. Am selben Tag meldet eine Leitstelle einen brennenden ICE per Fax. Angekommen ist er."
+    },
+    {
+      "id": "2026-08-10-2004-12",
+      "typ": "persönlich",
+      "stichwort": "45-Kilo-Hund braucht Chip und Versicherung, Waffe braucht Gerichtsurteil",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich brauche für meinen 45-Kilo-Hund eine Haftpflichtversicherung, einen Chip und eine Registrierung. Ob AfD-Mitglieder eine Waffe behalten dürfen, entscheidet ein Gericht. Einzelfallprüfung. Sorgfältig. Seit Jahren."
     }
   ]
 }
