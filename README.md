@@ -58,21 +58,33 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
   Argumentfigur: Drake ist Ablehnung plus Vorzug, Zwei Knöpfe eine unmögliche
   Wahl, der abgelenkte Freund ein Treuebruch, Change My Mind eine These ohne
   möglichen Widerspruch. Der Laptop bekommt diese Bedeutungen plus die
-  Tagesmeldungen und schlägt drei Memes vor, je mit Begründung.
+  Tagesmeldungen und schlägt **zehn** Memes vor, je mit Begründung.
 - **Jeder Vorschlag trägt das fertige Bild.** «Ich kenne nicht alle meme
   templates auswändig»: ein Vorlagenname ohne Bild ist nicht beurteilbar. Gebaut
   wird darum sofort beim Vorschlagen, das kostet keinen Modellaufruf.
-  Drei Knöpfe: «neue» im Kopf holt alle drei neu, «anderes» am Vorschlag ersetzt
-  nur diesen einen (Issue `MEMES: <nr>`), und «feilen» öffnet ein Feld pro
-  Textzeile und rendert deine Fassung neu (Issue `MEME-FEILE`). Beim Feilen darf
-  auch die Vorlage wechseln.
+- **19 kuratierte Vorlagen, und der Vorrat rotiert.** Ohne Rotation schlägt ein
+  Modell zuverlässig Drake, Zwei Knöpfe und den abgelenkten Freund vor, weil die
+  am bekanntesten sind. Ein Verlauf merkt sich, wann jede Figur dran war; der
+  Prompt sieht nur die am längsten unbenutzten, und keine Figur kommt zweimal in
+  einer Runde. Der Vorrat wächst nur über den Kontaktbogen, nie auf Zuruf: falsch
+  gesetzte Textfelder sind im Code unsichtbar.
+- **Sechs Griffe pro Vorschlag:** `laden` (Direkt-Download), `Zeilen` (in die
+  Ablage für den Bluesky-Post), `anderes` (ersetzt genau diesen, Issue
+  `MEMES: <nr>`), `feilen` (ein Feld pro Textzeile mit Wortzähler, Issue
+  `MEME-FEILE`), `Figur nie` (nimmt die Vorlage dauerhaft aus dem Vorrat, Issue
+  `VORLAGE-NIE`) und `weg` (blendet nur lokal aus). Im Kopf holt `neue` alle zehn.
+- **Tap aufs Bild öffnet die Lupe:** gross ansehen, herunterladen, Zeilen
+  kopieren und feilen an derselben Stelle. Escape oder ein Tap auf den Grund
+  schliesst. Zehn Vorschläge wären sonst zehn Browser-Tabs.
+- **Jeder Auftragsknopf zeigt die Laufzeit** und die Seite zieht die neuen
+  Vorschläge selbst nach, sobald der Laptop geliefert hat.
 - **Trägt ein Bluesky-Post ein Bild, zeigt die IG-Slide das Bild statt Text:**
   Kopf mit jardinduvin, darunter das Bild so gross wie möglich, kein Textblock.
   Genau so baut @elhotzo seine Slides.
-- **Die Vorlagen sind echt, nicht nachgebaut:** die 100 populärsten von imgflip,
-  vier davon mit von Hand kuratierten Textfeldern, weil «oben und unten» bei
-  ihnen falsch wäre. Beschriftet wird auf dem Laptop, nicht über imgflips API:
-  die setzt bei Gratiskonten ein Wasserzeichen ins Bild.
+- **Die Vorlagen sind echt, nicht nachgebaut:** aus den 100 populärsten von
+  imgflip, 19 davon mit von Hand kuratierten Textfeldern oder als klassisches
+  Bildmakro. Beschriftet wird auf dem Laptop, nicht über imgflips API: die setzt
+  bei Gratiskonten ein Wasserzeichen ins Bild.
 - **Als App installierbar, mit Teilen-Ziel.** `manifest.json` deklariert ein
   GET-Teilen-Ziel: wer in einer beliebigen App auf «Teilen» drückt und die Seite
   wählt, landet mit dem Inhalt im Material-Feld. Dafür muss die Seite einmal über
