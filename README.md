@@ -46,6 +46,25 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
 - Ab 4 in der Bewertung erscheint "3 Varianten anfordern" (Issue
   `VARIANTE: <id>`, gleicher Poller, Varianten erscheinen zuoberst). Auch
   dieser Knopf zeigt die Laufzeit.
+- **Über der Liste steht der Foto-Radar** (seit 10.08.2026, eigene Datei
+  `data/fotos.json`, Skript `metrics/foto_radar.py` im Skill-Ordner). Drei
+  verlinkte Pressefotos mit Meme-Potenzial plus höchstens zwei Termine, bei
+  denen heute noch ein Foto zu erwarten ist. Grund: beschilderte Pressefotos von
+  grossen Anlässen laufen gut, aber Manuel merkt oft zu spät, dass es so ein
+  Foto überhaupt gibt.
+  - **Drei Läufe:** morgens am Ende des Tages-Anstosses, um 17:00 der Task
+    `jdvFotoRadar`, dazu der Knopf „neu suchen" (Issue `FOTOS:`, gleicher
+    Poller). Der Knopf „12 neue" löst den Radar **nicht** mit aus.
+  - **Vorschaubild kommt direkt vom Verlag** (`og:image` bzw. das Bild aus dem
+    RSS), es liegt keine Kopie im Repo. Sperrt ein Verlag Hotlinks, bleibt der
+    Kasten leer und die beiden Links funktionieren weiter. Die Seite ist
+    ohnehin `noindex, nofollow, noarchive`.
+  - **Eigener try/catch beim Laden.** Fehlt `fotos.json` (vor dem ersten Lauf)
+    oder ist sie kaputt, bleibt die Sektion einfach verborgen und die
+    Vorschlagsliste ist unberührt. Die zwei 404 in der Browser-Konsole sind
+    dann normal, sie gehören zur Fallback-Kette.
+  - Der Radar macht **keine Captions und keine Witze**, er verlinkt nur. Die
+    Beschilderung macht Manuel selbst.
 - **Gemessene Wartezeiten (06.08.2026, nach dem Umbau).** Vorher, ein einziger
   Auftrag über alle 20 Ideen und alles streng hintereinander: **9:11** (5:48
   Generierung, 1:04 Ähnlichkeits-Gate, 2:06 Ersatzrunde plus Publizieren).

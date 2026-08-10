@@ -172,6 +172,60 @@
   .verdict::before { content: "\2713  "; color: var(--tinte); }
   .slot.done .verdict { display: block; }
 
+  /* -------------------------------------------------------------- Foto-Radar */
+  /* Absichtlich flach und schmal: die Sektion steht ueber der Vorschlagsliste
+     und darf sie nicht nach unten druecken. Drei Zeilen mit Vorschaubild, mehr
+     nicht. Das Bild kommt direkt vom Verlag (og:image), es liegt keine Kopie im
+     Repo; die Seite ist noindex, siehe <head>. */
+  .radar { border-bottom: 1px solid var(--linie); padding: 2px 0 9px; }
+  /* nowrap durchgehend: mit Umbruch stand der Kopf auf 414px Breite auf drei
+     Zeilen und "FOTO-RADAR" selbst zweizeilig (gemessen 10.08.2026). Der Stand
+     ist das Einzige, was gekuerzt werden darf. */
+  .radar h2 {
+    display: flex; align-items: baseline; gap: 8px; margin: 10px 0 3px;
+    flex-wrap: nowrap; font: 600 .7rem/1.4 inherit;
+  }
+  .radar h2 b {
+    font-weight: 600; letter-spacing: .13em; text-transform: uppercase;
+    white-space: nowrap; flex: 0 0 auto;
+  }
+  .radar h2 em {
+    font: 400 .66rem/1.4 inherit; letter-spacing: .04em; font-style: normal;
+    color: var(--matt); flex: 1 1 auto; min-width: 0;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .radar h2 button {
+    appearance: none; flex: 0 0 auto; white-space: nowrap;
+    border: 1px dashed var(--tinte);
+    border-radius: 0; background: transparent; color: var(--tinte);
+    cursor: pointer; font: 400 .68rem/1 inherit; padding: 6px 8px;
+    letter-spacing: .04em; text-transform: none;
+  }
+  .radar h2 button:disabled { opacity: .5; cursor: default; }
+  .foto {
+    display: flex; gap: 10px; padding: 9px 0;
+    border-top: 1px solid var(--linie);
+  }
+  .foto a.vor { flex: 0 0 auto; display: block; }
+  .foto img {
+    display: block; width: 104px; height: 72px; object-fit: cover;
+    background: rgba(0, 0, 0, .07);
+  }
+  .foto .txt { min-width: 0; flex: 1 1 auto; }
+  .foto .was { font-size: .82rem; line-height: 1.45; }
+  .foto .meta {
+    font-size: .66rem; letter-spacing: .04em; color: var(--matt); margin-top: 4px;
+    word-break: break-word;
+  }
+  .foto .meta a { color: var(--tinte); }
+  .foto .tag { text-transform: uppercase; letter-spacing: .09em; }
+  .foto .tag.breit { color: var(--t-politisch); }
+  .erwartet {
+    border-top: 1px dashed var(--linie); margin-top: 4px; padding-top: 8px;
+    font-size: .7rem; line-height: 1.55; color: var(--matt);
+  }
+  .erwartet b { color: var(--tinte); font-weight: 500; }
+
   /* --------------------------------------------------------------- Nachschub */
   #morebox { padding: 16px 0 8px; }
   .alldone { font-size: .78rem; color: var(--matt); padding: 22px 0; }
@@ -262,6 +316,8 @@
     <button class="b-more" id="tokendel" style="background:transparent;color:var(--nein);border-color:var(--nein)">Löschen</button>
   </div>
 </section>
+
+<section class="radar" id="radar" hidden></section>
 
 <div class="zeile" id="filterbar" hidden></div>
 
@@ -968,10 +1024,179 @@ document.getElementById('tokendel').onclick = () => {
   localStorage.removeItem(LS_TOKEN); toast('Token gelöscht');
 };
 
+/* ---------------------------------------------------------------- Foto-Radar */
+/* Drei verlinkte Pressefotos mit Meme-Potenzial, geliefert von foto_radar.py
+   (Windows-Tasks 07:57 und 17:00, plus dieser Knopf). Eigene Datei und eigener
+   try/catch: faellt fotos.json aus, bleibt die Vorschlagsliste unberuehrt, und
+   vor dem ersten Lauf existiert die Datei gar nicht - ein 404 ist hier normal
+   und darf nichts melden.
+   Die Auswahl ist eine Prognose aus der Schlagzeile, das Modell sieht die Bilder
+   nicht. Darum steht hier ein Vorschaubild: beurteilen tut Manuel. */
+const LS_FOTO = 'jdv_foto_pending';
+const FOTO_FRIST_MIN = 8;
+
+/* "10.08. 16:44", nicht toLocaleString: das setzt ein Komma zwischen Datum und
+   Zeit und macht die Zeile im engen Kopf unnoetig lang. Heutiges Datum wird
+   weggelassen, im Normalfall bleibt also nur die Uhrzeit stehen. */
+function fotoUhr(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (isNaN(d)) return '';
+  const p = n => String(n).padStart(2, '0');
+  const uhr = `${p(d.getHours())}:${p(d.getMinutes())}`;
+  const heute = new Date();
+  const gleich = d.toDateString() === heute.toDateString();
+  return gleich ? uhr : `${p(d.getDate())}.${p(d.getMonth() + 1)}. ${uhr}`;
+}
+
+/* Feed-Titel sind fremder Text und werden nie als HTML eingesetzt, nur als
+   textContent. URLs muessen https sein, sonst fliegt der Eintrag raus. */
+const httpsOk = u => typeof u === 'string' && u.startsWith('https://');
+
+function fotoZeile(f) {
+  const el = document.createElement('div');
+  el.className = 'foto';
+  if (httpsOk(f.bild)) {
+    const a = document.createElement('a');
+    a.className = 'vor'; a.href = f.artikel; a.target = '_blank'; a.rel = 'noopener';
+    const img = document.createElement('img');
+    img.src = f.bild; img.alt = ''; img.loading = 'lazy';
+    img.referrerPolicy = 'no-referrer';
+    /* Manche Verlage sperren Hotlinks. Dann bleibt der Kasten leer statt ein
+       kaputtes Bildsymbol zu zeigen, die Links funktionieren weiter. */
+    img.onerror = () => { img.style.visibility = 'hidden'; };
+    a.appendChild(img); el.appendChild(a);
+  }
+  const txt = document.createElement('div');
+  txt.className = 'txt';
+  const was = document.createElement('div');
+  was.className = 'was';
+  was.textContent = f.was || f.titel || '';
+  txt.appendChild(was);
+  const meta = document.createElement('div');
+  meta.className = 'meta';
+  const tag = document.createElement('span');
+  tag.className = 'tag' + (f.grund === 'breit' ? ' breit' : '');
+  tag.textContent = f.grund === 'breit'
+    ? 'Breit gelaufen' + ((f.auch_bei || []).length ? ` (${f.auch_bei.join(', ')})` : '')
+    : 'Meme-Potenzial';
+  meta.appendChild(tag);
+  meta.appendChild(document.createTextNode(
+    ` · ${f.quelle || ''}${f.zeit ? ' · ' + fotoUhr(f.zeit) : ''} · `));
+  const a1 = document.createElement('a');
+  a1.href = f.artikel; a1.target = '_blank'; a1.rel = 'noopener';
+  a1.textContent = 'Artikel';
+  meta.appendChild(a1);
+  if (httpsOk(f.bild)) {
+    meta.appendChild(document.createTextNode(' · '));
+    const a2 = document.createElement('a');
+    a2.href = f.bild; a2.target = '_blank'; a2.rel = 'noopener';
+    a2.textContent = 'Bild';
+    meta.appendChild(a2);
+  }
+  txt.appendChild(meta);
+  el.appendChild(txt);
+  return el;
+}
+
+function renderRadar(d) {
+  const box = document.getElementById('radar');
+  const fotos = ((d && d.fotos) || []).filter(f => httpsOk(f.artikel));
+  if (!fotos.length) { box.hidden = true; return; }
+  box.textContent = '';
+  const h = document.createElement('h2');
+  const titel = document.createElement('b');
+  titel.textContent = 'Foto-Radar';
+  h.appendChild(titel);
+  const em = document.createElement('em');
+  em.textContent = fotoUhr(d.stand) || '?';
+  h.appendChild(em);
+  const b = document.createElement('button');
+  b.id = 'fotobtn'; b.textContent = 'neu suchen';
+  b.onclick = () => fotosAnfordern(b, d.lauf || '');
+  h.appendChild(b);
+  box.appendChild(h);
+  fotos.forEach(f => box.appendChild(fotoZeile(f)));
+  if (d.hinweis) {
+    const w = document.createElement('div');
+    w.className = 'erwartet'; w.textContent = d.hinweis;
+    box.appendChild(w);
+  }
+  const erw = (d.erwartet || []).filter(e => e && e.was);
+  if (erw.length) {
+    const w = document.createElement('div');
+    w.className = 'erwartet';
+    w.appendChild(document.createTextNode('Heute noch erwartet: '));
+    erw.forEach((e, i) => {
+      if (i) w.appendChild(document.createTextNode(' · '));
+      const s = document.createElement('b');
+      s.textContent = e.wann || 'heute';
+      w.appendChild(s);
+      w.appendChild(document.createTextNode(' ' + e.was));
+    });
+    box.appendChild(w);
+  }
+  box.hidden = false;
+  const offen = JSON.parse(localStorage.getItem(LS_FOTO) || 'null');
+  if (offen && offen.lauf !== (d.lauf || '')) localStorage.removeItem(LS_FOTO);
+  else if (offen) fotoWarten(document.getElementById('fotobtn'), offen);
+}
+
+async function fotosLaden(sha) {
+  try { renderRadar(await ladeDaten('fotos.json', sha)); } catch (e) { /* 404 ok */ }
+}
+
+async function fotosAnfordern(btn, lauf) {
+  btn.disabled = true;
+  const auftrag = { lauf, seit: Date.now() };
+  const res = await sendIssue('FOTOS: jetzt',
+    'Knopf "neu suchen" im Foto-Radar. Der Poller startet foto_radar.py.');
+  if (res === 'queued') {
+    btn.disabled = false;
+    toast('Kein Token, Anforderung liegt in der Warteschlange');
+    zeigeStau();
+    return;
+  }
+  localStorage.setItem(LS_FOTO, JSON.stringify(auftrag));
+  fotoWarten(btn, auftrag);
+}
+
+/* Wartet, bis fotos.json eine andere Lauf-Nummer zeigt. Der Poller laeuft im
+   Minutentakt, es dauert also bis zu einer Minute, bis ueberhaupt etwas
+   passiert. Nach FOTO_FRIST_MIN Minuten wird aufgegeben und der Knopf wieder
+   freigegeben, sonst bleibt er nach einem Fehlschlag fuer immer gesperrt. */
+function fotoWarten(btn, auftrag) {
+  if (!btn) return;
+  btn.disabled = true;
+  const tick = async () => {
+    const weg = Math.round((Date.now() - auftrag.seit) / 1000);
+    if (weg > FOTO_FRIST_MIN * 60) {
+      localStorage.removeItem(LS_FOTO);
+      btn.disabled = false; btn.textContent = 'neu suchen';
+      toast('Foto-Radar hat nicht geantwortet, Log prüfen');
+      return;
+    }
+    btn.textContent = `läuft … ${Math.floor(weg / 60)}:${String(weg % 60).padStart(2, '0')}`;
+    try {
+      const d = await ladeDaten('fotos.json', await headShaSafe());
+      if (d && (d.lauf || '') !== auftrag.lauf) {
+        localStorage.removeItem(LS_FOTO);
+        renderRadar(d);
+        toast('Foto-Radar aktualisiert');
+        return;
+      }
+    } catch (e) { /* weiter warten */ }
+    setTimeout(tick, 15000);
+  };
+  tick();
+}
+
 (async () => {
   const liste = document.getElementById('liste');
   try {
-    const d = await ladeDaten('ideen.json', await headShaSafe());
+    const sha = await headShaSafe();
+    fotosLaden(sha);
+    const d = await ladeDaten('ideen.json', sha);
     window._datum = d.datum;
     window._datumKurz = new Date(d.datum).toLocaleDateString('de-CH',
       { day: '2-digit', month: '2-digit' });
