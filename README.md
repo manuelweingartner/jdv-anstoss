@@ -31,7 +31,32 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
   «einfach nicht lustig», 4 Annahmen.** Manuel arbeitete als Filter für eine
   Maschine, die fast nur Ausschuss lieferte; das macht jetzt die Maschine.
   `SOLL` in `index.html` und `ANZAHL` im Generator müssen dabei gleich bleiben.
-- **Der Knopf «merken» ganz oben ist der wertvollste der Seite.** Er wirft eine
+- **Reihenfolge auf der Seite, Entscheid Manuel 10.08.2026:** zuoberst die
+  Textvorschläge, darunter Material, Foto-Radar und Werkstatt. «Zuerst die text
+  vorschläge»: die Seite ist zum Beurteilen da, alles andere ist Zubehör. Eine
+  Sektion mit den Zahlen der letzten Posts stand kurz über der Liste und ist auf
+  seinen Wunsch wieder weg («was zuletzt lief, weg, gefällt mir nicht»); nicht
+  erneut bauen, die Zahlen gibt das Terminal her.
+- **«feilen» an jeder Idee.** Öffnet den Text zum Umschreiben; die eigene Fassung
+  geht als Issue `FEILE: <id>` mit `ALT:`/`NEU:` raus, wird kopiert und gilt als
+  genommen. Im Prompt steht das Vorher-Nachher-Paar danach ganz vorne, noch vor
+  den Stilregeln: eine Note sagt «schlecht», ein Paar sagt, wie es richtig
+  gewesen wäre.
+- **Dreimal derselbe Ablehngrund fragt nach der ganzen Runde.** Ein Riegel
+  erledigt den Rest in einem Zug und legt zusätzlich ein `NEIN-RUNDE`-Issue an.
+  Anlass war die Runde vom 06.08.2026: 14 mal «Thema falsch» bei 9,7 Sekunden pro
+  Urteil.
+- **Werkstatt: fertige Bilder ohne Terminal.** «Slides bauen» unter der Liste
+  (Issue `SLIDES: <n>`) baut den Stapel aus den letzten Bluesky-Posts, «Meme
+  bauen» am Foto-Radar (Issue `MEME: <zeile>`) legt eine Zeile auf ein
+  Pressefoto und liefert **zwei Varianten** zur Auswahl. Die Bilder erscheinen
+  als Vorschau in der Werkstatt, das Original liegt in voller Qualität lokal.
+- **Als App installierbar, mit Teilen-Ziel.** `manifest.json` deklariert ein
+  GET-Teilen-Ziel: wer in einer beliebigen App auf «Teilen» drückt und die Seite
+  wählt, landet mit dem Inhalt im Material-Feld. Dafür muss die Seite einmal über
+  «Zum Startbildschirm» installiert werden, sonst erscheint sie im Teilen-Menü
+  nicht.
+- **Der Knopf «merken» ist der wertvollste der Seite.** Er wirft eine
   Beobachtung als Issue `MATERIAL:` ein, der Poller schreibt sie in
   `references/material_eingang.md`, und ab der nächsten Runde baut ein eigener
   Teilauftrag Ideen daraus. Er löst **keine** Generierung aus und kostet keine

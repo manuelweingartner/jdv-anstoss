@@ -239,39 +239,6 @@
   .feile .row { display: flex; gap: 6px; margin-top: 7px; }
   .feile .hint { font-size: .68rem; color: var(--matt); margin-top: 5px; }
 
-  /* -------------------------------------------------------- Ergebnisse */
-  /* Zahlen dorthin, wo geurteilt wird. Ohne den Median daneben sagt "534
-     Views" nichts, darum steht er im Kopf der Sektion. */
-  .ergebnisse { border-bottom: 1px solid var(--linie); padding: 2px 0 9px; }
-  .ergebnisse h2 {
-    display: flex; align-items: baseline; gap: 8px; margin: 10px 0 3px;
-    flex-wrap: nowrap; font: 600 .7rem/1.4 inherit;
-  }
-  .ergebnisse h2 b {
-    font-weight: 600; letter-spacing: .13em; text-transform: uppercase;
-    white-space: nowrap;
-  }
-  .ergebnisse h2 em {
-    font: 400 .66rem/1.4 inherit; font-style: normal; color: var(--matt);
-    letter-spacing: .04em; overflow: hidden; text-overflow: ellipsis;
-    white-space: nowrap; min-width: 0;
-  }
-  .ergebnisse summary {
-    list-style: none; cursor: pointer;
-  }
-  .ergebnisse summary::-webkit-details-marker { display: none; }
-  .ergebnisse summary h2 { margin: 10px 0 3px; }
-  .ergebnisse summary h2 b::after { content: " ▸"; color: var(--matt); }
-  .ergebnisse details[open] summary h2 b::after { content: " ▾"; }
-  .erg { padding: 7px 0; border-top: 1px solid var(--linie); font-size: .78rem; }
-  .erg .zahlen {
-    font-size: .68rem; letter-spacing: .04em; color: var(--matt); margin-top: 3px;
-  }
-  .erg .zahlen b { color: var(--tinte); font-weight: 600; }
-  .erg .zahlen a { color: var(--tinte); }
-  .erg.ueber .zahlen b { color: var(--t-remix); }
-  .erg.unter .zahlen b { color: var(--nein); }
-
   /* ---------------------------------------------------------- Werkstatt */
   .werkstatt { border-bottom: 1px solid var(--linie); padding: 2px 0 10px; }
   .werkstatt h2 {
@@ -404,21 +371,21 @@
   </div>
 </section>
 
-<section class="radar" id="radar" hidden></section>
+<div class="zeile" id="filterbar" hidden></div>
 
+<main id="liste"><div class="alldone">Vorschläge werden geladen …</div></main>
+
+<!-- Werkzeuge UNTER der Liste. Entscheid Manuel 10.08.2026: "zuerst die text
+     vorschläge". Die Seite ist zum Beurteilen da, alles andere ist Zubehoer. -->
 <div class="material" id="materialbar">
   <input id="materialinput" placeholder="Material: was dir heute aufgefallen ist"
          autocomplete="off" enterkeyhint="send">
   <button class="b-more" id="materialsend">merken</button>
 </div>
 
+<section class="radar" id="radar" hidden></section>
+
 <section class="werkstatt" id="werkstatt" hidden></section>
-
-<section class="ergebnisse" id="ergebnisse" hidden></section>
-
-<div class="zeile" id="filterbar" hidden></div>
-
-<main id="liste"><div class="alldone">Vorschläge werden geladen …</div></main>
 
 <footer>
   Genommenes erkennt Claude am nächsten Threads-Abgleich von selbst.
@@ -1236,61 +1203,6 @@ function zeigeVerdacht(grund, offen) {
   bar.hidden = false;
 }
 
-/* ------------------------------------------------------------ Ergebnisse */
-/* Vorschlag 4 vom 10.08.2026: "Zahlen dorthin, wo geurteilt wird." Manuel
-   urteilte auf dieser Seite ueber neue Ideen und sah nirgends, was die
-   geposteten gemacht haben. Quelle ist ergebnisse.json (Threads-Zahlen; IG gibt
-   Aufrufe nur ueber eine angemeldete Browser-Sitzung her, das kann kein
-   unbeaufsichtigter Task).
-   Der Median steht im Kopf, weil eine nackte View-Zahl keinen Massstab hat. */
-function renderErgebnisse(d) {
-  const box = document.getElementById('ergebnisse');
-  const posts = (d && d.posts) || [];
-  if (!posts.length) { box.hidden = true; return; }
-  box.textContent = '';
-  /* Zusammengeklappt, weil sechs Posts mit je drei Zeilen sonst den ersten
-     Bildschirm fuellen und die Vorschlaege nach unten druecken. Der Kopf traegt
-     die Kennzahl, die man im Vorbeigehen braucht: wie viele und der Median. */
-  const details = document.createElement('details');
-  const kopf = document.createElement('summary');
-  const h = document.createElement('h2');
-  const b = document.createElement('b'); b.textContent = 'Was zuletzt lief';
-  h.appendChild(b);
-  const em = document.createElement('em');
-  const ueber = posts.filter(p => p.views >= d.median_views * 1.5).length;
-  em.textContent = `${posts.length} Posts · Median ${d.median_views} Views`
-    + (ueber ? ` · ${ueber} darüber` : '');
-  h.appendChild(em);
-  kopf.appendChild(h);
-  details.appendChild(kopf);
-  box.appendChild(details);
-  posts.forEach(p => {
-    const el = document.createElement('div');
-    el.className = 'erg' + (p.views >= d.median_views * 1.5 ? ' ueber'
-      : p.views <= d.median_views * 0.5 ? ' unter' : '');
-    const txt = document.createElement('div');
-    txt.textContent = p.text;
-    el.appendChild(txt);
-    const z = document.createElement('div');
-    z.className = 'zahlen';
-    const stark = document.createElement('b');
-    stark.textContent = `${p.views} Views · ${p.likes} Likes · ${p.quote}%`;
-    z.appendChild(stark);
-    z.appendChild(document.createTextNode(
-      ` · ${p.antworten} Antw · ${p.gepostet}`
-      + (p.endwert ? ' · Endwert' : ' · läuft noch') + ' · '));
-    if (httpsOk(p.permalink)) {
-      const a = document.createElement('a');
-      a.href = p.permalink; a.target = '_blank'; a.rel = 'noopener';
-      a.textContent = 'Threads';
-      z.appendChild(a);
-    }
-    el.appendChild(z);
-    details.appendChild(el);
-  });
-  box.hidden = false;
-}
-
 /* ------------------------------------------------------------- Werkstatt */
 /* Fertige Bilder aus dem Laptop, ohne Terminal: Slides aus den letzten
    Bluesky-Posts und Memes aus dem Foto-Radar. Der Poller baut sie und legt sie
@@ -1618,7 +1530,6 @@ function fotoWarten(btn, auftrag) {
     fotosLaden(sha);
     /* Eigene try/catch pro Datei: fehlt eine, bleibt ihre Sektion verborgen und
        die Vorschlagsliste ist unberuehrt. */
-    ladeDaten('ergebnisse.json', sha).then(renderErgebnisse).catch(() => {});
     ladeDaten('werkstatt.json', sha).then(renderWerkstatt).catch(() => {});
     materialAusTeilen();
     const d = await ladeDaten('ideen.json', sha);
