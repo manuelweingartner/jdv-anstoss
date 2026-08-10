@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "2 von 12 da, der Rest lädt noch.",
+  "hinweis": "4 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-10-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "KI beantwortet meine Mails nicht, nur schneller",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich lasse seit Februar eine KI meine Mails beantworten. Diese Woche verlieren Tausende Softwareentwickler ihre Stelle an KI-Agenten. Meine Mails sind weiterhin unbeantwortet. Jetzt aber in Rekordzeit."
+    },
+    {
+      "id": "2026-08-10-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zoll nimmt den Porsche, Vincenz geht ins achte Jahr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ab sofort darf der Zoll Vermögen unklarer Herkunft beschlagnahmen, Porsche, Rolex, weg. In derselben Woche geht der Prozess gegen den Ex-Raiffeisen-Chef Vincenz ins achte Jahr. Die Rolex tickt weiter."
+    },
     {
       "id": "2026-08-10-0757-03",
       "typ": "schnittmenge",
