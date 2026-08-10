@@ -6,6 +6,7 @@
 <meta name="robots" content="noindex, nofollow, noarchive">
 <meta name="theme-color" content="#ebebe8">
 <title>jdv Tages-Anstoss</title>
+<link rel="manifest" href="manifest.json">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23ebebe8'/%3E%3Crect x='4' y='7' width='24' height='2.5' fill='%2316181a'/%3E%3Crect x='4' y='14' width='24' height='2.5' fill='%2316181a'/%3E%3Crect x='4' y='21' width='14' height='2.5' fill='%23a41f1a'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -226,6 +227,71 @@
   }
   .erwartet b { color: var(--tinte); font-weight: 500; }
 
+  /* ----------------------------------------------------------- Feilen */
+  .feile { display: none; margin-top: 10px; }
+  .slot.feilend .feile { display: block; }
+  .slot.feilend .actions, .slot.feilend .b-var, .slot.feilend .reasons { display: none; }
+  .feile textarea {
+    width: 100%; min-height: 88px; padding: 9px 10px; border-radius: 0;
+    border: 1px solid var(--tinte); background: #fff; color: var(--tinte);
+    font: 400 15px/1.5 inherit; resize: vertical;
+  }
+  .feile .row { display: flex; gap: 6px; margin-top: 7px; }
+  .feile .hint { font-size: .68rem; color: var(--matt); margin-top: 5px; }
+
+  /* -------------------------------------------------------- Ergebnisse */
+  /* Zahlen dorthin, wo geurteilt wird. Ohne den Median daneben sagt "534
+     Views" nichts, darum steht er im Kopf der Sektion. */
+  .ergebnisse { border-bottom: 1px solid var(--linie); padding: 2px 0 9px; }
+  .ergebnisse h2 {
+    display: flex; align-items: baseline; gap: 8px; margin: 10px 0 3px;
+    flex-wrap: nowrap; font: 600 .7rem/1.4 inherit;
+  }
+  .ergebnisse h2 b {
+    font-weight: 600; letter-spacing: .13em; text-transform: uppercase;
+    white-space: nowrap;
+  }
+  .ergebnisse h2 em {
+    font: 400 .66rem/1.4 inherit; font-style: normal; color: var(--matt);
+    letter-spacing: .04em; overflow: hidden; text-overflow: ellipsis;
+    white-space: nowrap; min-width: 0;
+  }
+  .ergebnisse summary {
+    list-style: none; cursor: pointer;
+  }
+  .ergebnisse summary::-webkit-details-marker { display: none; }
+  .ergebnisse summary h2 { margin: 10px 0 3px; }
+  .ergebnisse summary h2 b::after { content: " ▸"; color: var(--matt); }
+  .ergebnisse details[open] summary h2 b::after { content: " ▾"; }
+  .erg { padding: 7px 0; border-top: 1px solid var(--linie); font-size: .78rem; }
+  .erg .zahlen {
+    font-size: .68rem; letter-spacing: .04em; color: var(--matt); margin-top: 3px;
+  }
+  .erg .zahlen b { color: var(--tinte); font-weight: 600; }
+  .erg .zahlen a { color: var(--tinte); }
+  .erg.ueber .zahlen b { color: var(--t-remix); }
+  .erg.unter .zahlen b { color: var(--nein); }
+
+  /* ---------------------------------------------------------- Werkstatt */
+  .werkstatt { border-bottom: 1px solid var(--linie); padding: 2px 0 10px; }
+  .werkstatt h2 {
+    display: flex; align-items: baseline; gap: 8px; margin: 10px 0 6px;
+    font: 600 .7rem/1.4 inherit; letter-spacing: .13em; text-transform: uppercase;
+  }
+  .werkstatt h2 em {
+    font: 400 .66rem/1.4 inherit; font-style: normal; color: var(--matt);
+    letter-spacing: .04em; text-transform: none;
+  }
+  .wbilder { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 4px; }
+  .wbilder a { flex: 0 0 auto; }
+  .wbilder img {
+    display: block; height: 150px; width: auto; background: rgba(0, 0, 0, .07);
+  }
+  .wnotiz { font-size: .7rem; color: var(--matt); margin-top: 6px; }
+  .wcaption {
+    font-size: .95rem; letter-spacing: .06em; margin-top: 6px; cursor: pointer;
+  }
+
   /* ---------------------------------------------------------------- Material */
   /* Steht oben statt unten: das ist eine EINGABE, kein Urteil, und sie muss vom
      Handy aus in zwei Sekunden erreichbar sein, ohne durch die Liste zu
@@ -239,6 +305,10 @@
     border: 1px solid var(--linie); background: #fff; color: var(--tinte);
     font: 400 .78rem/1.3 inherit;
   }
+  /* display:flex schlaegt das hidden-Attribut aus dem Browser-Stylesheet, das
+     Meme-Feld stand darum sichtbar da, obwohl es verborgen sein sollte
+     (gemessen 10.08.2026). */
+  .material[hidden] { display: none; }
   .material input:focus { outline: none; border-color: var(--tinte); }
   .material button { flex: 0 0 auto; }
 
@@ -320,6 +390,7 @@
 </div>
 <div class="banner warn" id="stau" hidden></div>
 <div class="banner" id="hinweis" hidden></div>
+<div class="banner warn" id="verdacht" hidden></div>
 
 <section class="settings" id="settings" hidden>
   <h2>Direkt senden einrichten (einmalig pro Gerät)</h2>
@@ -340,6 +411,10 @@
          autocomplete="off" enterkeyhint="send">
   <button class="b-more" id="materialsend">merken</button>
 </div>
+
+<section class="werkstatt" id="werkstatt" hidden></section>
+
+<section class="ergebnisse" id="ergebnisse" hidden></section>
 
 <div class="zeile" id="filterbar" hidden></div>
 
@@ -671,8 +746,13 @@ function renderNachschub() {
         <input class="fokus" id="fokusinput" placeholder="optional: Stichwort oder ganzer Satz">
         <button class="b-more">${MEHR_LABEL}</button>
       </div>
-      <div class="kats"></div>`;
+      <div class="kats"></div>
+      <div class="nachschub" style="margin-top:10px">
+        <button class="b-more" id="slidesbtn" style="flex:1 1 auto">Slides bauen aus den letzten 5 Posts</button>
+      </div>`;
     box.querySelector('.b-more').onclick = requestMore;
+    const sb = box.querySelector('#slidesbtn');
+    if (sb) sb.onclick = () => slidesBauen(sb, 5);
     const kats = box.querySelector('.kats');
     KATEGORIEN.forEach(([label, wort]) => {
       const b = document.createElement('button');
@@ -858,11 +938,20 @@ function card(idee) {
     <div class="actions">
       <button class="b-copy">kopieren</button>
       <button class="b-take">nehme ich</button>
+      <button class="b-feile">feilen</button>
       <button class="b-no">nein</button>
       <div class="stars"></div>
     </div>
     <button class="b-var" hidden>3 Varianten anfordern</button>
     <div class="reasons"></div>
+    <div class="feile">
+      <textarea spellcheck="true"></textarea>
+      <div class="row">
+        <button class="b-more f-ok">so ist es richtig</button>
+        <button class="b-more f-weg" style="background:transparent;color:var(--matt);border-color:var(--linie)">abbrechen</button>
+      </div>
+      <div class="hint">Deine Fassung geht als Vorher-Nachher in den Prompt und wird kopiert.</div>
+    </div>
     <div class="verdict"></div>`;
 
   const pt = slot.querySelector('.posttext');
@@ -907,6 +996,40 @@ function card(idee) {
     if (res === 'sent') watchForNew(varBtn, 0, '3 Varianten anfordern');
   };
 
+  /* Feilen (Vorschlag 1 vom 10.08.2026). Bisher feilte Manuel im Chat mit
+     Claude, und der Generator erfuhr davon nie. Ein Vorher-Nachher-Paar ist das
+     staerkste Trainingssignal ueberhaupt: es sagt nicht "schlecht", sondern wie
+     es richtig gewesen waere. Die eigene Fassung wird zugleich kopiert, damit
+     der Weg vom Feilen zum Posten nicht am Markieren scheitert. */
+  const feileBox = slot.querySelector('.feile');
+  const feileFeld = feileBox.querySelector('textarea');
+  slot.querySelector('.b-feile').onclick = () => {
+    feileFeld.value = idee.text;
+    slot.classList.add('feilend');
+    feileFeld.focus();
+    /* Cursor ans Ende statt alles markiert: er will aendern, nicht ersetzen. */
+    feileFeld.setSelectionRange(feileFeld.value.length, feileFeld.value.length);
+  };
+  feileBox.querySelector('.f-weg').onclick = () => slot.classList.remove('feilend');
+  feileBox.querySelector('.f-ok').onclick = async () => {
+    const neu = (feileFeld.value || '').trim();
+    if (neu.length < 5) { feileFeld.focus(); return; }
+    slot.classList.remove('feilend');
+    if (neu === idee.text.trim()) { toast('Unverändert, nichts gesendet.'); return; }
+    const res = await sendIssue(`FEILE: ${idee.id}`,
+      `ALT: ${idee.text}\nNEU: ${neu}`);
+    const kopiert = await copyText(neu);
+    /* Wer feilt, will posten: die gefeilte Fassung gilt als genommen. */
+    const zurueck = markTaken(slot, idee);
+    urteilVormerken(`OK: ${idee.id}`,
+      `Stichwort: ${idee.stichwort}\nGefeilt: ja`, 'Gefeilt und genommen.', zurueck);
+    toast(res === 'sent'
+      ? (kopiert ? 'Deine Fassung ist kopiert und gesichert.'
+                 : 'Gesichert. Kopieren blockiert, bitte manuell kopieren.')
+      : 'Ohne Token gesammelt, geht raus sobald du einen hinterlegst.');
+    if (res !== 'sent') zeigeStau();
+  };
+
   slot.querySelector('.b-no').onclick = () => slot.classList.toggle('asking');
 
   const reasons = slot.querySelector('.reasons');
@@ -926,6 +1049,7 @@ function card(idee) {
       urteilVormerken(`NEIN: ${idee.id}`,
         `Stichwort: ${idee.stichwort}\nGrund: ${r}`,
         `Abgelehnt: ${r}`, zurueck);
+      grundGezaehlt(r);
     };
     reasons.appendChild(b);
   });
@@ -1053,6 +1177,175 @@ document.getElementById('tokendel').onclick = () => {
   localStorage.removeItem(LS_TOKEN); toast('Token gelöscht');
 };
 
+/* -------------------------------------------------------- Runden-Verdacht */
+/* Vorschlag 3 vom 10.08.2026. Faellt dreimal derselbe Ablehngrund, ist nicht die
+   einzelne Idee das Problem, sondern die Runde. Am 06.08. kamen 14 mal "Thema
+   falsch" in einer Runde bei 9,7 Sekunden pro Urteil: zwoelf Taps fuer ein
+   Urteil, das nach dem dritten schon fest stand.
+   Der Riegel loest EINMAL pro Runde aus (sonst nervt er nach jedem weiteren
+   Nein) und schickt zusaetzlich ein NEIN-RUNDE-Issue: dass eine ganze Runde am
+   selben Grund scheitert, ist ein anderer Befund als zwoelf einzelne Neins. */
+const gruendeRunde = {};
+let verdachtGezeigt = false;
+
+function grundGezaehlt(grund) {
+  gruendeRunde[grund] = (gruendeRunde[grund] || 0) + 1;
+  if (verdachtGezeigt || gruendeRunde[grund] < 3) return;
+  const offen = ideenNow.filter(i => !(state[i.id] && state[i.id].v));
+  if (offen.length < 2) return;
+  verdachtGezeigt = true;
+  zeigeVerdacht(grund, offen);
+}
+
+function zeigeVerdacht(grund, offen) {
+  const bar = document.getElementById('verdacht');
+  bar.textContent = '';
+  bar.appendChild(document.createTextNode(
+    `Dreimal „${grund}". Die ganze Runde? `));
+  const ja = document.createElement('button');
+  ja.className = 'b-more';
+  ja.textContent = `restliche ${offen.length} ablehnen`;
+  ja.onclick = async () => {
+    bar.hidden = true;
+    const ids = offen.map(i => i.id);
+    for (const idee of offen) {
+      const slot = [...document.querySelectorAll('.slot')]
+        .find(s => (s.querySelector('.kicker') || {}).textContent
+          && s.querySelector('.kicker').textContent.startsWith(idee.id));
+      if (slot) markRejected(slot, idee, grund);
+      else {
+        state[idee.id] = { v: `Abgelehnt: ${grund}`, r: null };
+        saveState();
+      }
+      await sendIssue(`NEIN: ${idee.id}`,
+        `Stichwort: ${idee.stichwort}\nGrund: ${grund}\nAus Runden-Ablehnung.`);
+    }
+    await sendIssue(`NEIN-RUNDE: ${grund}`,
+      `Ganze Runde abgelehnt am ${new Date().toLocaleString('de-CH')}.\n`
+      + `Ideen: ${ids.join(', ')}`);
+    updateStatus();
+    toast(`${offen.length} abgelehnt. Der Grund ist als Runden-Absage notiert.`);
+  };
+  bar.appendChild(ja);
+  const nein = document.createElement('button');
+  nein.className = 'b-more';
+  nein.style.cssText = 'background:transparent;color:var(--matt);border-color:var(--linie);margin-left:6px';
+  nein.textContent = 'einzeln weiter';
+  nein.onclick = () => { bar.hidden = true; };
+  bar.appendChild(nein);
+  bar.hidden = false;
+}
+
+/* ------------------------------------------------------------ Ergebnisse */
+/* Vorschlag 4 vom 10.08.2026: "Zahlen dorthin, wo geurteilt wird." Manuel
+   urteilte auf dieser Seite ueber neue Ideen und sah nirgends, was die
+   geposteten gemacht haben. Quelle ist ergebnisse.json (Threads-Zahlen; IG gibt
+   Aufrufe nur ueber eine angemeldete Browser-Sitzung her, das kann kein
+   unbeaufsichtigter Task).
+   Der Median steht im Kopf, weil eine nackte View-Zahl keinen Massstab hat. */
+function renderErgebnisse(d) {
+  const box = document.getElementById('ergebnisse');
+  const posts = (d && d.posts) || [];
+  if (!posts.length) { box.hidden = true; return; }
+  box.textContent = '';
+  /* Zusammengeklappt, weil sechs Posts mit je drei Zeilen sonst den ersten
+     Bildschirm fuellen und die Vorschlaege nach unten druecken. Der Kopf traegt
+     die Kennzahl, die man im Vorbeigehen braucht: wie viele und der Median. */
+  const details = document.createElement('details');
+  const kopf = document.createElement('summary');
+  const h = document.createElement('h2');
+  const b = document.createElement('b'); b.textContent = 'Was zuletzt lief';
+  h.appendChild(b);
+  const em = document.createElement('em');
+  const ueber = posts.filter(p => p.views >= d.median_views * 1.5).length;
+  em.textContent = `${posts.length} Posts · Median ${d.median_views} Views`
+    + (ueber ? ` · ${ueber} darüber` : '');
+  h.appendChild(em);
+  kopf.appendChild(h);
+  details.appendChild(kopf);
+  box.appendChild(details);
+  posts.forEach(p => {
+    const el = document.createElement('div');
+    el.className = 'erg' + (p.views >= d.median_views * 1.5 ? ' ueber'
+      : p.views <= d.median_views * 0.5 ? ' unter' : '');
+    const txt = document.createElement('div');
+    txt.textContent = p.text;
+    el.appendChild(txt);
+    const z = document.createElement('div');
+    z.className = 'zahlen';
+    const stark = document.createElement('b');
+    stark.textContent = `${p.views} Views · ${p.likes} Likes · ${p.quote}%`;
+    z.appendChild(stark);
+    z.appendChild(document.createTextNode(
+      ` · ${p.antworten} Antw · ${p.gepostet}`
+      + (p.endwert ? ' · Endwert' : ' · läuft noch') + ' · '));
+    if (httpsOk(p.permalink)) {
+      const a = document.createElement('a');
+      a.href = p.permalink; a.target = '_blank'; a.rel = 'noopener';
+      a.textContent = 'Threads';
+      z.appendChild(a);
+    }
+    el.appendChild(z);
+    details.appendChild(el);
+  });
+  box.hidden = false;
+}
+
+/* ------------------------------------------------------------- Werkstatt */
+/* Fertige Bilder aus dem Laptop, ohne Terminal: Slides aus den letzten
+   Bluesky-Posts und Memes aus dem Foto-Radar. Der Poller baut sie und legt sie
+   als JPEG in data/werkstatt/, das Original bleibt in voller Qualitaet lokal. */
+function renderWerkstatt(d) {
+  const box = document.getElementById('werkstatt');
+  const dateien = (d && d.dateien) || [];
+  if (!dateien.length) { box.hidden = true; return; }
+  box.textContent = '';
+  const h = document.createElement('h2');
+  h.appendChild(document.createTextNode(
+    d.typ === 'meme' ? 'Werkstatt: Meme' : 'Werkstatt: Slides'));
+  const em = document.createElement('em');
+  em.textContent = fotoUhr(d.stand) || '';
+  h.appendChild(em);
+  box.appendChild(h);
+  const reihe = document.createElement('div');
+  reihe.className = 'wbilder';
+  const basis = `https://raw.githubusercontent.com/${REPO}/main/data/werkstatt/`;
+  dateien.forEach(n => {
+    const a = document.createElement('a');
+    a.href = basis + n + '?t=' + Date.now();
+    a.target = '_blank'; a.rel = 'noopener';
+    const img = document.createElement('img');
+    img.src = a.href; img.alt = ''; img.loading = 'lazy';
+    a.appendChild(img); reihe.appendChild(a);
+  });
+  box.appendChild(reihe);
+  if (d.notiz) {
+    const n = document.createElement('div');
+    n.className = 'wnotiz'; n.textContent = d.notiz;
+    box.appendChild(n);
+  }
+  if (d.caption) {
+    const c = document.createElement('div');
+    c.className = 'wcaption';
+    c.textContent = d.caption;
+    c.title = 'Tippen kopiert die Caption';
+    c.onclick = async () => { await copyText(d.caption); toast('Caption kopiert'); };
+    box.appendChild(c);
+  }
+  box.hidden = false;
+}
+
+async function slidesBauen(btn, n) {
+  btn.disabled = true;
+  const res = await sendIssue(`SLIDES: ${n}`,
+    `Angefordert von der Seite am ${new Date().toLocaleString('de-CH')}.`);
+  btn.disabled = false;
+  toast(res === 'sent'
+    ? 'Slides werden gebaut, das dauert ein paar Minuten.'
+    : 'Kein Token, Auftrag liegt in der Warteschlange.');
+  if (res !== 'sent') zeigeStau();
+}
+
 /* ------------------------------------------------------------------ Material */
 /* Manuels Rohmaterial vom Handy. Der Text geht als Issue-TITEL raus, damit er in
    der Issue-Liste lesbar ist; mehr_poll.py schreibt ihn in
@@ -1061,6 +1354,26 @@ document.getElementById('tokendel').onclick = () => {
    Warum das der wertvollste Knopf der Seite ist: der zweitbeste Post der
    Kontogeschichte ist ein Hund, der vor einer Einkaufstuete kapituliert. Das
    steht in keinem Nachrichtenfeed. */
+/* Teilen-Ziel (Vorschlag 8 vom 10.08.2026). Wer in einer beliebigen App auf
+   "Teilen" drueckt und die Seite waehlt, landet hier mit ?material=... Der Text
+   wird nicht still gesendet, sondern ins Feld gelegt: geteilte Inhalte tragen
+   Titel, URL und Werbezeilen durcheinander, und Manuel soll kuerzen koennen,
+   bevor es in den Prompt geht.
+   Als GET-Ziel deklariert, nicht als POST: POST braeuchte einen Service Worker,
+   der die Anfrage abfaengt. Weniger Teile, die kaputtgehen koennen. */
+function materialAusTeilen() {
+  const p = new URLSearchParams(location.search);
+  const teile = [p.get('material'), p.get('text'), p.get('title'), p.get('url')]
+    .filter(Boolean);
+  if (!teile.length) return;
+  const feld = document.getElementById('materialinput');
+  feld.value = teile.join(' ').slice(0, 400);
+  feld.scrollIntoView({ block: 'center' });
+  feld.focus();
+  toast('Geteilt. Kürzen und auf „merken".');
+  history.replaceState(null, '', location.pathname);
+}
+
 async function materialSenden() {
   const feld = document.getElementById('materialinput');
   const knopf = document.getElementById('materialsend');
@@ -1156,6 +1469,52 @@ function fotoZeile(f) {
     meta.appendChild(a2);
   }
   txt.appendChild(meta);
+  if (f.richtung) {
+    /* Richtung, kein fertiger Witz: Manuels Trefferquote beim Formulieren ist
+       besser als die des Modells (Entscheid 10.08.2026). */
+    const r = document.createElement('div');
+    r.className = 'meta'; r.style.color = 'var(--t-schnittmenge)';
+    r.textContent = f.richtung;
+    txt.appendChild(r);
+  }
+  const auf = document.createElement('a');
+  auf.href = '#'; auf.textContent = 'Meme bauen';
+  auf.style.cssText = 'color:var(--tinte);margin-left:6px;white-space:nowrap';
+  meta.appendChild(document.createTextNode(' · '));
+  meta.appendChild(auf);
+  const bau = document.createElement('div');
+  bau.className = 'material'; bau.style.borderBottom = 'none';
+  bau.style.padding = '7px 0 0';
+  bau.hidden = true;
+  auf.onclick = e => {
+    e.preventDefault();
+    bau.hidden = !bau.hidden;
+    if (!bau.hidden) bau.querySelector('input').focus();
+  };
+  const feld = document.createElement('input');
+  feld.placeholder = 'deine Zeile aufs Bild';
+  feld.autocomplete = 'off';
+  const knopf = document.createElement('button');
+  knopf.className = 'b-more'; knopf.textContent = 'Meme';
+  const los = async () => {
+    const text = (feld.value || '').trim();
+    if (text.length < 4) { feld.focus(); return; }
+    knopf.disabled = true;
+    const res = await sendIssue(`MEME: ${text.slice(0, 200)}`,
+      `Bild: ${f.bild}\nArtikel: ${f.artikel}\nAngefordert am `
+      + new Date().toLocaleString('de-CH'));
+    knopf.disabled = false;
+    toast(res === 'sent'
+      ? 'Meme wird gebaut, erscheint gleich in der Werkstatt.'
+      : 'Kein Token, Auftrag liegt in der Warteschlange.');
+    if (res !== 'sent') zeigeStau(); else feld.value = '';
+  };
+  knopf.onclick = los;
+  feld.addEventListener('keydown', e => {
+    if (e.key === 'Enter') { e.preventDefault(); los(); }
+  });
+  bau.appendChild(feld); bau.appendChild(knopf);
+  txt.appendChild(bau);
   el.appendChild(txt);
   return el;
 }
@@ -1257,6 +1616,11 @@ function fotoWarten(btn, auftrag) {
   try {
     const sha = await headShaSafe();
     fotosLaden(sha);
+    /* Eigene try/catch pro Datei: fehlt eine, bleibt ihre Sektion verborgen und
+       die Vorschlagsliste ist unberuehrt. */
+    ladeDaten('ergebnisse.json', sha).then(renderErgebnisse).catch(() => {});
+    ladeDaten('werkstatt.json', sha).then(renderWerkstatt).catch(() => {});
+    materialAusTeilen();
     const d = await ladeDaten('ideen.json', sha);
     window._datum = d.datum;
     window._datumKurz = new Date(d.datum).toLocaleDateString('de-CH',
