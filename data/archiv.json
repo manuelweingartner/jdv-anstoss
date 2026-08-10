@@ -7090,6 +7090,116 @@
       "format": 2,
       "text": "Ich zahle 480 Franken im Monat an eine Versicherung für den Ernstfall. Sie hat eine eigene Abteilung, die prüft, ob es einer ist.",
       "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2333-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ermittlung dauerte länger als sein Leben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich kenne Tupac von einer gebrannten CD. Sein Mordprozess beginnt jetzt in Las Vegas, 29 Jahre später: Die Ermittlung dauerte länger, als er gelebt hat.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2333-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Taliban werben um Touristen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Fünf Jahre nach der Machtübernahme öffnen die Taliban Afghanistan für Touristen. Im Reiseprospekt stehen Berge, Gastfreundschaft und Ruhe, im Land stehen Frauen nicht mehr im Weg.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2333-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "40-Tonner sonntags, weil die Flüsse leer sind",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es richtig, dass unsere 40-Tonner wegen der ausgetrockneten Flüsse jetzt auch sonntags fahren dürfen. Wer das Wasser wegheizt, soll die Autobahn dafür kriegen.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2333-04",
+      "typ": "schnittmenge",
+      "stichwort": "Meer gehört allen, verpachtet ist nur der Sand davor",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Beruhigend, dass in Italien das Meer weiterhin allen gehört. Verpachtet sind nur die dreissig Meter Sand davor. Wer von aussen hinschwimmt, zahlt nichts.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2333-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fünf Wochen Ferien, dreizehn Wochen Schulferien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe fünf Wochen Ferien im Jahr, meine Tochter dreizehn. Die restlichen acht löst ein Land mit Fachkräftemangel seit dreissig Jahren über Grossmütter.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2333-07e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Energiewende auf Öl gebaut",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Lula will Brasiliens Energiewende mit Erdöl aus dem Amazonas bezahlen. Ich bezahle meine Zahnarztrechnungen auch am liebsten mit Zucker.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2333-08",
+      "typ": "schnittmenge",
+      "stichwort": "Pendeluhren gesucht, Netanjahu nicht",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Aus einem Museum in Le Locle sind historische Pendeluhren verschwunden, die Polizei fahndet. Netanjahu lehnt am selben Tag Trumps 15-Punkte-Friedensplan ab, nach ihm fahndet niemand.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2333-09",
+      "typ": "remix",
+      "stichwort": "Glasflaschen in den vierten Stock, gemessen wird bei mir",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Ich trage seit vier Jahren Glasflaschen in den vierten Stock, damit kein Mikroplastik in mich kommt. Es ist trotzdem drin, gemessen wird aber weiter bei mir.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2333-11e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bonus erst jetzt an Pünktlichkeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Ich ärgere mich nicht über die Verspätungen der Bahn. Sondern darüber, dass ein Verkehrsminister die Boni überhaupt erst noch an Pünktlichkeit knüpfen muss.",
+      "datum": "2026-08-09"
+    },
+    {
+      "id": "2026-08-09-2333-12e",
+      "typ": "schnittmenge",
+      "stichwort": "Frauen-Tour nur aus Versehen gesehen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ich habe den zweiten Gesamtsieg von Demi Vollering an der Tour de France der Frauen nur mitbekommen, weil ich nach der Männer-Tour vergessen hatte auszuschalten.",
+      "datum": "2026-08-09"
     }
   ]
 }
