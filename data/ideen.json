@@ -1,117 +1,37 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 11 statt 12.",
-  "fertig": true,
+  "hinweis": "3 von 12 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-10-0757-01",
+      "id": "2026-08-10-1044-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Beleg über vierzehn Franken, Vincenz seit acht Jahren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe letzte Woche einen Beleg über vierzehn Franken nachgereicht, die Buchhaltung hatte nachgefragt. Ex-Raiffeisen-Chef Vincenz steht heute wieder wegen seiner Spesen vor Gericht. Seit acht Jahren."
-    },
-    {
-      "id": "2026-08-10-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "50'000 Nordkoreaner als Zuwanderungslösung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Selenski rechnet mit bis zu 50'000 nordkoreanischen Soldaten für Russland. Endlich ein Land, das seinen Personalmangel mit Zuwanderung löst. Gesteuert, qualifiziert, befristet."
-    },
-    {
-      "id": "2026-08-10-0757-03",
-      "typ": "schnittmenge",
-      "stichwort": "Ventilator statt Hitzefrei, Chef spricht",
+      "stichwort": "2046 in On-Schuhen zuschauen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich habe meinen Leuten bei 36 Grad einen Ventilator hingestellt. Wer damit nicht arbeiten kann, will es nicht genug. Ab 40 Grad gibt es Wasser. Aus dem Hahn."
-    },
-    {
-      "id": "2026-08-10-0757-04e",
-      "typ": "politisch-aktuell",
-      "stichwort": "350 getötete Helfer*innen, 99 Prozent einheimisch",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "350 humanitäre Helfer*innen wurden im letzten Jahr getötet, 99 Prozent davon einheimische Kräfte. Ich habe keinen ihrer Namen gelesen. Es wären 350 Zeilen gewesen."
+      "text": "Ich sitze 2046 in On-Schuhen im kühlen Norden und schaue zu, wie Mitteleuropa brennt."
     },
     {
-      "id": "2026-08-10-0757-06",
+      "id": "2026-08-10-1044-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Zehn Stunden Pflege gegen eine Stunde Anwalt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Zehn Stunden Pflege am Bett kosten mich etwa so viel wie eine Stunde Anwalt, der prüft, ob mir die Pflege bezahlt wird. Die Stunde Anwalt ist unbestritten."
-    },
-    {
-      "id": "2026-08-10-0757-07e",
-      "typ": "persönlich",
-      "stichwort": "22 Minuten nach dem Kundendienst suchen",
+      "stichwort": "On-Schuhe stehen im Norden",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 2,
-      "text": "Ich habe 22 Minuten gebraucht, um bei Booking.com den Kundendienst zu finden. Eine Plattform, deren ganzes Geschäft daraus besteht, dass Menschen etwas finden. Gefunden habe ich ein Formular. Auf Englisch."
+      "format": "frei",
+      "text": "2046 stehen unsere On-Schuhe im kühlen Norden. Mitteleuropa brennt dann jeden Sommer."
     },
     {
-      "id": "2026-08-10-0757-08e",
-      "typ": "schnittmenge",
-      "stichwort": "Hunde besetzen das Bad, schneller als jede Regierung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 5,
-      "text": "Ich lese, dass Wildtiere bei Hitze in Erdlöcher gehen. Meine zwei Hunde haben seit dem 21. Juni das Badezimmer besetzt. Beide haben schneller reagiert als jede Regierung."
-    },
-    {
-      "id": "2026-08-10-0757-09",
-      "typ": "remix",
-      "stichwort": "Motivationsschreiben für eine Besichtigung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 10,
-      "text": "Ich suche seit elf Monaten eine Wohnung. Der Markt ist so gesund, dass ich für eine Besichtigung ein Motivationsschreiben einreichen musste. Vier Seiten. Ohne Rückmeldung."
-    },
-    {
-      "id": "2026-08-10-0757-10e",
+      "id": "2026-08-10-1044-03",
       "typ": "politisch-aktuell",
-      "stichwort": "35 Stunden nicht mehr zeitgemäss, 35 Grad schon",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Der Chef von Stihl findet die 35-Stunden-Woche nicht mehr zeitgemäss. In derselben Woche meldet Westeuropa den heissesten Juli seit Messbeginn. Zeitgemäss sind jetzt 35 Grad. Draussen."
-    },
-    {
-      "id": "2026-08-10-0757-11e",
-      "typ": "politisch-aktuell",
-      "stichwort": "KI-Agenten ersetzen Entwickler*innen, der Vorstand war schneller",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Tausende Entwickler*innen verlieren gerade ihre Stelle an KI-Agenten. Nicht die Maschine hat sie ersetzt. Sondern ein Vorstand, der die Einsparung längst im Quartalsbericht angekündigt hatte."
-    },
-    {
-      "id": "2026-08-10-0757-12",
-      "typ": "persönlich",
-      "stichwort": "Hund kriegt in einer Viertelstunde, was Kranke Jahre kostet",
+      "stichwort": "Auswandern mit On-Schuhen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Unser Wasserhund ist allergisch auf Gräser. Beim Tierarzt hatte er nach einer Viertelstunde eine Diagnose und ein Medikament. Bei chronisch kranken Menschen dauert dasselbe im Schnitt fünf Jahre."
+      "format": "frei",
+      "text": "Wir wandern in 20 Jahren mit On-Schuhen nach Norden aus. Mitteleuropa brennt weiter. Jeden Sommer."
     }
   ]
 }
