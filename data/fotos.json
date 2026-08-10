@@ -1,11 +1,11 @@
 {
-  "stand": "2026-08-10T18:32:29+02:00",
-  "lauf": "1831",
+  "stand": "2026-08-10T18:34:44+02:00",
+  "lauf": "1834",
   "fotos": [
     {
-      "id": "1831-1",
+      "id": "1834-1",
       "titel": "«Kinderbetreuung ist keine Arbeit»: Österreichs Kanzler stolpert auf seiner eigenen Imagetour",
-      "was": "Österreichs Kanzler Stocker im Bürgergespräch, umringt von skeptischen Zuhörenden",
+      "was": "Österreichs Kanzler Stocker im Bürgergespräch zwischen ratlosen Zuhörenden",
       "grund": "memetauglich",
       "quelle": "NZZ",
       "auch_bei": [],
@@ -14,9 +14,9 @@
       "zeit": "2026-08-10T16:10+02:00"
     },
     {
-      "id": "1831-2",
+      "id": "1834-2",
       "titel": "Guinnessbuch der Rekorde: Mann läuft Marathon mit 125 T-Shirts übereinander",
-      "was": "Läufer im Marathon, eingepackt in 125 übereinander getragene T-Shirts",
+      "was": "Läufer im Ziel mit 125 übereinander getragenen T-Shirts",
       "grund": "memetauglich",
       "quelle": "Spiegel",
       "auch_bei": [],
@@ -25,27 +25,27 @@
       "zeit": "2026-08-10T15:55+02:00"
     },
     {
-      "id": "1831-3",
-      "titel": "Lars Klingbeil: SPD-Finanzminister rudert nach heftiger Kritik bei Steuerplänen für Vereine zurück",
-      "was": "Finanzminister Klingbeil am Mikrofon, während er seine Vereinsplanung zurücknimmt",
+      "id": "1834-3",
+      "titel": "Zürich stinkt nach Urin – «das wird so bleiben, bis Regen kommt»",
+      "was": "Reinigungskräfte spritzen Zürcher Gassen nach der Street Parade ab",
       "grund": "breit",
-      "quelle": "Spiegel",
+      "quelle": "20 Minuten",
       "auch_bei": [
-        "Tagesschau"
+        "Watson"
       ],
-      "artikel": "https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-finanzminister-rudert-nach-heftiger-kritik-bei-steuerplaenen-fuer-vereine-zurueck-a-8ca99573-a6e5-4959-9629-6826497e4110#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/60afe90d-4080-40a9-a9bb-af4662fc5580_w520_r2.08_fpx81_fpy47.jpg",
-      "zeit": "2026-08-10T16:39+02:00"
+      "artikel": "https://www.20min.ch/story/zuerich-uringeruch-nach-street-parade-bleibt-wohl-bis-zum-regen-103615633",
+      "bild": "https://image.20min.ch/2026/08/10/c0fa4c96-4f6e-46b2-9075-9d036285e444.jpg?s=77ae0049965004a6a558f534416312df",
+      "zeit": "2026-08-10T17:40+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute laufend",
-      "was": "Pierin Vincenz mit seinem Anwaltsteam auf dem Weg ins Zürcher Obergericht"
+      "wann": "heute bis Abend",
+      "was": "Spielszenen und Jubelbilder von der Ultimate-Frisbee-Klub-WM in Irland"
     },
     {
-      "wann": "heute abends",
-      "was": "Prozessbeginn in Las Vegas, Angeklagter und Verteidigung im Gerichtssaal"
+      "wann": "heute ab 09:00, Bilder laufend",
+      "was": "Pierin Vincenz mit Anwaltsteam beim Berufungsprozess am Zürcher Obergericht"
     }
   ],
   "hinweis": ""
