@@ -58,8 +58,17 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
   Argumentfigur: Drake ist Ablehnung plus Vorzug, Zwei Knöpfe eine unmögliche
   Wahl, der abgelenkte Freund ein Treuebruch, Change My Mind eine These ohne
   möglichen Widerspruch. Der Laptop bekommt diese Bedeutungen plus die
-  Tagesmeldungen und schlägt drei fertige Memes vor, je mit Begründung; gebaut
-  wird auf Knopfdruck. Der Knopf «neue» (Issue `MEMES:`) sucht neue.
+  Tagesmeldungen und schlägt drei Memes vor, je mit Begründung.
+- **Jeder Vorschlag trägt das fertige Bild.** «Ich kenne nicht alle meme
+  templates auswändig»: ein Vorlagenname ohne Bild ist nicht beurteilbar. Gebaut
+  wird darum sofort beim Vorschlagen, das kostet keinen Modellaufruf.
+  Drei Knöpfe: «neue» im Kopf holt alle drei neu, «anderes» am Vorschlag ersetzt
+  nur diesen einen (Issue `MEMES: <nr>`), und «feilen» öffnet ein Feld pro
+  Textzeile und rendert deine Fassung neu (Issue `MEME-FEILE`). Beim Feilen darf
+  auch die Vorlage wechseln.
+- **Trägt ein Bluesky-Post ein Bild, zeigt die IG-Slide das Bild statt Text:**
+  Kopf mit jardinduvin, darunter das Bild so gross wie möglich, kein Textblock.
+  Genau so baut @elhotzo seine Slides.
 - **Die Vorlagen sind echt, nicht nachgebaut:** die 100 populärsten von imgflip,
   vier davon mit von Hand kuratierten Textfeldern, weil «oben und unten» bei
   ihnen falsch wäre. Beschriftet wird auf dem Laptop, nicht über imgflips API:
