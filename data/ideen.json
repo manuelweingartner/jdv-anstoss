@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "4 von 12 da, der Rest lädt noch.",
+  "hinweis": "5 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "2025 sind mehr Kinder im Verkehr gestorben als 2024. Beruhigend, dass wir schon reagiert haben: Die Warnweste gibt es jetzt in drei Farben. Tempo 30 bleibt in Prüfung."
+    },
+    {
+      "id": "2026-08-10-2004-08",
+      "typ": "schnittmenge",
+      "stichwort": "Schutzpatroninnen und das Flüchtlingskind",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 17,
+      "text": "Meloni und Dänemarks Regierungschefin posten auf Instagram gegen Migrant*innen und nennen sich Schutzpatroninnen des christlichen Abendlandes. Der Mann, um den es in dieser Religion geht, kam als Flüchtlingskind. Ohne Papiere."
     }
   ]
 }
