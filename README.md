@@ -50,14 +50,20 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
   «Slides bauen» unter der Liste (Issue `SLIDES: <n>`) baut den Stapel aus den
   letzten Bluesky-Posts; «Meme bauen» am Foto-Radar (Issue `MEME: <zeile>`) legt
   eine Zeile auf ein Pressefoto und liefert **zwei Varianten** zur Auswahl; und
-  die Zeile über der Werkstatt beschriftet **echte Meme-Vorlagen** (Issue
+  aus den **Meme-Vorschlägen** baut ein Knopf das fertige Meme (Issue
   `VORLAGE: <kürzel> | <zeile> | <zeile>`). Die Bilder erscheinen als Vorschau in
   der Werkstatt, das Original liegt in voller Qualität lokal.
+- **Die Memes werden vorgeschlagen, nicht ausgewählt** (Entscheid Manuel
+  10.08.2026: «kein dropdown»). Eine Vorlage ist keine Bildwahl, sondern eine
+  Argumentfigur: Drake ist Ablehnung plus Vorzug, Zwei Knöpfe eine unmögliche
+  Wahl, der abgelenkte Freund ein Treuebruch, Change My Mind eine These ohne
+  möglichen Widerspruch. Der Laptop bekommt diese Bedeutungen plus die
+  Tagesmeldungen und schlägt drei fertige Memes vor, je mit Begründung; gebaut
+  wird auf Knopfdruck. Der Knopf «neue» (Issue `MEMES:`) sucht neue.
 - **Die Vorlagen sind echt, nicht nachgebaut:** die 100 populärsten von imgflip,
-  vier davon mit von Hand kuratierten Textfeldern (Drake, Zwei Knöpfe,
-  Abgelenkter Freund, Change My Mind), weil «oben und unten» bei ihnen falsch
-  wäre. Beschriftet wird auf dem Laptop, nicht über imgflips API: die setzt bei
-  Gratiskonten ein Wasserzeichen ins Bild.
+  vier davon mit von Hand kuratierten Textfeldern, weil «oben und unten» bei
+  ihnen falsch wäre. Beschriftet wird auf dem Laptop, nicht über imgflips API:
+  die setzt bei Gratiskonten ein Wasserzeichen ins Bild.
 - **Als App installierbar, mit Teilen-Ziel.** `manifest.json` deklariert ein
   GET-Teilen-Ziel: wer in einer beliebigen App auf «Teilen» drückt und die Seite
   wählt, landet mit dem Inhalt im Material-Feld. Dafür muss die Seite einmal über
@@ -76,11 +82,11 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
   die Trefferquote: von 184 Urteilen auf der Seite waren 144 ein Nein und nur 3
   ein Ja, häufigster Grund „einfach nicht lustig". 20 Vorschläge, von denen 18
   wegfliegen, sind nicht besser als 12.
-- Zuunterst steht **immer** der Nachschub-Knopf ("12 neue"), optional mit
+- Zuunterst steht **immer** der Nachschub-Knopf ("6 neue"), optional mit
   Fokus-Stichwort: das legt ein Issue `MEHR:` (bzw. `MEHR: <Stichwort>`) an;
   der lokale Windows-Task `jdvMehrIdeen` (**jede Minute**, nur bei laufendem
   Laptop) generiert daraufhin eine frische Liste und schliesst das Issue. Der
-  Knopf zeigt danach Laufzeit und Stand ("Läuft … 1:23 · 6 von 12"), übersteht
+  Knopf zeigt danach Laufzeit und Stand ("Läuft … 1:23 · 4 von 6"), übersteht
   einen Reload und verweigert einen zweiten Auftrag, solange einer läuft:
   mehrere Knopfdrücke erzeugten sonst mehrere Runden, von denen jede die
   vorige ins Archiv schob. **Eine neue Runde ersetzt die ganze Liste**, auch
@@ -88,7 +94,7 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
   Der Knopftext wird in `index.html` aus `SOLL` abgeleitet und ist **zugleich
   das Protokollwort**: `mehr_poll.py` liest alles, was nicht `<Zahl> neue` ist,
   als Fokus-Stichwort. Ein von Hand geänderter Knopftext hätte aus jedem
-  Knopfdruck eine Fokus-Runde über das Stichwort „12 neue" gemacht.
+  Knopfdruck eine Fokus-Runde über das Stichwort „6 neue" gemacht.
 - Ab 4 in der Bewertung erscheint "3 Varianten anfordern" (Issue
   `VARIANTE: <id>`, gleicher Poller, Varianten erscheinen zuoberst). Auch
   dieser Knopf zeigt die Laufzeit.
@@ -100,7 +106,7 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
   Foto überhaupt gibt.
   - **Drei Läufe:** morgens am Ende des Tages-Anstosses, um 17:00 der Task
     `jdvFotoRadar`, dazu der Knopf „neu suchen" (Issue `FOTOS:`, gleicher
-    Poller). Der Knopf „12 neue" löst den Radar **nicht** mit aus.
+    Poller). Der Knopf „6 neue" löst den Radar **nicht** mit aus.
   - **Vorschaubild kommt direkt vom Verlag** (`og:image` bzw. das Bild aus dem
     RSS), es liegt keine Kopie im Repo. Sperrt ein Verlag Hotlinks, bleibt der
     Kasten leer und die beiden Links funktionieren weiter. Die Seite ist
@@ -209,4 +215,4 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
 
 Der generierende Skill liegt bewusst NICHT in diesem Repo (er wird separat
 in ein privates Repo gesichert). Dieses Repo hier ist öffentlich, inklusive
-der Feedback-Issues — bewusster Entscheid, nicht versehentlich.
+der Feedback-Issues, bewusster Entscheid, nicht versehentlich.
