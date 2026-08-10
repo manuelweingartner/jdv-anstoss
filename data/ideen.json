@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-10-2211-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Velo-Service ohne Zuschuss, Porsche mit E-Auto-Praemie",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe 340 Franken für den Velo-Service bezahlt, ohne Zuschuss. Deutschland zahlt die E-Auto-Prämie auch für Porsche und Mercedes ab 100'000 Euro. Fürs Klima. Zwei Tonnen."
-    },
-    {
       "id": "2026-08-10-2211-03",
       "typ": "politisch-aktuell",
       "stichwort": "Antikriegspartei befangen",
@@ -21,7 +11,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Russland lässt die einzige Antikriegspartei nicht zur Septemberwahl zu. Beruhigend: Wer den Krieg beenden will, ist bei einer Wahl über den Krieg befangen. Alle anderen bleiben ergebnisoffen."
+      "text": "Russland lässt die einzige Antikriegspartei nicht zur Septemberwahl zu. Beruhigend: Wer den Krieg beenden will, ist bei einer Wahl über den Krieg befangen. Alle anderen bleiben ergebnisoffen.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-10-2211-04",
@@ -31,37 +26,72 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Ich habe dreissig Jahre lang Klimagesetze verhindert, und jetzt waren Juni und Juli in Westeuropa die heissesten seit Messbeginn. Gute Nachricht: die Klimaanlagen verkaufen wir auch. Zwei Jahre Garantie."
+      "text": "Ich habe dreissig Jahre lang Klimagesetze verhindert, und jetzt waren Juni und Juli in Westeuropa die heissesten seit Messbeginn. Gute Nachricht: die Klimaanlagen verkaufen wir auch. Zwei Jahre Garantie.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-10-2211-08",
-      "typ": "schnittmenge",
-      "stichwort": "Seenotrettung angeklagt, Zuckerbergs Jacht fährt weiter",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Wer Schiffbrüchige aus dem Mittelmeer zieht, wird angeklagt. Zuckerbergs 300-Millionen-Jacht fährt laut Bericht an einem Hilferuf vorbei und bleibt ein Privatboot ohne Vorstrafe."
-    },
-    {
-      "id": "2026-08-10-2211-09",
-      "typ": "remix",
-      "stichwort": "Neun Wochen Fensterscheibe, Trump will Entschädigung vor Verhandlung",
+      "id": "2026-08-10-2211-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "274 Jahre 10'000 Franken taeglich verbrennen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich habe für eine gesprungene Fensterscheibe neun Wochen mit der Versicherung verhandelt. Trump verlangt vom Iran Entschädigung, bevor er überhaupt verhandelt. Nicht Diplomatie. Schadenmeldung mit Armee."
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Um eine Milliarde loszuwerden, müsste ich 274 Jahre lang jeden Tag 10'000 Franken verbrennen. Wir nennen solche Vermögen trotzdem Erspartes. Fleissig. Bescheiden. Besorgt um die Zinsen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-08-10-2211-10",
-      "typ": "persönlich",
-      "stichwort": "Sieben Jahre ECO-Programm gegen einen Privatjet-Flug",
+      "id": "2026-08-10-2211-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "1'400 Franken Zahnkrone, Gebiss verraet Einkommen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Sieben Jahre lang habe ich die Abwaschmaschine nur im ECO-Programm laufen lassen, aus Prinzip. Eingespart habe ich damit etwa einen Privatjet-Flug nach Nizza. Nicht pro Jahr. Insgesamt."
+      "text": "Ich habe 1'400 Franken für eine Zahnkrone bezahlt, die Versicherung zahlt Zähne nicht. Am Gebiss erkennt man das Einkommen zuverlässiger als am Auto. Reiche haben keine Karies, sie haben Termine.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-10-2211-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Granaten verkaufen, Wiederaufbau ausschreiben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Schön, dass sich der Wiederaufbau selbst finanziert: Seit 2022 verkaufen dieselben Länder die Granaten und bewerben sich anschliessend um den Neubau der Städte. Zwei Rechnungen, ein Kunde.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-10-2211-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Jabloko nicht zur Wahl, Wahlkommission freut sich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Russland lässt die Antikriegspartei Jabloko im September nicht zur Wahl zu. Als Wahlkommission freue ich mich: So schnell stand ein Ergebnis noch nie fest. Ausgezählt wird trotzdem.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
