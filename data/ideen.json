@@ -1,27 +1,27 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "10 von 12 da, Dubletten-Check läuft noch.",
+  "hinweis": "12 Vorschläge, Dubletten-Check läuft noch.",
   "fertig": true,
   "ideen": [
     {
       "id": "2026-08-10-2004-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Duschwasser gegen grün gesprayten Rasen",
+      "stichwort": "Duschzeit vier Minuten, Amis sprayen den Rasen gruen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Ich giesse meinen Balkon seit sechs Wochen mit dem Duschwasser, halb Europa hat trockene Flüsse und Ernteausfälle. In den USA sprayen sie diese Woche ihren Rasen grün. Optisch gelöst."
+      "text": "Ich habe gestern die Duschzeit auf vier Minuten gekürzt, weil in halb Europa die Flüsse trocken liegen. In derselben Woche sprayen Amerikaner ihren toten Rasen grün an. Sprühdose. Zwei Schichten."
     },
     {
       "id": "2026-08-10-2004-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Zehn Millionen für Gedenkstätten, davon Wachpersonal",
+      "stichwort": "zehn Millionen fuer die Bewachung von NS-Gedenkstaetten",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Beruhigend: Deutschland gibt den NS-Gedenkstätten zehn Millionen Euro mehr, ein Teil davon für Wachpersonal, weil die Angriffe zunehmen. Die Erinnerungskultur funktioniert. Sie muss nur bewacht werden."
+      "format": "frei",
+      "text": "Deutschland zahlt zehn Millionen Euro mehr für NS-Gedenkstätten, ein grosser Teil davon für Bewachung, weil die Angriffe zunehmen. Wir schützen die Erinnerung an den Faschismus jetzt vor Faschisten. Mit Kameras."
     },
     {
       "id": "2026-08-10-2004-03",
@@ -46,32 +46,52 @@
     {
       "id": "2026-08-10-2004-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Steuererklärung ausgefüllt, 300 Reichste besitzen ein Landesjahr",
+      "stichwort": "5'400 Kaution als Beweis fuer 1'800 Miete",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe 5'400 Franken hinterlegt, damit die Verwaltung mir glaubt, dass ich 1'800 im Monat zahlen kann. Seit vier Jahren liegt das Geld still. Für mich gesperrt."
+    },
+    {
+      "id": "2026-08-10-2004-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "90'000 Arbeitsstunden, Waschmaschine gehoert der Bank",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Ich habe meine Steuererklärung ausgefüllt und danach nachgeschaut, was die 300 reichsten Menschen der Schweiz besitzen: ungefähr so viel, wie das Land in einem Jahr erwirtschaftet. Leistung muss sich wieder lohnen."
+      "format": 19,
+      "text": "90'000 Stunden arbeitet ein Mensch bis zur Rente, am Stück zehn Jahre ohne Schlaf. Ich habe 40'000 hinter mir und eine Waschmaschine, die noch zwei Jahre der Bank gehört."
     },
     {
       "id": "2026-08-10-2004-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Länger arbeiten mit 67, wer Dächer deckt hat zu wenig geerbt",
+      "stichwort": "Depot statt Haltung zum Frieden",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Gute Nachricht: Wir arbeiten alle länger. Wer mit 67 noch Dächer deckt, hat halt zu wenig geerbt. Eigenverantwortung. Von klein auf."
+      "text": "Beruhigend, dass sich die Rheinmetall-Aktie seit 2022 verzehnfacht hat. Wer damals 10'000 Franken hineingelegt hat, muss heute niemandem mehr erklären, was er vom Frieden hält. Sauber diversifiziert."
     },
     {
       "id": "2026-08-10-2004-08",
       "typ": "schnittmenge",
-      "stichwort": "Schutzpatroninnen und das Flüchtlingskind",
+      "stichwort": "Rhein bei 16 Zentimeter, alle im selben Boot",
       "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 17,
-      "text": "Meloni und Dänemarks Regierungschefin posten auf Instagram gegen Migrant*innen und nennen sich Schutzpatroninnen des christlichen Abendlandes. Der Mann, um den es in dieser Religion geht, kam als Flüchtlingskind. Ohne Papiere."
+      "text": "Der Rhein steht bei Kaub auf 16 Zentimeter, die Frachtschiffe kommen nicht mehr durch, und alles wird teurer. Wir sitzen alle im selben Boot. Es liegt auf Grund."
+    },
+    {
+      "id": "2026-08-10-2004-09",
+      "typ": "remix",
+      "stichwort": "Sonnenfinsternis-Brille gekauft, Klimaziel bleibt bei 2050",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich habe für Mittwoch eine Sonnenfinsternis-Brille gekauft. Zwei Minuten Dunkelheit nehme ich ernst. Gegen den zweitwärmsten Juli der Messgeschichte habe ich ein Ziel für 2050. Unverbindlich."
     },
     {
       "id": "2026-08-10-2004-10",
