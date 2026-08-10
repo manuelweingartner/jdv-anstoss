@@ -1,107 +1,17 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 10 statt 12.",
-  "fertig": true,
+  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-10-2004-01",
+      "id": "2026-08-10-2211-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Duschzeit vier Minuten, Amis sprayen den Rasen gruen",
+      "stichwort": "Velo-Service ohne Zuschuss, Porsche mit E-Auto-Praemie",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich habe gestern die Duschzeit auf vier Minuten gekürzt, weil in halb Europa die Flüsse trocken liegen. In derselben Woche sprayen Amerikaner ihren toten Rasen grün an. Sprühdose. Zwei Schichten."
-    },
-    {
-      "id": "2026-08-10-2004-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "zehn Millionen fuer die Bewachung von NS-Gedenkstaetten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Deutschland zahlt zehn Millionen Euro mehr für NS-Gedenkstätten, ein grosser Teil davon für Bewachung, weil die Angriffe zunehmen. Wir schützen die Erinnerung an den Faschismus jetzt vor Faschisten. Mit Kameras."
-    },
-    {
-      "id": "2026-08-10-2004-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lieferzeit zwei Jahre, Nachfrage als Rohstoff",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Zwei Jahre Lieferzeit für Flugabwehrraketen, während die Ukraine beschossen wird. Ich finde es richtig, dass wir nicht überproduzieren: Wer heute alles liefert, verkauft 2028 nichts mehr. Nachfrage ist ein Rohstoff."
-    },
-    {
-      "id": "2026-08-10-2004-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Warnweste in drei Farben als Reaktion",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "2025 sind mehr Kinder im Verkehr gestorben als 2024. Beruhigend, dass wir schon reagiert haben: Die Warnweste gibt es jetzt in drei Farben. Tempo 30 bleibt in Prüfung."
-    },
-    {
-      "id": "2026-08-10-2004-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "5'400 Kaution als Beweis fuer 1'800 Miete",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ich habe 5'400 Franken hinterlegt, damit die Verwaltung mir glaubt, dass ich 1'800 im Monat zahlen kann. Seit vier Jahren liegt das Geld still. Für mich gesperrt."
-    },
-    {
-      "id": "2026-08-10-2004-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "90'000 Arbeitsstunden, Waschmaschine gehoert der Bank",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "90'000 Stunden arbeitet ein Mensch bis zur Rente, am Stück zehn Jahre ohne Schlaf. Ich habe 40'000 hinter mir und eine Waschmaschine, die noch zwei Jahre der Bank gehört."
-    },
-    {
-      "id": "2026-08-10-2004-07e",
-      "typ": "politisch-aktuell",
-      "stichwort": "ICE-Notfallübung per Fax, mein letztes Fax 2014",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Bei der Notfallübung im Thüringer Eisenbahntunnel meldete die Leitstelle den brennenden ICE per Fax. Ich habe 2014 mein letztes Fax an eine Krankenkasse geschickt. Nie angekommen."
-    },
-    {
-      "id": "2026-08-10-2004-08",
-      "typ": "schnittmenge",
-      "stichwort": "Rhein bei 16 Zentimeter, alle im selben Boot",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 17,
-      "text": "Der Rhein steht bei Kaub auf 16 Zentimeter, die Frachtschiffe kommen nicht mehr durch, und alles wird teurer. Wir sitzen alle im selben Boot. Es liegt auf Grund."
-    },
-    {
-      "id": "2026-08-10-2004-09",
-      "typ": "remix",
-      "stichwort": "Sonnenfinsternis-Brille gekauft, Klimaziel bleibt bei 2050",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich habe für Mittwoch eine Sonnenfinsternis-Brille gekauft. Zwei Minuten Dunkelheit nehme ich ernst. Gegen den zweitwärmsten Juli der Messgeschichte habe ich ein Ziel für 2050. Unverbindlich."
-    },
-    {
-      "id": "2026-08-10-2004-11e",
-      "typ": "politisch-aktuell",
-      "stichwort": "Studie: rechte Politiker*innen attraktiver",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ich verstehe die neue Studie gut, nach der rechte Politiker*innen attraktiver wirken als linke. Wer nichts erklären muss, hat mehr Zeit fürs Gesicht. Kein Programm. Dafür gute Beleuchtung."
+      "text": "Ich habe 340 Franken für den Velo-Service bezahlt, ohne Zuschuss. Deutschland zahlt die E-Auto-Prämie auch für Porsche und Mercedes ab 100'000 Euro. Fürs Klima. Zwei Tonnen."
     }
   ]
 }
