@@ -275,10 +275,41 @@
   .mvor .meta b { color: var(--tinte); font-weight: 600; }
   /* Das Bild gehoert in den Vorschlag, nicht hinter einen Knopf: Manuel
      10.08.2026 "ich kenne nicht alle meme templates auswaendig". */
-  .mvor a.vor { flex: 0 0 auto; }
-  .mvor img {
-    display: block; width: 128px; height: auto; background: rgba(0, 0, 0, .07);
+  .mvor .vor {
+    flex: 0 0 auto; display: block; width: 150px; cursor: zoom-in;
+    border: none; background: transparent; padding: 0;
   }
+  .mvor img {
+    display: block; width: 150px; height: auto; background: rgba(0, 0, 0, .07);
+    /* Feste Mindesthoehe: sonst springt die ganze Liste, waehrend zehn Bilder
+       nacheinander eintrudeln. */
+    min-height: 110px;
+  }
+  .mvor .nr {
+    font-size: .64rem; letter-spacing: .1em; color: var(--matt);
+    margin-bottom: 3px;
+  }
+  .mvor.erledigt { opacity: .45; }
+  .mvor.erledigt .aktionen { display: none; }
+
+  /* Lightbox: gross ansehen, ohne die Seite zu verlassen. Ein neuer Tab pro
+     Bild waere bei zehn Vorschlaegen zehn Tabs. */
+  .lupe {
+    position: fixed; inset: 0; z-index: 40; display: none;
+    background: rgba(12, 13, 14, .92); padding: 16px;
+    align-items: center; justify-content: center; flex-direction: column;
+    gap: 10px;
+  }
+  .lupe.auf { display: flex; }
+  .lupe img { max-width: 100%; max-height: 78vh; display: block; }
+  .lupe .leiste { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
+  .lupe button, .lupe a {
+    appearance: none; border: 1px solid #ebebe8; border-radius: 0;
+    background: transparent; color: #ebebe8; cursor: pointer;
+    font: 500 .78rem/1 "IBM Plex Mono", ui-monospace, monospace;
+    padding: 10px 12px; text-decoration: none;
+  }
+  .lupe .zeilen { color: #ebebe8; font-size: .8rem; text-align: center; }
   .mvor .aktionen { display: flex; gap: 6px; margin-top: 7px; }
   .mvor .aktionen button {
     appearance: none; border: 1px solid var(--tinte); border-radius: 0;
@@ -458,6 +489,16 @@
   <a href="best.html">→ Auszählung</a>
 </footer>
 <div class="undobar" id="undobar" hidden></div>
+<div class="lupe" id="lupe">
+  <img alt="">
+  <div class="zeilen"></div>
+  <div class="leiste">
+    <a download>herunterladen</a>
+    <button class="l-zeilen">Zeilen kopieren</button>
+    <button class="l-feilen">feilen</button>
+    <button class="l-zu">schliessen</button>
+  </div>
+</div>
 <div class="toast" id="toast"></div>
 
 <script>
@@ -1270,6 +1311,59 @@ function zeigeVerdacht(grund, offen) {
 }
 
 /* --------------------------------------------------------- Meme-Vorschlaege */
+const LS_MEME_WEG = 'jdv_meme_weg';
+
+/* Lupe: Bild gross, mit Herunterladen, Zeilen kopieren und feilen an derselben
+   Stelle. Escape und ein Tap auf den Hintergrund schliessen. */
+function lupeAuf(v, url, nr, aufFeilen) {
+  const l = document.getElementById('lupe');
+  l.querySelector('img').src = url;
+  l.querySelector('.zeilen').textContent =
+    `${String(nr).padStart(2, '0')} · ${v.name} · ` + (v.zeilen || []).join(' / ');
+  const a = l.querySelector('a[download]');
+  a.href = url; a.download = `jdv-meme-${nr}.jpg`;
+  l.querySelector('.l-zeilen').onclick = async () => {
+    await copyText((v.zeilen || []).join('\n'));
+    toast('Zeilen kopiert');
+  };
+  l.querySelector('.l-feilen').onclick = () => { lupeZu(); aufFeilen(); };
+  l.classList.add('auf');
+}
+function lupeZu() { document.getElementById('lupe').classList.remove('auf'); }
+document.getElementById('lupe').addEventListener('click', e => {
+  if (e.target.id === 'lupe' || e.target.classList.contains('l-zu')) lupeZu();
+});
+window.addEventListener('keydown', e => {
+  if (e.key === 'Escape') lupeZu();
+});
+
+/* Warten, bis der Laptop geliefert hat: dieselbe Idee wie beim
+   Nachschub-Knopf. Ohne das steht Manuel vor einem Knopf, der nichts sagt, und
+   drueckt ein zweites Mal. */
+function memeWarten(btn, standVorher) {
+  const alt = btn.textContent;
+  btn.disabled = true;
+  const start = Date.now();
+  const tick = async () => {
+    const weg = Math.round((Date.now() - start) / 1000);
+    if (weg > 8 * 60) {
+      btn.disabled = false; btn.textContent = alt;
+      toast('Keine Antwort, Log prüfen');
+      return;
+    }
+    btn.textContent = `läuft … ${Math.floor(weg / 60)}:${String(weg % 60).padStart(2, '0')}`;
+    try {
+      const d = await ladeDaten('memes.json', await headShaSafe());
+      if (d && d.stand !== standVorher) {
+        renderMemes(d);
+        toast('Meme-Vorschläge aktualisiert');
+        return;
+      }
+    } catch (e) { /* weiter warten */ }
+    setTimeout(tick, 12000);
+  };
+  tick();
+}
 /* Manuel 10.08.2026: "nein kein dropdown bei den memes. du musst selber
    vorschlaege machen und passendes thema mit passendem meme verknuepfen."
    Eine Vorlage ist keine Bildwahl, sondern eine Argumentfigur: Drake ist
@@ -1286,19 +1380,18 @@ function renderMemes(d) {
   const b = document.createElement('b'); b.textContent = 'Meme-Vorschläge';
   h.appendChild(b);
   const em = document.createElement('em');
-  em.textContent = fotoUhr(d.stand) || '';
+  const figuren = new Set(vor.map(x => x.vorlage)).size;
+  /* Kurz halten: der Kopf hat neben Titel und Knopf keine Breite, und mit
+     'Vorschläge' im Text wurde die Zeile abgeschnitten (gemessen 10.08.2026). */
+  em.textContent = `${figuren} Figuren · ` + (fotoUhr(d.stand) || '');
   h.appendChild(em);
   const neu = document.createElement('button');
   neu.textContent = 'neue';
   neu.onclick = async () => {
-    neu.disabled = true;
     const res = await sendIssue('MEMES: neu',
       `Angefordert von der Seite am ${new Date().toLocaleString('de-CH')}.`);
-    neu.disabled = false;
-    toast(res === 'sent'
-      ? 'Neue Vorschläge werden gesucht, das dauert ein bis zwei Minuten.'
-      : 'Kein Token, Auftrag liegt in der Warteschlange.');
-    if (res !== 'sent') zeigeStau();
+    if (res === 'sent') memeWarten(neu, d.stand);
+    else { toast('Kein Token, Auftrag liegt in der Warteschlange.'); zeigeStau(); }
   };
   h.appendChild(neu);
   box.appendChild(h);
@@ -1306,16 +1399,25 @@ function renderMemes(d) {
     const nr = i + 1;
     const el = document.createElement('div');
     el.className = 'mvor';
-    /* Bild links, immer. Ohne es ist ein Vorlagenname wertlos. */
-    if (v.bild) {
-      const a = document.createElement('a');
-      a.className = 'vor';
-      a.href = `https://raw.githubusercontent.com/${REPO}/main/data/memes/${v.bild}?t=${Date.now()}`;
-      a.target = '_blank'; a.rel = 'noopener';
+    const bildUrl = v.bild
+      ? `https://raw.githubusercontent.com/${REPO}/main/data/memes/${v.bild}?t=${d.stand || ''}`
+      : '';
+    if (bildUrl) {
+      /* Knopf statt Link: das Bild oeffnet die Lupe, nicht einen neuen Tab.
+         Zehn Vorschlaege waeren sonst zehn Tabs. */
+      const knopf = document.createElement('button');
+      knopf.className = 'vor';
+      knopf.title = 'gross ansehen';
+      const nummer = document.createElement('div');
+      nummer.className = 'nr';
+      nummer.textContent = String(nr).padStart(2, '0');
       const img = document.createElement('img');
-      img.src = a.href; img.alt = ''; img.loading = 'lazy';
+      img.src = bildUrl; img.alt = ''; img.loading = 'lazy';
       img.onerror = () => { img.style.visibility = 'hidden'; };
-      a.appendChild(img); el.appendChild(a);
+      knopf.appendChild(nummer);
+      knopf.appendChild(img);
+      knopf.onclick = () => lupeAuf(v, bildUrl, nr, () => feilen.click());
+      el.appendChild(knopf);
     }
     const txt = document.createElement('div');
     txt.className = 'txt';
@@ -1337,6 +1439,27 @@ function renderMemes(d) {
 
     const aktionen = document.createElement('div');
     aktionen.className = 'aktionen';
+
+    /* Herunterladen ohne Umweg: der wichtigste Griff, wenn das Meme sitzt. */
+    if (bildUrl) {
+      const dl = document.createElement('a');
+      dl.href = bildUrl;
+      dl.download = `jdv-meme-${nr}.jpg`;
+      dl.textContent = 'laden';
+      dl.className = 'wie-knopf';
+      dl.style.cssText = 'border:1px solid var(--tinte);padding:7px 9px;'
+        + 'color:var(--tinte);text-decoration:none;font-size:.7rem';
+      aktionen.appendChild(dl);
+    }
+    const kopf2 = document.createElement('button');
+    kopf2.textContent = 'Zeilen';
+    kopf2.title = 'Zeilen in die Ablage, für den Bluesky-Post';
+    kopf2.onclick = async () => {
+      await copyText((v.zeilen || []).join('\n'));
+      toast('Zeilen kopiert');
+    };
+    aktionen.appendChild(kopf2);
+
     const anders = document.createElement('button');
     anders.textContent = 'anderes';
     anders.onclick = async () => {
@@ -1344,43 +1467,82 @@ function renderMemes(d) {
       const res = await sendIssue(`MEMES: ${nr}`,
         `Vorschlag ${nr} passt nicht, angefordert am `
         + new Date().toLocaleString('de-CH'));
-      toast(res === 'sent'
-        ? 'Neuer Vorschlag wird gesucht, ein bis zwei Minuten.'
-        : 'Kein Token, Auftrag liegt in der Warteschlange.');
-      if (res !== 'sent') { anders.disabled = false; zeigeStau(); }
+      if (res === 'sent') { memeWarten(anders, d.stand); }
+      else { anders.disabled = false; toast('Kein Token, liegt in der Warteschlange.'); zeigeStau(); }
     };
     aktionen.appendChild(anders);
+
     const feilen = document.createElement('button');
     feilen.textContent = 'feilen';
     aktionen.appendChild(feilen);
+
+    /* Vorlage dauerhaft sperren: wenn eine Figur ihm grundsaetzlich nicht
+       passt, soll sie nicht in jeder zweiten Runde wiederkommen. */
+    const nie = document.createElement('button');
+    nie.textContent = 'Figur nie';
+    nie.title = 'diese Vorlage dauerhaft aus dem Vorrat nehmen';
+    nie.onclick = async () => {
+      nie.disabled = true;
+      const res = await sendIssue(`VORLAGE-NIE: ${v.vorlage}`,
+        `Gesperrt am ${new Date().toLocaleString('de-CH')} über die Seite.`);
+      toast(res === 'sent'
+        ? `${v.name} kommt nicht mehr.`
+        : 'Kein Token, liegt in der Warteschlange.');
+      if (res !== 'sent') { nie.disabled = false; zeigeStau(); }
+      else el.classList.add('erledigt');
+    };
+    aktionen.appendChild(nie);
+
+    const weg = document.createElement('button');
+    weg.textContent = 'weg';
+    weg.title = 'nur hier ausblenden, ohne Auftrag';
+    weg.onclick = () => {
+      el.classList.toggle('erledigt');
+      const s = JSON.parse(localStorage.getItem(LS_MEME_WEG) || '{}');
+      const k = `${d.stand}-${nr}`;
+      if (el.classList.contains('erledigt')) s[k] = 1; else delete s[k];
+      localStorage.setItem(LS_MEME_WEG, JSON.stringify(s));
+    };
+    aktionen.appendChild(weg);
     txt.appendChild(aktionen);
 
-    /* Feilen an den ZEILEN, finalisiert wird das Bild auf dem Laptop. Ein Feld
-       pro Textfeld, damit klar ist, welche Zeile wohin gehoert. */
+    /* Feilen: ein Feld pro Textfeld, mit Wortzaehler. Zwei bis sechs Woerter
+       sind die Regel, laenger macht die Schrift im Bild winzig. */
     const box2 = document.createElement('div');
     box2.className = 'mfeile';
     const felder = (v.zeilen || []).map(z => {
       const inp = document.createElement('input');
       inp.value = z; inp.autocomplete = 'off';
+      const zaehler = document.createElement('div');
+      zaehler.className = 'hint';
+      const mal = () => {
+        const w = inp.value.trim().split(/\s+/).filter(Boolean).length;
+        zaehler.textContent = `${w} Wörter`
+          + (w > 6 ? ' · lang, die Schrift wird klein' : '');
+        zaehler.style.color = w > 6 ? 'var(--nein)' : 'var(--matt)';
+      };
+      inp.addEventListener('input', mal);
+      mal();
       box2.appendChild(inp);
+      box2.appendChild(zaehler);
       return inp;
     });
     const row = document.createElement('div');
     row.className = 'row';
     const ok = document.createElement('button');
     ok.className = 'b-more'; ok.textContent = 'so bauen';
-    const weg = document.createElement('button');
-    weg.className = 'b-more'; weg.textContent = 'abbrechen';
-    weg.style.cssText = 'background:transparent;color:var(--matt);border-color:var(--linie)';
-    row.appendChild(ok); row.appendChild(weg);
+    const abbr = document.createElement('button');
+    abbr.className = 'b-more'; abbr.textContent = 'abbrechen';
+    abbr.style.cssText = 'background:transparent;color:var(--matt);border-color:var(--linie)';
+    row.appendChild(ok); row.appendChild(abbr);
     box2.appendChild(row);
     txt.appendChild(box2);
 
     feilen.onclick = () => {
       el.classList.add('feilend');
-      if (felder[0]) felder[0].focus();
+      if (felder[0]) { felder[0].focus(); felder[0].select(); }
     };
-    weg.onclick = () => el.classList.remove('feilend');
+    abbr.onclick = () => el.classList.remove('feilend');
     ok.onclick = async () => {
       const neuZeilen = felder.map(f => f.value.trim()).filter(Boolean);
       if (neuZeilen.length < felder.length) { felder[0].focus(); return; }
@@ -1388,13 +1550,20 @@ function renderMemes(d) {
       const auftrag = [nr, v.vorlage, ...neuZeilen].join(' | ');
       const res = await sendIssue(`MEME-FEILE: ${auftrag.slice(0, 240)}`,
         `Gefeilt am ${new Date().toLocaleString('de-CH')}.`);
-      toast(res === 'sent'
-        ? 'Wird neu gerendert, erscheint hier in ein bis zwei Minuten.'
-        : 'Kein Token, Auftrag liegt in der Warteschlange.');
-      if (res !== 'sent') zeigeStau();
+      if (res === 'sent') memeWarten(ok, d.stand);
+      else { toast('Kein Token, liegt in der Warteschlange.'); zeigeStau(); }
     };
+    /* Enter im letzten Feld baut, damit man nicht zum Knopf muss. */
+    if (felder.length) {
+      felder[felder.length - 1].addEventListener('keydown', e => {
+        if (e.key === 'Enter') { e.preventDefault(); ok.click(); }
+      });
+    }
 
     el.appendChild(txt);
+    /* Lokal ausgeblendete bleiben ausgeblendet, auch nach einem Reload. */
+    const s = JSON.parse(localStorage.getItem(LS_MEME_WEG) || '{}');
+    if (s[`${d.stand}-${nr}`]) el.classList.add('erledigt');
     box.appendChild(el);
   });
   box.hidden = false;
