@@ -1,47 +1,49 @@
 {
-  "stand": "2026-08-10T20:14:09+02:00",
-  "lauf": "2012",
+  "stand": "2026-08-10T21:29:27+02:00",
+  "lauf": "2128",
   "fotos": [
     {
-      "id": "2012-1",
-      "titel": "«Die Beine wollten nicht mehr» – Marlen Reusser sucht nach der Tour de France Erklärungen für die späte Enttäuschung",
-      "was": "Marlen Reusser erschöpft und ratlos im Ziel, Blick ins Leere",
+      "id": "2128-1",
+      "titel": "DIE NEUESTEN ENTWICKLUNGEN - Trumps zweite Amtszeit: USA widerrufen mehr als 175 000 Visa unter Trump +++ Kampfjets fangen Flugzeuge nahe Trumps Golfplatz ab",
+      "was": "Trump im Golfwagen auf dem Grün, Kampfjets am Himmel darüber",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: militärische Luftraumsicherung gegen die Freizeitbeschäftigung, die sie schützt.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "SRF"
+      ],
+      "artikel": "https://www.nzz.ch/international/trumps-zweite-amtszeit-kampfjets-fangen-flugzeuge-nahe-trumps-golfplatz-ab-senat-einigt-sich-auf-uebergangshaushalt-ld.1856621",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/07/93ef34d1-5765-4832-b711-623565f6c86c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5135,5135,x1178,y0",
+      "zeit": "2026-08-10T19:20+02:00"
+    },
+    {
+      "id": "2128-2",
+      "titel": "Nach der Tour der France – Reusser: Enttäuscht, frustriert – und vor allem ratlos",
+      "was": "Marlen Reusser erschöpft nach der Etappe, leerer Blick, Betreuer daneben",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: die Erklärung, die alle von aussen verlangen, gegen einen Körper, der keine liefert.",
       "grund": "breit",
       "raum": "",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "SRF",
-        "Watson"
-      ],
-      "artikel": "https://www.nzz.ch/sport/rad/die-beine-wollten-nicht-mehr-reussers-bitteres-tour-finale-ld.10018884",
-      "bild": "https://img-msp-prod.nzz.ch/2026/08/10/bd217013-ea14-4e6f-969b-50ce9e3b1edc.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5504,5503,x59,y1",
-      "zeit": "2026-08-10T17:31+02:00"
-    },
-    {
-      "id": "2012-2",
-      "titel": "KURZMELDUNGEN - Polizei-News aus Zürich: Dutzende von Autolenkern nach der Street Parade gestoppt – 2200 LSD-Portionen bei Dealer sichergestellt",
-      "was": "Polizisten bei Verkehrskontrolle, sichergestellte LSD-Blätter auf einem Tisch",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "Watson"
-      ],
-      "artikel": "https://www.nzz.ch/zuerich/polizei-news-aus-zuerich-dutzende-von-autolenkern-nach-street-parade-gestoppt-ld.10011943",
-      "bild": "https://img-msp-prod.nzz.ch/2026/08/10/665dbb17-631d-4c51-83cc-ce9031d7bb74.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3024,3024,x504,y0",
-      "zeit": "2026-08-10T16:49+02:00"
-    },
-    {
-      "id": "2012-3",
-      "titel": "Trockenheit in Graubünden – Trauriger Alpabzug: Kühe müssen früher ins Tal",
-      "was": "Kühe beim vorzeitigen Alpabzug, Bauern auf ausgetrockneter Bündner Alp",
-      "grund": "memetauglich",
-      "raum": "schweiz",
       "quelle": "SRF",
+      "auch_bei": [
+        "NZZ"
+      ],
+      "artikel": "https://www.srf.ch/sport/mehr-sport/rad/nach-der-tour-der-france-reusser-enttaeuscht-frustriert-und-vor-allem-ratlos",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/146902.jpg",
+      "zeit": "2026-08-10T17:39+02:00"
+    },
+    {
+      "id": "2128-3",
+      "titel": "Hutmacherin ohne Stroh: König Charles schenkt ganze Weizenernte",
+      "was": "König Charles übergibt Hutmacherin Weizengarbe, beide mit Strohhut auf dem Feld",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: eine königliche Ernte für eine Handwerkerin gegen die Dürre, die alle anderen trifft.",
+      "grund": "memetauglich",
+      "raum": "weltweit",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/trockenheit-in-graubuenden-trauriger-alpabzug-kuehe-muessen-frueher-ins-tal",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/c592bd.jpg",
-      "zeit": "2026-08-10T14:58+02:00"
+      "artikel": "https://www.20min.ch/story/grossbritannien-hutmacherin-ohne-stroh-koenig-charles-schenkt-ganze-weizenernte-103615812",
+      "bild": "https://image.20min.ch/2026/08/10/e863a76a-21bf-48b0-a6c4-d0598693321c.png?s=d6c0233f0f7845c3c9a40439c1d6f055",
+      "zeit": "2026-08-10T20:18+02:00"
     }
   ],
   "erwartet": [],
