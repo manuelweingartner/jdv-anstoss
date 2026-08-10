@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "9 von 12 da, der Rest lädt noch.",
+  "hinweis": "12 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,36 @@
       "haltbarkeit": "evergreen",
       "format": 10,
       "text": "Ich suche seit elf Monaten eine Wohnung. Der Markt ist so gesund, dass ich für eine Besichtigung ein Motivationsschreiben einreichen musste. Vier Seiten. Ohne Rückmeldung."
+    },
+    {
+      "id": "2026-08-10-0757-10",
+      "typ": "persönlich",
+      "stichwort": "Neun Liter gegen ein Kilo Rindfleisch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich spüle seit sieben Jahren nur im ECO-Programm, neun Liter pro Ladung. Ein Kilo Rindfleisch braucht 15'000 Liter. Das sind viereinhalb Jahre abwaschen. Jeden Abend."
+    },
+    {
+      "id": "2026-08-10-0757-11",
+      "typ": "persönlich",
+      "stichwort": "Ventilator seit Juni, Stihl will mehr Stunden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Zuhause läuft der Ventilator seit Juni durch. Copernicus meldet Westeuropas heissesten Juni und Juli, gleiche Woche nennt Stihl die 35-Stunden-Woche nicht mehr zeitgemäss. Der Ventilator macht die Mehrstunden mit. Unbezahlt."
+    },
+    {
+      "id": "2026-08-10-0757-12",
+      "typ": "persönlich",
+      "stichwort": "Hund kriegt in einer Viertelstunde, was Kranke Jahre kostet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Unser Wasserhund ist allergisch auf Gräser. Beim Tierarzt hatte er nach einer Viertelstunde eine Diagnose und ein Medikament. Bei chronisch kranken Menschen dauert dasselbe im Schnitt fünf Jahre."
     }
   ]
 }
