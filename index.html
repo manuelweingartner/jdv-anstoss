@@ -273,12 +273,29 @@
     font-size: .66rem; letter-spacing: .04em; color: var(--matt); margin-top: 4px;
   }
   .mvor .meta b { color: var(--tinte); font-weight: 600; }
-  .mvor button {
-    appearance: none; flex: 0 0 auto; border: 1px solid var(--tinte);
-    border-radius: 0; background: var(--tinte); color: var(--grund);
-    cursor: pointer; font: 500 .74rem/1 inherit; padding: 9px 11px;
+  /* Das Bild gehoert in den Vorschlag, nicht hinter einen Knopf: Manuel
+     10.08.2026 "ich kenne nicht alle meme templates auswaendig". */
+  .mvor a.vor { flex: 0 0 auto; }
+  .mvor img {
+    display: block; width: 128px; height: auto; background: rgba(0, 0, 0, .07);
   }
-  .mvor button:disabled { opacity: .5; cursor: default; }
+  .mvor .aktionen { display: flex; gap: 6px; margin-top: 7px; }
+  .mvor .aktionen button {
+    appearance: none; border: 1px solid var(--tinte); border-radius: 0;
+    background: transparent; color: var(--tinte); cursor: pointer;
+    font: 400 .7rem/1 inherit; padding: 7px 9px;
+  }
+  .mvor .aktionen button:disabled { opacity: .5; cursor: default; }
+  .mfeile { display: none; margin-top: 7px; }
+  .mvor.feilend .mfeile { display: block; }
+  .mvor.feilend .aktionen { display: none; }
+  .mfeile input {
+    width: 100%; padding: 7px 9px; margin-bottom: 5px; border-radius: 0;
+    border: 1px solid var(--linie); background: #fff; color: var(--tinte);
+    font: 400 .78rem/1.3 inherit;
+  }
+  .mfeile input:focus { outline: none; border-color: var(--tinte); }
+  .mfeile .row { display: flex; gap: 6px; }
 
   /* ---------------------------------------------------------- Werkstatt */
   .werkstatt { border-bottom: 1px solid var(--linie); padding: 2px 0 10px; }
@@ -1285,9 +1302,21 @@ function renderMemes(d) {
   };
   h.appendChild(neu);
   box.appendChild(h);
-  vor.forEach(v => {
+  vor.forEach((v, i) => {
+    const nr = i + 1;
     const el = document.createElement('div');
     el.className = 'mvor';
+    /* Bild links, immer. Ohne es ist ein Vorlagenname wertlos. */
+    if (v.bild) {
+      const a = document.createElement('a');
+      a.className = 'vor';
+      a.href = `https://raw.githubusercontent.com/${REPO}/main/data/memes/${v.bild}?t=${Date.now()}`;
+      a.target = '_blank'; a.rel = 'noopener';
+      const img = document.createElement('img');
+      img.src = a.href; img.alt = ''; img.loading = 'lazy';
+      img.onerror = () => { img.style.visibility = 'hidden'; };
+      a.appendChild(img); el.appendChild(a);
+    }
     const txt = document.createElement('div');
     txt.className = 'txt';
     const zeilen = document.createElement('div');
@@ -1305,20 +1334,67 @@ function renderMemes(d) {
     meta.appendChild(nm);
     if (v.warum) meta.appendChild(document.createTextNode(' · ' + v.warum));
     txt.appendChild(meta);
-    el.appendChild(txt);
-    const bauen = document.createElement('button');
-    bauen.textContent = 'bauen';
-    bauen.onclick = async () => {
-      bauen.disabled = true;
-      const auftrag = [v.vorlage, ...(v.zeilen || [])].join(' | ');
-      const res = await sendIssue(`VORLAGE: ${auftrag.slice(0, 240)}`,
-        `Aus einem Vorschlag vom ${fotoUhr(d.stand)}.`);
+
+    const aktionen = document.createElement('div');
+    aktionen.className = 'aktionen';
+    const anders = document.createElement('button');
+    anders.textContent = 'anderes';
+    anders.onclick = async () => {
+      anders.disabled = true;
+      const res = await sendIssue(`MEMES: ${nr}`,
+        `Vorschlag ${nr} passt nicht, angefordert am `
+        + new Date().toLocaleString('de-CH'));
       toast(res === 'sent'
-        ? 'Wird gebaut, erscheint gleich in der Werkstatt.'
+        ? 'Neuer Vorschlag wird gesucht, ein bis zwei Minuten.'
         : 'Kein Token, Auftrag liegt in der Warteschlange.');
-      if (res !== 'sent') { bauen.disabled = false; zeigeStau(); }
+      if (res !== 'sent') { anders.disabled = false; zeigeStau(); }
     };
-    el.appendChild(bauen);
+    aktionen.appendChild(anders);
+    const feilen = document.createElement('button');
+    feilen.textContent = 'feilen';
+    aktionen.appendChild(feilen);
+    txt.appendChild(aktionen);
+
+    /* Feilen an den ZEILEN, finalisiert wird das Bild auf dem Laptop. Ein Feld
+       pro Textfeld, damit klar ist, welche Zeile wohin gehoert. */
+    const box2 = document.createElement('div');
+    box2.className = 'mfeile';
+    const felder = (v.zeilen || []).map(z => {
+      const inp = document.createElement('input');
+      inp.value = z; inp.autocomplete = 'off';
+      box2.appendChild(inp);
+      return inp;
+    });
+    const row = document.createElement('div');
+    row.className = 'row';
+    const ok = document.createElement('button');
+    ok.className = 'b-more'; ok.textContent = 'so bauen';
+    const weg = document.createElement('button');
+    weg.className = 'b-more'; weg.textContent = 'abbrechen';
+    weg.style.cssText = 'background:transparent;color:var(--matt);border-color:var(--linie)';
+    row.appendChild(ok); row.appendChild(weg);
+    box2.appendChild(row);
+    txt.appendChild(box2);
+
+    feilen.onclick = () => {
+      el.classList.add('feilend');
+      if (felder[0]) felder[0].focus();
+    };
+    weg.onclick = () => el.classList.remove('feilend');
+    ok.onclick = async () => {
+      const neuZeilen = felder.map(f => f.value.trim()).filter(Boolean);
+      if (neuZeilen.length < felder.length) { felder[0].focus(); return; }
+      el.classList.remove('feilend');
+      const auftrag = [nr, v.vorlage, ...neuZeilen].join(' | ');
+      const res = await sendIssue(`MEME-FEILE: ${auftrag.slice(0, 240)}`,
+        `Gefeilt am ${new Date().toLocaleString('de-CH')}.`);
+      toast(res === 'sent'
+        ? 'Wird neu gerendert, erscheint hier in ein bis zwei Minuten.'
+        : 'Kein Token, Auftrag liegt in der Warteschlange.');
+      if (res !== 'sent') zeigeStau();
+    };
+
+    el.appendChild(txt);
     box.appendChild(el);
   });
   box.hidden = false;
