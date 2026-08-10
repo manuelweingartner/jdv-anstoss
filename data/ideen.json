@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "5 von 12 da, der Rest lädt noch.",
+  "hinweis": "8 von 12 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Wir wandern in 20 Jahren mit On-Schuhen nach Norden aus. Mitteleuropa brennt weiter. Jeden Sommer."
+    },
+    {
+      "id": "2026-08-10-1044-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "On-Schuhe nie gerannt, zweitwärmster Juli",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe On-Schuhe für 190 Franken und bin damit noch nie gerannt. Der Juli war weltweit der zweitwärmste seit Messbeginn. In 20 Jahren renne ich damit nach Norden. Endlich eingelaufen."
+    },
+    {
+      "id": "2026-08-10-1044-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Helmpflicht in Paris, Südeuropa brennt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Paris schreibt E-Scooter-Fahrer*innen diese Woche Helme vor. In derselben Woche brennen Spanien und Frankreich. Gegen 25 km/h hilft ein Helm, gegen 20 Sommer wandern wir in On-Schuhen nach Norden ab."
+    },
+    {
+      "id": "2026-08-10-1044-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "800 Kilometer Schuh, 1'100 nach Kopenhagen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "800 Kilometer hält ein Paar On-Schuhe, von Zürich nach Kopenhagen sind es 1'100. Spanien und Frankreich brennen schon jetzt, ich plane meine Flucht in Etappen. Mit Zwischenstopp im Fachgeschäft."
     },
     {
       "id": "2026-08-10-1044-10",
