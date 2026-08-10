@@ -1,0 +1,34 @@
+{
+  "stand": "2026-08-10T21:58:48+02:00",
+  "vorschlaege": [
+    {
+      "vorlage": "drake",
+      "name": "Drake Hotline Bling",
+      "zeilen": [
+        "Züge pünktlicher machen",
+        "Durchsagen auf Deutsch umstellen"
+      ],
+      "warum": "weil die Figur genau das trifft: das naheliegende Problem ausschlagen und stattdessen an den Ansagen schrauben"
+    },
+    {
+      "vorlage": "knoepfe",
+      "name": "Two Buttons",
+      "zeilen": [
+        "Turnvereine besteuern",
+        "Grosskonzerne verschonen",
+        "Lars Klingbeil"
+      ],
+      "warum": "weil sich die beiden Knöpfe gar nicht ausschliessen und das Zögern die ganze Steuerreform beschreibt"
+    },
+    {
+      "vorlage": "freund",
+      "name": "Distracted Boyfriend",
+      "zeilen": [
+        "Rüstungsausgaben erhöhen",
+        "Bundesbern",
+        "Entwicklungshilfe-Versprechen"
+      ],
+      "warum": "weil eine Institution ihr eigenes, älteres Versprechen sitzen lässt, während sie dem Neuen nachschaut"
+    }
+  ]
+}
