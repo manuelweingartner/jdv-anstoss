@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-10",
-  "hinweis": "11 von 12 da, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -112,6 +112,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Historische Tiefstände im Rhein, in derselben Woche bremst die Hitze laut EU-Studie das Wirtschaftswachstum. 2046 ziehen wir dann alle in den kühlen Norden. Der Rhein liegt im Norden."
+    },
+    {
+      "id": "2026-08-10-1044-12e",
+      "typ": "politisch-aktuell",
+      "stichwort": "On-Schuhe als Training für 2046",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe mir neue On-Schuhe gekauft. Frankreich und Spanien brennen erneut, und ich trainiere in denen jetzt für 2046. Richtung Norden. Zu Fuss."
     }
   ]
 }
