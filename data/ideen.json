@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-11",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 4 statt 6.",
   "fertig": true,
   "ideen": [
     {
@@ -34,63 +34,33 @@
       }
     },
     {
-      "id": "2026-08-11-0757-09",
-      "typ": "remix",
-      "stichwort": "Vier Jahre Krieg, sanktioniert wird ein leeres Rechteck",
+      "id": "2026-08-11-0757-11",
+      "typ": "persönlich",
+      "stichwort": "20 Minuten Sicherheitskontrolle, Trump im Catering-Wagen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich habe an der Turn-EM eine Russin ohne Flagge starten sehen. Vier Jahre Krieg, und die härteste Massnahme des Sports ist ein leeres Rechteck auf dem Trikot. Weiss. Bügelfrei.",
+      "text": "Am Flughafen stehe ich seit 20 Minuten in der Sicherheitskontrolle und muss meine Zahnpasta rechtfertigen. Trump wurde nach dem NATO-Gipfel im Catering-Wagen aus seinem Jet geschleust. Ungescannt. Zwischen den Sandwiches.",
       "jury": {
         "anker": true,
-        "witz": true,
-        "neu": true
+        "neu": false,
+        "witz": true
       }
     },
     {
-      "id": "2026-08-11-0757-12",
-      "typ": "persönlich",
-      "stichwort": "Mietsenkung verlangt, der Markt ist ein Mann mit vier Häusern",
+      "id": "2026-08-11-0757-29",
+      "typ": "remix",
+      "stichwort": "Italiens Hitzeantwort: Einladung ins Kino",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Ich habe eine Mietsenkung verlangt, weil die Zinsen seit zwei Jahren fallen. Die Verwaltung schreibt, der Markt gebe das nicht her. Der Markt ist ein Mann mit vier Häusern.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-11-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "halbe Billion für KI, Kind mit zwölf Jahren Rendite",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich finde es richtig, dass die Wall Street eine halbe Billion in KI steckt. Ein Kind braucht zwölf Jahre bis zur Rendite und stellt dann Fragen.",
+      "format": 10,
+      "text": "Ich sass gestern bei 34 Grad im Kino, weil es dort kühl ist. In Italien ist genau das die Regierungsantwort auf die Hitzetoten: Einladungen ins Kino. Klimatisiert. Zwei Stunden.",
       "jury": {
         "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-11-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "heissester Juni und Juli, Klimaziel 2050 noch nie verpasst",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Westeuropa hatte den heissesten Juni und Juli seit Messbeginn, in Frankreich brennen die Wälder. Endlich ein Klimaziel, das hält: 2050 haben wir noch nie verpasst. Kein einziges Mal.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
+        "neu": true,
+        "witz": true
       }
     }
   ]
