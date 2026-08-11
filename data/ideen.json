@@ -1,97 +1,27 @@
 {
-  "datum": "2026-08-10",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-08-11",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-10-2211-03",
+      "id": "2026-08-11-0757-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Antikriegspartei befangen",
+      "stichwort": "halbe Billion für KI, sonst Löhne",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Russland lässt die einzige Antikriegspartei nicht zur Septemberwahl zu. Beruhigend: Wer den Krieg beenden will, ist bei einer Wahl über den Krieg befangen. Alle anderen bleiben ergebnisoffen.",
-      "jury": {
-        "anker": false,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Ich finde es richtig, dass die Wall Street eine halbe Billion Dollar für KI einsammelt. Sonst müsste am Ende noch jemand Löhne zahlen. Jeden Monat. Mit Sozialabgaben."
     },
     {
-      "id": "2026-08-10-2211-04",
+      "id": "2026-08-11-0757-04",
       "typ": "politisch-aktuell",
-      "stichwort": "dreissig Jahre Lobby, jetzt die Klimaanlage",
+      "stichwort": "Fifa-Wahl, vom Präsidenten angeordnet",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich habe dreissig Jahre lang Klimagesetze verhindert, und jetzt waren Juni und Juli in Westeuropa die heissesten seit Messbeginn. Gute Nachricht: die Klimaanlagen verkaufen wir auch. Zwei Jahre Garantie.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-10-2211-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "274 Jahre 10'000 Franken taeglich verbrennen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Um eine Milliarde loszuwerden, müsste ich 274 Jahre lang jeden Tag 10'000 Franken verbrennen. Wir nennen solche Vermögen trotzdem Erspartes. Fleissig. Bescheiden. Besorgt um die Zinsen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-10-2211-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "1'400 Franken Zahnkrone, Gebiss verraet Einkommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe 1'400 Franken für eine Zahnkrone bezahlt, die Versicherung zahlt Zähne nicht. Am Gebiss erkennt man das Einkommen zuverlässiger als am Auto. Reiche haben keine Karies, sie haben Termine.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-10-2211-10",
-      "typ": "persönlich",
-      "stichwort": "Sieben Jahre ECO-Programm gegen einen Privatjet-Flug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Sieben Jahre lang habe ich die Abwaschmaschine nur im ECO-Programm laufen lassen, aus Prinzip. Eingespart habe ich damit etwa einen Privatjet-Flug nach Nizza. Nicht pro Jahr. Insgesamt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-10-2211-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ausweis für Wein, Gericht für Waffenschein",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich muss den Ausweis zeigen, wenn ich eine Flasche Wein kaufe. AfD-Mitgliedern musste in Sachsen-Anhalt erst ein Gericht die Waffenerlaubnis wegnehmen. Alkohol ist gefährlich.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
+      "format": 13,
+      "text": "Gute Nachricht für den Weltfussball: Trump stellt sich hinter Infantino. Alle 211 Mitgliedsverbände bleiben völlig frei in ihrer Wahl, das hat der US-Präsident persönlich angeordnet. Einstimmig."
     }
   ]
 }
