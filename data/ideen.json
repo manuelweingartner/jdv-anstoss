@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-11",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Russlands letzte Antikriegspartei wird von der Parlamentswahl ausgeschlossen. Am selben Tag darf ein russischer Turner an der EM starten, nur seine Flagge nicht. Europa sanktioniert zuverlässig den Stoff. Polyester. Streng verboten."
+    },
+    {
+      "id": "2026-08-11-0905-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bund verhandelt Wasser, Klimakrise arbeitet für uns",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich verhandle für den Bund über Wasser, weil Italien und Frankreich keins mehr haben. Endlich ein Rohstoff, bei dem die Klimakrise für uns arbeitet. Preis nach Nachfrage."
+    },
+    {
+      "id": "2026-08-11-0905-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Stadtbäume von Hand giessen, Konzern pumpt weiter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Zürcher*innen schleppen in der Hitze eigene Kübel zu den Stadtbäumen. Ich finde das richtig: Wer wie wir Grundwasser abpumpt, freut sich über jeden, der von Hand nachfüllt. Gratis. Nach Feierabend."
     }
   ]
 }
