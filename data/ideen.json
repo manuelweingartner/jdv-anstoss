@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-11",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Gute Nachricht für den Weltfussball: Trump stellt sich hinter Infantino. Alle 211 Mitgliedsverbände bleiben völlig frei in ihrer Wahl, das hat der US-Präsident persönlich angeordnet. Einstimmig."
+    },
+    {
+      "id": "2026-08-11-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hitze-Notfälle und der Gemüsetipp am selben Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Zürich meldet wegen der Hitze mehr Herz-Kreislauf-Notfälle. Am selben Tag erklärt mir eine Zeitung, welches Gemüse bei 36 Grad noch verdaulich ist. Gurke. 96 Prozent Wasser."
+    },
+    {
+      "id": "2026-08-11-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Meloni und Frederiksen hetzen im Reel-Format",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich öffne Instagram, und zwischen zwei Rezeptvideos erklären mir Meloni und Frederiksen, dass Migrant*innen das christliche Abendland bedrohen. Zwei Regierungschefinnen. Ein Reel. Kein Faktencheck."
     }
   ]
 }
