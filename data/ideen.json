@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-11",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 16,
       "text": "Ich öffne Instagram, und zwischen zwei Rezeptvideos erklären mir Meloni und Frederiksen, dass Migrant*innen das christliche Abendland bedrohen. Zwei Regierungschefinnen. Ein Reel. Kein Faktencheck."
+    },
+    {
+      "id": "2026-08-11-0757-28",
+      "typ": "schnittmenge",
+      "stichwort": "Mont Blanc: Reservation zu Fuss, Anruf per Helikopter",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Am Mont Blanc soll Wandern bald nur noch mit Reservation gehen, zu viele Leute. Für den Helikopter auf dieselben 4'808 Meter reicht weiterhin ein Anruf am Vortag."
+    },
+    {
+      "id": "2026-08-11-0757-29",
+      "typ": "remix",
+      "stichwort": "Italiens Hitzeantwort: Einladung ins Kino",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich sass gestern bei 34 Grad im Kino, weil es dort kühl ist. In Italien ist genau das die Regierungsantwort auf die Hitzetoten: Einladungen ins Kino. Klimatisiert. Zwei Stunden."
     }
   ]
 }
