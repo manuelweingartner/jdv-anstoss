@@ -1,63 +1,56 @@
 {
-  "stand": "2026-08-11T08:07:27+02:00",
-  "lauf": "0806",
+  "stand": "2026-08-11T17:00:55+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0806-1",
-      "titel": "Trump heimlich im Catering-Wagen aus Air Force One geschleust",
-      "was": "Trump verlässt die Air Force One über einen Catering-Wagen",
-      "richtung": "Mechanik: wörtlich nehmen, was nur als Sicherheitsvorkehrung gemeint ist. Achse: maximale Inszenierung von Macht gegen den Ausstieg beim Lieferanteneingang.",
+      "id": "1700-1",
+      "titel": "«Vegan-Zwang?»: Parmelin startet Kampf gegen Ernährungsinitiative",
+      "was": "Parmelin am Rednerpult, daneben Gemüse und Fleisch als Anschauungsmaterial",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: der Bundesrat als Verteidiger der freien Tellerwahl gegen eine Landwirtschaft, die er seit Jahrzehnten selbst lenkt.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "20 Minuten",
-      "auch_bei": [
-        "SRF",
-        "Tagesschau",
-        "Watson"
-      ],
-      "artikel": "https://www.20min.ch/story/nach-nato-gipfel-trump-heimlich-im-catering-wagen-aus-air-force-one-geschleust-103615906",
-      "bild": "https://image.20min.ch/2026/08/11/d96f6c07-2009-4c56-aa0e-35a00a1f09fc.png?s=d34132587b3d15892ba9ff8ee34b1467",
-      "zeit": "2026-08-11T05:40+02:00"
-    },
-    {
-      "id": "0806-2",
-      "titel": "Trump warnt Fifa vor Infantinos Absetzung",
-      "was": "Trump und Fifa-Chef Infantino nebeneinander, Handschlag oder Schulterklopfen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Rückendeckung unter Freunden gegen die Behauptung eines unabhängigen Verbands.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "20 Minuten",
-      "auch_bei": [
-        "SRF",
-        "Spiegel",
-        "Watson"
-      ],
-      "artikel": "https://www.20min.ch/story/umstrittener-verbandsboss-trump-warnt-fifa-vor-absetzung-von-infantino-103615871",
-      "bild": "https://image.20min.ch/2026/08/11/dcf3188e-2eb1-41e4-b8dc-cc27e9721d79.jpg?s=6840fe79c84b4fcaa84a0c7ac47a0101",
-      "zeit": "2026-08-11T03:40+02:00"
-    },
-    {
-      "id": "0806-3",
-      "titel": "Fehler in Arena: Schweizerin jubelt über Bronze, dann der Schock",
-      "was": "Sprinterin jubelt im Stadion, Anzeigetafel zeigt falsche Bronzemedaille",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: der gefeierte Moment gegen die Zahl, die ihn eine Sekunde später zurücknimmt.",
-      "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "20 Minuten",
+      "auch_bei": [
+        "SRF",
+        "Watson"
+      ],
+      "artikel": "https://www.20min.ch/story/medienkonferenz-vegan-zwang-parmelin-startet-kampf-gegen-ernaehrungsinitiative-103615968",
+      "bild": "https://image.20min.ch/2026/08/11/3deaed84-c1e8-4527-84cf-442cedee1600.jpg?s=bcab2ab65dcf669aa3abf1405c40d117",
+      "zeit": "2026-08-11T14:45+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Dressurreiten: Isabell Werth kritisiert Debattenkultur im Netz scharf",
+      "was": "Dressurreiterin im Frack auf dem Pferd, streng frisiert, Turniergeviert",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Ruf nach besserer Debattenkultur gegen das einzige Wesen im Bild, das nichts sagen darf.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
+      "auch_bei": [
+        "Watson"
+      ],
+      "artikel": "https://www.spiegel.de/sport/dressurreiten-isabell-werth-kritisiert-debattenkultur-im-netz-scharf-a-20e635eb-834d-483d-9c53-af177069381a#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/2ab3873c-c594-4500-9a82-faba301c53f7_w520_r2.08_fpx47.32_fpy45.jpg",
+      "zeit": "2026-08-11T13:41+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Nato-Gipfel in Ankara – Medien: Trump heimlich im Catering-Wagen aus Jet geschleust",
+      "was": "Catering-Wagen am Präsidentenjet auf dem Rollfeld, Personenschützer daneben",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Weltmacht-Auftritt beim Gipfel gegen Abgang im Servicewagen.",
+      "grund": "memetauglich",
+      "raum": "weltweit",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/geraldine-di-tizio-frey-fehler-in-arena-schweizerin-jubelt-ueber-bronze-dann-der-schock-103615856",
-      "bild": "https://image.20min.ch/2026/08/10/49defb6b-b841-4337-9b5c-e3518435cc40.jpg?s=f7e6fdc5f277cfaa4c5f30813d0430a2",
-      "zeit": "2026-08-11T06:58+02:00"
+      "artikel": "https://www.srf.ch/news/international/nato-gipfel-in-ankara-medien-trump-heimlich-im-catering-wagen-aus-jet-geschleust",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/4a85bc.jpg",
+      "zeit": "2026-08-11T08:03+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 10:00",
-      "was": "Leichtathletik-EM Birmingham, Schweizer Athletinnen in Jubel- und Enttäuschungsposen"
-    },
-    {
-      "wann": "heute im Lauf des Tages",
-      "was": "Ungarns Parlament wählt den neuen Staatspräsidenten, Vereidigung mit Handschlag und Blumen"
+      "wann": "heute abends",
+      "was": "Abendsession der Leichtathletik-EM: Zieleinlauf und Jubel oder Zusammenbruch der Läuferinnen über 800 m"
     }
   ],
   "hinweis": ""
