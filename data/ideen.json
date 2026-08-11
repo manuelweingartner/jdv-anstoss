@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-11",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
   "fertig": true,
   "ideen": [
     {
@@ -64,33 +64,18 @@
       }
     },
     {
-      "id": "2026-08-11-0905-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Altersvorsorge mit Ruestungsaktien",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Zum ersten Mal habe ich nachgeschaut, wo meine Altersvorsorge liegt. 6 Prozent Rendite, Ruestungsaktien inklusive. Mein Ruhestand ist ein Abo auf schlechte Nachrichten. Monatlich abgebucht. Automatisch verlaengert.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-11-0905-31",
+      "id": "2026-08-11-0905-30",
       "typ": "persönlich",
-      "stichwort": "fünf Tote und ein Autotest im selben Feed",
+      "stichwort": "Wasserhund hasst Wasser, Blaualgen im Thurgau",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Auf meinem Handy stehen heute fünf Tote nach russischen Luftangriffen und direkt darunter ein Test des neuen Polestar, absolut beeindruckt. Dazwischen zwei Zentimeter.",
+      "format": 2,
+      "text": "Wegen Blaualgen sind im Thurgau die Badestellen gesperrt. Mein französischer Wasserhund hasst Wasser, seit er bei uns wohnt. Endlich Rückendeckung. Von der Behörde.",
       "jury": {
         "anker": true,
         "witz": true,
-        "neu": true
+        "neu": false
       }
     }
   ]
