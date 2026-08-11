@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-11",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Zürcher*innen schleppen in der Hitze eigene Kübel zu den Stadtbäumen. Ich finde das richtig: Wer wie wir Grundwasser abpumpt, freut sich über jeden, der von Hand nachfüllt. Gratis. Nach Feierabend."
+    },
+    {
+      "id": "2026-08-11-0905-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "40 Franken Lohnerhoehung gegen zwanzig Sekunden Chefgehalt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich habe 40 Franken mehr Lohn bekommen, nach drei Wochen Bedenkzeit im Personaldienst. Ein Konzernchef mit 16 Millionen verdient das in zwanzig Sekunden. Brutto. Im Schlaf."
+    },
+    {
+      "id": "2026-08-11-0905-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Altersvorsorge mit Ruestungsaktien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Zum ersten Mal habe ich nachgeschaut, wo meine Altersvorsorge liegt. 6 Prozent Rendite, Ruestungsaktien inklusive. Mein Ruhestand ist ein Abo auf schlechte Nachrichten. Monatlich abgebucht. Automatisch verlaengert."
     }
   ]
 }
