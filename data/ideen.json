@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-11-0905-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wandern nur mit Reservation, Heli landet trotzdem",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Ich muss für einen Wanderweg am Mont Blanc künftig reservieren, weil zu viele Leute hochwollen. Der Helikopter, der Gäste auf den Gletscher setzt, braucht keine. Andere Tür. Kein Andrang."
-    },
-    {
       "id": "2026-08-11-0905-02",
       "typ": "politisch-aktuell",
       "stichwort": "Antikriegspartei weg, Flagge sanktioniert",
@@ -21,37 +11,57 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Russlands letzte Antikriegspartei wird von der Parlamentswahl ausgeschlossen. Am selben Tag darf ein russischer Turner an der EM starten, nur seine Flagge nicht. Europa sanktioniert zuverlässig den Stoff. Polyester. Streng verboten."
+      "text": "Russlands letzte Antikriegspartei wird von der Parlamentswahl ausgeschlossen. Am selben Tag darf ein russischer Turner an der EM starten, nur seine Flagge nicht. Europa sanktioniert zuverlässig den Stoff. Polyester. Streng verboten.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-11-0905-23",
+      "id": "2026-08-11-0905-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Bund verhandelt Wasser, Klimakrise arbeitet für uns",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich verhandle für den Bund über Wasser, weil Italien und Frankreich keins mehr haben. Endlich ein Rohstoff, bei dem die Klimakrise für uns arbeitet. Preis nach Nachfrage."
-    },
-    {
-      "id": "2026-08-11-0905-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Stadtbäume von Hand giessen, Konzern pumpt weiter",
+      "stichwort": "Pensionskasse liegt in Rüstungsaktien",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Zürcher*innen schleppen in der Hitze eigene Kübel zu den Stadtbäumen. Ich finde das richtig: Wer wie wir Grundwasser abpumpt, freut sich über jeden, der von Hand nachfüllt. Gratis. Nach Feierabend."
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich zahle 640 Franken im Monat in die Pensionskasse und habe nachgelesen, wo das Geld liegt: unter anderem in Rüstungsaktien. Meine Rente ist ein Waffengeschäft. Steuerlich begünstigt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-11-0905-25",
+      "id": "2026-08-11-0905-06",
       "typ": "politisch-aktuell",
-      "stichwort": "40 Franken Lohnerhoehung gegen zwanzig Sekunden Chefgehalt",
+      "stichwort": "648 Jahre Miete oder ein Chefjahr",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 19,
-      "text": "Ich habe 40 Franken mehr Lohn bekommen, nach drei Wochen Bedenkzeit im Personaldienst. Ein Konzernchef mit 16 Millionen verdient das in zwanzig Sekunden. Brutto. Im Schlaf."
+      "text": "Für meine Dreizimmerwohnung zahle ich 1'800 Franken im Monat. Mit dem Jahreslohn eines Grossbankchefs könnte ich sie 648 Jahre mieten. Ich wohne seit dem Mittelalter. Er arbeitet seit Januar.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-08-11-0905-12",
+      "typ": "persönlich",
+      "stichwort": "Schwitzen als Fitnessnachweis im Regionalzug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Laut Sportmedizin heisst viel Schwitzen gut trainiert und nicht untrainiert. Damit bin ich der fitteste Mann im Regionalzug, 40 Minuten lang, bei geschlossenem Fenster. Endlich Anerkennung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-11-0905-26",
@@ -61,7 +71,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Zum ersten Mal habe ich nachgeschaut, wo meine Altersvorsorge liegt. 6 Prozent Rendite, Ruestungsaktien inklusive. Mein Ruhestand ist ein Abo auf schlechte Nachrichten. Monatlich abgebucht. Automatisch verlaengert."
+      "text": "Zum ersten Mal habe ich nachgeschaut, wo meine Altersvorsorge liegt. 6 Prozent Rendite, Ruestungsaktien inklusive. Mein Ruhestand ist ein Abo auf schlechte Nachrichten. Monatlich abgebucht. Automatisch verlaengert.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-11-0905-31",
+      "typ": "persönlich",
+      "stichwort": "fünf Tote und ein Autotest im selben Feed",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Auf meinem Handy stehen heute fünf Tote nach russischen Luftangriffen und direkt darunter ein Test des neuen Polestar, absolut beeindruckt. Dazwischen zwei Zentimeter.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
