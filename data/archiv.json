@@ -7659,6 +7659,70 @@
         "neu": false
       },
       "datum": "2026-08-10"
+    },
+    {
+      "id": "2026-08-11-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "halbe Billion für KI, sonst Löhne",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es richtig, dass die Wall Street eine halbe Billion Dollar für KI einsammelt. Sonst müsste am Ende noch jemand Löhne zahlen. Jeden Monat. Mit Sozialabgaben.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-11"
+    },
+    {
+      "id": "2026-08-11-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "elf Jahre Miete, sein Termin bei der Bank 2009",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe in elf Jahren Miete eine Wohnung abbezahlt. Sie gehört dem Mann, der 2009 einen Termin bei der Bank hatte. Gestrichen habe ich zweimal. Selber.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-11"
+    },
+    {
+      "id": "2026-08-11-0757-11",
+      "typ": "persönlich",
+      "stichwort": "20 Minuten Sicherheitskontrolle, Trump im Catering-Wagen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Am Flughafen stehe ich seit 20 Minuten in der Sicherheitskontrolle und muss meine Zahnpasta rechtfertigen. Trump wurde nach dem NATO-Gipfel im Catering-Wagen aus seinem Jet geschleust. Ungescannt. Zwischen den Sandwiches.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      },
+      "datum": "2026-08-11"
+    },
+    {
+      "id": "2026-08-11-0757-29",
+      "typ": "remix",
+      "stichwort": "Italiens Hitzeantwort: Einladung ins Kino",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich sass gestern bei 34 Grad im Kino, weil es dort kühl ist. In Italien ist genau das die Regierungsantwort auf die Hitzetoten: Einladungen ins Kino. Klimatisiert. Zwei Stunden.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-11"
     }
   ]
 }

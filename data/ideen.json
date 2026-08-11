@@ -1,67 +1,27 @@
 {
   "datum": "2026-08-11",
-  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 4 statt 6.",
-  "fertig": true,
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-11-0757-03",
+      "id": "2026-08-11-0905-01",
       "typ": "politisch-aktuell",
-      "stichwort": "halbe Billion für KI, sonst Löhne",
+      "stichwort": "Wandern nur mit Reservation, Heli landet trotzdem",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Ich muss für einen Wanderweg am Mont Blanc künftig reservieren, weil zu viele Leute hochwollen. Der Helikopter, der Gäste auf den Gletscher setzt, braucht keine. Andere Tür. Kein Andrang."
+    },
+    {
+      "id": "2026-08-11-0905-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Antikriegspartei weg, Flagge sanktioniert",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich finde es richtig, dass die Wall Street eine halbe Billion Dollar für KI einsammelt. Sonst müsste am Ende noch jemand Löhne zahlen. Jeden Monat. Mit Sozialabgaben.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-11-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "elf Jahre Miete, sein Termin bei der Bank 2009",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe in elf Jahren Miete eine Wohnung abbezahlt. Sie gehört dem Mann, der 2009 einen Termin bei der Bank hatte. Gestrichen habe ich zweimal. Selber.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-11-0757-11",
-      "typ": "persönlich",
-      "stichwort": "20 Minuten Sicherheitskontrolle, Trump im Catering-Wagen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Am Flughafen stehe ich seit 20 Minuten in der Sicherheitskontrolle und muss meine Zahnpasta rechtfertigen. Trump wurde nach dem NATO-Gipfel im Catering-Wagen aus seinem Jet geschleust. Ungescannt. Zwischen den Sandwiches.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-11-0757-29",
-      "typ": "remix",
-      "stichwort": "Italiens Hitzeantwort: Einladung ins Kino",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich sass gestern bei 34 Grad im Kino, weil es dort kühl ist. In Italien ist genau das die Regierungsantwort auf die Hitzetoten: Einladungen ins Kino. Klimatisiert. Zwei Stunden.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "format": 18,
+      "text": "Russlands letzte Antikriegspartei wird von der Parlamentswahl ausgeschlossen. Am selben Tag darf ein russischer Turner an der EM starten, nur seine Flagge nicht. Europa sanktioniert zuverlässig den Stoff. Polyester. Streng verboten."
     }
   ]
 }
