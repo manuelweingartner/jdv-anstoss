@@ -24,6 +24,36 @@
       "text": "Gute Nachricht für den Weltfussball: Trump stellt sich hinter Infantino. Alle 211 Mitgliedsverbände bleiben völlig frei in ihrer Wahl, das hat der US-Präsident persönlich angeordnet. Einstimmig."
     },
     {
+      "id": "2026-08-11-0757-10",
+      "typ": "persönlich",
+      "stichwort": "Drei Seen mit Blaualgen, Wasserabkommen mit Italien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich fahre mit meinem Wasserhund an drei Seen, überall Blaualgen. Am selben Tag verhandelt der Bund mit Italien und Frankreich, wem das Wasser gehört. Mein Hund hasst Wasser. Er hat gewonnen."
+    },
+    {
+      "id": "2026-08-11-0757-11",
+      "typ": "persönlich",
+      "stichwort": "20 Minuten Sicherheitskontrolle, Trump im Catering-Wagen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Am Flughafen stehe ich seit 20 Minuten in der Sicherheitskontrolle und muss meine Zahnpasta rechtfertigen. Trump wurde nach dem NATO-Gipfel im Catering-Wagen aus seinem Jet geschleust. Ungescannt. Zwischen den Sandwiches."
+    },
+    {
+      "id": "2026-08-11-0757-12",
+      "typ": "persönlich",
+      "stichwort": "Mietsenkung verlangt, der Markt ist ein Mann mit vier Häusern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Ich habe eine Mietsenkung verlangt, weil die Zinsen seit zwei Jahren fallen. Die Verwaltung schreibt, der Markt gebe das nicht her. Der Markt ist ein Mann mit vier Häusern."
+    },
+    {
       "id": "2026-08-11-0757-21",
       "typ": "politisch-aktuell",
       "stichwort": "Hitze-Notfälle und der Gemüsetipp am selben Tag",
@@ -32,36 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Zürich meldet wegen der Hitze mehr Herz-Kreislauf-Notfälle. Am selben Tag erklärt mir eine Zeitung, welches Gemüse bei 36 Grad noch verdaulich ist. Gurke. 96 Prozent Wasser."
-    },
-    {
-      "id": "2026-08-11-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Meloni und Frederiksen hetzen im Reel-Format",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich öffne Instagram, und zwischen zwei Rezeptvideos erklären mir Meloni und Frederiksen, dass Migrant*innen das christliche Abendland bedrohen. Zwei Regierungschefinnen. Ein Reel. Kein Faktencheck."
-    },
-    {
-      "id": "2026-08-11-0757-28",
-      "typ": "schnittmenge",
-      "stichwort": "Mont Blanc: Reservation zu Fuss, Anruf per Helikopter",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Am Mont Blanc soll Wandern bald nur noch mit Reservation gehen, zu viele Leute. Für den Helikopter auf dieselben 4'808 Meter reicht weiterhin ein Anruf am Vortag."
-    },
-    {
-      "id": "2026-08-11-0757-29",
-      "typ": "remix",
-      "stichwort": "Italiens Hitzeantwort: Einladung ins Kino",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich sass gestern bei 34 Grad im Kino, weil es dort kühl ist. In Italien ist genau das die Regierungsantwort auf die Hitzetoten: Einladungen ins Kino. Klimatisiert. Zwei Stunden."
     }
   ]
 }
