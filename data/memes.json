@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-11T08:08:54+02:00",
+  "stand": "2026-08-11T20:47:38+02:00",
   "vorschlaege": [
     {
       "vorlage": "drake",
@@ -43,13 +43,13 @@
       "bild": "vorschlag-4.jpg"
     },
     {
-      "vorlage": "harold",
-      "name": "Hide the Pain Harold",
+      "vorlage": "ignoriert",
+      "name": "Sleeping Shaq",
       "zeilen": [
-        "Russland turnt ohne Flagge",
-        "Punkte zählen trotzdem"
+        "Dritter Hitzesommer in Serie",
+        "Tempo 30 im Quartier"
       ],
-      "warum": "weil die brave Auskunft die Regel erfüllt und der Schmerz darunter die Wirkungslosigkeit ist",
+      "warum": "die Figur zeigt genau die Umfrage: kalt bleiben beim Klima, hellwach bei der kleinsten Zumutung",
       "bild": "vorschlag-5.jpg"
     },
     {
