@@ -1,112 +1,106 @@
 {
-  "stand": "2026-08-10T22:28:21+02:00",
+  "stand": "2026-08-11T08:08:54+02:00",
   "vorschlaege": [
     {
       "vorlage": "drake",
       "name": "Drake Hotline Bling",
       "zeilen": [
-        "Vermögen über zehn Millionen",
-        "Kasse des Turnvereins"
+        "Air Force One",
+        "Catering-Wagen mit Sichtschutz"
       ],
-      "warum": "Klingbeils Entwurf verwirft das Naheliegende und greift beim Kleinsten zu, genau die Drake-Bewegung",
+      "warum": "weil die Figur das Ausschlagen des Naheliegenden zeigt und der Catering-Wagen als bewusste Wahl schlimmer wirkt als die Maschine",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "knoepfe",
       "name": "Two Buttons",
       "zeilen": [
-        "Trumps Plan zustimmen",
-        "Wahlkampf rechts aussen",
-        "Netanjahu"
+        "Wasser an Italien",
+        "Wasser an Frankreich",
+        "Der Bundesrat"
       ],
-      "warum": "beide Knöpfe schliessen sich nicht aus, aber vor der Wahl wird das Zögern selbst zur Politik",
+      "warum": "weil das Schwitzen vor zwei Knöpfen genau die Verhandlungslage beschreibt, in der beides gleichzeitig verlangt wird",
       "bild": "vorschlag-2.jpg"
     },
     {
-      "vorlage": "freund",
-      "name": "Distracted Boyfriend",
+      "vorlage": "immer",
+      "name": "Always Has Been",
       "zeilen": [
-        "Mind the gap, please",
-        "SBB-Durchsagen",
-        "Vier Landessprachen"
+        "Russland wählt ein Parlament?",
+        "War immer schon entschieden"
       ],
-      "warum": "eine Institution schaut dem Neuen nach und lässt ihr eigenes Versprechen auf dem Perron sitzen",
+      "warum": "weil der Ausschluss von Jabloko nichts Neues enthüllt, sondern nur den Dauerzustand sichtbar macht",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "skelett",
+      "name": "Waiting Skeleton",
       "zeilen": [
-        "Zwei Rekordsommer sind kein Wetter"
+        "Günstige Drohne aus Europa",
+        "seit 2022"
       ],
-      "warum": "eine These, die um Widerspruch bittet und keinen bekommen kann, weil die Messreihen sie stützen",
+      "warum": "weil das Warten selbst die Aussage ist und die europäische Produktion seither angekündigt bleibt",
       "bild": "vorschlag-4.jpg"
     },
     {
-      "vorlage": "abzweigung",
-      "name": "Left Exit 12 Off Ramp",
+      "vorlage": "harold",
+      "name": "Hide the Pain Harold",
       "zeilen": [
-        "Maut in der Strasse von Hormus",
-        "Deeskalation",
-        "Teheran"
+        "Russland turnt ohne Flagge",
+        "Punkte zählen trotzdem"
       ],
-      "warum": "der vernünftige Weg lag offen da, gelenkt wird in letzter Sekunde auf die Gebührenspur",
+      "warum": "weil die brave Auskunft die Regel erfüllt und der Schmerz darunter die Wirkungslosigkeit ist",
       "bild": "vorschlag-5.jpg"
+    },
+    {
+      "vorlage": "feuer",
+      "name": "This Is Fine",
+      "zeilen": [
+        "Alpen ohne Wasser im Juli",
+        "Rösti sieht keinen Handlungsbedarf"
+      ],
+      "warum": "weil hier eine sichtbar ausser Kontrolle geratene Lage zur Normallage erklärt wird, gegen den eigenen Parteikollegen",
+      "bild": "vorschlag-6.jpg"
+    },
+    {
+      "vorlage": "aliens",
+      "name": "Ancient Aliens",
+      "zeilen": [
+        "Warum bleibt Infantino Fifa-Chef?",
+        "Reine Sachkompetenz"
+      ],
+      "warum": "weil die offensichtliche Ursache übergangen und mit voller Überzeugung durch die harmloseste Erklärung ersetzt wird",
+      "bild": "vorschlag-7.jpg"
+    },
+    {
+      "vorlage": "oprah",
+      "name": "Oprah You Get A",
+      "zeilen": [
+        "Nvidia und die Wall Street",
+        "Für jeden ein Rechenzentrum"
+      ],
+      "warum": "weil eine halbe Billion verteilt wird an alle, ohne dass jemand danach gefragt hat",
+      "bild": "vorschlag-8.jpg"
+    },
+    {
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
+      "zeilen": [
+        "Berg zu voll",
+        "Besucherlenkung mit Reservationspflicht"
+      ],
+      "warum": "weil dieselbe Sache einmal schlicht und einmal vornehm benannt wird und der Euphemismus die Pointe trägt",
+      "bild": "vorschlag-9.jpg"
     },
     {
       "vorlage": "handschlag",
       "name": "Epic Handshake",
       "zeilen": [
-        "Kreml",
-        "Oberstes Gericht",
-        "Opposition von der Wahl streichen"
+        "Erdogan",
+        "PKK",
+        "Amnestie für die eigenen Leute"
       ],
-      "warum": "zwei formal getrennte Gewalten, in genau einer Sache vollkommen einig",
-      "bild": "vorschlag-6.jpg"
-    },
-    {
-      "vorlage": "gehirn",
-      "name": "Expanding Brain",
-      "zeilen": [
-        "Spesen falsch abgerechnet",
-        "Privatkäufe als Firmenstrategie",
-        "Das Gericht ist nicht zuständig",
-        "Strafrecht gilt nicht für Bankchefs"
-      ],
-      "warum": "der Berufungsprozess liefert die Eskalationsleiter einer Rechtfertigung, die mit jeder Stufe selbstbewusster wird",
-      "bild": "vorschlag-7.jpg"
-    },
-    {
-      "vorlage": "angebot",
-      "name": "Trade Offer",
-      "zeilen": [
-        "Wir kürzen die Hilfsprojekte",
-        "Ihr bleibt bitte stabil"
-      ],
-      "warum": "ein Tauschangebot, bei dem nur eine Seite etwas zu verlieren hat",
-      "bild": "vorschlag-8.jpg"
-    },
-    {
-      "vorlage": "doge",
-      "name": "Buff Doge vs. Cheems",
-      "zeilen": [
-        "Mutter aller Parlamente",
-        "Westminster-Debatten",
-        "Farage im Wahlkampf",
-        "Gegner mit Mülltonne auf dem Kopf"
-      ],
-      "warum": "das behauptete stolze Früher gegen ein Heute, das sich selbst nicht mehr ernst nehmen kann",
-      "bild": "vorschlag-9.jpg"
-    },
-    {
-      "vorlage": "glocke",
-      "name": "Bell Curve",
-      "zeilen": [
-        "Brille mit CE-Zeichen",
-        "Geschweisstes Glas und Handykamera",
-        "Brille mit CE-Zeichen"
-      ],
-      "warum": "die Ränder sagen unabhängig dasselbe Einfache, nur die Mitte bastelt sich eine Methode",
+      "warum": "weil zwei verfeindete Lager ausgerechnet in dem Punkt zusammenfinden, der beiden nützt",
       "bild": "vorschlag-10.jpg"
     }
   ]
