@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-12",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-12-0817-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Autokonzern begrüsst das Ende der E-Auto-Prämie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Als Autokonzern finde ich es richtig, dass die E-Auto-Prämie fällt, weil vor allem Tesla sie kassiert. Wir haben zehn Jahre lang kein bezahlbares Modell gebaut. Ganz ohne Förderung."
+    },
+    {
+      "id": "2026-08-12-0817-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "EU verbucht Ladenschliessungen als Klimaerfolg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Gute Nachricht: Die EU macht den Onlineversand nachhaltiger. Kleine Shops geben auf, Amazon liefert weiter. Wir verbuchen jede Geschäftsaufgabe als eingespartes Paket."
+    },
     {
       "id": "2026-08-12-0817-08",
       "typ": "schnittmenge",
