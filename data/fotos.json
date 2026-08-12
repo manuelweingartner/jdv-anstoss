@@ -1,64 +1,59 @@
 {
-  "stand": "2026-08-12T08:25:53+02:00",
-  "lauf": "0825",
+  "stand": "2026-08-12T17:00:54+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0825-1",
-      "titel": "Erste Medaille da! Simon Ehammer springt zu EM-Silber",
-      "was": "Simon Ehammer jubelt in der Grube, Arme hoch, Kamerablitze",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: kollektiver Nationaljubel für Silber gegen die halbleeren Ränge im Hintergrund.",
+      "id": "1700-1",
+      "titel": "Sonnenfinsternis-Hype in Spanien: Schlafbrille für Eklipseverächter",
+      "was": "Menschenmengen mit Pappbrillen starren gemeinsam in den verdunkelten Himmel",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: kollektive Andacht für zwei Minuten Dunkelheit gegen die Dinge, für die dieselben Leute nicht vor die Tür gehen.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "20 Minuten",
+      "quelle": "taz",
       "auch_bei": [
-        "SRF",
-        "Watson"
+        "NZZ"
       ],
-      "artikel": "https://www.20min.ch/story/leichtathletik-em-erste-medaille-da-simon-ehammer-springt-zu-em-silber-103616329",
-      "bild": "https://image.20min.ch/2026/08/11/fac68915-ef78-4ea4-877a-9de25525f2f2.jpg?s=3f54f342d3c1d0b39bd684e2f04b2e54",
-      "zeit": "2026-08-11T22:41+02:00"
+      "artikel": "https://taz.de/Sonnenfinsternis-Hype-in-Spanien/!6203863/",
+      "bild": "https://taz.de/picture/8669146/948/41842642.jpeg",
+      "zeit": "2026-08-12T16:38+02:00"
     },
     {
-      "id": "0825-2",
-      "titel": "INTERVIEW - Noch keine Brille, aber trotzdem Lust auf Sonnenfinsternis? Ein Augenarzt erklärt die Folgen von kurzen Blicken in die Sonne und sagt: «Das lässt sich nicht beheben»",
-      "was": "Menschen mit Pappbrillen starren gemeinsam in den Himmel",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: der geübte Blick nach oben gegen das Wegschauen bei allem auf Augenhöhe.",
+      "id": "1700-2",
+      "titel": "Höchstens ein Bundesratslohn – Bundesrat will Lohndeckel für Krankenkassen-Kader",
+      "was": "Bundesrat am Rednerpult vor Wappen, Medienkonferenz zum Lohndeckel",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: der Bundesratslohn als Obergrenze gegen die Prämienrechnung derselben Haushalte.",
       "grund": "breit",
-      "raum": "",
-      "quelle": "NZZ",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [
-        "SRF",
         "Watson"
       ],
-      "artikel": "https://www.nzz.ch/wissenschaft/noch-keine-brille-aber-trotzdem-lust-auf-sonnenfinsternis-ein-augenarzt-erklaert-die-folgen-von-kurzen-blicken-in-die-sonne-und-sagt-das-laesst-sich-nicht-beheben-ld.10019113",
-      "bild": "https://img-msp-prod.nzz.ch/2026/08/11/9f70b84f-c5fb-4314-81fe-a41072813680.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2964,2964,x282,y185",
-      "zeit": "2026-08-12T05:30+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/hoechstens-ein-bundesratslohn-bundesrat-will-lohndeckel-fuer-krankenkassen-kader",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/65a57ea.jpg",
+      "zeit": "2026-08-12T14:29+02:00"
     },
     {
-      "id": "0825-3",
-      "titel": "USA: Gericht blockiert landesweit die verschärften Briefwahlregeln von Donald Trump",
-      "was": "USA: Gericht blockiert landesweit die verschärften Briefwahlregeln von Donald Trump",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Brauchtumspflege im Ortsprospekt gegen Landschaftsverbauung im Einsprachebrief.",
-      "grund": "breit",
+      "id": "1700-3",
+      "titel": "Fifa-Präsident in der Kritik – Der Schamlose: Wie Infantino über sein Erfolgsprinzip stolperte",
+      "was": "Infantino mit Pokal, Handschlag und breitem Grinsen bei Fifa-Auftritt",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: das Selbstbild als Wohltäter des Weltfussballs gegen die Pose, die er dabei für die Kameras hält.",
+      "grund": "memetauglich",
       "raum": "weltweit",
-      "quelle": "Spiegel",
-      "auch_bei": [
-        "Tagesschau",
-        "Watson"
-      ],
-      "artikel": "https://www.spiegel.de/ausland/usa-gericht-blockiert-landesweit-die-verschaerften-briefwahlregeln-von-donald-trump-a-b5dc6dfb-6a42-433f-9ccd-d2c3c2652b20#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/068e53e1-2037-4855-b0a3-626ef1ebf614_w520_r2.08_fpx47_fpy49.jpg",
-      "zeit": "2026-08-12T07:23+02:00"
+      "quelle": "SRF",
+      "auch_bei": [],
+      "artikel": "https://www.srf.ch/news/international/fifa-praesident-in-der-kritik-der-schamlose-wie-infantino-ueber-sein-erfolgsprinzip-stolperte",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/6436433.jpg",
+      "zeit": "2026-08-12T13:12+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 19:00",
-      "was": "Schweizer Leichtathletinnen und Leichtathleten im Wettkampf und bei der Siegerehrung in Birmingham"
+      "wann": "heute ab etwa 19:00",
+      "was": "Zuschauermassen mit Papierbrillen, alle im gleichen Winkel nach oben, dazu Politik und Prominenz beim Mitstarren"
     },
     {
-      "wann": "heute am Nachmittag",
-      "was": "Menschentrauben mit Schutzbrillen auf Plätzen und Dächern während der Sonnenfinsternis"
+      "wann": "heute Abend",
+      "was": "Schweizer Leichtathleten an der EM in Jubel- oder Verzweiflungspose im Zielraum"
     }
   ],
   "hinweis": ""
