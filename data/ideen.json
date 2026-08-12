@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-12",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-12-0817-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Flüsse ausbauen, obwohl das Wasser fehlt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Tiefe Flusspegel in der Schweiz, nur der Solarstrom verhindert die Stromlücke. Deutschlands Verkehrsminister will in derselben Woche die Flüsse ausbauen. Breiter. Damit mehr Nichts durchpasst."
+    },
+    {
+      "id": "2026-08-12-0817-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "140 Franken Pass gegen unkontrollierte Migration",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Ich habe 140 Franken für einen neuen Pass bezahlt. Meloni und Frederiksen nennen alles, was ohne dieses Heft ankommt, unkontrollierte Migration. Kontrolle heisst hier: Einzahlungsschein. Drei Wochen Wartezeit."
+    },
     {
       "id": "2026-08-12-0817-03",
       "typ": "politisch-aktuell",
