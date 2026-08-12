@@ -7723,6 +7723,86 @@
         "witz": true
       },
       "datum": "2026-08-11"
+    },
+    {
+      "id": "2026-08-11-0905-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Antikriegspartei weg, Flagge sanktioniert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Russlands letzte Antikriegspartei wird von der Parlamentswahl ausgeschlossen. Am selben Tag darf ein russischer Turner an der EM starten, nur seine Flagge nicht. Europa sanktioniert zuverlässig den Stoff. Polyester. Streng verboten.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-11"
+    },
+    {
+      "id": "2026-08-11-0905-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pensionskasse liegt in Rüstungsaktien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich zahle 640 Franken im Monat in die Pensionskasse und habe nachgelesen, wo das Geld liegt: unter anderem in Rüstungsaktien. Meine Rente ist ein Waffengeschäft. Steuerlich begünstigt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-11"
+    },
+    {
+      "id": "2026-08-11-0905-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "648 Jahre Miete oder ein Chefjahr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Für meine Dreizimmerwohnung zahle ich 1'800 Franken im Monat. Mit dem Jahreslohn eines Grossbankchefs könnte ich sie 648 Jahre mieten. Ich wohne seit dem Mittelalter. Er arbeitet seit Januar.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-08-11"
+    },
+    {
+      "id": "2026-08-11-0905-12",
+      "typ": "persönlich",
+      "stichwort": "Schwitzen als Fitnessnachweis im Regionalzug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Laut Sportmedizin heisst viel Schwitzen gut trainiert und nicht untrainiert. Damit bin ich der fitteste Mann im Regionalzug, 40 Minuten lang, bei geschlossenem Fenster. Endlich Anerkennung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-11"
+    },
+    {
+      "id": "2026-08-11-0905-30",
+      "typ": "persönlich",
+      "stichwort": "Wasserhund hasst Wasser, Blaualgen im Thurgau",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Wegen Blaualgen sind im Thurgau die Badestellen gesperrt. Mein französischer Wasserhund hasst Wasser, seit er bei uns wohnt. Endlich Rückendeckung. Von der Behörde.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-08-11"
     }
   ]
 }
