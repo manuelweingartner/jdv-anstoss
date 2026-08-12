@@ -44,24 +44,24 @@
       "text": "Gute Nachricht: Die EU macht den Onlineversand nachhaltiger. Kleine Shops geben auf, Amazon liefert weiter. Wir verbuchen jede Geschäftsaufgabe als eingespartes Paket."
     },
     {
-      "id": "2026-08-12-0817-08",
-      "typ": "schnittmenge",
-      "stichwort": "40 Grad im Zug gegen 40 Grad im Serverraum",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Bei 40 Grad im Zug wird geprüft. Bei 40 Grad im Serverraum steht nach zwölf Minuten ein Techniker davor."
-    },
-    {
-      "id": "2026-08-12-0817-09",
-      "typ": "remix",
-      "stichwort": "Gartenzaunstreit gegen Besitzanspruch auf Hormus",
+      "id": "2026-08-12-0817-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schwarzfahren angezeigt, Selbstanzeige straffrei",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich streite seit drei Jahren mit der Nachbarin über zwei Quadratmeter Gartenzaun. Trump sagt vor Reportern, die Strasse von Hormus gehöre ihm. Ohne Grundbuchauszug."
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Ohne Ticket kostet mich der Zug 100 Franken Zuschlag plus Anzeige. Unversteuerte Millionen kosten eine Selbstanzeige, danach ist der Fall erledigt. Straffrei. Rückwirkend."
+    },
+    {
+      "id": "2026-08-12-0817-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Artilleriegranate gleich zwanzig Therapiestunden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "3'000 Franken kostet eine einzige Artilleriegranate, das sind zwanzig Therapiestunden für jemanden, der den Krieg überlebt hat. Die Granate kommt ohne Antrag."
     }
   ]
 }
