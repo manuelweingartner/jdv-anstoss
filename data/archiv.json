@@ -7803,6 +7803,102 @@
         "neu": false
       },
       "datum": "2026-08-11"
+    },
+    {
+      "id": "2026-08-12-0817-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Autokonzern begrüsst das Ende der E-Auto-Prämie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Als Autokonzern finde ich es richtig, dass die E-Auto-Prämie fällt, weil vor allem Tesla sie kassiert. Wir haben zehn Jahre lang kein bezahlbares Modell gebaut. Ganz ohne Förderung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-12"
+    },
+    {
+      "id": "2026-08-12-0817-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "EU verbucht Ladenschliessungen als Klimaerfolg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Gute Nachricht: Die EU macht den Onlineversand nachhaltiger. Kleine Shops geben auf, Amazon liefert weiter. Wir verbuchen jede Geschäftsaufgabe als eingespartes Paket.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-12"
+    },
+    {
+      "id": "2026-08-12-0817-08",
+      "typ": "schnittmenge",
+      "stichwort": "40 Grad im Zug gegen 40 Grad im Serverraum",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Bei 40 Grad im Zug wird geprüft. Bei 40 Grad im Serverraum steht nach zwölf Minuten ein Techniker davor.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-08-12"
+    },
+    {
+      "id": "2026-08-12-0817-09",
+      "typ": "remix",
+      "stichwort": "Gartenzaunstreit gegen Besitzanspruch auf Hormus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich streite seit drei Jahren mit der Nachbarin über zwei Quadratmeter Gartenzaun. Trump sagt vor Reportern, die Strasse von Hormus gehöre ihm. Ohne Grundbuchauszug.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-12"
+    },
+    {
+      "id": "2026-08-12-0817-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Care-Arbeit gratis, sonst kommt die Rechnung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Beruhigend, dass Care-Arbeit gratis bleibt. Bezahlten wir sie, käme eine Rechnung über 40 Jahre Vollzeit. Mit Zins. Rückwirkend. Und mit Rentenanspruch.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-12"
+    },
+    {
+      "id": "2026-08-12-0817-31",
+      "typ": "persönlich",
+      "stichwort": "Tochter rechnet Selbstversorgung in Kalorien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Beim Einkaufen erklärte ich meiner Tochter, dass die Schweiz ihre Selbstversorgung in Kalorien misst, Ziel 70 Prozent. Sie kauft jetzt Vollrahm. Zwei Deziliter. Für die Landesversorgung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-12"
     }
   ]
 }
