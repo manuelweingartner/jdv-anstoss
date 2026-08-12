@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-13",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich als Versicherer finde es richtig, dass Russland Handelsschiffe bedroht: Kriegsrisiko ist der einzige Zuschlag, den niemand verhandelt. Prämie steigt. Route bleibt."
+    },
+    {
+      "id": "2026-08-13-0156-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schulstart bei 38 Grad, Chancengleichheit nach Himmelsrichtung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe der Tochter zum Schulstart einen Ventilator eingepackt, weil das Klassenzimmer 38 Grad hat. Chancengleichheit hängt jetzt an der Himmelsrichtung. Nordseite. Zweiter Stock."
+    },
+    {
+      "id": "2026-08-13-0156-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bild sieht im reservierten Schwimmbad den Skandal, nicht im Mordprozess",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Weil ein Berliner Bad einen Mittag für Schwarze reserviert, sieht die Bild Weisse diskriminiert. In derselben Woche steht eine rechtsextreme Gruppe wegen versuchten Mordes vor Gericht. Der Skandal war das Bad."
     },
     {
       "id": "2026-08-13-0156-28",
