@@ -1,56 +1,64 @@
 {
-  "stand": "2026-08-11T17:00:55+02:00",
-  "lauf": "1700",
+  "stand": "2026-08-12T08:25:53+02:00",
+  "lauf": "0825",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "«Vegan-Zwang?»: Parmelin startet Kampf gegen Ernährungsinitiative",
-      "was": "Parmelin am Rednerpult, daneben Gemüse und Fleisch als Anschauungsmaterial",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: der Bundesrat als Verteidiger der freien Tellerwahl gegen eine Landwirtschaft, die er seit Jahrzehnten selbst lenkt.",
+      "id": "0825-1",
+      "titel": "Erste Medaille da! Simon Ehammer springt zu EM-Silber",
+      "was": "Simon Ehammer jubelt in der Grube, Arme hoch, Kamerablitze",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: kollektiver Nationaljubel für Silber gegen die halbleeren Ränge im Hintergrund.",
       "grund": "breit",
-      "raum": "schweiz",
+      "raum": "weltweit",
       "quelle": "20 Minuten",
       "auch_bei": [
         "SRF",
         "Watson"
       ],
-      "artikel": "https://www.20min.ch/story/medienkonferenz-vegan-zwang-parmelin-startet-kampf-gegen-ernaehrungsinitiative-103615968",
-      "bild": "https://image.20min.ch/2026/08/11/3deaed84-c1e8-4527-84cf-442cedee1600.jpg?s=bcab2ab65dcf669aa3abf1405c40d117",
-      "zeit": "2026-08-11T14:45+02:00"
+      "artikel": "https://www.20min.ch/story/leichtathletik-em-erste-medaille-da-simon-ehammer-springt-zu-em-silber-103616329",
+      "bild": "https://image.20min.ch/2026/08/11/fac68915-ef78-4ea4-877a-9de25525f2f2.jpg?s=3f54f342d3c1d0b39bd684e2f04b2e54",
+      "zeit": "2026-08-11T22:41+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Dressurreiten: Isabell Werth kritisiert Debattenkultur im Netz scharf",
-      "was": "Dressurreiterin im Frack auf dem Pferd, streng frisiert, Turniergeviert",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Ruf nach besserer Debattenkultur gegen das einzige Wesen im Bild, das nichts sagen darf.",
+      "id": "0825-2",
+      "titel": "INTERVIEW - Noch keine Brille, aber trotzdem Lust auf Sonnenfinsternis? Ein Augenarzt erklärt die Folgen von kurzen Blicken in die Sonne und sagt: «Das lässt sich nicht beheben»",
+      "was": "Menschen mit Pappbrillen starren gemeinsam in den Himmel",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: der geübte Blick nach oben gegen das Wegschauen bei allem auf Augenhöhe.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "SRF",
+        "Watson"
+      ],
+      "artikel": "https://www.nzz.ch/wissenschaft/noch-keine-brille-aber-trotzdem-lust-auf-sonnenfinsternis-ein-augenarzt-erklaert-die-folgen-von-kurzen-blicken-in-die-sonne-und-sagt-das-laesst-sich-nicht-beheben-ld.10019113",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/11/9f70b84f-c5fb-4314-81fe-a41072813680.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2964,2964,x282,y185",
+      "zeit": "2026-08-12T05:30+02:00"
+    },
+    {
+      "id": "0825-3",
+      "titel": "USA: Gericht blockiert landesweit die verschärften Briefwahlregeln von Donald Trump",
+      "was": "USA: Gericht blockiert landesweit die verschärften Briefwahlregeln von Donald Trump",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Brauchtumspflege im Ortsprospekt gegen Landschaftsverbauung im Einsprachebrief.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
+        "Tagesschau",
         "Watson"
       ],
-      "artikel": "https://www.spiegel.de/sport/dressurreiten-isabell-werth-kritisiert-debattenkultur-im-netz-scharf-a-20e635eb-834d-483d-9c53-af177069381a#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/2ab3873c-c594-4500-9a82-faba301c53f7_w520_r2.08_fpx47.32_fpy45.jpg",
-      "zeit": "2026-08-11T13:41+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Nato-Gipfel in Ankara – Medien: Trump heimlich im Catering-Wagen aus Jet geschleust",
-      "was": "Catering-Wagen am Präsidentenjet auf dem Rollfeld, Personenschützer daneben",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Weltmacht-Auftritt beim Gipfel gegen Abgang im Servicewagen.",
-      "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "SRF",
-      "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/nato-gipfel-in-ankara-medien-trump-heimlich-im-catering-wagen-aus-jet-geschleust",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/4a85bc.jpg",
-      "zeit": "2026-08-11T08:03+02:00"
+      "artikel": "https://www.spiegel.de/ausland/usa-gericht-blockiert-landesweit-die-verschaerften-briefwahlregeln-von-donald-trump-a-b5dc6dfb-6a42-433f-9ccd-d2c3c2652b20#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/068e53e1-2037-4855-b0a3-626ef1ebf614_w520_r2.08_fpx47_fpy49.jpg",
+      "zeit": "2026-08-12T07:23+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute abends",
-      "was": "Abendsession der Leichtathletik-EM: Zieleinlauf und Jubel oder Zusammenbruch der Läuferinnen über 800 m"
+      "wann": "heute ab 19:00",
+      "was": "Schweizer Leichtathletinnen und Leichtathleten im Wettkampf und bei der Siegerehrung in Birmingham"
+    },
+    {
+      "wann": "heute am Nachmittag",
+      "was": "Menschentrauben mit Schutzbrillen auf Plätzen und Dächern während der Sonnenfinsternis"
     }
   ],
   "hinweis": ""
