@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-13",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich als Versicherer finde es richtig, dass Russland Handelsschiffe bedroht: Kriegsrisiko ist der einzige Zuschlag, den niemand verhandelt. Prämie steigt. Route bleibt."
+    },
+    {
+      "id": "2026-08-13-0156-28",
+      "typ": "schnittmenge",
+      "stichwort": "Brillenwucher gegen Mietwucher",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Wer eine Sonnenfinsternis-Brille für 60 Franken weiterverkauft, gilt als Abzocker. Wer eine Wohnung für das Dreifache weitervermietet, gilt als Vermieter."
     }
   ]
 }
