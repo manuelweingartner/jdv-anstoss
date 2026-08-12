@@ -4,26 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-12-0817-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Flüsse ausbauen, obwohl das Wasser fehlt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Tiefe Flusspegel in der Schweiz, nur der Solarstrom verhindert die Stromlücke. Deutschlands Verkehrsminister will in derselben Woche die Flüsse ausbauen. Breiter. Damit mehr Nichts durchpasst."
-    },
-    {
-      "id": "2026-08-12-0817-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "140 Franken Pass gegen unkontrollierte Migration",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Ich habe 140 Franken für einen neuen Pass bezahlt. Meloni und Frederiksen nennen alles, was ohne dieses Heft ankommt, unkontrollierte Migration. Kontrolle heisst hier: Einzahlungsschein. Drei Wochen Wartezeit."
-    },
-    {
       "id": "2026-08-12-0817-03",
       "typ": "politisch-aktuell",
       "stichwort": "Autokonzern begrüsst das Ende der E-Auto-Prämie",
@@ -31,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Als Autokonzern finde ich es richtig, dass die E-Auto-Prämie fällt, weil vor allem Tesla sie kassiert. Wir haben zehn Jahre lang kein bezahlbares Modell gebaut. Ganz ohne Förderung."
+      "text": "Als Autokonzern finde ich es richtig, dass die E-Auto-Prämie fällt, weil vor allem Tesla sie kassiert. Wir haben zehn Jahre lang kein bezahlbares Modell gebaut. Ganz ohne Förderung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-12-0817-04",
@@ -41,27 +26,72 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Gute Nachricht: Die EU macht den Onlineversand nachhaltiger. Kleine Shops geben auf, Amazon liefert weiter. Wir verbuchen jede Geschäftsaufgabe als eingespartes Paket."
+      "text": "Gute Nachricht: Die EU macht den Onlineversand nachhaltiger. Kleine Shops geben auf, Amazon liefert weiter. Wir verbuchen jede Geschäftsaufgabe als eingespartes Paket.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-12-0817-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schwarzfahren angezeigt, Selbstanzeige straffrei",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "id": "2026-08-12-0817-08",
+      "typ": "schnittmenge",
+      "stichwort": "40 Grad im Zug gegen 40 Grad im Serverraum",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Ohne Ticket kostet mich der Zug 100 Franken Zuschlag plus Anzeige. Unversteuerte Millionen kosten eine Selbstanzeige, danach ist der Fall erledigt. Straffrei. Rückwirkend."
+      "text": "Bei 40 Grad im Zug wird geprüft. Bei 40 Grad im Serverraum steht nach zwölf Minuten ein Techniker davor.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-08-12-0817-07",
+      "id": "2026-08-12-0817-09",
+      "typ": "remix",
+      "stichwort": "Gartenzaunstreit gegen Besitzanspruch auf Hormus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich streite seit drei Jahren mit der Nachbarin über zwei Quadratmeter Gartenzaun. Trump sagt vor Reportern, die Strasse von Hormus gehöre ihm. Ohne Grundbuchauszug.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-12-0817-22",
       "typ": "politisch-aktuell",
-      "stichwort": "Artilleriegranate gleich zwanzig Therapiestunden",
+      "stichwort": "Meloni und Frederiksen einig, endlich eine Union",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "3'000 Franken kostet eine einzige Artilleriegranate, das sind zwanzig Therapiestunden für jemanden, der den Krieg überlebt hat. Die Granate kommt ohne Antrag."
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Meloni und Dänemarks Sozialdemokratin Frederiksen fordern gemeinsam ein Ende der unkontrollierten Migration. Endlich ein europäisches Projekt ohne Streit. Bei der Frage, wen wir nicht reinlassen, sind wir eine Union. Einstimmig.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-12-0817-31",
+      "typ": "persönlich",
+      "stichwort": "Tochter rechnet Selbstversorgung in Kalorien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Beim Einkaufen erklärte ich meiner Tochter, dass die Schweiz ihre Selbstversorgung in Kalorien misst, Ziel 70 Prozent. Sie kauft jetzt Vollrahm. Zwei Deziliter. Für die Landesversorgung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
