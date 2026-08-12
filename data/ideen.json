@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-13",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -24,6 +24,26 @@
       "text": "Ich als Versicherer finde es richtig, dass Russland Handelsschiffe bedroht: Kriegsrisiko ist der einzige Zuschlag, den niemand verhandelt. Prämie steigt. Route bleibt."
     },
     {
+      "id": "2026-08-13-0156-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Berufskleider abziehen, Aktiengewinne steuerfrei",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe zwei Stunden an der Steuererklärung gesessen, um 15 Franken für Berufskleider abzuziehen. Private Aktiengewinne kommen in dieses Formular gar nicht rein. Steuerfrei. Von Gesetzes wegen."
+    },
+    {
+      "id": "2026-08-13-0156-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vermögende handeln Steuern aus, ich eine Rechnungsgebühr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Vermögende, die zuziehen, dürfen ihre Steuern mit der Behörde aushandeln. Ich habe 25 Minuten mit einer Hotline verhandelt, über 2 Franken 50 Papierrechnungsgebühr. Erfolglos."
+    },
+    {
       "id": "2026-08-13-0156-21",
       "typ": "politisch-aktuell",
       "stichwort": "Schulstart bei 38 Grad, Chancengleichheit nach Himmelsrichtung",
@@ -42,16 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Weil ein Berliner Bad einen Mittag für Schwarze reserviert, sieht die Bild Weisse diskriminiert. In derselben Woche steht eine rechtsextreme Gruppe wegen versuchten Mordes vor Gericht. Der Skandal war das Bad."
-    },
-    {
-      "id": "2026-08-13-0156-28",
-      "typ": "schnittmenge",
-      "stichwort": "Brillenwucher gegen Mietwucher",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Wer eine Sonnenfinsternis-Brille für 60 Franken weiterverkauft, gilt als Abzocker. Wer eine Wohnung für das Dreifache weitervermietet, gilt als Vermieter."
     }
   ]
 }
