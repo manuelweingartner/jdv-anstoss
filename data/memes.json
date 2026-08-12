@@ -1,106 +1,109 @@
 {
-  "stand": "2026-08-11T20:47:38+02:00",
+  "stand": "2026-08-12T08:27:40+02:00",
   "vorschlaege": [
     {
-      "vorlage": "drake",
-      "name": "Drake Hotline Bling",
+      "vorlage": "roll",
+      "name": "Roll Safe Think About It",
       "zeilen": [
-        "Air Force One",
-        "Catering-Wagen mit Sichtschutz"
+        "Zu wenig Wasser für Strom",
+        "Die Hitze bringt Solarrekorde"
       ],
-      "warum": "weil die Figur das Ausschlagen des Naheliegenden zeigt und der Catering-Wagen als bewusste Wahl schlimmer wirkt als die Maschine",
+      "warum": "weil die Rettung dieselbe Ursache hat wie das Problem, formal stimmig, praktisch zynisch",
       "bild": "vorschlag-1.jpg"
     },
     {
-      "vorlage": "knoepfe",
-      "name": "Two Buttons",
+      "vorlage": "abzweigung",
+      "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Wasser an Italien",
-        "Wasser an Frankreich",
-        "Der Bundesrat"
+        "Flüsse tiefer ausbaggern",
+        "Weniger auf die Flüsse setzen",
+        "Verkehrsminister Bilger"
       ],
-      "warum": "weil das Schwitzen vor zwei Knöpfen genau die Verhandlungslage beschreibt, in der beides gleichzeitig verlangt wird",
+      "warum": "weil der Ausbaubeschluss der Kurswechsel weg vom naheliegenden Weg ist",
       "bild": "vorschlag-2.jpg"
     },
     {
-      "vorlage": "immer",
-      "name": "Always Has Been",
+      "vorlage": "freund",
+      "name": "Distracted Boyfriend",
       "zeilen": [
-        "Russland wählt ein Parlament?",
-        "War immer schon entschieden"
+        "Vertragspaket mit Brüssel",
+        "Wirtschaftskommission",
+        "Kündigungsschutz"
       ],
-      "warum": "weil der Ausschluss von Jabloko nichts Neues enthüllt, sondern nur den Dauerzustand sichtbar macht",
+      "warum": "weil eine Kommission ihr eigenes Versprechen sitzen lässt, sobald Marktzugang winkt",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "skelett",
-      "name": "Waiting Skeleton",
+      "vorlage": "gehirn",
+      "name": "Expanding Brain",
       "zeilen": [
-        "Günstige Drohne aus Europa",
-        "seit 2022"
+        "Freie Durchfahrt sichern",
+        "US-Interessen am Golf",
+        "Hormus gehört uns",
+        "Das Meer ist amerikanisch"
       ],
-      "warum": "weil das Warten selbst die Aussage ist und die europäische Produktion seither angekündigt bleibt",
+      "warum": "weil die Begründung mit jeder Stufe grösser und selbstbewusster wird",
       "bild": "vorschlag-4.jpg"
     },
     {
-      "vorlage": "ignoriert",
-      "name": "Sleeping Shaq",
+      "vorlage": "glocke",
+      "name": "Bell Curve",
       "zeilen": [
-        "Dritter Hitzesommer in Serie",
-        "Tempo 30 im Quartier"
+        "Nicht ungeschützt reinschauen",
+        "Röntgenbild, CD, Rauchglas",
+        "Nicht ungeschützt reinschauen"
       ],
-      "warum": "die Figur zeigt genau die Umfrage: kalt bleiben beim Klima, hellwach bei der kleinsten Zumutung",
+      "warum": "weil die Bastellösungen genau in der Mitte wohnen und beide Ränder dasselbe sagen",
       "bild": "vorschlag-5.jpg"
+    },
+    {
+      "vorlage": "harold",
+      "name": "Hide the Pain Harold",
+      "zeilen": [
+        "BAföG wird erhöht",
+        "Das WG-Zimmer war schneller"
+      ],
+      "warum": "weil die brave Erfolgsmeldung den Schaden nicht zudeckt",
+      "bild": "vorschlag-6.jpg"
     },
     {
       "vorlage": "feuer",
       "name": "This Is Fine",
       "zeilen": [
-        "Alpen ohne Wasser im Juli",
-        "Rösti sieht keinen Handlungsbedarf"
+        "Dienste dürfen zurückhacken",
+        "Rechtsstaatlich alles geklärt"
       ],
-      "warum": "weil hier eine sichtbar ausser Kontrolle geratene Lage zur Normallage erklärt wird, gegen den eigenen Parteikollegen",
-      "bild": "vorschlag-6.jpg"
-    },
-    {
-      "vorlage": "aliens",
-      "name": "Ancient Aliens",
-      "zeilen": [
-        "Warum bleibt Infantino Fifa-Chef?",
-        "Reine Sachkompetenz"
-      ],
-      "warum": "weil die offensichtliche Ursache übergangen und mit voller Überzeugung durch die harmloseste Erklärung ersetzt wird",
+      "warum": "weil die Beschwichtigung genau dort kommt, wo die Kontrolle fehlt",
       "bild": "vorschlag-7.jpg"
     },
     {
-      "vorlage": "oprah",
-      "name": "Oprah You Get A",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "Nvidia und die Wall Street",
-        "Für jeden ein Rechenzentrum"
+        "Der Plastikhalm war nie das Problem"
       ],
-      "warum": "weil eine halbe Billion verteilt wird an alle, ohne dass jemand danach gefragt hat",
+      "warum": "weil die These allein steht und niemand ihr ernsthaft widersprechen kann",
       "bild": "vorschlag-8.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Berg zu voll",
-        "Besucherlenkung mit Reservationspflicht"
+        "Wir zählen Kalorien",
+        "Selbstversorgungsgrad 70 Prozent"
       ],
-      "warum": "weil dieselbe Sache einmal schlicht und einmal vornehm benannt wird und der Euphemismus die Pointe trägt",
+      "warum": "weil dieselbe Rechnung schlicht banal und vornehm strategisch klingt",
       "bild": "vorschlag-9.jpg"
     },
     {
-      "vorlage": "handschlag",
-      "name": "Epic Handshake",
+      "vorlage": "knoepfe",
+      "name": "Two Buttons",
       "zeilen": [
-        "Erdogan",
-        "PKK",
-        "Amnestie für die eigenen Leute"
+        "Nothilfe gegen die Dürre",
+        "Klimapolitik ausbremsen",
+        "Der Bauernverband"
       ],
-      "warum": "weil zwei verfeindete Lager ausgerechnet in dem Punkt zusammenfinden, der beiden nützt",
+      "warum": "weil beides gleichzeitig gefordert wird und das Zögern selbst die Aussage ist",
       "bild": "vorschlag-10.jpg"
     }
   ]
