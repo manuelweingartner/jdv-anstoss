@@ -1,97 +1,27 @@
 {
   "datum": "2026-08-13",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-13-0156-04",
+      "id": "2026-08-13-0801-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Kriegsrisiko-Zuschlag auf Handelsschiffe",
+      "stichwort": "Medikamentenpreise als Vertrauensbildung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es richtig, dass die Schweiz jahrelang zu viel für Medikamente bezahlt hat. Zu billige Pillen nimmt niemand ernst. Vertrauensbildende Massnahme. Rückwirkend."
+    },
+    {
+      "id": "2026-08-13-0801-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gletscher weg, Reduktionsziel erfüllt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich als Versicherer finde es richtig, dass Russland Handelsschiffe bedroht: Kriegsrisiko ist der einzige Zuschlag, den niemand verhandelt. Prämie steigt. Route bleibt.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-13-0156-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vermögende handeln Steuern aus, ich eine Rechnungsgebühr",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Vermögende, die zuziehen, dürfen ihre Steuern mit der Behörde aushandeln. Ich habe 25 Minuten mit einer Hotline verhandelt, über 2 Franken 50 Papierrechnungsgebühr. Erfolglos.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-13-0156-10",
-      "typ": "persönlich",
-      "stichwort": "40 Minuten Hund gegen eine Million Evakuierte",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Ich habe 40 Minuten gebraucht, um 45 Kilo Herdenschutzhund ins Auto zu heben. China evakuiert am selben Tag eine Million Menschen wegen des Taifuns. Dort hat offenbar niemand Hunde.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-13-0156-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ölkonzern feiert die Sonnenfinsternis",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich arbeite für einen Ölkonzern und fand die Sonnenfinsternis grossartig. Zwei Minuten lieferte kein einziges Solarpanel Strom. Genau davor warnen wir seit 1999. Belegt. Am Himmel.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-08-13-0156-30",
-      "typ": "persönlich",
-      "stichwort": "Impfbüchlein im Ordner Meinung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe das Impfbüchlein meiner Tochter im Ordner «Wichtig» abgelegt. In den USA gelten seit dieser Woche nur noch elf Impfungen als Empfehlung für alle Kinder. Neuer Ordner: «Meinung».",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-13-0156-32",
-      "typ": "persönlich",
-      "stichwort": "Bildschirmabstand gegen zwei Stunden Sonne",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ich sage meiner Tochter seit Jahren, sie solle nicht so nah an den Bildschirm. Heute standen wir zwei Stunden im Garten und schauten in die Sonne. Durch Pappe. Als Familienprogramm.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Der Bella-Tola-Gletscher im Wallis ist weggeschmolzen. Gute Nachricht: damit ist unser Reduktionsziel für 2050 schon heute erfüllt. Sogar übererfüllt. Ohne einen Franken Subvention."
     }
   ]
 }
