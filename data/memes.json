@@ -1,14 +1,14 @@
 {
-  "stand": "2026-08-12T08:27:40+02:00",
+  "stand": "2026-08-13T07:22:07+02:00",
   "vorschlaege": [
     {
-      "vorlage": "roll",
-      "name": "Roll Safe Think About It",
+      "vorlage": "angebot",
+      "name": "Trade Offer",
       "zeilen": [
-        "Zu wenig Wasser für Strom",
-        "Die Hitze bringt Solarrekorde"
+        "Ein Teil des Herstellerrabatts",
+        "Die volle Krankenkassenprämie"
       ],
-      "warum": "weil die Rettung dieselbe Ursache hat wie das Problem, formal stimmig, praktisch zynisch",
+      "warum": "weil das Tauschangebot die Einseitigkeit sichtbar macht, mit der Rabatte oben bleiben und Prämien unten voll bezahlt werden",
       "bild": "vorschlag-1.jpg"
     },
     {
