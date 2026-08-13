@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-13",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -49,6 +49,21 @@
       }
     },
     {
+      "id": "2026-08-13-0801-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Parkplatz Zürich so teuer wie WG-Zimmer Leipzig",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ein Parkplatz in Zürich kostet 350 Franken im Monat, ein WG-Zimmer in Leipzig auch. Autos haben die bessere Wohnungspolitik. Zugewiesen. Nummeriert. Garantiert.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
       "id": "2026-08-13-0801-10",
       "typ": "persönlich",
       "stichwort": "Vierter Fragebogen zur Erschöpfung",
@@ -57,21 +72,6 @@
       "haltbarkeit": "evergreen",
       "format": 14,
       "text": "Was chronisch Kranke am meisten erschöpft, ist nicht die Krankheit. Sondern der vierte Fragebogen zur Erschöpfung. Ausgedruckt. In Kopie. Mit Arztzeugnis.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-13-0801-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gletscher weg, Messstation gespart",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Gute Nachricht aus dem Wallis: Der Bella-Tola-Gletscher ist weggeschmolzen. Damit können wir die Messstation abbauen. Ein Posten weniger im Budget bis 2030. Dauerhaft eingespart. Nachhaltig, wenn man so will.",
       "jury": {
         "anker": true,
         "neu": true,
