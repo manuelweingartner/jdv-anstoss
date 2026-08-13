@@ -1,59 +1,59 @@
 {
-  "stand": "2026-08-12T17:00:54+02:00",
-  "lauf": "1700",
+  "stand": "2026-08-13T08:13:19+02:00",
+  "lauf": "0812",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Sonnenfinsternis-Hype in Spanien: Schlafbrille für Eklipseverächter",
-      "was": "Menschenmengen mit Pappbrillen starren gemeinsam in den verdunkelten Himmel",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: kollektive Andacht für zwei Minuten Dunkelheit gegen die Dinge, für die dieselben Leute nicht vor die Tür gehen.",
+      "id": "0812-1",
+      "titel": "Coup über 110 m Hürden – Endlich geht alles auf: Joseph jubelt über EM-Gold",
+      "was": "Jason Joseph im Zieljubel nach EM-Gold über 110 m Hürden",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: der eine Moment absoluter Perfektion gegen die Jahre, in denen niemand hinschaute.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "taz",
-      "auch_bei": [
-        "NZZ"
-      ],
-      "artikel": "https://taz.de/Sonnenfinsternis-Hype-in-Spanien/!6203863/",
-      "bild": "https://taz.de/picture/8669146/948/41842642.jpeg",
-      "zeit": "2026-08-12T16:38+02:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Höchstens ein Bundesratslohn – Bundesrat will Lohndeckel für Krankenkassen-Kader",
-      "was": "Bundesrat am Rednerpult vor Wappen, Medienkonferenz zum Lohndeckel",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: der Bundesratslohn als Obergrenze gegen die Prämienrechnung derselben Haushalte.",
-      "grund": "breit",
-      "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
         "Watson"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/hoechstens-ein-bundesratslohn-bundesrat-will-lohndeckel-fuer-krankenkassen-kader",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/65a57ea.jpg",
-      "zeit": "2026-08-12T14:29+02:00"
+      "artikel": "https://www.srf.ch/sport/leichtathletik/leichtathletik-em/coup-ueber-110-m-huerden-endlich-geht-alles-auf-joseph-jubelt-ueber-em-gold",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/8cca10.jpg",
+      "zeit": "2026-08-12T23:12+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Fifa-Präsident in der Kritik – Der Schamlose: Wie Infantino über sein Erfolgsprinzip stolperte",
-      "was": "Infantino mit Pokal, Handschlag und breitem Grinsen bei Fifa-Auftritt",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: das Selbstbild als Wohltäter des Weltfussballs gegen die Pose, die er dabei für die Kameras hält.",
+      "id": "0812-2",
+      "titel": "Die besten Bilder: So schön war die Sonnenfinsternis",
+      "was": "Menschenmenge mit Papbrillen, alle starren gleichzeitig nach oben",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: kollektives Staunen als seltenes Ereignis gegen die Normalität, dass alle gleichzeitig auf dieselbe Fläche schauen.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
+      "auch_bei": [
+        "Watson"
+      ],
+      "artikel": "https://www.20min.ch/story/sonnenfinsternis-schweiz-live-103616186",
+      "bild": "https://image.20min.ch/2026/08/12/f6bb0047-06f1-4a9b-b774-731571c96768.jpg?s=0d31d5b6e794f57cc7b81f05354d8ffd",
+      "zeit": "2026-08-12T10:18+02:00"
+    },
+    {
+      "id": "0812-3",
+      "titel": "Mit einer Hüpfburg gegen den aufgeblähten Staat: Jungfreisinnige und Wirtschaftsverbände wollen eine Verwaltungsbremse",
+      "was": "Jungfreisinnige mit Hüpfburg als Requisit vor Politkulisse",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: aufgeblasenes Requisit gegen die Behauptung, hier gehe es um Substanz.",
       "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "SRF",
+      "raum": "",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/fifa-praesident-in-der-kritik-der-schamlose-wie-infantino-ueber-sein-erfolgsprinzip-stolperte",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/6436433.jpg",
-      "zeit": "2026-08-12T13:12+02:00"
+      "artikel": "https://www.nzz.ch/schweiz/mit-einer-huepfburg-gegen-den-aufgeblaehten-staat-jungfreisinnige-und-wirtschaftsverbaende-wollen-eine-verwaltungsbremse-ld.10019224",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/12/8a28bcea-43f7-4f87-909b-9da2ff48d86e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3728,3728,x932,y0",
+      "zeit": "2026-08-13T05:30+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab etwa 19:00",
-      "was": "Zuschauermassen mit Papierbrillen, alle im gleichen Winkel nach oben, dazu Politik und Prominenz beim Mitstarren"
+      "wann": "heute tagsüber",
+      "was": "Bundeshaus Bern, Efta-Mercosur-Dossier: Bauernvertreter mit Transparenten und Nutztieren vor dem Bundeshaus, dazu Politi"
     },
     {
       "wann": "heute Abend",
-      "was": "Schweizer Leichtathleten an der EM in Jubel- oder Verzweiflungspose im Zielraum"
+      "was": "Leichtathletik-EM Birmingham, 800-m-Final Werro gegen Hodgkinson: Zielfoto, Siegerpose oder Enttäuschungsgeste im Auslau"
     }
   ],
   "hinweis": ""
