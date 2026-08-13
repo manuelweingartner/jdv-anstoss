@@ -1,109 +1,111 @@
 {
-  "stand": "2026-08-13T07:22:07+02:00",
+  "stand": "2026-08-13T08:14:54+02:00",
   "vorschlaege": [
     {
-      "vorlage": "angebot",
-      "name": "Trade Offer",
+      "vorlage": "knoepfe",
+      "name": "Two Buttons",
       "zeilen": [
-        "Ein Teil des Herstellerrabatts",
-        "Die volle Krankenkassenprämie"
+        "Freihandel für die Milch",
+        "Schutzzoll für das Fleisch",
+        "Der Bauernverband"
       ],
-      "warum": "weil das Tauschangebot die Einseitigkeit sichtbar macht, mit der Rabatte oben bleiben und Prämien unten voll bezahlt werden",
+      "warum": "der Verband muss heute in Bern zwei Knöpfe drücken, die seine eigenen Mitglieder gegeneinander stellen",
       "bild": "vorschlag-1.jpg"
     },
     {
-      "vorlage": "abzweigung",
-      "name": "Left Exit 12 Off Ramp",
+      "vorlage": "feuer",
+      "name": "This Is Fine",
       "zeilen": [
-        "Flüsse tiefer ausbaggern",
-        "Weniger auf die Flüsse setzen",
-        "Verkehrsminister Bilger"
+        "Rhein zu flach für Frachter",
+        "Sonntagsfahrverbot gelockert"
       ],
-      "warum": "weil der Ausbaubeschluss der Kurswechsel weg vom naheliegenden Weg ist",
+      "warum": "die Lage wird nicht behoben, sondern zur neuen Normalität erklärt",
       "bild": "vorschlag-2.jpg"
     },
     {
-      "vorlage": "freund",
-      "name": "Distracted Boyfriend",
+      "vorlage": "glocke",
+      "name": "Bell Curve",
       "zeilen": [
-        "Vertragspaket mit Brüssel",
-        "Wirtschaftskommission",
-        "Kündigungsschutz"
+        "Das Wasser wird knapp",
+        "Unsicherheiten in den Kipppunkt-Szenarien",
+        "Das Wasser wird knapp"
       ],
-      "warum": "weil eine Kommission ihr eigenes Versprechen sitzen lässt, sobald Marktzugang winkt",
+      "warum": "der Weltklimabericht sagt in 3000 Seiten, was die Ränder in vier Wörtern sagen",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "gehirn",
       "name": "Expanding Brain",
       "zeilen": [
-        "Freie Durchfahrt sichern",
-        "US-Interessen am Golf",
-        "Hormus gehört uns",
-        "Das Meer ist amerikanisch"
+        "Rabatt beim Medikamenteneinkauf",
+        "Rabatt bleibt in der Praxis",
+        "Rabatt ist Betriebsertrag",
+        "Der Patient profitiert von unserer Existenz"
       ],
-      "warum": "weil die Begründung mit jeder Stufe grösser und selbstbewusster wird",
+      "warum": "die Rechtfertigung für einbehaltene Rabatte wächst mit jeder Stufe der Aufsichtskritik",
       "bild": "vorschlag-4.jpg"
     },
     {
-      "vorlage": "glocke",
-      "name": "Bell Curve",
+      "vorlage": "immer",
+      "name": "Always Has Been",
       "zeilen": [
-        "Nicht ungeschützt reinschauen",
-        "Röntgenbild, CD, Rauchglas",
-        "Nicht ungeschützt reinschauen"
+        "Der Bella Tola ist weg?",
+        "Steht seit 30 Jahren im Bericht"
       ],
-      "warum": "weil die Bastellösungen genau in der Mitte wohnen und beide Ränder dasselbe sagen",
+      "warum": "das Entsetzen kommt Jahrzehnte nach der Ankündigung",
       "bild": "vorschlag-5.jpg"
     },
     {
-      "vorlage": "harold",
-      "name": "Hide the Pain Harold",
+      "vorlage": "drake",
+      "name": "Drake Hotline Bling",
       "zeilen": [
-        "BAföG wird erhöht",
-        "Das WG-Zimmer war schneller"
+        "Weniger Tempo, weniger Unfälle",
+        "Blitzerstandorte publizieren"
       ],
-      "warum": "weil die brave Erfolgsmeldung den Schaden nicht zudeckt",
+      "warum": "das Naheliegende wird ausgeschlagen zugunsten des Pilotversuchs, der nachweislich nichts bringt",
       "bild": "vorschlag-6.jpg"
     },
     {
-      "vorlage": "feuer",
-      "name": "This Is Fine",
+      "vorlage": "abzweigung",
+      "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Dienste dürfen zurückhacken",
-        "Rechtsstaatlich alles geklärt"
+        "Familiäre Gründe",
+        "Weiter am Rednerpult stehen",
+        "Karoline Leavitt"
       ],
-      "warum": "weil die Beschwichtigung genau dort kommt, wo die Kontrolle fehlt",
+      "warum": "der Kurswechsel kommt für die jüngste Sprecherin der Geschichte reichlich abrupt",
       "bild": "vorschlag-7.jpg"
     },
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "ignoriert",
+      "name": "Sleeping Shaq",
       "zeilen": [
-        "Der Plastikhalm war nie das Problem"
+        "US-Sanktionen gegen Kuba",
+        "Schweizer Firma verliert das Konto"
       ],
-      "warum": "weil die These allein steht und niemand ihr ernsthaft widersprechen kann",
+      "warum": "Aussenpolitik lässt kalt, bis sie im eigenen Zahlungsverkehr ankommt",
       "bild": "vorschlag-8.jpg"
     },
     {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
+      "vorlage": "skelett",
+      "name": "Waiting Skeleton",
       "zeilen": [
-        "Wir zählen Kalorien",
-        "Selbstversorgungsgrad 70 Prozent"
+        "Die AfD-Politik für Arbeiter",
+        "seit 2013"
       ],
-      "warum": "weil dieselbe Rechnung schlicht banal und vornehm strategisch klingt",
+      "warum": "die Studie zeigt ein Versprechen, auf dessen Einlösung man beliebig lange sitzen bleibt",
       "bild": "vorschlag-9.jpg"
     },
     {
-      "vorlage": "knoepfe",
-      "name": "Two Buttons",
+      "vorlage": "doge",
+      "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Nothilfe gegen die Dürre",
-        "Klimapolitik ausbremsen",
-        "Der Bauernverband"
+        "Vespa, Baujahr 1946",
+        "Läuft nach 80 Jahren noch",
+        "Frisiertes E-Trottinett",
+        "68 km/h bis zur Zuger Polizei"
       ],
-      "warum": "weil beides gleichzeitig gefordert wird und das Zögern selbst die Aussage ist",
+      "warum": "der behauptete Fortschritt im Zweirad endet als beschlagnahmtes Trottinett",
       "bild": "vorschlag-10.jpg"
     }
   ]
