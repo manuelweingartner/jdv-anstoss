@@ -4,6 +4,21 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-08-13-0801-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Cloud-Abo gegen Frühstartrente",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich zahle 9.90 Franken im Monat, damit mein Handy die Fotos in die Cloud lädt. Sechsjährige in Deutschland bekommen künftig gleich viel vom Staat. Als Rente. Für achtzig Jahre.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-08-13-0801-03",
       "typ": "politisch-aktuell",
       "stichwort": "Medikamentenpreise als Vertrauensbildung",
@@ -11,7 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich finde es richtig, dass die Schweiz jahrelang zu viel für Medikamente bezahlt hat. Zu billige Pillen nimmt niemand ernst. Vertrauensbildende Massnahme. Rückwirkend."
+      "text": "Ich finde es richtig, dass die Schweiz jahrelang zu viel für Medikamente bezahlt hat. Zu billige Pillen nimmt niemand ernst. Vertrauensbildende Massnahme. Rückwirkend.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-13-0801-04",
@@ -21,47 +41,57 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Der Bella-Tola-Gletscher im Wallis ist weggeschmolzen. Gute Nachricht: damit ist unser Reduktionsziel für 2050 schon heute erfüllt. Sogar übererfüllt. Ohne einen Franken Subvention."
+      "text": "Der Bella-Tola-Gletscher im Wallis ist weggeschmolzen. Gute Nachricht: damit ist unser Reduktionsziel für 2050 schon heute erfüllt. Sogar übererfüllt. Ohne einen Franken Subvention.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-08-13-0801-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "34 Artikel selbst gescannt, zweite Stelle",
+      "id": "2026-08-13-0801-10",
+      "typ": "persönlich",
+      "stichwort": "Vierter Fragebogen zur Erschöpfung",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich scanne im Supermarkt meine 34 Artikel selbst, packe ein und zahle selbst. Beim nächsten Lohngespräch bringe ich meine zweite Stelle zur Sprache. Unbezahlt. Seit vier Jahren."
+      "format": 14,
+      "text": "Was chronisch Kranke am meisten erschöpft, ist nicht die Krankheit. Sondern der vierte Fragebogen zur Erschöpfung. Ausgedruckt. In Kopie. Mit Arztzeugnis.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-08-13-0801-06",
+      "id": "2026-08-13-0801-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Parkplatz Zürich so teuer wie WG-Zimmer Leipzig",
+      "stichwort": "Gletscher weg, Messstation gespart",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ein Parkplatz in Zürich kostet 350 Franken im Monat, ein WG-Zimmer in Leipzig auch. Autos haben die bessere Wohnungspolitik. Zugewiesen. Nummeriert. Garantiert."
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Gute Nachricht aus dem Wallis: Der Bella-Tola-Gletscher ist weggeschmolzen. Damit können wir die Messstation abbauen. Ein Posten weniger im Budget bis 2030. Dauerhaft eingespart. Nachhaltig, wenn man so will.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-08-13-0801-07",
+      "id": "2026-08-13-0801-27",
       "typ": "politisch-aktuell",
-      "stichwort": "Rekordgewinne, damit wenigstens jemand profitiert",
+      "stichwort": "Moral kostete 1'800 Prozent Rüstungsrendite",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich finde es richtig, dass die Rüstungsindustrie Rekordgewinne meldet. Irgendjemand muss ja profitieren, wenn 120 Millionen Menschen auf der Flucht sind."
-    },
-    {
-      "id": "2026-08-13-0801-08",
-      "typ": "schnittmenge",
-      "stichwort": "Volksbad-Mittag gegen hundert Jahre Golfclub",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Die Schwarze Community reserviert ein Berliner Bad für einen Mittag, das nennt die Bild Diskriminierung. Golfclubs ohne Frauen heissen seit hundert Jahren Tradition."
+      "format": 16,
+      "text": "2022 habe ich keine Rheinmetall-Aktien gekauft, weil mir das moralisch falsch vorkam. Diese Haltung hat mich seither ungefähr 1'800 Prozent gekostet. Mein Anlageberater nennt das einen Anfängerfehler.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
