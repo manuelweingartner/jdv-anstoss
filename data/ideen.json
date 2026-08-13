@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-13",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Der Bella-Tola-Gletscher im Wallis ist weggeschmolzen. Gute Nachricht: damit ist unser Reduktionsziel für 2050 schon heute erfüllt. Sogar übererfüllt. Ohne einen Franken Subvention."
+    },
+    {
+      "id": "2026-08-13-0801-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "34 Artikel selbst gescannt, zweite Stelle",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich scanne im Supermarkt meine 34 Artikel selbst, packe ein und zahle selbst. Beim nächsten Lohngespräch bringe ich meine zweite Stelle zur Sprache. Unbezahlt. Seit vier Jahren."
+    },
+    {
+      "id": "2026-08-13-0801-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Parkplatz Zürich so teuer wie WG-Zimmer Leipzig",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ein Parkplatz in Zürich kostet 350 Franken im Monat, ein WG-Zimmer in Leipzig auch. Autos haben die bessere Wohnungspolitik. Zugewiesen. Nummeriert. Garantiert."
+    },
+    {
+      "id": "2026-08-13-0801-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rekordgewinne, damit wenigstens jemand profitiert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich finde es richtig, dass die Rüstungsindustrie Rekordgewinne meldet. Irgendjemand muss ja profitieren, wenn 120 Millionen Menschen auf der Flucht sind."
     }
   ]
 }
