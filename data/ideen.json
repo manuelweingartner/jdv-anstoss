@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-13",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,16 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Ich finde es richtig, dass die Rüstungsindustrie Rekordgewinne meldet. Irgendjemand muss ja profitieren, wenn 120 Millionen Menschen auf der Flucht sind."
+    },
+    {
+      "id": "2026-08-13-0801-08",
+      "typ": "schnittmenge",
+      "stichwort": "Volksbad-Mittag gegen hundert Jahre Golfclub",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Die Schwarze Community reserviert ein Berliner Bad für einen Mittag, das nennt die Bild Diskriminierung. Golfclubs ohne Frauen heissen seit hundert Jahren Tradition."
     }
   ]
 }
