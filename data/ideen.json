@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-13-0156-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hitzeschutz als Gemeinschaftsaufgabe",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Der deutsche Umweltminister macht Hitzeschutz zur Gemeinschaftsaufgabe. Als Behörde finde ich das richtig: bei 41 Grad ist dann niemand allein zuständig. Sondern alle. Also keiner."
-    },
-    {
       "id": "2026-08-13-0156-04",
       "typ": "politisch-aktuell",
       "stichwort": "Kriegsrisiko-Zuschlag auf Handelsschiffe",
@@ -21,17 +11,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich als Versicherer finde es richtig, dass Russland Handelsschiffe bedroht: Kriegsrisiko ist der einzige Zuschlag, den niemand verhandelt. Prämie steigt. Route bleibt."
-    },
-    {
-      "id": "2026-08-13-0156-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Berufskleider abziehen, Aktiengewinne steuerfrei",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe zwei Stunden an der Steuererklärung gesessen, um 15 Franken für Berufskleider abzuziehen. Private Aktiengewinne kommen in dieses Formular gar nicht rein. Steuerfrei. Von Gesetzes wegen."
+      "text": "Ich als Versicherer finde es richtig, dass Russland Handelsschiffe bedroht: Kriegsrisiko ist der einzige Zuschlag, den niemand verhandelt. Prämie steigt. Route bleibt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-08-13-0156-07",
@@ -41,7 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Vermögende, die zuziehen, dürfen ihre Steuern mit der Behörde aushandeln. Ich habe 25 Minuten mit einer Hotline verhandelt, über 2 Franken 50 Papierrechnungsgebühr. Erfolglos."
+      "text": "Vermögende, die zuziehen, dürfen ihre Steuern mit der Behörde aushandeln. Ich habe 25 Minuten mit einer Hotline verhandelt, über 2 Franken 50 Papierrechnungsgebühr. Erfolglos.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     },
     {
       "id": "2026-08-13-0156-10",
@@ -51,17 +41,57 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 19,
-      "text": "Ich habe 40 Minuten gebraucht, um 45 Kilo Herdenschutzhund ins Auto zu heben. China evakuiert am selben Tag eine Million Menschen wegen des Taifuns. Dort hat offenbar niemand Hunde."
+      "text": "Ich habe 40 Minuten gebraucht, um 45 Kilo Herdenschutzhund ins Auto zu heben. China evakuiert am selben Tag eine Million Menschen wegen des Taifuns. Dort hat offenbar niemand Hunde.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-08-13-0156-12",
+      "id": "2026-08-13-0156-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ölkonzern feiert die Sonnenfinsternis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich arbeite für einen Ölkonzern und fand die Sonnenfinsternis grossartig. Zwei Minuten lieferte kein einziges Solarpanel Strom. Genau davor warnen wir seit 1999. Belegt. Am Himmel.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-08-13-0156-30",
       "typ": "persönlich",
-      "stichwort": "Freunde verloren seit dem 7. Oktober",
-      "plattform": "Instagram + Bluesky",
+      "stichwort": "Impfbüchlein im Ordner Meinung",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe das Impfbüchlein meiner Tochter im Ordner «Wichtig» abgelegt. In den USA gelten seit dieser Woche nur noch elf Impfungen als Empfehlung für alle Kinder. Neuer Ordner: «Meinung».",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-13-0156-32",
+      "typ": "persönlich",
+      "stichwort": "Bildschirmabstand gegen zwei Stunden Sonne",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Zwei jüdische Studenten in Berlin sagen, dass sie seit dem 7. Oktober die meisten ihrer Freunde verloren haben. Für einen Anruf braucht es keine Haltung zu Nahost."
+      "text": "Ich sage meiner Tochter seit Jahren, sie solle nicht so nah an den Bildschirm. Heute standen wir zwei Stunden im Garten und schauten in die Sonne. Durch Pappe. Als Familienprogramm.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
