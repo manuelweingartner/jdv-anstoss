@@ -1,59 +1,60 @@
 {
-  "stand": "2026-08-13T08:13:19+02:00",
-  "lauf": "0812",
+  "stand": "2026-08-13T17:01:04+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0812-1",
-      "titel": "Coup über 110 m Hürden – Endlich geht alles auf: Joseph jubelt über EM-Gold",
-      "was": "Jason Joseph im Zieljubel nach EM-Gold über 110 m Hürden",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: der eine Moment absoluter Perfektion gegen die Jahre, in denen niemand hinschaute.",
+      "id": "1700-1",
+      "titel": "«Hart wie Stiefelleder»: Mit dem Rücktritt von Karoline Leavitt verliert Trump mehr als eine Pressesprecherin",
+      "was": "Karoline Leavitt am Rednerpult im Briefing-Raum des Weissen Hauses",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Sprechen für einen Präsidenten gegen Geradebiegen für einen Präsidenten.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "SRF",
+      "quelle": "NZZ",
       "auch_bei": [
-        "Watson"
+        "SRF",
+        "taz"
       ],
-      "artikel": "https://www.srf.ch/sport/leichtathletik/leichtathletik-em/coup-ueber-110-m-huerden-endlich-geht-alles-auf-joseph-jubelt-ueber-em-gold",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/8cca10.jpg",
-      "zeit": "2026-08-12T23:12+02:00"
+      "artikel": "https://www.nzz.ch/international/mit-dem-ruecktritt-von-karoline-leavitt-verliert-trump-mehr-als-eine-pressesprecherin-ld.10019372",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/13/0a34b0ec-4a58-43c0-bec2-f583f7e60b56.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1343,1343,x82,y0",
+      "zeit": "2026-08-13T14:07+02:00"
     },
     {
-      "id": "0812-2",
-      "titel": "Die besten Bilder: So schön war die Sonnenfinsternis",
-      "was": "Menschenmenge mit Papbrillen, alle starren gleichzeitig nach oben",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: kollektives Staunen als seltenes Ereignis gegen die Normalität, dass alle gleichzeitig auf dieselbe Fläche schauen.",
+      "id": "1700-2",
+      "titel": "Erster Besuch auf den Kurilen: Putin verärgert den Nachbarn Japan",
+      "was": "Putin im Mantel auf einer kahlen Kurilen-Insel, Begleittross dahinter",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Inselbesuch als Ausflug gegen Inselbesuch als Gebietsanspruch von 1945.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "raum": "weltweit",
+      "quelle": "NZZ",
       "auch_bei": [
-        "Watson"
+        "Spiegel"
       ],
-      "artikel": "https://www.20min.ch/story/sonnenfinsternis-schweiz-live-103616186",
-      "bild": "https://image.20min.ch/2026/08/12/f6bb0047-06f1-4a9b-b774-731571c96768.jpg?s=0d31d5b6e794f57cc7b81f05354d8ffd",
-      "zeit": "2026-08-12T10:18+02:00"
+      "artikel": "https://www.nzz.ch/international/erster-besuch-auf-den-kurilen-putin-veraergert-den-nachbarn-japan-ld.10019350",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/13/a214e466-50a7-4ced-948b-2acd9cc8e688.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1759,1759,x284,y212",
+      "zeit": "2026-08-13T16:31+02:00"
     },
     {
-      "id": "0812-3",
-      "titel": "Mit einer Hüpfburg gegen den aufgeblähten Staat: Jungfreisinnige und Wirtschaftsverbände wollen eine Verwaltungsbremse",
-      "was": "Jungfreisinnige mit Hüpfburg als Requisit vor Politkulisse",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: aufgeblasenes Requisit gegen die Behauptung, hier gehe es um Substanz.",
+      "id": "1700-3",
+      "titel": "Die Schweizer Athletin Audrey Werro stürzt im Halbfinal der Leichtathletik-EM – und steht dennoch im Final",
+      "was": "Audrey Werro am Boden der Laufbahn, andere Läuferinnen enteilen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Sturz als Scheitern gegen Sturz als Ticket in den Final.",
       "grund": "memetauglich",
-      "raum": "",
+      "raum": "schweiz",
       "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/schweiz/mit-einer-huepfburg-gegen-den-aufgeblaehten-staat-jungfreisinnige-und-wirtschaftsverbaende-wollen-eine-verwaltungsbremse-ld.10019224",
-      "bild": "https://img-msp-prod.nzz.ch/2026/08/12/8a28bcea-43f7-4f87-909b-9da2ff48d86e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3728,3728,x932,y0",
-      "zeit": "2026-08-13T05:30+02:00"
+      "artikel": "https://www.nzz.ch/sport/die-schweizer-athletin-audrey-werro-stuerzt-im-halbfinal-der-leichtathletik-em-ld.10019407",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/13/b455bfcb-1d17-4368-a9fa-1e4556d4984e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4144,4144,x961,y0",
+      "zeit": "2026-08-13T15:23+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute tagsüber",
-      "was": "Bundeshaus Bern, Efta-Mercosur-Dossier: Bauernvertreter mit Transparenten und Nutztieren vor dem Bundeshaus, dazu Politi"
+      "wann": "heute abends",
+      "was": "Ehrung des Maskenbildners Rick Baker in Locarno, Bühne mit Publikum und Preis in der Hand"
     },
     {
-      "wann": "heute Abend",
-      "was": "Leichtathletik-EM Birmingham, 800-m-Final Werro gegen Hodgkinson: Zielfoto, Siegerpose oder Enttäuschungsgeste im Auslau"
+      "wann": "heute abends",
+      "was": "Abendsession der Leichtathletik-EM in Birmingham, Siegerposen und Medaillenübergaben"
     }
   ],
   "hinweis": ""
