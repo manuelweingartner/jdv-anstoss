@@ -1,60 +1,59 @@
 {
-  "stand": "2026-08-13T17:01:04+02:00",
+  "stand": "2026-08-14T17:00:50+02:00",
   "lauf": "1700",
   "fotos": [
     {
       "id": "1700-1",
-      "titel": "«Hart wie Stiefelleder»: Mit dem Rücktritt von Karoline Leavitt verliert Trump mehr als eine Pressesprecherin",
-      "was": "Karoline Leavitt am Rednerpult im Briefing-Raum des Weissen Hauses",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Sprechen für einen Präsidenten gegen Geradebiegen für einen Präsidenten.",
+      "titel": "Großbritannien: Nigel Farage gewinnt Nachwahl gegen Count Binface in Clacton",
+      "was": "Farage bei der Wahlverkündung neben Kandidat mit Abfalleimer auf dem Kopf",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: der Ernst der Volksvertretung gegen die Bühne, die er sich mit einem Mann im Mülltonnenkostüm teilt.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "NZZ",
+      "raum": "",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "SRF",
-        "taz"
+        "Watson"
       ],
-      "artikel": "https://www.nzz.ch/international/mit-dem-ruecktritt-von-karoline-leavitt-verliert-trump-mehr-als-eine-pressesprecherin-ld.10019372",
-      "bild": "https://img-msp-prod.nzz.ch/2026/08/13/0a34b0ec-4a58-43c0-bec2-f583f7e60b56.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1343,1343,x82,y0",
-      "zeit": "2026-08-13T14:07+02:00"
+      "artikel": "https://www.spiegel.de/ausland/grossbritannien-nigel-farage-gewinnt-nachwahl-in-clacton-gegen-count-binface-a-4e245102-4b2d-4c4b-a963-413f05030636#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/622b5f29-e5bf-427c-8522-e6f34aa61111_w520_r2.08_fpx29.51_fpy54.99.jpg",
+      "zeit": "2026-08-14T14:11+02:00"
     },
     {
       "id": "1700-2",
-      "titel": "Erster Besuch auf den Kurilen: Putin verärgert den Nachbarn Japan",
-      "was": "Putin im Mantel auf einer kahlen Kurilen-Insel, Begleittross dahinter",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Inselbesuch als Ausflug gegen Inselbesuch als Gebietsanspruch von 1945.",
+      "titel": "Regierungswahlen im Februar – Valérie Dittli verliert Rückhalt der Waadtländer Mitte",
+      "was": "Valérie Dittli vor Mikrofonen, Mitte-Parteispitze daneben mit versteinerten Mienen",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: das gemeinsame Parteifoto gegen die Sitzung, in der man sie gerade fallen liess.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "NZZ",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [
-        "Spiegel"
+        "Watson"
       ],
-      "artikel": "https://www.nzz.ch/international/erster-besuch-auf-den-kurilen-putin-veraergert-den-nachbarn-japan-ld.10019350",
-      "bild": "https://img-msp-prod.nzz.ch/2026/08/13/a214e466-50a7-4ced-948b-2acd9cc8e688.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1759,1759,x284,y212",
-      "zeit": "2026-08-13T16:31+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/regierungswahlen-im-februar-valerie-dittli-verliert-rueckhalt-der-waadtlaender-mitte",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/019bd5.jpg",
+      "zeit": "2026-08-14T13:58+02:00"
     },
     {
       "id": "1700-3",
-      "titel": "Die Schweizer Athletin Audrey Werro stürzt im Halbfinal der Leichtathletik-EM – und steht dennoch im Final",
-      "was": "Audrey Werro am Boden der Laufbahn, andere Läuferinnen enteilen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Sturz als Scheitern gegen Sturz als Ticket in den Final.",
+      "titel": "Angelica Moser verteidigt ihren EM-Titel im Stabhochsprung souverän. Wie hoch kann es für sie noch gehen?",
+      "was": "Angelica Moser im Flug über die Latte, Jubel im Stadion danach",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: die Zentimeter, die sie überwindet, gegen alles, was in der Schweiz sonst keinen Meter vorwärtskommt.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/sport/die-schweizer-athletin-audrey-werro-stuerzt-im-halbfinal-der-leichtathletik-em-ld.10019407",
-      "bild": "https://img-msp-prod.nzz.ch/2026/08/13/b455bfcb-1d17-4368-a9fa-1e4556d4984e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4144,4144,x961,y0",
-      "zeit": "2026-08-13T15:23+02:00"
+      "artikel": "https://www.nzz.ch/sport/leichtathletik/leichtathletik-em-angelica-moser-holt-erneut-em-gold-im-stabhochsprung-ld.10019510",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/14/eb874c34-6ebb-4a7a-80e0-103f342ec7fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3053,3053,x738,y0",
+      "zeit": "2026-08-14T13:35+02:00"
     }
   ],
   "erwartet": [
     {
       "wann": "heute abends",
-      "was": "Ehrung des Maskenbildners Rick Baker in Locarno, Bühne mit Publikum und Preis in der Hand"
+      "was": "Siebenkampf-Fortsetzung an der EM in Birmingham: Kälin zwischen Erschöpfung und Jubel im Ziel"
     },
     {
-      "wann": "heute abends",
-      "was": "Abendsession der Leichtathletik-EM in Birmingham, Siegerposen und Medaillenübergaben"
+      "wann": "heute nach dem Final",
+      "was": "Siegerehrung Stabhochsprung: Moser auf dem Podest mit Kranz, Medaille und Nationalhymne"
     }
   ],
   "hinweis": ""
