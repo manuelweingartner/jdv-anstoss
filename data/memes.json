@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-14T21:40:45+02:00",
+  "stand": "2026-08-14T21:41:22+02:00",
   "vorschlaege": [
     {
       "vorlage": "knoepfe",
@@ -77,13 +77,13 @@
       "bild": "vorschlag-7.jpg"
     },
     {
-      "vorlage": "ignoriert",
-      "name": "Sleeping Shaq",
+      "vorlage": "skelett",
+      "name": "Waiting Skeleton",
       "zeilen": [
-        "US-Sanktionen gegen Kuba",
-        "Schweizer Firma verliert das Konto"
+        "Ausbau der Rheinfahrrinne",
+        "seit vier Jahrzehnten geprüft"
       ],
-      "warum": "Aussenpolitik lässt kalt, bis sie im eigenen Zahlungsverkehr ankommt",
+      "warum": "das Niedrigwasser macht sichtbar, dass hier eine Debatte laenger dauert als jede Duerre, und genau das ist die Figur des ewigen Wartens",
       "bild": "vorschlag-8.jpg"
     },
     {
