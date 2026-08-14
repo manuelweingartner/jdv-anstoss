@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-13T08:14:54+02:00",
+  "stand": "2026-08-14T21:40:45+02:00",
   "vorschlaege": [
     {
       "vorlage": "knoepfe",
@@ -87,13 +87,14 @@
       "bild": "vorschlag-8.jpg"
     },
     {
-      "vorlage": "skelett",
-      "name": "Waiting Skeleton",
+      "vorlage": "handschlag",
+      "name": "Epic Handshake",
       "zeilen": [
-        "Die AfD-Politik für Arbeiter",
-        "seit 2013"
+        "Gewerkschaftsbund",
+        "SVP",
+        "Nein zum EU-Vertragspaket"
       ],
-      "warum": "die Studie zeigt ein Versprechen, auf dessen Einlösung man beliebig lange sitzen bleibt",
+      "warum": "Lohnschutz und Souveränität sind zwei Gründe, aber im Ständerat treffen sich die verfeindeten Lager beim selben Nein.",
       "bild": "vorschlag-9.jpg"
     },
     {
