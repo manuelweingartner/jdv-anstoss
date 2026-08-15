@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-15",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "1800 Menschen wurden diese Woche vor einem Waldbrand in Deutschland evakuiert. In derselben Woche schätzt das Robert-Koch-Institut 12'500 Hitzetote. Ein Feuer sieht man. Eine Dachwohnung im August nicht."
+    },
+    {
+      "id": "2026-08-15-1021-29",
+      "typ": "remix",
+      "stichwort": "hundert gestrichene Flüge, bei uns drei Fristen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich habe heute hundert gestrichene EasyJet-Flüge in der App gesehen, weil in Frankreich gestreikt wird. Bei uns bräuchte das einen Antrag, eine Schlichtung und drei Fristen. Danach ist Sommer vorbei."
     }
   ]
 }
