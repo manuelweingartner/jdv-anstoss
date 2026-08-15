@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-15",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Zwei 14-Jährige haben in Stendal ein AfD-Plakat beschädigt, ein AfD-Europaabgeordneter hat sie dafür geschlagen. Gut, dass wir unser Law-and-Order-Programm schon vor der Wahl testen. Ehrenamtlich. Ohne Steuergeld."
+    },
+    {
+      "id": "2026-08-15-1021-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "40 Minuten Preisvergleich gegen 30 Franken im Liegen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich habe im Supermarkt 40 Minuten lang Preise verglichen und 3.20 Franken gespart. Zehn Millionen Vermögen verdienen in derselben Zeit 30 Franken. Liegend. Ohne Rabatt."
+    },
+    {
+      "id": "2026-08-15-1021-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Parkbusse gegen dieselbe Zahl mit sechs Nullen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Letzte Woche kostete mich falsches Parkieren 60 Franken und drei schlechte Nächte. Bei einem Konzern steht dieselbe Zahl mit sechs Nullen im Quartalsbericht. Unter Sonstiges."
+    },
+    {
+      "id": "2026-08-15-1021-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "40 Prozent Vermögen, 40 Prozent der Regeln",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Schön, dass wir uns einig sind: Dem reichsten Prozent gehören 40 Prozent des Vermögens, also gehören ihm auch 40 Prozent der Regeln. Ich besitze ein Velo. Mit Korb."
     },
     {
       "id": "2026-08-15-1021-21",
@@ -32,16 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "1800 Menschen wurden diese Woche vor einem Waldbrand in Deutschland evakuiert. In derselben Woche schätzt das Robert-Koch-Institut 12'500 Hitzetote. Ein Feuer sieht man. Eine Dachwohnung im August nicht."
-    },
-    {
-      "id": "2026-08-15-1021-29",
-      "typ": "remix",
-      "stichwort": "hundert gestrichene Flüge, bei uns drei Fristen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich habe heute hundert gestrichene EasyJet-Flüge in der App gesehen, weil in Frankreich gestreikt wird. Bei uns bräuchte das einen Antrag, eine Schlichtung und drei Fristen. Danach ist Sommer vorbei."
     }
   ]
 }
