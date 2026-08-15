@@ -1,111 +1,110 @@
 {
-  "stand": "2026-08-15T06:58:44+02:00",
+  "stand": "2026-08-15T08:07:42+02:00",
   "vorschlaege": [
     {
-      "vorlage": "knoepfe",
-      "name": "Two Buttons",
+      "vorlage": "aliens",
+      "name": "Ancient Aliens",
       "zeilen": [
-        "Freihandel für die Milch",
-        "Schutzzoll für das Fleisch",
-        "Der Bauernverband"
+        "Warum der Rhein kein Wasser mehr hat",
+        "Zufall, dritter Sommer in Folge"
       ],
-      "warum": "der Verband muss heute in Bern zwei Knöpfe drücken, die seine eigenen Mitglieder gegeneinander stellen",
+      "warum": "die naheliegende Ursache wird mit voller Ueberzeugung wegerklaert",
       "bild": "vorschlag-1.jpg"
     },
     {
-      "vorlage": "feuer",
-      "name": "This Is Fine",
+      "vorlage": "freund",
+      "name": "Distracted Boyfriend",
       "zeilen": [
-        "Rhein zu flach für Frachter",
-        "Sonntagsfahrverbot gelockert"
+        "Werbeeinnahmen fuer Blocher-Plakate",
+        "SBB",
+        "Politische Neutralitaet im Zug"
       ],
-      "warum": "die Lage wird nicht behoben, sondern zur neuen Normalität erklärt",
+      "warum": "ein Staatsbetrieb verlaesst sein eigenes Versprechen fuer Geld",
       "bild": "vorschlag-2.jpg"
     },
     {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "Trump annektiert eine Meerenge",
-        "Sicherung des globalen Handelswegs"
+        "Arbeitslosigkeit ist kein Motivationsproblem"
       ],
-      "warum": "weil hier dieselbe Ankündigung einmal schlicht und einmal in der vornehmen Eigenbezeichnung steht",
+      "warum": "eine These zu Indiens Jugendprotesten, der niemand widersprechen kann",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "gehirn",
-      "name": "Expanding Brain",
+      "vorlage": "harold",
+      "name": "Hide the Pain Harold",
       "zeilen": [
-        "Rabatt beim Medikamenteneinkauf",
-        "Rabatt bleibt in der Praxis",
-        "Rabatt ist Betriebsertrag",
-        "Der Patient profitiert von unserer Existenz"
+        "Viele Auslaender verlassen die Schweiz wieder",
+        "Vor allem die Pflegefachleute"
       ],
-      "warum": "die Rechtfertigung für einbehaltene Rabatte wächst mit jeder Stufe der Aufsichtskritik",
+      "warum": "die brave SEM-Statistik und was sie tatsaechlich bedeutet",
       "bild": "vorschlag-4.jpg"
     },
     {
-      "vorlage": "immer",
-      "name": "Always Has Been",
+      "vorlage": "angebot",
+      "name": "Trade Offer",
       "zeilen": [
-        "Der Bella Tola ist weg?",
-        "Steht seit 30 Jahren im Bericht"
+        "Goldmedaille und Nationalhymne",
+        "Training neben dem Teilzeitjob"
       ],
-      "warum": "das Entsetzen kommt Jahrzehnte nach der Ankündigung",
+      "warum": "der Deal, den die Sportnation Audrey Werro anbietet, ist offensichtlich einseitig",
       "bild": "vorschlag-5.jpg"
     },
     {
       "vorlage": "drake",
       "name": "Drake Hotline Bling",
       "zeilen": [
-        "Weniger Tempo, weniger Unfälle",
-        "Blitzerstandorte publizieren"
+        "Ueber das Atomprogramm verhandeln",
+        "Die Meerenge zu US-Gebiet erklaeren"
       ],
-      "warum": "das Naheliegende wird ausgeschlagen zugunsten des Pilotversuchs, der nachweislich nichts bringt",
+      "warum": "das Naheliegende wird ausgeschlagen, das Absurde bevorzugt",
       "bild": "vorschlag-6.jpg"
     },
     {
-      "vorlage": "abzweigung",
-      "name": "Left Exit 12 Off Ramp",
+      "vorlage": "knoepfe",
+      "name": "Two Buttons",
       "zeilen": [
-        "Duschzeit verkuerzen",
-        "Klimastrategie",
+        "Rekordsommer beklagen",
+        "Klimamassnahmen beschliessen",
         "Albert Roesti"
       ],
-      "warum": "Die Abzweigung in letzter Sekunde zeigt, wie der Hitzesommer vom Regierungsauftrag auf den Privathaushalt umgeleitet wird",
+      "warum": "zwei Knoepfe, die sich gar nicht ausschliessen, und trotzdem das Zoegern",
       "bild": "vorschlag-7.jpg"
     },
     {
-      "vorlage": "skelett",
-      "name": "Waiting Skeleton",
+      "vorlage": "gehirn",
+      "name": "Expanding Brain",
       "zeilen": [
-        "Ausbau der Rheinfahrrinne",
-        "seit vier Jahrzehnten geprüft"
+        "Ruecklagen fuers Tier bilden",
+        "Tierversicherung abschliessen",
+        "Die Katze bei Sanitas grundversichern",
+        "Selbstbehalt des Wellensittichs optimieren"
       ],
-      "warum": "das Niedrigwasser macht sichtbar, dass hier eine Debatte laenger dauert als jede Duerre, und genau das ist die Figur des ewigen Wartens",
+      "warum": "die Rechtfertigung eskaliert vom Sparbuch bis zur Franchise fuers Haustier",
       "bild": "vorschlag-8.jpg"
-    },
-    {
-      "vorlage": "handschlag",
-      "name": "Epic Handshake",
-      "zeilen": [
-        "Gewerkschaftsbund",
-        "SVP",
-        "Nein zum EU-Vertragspaket"
-      ],
-      "warum": "Lohnschutz und Souveränität sind zwei Gründe, aber im Ständerat treffen sich die verfeindeten Lager beim selben Nein.",
-      "bild": "vorschlag-9.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Vespa, Baujahr 1946",
-        "Läuft nach 80 Jahren noch",
-        "Frisiertes E-Trottinett",
-        "68 km/h bis zur Zuger Polizei"
+        "Sicherster Hafen der Welt",
+        "US-Staatsanleihen 2010",
+        "Rendite ueber 5 Prozent",
+        "US-Staatsanleihen 2026"
       ],
-      "warum": "der behauptete Fortschritt im Zweirad endet als beschlagnahmtes Trottinett",
+      "warum": "das behauptete Frueher der Weltleitwaehrung gegen das klaegliche Heute",
+      "bild": "vorschlag-9.jpg"
+    },
+    {
+      "vorlage": "glocke",
+      "name": "Bell Curve",
+      "zeilen": [
+        "Witze machen",
+        "Humor-Workshop mit Kreativitaetsmodul",
+        "Witze machen"
+      ],
+      "warum": "die Raender wissen, was HR mit einem Konzept beantwortet",
       "bild": "vorschlag-10.jpg"
     }
   ]
