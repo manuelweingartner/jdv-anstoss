@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-15T06:58:07+02:00",
+  "stand": "2026-08-15T06:58:44+02:00",
   "vorschlaege": [
     {
       "vorlage": "knoepfe",
@@ -23,14 +23,13 @@
       "bild": "vorschlag-2.jpg"
     },
     {
-      "vorlage": "glocke",
-      "name": "Bell Curve",
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Das Wasser wird knapp",
-        "Unsicherheiten in den Kipppunkt-Szenarien",
-        "Das Wasser wird knapp"
+        "Trump annektiert eine Meerenge",
+        "Sicherung des globalen Handelswegs"
       ],
-      "warum": "der Weltklimabericht sagt in 3000 Seiten, was die Ränder in vier Wörtern sagen",
+      "warum": "weil hier dieselbe Ankündigung einmal schlicht und einmal in der vornehmen Eigenbezeichnung steht",
       "bild": "vorschlag-3.jpg"
     },
     {
