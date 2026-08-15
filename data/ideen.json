@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-15",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich sitze im Amt für Wasser. In den Randregionen sind die privaten Quellen versiegt, geliefert wird per Tank. Endlich zahlen auch die für jeden Liter. Zwanzig Jahre Überzeugungsarbeit. Erledigt vom Wetter."
+    },
+    {
+      "id": "2026-08-15-0647-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "30 Franken Ummeldung, Konzernsitz per Formular",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich musste für einen Wohnungswechsel innerhalb derselben Stadt zweimal am Schalter erscheinen, mit Ausweis und 30 Franken Gebühr. Konzerne verlegen ihren Sitz nach Irland. Per Formular. Ohne Kartons."
+    },
+    {
+      "id": "2026-08-15-0647-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wecker 6:15 gegen 800 Franken pro Nacht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Mein Wecker klingelt um 6:15, dafür bekomme ich einen Lohn. Zehn Millionen Vermögen bringen bei drei Prozent 800 Franken pro Nacht. Ohne Wecker. Im Liegen."
+    },
+    {
+      "id": "2026-08-15-0647-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "200 mal so viel, weil sie es tut",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Ein Konzernchef verdient 200 mal so viel wie seine Verkäuferin. Nicht weil er 200 mal so viel arbeitet. Sondern weil sie es tut."
     }
   ]
 }
