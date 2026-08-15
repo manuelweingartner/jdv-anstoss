@@ -44,24 +44,24 @@
       "text": "Schön, dass wir uns einig sind: Dem reichsten Prozent gehören 40 Prozent des Vermögens, also gehören ihm auch 40 Prozent der Regeln. Ich besitze ein Velo. Mit Korb."
     },
     {
-      "id": "2026-08-15-1021-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bibliothek Zug tanzt für 280'000 Klicks",
+      "id": "2026-08-15-1021-10",
+      "typ": "persönlich",
+      "stichwort": "Wetter-App verspricht Regen, Eifel brennt",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe eine Bibliothek zuletzt 2019 von innen gesehen. Die Bibliothek Zug macht jetzt Tiktok und holt damit 280'000 Klicks. Bildung funktioniert also, sie muss nur tanzen."
-    },
-    {
-      "id": "2026-08-15-1021-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "1800 evakuiert, 12'500 nur geschätzt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "1800 Menschen wurden diese Woche vor einem Waldbrand in Deutschland evakuiert. In derselben Woche schätzt das Robert-Koch-Institut 12'500 Hitzetote. Ein Feuer sieht man. Eine Dachwohnung im August nicht."
+      "text": "Ich vertraue seit Wochen einer Wetter-App, die täglich Regen verspricht und nichts liefert. Gleiche Woche: 2000 Menschen wegen des Waldbrands in der Eifel evakuiert. Die App bleibt optimistisch. Mit Sonnensymbol."
+    },
+    {
+      "id": "2026-08-15-1021-12",
+      "typ": "persönlich",
+      "stichwort": "Zwölf Impfungen, Gesundheitsminister prüft den Zufall",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Gegen zwölf Krankheiten bin ich geimpft (echtes Detail einsetzen) und lebe trotzdem noch. In den USA prüft der Gesundheitsminister gerade, ob das ein Zufall war. Ergebnisoffen."
     }
   ]
 }
