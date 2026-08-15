@@ -8091,6 +8091,102 @@
         "witz": true
       },
       "datum": "2026-08-13"
+    },
+    {
+      "id": "2026-08-15-0647-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gemälde zurück, Wald nicht versichert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Italiens Polizei hat drei gestohlene Gemälde für zehn Millionen wiedergefunden. Am selben Tag brennen in der Eifel Wälder, 1800 Menschen sind evakuiert. Der Wald war nicht versichert. Und nicht von Cézanne.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-15"
+    },
+    {
+      "id": "2026-08-15-0647-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "122 Hunde und ein Formular",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich brauche für meinen Hund einen Chip, eine Versicherung und eine Bewilligung. Das Solothurner Veterinäramt liess 122 Hunde töten und brauchte dafür ein Formular. Unterschrieben. Von sich selbst.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-15"
+    },
+    {
+      "id": "2026-08-15-0647-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwei Boeing, eine Flugnummer, halbe Verwaltung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Zwei Boeing flogen in den USA mit derselben Flugnummer aufeinander zu. Ich finde das richtig: eine Nummer für zwei Flüge halbiert unsere Verwaltungskosten. Skalierbar. Ab 2027 mit drei.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-15"
+    },
+    {
+      "id": "2026-08-15-0647-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Amt für Wasser dankt der Dürre",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich sitze im Amt für Wasser. In den Randregionen sind die privaten Quellen versiegt, geliefert wird per Tank. Endlich zahlen auch die für jeden Liter. Zwanzig Jahre Überzeugungsarbeit. Erledigt vom Wetter.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-08-15"
+    },
+    {
+      "id": "2026-08-15-0647-08",
+      "typ": "schnittmenge",
+      "stichwort": "Neun Millionen in der Mauer, die Stiftung mauert steuerfrei",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Zwei Bauarbeiter finden in Belgien neun Millionen Euro in einer Mauer und müssen alles abgeben. Wer neun Millionen in eine Stiftung mauert, bekommt dafür einen Steuerabzug.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-15"
+    },
+    {
+      "id": "2026-08-15-0647-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ueber Geld spricht man nicht, sagt der Chef",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Über Geld spricht man nicht, sagt mein Chef. Er hat recht: Wenn wir vier im Büro unsere Löhne vergleichen würden, müsste er drei davon erhöhen. Vielleicht alle vier.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-15"
     }
   ]
 }
