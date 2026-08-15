@@ -1,42 +1,40 @@
 {
-  "stand": "2026-08-15T08:06:21+02:00",
-  "lauf": "0805",
+  "stand": "2026-08-15T17:01:10+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0805-1",
-      "titel": "«Das war verrückt»: Europameisterin Werro überglücklich",
-      "was": "Audrey Werro jubelnd im Ziel, Fahne, Siegerpodest in Birmingham",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: ein Land, das an diesem Abend alle kennt, gegen ein Land, das den Sport sonst elf Monate lang nicht finanziert.",
+      "id": "1700-1",
+      "titel": "Schweizerin siegt über 800 m – Der Sturz ist vergessen: Werro läuft überragend zu EM-Gold",
+      "was": "Audrey Werro jubelt im Ziel über 800 m mit Schweizer Fahne",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: knapp zwei Minuten Höchstleistung gegen ein Land, das für jede andere Entscheidung Jahrzehnte braucht.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
-      "auch_bei": [
-        "Watson"
-      ],
-      "artikel": "https://www.20min.ch/story/leichtathletik-em-werro-103617608",
-      "bild": "https://image.20min.ch/2026/08/14/9af99cb6-5f07-43a1-890f-4afd40b4a4b2.jpg?s=9b75f64fadfac950f1a0d54e26b5d86a",
-      "zeit": "2026-08-14T22:50+02:00"
+      "quelle": "SRF",
+      "auch_bei": [],
+      "artikel": "https://www.srf.ch/sport/leichtathletik/leichtathletik-em/schweizerin-siegt-ueber-800-m-der-sturz-ist-vergessen-werro-laeuft-ueberragend-zu-em-gold",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/079f36.jpg",
+      "zeit": "2026-08-14T23:18+02:00"
     },
     {
-      "id": "0805-2",
-      "titel": "Renoir, Cézanne, Matisse: Italienische Polizei findet gestohlene Kunst",
-      "was": "Polizisten präsentieren wiedergefundene Gemälde vor Kameras und Absperrband",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Millionenwerte an der Wand gegen den Aufwand, den dieselbe Behörde bei einem gestohlenen Velo betreibt.",
+      "id": "1700-2",
+      "titel": "Fürstenhaus im Wandel – Liechtenstein öffnet die Thronfolge für Frauen",
+      "was": "Fürstenfamilie in Uniform und Ordensschmuck vor Schloss Vaduz, Töchter dabei",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: als historischer Fortschritt gefeiert wird, was anderswo seit Generationen selbstverständlich ist.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Tagesschau",
+      "quelle": "SRF",
       "auch_bei": [
-        "Watson"
+        "NZZ"
       ],
-      "artikel": "https://www.tagesschau.de/ausland/europa/italien-kunst-polizei-100.html",
-      "bild": "https://images.tagesschau.de/image/51fc97fb-4bd4-48bd-8080-c733d097ddc2/AAABoAC-PsE/AAABnSSvrFg/16x9-big/magnani-rocca-102.jpg?width=1280",
-      "zeit": "2026-08-14T17:51+02:00"
+      "artikel": "https://www.srf.ch/news/international/fuerstenhaus-im-wandel-liechtenstein-oeffnet-die-thronfolge-fuer-frauen",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/54e38d.jpg",
+      "zeit": "2026-08-15T12:48+02:00"
     },
     {
-      "id": "0805-3",
+      "id": "1700-3",
       "titel": "Hitze trifft Tradition – Dem Rhein fehlt die Kraft: Basler Fähre steht still",
-      "was": "Basler Fähre liegt still am Ufer, Rheinpegel sichtbar tief",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Tradition als etwas, das angeblich immer bleibt, gegen einen Fluss, der sich nicht daran hält.",
+      "was": "Fähre Wild Maa liegt still am flachen Rheinufer, Fährimaa wartet",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: eine Tradition, die von der Strömung lebt, gegen ein Land, das die Ursache aussitzt.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "SRF",
@@ -48,12 +46,12 @@
   ],
   "erwartet": [
     {
-      "wann": "heute ab Nachmittag",
-      "was": "Leichtathletik-EM Birmingham: Schweizer Finalentscheidungen, Podestfotos, Jubel und Enttäuschung"
+      "wann": "heute ab 19:00",
+      "was": "Abendsession der Leichtathletik-EM in Birmingham: Siegerposen, Podest, Fahnenjubel und enttäuschte Gesichter"
     },
     {
-      "wann": "heute am Abend",
-      "was": "Supercup der deutschen Fussballerinnen: Pokalübergabe und Konfettizeremonie"
+      "wann": "heute ab 16:00",
+      "was": "Erste Runde des Schweizer Cups: Superligisten auf Dorfplätzen, Amateurtorhüter und improvisierte Tribünen"
     }
   ],
   "hinweis": ""
