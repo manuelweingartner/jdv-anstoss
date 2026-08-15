@@ -4,6 +4,21 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-08-15-1021-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Braunau wird Polizeistation",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Um Hitlers Geburtshaus in Braunau wurde achtzig Jahre gestritten. Jetzt zieht eine Polizeistation ein, damit an dieser Adresse wieder jemand nach den Papieren fragt. Amtlich. Mit Öffnungszeiten.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-08-15-1021-04",
       "typ": "politisch-aktuell",
       "stichwort": "AfD testet Law and Order an zwei 14-Jährigen",
@@ -11,17 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Zwei 14-Jährige haben in Stendal ein AfD-Plakat beschädigt, ein AfD-Europaabgeordneter hat sie dafür geschlagen. Gut, dass wir unser Law-and-Order-Programm schon vor der Wahl testen. Ehrenamtlich. Ohne Steuergeld."
-    },
-    {
-      "id": "2026-08-15-1021-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "40 Minuten Preisvergleich gegen 30 Franken im Liegen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich habe im Supermarkt 40 Minuten lang Preise verglichen und 3.20 Franken gespart. Zehn Millionen Vermögen verdienen in derselben Zeit 30 Franken. Liegend. Ohne Rabatt."
+      "text": "Zwei 14-Jährige haben in Stendal ein AfD-Plakat beschädigt, ein AfD-Europaabgeordneter hat sie dafür geschlagen. Gut, dass wir unser Law-and-Order-Programm schon vor der Wahl testen. Ehrenamtlich. Ohne Steuergeld.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-15-1021-06",
@@ -31,7 +41,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Letzte Woche kostete mich falsches Parkieren 60 Franken und drei schlechte Nächte. Bei einem Konzern steht dieselbe Zahl mit sechs Nullen im Quartalsbericht. Unter Sonstiges."
+      "text": "Letzte Woche kostete mich falsches Parkieren 60 Franken und drei schlechte Nächte. Bei einem Konzern steht dieselbe Zahl mit sechs Nullen im Quartalsbericht. Unter Sonstiges.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-08-15-1021-07",
@@ -41,27 +56,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Schön, dass wir uns einig sind: Dem reichsten Prozent gehören 40 Prozent des Vermögens, also gehören ihm auch 40 Prozent der Regeln. Ich besitze ein Velo. Mit Korb."
+      "text": "Schön, dass wir uns einig sind: Dem reichsten Prozent gehören 40 Prozent des Vermögens, also gehören ihm auch 40 Prozent der Regeln. Ich besitze ein Velo. Mit Korb.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-15-1021-10",
+      "id": "2026-08-15-1021-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reinräume ohne Rein, gespart wo niemand hinsieht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Swissmedic hat in Spitälern Reinräume gefunden, die keine sind. Als Verband finde ich das richtig: Wir sparen dort, wo es niemand sieht. Wie die Keime.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-15-1021-32",
       "typ": "persönlich",
-      "stichwort": "Wetter-App verspricht Regen, Eifel brennt",
+      "stichwort": "Fünf Jahre Taliban, Tochter und Hausaufgaben",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich vertraue seit Wochen einer Wetter-App, die täglich Regen verspricht und nichts liefert. Gleiche Woche: 2000 Menschen wegen des Waldbrands in der Eifel evakuiert. Die App bleibt optimistisch. Mit Sonnensymbol."
-    },
-    {
-      "id": "2026-08-15-1021-12",
-      "typ": "persönlich",
-      "stichwort": "Zwölf Impfungen, Gesundheitsminister prüft den Zufall",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Gegen zwölf Krankheiten bin ich geimpft (echtes Detail einsetzen) und lebe trotzdem noch. In den USA prüft der Gesundheitsminister gerade, ob das ein Zufall war. Ergebnisoffen."
+      "text": "Seit fünf Jahren regieren die Taliban, Mädchen dürfen ab der siebten Klasse nicht mehr zur Schule. Meine Tochter beschwert sich über Hausaufgaben. Ich lasse sie.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
