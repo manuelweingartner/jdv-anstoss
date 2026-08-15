@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-15",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -49,6 +49,21 @@
       }
     },
     {
+      "id": "2026-08-15-0647-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Amt für Wasser dankt der Dürre",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich sitze im Amt für Wasser. In den Randregionen sind die privaten Quellen versiegt, geliefert wird per Tank. Endlich zahlen auch die für jeden Liter. Zwanzig Jahre Überzeugungsarbeit. Erledigt vom Wetter.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
       "id": "2026-08-15-0647-08",
       "typ": "schnittmenge",
       "stichwort": "Neun Millionen in der Mauer, die Stiftung mauert steuerfrei",
@@ -72,21 +87,6 @@
       "haltbarkeit": "evergreen",
       "format": 17,
       "text": "Über Geld spricht man nicht, sagt mein Chef. Er hat recht: Wenn wir vier im Büro unsere Löhne vergleichen würden, müsste er drei davon erhöhen. Vielleicht alle vier.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-15-0647-30",
-      "typ": "persönlich",
-      "stichwort": "Quallen legen Reaktoren still",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe meiner Tochter erklärt, dass Atomkraft immer läuft, 70 Prozent des Stroms in Frankreich. Diese Woche legten Quallen und zu warme Flüsse mehrere Reaktoren still. Grundlastfähig. Bis zum ersten Weichtier.",
       "jury": {
         "anker": true,
         "witz": true,
