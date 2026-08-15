@@ -4,6 +4,26 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-08-15-0757-10",
+      "typ": "persönlich",
+      "stichwort": "Wasserhund gegen Gras, Frankreich gegen Quallen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Mein französischer Wasserhund ist allergisch gegen Gras. Frankreich holt 70 Prozent seines Stroms aus Atomkraft und wird gerade von Quallen abgeschaltet. Ich fühle mich weniger allein."
+    },
+    {
+      "id": "2026-08-15-0757-12",
+      "typ": "persönlich",
+      "stichwort": "Sieben Jahre ECO, fünf Jahre Taliban",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich stelle die Abwaschmaschine seit sieben Jahren aus Prinzip auf ECO. Die Taliban regieren seit fünf, und Europa verhandelt längst wieder über Abschiebeflüge dorthin. Prinzipien sind Verhandlungssache. Meine nicht."
+    },
+    {
       "id": "2026-08-15-0757-22",
       "typ": "politisch-aktuell",
       "stichwort": "Frankreich kippt Social-Media-Verbot, mein Feed radikalisiert ab 60",
@@ -42,26 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 19,
       "text": "Ich hatte zwei Wochen Vaterschaftsurlaub. Für die Verteidigung des Landes hätte ich achtzehn Wochen bekommen, mit Sold und einem Bett, in dem nachts niemand schreit."
-    },
-    {
-      "id": "2026-08-15-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Siebzig Minuten Pendeln, sechs Wochen gratis",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich pendle täglich siebzig Minuten. Auf ein Jahr sind das sechs Arbeitswochen, in denen ich für die Standortwahl meines Arbeitgebers arbeite. Unbezahlt. Freiwillig. Mit Abo."
-    },
-    {
-      "id": "2026-08-15-0757-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Dreissig Wohnungen sind Unternehmertum, eine mieten ist ein Risiko",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Schön, dass wir uns einig sind: Wer dreissig Wohnungen besitzt, ist Unternehmer. Wer eine davon mietet, ist ein Ausfallrisiko. Geprüft. Dreifach. Mit Lohnausweis."
     }
   ]
 }
