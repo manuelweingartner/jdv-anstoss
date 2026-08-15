@@ -1,23 +1,8 @@
 {
   "datum": "2026-08-15",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
-    {
-      "id": "2026-08-15-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Instagram für Jugendliche erlaubt, Soldaten nach Ceuta",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Frankreichs Verfassungsgericht erlaubt unter 15-Jährigen Instagram. Am selben Tag holt Spanien wegen Aufrufen auf Instagram Soldaten aus dem Urlaub nach Ceuta. Gefährlich wird die App erst, wenn Arme sie benutzen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
     {
       "id": "2026-08-15-0757-02",
       "typ": "politisch-aktuell",
@@ -31,6 +16,21 @@
         "anker": true,
         "witz": true,
         "neu": false
+      }
+    },
+    {
+      "id": "2026-08-15-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "SEM: viele Zugewanderte gehen wieder",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Gute Nachricht: Viele Zugewanderte verlassen die Schweiz laut Bund von selbst wieder. Wir arbeiten seit vierzig Jahren daran, dass sich hier niemand zu Hause fühlt. Ohne einen einzigen Abschiebeflug.",
+      "jury": {
+        "anker": false,
+        "neu": true,
+        "witz": true
       }
     },
     {
@@ -64,21 +64,6 @@
       }
     },
     {
-      "id": "2026-08-15-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Frankreich kippt Social-Media-Verbot, mein Feed radikalisiert ab 60",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Frankreich wollte alle unter 15 aus Social Media aussperren, das Verfassungsgericht hat es gekippt. Gut so. In meinem Feed radikalisiert sich niemand unter 60.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-08-15-0757-25",
       "typ": "politisch-aktuell",
       "stichwort": "Zwei Wochen Kind, achtzehn Wochen Landesverteidigung",
@@ -91,6 +76,21 @@
         "anker": true,
         "witz": true,
         "neu": true
+      }
+    },
+    {
+      "id": "2026-08-15-0757-29",
+      "typ": "remix",
+      "stichwort": "Sonnencreme abgegeben, Drohne über Leipzig",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich musste am Flughafen meine Sonnencreme abgeben, 110 Milliliter, Gefahr für den Flugverkehr. Über Leipzig stand diese Woche eine Drohne. Die hat niemand umgefüllt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
       }
     }
   ]
