@@ -1,59 +1,59 @@
 {
-  "stand": "2026-08-14T17:00:50+02:00",
-  "lauf": "1700",
+  "stand": "2026-08-15T08:06:21+02:00",
+  "lauf": "0805",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Großbritannien: Nigel Farage gewinnt Nachwahl gegen Count Binface in Clacton",
-      "was": "Farage bei der Wahlverkündung neben Kandidat mit Abfalleimer auf dem Kopf",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: der Ernst der Volksvertretung gegen die Bühne, die er sich mit einem Mann im Mülltonnenkostüm teilt.",
+      "id": "0805-1",
+      "titel": "«Das war verrückt»: Europameisterin Werro überglücklich",
+      "was": "Audrey Werro jubelnd im Ziel, Fahne, Siegerpodest in Birmingham",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: ein Land, das an diesem Abend alle kennt, gegen ein Land, das den Sport sonst elf Monate lang nicht finanziert.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
+      "auch_bei": [
+        "Watson"
+      ],
+      "artikel": "https://www.20min.ch/story/leichtathletik-em-werro-103617608",
+      "bild": "https://image.20min.ch/2026/08/14/9af99cb6-5f07-43a1-890f-4afd40b4a4b2.jpg?s=9b75f64fadfac950f1a0d54e26b5d86a",
+      "zeit": "2026-08-14T22:50+02:00"
+    },
+    {
+      "id": "0805-2",
+      "titel": "Renoir, Cézanne, Matisse: Italienische Polizei findet gestohlene Kunst",
+      "was": "Polizisten präsentieren wiedergefundene Gemälde vor Kameras und Absperrband",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Millionenwerte an der Wand gegen den Aufwand, den dieselbe Behörde bei einem gestohlenen Velo betreibt.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Spiegel",
+      "quelle": "Tagesschau",
       "auch_bei": [
         "Watson"
       ],
-      "artikel": "https://www.spiegel.de/ausland/grossbritannien-nigel-farage-gewinnt-nachwahl-in-clacton-gegen-count-binface-a-4e245102-4b2d-4c4b-a963-413f05030636#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/622b5f29-e5bf-427c-8522-e6f34aa61111_w520_r2.08_fpx29.51_fpy54.99.jpg",
-      "zeit": "2026-08-14T14:11+02:00"
+      "artikel": "https://www.tagesschau.de/ausland/europa/italien-kunst-polizei-100.html",
+      "bild": "https://images.tagesschau.de/image/51fc97fb-4bd4-48bd-8080-c733d097ddc2/AAABoAC-PsE/AAABnSSvrFg/16x9-big/magnani-rocca-102.jpg?width=1280",
+      "zeit": "2026-08-14T17:51+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Regierungswahlen im Februar – Valérie Dittli verliert Rückhalt der Waadtländer Mitte",
-      "was": "Valérie Dittli vor Mikrofonen, Mitte-Parteispitze daneben mit versteinerten Mienen",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: das gemeinsame Parteifoto gegen die Sitzung, in der man sie gerade fallen liess.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [
-        "Watson"
-      ],
-      "artikel": "https://www.srf.ch/news/schweiz/regierungswahlen-im-februar-valerie-dittli-verliert-rueckhalt-der-waadtlaender-mitte",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/019bd5.jpg",
-      "zeit": "2026-08-14T13:58+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Angelica Moser verteidigt ihren EM-Titel im Stabhochsprung souverän. Wie hoch kann es für sie noch gehen?",
-      "was": "Angelica Moser im Flug über die Latte, Jubel im Stadion danach",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: die Zentimeter, die sie überwindet, gegen alles, was in der Schweiz sonst keinen Meter vorwärtskommt.",
+      "id": "0805-3",
+      "titel": "Hitze trifft Tradition – Dem Rhein fehlt die Kraft: Basler Fähre steht still",
+      "was": "Basler Fähre liegt still am Ufer, Rheinpegel sichtbar tief",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Tradition als etwas, das angeblich immer bleibt, gegen einen Fluss, der sich nicht daran hält.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "NZZ",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/sport/leichtathletik/leichtathletik-em-angelica-moser-holt-erneut-em-gold-im-stabhochsprung-ld.10019510",
-      "bild": "https://img-msp-prod.nzz.ch/2026/08/14/eb874c34-6ebb-4a7a-80e0-103f342ec7fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3053,3053,x738,y0",
-      "zeit": "2026-08-14T13:35+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/hitze-trifft-tradition-dem-rhein-fehlt-die-kraft-basler-faehre-steht-still",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/8293301.jpg",
+      "zeit": "2026-08-14T22:18+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute abends",
-      "was": "Siebenkampf-Fortsetzung an der EM in Birmingham: Kälin zwischen Erschöpfung und Jubel im Ziel"
+      "wann": "heute ab Nachmittag",
+      "was": "Leichtathletik-EM Birmingham: Schweizer Finalentscheidungen, Podestfotos, Jubel und Enttäuschung"
     },
     {
-      "wann": "heute nach dem Final",
-      "was": "Siegerehrung Stabhochsprung: Moser auf dem Podest mit Kranz, Medaille und Nationalhymne"
+      "wann": "heute am Abend",
+      "was": "Supercup der deutschen Fussballerinnen: Pokalübergabe und Konfettizeremonie"
     }
   ],
   "hinweis": ""
