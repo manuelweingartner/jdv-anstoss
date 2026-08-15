@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-15",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -64,18 +64,18 @@
       }
     },
     {
-      "id": "2026-08-15-1021-23",
+      "id": "2026-08-15-1021-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Reinräume ohne Rein, gespart wo niemand hinsieht",
+      "stichwort": "WG-Zimmer 1'200, Briefkasten 80",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Swissmedic hat in Spitälern Reinräume gefunden, die keine sind. Als Verband finde ich das richtig: Wir sparen dort, wo es niemand sieht. Wie die Keime.",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ein WG-Zimmer in Zürich kostet 1'200 Franken im Monat. Eine Holding zahlt für ihren Briefkasten im Kanton Zug 80. Beide Adressen sind bewohnt.",
       "jury": {
         "anker": true,
         "witz": true,
-        "neu": true
+        "neu": false
       }
     },
     {
