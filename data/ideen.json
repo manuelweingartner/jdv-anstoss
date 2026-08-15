@@ -4,6 +4,16 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-08-15-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Frankreich kippt Social-Media-Verbot, mein Feed radikalisiert ab 60",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Frankreich wollte alle unter 15 aus Social Media aussperren, das Verfassungsgericht hat es gekippt. Gut so. In meinem Feed radikalisiert sich niemand unter 60."
+    },
+    {
       "id": "2026-08-15-0757-23",
       "typ": "politisch-aktuell",
       "stichwort": "Migrationsamt feiert die Abreise als Erfolg",
@@ -52,16 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Schön, dass wir uns einig sind: Wer dreissig Wohnungen besitzt, ist Unternehmer. Wer eine davon mietet, ist ein Ausfallrisiko. Geprüft. Dreifach. Mit Lohnausweis."
-    },
-    {
-      "id": "2026-08-15-0757-28",
-      "typ": "schnittmenge",
-      "stichwort": "Hormus annektieren, 14 Kilometer nach Spanien",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Trump will die Strasse von Hormus zu US-Gebiet erklären, 11'000 Kilometer von Washington entfernt. Wer die 14 Kilometer von Marokko nach Spanien fährt, ist ein Grenzverletzer."
     }
   ]
 }
