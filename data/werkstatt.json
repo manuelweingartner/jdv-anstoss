@@ -1,9 +1,13 @@
 {
-  "typ": "meme",
-  "caption": "",
-  "notiz": "Vorlage 'freund' mit 2 Zeile(n).",
+  "typ": "slide",
+  "caption": "🌲🌲🌲 🇩🇪🇩🇪🇩🇪 🙃🙃🙃 💸💸💸 🎖️🎖️🎖️",
+  "notiz": "5 Slides aus den letzten Bluesky-Posts",
   "dateien": [
-    "meme-1.jpg"
+    "slide-1.jpg",
+    "slide-2.jpg",
+    "slide-3.jpg",
+    "slide-4.jpg",
+    "slide-5.jpg"
   ],
-  "stand": "2026-08-10T21:54:03+02:00"
+  "stand": "2026-08-15T06:57:18+02:00"
 }
