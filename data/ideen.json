@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-15",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,16 @@
       "haltbarkeit": "evergreen",
       "format": 14,
       "text": "Ein Konzernchef verdient 200 mal so viel wie seine Verkäuferin. Nicht weil er 200 mal so viel arbeitet. Sondern weil sie es tut."
+    },
+    {
+      "id": "2026-08-15-0647-28",
+      "typ": "schnittmenge",
+      "stichwort": "Goldfund gefeiert, neunhundert Franken verdächtigt",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Bauarbeiter finden in Belgien neun Millionen Euro Gold in einer Wand: eine schöne Geschichte. Neunhundert Franken auf dem Konto einer Sozialhilfeempfängerin: ein Betrugsverdacht."
     }
   ]
 }
