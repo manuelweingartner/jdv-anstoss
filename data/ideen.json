@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-15",
-  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Zwei 14-Jährige haben in Stendal ein AfD-Plakat beschädigt, ein AfD-Europaabgeordneter hat sie dafür geschlagen. Gut, dass wir unser Law-and-Order-Programm schon vor der Wahl testen. Ehrenamtlich. Ohne Steuergeld."
+    },
+    {
+      "id": "2026-08-15-1021-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bibliothek Zug tanzt für 280'000 Klicks",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe eine Bibliothek zuletzt 2019 von innen gesehen. Die Bibliothek Zug macht jetzt Tiktok und holt damit 280'000 Klicks. Bildung funktioniert also, sie muss nur tanzen."
+    },
+    {
+      "id": "2026-08-15-1021-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "1800 evakuiert, 12'500 nur geschätzt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "1800 Menschen wurden diese Woche vor einem Waldbrand in Deutschland evakuiert. In derselben Woche schätzt das Robert-Koch-Institut 12'500 Hitzetote. Ein Feuer sieht man. Eine Dachwohnung im August nicht."
     }
   ]
 }
