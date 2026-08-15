@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-15",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Endlich eine Generation mit Ehrgeiz: In Indien demonstrieren junge Leute gegen die Arbeitslosigkeit. Wir nehmen gern 40 davon. Als Praktikum. Sechs Monate. Ohne Lohn."
+    },
+    {
+      "id": "2026-08-15-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwei Wochen Kind, achtzehn Wochen Landesverteidigung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich hatte zwei Wochen Vaterschaftsurlaub. Für die Verteidigung des Landes hätte ich achtzehn Wochen bekommen, mit Sold und einem Bett, in dem nachts niemand schreit."
+    },
+    {
+      "id": "2026-08-15-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Siebzig Minuten Pendeln, sechs Wochen gratis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich pendle täglich siebzig Minuten. Auf ein Jahr sind das sechs Arbeitswochen, in denen ich für die Standortwahl meines Arbeitgebers arbeite. Unbezahlt. Freiwillig. Mit Abo."
+    },
+    {
+      "id": "2026-08-15-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Dreissig Wohnungen sind Unternehmertum, eine mieten ist ein Risiko",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Schön, dass wir uns einig sind: Wer dreissig Wohnungen besitzt, ist Unternehmer. Wer eine davon mietet, ist ein Ausfallrisiko. Geprüft. Dreifach. Mit Lohnausweis."
     }
   ]
 }
