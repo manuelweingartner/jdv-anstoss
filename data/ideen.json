@@ -4,6 +4,51 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-08-15-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Instagram für Jugendliche erlaubt, Soldaten nach Ceuta",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Frankreichs Verfassungsgericht erlaubt unter 15-Jährigen Instagram. Am selben Tag holt Spanien wegen Aufrufen auf Instagram Soldaten aus dem Urlaub nach Ceuta. Gefährlich wird die App erst, wenn Arme sie benutzen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-15-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "380 Franken Kasse, Hund neu mitversichert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich zahle jeden Monat 380 Franken Krankenkasse und kann dort neu meinen Hund mitversichern. Endlich eine Kundschaft, die bei jedem Aufschlag freundlich schaut. Kein Widerspruch. Keine Zweitmeinung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-08-15-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Abriss geliefert, Aufbau ausgeschrieben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "500 Milliarden kostet der Wiederaufbau der Ukraine. Gute Nachricht für die Aktionär*innen: Wer den Abriss geliefert hat, bietet jetzt auf den Aufbau. Kreislaufwirtschaft. Zertifiziert.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
       "id": "2026-08-15-0757-10",
       "typ": "persönlich",
       "stichwort": "Wasserhund gegen Gras, Frankreich gegen Quallen",
@@ -11,17 +56,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 5,
-      "text": "Mein französischer Wasserhund ist allergisch gegen Gras. Frankreich holt 70 Prozent seines Stroms aus Atomkraft und wird gerade von Quallen abgeschaltet. Ich fühle mich weniger allein."
-    },
-    {
-      "id": "2026-08-15-0757-12",
-      "typ": "persönlich",
-      "stichwort": "Sieben Jahre ECO, fünf Jahre Taliban",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich stelle die Abwaschmaschine seit sieben Jahren aus Prinzip auf ECO. Die Taliban regieren seit fünf, und Europa verhandelt längst wieder über Abschiebeflüge dorthin. Prinzipien sind Verhandlungssache. Meine nicht."
+      "text": "Mein französischer Wasserhund ist allergisch gegen Gras. Frankreich holt 70 Prozent seines Stroms aus Atomkraft und wird gerade von Quallen abgeschaltet. Ich fühle mich weniger allein.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-08-15-0757-22",
@@ -31,27 +71,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Frankreich wollte alle unter 15 aus Social Media aussperren, das Verfassungsgericht hat es gekippt. Gut so. In meinem Feed radikalisiert sich niemand unter 60."
-    },
-    {
-      "id": "2026-08-15-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Migrationsamt feiert die Abreise als Erfolg",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich arbeite seit 30 Jahren im Migrationsamt und finde die neuen Zahlen beruhigend: Die meisten Zugewanderten verlassen das Land von selbst wieder. Unsere Integrationsarbeit trägt Früchte."
-    },
-    {
-      "id": "2026-08-15-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Konzern entdeckt Indiens Arbeitslosenprotest als Talentpool",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Endlich eine Generation mit Ehrgeiz: In Indien demonstrieren junge Leute gegen die Arbeitslosigkeit. Wir nehmen gern 40 davon. Als Praktikum. Sechs Monate. Ohne Lohn."
+      "text": "Frankreich wollte alle unter 15 aus Social Media aussperren, das Verfassungsgericht hat es gekippt. Gut so. In meinem Feed radikalisiert sich niemand unter 60.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-15-0757-25",
@@ -61,7 +86,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 19,
-      "text": "Ich hatte zwei Wochen Vaterschaftsurlaub. Für die Verteidigung des Landes hätte ich achtzehn Wochen bekommen, mit Sold und einem Bett, in dem nachts niemand schreit."
+      "text": "Ich hatte zwei Wochen Vaterschaftsurlaub. Für die Verteidigung des Landes hätte ich achtzehn Wochen bekommen, mit Sold und einem Bett, in dem nachts niemand schreit.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
