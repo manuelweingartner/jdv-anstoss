@@ -1,97 +1,27 @@
 {
-  "datum": "2026-08-13",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-08-15",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-13-0801-01",
+      "id": "2026-08-15-0647-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Cloud-Abo gegen Frühstartrente",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Ich zahle 9.90 Franken im Monat, damit mein Handy die Fotos in die Cloud lädt. Sechsjährige in Deutschland bekommen künftig gleich viel vom Staat. Als Rente. Für achtzig Jahre.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-13-0801-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Medikamentenpreise als Vertrauensbildung",
+      "stichwort": "Zwei Boeing, eine Flugnummer, halbe Verwaltung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich finde es richtig, dass die Schweiz jahrelang zu viel für Medikamente bezahlt hat. Zu billige Pillen nimmt niemand ernst. Vertrauensbildende Massnahme. Rückwirkend.",
-      "jury": {
-        "anker": false,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Zwei Boeing flogen in den USA mit derselben Flugnummer aufeinander zu. Ich finde das richtig: eine Nummer für zwei Flüge halbiert unsere Verwaltungskosten. Skalierbar. Ab 2027 mit drei."
     },
     {
-      "id": "2026-08-13-0801-04",
+      "id": "2026-08-15-0647-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Gletscher weg, Reduktionsziel erfüllt",
+      "stichwort": "Amt für Wasser dankt der Dürre",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Der Bella-Tola-Gletscher im Wallis ist weggeschmolzen. Gute Nachricht: damit ist unser Reduktionsziel für 2050 schon heute erfüllt. Sogar übererfüllt. Ohne einen Franken Subvention.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-13-0801-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Parkplatz Zürich so teuer wie WG-Zimmer Leipzig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ein Parkplatz in Zürich kostet 350 Franken im Monat, ein WG-Zimmer in Leipzig auch. Autos haben die bessere Wohnungspolitik. Zugewiesen. Nummeriert. Garantiert.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-13-0801-10",
-      "typ": "persönlich",
-      "stichwort": "Vierter Fragebogen zur Erschöpfung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Was chronisch Kranke am meisten erschöpft, ist nicht die Krankheit. Sondern der vierte Fragebogen zur Erschöpfung. Ausgedruckt. In Kopie. Mit Arztzeugnis.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-13-0801-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Moral kostete 1'800 Prozent Rüstungsrendite",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "2022 habe ich keine Rheinmetall-Aktien gekauft, weil mir das moralisch falsch vorkam. Diese Haltung hat mich seither ungefähr 1'800 Prozent gekostet. Mein Anlageberater nennt das einen Anfängerfehler.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "text": "Ich sitze im Amt für Wasser. In den Randregionen sind die privaten Quellen versiegt, geliefert wird per Tank. Endlich zahlen auch die für jeden Liter. Zwanzig Jahre Überzeugungsarbeit. Erledigt vom Wetter."
     }
   ]
 }

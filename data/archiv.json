@@ -7995,6 +7995,102 @@
         "neu": true
       },
       "datum": "2026-08-13"
+    },
+    {
+      "id": "2026-08-13-0801-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Cloud-Abo gegen Frühstartrente",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich zahle 9.90 Franken im Monat, damit mein Handy die Fotos in die Cloud lädt. Sechsjährige in Deutschland bekommen künftig gleich viel vom Staat. Als Rente. Für achtzig Jahre.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-13"
+    },
+    {
+      "id": "2026-08-13-0801-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Medikamentenpreise als Vertrauensbildung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es richtig, dass die Schweiz jahrelang zu viel für Medikamente bezahlt hat. Zu billige Pillen nimmt niemand ernst. Vertrauensbildende Massnahme. Rückwirkend.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-13"
+    },
+    {
+      "id": "2026-08-13-0801-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gletscher weg, Reduktionsziel erfüllt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Der Bella-Tola-Gletscher im Wallis ist weggeschmolzen. Gute Nachricht: damit ist unser Reduktionsziel für 2050 schon heute erfüllt. Sogar übererfüllt. Ohne einen Franken Subvention.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-08-13"
+    },
+    {
+      "id": "2026-08-13-0801-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Parkplatz Zürich so teuer wie WG-Zimmer Leipzig",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ein Parkplatz in Zürich kostet 350 Franken im Monat, ein WG-Zimmer in Leipzig auch. Autos haben die bessere Wohnungspolitik. Zugewiesen. Nummeriert. Garantiert.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-08-13"
+    },
+    {
+      "id": "2026-08-13-0801-10",
+      "typ": "persönlich",
+      "stichwort": "Vierter Fragebogen zur Erschöpfung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Was chronisch Kranke am meisten erschöpft, ist nicht die Krankheit. Sondern der vierte Fragebogen zur Erschöpfung. Ausgedruckt. In Kopie. Mit Arztzeugnis.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-13"
+    },
+    {
+      "id": "2026-08-13-0801-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Moral kostete 1'800 Prozent Rüstungsrendite",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "2022 habe ich keine Rheinmetall-Aktien gekauft, weil mir das moralisch falsch vorkam. Diese Haltung hat mich seither ungefähr 1'800 Prozent gekostet. Mein Anlageberater nennt das einen Anfängerfehler.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-13"
     }
   ]
 }
