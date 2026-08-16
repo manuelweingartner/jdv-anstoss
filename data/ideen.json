@@ -1,8 +1,38 @@
 {
   "datum": "2026-08-16",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-16-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Handwerkertermin 8 bis 17 Uhr, jemand wartet gratis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe einen Handwerkertermin zwischen 8 und 17 Uhr bekommen. Das ganze Land ist darauf gebaut, dass zu Hause jemand wartet. Unbezahlt. Seit hundert Jahren."
+    },
+    {
+      "id": "2026-08-16-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "eine Stunde laenger taeglich sind genau meine Ferien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Mein Feierabend verschiebt sich jeden Tag um eine Stunde. Das sind fünfeinhalb Wochen im Jahr, unbezahlt. Genau so viele Ferien habe ich. Bezahlt."
+    },
+    {
+      "id": "2026-08-16-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "18 Prozent Lohnlücke heisst ab 1. November gratis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Frauen verdienen im Schnitt 18 Prozent weniger. Umgerechnet arbeiten sie ab dem 1. November gratis. Praktisch, dass wenigstens die Weihnachtsfeier auf die Firma geht."
+    },
     {
       "id": "2026-08-16-0757-23",
       "typ": "politisch-aktuell",
