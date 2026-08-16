@@ -4,64 +4,94 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-16-2034-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Harvard Platz eins, Karlsruhe sammelt für den Quantencomputer",
+      "id": "2026-08-16-2034-09",
+      "typ": "remix",
+      "stichwort": "Ventilator für 89 Franken gegen Verfassungsänderung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich habe gestern den letzten Ventilator im Baumarkt gekauft, 89 Franken. Am selben Tag schlagen die SPD-Ministerien gegen die Hitze eine Verfassungsänderung vor. Beides kühlt gleich gut. Meiner ab sofort.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-08-16-2034-10",
+      "typ": "persönlich",
+      "stichwort": "Chihiro nach 25 Jahren, Arbeitsvertrag als Existenzbeweis",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Harvard verteidigt Platz eins im Uni-Ranking. Am selben Tag sammelt eine Hochschule in Karlsruhe Spenden, weil der Staat ihren Quantencomputer nicht zahlt. Weltspitze und Kollekte. Gleichzeitig."
+      "format": 5,
+      "text": "Ich war mit meiner Tochter in Chihiros Reise ins Zauberland, 25 Jahre nach dem Original wieder im Kino. Am gruseligsten fand sie, dass man dort einen Arbeitsvertrag braucht, um zu existieren.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-16-2034-02",
+      "id": "2026-08-16-2034-11",
+      "typ": "persönlich",
+      "stichwort": "23 Sekunden Arsenal, fünf Tage Löschzüge",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Arsenal führte am Sonntag nach 23 Sekunden gegen ManCity. Belgien bat am selben Tag um deutsche Löschzüge für seinen Rekord-Waldbrand. Ich sass vor beidem. Nur eine Mannschaft war rechtzeitig da.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-08-16-2034-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Freiwillige Feuerwehr, freiwilliges Klimaziel",
+      "stichwort": "CSU bremst Moor-Wiedervernässung, Waldbrand erledigt es gratis",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Frankreichs Feuerwehr klagt nach den Grossbränden über fehlendes Geld und will im September protestieren. Praktisch: Wer freiwillig löscht, kann auch freiwillig auf Lohn verzichten. Wie unsere Klimaziele. Freiwillig."
+      "text": "Ich bremse für die CSU die Wiedervernässung der Moore. Diese Woche hat der grösste Waldbrand der Landesgeschichte eines für uns trockengelegt. Gratis. Ohne Antrag.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-16-2034-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wohnungsdossier gegen Kaufangebot",
+      "id": "2026-08-16-2034-29",
+      "typ": "remix",
+      "stichwort": "schönstes Kompliment kam von einer Betrugs-KI",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe für eine 3-Zimmer-Wohnung einen Betreibungsauszug, drei Lohnabrechnungen und ein Motivationsschreiben abgegeben. Wer die ganze Liegenschaft kauft, gibt nichts davon ab. Nur ein Angebot."
+      "format": 10,
+      "text": "Ich habe das schönste Kompliment für meine Arbeit bekommen, drei Absätze lang und mit Zitaten. Es kam von einer KI, die mir 400 Franken abnehmen wollte. Sonst schreibt ja niemand.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-08-16-2034-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "1'600 Franken im Schlaf, ich stehe um sechs auf",
+      "id": "2026-08-16-2034-30",
+      "typ": "persönlich",
+      "stichwort": "Chihiro nach 25 Jahren, Tochter erkennt die Schweine",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Zehn Millionen werfen 1'600 Franken pro Tag ab, ohne dass jemand aufsteht. Ich stehe um sechs auf. Das Geld hat am Freitag verdient, was ich im Monat verdiene."
-    },
-    {
-      "id": "2026-08-16-2034-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwölf Franken aus dem Regal gegen jahrelang zu wenig Lohn",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Zwölf Franken aus dem Regal nehmen ist Diebstahl mit Anzeige. Jahrelang zu wenig Lohn auszahlen ist ein Rechnungsfehler mit Nachzahlung. Dieselbe Bewegung. Andere Richtung."
-    },
-    {
-      "id": "2026-08-16-2034-08",
-      "typ": "schnittmenge",
-      "stichwort": "Ronaldo hoert mit 41 auf, ich auch",
-      "plattform": "Instagram + Threads",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Cristiano Ronaldo deutet mit 41 sein Karriereende an und möchte ein spektakuläres Vermächtnis hinterlassen. Wer bei uns mit 41 aufhört zu arbeiten, hinterlässt eine Rentenlücke."
+      "format": 5,
+      "text": "Chihiros Reise ins Zauberland läuft nach 25 Jahren wieder im Kino. Meine Tochter hat die Eltern, die sich am Gratisbuffet in Schweine fressen, sofort erkannt. Nicht aus dem Film.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     }
   ]
 }
