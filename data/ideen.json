@@ -1,8 +1,38 @@
 {
   "datum": "2026-08-16",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-16-2034-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohnungsdossier gegen Kaufangebot",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe für eine 3-Zimmer-Wohnung einen Betreibungsauszug, drei Lohnabrechnungen und ein Motivationsschreiben abgegeben. Wer die ganze Liegenschaft kauft, gibt nichts davon ab. Nur ein Angebot."
+    },
+    {
+      "id": "2026-08-16-2034-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "1'600 Franken im Schlaf, ich stehe um sechs auf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Zehn Millionen werfen 1'600 Franken pro Tag ab, ohne dass jemand aufsteht. Ich stehe um sechs auf. Das Geld hat am Freitag verdient, was ich im Monat verdiene."
+    },
+    {
+      "id": "2026-08-16-2034-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwölf Franken aus dem Regal gegen jahrelang zu wenig Lohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Zwölf Franken aus dem Regal nehmen ist Diebstahl mit Anzeige. Jahrelang zu wenig Lohn auszahlen ist ein Rechnungsfehler mit Nachzahlung. Dieselbe Bewegung. Andere Richtung."
+    },
     {
       "id": "2026-08-16-2034-08",
       "typ": "schnittmenge",
@@ -32,16 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich bremse für die CSU die Wiedervernässung der Moore. Diese Woche hat der grösste Waldbrand der Landesgeschichte eines für uns trockengelegt. Gratis. Ohne Antrag."
-    },
-    {
-      "id": "2026-08-16-2034-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rente und Pflege erst nach sechs Wochen Sommerpause",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Gute Nachricht: Nach sechs Wochen Sommerpause nehmen wir Rente und Pflege endlich in Angriff. Wer zwanzig Jahre gewartet hat, hält auch September aus. Trainiert haben wir ihn selbst."
     }
   ]
 }
