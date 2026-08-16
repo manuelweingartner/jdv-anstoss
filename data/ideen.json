@@ -1,8 +1,38 @@
 {
   "datum": "2026-08-16",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-16-0929-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "1'400 Wohnungen, nie danke gesagt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich besitze 1'400 Wohnungen und finde diese Enteignungsdebatte verletzend. Meine Mieter*innen überweisen mir jeden Monat freiwillig eine Dividende. Und ich habe nie danke gesagt."
+    },
+    {
+      "id": "2026-08-16-0929-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "280'000 Klicks, also kein Gebäude nötig",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich sitze in der Sparkommission und freue mich: Eine Schweizer Stadtbibliothek holt auf Tiktok 280'000 Klicks. Wer so viel Reichweite hat, braucht offensichtlich kein Gebäude mehr. Bücher im zweiten Schritt."
+    },
+    {
+      "id": "2026-08-16-0929-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Monschau um 10 Uhr, Hawaii am selben Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Als Nachhaltigkeitschef eines Konzerns melde ich Entwarnung: Monschau muss bis 10 Uhr die Häuser räumen, weil Belgien brennt, und Hawaii sitzt am selben Tag im Hurrikan. Zwei Zufälle. Kein Muster."
+    },
     {
       "id": "2026-08-16-0929-30",
       "typ": "politisch-aktuell",
