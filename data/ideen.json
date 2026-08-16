@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-16",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
   "fertig": true,
   "ideen": [
     {
@@ -34,21 +34,6 @@
       }
     },
     {
-      "id": "2026-08-16-2034-11",
-      "typ": "persönlich",
-      "stichwort": "23 Sekunden Arsenal, fünf Tage Löschzüge",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Arsenal führte am Sonntag nach 23 Sekunden gegen ManCity. Belgien bat am selben Tag um deutsche Löschzüge für seinen Rekord-Waldbrand. Ich sass vor beidem. Nur eine Mannschaft war rechtzeitig da.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
       "id": "2026-08-16-2034-23",
       "typ": "politisch-aktuell",
       "stichwort": "CSU bremst Moor-Wiedervernässung, Waldbrand erledigt es gratis",
@@ -64,32 +49,32 @@
       }
     },
     {
-      "id": "2026-08-16-2034-29",
-      "typ": "remix",
-      "stichwort": "schönstes Kompliment kam von einer Betrugs-KI",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 10,
-      "text": "Ich habe das schönste Kompliment für meine Arbeit bekommen, drei Absätze lang und mit Zitaten. Es kam von einer KI, die mir 400 Franken abnehmen wollte. Sonst schreibt ja niemand.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-08-16-2034-30",
-      "typ": "persönlich",
-      "stichwort": "Chihiro nach 25 Jahren, Tochter erkennt die Schweine",
+      "id": "2026-08-16-2034-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rente und Pflege erst nach sechs Wochen Sommerpause",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 5,
-      "text": "Chihiros Reise ins Zauberland läuft nach 25 Jahren wieder im Kino. Meine Tochter hat die Eltern, die sich am Gratisbuffet in Schweine fressen, sofort erkannt. Nicht aus dem Film.",
+      "format": 13,
+      "text": "Gute Nachricht: Nach sechs Wochen Sommerpause nehmen wir Rente und Pflege endlich in Angriff. Wer zwanzig Jahre gewartet hat, hält auch September aus. Trainiert haben wir ihn selbst.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-16-2034-28",
+      "typ": "schnittmenge",
+      "stichwort": "Ronaldo hoert mit 41 auf, ich mit 61",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Cristiano Ronaldo deutet mit 41 das Karriereende an und will ein spektakuläres Vermächtnis. Wer mit 61 aufhören will, bekommt einen Vortrag über Eigenverantwortung.",
       "jury": {
         "witz": true,
-        "neu": true,
+        "neu": false,
         "anker": true
       }
     }
