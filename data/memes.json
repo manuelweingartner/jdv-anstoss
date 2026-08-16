@@ -1,109 +1,111 @@
 {
-  "stand": "2026-08-16T08:07:51+02:00",
+  "stand": "2026-08-16T19:25:18+02:00",
   "vorschlaege": [
     {
-      "vorlage": "handschlag",
-      "name": "Epic Handshake",
+      "vorlage": "drake",
+      "name": "Drake Hotline Bling",
       "zeilen": [
-        "Bauernverband",
-        "Städteverband",
-        "Der Bund soll zahlen"
+        "Mehr Ärztinnen ausbilden",
+        "Den Arbeitszeit-Deckel verschieben"
       ],
-      "warum": "weil Stadt und Land sich in allem streiten, ausser bei der Frage, wer die Rechnung übernimmt",
+      "warum": "weil die Kommission die naheliegende Lösung ausschlägt und die kosmetische wählt",
       "bild": "vorschlag-1.jpg"
-    },
-    {
-      "vorlage": "skelett",
-      "name": "Waiting Skeleton",
-      "zeilen": [
-        "Die vollautomatische Bahn der BLT",
-        "Seit dreissig Jahren fast so weit"
-      ],
-      "warum": "weil das Versprechen des führerlosen Fahrens älter ist als jeder angekündigte Termin",
-      "bild": "vorschlag-2.jpg"
-    },
-    {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
-      "zeilen": [
-        "Weniger Inhalt, gleicher Preis",
-        "Rezepturbedingte Portionsanpassung"
-      ],
-      "warum": "weil die versteckte Preiserhöhung erst durch ihren eigenen Marketingbegriff komisch wird",
-      "bild": "vorschlag-3.jpg"
-    },
-    {
-      "vorlage": "angebot",
-      "name": "Trade Offer",
-      "zeilen": [
-        "Einen Sommerjob in Genf",
-        "Zwei Franken weniger pro Stunde"
-      ],
-      "warum": "weil der Mindestlohn-Rabatt genau die einseitige Tauschlogik hat, die die Vorlage vorführt",
-      "bild": "vorschlag-4.jpg"
-    },
-    {
-      "vorlage": "abzweigung",
-      "name": "Left Exit 12 Off Ramp",
-      "zeilen": [
-        "Kürzer duschen, Hahn zudrehen",
-        "Grossverbraucher regulieren",
-        "Der Bund"
-      ],
-      "warum": "weil beim Wassersparen im letzten Moment auf die Privathaushalte abgebogen wird",
-      "bild": "vorschlag-5.jpg"
     },
     {
       "vorlage": "knoepfe",
       "name": "Two Buttons",
       "zeilen": [
-        "Dittli nicht aufstellen",
-        "Dittli nicht verlieren",
-        "Die Mitte Waadt"
+        "Nationalrat in Bern",
+        "Stadtrat in Wil",
+        "Lukas Reimann"
       ],
-      "warum": "weil das Zögern der Partei vor der Kandidatur die eigentliche Aussage ist",
-      "bild": "vorschlag-6.jpg"
+      "warum": "weil beides gleichzeitig ginge und genau das Zögern die Aussage ist",
+      "bild": "vorschlag-2.jpg"
     },
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "abzweigung",
+      "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Der Goldene Leopard läuft in keinem Kino"
+        "Nochmal antreten, ohne Partei",
+        "Geordneter Rückzug",
+        "Valérie Dittli"
       ],
-      "warum": "weil die These über Locarno-Sieger stimmt und trotzdem niemand widersprechen mag",
-      "bild": "vorschlag-7.jpg"
+      "warum": "weil der Kurswechsel in letzter Sekunde gegen den vernünftigen Weg geht",
+      "bild": "vorschlag-3.jpg"
+    },
+    {
+      "vorlage": "glocke",
+      "name": "Bell Curve",
+      "zeilen": [
+        "Das macht eine Fachärztin",
+        "Delegierte Diagnostik unter Supervision",
+        "Das macht eine Fachärztin"
+      ],
+      "warum": "weil die Ränder das Selbstverständliche sagen und nur die Klinikmitte ein Modell braucht",
+      "bild": "vorschlag-4.jpg"
+    },
+    {
+      "vorlage": "aliens",
+      "name": "Ancient Aliens",
+      "zeilen": [
+        "Wirtschaft wächst, Junge gehen trotzdem",
+        "Zu wenig Heimatverbundenheit"
+      ],
+      "warum": "weil die offensichtliche Ursache Verteilung heisst und trotzdem durch Charakterkunde ersetzt wird",
+      "bild": "vorschlag-5.jpg"
+    },
+    {
+      "vorlage": "handschlag",
+      "name": "Epic Handshake",
+      "zeilen": [
+        "Belgische Fischer",
+        "Klimaforschung",
+        "Ein Viertel Kopffüsser im Netz"
+      ],
+      "warum": "weil zwei Lager, die sich sonst nicht mögen, dieselbe Zahl im Netz haben",
+      "bild": "vorschlag-6.jpg"
     },
     {
       "vorlage": "gehirn",
       "name": "Expanding Brain",
       "zeilen": [
-        "Drohnen beschaffen",
-        "Drohnen nachrüsten lassen",
-        "Drohnen einlagern, aber bezahlt",
-        "Drohnen als Lernprozess verbuchen"
+        "Rentenreform im Herbst",
+        "Rentenreform nach dem Herbst",
+        "Kommission zur Rentenreform",
+        "Kommission zur Prüfung der Kommission"
       ],
-      "warum": "weil sich die Rechtfertigung der Beschaffung mit jeder Stufe vergrössert statt kleiner wird",
-      "bild": "vorschlag-8.jpg"
+      "warum": "weil die Vertagung sich über vier Stufen selbst zum Ergebnis erklärt",
+      "bild": "vorschlag-7.jpg"
     },
     {
       "vorlage": "freund",
       "name": "Distracted Boyfriend",
       "zeilen": [
-        "Tagestouristen mit Selfiestick",
-        "Bergdorf im Ferien-Hotspot",
-        "Die eigenen Einwohner"
+        "Aktionsplan gegen Hitze",
+        "SPD-Ministerien",
+        "Kohleausstieg 2038"
       ],
-      "warum": "weil der Ort sich dem Besucherstrom zuwendet und die Dorfbevölkerung sitzen lässt",
+      "warum": "weil die Institution dem neuen Papier nachschaut und ihr eigenes Versprechen sitzen lässt",
+      "bild": "vorschlag-8.jpg"
+    },
+    {
+      "vorlage": "angebot",
+      "name": "Trade Offer",
+      "zeilen": [
+        "Spartipps für dein Badezimmer",
+        "Deine Dusche, dein Garten, dein Auto"
+      ],
+      "warum": "weil das Wassersparen einseitig verteilt wird und die grossen Verbraucher im Angebot fehlen",
       "bild": "vorschlag-9.jpg"
     },
     {
-      "vorlage": "harold",
-      "name": "Hide the Pain Harold",
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "280'000 Klicks auf Tiktok",
-        "Ausleihen unverändert"
+        "Parfüm mit Hodensack-Note",
+        "Duft für den anspruchsvollen Herrn"
       ],
-      "warum": "weil die brave Erfolgszahl der Bibliothek Zug den Punkt danach nur schlechter verdeckt",
+      "warum": "weil dasselbe Produkt nur durch die vornehme Verpackung zum Luxusgut wird",
       "bild": "vorschlag-10.jpg"
     }
   ]
