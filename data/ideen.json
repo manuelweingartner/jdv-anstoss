@@ -34,6 +34,26 @@
       "text": "Frauen verdienen im Schnitt 18 Prozent weniger. Umgerechnet arbeiten sie ab dem 1. November gratis. Praktisch, dass wenigstens die Weihnachtsfeier auf die Firma geht."
     },
     {
+      "id": "2026-08-16-0757-10",
+      "typ": "persönlich",
+      "stichwort": "25'000 Liter ECO gegen zwei Kilo Rindfleisch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich lasse die Abwaschmaschine seit sieben Jahren im ECO-Programm laufen und habe damit vielleicht 25'000 Liter Wasser gespart. Für zwei Kilo Rindfleisch braucht es 30'000. Ein Grillabend."
+    },
+    {
+      "id": "2026-08-16-0757-12",
+      "typ": "persönlich",
+      "stichwort": "Techno-Parade nach dem CSD-Anschlag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "In Berlin tanzen an diesem Wochenende wieder Zehntausende auf der Techno-Parade, nach dem Anschlag auf den CSD. Ich hätte verstanden, wenn sie zu Hause geblieben wären. Sind sie nicht."
+    },
+    {
       "id": "2026-08-16-0757-23",
       "typ": "politisch-aktuell",
       "stichwort": "Plattenbau abreissen, Wohnung endlich bezahlbar",
@@ -42,26 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Mir gehört ein Plattenbau in Berlin, ein Mieter wohnt seit zwanzig Jahren drin. Ich lasse abreissen. Endlich eine Wohnung, die niemandem mehr zu teuer ist. Leerstand. Barrierefrei."
-    },
-    {
-      "id": "2026-08-16-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Yellowstone seit 1872 ohne Wettbewerb",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Yellowstone steht seit 1872 unter Schutz. Gute Nachricht: Die US-Regierung prüft das jetzt ergebnisoffen. Hundertfünfzig Jahre ohne Wettbewerb sind auch keine Lösung. Marktversagen. Mit Geysir."
-    },
-    {
-      "id": "2026-08-16-0757-28",
-      "typ": "schnittmenge",
-      "stichwort": "50 Gramm raus: einmal Rezeptur, einmal Diebstahl",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Markenprodukte schrumpfen gerade heimlich, der Preis bleibt. Nimmt der Konzern 50 Gramm aus der Packung, heisst das Rezepturanpassung. Nehme ich sie aus dem Regal, heisst das Diebstahl."
     }
   ]
 }
