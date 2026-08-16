@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-16",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Ich verkaufe Särge und finde es grossartig, dass Trauer endlich bunt sein darf. Wer sein Modell selbst bemalt, fragt nicht mehr, warum es 4'000 Franken kostet."
+    },
+    {
+      "id": "2026-08-16-1926-28",
+      "typ": "schnittmenge",
+      "stichwort": "Turnerinnen zurueck, Regenbogen war politisch",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Russische Turnerinnen gewinnen vier Jahre nach dem Ausschluss wieder, weil Sport unpolitisch ist. Beim Regenbogen an der Kapitänsbinde war er es plötzlich nicht."
+    },
+    {
+      "id": "2026-08-16-1926-29",
+      "typ": "remix",
+      "stichwort": "Kalmare an der Fischtheke, Nordsee kocht mediterran",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Ich habe an der Fischtheke Kalmare aus der Nordsee gekauft, inzwischen ein Viertel des belgischen Fangs. Nicht ich koche jetzt mediterran. Die Nordsee tut es."
     }
   ]
 }
