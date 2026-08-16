@@ -4,6 +4,16 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-08-16-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fische haben keinen Verband",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Diese Woche sterben in Schweizer Gewässern die Fische wie noch nie. Gleiche Woche diskutiert das halbe Land, ob die Bauern für die Trockenheit Geld bekommen. Fische haben keinen Verband. Keine Traktoren."
+    },
+    {
       "id": "2026-08-16-0757-05",
       "typ": "politisch-aktuell",
       "stichwort": "Handwerkertermin 8 bis 17 Uhr, jemand wartet gratis",
@@ -52,16 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "In Berlin tanzen an diesem Wochenende wieder Zehntausende auf der Techno-Parade, nach dem Anschlag auf den CSD. Ich hätte verstanden, wenn sie zu Hause geblieben wären. Sind sie nicht."
-    },
-    {
-      "id": "2026-08-16-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Plattenbau abreissen, Wohnung endlich bezahlbar",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Mir gehört ein Plattenbau in Berlin, ein Mieter wohnt seit zwanzig Jahren drin. Ich lasse abreissen. Endlich eine Wohnung, die niemandem mehr zu teuer ist. Leerstand. Barrierefrei."
     }
   ]
 }
