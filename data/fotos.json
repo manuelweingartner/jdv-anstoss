@@ -1,59 +1,60 @@
 {
-  "stand": "2026-08-16T08:06:10+02:00",
-  "lauf": "0805",
+  "stand": "2026-08-16T17:00:54+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0805-1",
-      "titel": "LA-EM: 4x100-m-Staffel – Silber: Schweizerinnen holen historische Staffelmedaille",
-      "was": "Vier Sprinterinnen jubeln im Ziel, Silbermedaillen und Schweizer Fahne",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Hundertstelsekunden Weltklasse gegen ein Land, das Leichtathletik nur dann kennt, wenn Edelmetall dabei ist.",
+      "id": "1700-1",
+      "titel": "Ersatzwahl Stadtpräsidium Wil – SVP-Nationalrat Lukas Reimann in den Wiler Stadtrat gewählt",
+      "was": "Lukas Reimann nimmt Gratulationen und Blumen im Wiler Stadthaus entgegen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: die grosse Rede über das Land gegen die Zuständigkeit für Trottoirs und Abfallsäcke.",
       "grund": "breit",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
+        "NZZ",
         "Watson"
       ],
-      "artikel": "https://www.srf.ch/sport/leichtathletik/leichtathletik-em/la-em-4x100-m-staffel-silber-schweizerinnen-holen-historische-staffelmedaille",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/bd7925.jpg",
-      "zeit": "2026-08-15T23:18+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/ersatzwahl-stadtpraesidium-wil-svp-nationalrat-lukas-reimann-in-den-wiler-stadtrat-gewaehlt",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/56510d.jpg",
+      "zeit": "2026-08-16T15:12+02:00"
     },
     {
-      "id": "0805-2",
-      "titel": "Trockenheit – Wie die Hitze den Schweizer Fussballplätzen zusetzt",
-      "was": "Amateurfussballer auf braunem Hartboden, rissige Erde statt Rasen, Sprinkler",
-      "richtung": "Mechanik: umetikettieren derselben Handlung. Achse: Platzpflege als kommunale Detailfrage gegen Klimapolitik, die genau dort aufhört, wo sie jemanden trifft.",
+      "id": "1700-2",
+      "titel": "NATO-Kampfjet schießt Drohne über Rumänien ab",
+      "was": "Kampfjet und Uniformierte vor Lagekarte, Drohnenteile auf rumänischem Acker",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Hightech-Abfangjäger im Millionenbereich gegen ein Stück Bastelflugzeug aus Sperrholz.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "weltweit",
+      "quelle": "Tagesschau",
       "auch_bei": [
         "NZZ"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/trockenheit-wie-die-hitze-den-schweizer-fussballplaetzen-zusetzt",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/887feaf.jpg",
-      "zeit": "2026-08-15T11:33+02:00"
+      "artikel": "https://www.tagesschau.de/ausland/europa/nato-abschuss-drohne-rumaenien-100.html",
+      "bild": "https://images.tagesschau.de/image/a3cf0bab-0b3a-41df-b09e-adc7f8d842cf/AAABoAmW_7c/AAABnSSvrFg/16x9-big/nato-kampfjet-102.jpg?width=1280",
+      "zeit": "2026-08-16T10:35+02:00"
     },
     {
-      "id": "0805-3",
-      "titel": "10 Jahre Heimweh – Die aussergewöhnliche Erfolgsgeschichte des Schweizer Männerchors",
-      "was": "Männerchor in einheitlichen Anzügen posiert vor ausverkaufter Konzerthalle",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Heimatgefühl als Verkaufsschlager gegen ein Land, das Heimat sonst peinlich findet.",
+      "id": "1700-3",
+      "titel": "Hier pfeifen 295 «Sierra Madre» durch die Nase",
+      "was": "295 Menschen mit Nasenflöten in Glarner Halle, hochkonzentrierte Gesichter",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: der volle Ernst einer Weltrekordorganisation gegen das erreichte Resultat.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/radio-srf-musikwelle/10-jahre-heimweh-die-aussergewoehnliche-erfolgsgeschichte-des-schweizer-maennerchors",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf/2ecb50.jpg",
-      "zeit": "2026-08-15T21:33+02:00"
+      "artikel": "https://www.20min.ch/story/glarus-hier-pfeifen-295-sierra-madre-durch-die-nase-103618006",
+      "bild": "https://image.20min.ch/2026/08/15/1949a8fa-0323-425a-b98f-c15ea9433584.jpg?s=114062429c6e61507b3ff0d1b366f871",
+      "zeit": "2026-08-16T10:05+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 16:00",
-      "was": "Menschen, die weltweit gleichzeitig einmal in die Hände klatschen, Gruppen auf Plätzen mit erhobenen Händen"
+      "wann": "heute abend",
+      "was": "FC Basel gegen Barcelona: Jubel, Fassungslosigkeit auf der Bank, Barça-Stars im St. Jakob-Park"
     },
     {
-      "wann": "heute abends",
-      "was": "Weitere Finals der Leichtathletik-EM in Birmingham, Siegerposen und Enttäuschungsgesichter im Zielraum"
+      "wann": "heute nachmittag bis abend",
+      "was": "Super-League-Runde: Torjubel und Trainergesten an der Seitenlinie"
     }
   ],
   "hinweis": ""
