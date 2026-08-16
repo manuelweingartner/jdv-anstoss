@@ -4,6 +4,26 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-08-16-2034-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Harvard Platz eins, Karlsruhe sammelt für den Quantencomputer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Harvard verteidigt Platz eins im Uni-Ranking. Am selben Tag sammelt eine Hochschule in Karlsruhe Spenden, weil der Staat ihren Quantencomputer nicht zahlt. Weltspitze und Kollekte. Gleichzeitig."
+    },
+    {
+      "id": "2026-08-16-2034-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Freiwillige Feuerwehr, freiwilliges Klimaziel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Frankreichs Feuerwehr klagt nach den Grossbränden über fehlendes Geld und will im September protestieren. Praktisch: Wer freiwillig löscht, kann auch freiwillig auf Lohn verzichten. Wie unsere Klimaziele. Freiwillig."
+    },
+    {
       "id": "2026-08-16-2034-05",
       "typ": "politisch-aktuell",
       "stichwort": "Wohnungsdossier gegen Kaufangebot",
@@ -42,26 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 1,
       "text": "Cristiano Ronaldo deutet mit 41 sein Karriereende an und möchte ein spektakuläres Vermächtnis hinterlassen. Wer bei uns mit 41 aufhört zu arbeiten, hinterlässt eine Rentenlücke."
-    },
-    {
-      "id": "2026-08-16-2034-09",
-      "typ": "remix",
-      "stichwort": "Ventilator für 89 Franken gegen Verfassungsänderung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich habe gestern den letzten Ventilator im Baumarkt gekauft, 89 Franken. Am selben Tag schlagen die SPD-Ministerien gegen die Hitze eine Verfassungsänderung vor. Beides kühlt gleich gut. Meiner ab sofort."
-    },
-    {
-      "id": "2026-08-16-2034-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "CSU bremst Moor-Wiedervernässung, Waldbrand erledigt es gratis",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich bremse für die CSU die Wiedervernässung der Moore. Diese Woche hat der grösste Waldbrand der Landesgeschichte eines für uns trockengelegt. Gratis. Ohne Antrag."
     }
   ]
 }
