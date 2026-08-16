@@ -1,8 +1,18 @@
 {
   "datum": "2026-08-16",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-16-1926-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Praktikanten-Diagnosen gegen 600'000 im Dunkeln",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "An einer Basler Klinik haben Praktikanten ADHS-Diagnosen gestellt. Gleiche Woche liegen 600'000 Menschen mit ME/CFS im Dunkeln und warten seit Jahren auf ihre. Für die wären Praktikanten ein Fortschritt."
+    },
     {
       "id": "2026-08-16-1926-23",
       "typ": "politisch-aktuell",
