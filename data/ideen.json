@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-16",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -16,6 +16,21 @@
         "anker": true,
         "witz": true,
         "neu": true
+      }
+    },
+    {
+      "id": "2026-08-16-0757-03",
+      "typ": "schnittmenge",
+      "stichwort": "Abriss schafft bezahlbaren Wohnraum ab 2031",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Wir reissen einen Plattenbau ab, in dem seit zwanzig Jahren Menschen wohnen. Endlich entsteht hier bezahlbarer Wohnraum. Ab 2031. Ab 22 Euro der Quadratmeter.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
       }
     },
     {
@@ -64,33 +79,18 @@
       }
     },
     {
-      "id": "2026-08-16-0757-23",
+      "id": "2026-08-16-0757-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Plattenbau abreissen, Wohnung endlich bezahlbar",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Mir gehört ein Plattenbau in Berlin, ein Mieter wohnt seit zwanzig Jahren drin. Ich lasse abreissen. Endlich eine Wohnung, die niemandem mehr zu teuer ist. Leerstand. Barrierefrei.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-16-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Yellowstone seit 1872 ohne Wettbewerb",
+      "stichwort": "Obstkorb 2026, Arbeitszeit 1919",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Yellowstone steht seit 1872 unter Schutz. Gute Nachricht: Die US-Regierung prüft das jetzt ergebnisoffen. Hundertfünfzig Jahre ohne Wettbewerb sind auch keine Lösung. Marktversagen. Mit Geysir.",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe im Büro einen höhenverstellbaren Tisch, eine Achtsamkeits-App und gratis Hafermilch. Der Achtstundentag ist von 1919. Bewegt hat sich der Tisch.",
       "jury": {
-        "witz": true,
         "anker": true,
-        "neu": true
+        "witz": true,
+        "neu": false
       }
     }
   ]
