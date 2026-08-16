@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-16",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Yellowstone steht seit 1872 unter Schutz. Gute Nachricht: Die US-Regierung prüft das jetzt ergebnisoffen. Hundertfünfzig Jahre ohne Wettbewerb sind auch keine Lösung. Marktversagen. Mit Geysir."
+    },
+    {
+      "id": "2026-08-16-0757-28",
+      "typ": "schnittmenge",
+      "stichwort": "50 Gramm raus: einmal Rezeptur, einmal Diebstahl",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Markenprodukte schrumpfen gerade heimlich, der Preis bleibt. Nimmt der Konzern 50 Gramm aus der Packung, heisst das Rezepturanpassung. Nehme ich sie aus dem Regal, heisst das Diebstahl."
     }
   ]
 }
