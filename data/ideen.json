@@ -4,6 +4,36 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-08-16-0929-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zuckerberg-Essay, drei Milliarden ungefragt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich habe als Meta-Chef in einem Essay die Zukunft von drei Milliarden Menschen aufgeschrieben. Schön, dass wir uns einig sind. Widersprechen könnt ihr in den Kommentaren. Die gehören mir.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-16-0929-03",
+      "typ": "schnittmenge",
+      "stichwort": "Modebranche begrüsst den Skinny-Trend",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Wir in der Modebranche fanden Body Positivity grossartig. Nur hat sie in zehn Jahren keine einzige Grösse 34 verkauft. Willkommen zurück, Skinny-Trend. Ozempic dankt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-08-16-0929-04",
       "typ": "politisch-aktuell",
       "stichwort": "1'400 Wohnungen, nie danke gesagt",
@@ -11,7 +41,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Ich besitze 1'400 Wohnungen und finde diese Enteignungsdebatte verletzend. Meine Mieter*innen überweisen mir jeden Monat freiwillig eine Dividende. Und ich habe nie danke gesagt."
+      "text": "Ich besitze 1'400 Wohnungen und finde diese Enteignungsdebatte verletzend. Meine Mieter*innen überweisen mir jeden Monat freiwillig eine Dividende. Und ich habe nie danke gesagt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-08-16-0929-05",
@@ -21,37 +56,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich sitze in der Sparkommission und freue mich: Eine Schweizer Stadtbibliothek holt auf Tiktok 280'000 Klicks. Wer so viel Reichweite hat, braucht offensichtlich kein Gebäude mehr. Bücher im zweiten Schritt."
-    },
-    {
-      "id": "2026-08-16-0929-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Monschau um 10 Uhr, Hawaii am selben Tag",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Als Nachhaltigkeitschef eines Konzerns melde ich Entwarnung: Monschau muss bis 10 Uhr die Häuser räumen, weil Belgien brennt, und Hawaii sitzt am selben Tag im Hurrikan. Zwei Zufälle. Kein Muster."
-    },
-    {
-      "id": "2026-08-16-0929-07",
-      "typ": "schnittmenge",
-      "stichwort": "Bahnvorstand gratuliert der Modellbahn",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Als Bahnvorstand gratuliere ich dem Miniatur Wunderland zum 25. Geburtstag. Dort faehrt jeder Zug puenktlich, also stellen wir unseren Betrieb auf Massstab 1:87 um. Guenstiger. Und leiser."
-    },
-    {
-      "id": "2026-08-16-0929-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mineralwasserfabrik lobt die Spartipps",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich leite eine Mineralwasserfabrik und finde die Aufrufe zum Wassersparen grossartig. Sparen neun Millionen Menschen je zwei Liter, darf ich weiter 400'000 am Tag abfüllen. Ganz ohne Verbot."
+      "text": "Ich sitze in der Sparkommission und freue mich: Eine Schweizer Stadtbibliothek holt auf Tiktok 280'000 Klicks. Wer so viel Reichweite hat, braucht offensichtlich kein Gebäude mehr. Bücher im zweiten Schritt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-08-16-0929-22",
@@ -61,7 +71,27 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Als Meta-Chef habe ich einen Essay über die Zukunft der Menschheit veröffentlicht. In derselben Woche bringt mein Feed 3 Milliarden Menschen den Skinny-Trend zurück. Zukunft für alle. Grösse 34."
+      "text": "Als Meta-Chef habe ich einen Essay über die Zukunft der Menschheit veröffentlicht. In derselben Woche bringt mein Feed 3 Milliarden Menschen den Skinny-Trend zurück. Zukunft für alle. Grösse 34.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-16-0929-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fahnder vermissen den Anfangsverdacht Geruch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Seit der Teil-Legalisierung von Cannabis vor zwei Jahren klagen die Drogenfahnder über fehlenden Zugriff. Zu Recht: Ohne den Geruch fällt uns kein Grund mehr ein, 19-Jährige zu durchsuchen. Bleibt der Hautton.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
