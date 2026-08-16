@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-16",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -64,21 +64,6 @@
       }
     },
     {
-      "id": "2026-08-16-0929-22",
-      "typ": "schnittmenge",
-      "stichwort": "Zuckerberg-Essay und Skinny-Trend in derselben Woche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Als Meta-Chef habe ich einen Essay über die Zukunft der Menschheit veröffentlicht. In derselben Woche bringt mein Feed 3 Milliarden Menschen den Skinny-Trend zurück. Zukunft für alle. Grösse 34.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
       "id": "2026-08-16-0929-23",
       "typ": "politisch-aktuell",
       "stichwort": "Fahnder vermissen den Anfangsverdacht Geruch",
@@ -91,6 +76,21 @@
         "anker": true,
         "neu": true,
         "witz": true
+      }
+    },
+    {
+      "id": "2026-08-16-0929-27",
+      "typ": "schnittmenge",
+      "stichwort": "Dancing Queen wird 50, zehn Franken für die Urheber",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich leite einen Streamingdienst. Dancing Queen wird 50, läuft bei uns 3'000 Mal am Tag und bringt den Urhebern dafür zehn Franken. Wir haben trotzdem eine Jubiläums-Playlist gemacht. Aus Respekt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
       }
     }
   ]
