@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-16",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-16-2034-08",
+      "typ": "schnittmenge",
+      "stichwort": "Ronaldo hoert mit 41 auf, ich auch",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Cristiano Ronaldo deutet mit 41 sein Karriereende an und möchte ein spektakuläres Vermächtnis hinterlassen. Wer bei uns mit 41 aufhört zu arbeiten, hinterlässt eine Rentenlücke."
+    },
+    {
+      "id": "2026-08-16-2034-09",
+      "typ": "remix",
+      "stichwort": "Ventilator für 89 Franken gegen Verfassungsänderung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich habe gestern den letzten Ventilator im Baumarkt gekauft, 89 Franken. Am selben Tag schlagen die SPD-Ministerien gegen die Hitze eine Verfassungsänderung vor. Beides kühlt gleich gut. Meiner ab sofort."
+    },
     {
       "id": "2026-08-16-2034-23",
       "typ": "politisch-aktuell",
