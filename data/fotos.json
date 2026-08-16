@@ -1,57 +1,59 @@
 {
-  "stand": "2026-08-15T17:01:10+02:00",
-  "lauf": "1700",
+  "stand": "2026-08-16T08:06:10+02:00",
+  "lauf": "0805",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Schweizerin siegt über 800 m – Der Sturz ist vergessen: Werro läuft überragend zu EM-Gold",
-      "was": "Audrey Werro jubelt im Ziel über 800 m mit Schweizer Fahne",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: knapp zwei Minuten Höchstleistung gegen ein Land, das für jede andere Entscheidung Jahrzehnte braucht.",
+      "id": "0805-1",
+      "titel": "LA-EM: 4x100-m-Staffel – Silber: Schweizerinnen holen historische Staffelmedaille",
+      "was": "Vier Sprinterinnen jubeln im Ziel, Silbermedaillen und Schweizer Fahne",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Hundertstelsekunden Weltklasse gegen ein Land, das Leichtathletik nur dann kennt, wenn Edelmetall dabei ist.",
       "grund": "breit",
       "raum": "schweiz",
       "quelle": "SRF",
-      "auch_bei": [],
-      "artikel": "https://www.srf.ch/sport/leichtathletik/leichtathletik-em/schweizerin-siegt-ueber-800-m-der-sturz-ist-vergessen-werro-laeuft-ueberragend-zu-em-gold",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/079f36.jpg",
-      "zeit": "2026-08-14T23:18+02:00"
+      "auch_bei": [
+        "Watson"
+      ],
+      "artikel": "https://www.srf.ch/sport/leichtathletik/leichtathletik-em/la-em-4x100-m-staffel-silber-schweizerinnen-holen-historische-staffelmedaille",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/bd7925.jpg",
+      "zeit": "2026-08-15T23:18+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Fürstenhaus im Wandel – Liechtenstein öffnet die Thronfolge für Frauen",
-      "was": "Fürstenfamilie in Uniform und Ordensschmuck vor Schloss Vaduz, Töchter dabei",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: als historischer Fortschritt gefeiert wird, was anderswo seit Generationen selbstverständlich ist.",
+      "id": "0805-2",
+      "titel": "Trockenheit – Wie die Hitze den Schweizer Fussballplätzen zusetzt",
+      "was": "Amateurfussballer auf braunem Hartboden, rissige Erde statt Rasen, Sprinkler",
+      "richtung": "Mechanik: umetikettieren derselben Handlung. Achse: Platzpflege als kommunale Detailfrage gegen Klimapolitik, die genau dort aufhört, wo sie jemanden trifft.",
       "grund": "breit",
-      "raum": "",
+      "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
         "NZZ"
       ],
-      "artikel": "https://www.srf.ch/news/international/fuerstenhaus-im-wandel-liechtenstein-oeffnet-die-thronfolge-fuer-frauen",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/54e38d.jpg",
-      "zeit": "2026-08-15T12:48+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/trockenheit-wie-die-hitze-den-schweizer-fussballplaetzen-zusetzt",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/887feaf.jpg",
+      "zeit": "2026-08-15T11:33+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Hitze trifft Tradition – Dem Rhein fehlt die Kraft: Basler Fähre steht still",
-      "was": "Fähre Wild Maa liegt still am flachen Rheinufer, Fährimaa wartet",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: eine Tradition, die von der Strömung lebt, gegen ein Land, das die Ursache aussitzt.",
+      "id": "0805-3",
+      "titel": "10 Jahre Heimweh – Die aussergewöhnliche Erfolgsgeschichte des Schweizer Männerchors",
+      "was": "Männerchor in einheitlichen Anzügen posiert vor ausverkaufter Konzerthalle",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Heimatgefühl als Verkaufsschlager gegen ein Land, das Heimat sonst peinlich findet.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/hitze-trifft-tradition-dem-rhein-fehlt-die-kraft-basler-faehre-steht-still",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/8293301.jpg",
-      "zeit": "2026-08-14T22:18+02:00"
+      "artikel": "https://www.srf.ch/radio-srf-musikwelle/10-jahre-heimweh-die-aussergewoehnliche-erfolgsgeschichte-des-schweizer-maennerchors",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf/2ecb50.jpg",
+      "zeit": "2026-08-15T21:33+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 19:00",
-      "was": "Abendsession der Leichtathletik-EM in Birmingham: Siegerposen, Podest, Fahnenjubel und enttäuschte Gesichter"
+      "wann": "heute ab 16:00",
+      "was": "Menschen, die weltweit gleichzeitig einmal in die Hände klatschen, Gruppen auf Plätzen mit erhobenen Händen"
     },
     {
-      "wann": "heute ab 16:00",
-      "was": "Erste Runde des Schweizer Cups: Superligisten auf Dorfplätzen, Amateurtorhüter und improvisierte Tribünen"
+      "wann": "heute abends",
+      "was": "Weitere Finals der Leichtathletik-EM in Birmingham, Siegerposen und Enttäuschungsgesichter im Zielraum"
     }
   ],
   "hinweis": ""
