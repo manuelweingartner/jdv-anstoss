@@ -1,97 +1,27 @@
 {
-  "datum": "2026-08-15",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-08-16",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-15-1021-02",
+      "id": "2026-08-16-0757-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Braunau wird Polizeistation",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Um Hitlers Geburtshaus in Braunau wurde achtzig Jahre gestritten. Jetzt zieht eine Polizeistation ein, damit an dieser Adresse wieder jemand nach den Papieren fragt. Amtlich. Mit Öffnungszeiten.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-15-1021-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "AfD testet Law and Order an zwei 14-Jährigen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Zwei 14-Jährige haben in Stendal ein AfD-Plakat beschädigt, ein AfD-Europaabgeordneter hat sie dafür geschlagen. Gut, dass wir unser Law-and-Order-Programm schon vor der Wahl testen. Ehrenamtlich. Ohne Steuergeld.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-15-1021-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Parkbusse gegen dieselbe Zahl mit sechs Nullen",
+      "stichwort": "Plattenbau abreissen, Wohnung endlich bezahlbar",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Letzte Woche kostete mich falsches Parkieren 60 Franken und drei schlechte Nächte. Bei einem Konzern steht dieselbe Zahl mit sechs Nullen im Quartalsbericht. Unter Sonstiges.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-15-1021-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "40 Prozent Vermögen, 40 Prozent der Regeln",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Schön, dass wir uns einig sind: Dem reichsten Prozent gehören 40 Prozent des Vermögens, also gehören ihm auch 40 Prozent der Regeln. Ich besitze ein Velo. Mit Korb.",
-      "jury": {
-        "anker": false,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Mir gehört ein Plattenbau in Berlin, ein Mieter wohnt seit zwanzig Jahren drin. Ich lasse abreissen. Endlich eine Wohnung, die niemandem mehr zu teuer ist. Leerstand. Barrierefrei."
     },
     {
-      "id": "2026-08-15-1021-25",
+      "id": "2026-08-16-0757-24",
       "typ": "politisch-aktuell",
-      "stichwort": "WG-Zimmer 1'200, Briefkasten 80",
+      "stichwort": "Yellowstone seit 1872 ohne Wettbewerb",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ein WG-Zimmer in Zürich kostet 1'200 Franken im Monat. Eine Holding zahlt für ihren Briefkasten im Kanton Zug 80. Beide Adressen sind bewohnt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-15-1021-32",
-      "typ": "persönlich",
-      "stichwort": "Fünf Jahre Taliban, Tochter und Hausaufgaben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seit fünf Jahren regieren die Taliban, Mädchen dürfen ab der siebten Klasse nicht mehr zur Schule. Meine Tochter beschwert sich über Hausaufgaben. Ich lasse sie.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "format": 13,
+      "text": "Yellowstone steht seit 1872 unter Schutz. Gute Nachricht: Die US-Regierung prüft das jetzt ergebnisoffen. Hundertfünfzig Jahre ohne Wettbewerb sind auch keine Lösung. Marktversagen. Mit Geysir."
     }
   ]
 }
