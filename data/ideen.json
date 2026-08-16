@@ -11,27 +11,27 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Diese Woche sterben in Schweizer Gewässern die Fische wie noch nie. Gleiche Woche diskutiert das halbe Land, ob die Bauern für die Trockenheit Geld bekommen. Fische haben keinen Verband. Keine Traktoren."
+      "text": "Diese Woche sterben in Schweizer Gewässern die Fische wie noch nie. Gleiche Woche diskutiert das halbe Land, ob die Bauern für die Trockenheit Geld bekommen. Fische haben keinen Verband. Keine Traktoren.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-16-0757-05",
+      "id": "2026-08-16-0757-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Handwerkertermin 8 bis 17 Uhr, jemand wartet gratis",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe einen Handwerkertermin zwischen 8 und 17 Uhr bekommen. Das ganze Land ist darauf gebaut, dass zu Hause jemand wartet. Unbezahlt. Seit hundert Jahren."
-    },
-    {
-      "id": "2026-08-16-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "eine Stunde laenger taeglich sind genau meine Ferien",
+      "stichwort": "Yellowstone wirft seit 1872 keinen Cent ab",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Mein Feierabend verschiebt sich jeden Tag um eine Stunde. Das sind fünfeinhalb Wochen im Jahr, unbezahlt. Genau so viele Ferien habe ich. Bezahlt."
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich schreibe für Trump die Tafeln im Yellowstone um. Der Park liegt seit 1872 herum und wirft keinen Cent ab. Endlich ein Fehler, den wir beheben.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-16-0757-07",
@@ -41,27 +41,57 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Frauen verdienen im Schnitt 18 Prozent weniger. Umgerechnet arbeiten sie ab dem 1. November gratis. Praktisch, dass wenigstens die Weihnachtsfeier auf die Firma geht."
+      "text": "Frauen verdienen im Schnitt 18 Prozent weniger. Umgerechnet arbeiten sie ab dem 1. November gratis. Praktisch, dass wenigstens die Weihnachtsfeier auf die Firma geht.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-16-0757-10",
-      "typ": "persönlich",
-      "stichwort": "25'000 Liter ECO gegen zwei Kilo Rindfleisch",
+      "id": "2026-08-16-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Dating-App mit Türsteherin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Es gibt eine Dating-App, die nur CEOs, Anwält*innen und Schauspieler*innen aufnimmt. Der letzte Ort, an dem Vermögen aus Versehen umverteilt wurde, hat jetzt eine Türsteherin. Mit Warteliste.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-08-16-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Plattenbau abreissen, Wohnung endlich bezahlbar",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich lasse die Abwaschmaschine seit sieben Jahren im ECO-Programm laufen und habe damit vielleicht 25'000 Liter Wasser gespart. Für zwei Kilo Rindfleisch braucht es 30'000. Ein Grillabend."
+      "format": 13,
+      "text": "Mir gehört ein Plattenbau in Berlin, ein Mieter wohnt seit zwanzig Jahren drin. Ich lasse abreissen. Endlich eine Wohnung, die niemandem mehr zu teuer ist. Leerstand. Barrierefrei.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-16-0757-12",
-      "typ": "persönlich",
-      "stichwort": "Techno-Parade nach dem CSD-Anschlag",
+      "id": "2026-08-16-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Yellowstone seit 1872 ohne Wettbewerb",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "In Berlin tanzen an diesem Wochenende wieder Zehntausende auf der Techno-Parade, nach dem Anschlag auf den CSD. Ich hätte verstanden, wenn sie zu Hause geblieben wären. Sind sie nicht."
+      "format": 13,
+      "text": "Yellowstone steht seit 1872 unter Schutz. Gute Nachricht: Die US-Regierung prüft das jetzt ergebnisoffen. Hundertfünfzig Jahre ohne Wettbewerb sind auch keine Lösung. Marktversagen. Mit Geysir.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
