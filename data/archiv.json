@@ -8379,6 +8379,102 @@
         "witz": true
       },
       "datum": "2026-08-15"
+    },
+    {
+      "id": "2026-08-16-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fische haben keinen Verband",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Diese Woche sterben in Schweizer Gewässern die Fische wie noch nie. Gleiche Woche diskutiert das halbe Land, ob die Bauern für die Trockenheit Geld bekommen. Fische haben keinen Verband. Keine Traktoren.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-16"
+    },
+    {
+      "id": "2026-08-16-0757-03",
+      "typ": "schnittmenge",
+      "stichwort": "Abriss schafft bezahlbaren Wohnraum ab 2031",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Wir reissen einen Plattenbau ab, in dem seit zwanzig Jahren Menschen wohnen. Endlich entsteht hier bezahlbarer Wohnraum. Ab 2031. Ab 22 Euro der Quadratmeter.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-08-16"
+    },
+    {
+      "id": "2026-08-16-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Yellowstone wirft seit 1872 keinen Cent ab",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich schreibe für Trump die Tafeln im Yellowstone um. Der Park liegt seit 1872 herum und wirft keinen Cent ab. Endlich ein Fehler, den wir beheben.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-16"
+    },
+    {
+      "id": "2026-08-16-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "18 Prozent Lohnlücke heisst ab 1. November gratis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Frauen verdienen im Schnitt 18 Prozent weniger. Umgerechnet arbeiten sie ab dem 1. November gratis. Praktisch, dass wenigstens die Weihnachtsfeier auf die Firma geht.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-08-16"
+    },
+    {
+      "id": "2026-08-16-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Dating-App mit Türsteherin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Es gibt eine Dating-App, die nur CEOs, Anwält*innen und Schauspieler*innen aufnimmt. Der letzte Ort, an dem Vermögen aus Versehen umverteilt wurde, hat jetzt eine Türsteherin. Mit Warteliste.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      },
+      "datum": "2026-08-16"
+    },
+    {
+      "id": "2026-08-16-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Obstkorb 2026, Arbeitszeit 1919",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe im Büro einen höhenverstellbaren Tisch, eine Achtsamkeits-App und gratis Hafermilch. Der Achtstundentag ist von 1919. Bewegt hat sich der Tisch.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-08-16"
     }
   ]
 }
