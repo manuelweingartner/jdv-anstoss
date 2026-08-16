@@ -8571,6 +8571,102 @@
         "neu": true
       },
       "datum": "2026-08-16"
+    },
+    {
+      "id": "2026-08-16-1926-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Praktikanten-Diagnosen gegen 600'000 im Dunkeln",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "An einer Basler Klinik haben Praktikanten ADHS-Diagnosen gestellt. Gleiche Woche liegen 600'000 Menschen mit ME/CFS im Dunkeln und warten seit Jahren auf ihre. Für die wären Praktikanten ein Fortschritt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-08-16"
+    },
+    {
+      "id": "2026-08-16-1926-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sylt-Anwohner rechnet das Punk-Camp gegen den Personallohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich habe ein Haus auf Sylt und fand das Punk-Camp grossartig. Man kann hier also mit 300 Euro im Monat wohnen. Gilt ab sofort auch für unser Personal. Meerblick inklusive.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-08-16"
+    },
+    {
+      "id": "2026-08-16-1926-11",
+      "typ": "persönlich",
+      "stichwort": "Marathon-Gold trotz Einreiseproblemen, ich fahre ungefragt durch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Amanal Petros gewinnt als erster Deutscher EM-Gold im Marathon und hatte vorher Probleme bei der Einreise. Ich bin diesen Sommer über zwei Grenzen gefahren und wurde nie gefragt. Ohne Gold.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-08-16"
+    },
+    {
+      "id": "2026-08-16-1926-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kreml schuetzt russische Buecher weg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Als Kreml-Sprecher schütze ich die russische Sprache in der Ukraine. Darum haben wir in Kyjiw den letzten Laden beschossen, der russische Bücher verkauft. Kulturpolitik. Wie versprochen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-16"
+    },
+    {
+      "id": "2026-08-16-1926-29",
+      "typ": "remix",
+      "stichwort": "Kalmare an der Fischtheke, Nordsee kocht mediterran",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Ich habe an der Fischtheke Kalmare aus der Nordsee gekauft, inzwischen ein Viertel des belgischen Fangs. Nicht ich koche jetzt mediterran. Die Nordsee tut es.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-16"
+    },
+    {
+      "id": "2026-08-16-1926-32",
+      "typ": "persönlich",
+      "stichwort": "45 Kilo Hund aus Rumänien, nie nach Integration gefragt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe einen Hund aus Rumänien geholt. 45 Kilo, kein Wort Deutsch, keine Ahnung von unseren Werten. Nach seiner Integration hat nie jemand gefragt.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-08-16"
     }
   ]
 }
