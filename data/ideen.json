@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-16",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -34,24 +34,34 @@
       "text": "Ich verkaufe Särge und finde es grossartig, dass Trauer endlich bunt sein darf. Wer sein Modell selbst bemalt, fragt nicht mehr, warum es 4'000 Franken kostet."
     },
     {
-      "id": "2026-08-16-1926-28",
-      "typ": "schnittmenge",
-      "stichwort": "Turnerinnen zurueck, Regenbogen war politisch",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Russische Turnerinnen gewinnen vier Jahre nach dem Ausschluss wieder, weil Sport unpolitisch ist. Beim Regenbogen an der Kapitänsbinde war er es plötzlich nicht."
-    },
-    {
-      "id": "2026-08-16-1926-29",
-      "typ": "remix",
-      "stichwort": "Kalmare an der Fischtheke, Nordsee kocht mediterran",
+      "id": "2026-08-16-1926-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fünf Jahre gespart, Käufer war nie drin",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Ich habe an der Fischtheke Kalmare aus der Nordsee gekauft, inzwischen ein Viertel des belgischen Fangs. Nicht ich koche jetzt mediterran. Die Nordsee tut es."
+      "format": 16,
+      "text": "Ich habe fünf Jahre für eine Anzahlung gespart. Den Zuschlag bekam jemand, der bar bezahlte und die Wohnung nie betreten hat. Ungesehen. Als Beimischung."
+    },
+    {
+      "id": "2026-08-16-1926-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Grösster Pflegedienst heisst Familie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Vier von fünf Pflegebedürftigen werden zu Hause gepflegt, überwiegend von Töchtern und Ehefrauen. Der grösste Pflegedienst des Landes zahlt keinen Lohn, kennt keine Ferien und heisst Familie. Unkündbar."
+    },
+    {
+      "id": "2026-08-16-1926-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "120 Franken Busse gegen 121'000 in Finnland",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Meine Busse fürs Zuschnellfahren kostet 120 Franken, ob ich nun 4'000 oder 400'000 verdiene. In Finnland zahlte ein Millionär für dasselbe 121'000 Euro. Tempolimit als Abo."
     }
   ]
 }
