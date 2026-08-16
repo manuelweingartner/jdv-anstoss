@@ -1,97 +1,27 @@
 {
   "datum": "2026-08-16",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-16-0929-01",
+      "id": "2026-08-16-1926-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Zuckerberg-Essay, drei Milliarden ungefragt",
+      "stichwort": "Kreml schuetzt russische Buecher weg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Als Kreml-Sprecher schütze ich die russische Sprache in der Ukraine. Darum haben wir in Kyjiw den letzten Laden beschossen, der russische Bücher verkauft. Kulturpolitik. Wie versprochen."
+    },
+    {
+      "id": "2026-08-16-1926-24",
+      "typ": "schnittmenge",
+      "stichwort": "Sarg selbst bemalen statt Preis fragen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich habe als Meta-Chef in einem Essay die Zukunft von drei Milliarden Menschen aufgeschrieben. Schön, dass wir uns einig sind. Widersprechen könnt ihr in den Kommentaren. Die gehören mir.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-16-0929-03",
-      "typ": "schnittmenge",
-      "stichwort": "Modebranche begrüsst den Skinny-Trend",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Wir in der Modebranche fanden Body Positivity grossartig. Nur hat sie in zehn Jahren keine einzige Grösse 34 verkauft. Willkommen zurück, Skinny-Trend. Ozempic dankt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-16-0929-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "1'400 Wohnungen, nie danke gesagt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich besitze 1'400 Wohnungen und finde diese Enteignungsdebatte verletzend. Meine Mieter*innen überweisen mir jeden Monat freiwillig eine Dividende. Und ich habe nie danke gesagt.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-16-0929-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "280'000 Klicks, also kein Gebäude nötig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich sitze in der Sparkommission und freue mich: Eine Schweizer Stadtbibliothek holt auf Tiktok 280'000 Klicks. Wer so viel Reichweite hat, braucht offensichtlich kein Gebäude mehr. Bücher im zweiten Schritt.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-16-0929-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fahnder vermissen den Anfangsverdacht Geruch",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Seit der Teil-Legalisierung von Cannabis vor zwei Jahren klagen die Drogenfahnder über fehlenden Zugriff. Zu Recht: Ohne den Geruch fällt uns kein Grund mehr ein, 19-Jährige zu durchsuchen. Bleibt der Hautton.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-16-0929-27",
-      "typ": "schnittmenge",
-      "stichwort": "Dancing Queen wird 50, zehn Franken für die Urheber",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich leite einen Streamingdienst. Dancing Queen wird 50, läuft bei uns 3'000 Mal am Tag und bringt den Urhebern dafür zehn Franken. Wir haben trotzdem eine Jubiläums-Playlist gemacht. Aus Respekt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Ich verkaufe Särge und finde es grossartig, dass Trauer endlich bunt sein darf. Wer sein Modell selbst bemalt, fragt nicht mehr, warum es 4'000 Franken kostet."
     }
   ]
 }
