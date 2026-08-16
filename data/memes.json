@@ -1,110 +1,109 @@
 {
-  "stand": "2026-08-15T08:07:42+02:00",
+  "stand": "2026-08-16T08:07:51+02:00",
   "vorschlaege": [
     {
-      "vorlage": "aliens",
-      "name": "Ancient Aliens",
+      "vorlage": "handschlag",
+      "name": "Epic Handshake",
       "zeilen": [
-        "Warum der Rhein kein Wasser mehr hat",
-        "Zufall, dritter Sommer in Folge"
+        "Bauernverband",
+        "Städteverband",
+        "Der Bund soll zahlen"
       ],
-      "warum": "die naheliegende Ursache wird mit voller Ueberzeugung wegerklaert",
+      "warum": "weil Stadt und Land sich in allem streiten, ausser bei der Frage, wer die Rechnung übernimmt",
       "bild": "vorschlag-1.jpg"
     },
     {
-      "vorlage": "freund",
-      "name": "Distracted Boyfriend",
+      "vorlage": "skelett",
+      "name": "Waiting Skeleton",
       "zeilen": [
-        "Werbeeinnahmen fuer Blocher-Plakate",
-        "SBB",
-        "Politische Neutralitaet im Zug"
+        "Die vollautomatische Bahn der BLT",
+        "Seit dreissig Jahren fast so weit"
       ],
-      "warum": "ein Staatsbetrieb verlaesst sein eigenes Versprechen fuer Geld",
+      "warum": "weil das Versprechen des führerlosen Fahrens älter ist als jeder angekündigte Termin",
       "bild": "vorschlag-2.jpg"
     },
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Arbeitslosigkeit ist kein Motivationsproblem"
+        "Weniger Inhalt, gleicher Preis",
+        "Rezepturbedingte Portionsanpassung"
       ],
-      "warum": "eine These zu Indiens Jugendprotesten, der niemand widersprechen kann",
+      "warum": "weil die versteckte Preiserhöhung erst durch ihren eigenen Marketingbegriff komisch wird",
       "bild": "vorschlag-3.jpg"
-    },
-    {
-      "vorlage": "harold",
-      "name": "Hide the Pain Harold",
-      "zeilen": [
-        "Viele Auslaender verlassen die Schweiz wieder",
-        "Vor allem die Pflegefachleute"
-      ],
-      "warum": "die brave SEM-Statistik und was sie tatsaechlich bedeutet",
-      "bild": "vorschlag-4.jpg"
     },
     {
       "vorlage": "angebot",
       "name": "Trade Offer",
       "zeilen": [
-        "Goldmedaille und Nationalhymne",
-        "Training neben dem Teilzeitjob"
+        "Einen Sommerjob in Genf",
+        "Zwei Franken weniger pro Stunde"
       ],
-      "warum": "der Deal, den die Sportnation Audrey Werro anbietet, ist offensichtlich einseitig",
-      "bild": "vorschlag-5.jpg"
+      "warum": "weil der Mindestlohn-Rabatt genau die einseitige Tauschlogik hat, die die Vorlage vorführt",
+      "bild": "vorschlag-4.jpg"
     },
     {
-      "vorlage": "drake",
-      "name": "Drake Hotline Bling",
+      "vorlage": "abzweigung",
+      "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Ueber das Atomprogramm verhandeln",
-        "Die Meerenge zu US-Gebiet erklaeren"
+        "Kürzer duschen, Hahn zudrehen",
+        "Grossverbraucher regulieren",
+        "Der Bund"
       ],
-      "warum": "das Naheliegende wird ausgeschlagen, das Absurde bevorzugt",
-      "bild": "vorschlag-6.jpg"
+      "warum": "weil beim Wassersparen im letzten Moment auf die Privathaushalte abgebogen wird",
+      "bild": "vorschlag-5.jpg"
     },
     {
       "vorlage": "knoepfe",
       "name": "Two Buttons",
       "zeilen": [
-        "Rekordsommer beklagen",
-        "Klimamassnahmen beschliessen",
-        "Albert Roesti"
+        "Dittli nicht aufstellen",
+        "Dittli nicht verlieren",
+        "Die Mitte Waadt"
       ],
-      "warum": "zwei Knoepfe, die sich gar nicht ausschliessen, und trotzdem das Zoegern",
+      "warum": "weil das Zögern der Partei vor der Kandidatur die eigentliche Aussage ist",
+      "bild": "vorschlag-6.jpg"
+    },
+    {
+      "vorlage": "schild",
+      "name": "Change My Mind",
+      "zeilen": [
+        "Der Goldene Leopard läuft in keinem Kino"
+      ],
+      "warum": "weil die These über Locarno-Sieger stimmt und trotzdem niemand widersprechen mag",
       "bild": "vorschlag-7.jpg"
     },
     {
       "vorlage": "gehirn",
       "name": "Expanding Brain",
       "zeilen": [
-        "Ruecklagen fuers Tier bilden",
-        "Tierversicherung abschliessen",
-        "Die Katze bei Sanitas grundversichern",
-        "Selbstbehalt des Wellensittichs optimieren"
+        "Drohnen beschaffen",
+        "Drohnen nachrüsten lassen",
+        "Drohnen einlagern, aber bezahlt",
+        "Drohnen als Lernprozess verbuchen"
       ],
-      "warum": "die Rechtfertigung eskaliert vom Sparbuch bis zur Franchise fuers Haustier",
+      "warum": "weil sich die Rechtfertigung der Beschaffung mit jeder Stufe vergrössert statt kleiner wird",
       "bild": "vorschlag-8.jpg"
     },
     {
-      "vorlage": "doge",
-      "name": "Buff Doge vs. Cheems",
+      "vorlage": "freund",
+      "name": "Distracted Boyfriend",
       "zeilen": [
-        "Sicherster Hafen der Welt",
-        "US-Staatsanleihen 2010",
-        "Rendite ueber 5 Prozent",
-        "US-Staatsanleihen 2026"
+        "Tagestouristen mit Selfiestick",
+        "Bergdorf im Ferien-Hotspot",
+        "Die eigenen Einwohner"
       ],
-      "warum": "das behauptete Frueher der Weltleitwaehrung gegen das klaegliche Heute",
+      "warum": "weil der Ort sich dem Besucherstrom zuwendet und die Dorfbevölkerung sitzen lässt",
       "bild": "vorschlag-9.jpg"
     },
     {
-      "vorlage": "glocke",
-      "name": "Bell Curve",
+      "vorlage": "harold",
+      "name": "Hide the Pain Harold",
       "zeilen": [
-        "Witze machen",
-        "Humor-Workshop mit Kreativitaetsmodul",
-        "Witze machen"
+        "280'000 Klicks auf Tiktok",
+        "Ausleihen unverändert"
       ],
-      "warum": "die Raender wissen, was HR mit einem Konzept beantwortet",
+      "warum": "weil die brave Erfolgszahl der Bibliothek Zug den Punkt danach nur schlechter verdeckt",
       "bild": "vorschlag-10.jpg"
     }
   ]
