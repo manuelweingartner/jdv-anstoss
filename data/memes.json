@@ -1,111 +1,109 @@
 {
-  "stand": "2026-08-16T19:25:18+02:00",
+  "stand": "2026-08-17T08:56:16+02:00",
   "vorschlaege": [
+    {
+      "vorlage": "schild",
+      "name": "Change My Mind",
+      "zeilen": [
+        "Die Kaiserschnittrate haengt vom Spital ab, nicht vom Kind"
+      ],
+      "warum": "die Studie sagt genau das, und widersprechen kann nur, wer die Zahlen nicht kennt",
+      "bild": "vorschlag-1.jpg"
+    },
+    {
+      "vorlage": "harold",
+      "name": "Hide the Pain Harold",
+      "zeilen": [
+        "Ihre Phishing-Meldung ist eingegangen",
+        "Mehr passiert auch nicht"
+      ],
+      "warum": "die brave Amtsauskunft oben, die reale Wirkung unten",
+      "bild": "vorschlag-2.jpg"
+    },
+    {
+      "vorlage": "skelett",
+      "name": "Waiting Skeleton",
+      "zeilen": [
+        "Linke Unterstuetzung fuer die Ernaehrungsinitiative",
+        "Seit der Trinkwasserinitiative 2021"
+      ],
+      "warum": "dasselbe Anliegen, dasselbe Warten, fuenf Jahre spaeter",
+      "bild": "vorschlag-3.jpg"
+    },
     {
       "vorlage": "drake",
       "name": "Drake Hotline Bling",
       "zeilen": [
-        "Mehr Ärztinnen ausbilden",
-        "Den Arbeitszeit-Deckel verschieben"
+        "Den Zahlungsbeleg der Kundin pruefen",
+        "Betreibung einleiten"
       ],
-      "warum": "weil die Kommission die naheliegende Lösung ausschlägt und die kosmetische wählt",
-      "bild": "vorschlag-1.jpg"
+      "warum": "der naheliegende Weg wird ausgeschlagen, der teurere gewaehlt",
+      "bild": "vorschlag-4.jpg"
     },
     {
       "vorlage": "knoepfe",
       "name": "Two Buttons",
       "zeilen": [
-        "Nationalrat in Bern",
-        "Stadtrat in Wil",
-        "Lukas Reimann"
+        "Maximal zwoelf Stunden pro Schicht",
+        "Genug Aerzte fuer den Dienstplan",
+        "Staenderatskommission"
       ],
-      "warum": "weil beides gleichzeitig ginge und genau das Zögern die Aussage ist",
-      "bild": "vorschlag-2.jpg"
-    },
-    {
-      "vorlage": "abzweigung",
-      "name": "Left Exit 12 Off Ramp",
-      "zeilen": [
-        "Nochmal antreten, ohne Partei",
-        "Geordneter Rückzug",
-        "Valérie Dittli"
-      ],
-      "warum": "weil der Kurswechsel in letzter Sekunde gegen den vernünftigen Weg geht",
-      "bild": "vorschlag-3.jpg"
-    },
-    {
-      "vorlage": "glocke",
-      "name": "Bell Curve",
-      "zeilen": [
-        "Das macht eine Fachärztin",
-        "Delegierte Diagnostik unter Supervision",
-        "Das macht eine Fachärztin"
-      ],
-      "warum": "weil die Ränder das Selbstverständliche sagen und nur die Klinikmitte ein Modell braucht",
-      "bild": "vorschlag-4.jpg"
-    },
-    {
-      "vorlage": "aliens",
-      "name": "Ancient Aliens",
-      "zeilen": [
-        "Wirtschaft wächst, Junge gehen trotzdem",
-        "Zu wenig Heimatverbundenheit"
-      ],
-      "warum": "weil die offensichtliche Ursache Verteilung heisst und trotzdem durch Charakterkunde ersetzt wird",
+      "warum": "zwei Dinge, die sich nur ausschliessen, weil niemand ausbilden wollte",
       "bild": "vorschlag-5.jpg"
-    },
-    {
-      "vorlage": "handschlag",
-      "name": "Epic Handshake",
-      "zeilen": [
-        "Belgische Fischer",
-        "Klimaforschung",
-        "Ein Viertel Kopffüsser im Netz"
-      ],
-      "warum": "weil zwei Lager, die sich sonst nicht mögen, dieselbe Zahl im Netz haben",
-      "bild": "vorschlag-6.jpg"
-    },
-    {
-      "vorlage": "gehirn",
-      "name": "Expanding Brain",
-      "zeilen": [
-        "Rentenreform im Herbst",
-        "Rentenreform nach dem Herbst",
-        "Kommission zur Rentenreform",
-        "Kommission zur Prüfung der Kommission"
-      ],
-      "warum": "weil die Vertagung sich über vier Stufen selbst zum Ergebnis erklärt",
-      "bild": "vorschlag-7.jpg"
     },
     {
       "vorlage": "freund",
       "name": "Distracted Boyfriend",
       "zeilen": [
-        "Aktionsplan gegen Hitze",
-        "SPD-Ministerien",
-        "Kohleausstieg 2038"
+        "Kim Jong-un",
+        "Donald Trump",
+        "Suedkorea"
       ],
-      "warum": "weil die Institution dem neuen Papier nachschaut und ihr eigenes Versprechen sitzen lässt",
+      "warum": "der Buendnispartner sitzt da, waehrend der Praesident dem anderen nachschaut",
+      "bild": "vorschlag-6.jpg"
+    },
+    {
+      "vorlage": "abzweigung",
+      "name": "Left Exit 12 Off Ramp",
+      "zeilen": [
+        "Chef nach fuenf Monaten feuern",
+        "Die Strategie wirken lassen",
+        "Verwaltungsrat SIG"
+      ],
+      "warum": "Kurswechsel in letzter Sekunde, obwohl geradeaus noch niemand probiert hat",
+      "bild": "vorschlag-7.jpg"
+    },
+    {
+      "vorlage": "handschlag",
+      "name": "Epic Handshake",
+      "zeilen": [
+        "Pentagon",
+        "Peking",
+        "Mehr Geld fuers Weltraumprogramm"
+      ],
+      "warum": "zwei Rivalen, deren Alarm sich gegenseitig die Budgets finanziert",
       "bild": "vorschlag-8.jpg"
+    },
+    {
+      "vorlage": "gehirn",
+      "name": "Expanding Brain",
+      "zeilen": [
+        "Die Prognose war methodisch schwach",
+        "Die Prognose kam zur Unzeit",
+        "Die Prognose schadet dem Institut",
+        "Es gab nie eine Prognose"
+      ],
+      "warum": "die Begruendungen fuer die Entlassung werden mit jeder Stufe groesser und duenner",
+      "bild": "vorschlag-9.jpg"
     },
     {
       "vorlage": "angebot",
       "name": "Trade Offer",
       "zeilen": [
-        "Spartipps für dein Badezimmer",
-        "Deine Dusche, dein Garten, dein Auto"
+        "Der Dorfbrunnen bleibt trocken",
+        "Ihr hoert auf, ihn leerzupumpen"
       ],
-      "warum": "weil das Wassersparen einseitig verteilt wird und die grossen Verbraucher im Angebot fehlen",
-      "bild": "vorschlag-9.jpg"
-    },
-    {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
-      "zeilen": [
-        "Parfüm mit Hodensack-Note",
-        "Duft für den anspruchsvollen Herrn"
-      ],
-      "warum": "weil dasselbe Produkt nur durch die vornehme Verpackung zum Luxusgut wird",
+      "warum": "die Gemeinde bietet allen den Verzicht an, damit einige wenige aufhoeren",
       "bild": "vorschlag-10.jpg"
     }
   ]
