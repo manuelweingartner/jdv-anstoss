@@ -34,6 +34,16 @@
       "text": "Ich freue mich: 9'276 abgelehnte Asylsuchende sind dieses Jahr freiwillig ausgereist. Freiwillig, weil wir ihnen alles andere unfreiwillig gemacht haben. Zwei Jahre lang. Mit Formular."
     },
     {
+      "id": "2026-08-17-0843-08",
+      "typ": "schnittmenge",
+      "stichwort": "Rodri-Medizincheck gegen neun Monate Rheumatologe",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Rodri wechselt zu Barça und ist an einem Nachmittag von Kopf bis Fuss durchgecheckt. Auf einen Termin beim Rheumatologen wartet man neun Monate. Gleiche Geräte."
+    },
+    {
       "id": "2026-08-17-0843-25",
       "typ": "politisch-aktuell",
       "stichwort": "100 Minuten pendeln, sieben Arbeitsjahre gratis",
@@ -52,16 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 19,
       "text": "Für die Sanierung meiner Küche darf mein Vermieter die Miete um 200 Franken erhöhen, dauerhaft. Die Küche kostete 8'000. Nach vierzig Monaten kocht sie Gewinn."
-    },
-    {
-      "id": "2026-08-17-0843-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "fünf Prozent BIP finanzierbar, solange es nicht Sozialausgaben ist",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Gute Nachricht für die Staatsfinanzen: Fünf Prozent des BIP sind finanzierbar, solange man sie nicht Sozialausgaben nennt. Das Geld war immer da. Nur die Empfänger stimmten nicht."
     }
   ]
 }
