@@ -1,23 +1,8 @@
 {
   "datum": "2026-08-17",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
   "fertig": true,
   "ideen": [
-    {
-      "id": "2026-08-17-0843-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "9'276 freiwillige Ausreisen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich freue mich: 9'276 abgelehnte Asylsuchende sind dieses Jahr freiwillig ausgereist. Freiwillig, weil wir ihnen alles andere unfreiwillig gemacht haben. Zwei Jahre lang. Mit Formular.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
     {
       "id": "2026-08-17-0843-11",
       "typ": "persönlich",
@@ -64,21 +49,6 @@
       }
     },
     {
-      "id": "2026-08-17-0843-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "9276 freiwillige Ausreisen, Behörde erklärt das Wort freiwillig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Gute Nachricht: 9276 abgelehnte Asylsuchende sind dieses Jahr freiwillig ausgereist. Gezwungen hat sie niemand. Wir haben nur gefragt. Zwölfmal. Mit beigelegtem Ticket.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-08-17-0843-29",
       "typ": "remix",
       "stichwort": "Tausend Meter Sperrzone, Termin im März",
@@ -91,6 +61,21 @@
         "anker": true,
         "neu": true,
         "witz": true
+      }
+    },
+    {
+      "id": "2026-08-17-0843-30",
+      "typ": "persönlich",
+      "stichwort": "Wasserhund als Fachkraft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 2,
+      "text": "Ich habe einen französischen Wasserhund angeschafft, weil er nicht haart. Er hasst Wasser, ist allergisch auf Gras und spricht kein Französisch. Fachkraft mit drei Jahren Berufserfahrung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
       }
     }
   ]
