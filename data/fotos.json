@@ -1,55 +1,59 @@
 {
-  "stand": "2026-08-17T08:55:06+02:00",
-  "lauf": "0854",
+  "stand": "2026-08-17T17:00:53+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0854-1",
-      "titel": "Niklas Süle: Ex-Nationalspieler verliert deutlich bei seinem Kreisliga-Debüt für den SV Tiefenbach",
-      "was": "Ex-Nationalspieler im Kreisliga-Trikot auf einem Dorfsportplatz, wenige Zuschauer",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Weltklasse-Vergangenheit gegen Kreisliga-Gegenwart, dieselbe Person, dasselbe Spiel, anderer Massstab.",
+      "id": "1700-1",
+      "titel": "Trump will keine Manöver mehr mit Südkorea – aus Rücksicht auf seinen Freund Kim Jong Un",
+      "was": "Trump und Kim Jong Un beim Handschlag, Militärs im Hintergrund",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Bündnistreue als Verhandlungsmasse gegen Freundschaftspflege mit dem Gegner.",
       "grund": "breit",
-      "raum": "",
-      "quelle": "Spiegel",
+      "raum": "weltweit",
+      "quelle": "NZZ",
       "auch_bei": [
-        "Watson"
+        "taz"
       ],
-      "artikel": "https://www.spiegel.de/sport/fussball/niklas-suele-ex-nationalspieler-verliert-deutlich-bei-seinem-kreisliga-debuet-fuer-den-sv-tiefenbach-a-83bdd837-598f-4586-aae5-cef7bf370db9#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/30600212-9dd4-48aa-989c-f99255a309e5_w520_r2.08_fpx49.35_fpy50.99.jpg",
-      "zeit": "2026-08-17T07:52+02:00"
+      "artikel": "https://www.nzz.ch/international/trump-will-gemeinsame-manoever-mit-suedkorea-stoppen-ld.10019837",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/17/dfb73c15-6eca-48a8-a35d-0c56d5c5ab23.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3669,3669,x342,y0",
+      "zeit": "2026-08-17T16:55+02:00"
     },
     {
-      "id": "0854-2",
-      "titel": "Aargauer Gemeinde legt wegen Wasserdieben Brunnen trocken",
-      "was": "Trockengelegter Dorfbrunnen mit Hinweisschild, Gemeindevertreter oder Anwohner daneben",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: die abgedrehte Kelle Brunnenwasser gegen die grossen, nie gezählten Verbraucher.",
+      "id": "1700-2",
+      "titel": "Andy Burnham schrieb mit falscher Trump-Beraterin",
+      "was": "Neuer britischer Premier Burnham am Handy, Amtsantritt-Pose",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Regierungschef mit Zugang zu jedem Geheimdienst gegen einen, der im Chat einfach zurückschreibt.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
       "auch_bei": [
         "SRF"
       ],
-      "artikel": "https://www.20min.ch/story/veltheim-aargauer-gemeinde-legt-wegen-wasserdieben-den-brunnen-trocken-103618469",
-      "bild": "https://image.20min.ch/2026/08/17/0570ee77-38e3-4000-8fc0-521f51df6e68.jpg?s=7044e0f6559c3081f276fba991b0df27",
-      "zeit": "2026-08-17T08:19+02:00"
+      "artikel": "https://www.spiegel.de/ausland/andy-burnham-schrieb-mit-falscher-trump-beraterin-a-4bbf916d-cf73-4533-9f92-bc1fd0fb91c1#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/e1a12cbf-8068-465c-9cde-f795962b1f23_w520_r2.08_fpx57.5_fpy50.jpg",
+      "zeit": "2026-08-17T13:33+02:00"
     },
     {
-      "id": "0854-3",
-      "titel": "«Schlechtes Gewissen, TV zu machen, wenn die fast kollabieren»",
-      "was": "Ausgepumpte Staffelläufer vor dem Mikrofon, Moderator wartet auf Antwort",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: der Sendeablauf braucht einen Satz, der Körper braucht Sauerstoff.",
+      "id": "1700-3",
+      "titel": "Endlich Regen: Sogar die Kühe freuen sich",
+      "was": "Kühe auf nasser Weide im ersten Regen, Bauer mit Schirm",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: nationale Erleichterung über ein paar Tropfen gegen den Sommer, der sie nötig gemacht hat.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/srf-kaelin-schlechtes-gewissen-tv-zu-machen-wenn-die-fast-kollabieren-103618419",
-      "bild": "https://image.20min.ch/2026/08/16/27edc862-f872-4945-b4ae-d2637c64ed8b.png?s=b26cd8b3194d75b78672ba6c7f5db2ae",
-      "zeit": "2026-08-17T08:37+02:00"
+      "artikel": "https://www.20min.ch/video/duerresommer-endlich-regen-sogar-die-kuehe-freuen-sich-103618658",
+      "bild": "https://image.20min.ch/2026/08/17/7f32d014-fe7e-4eab-ac69-ce44b8fe39f3.jpg?s=cc6ab6aa09579e0100333e70dcfa15f4",
+      "zeit": "2026-08-17T12:43+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Abend",
-      "was": "Jubel- und Erschöpfungsbilder aus den Finals der Leichtathletik-EM in Birmingham"
+      "wann": "heute abends",
+      "was": "Kushner und Netanjahu beim Handschlag vor Flaggen in Jerusalem"
+    },
+    {
+      "wann": "heute im Verlauf",
+      "was": "Lula und Bolsonaro auf Wahlkampfbühnen in Brasilien, Konfetti und Fahnenmeer"
     }
   ],
   "hinweis": ""
