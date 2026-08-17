@@ -1,82 +1,27 @@
 {
-  "datum": "2026-08-16",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
-  "fertig": true,
+  "datum": "2026-08-17",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-16-2034-09",
-      "typ": "remix",
-      "stichwort": "Ventilator für 89 Franken gegen Verfassungsänderung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich habe gestern den letzten Ventilator im Baumarkt gekauft, 89 Franken. Am selben Tag schlagen die SPD-Ministerien gegen die Hitze eine Verfassungsänderung vor. Beides kühlt gleich gut. Meiner ab sofort.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-16-2034-10",
+      "id": "2026-08-17-0843-30",
       "typ": "persönlich",
-      "stichwort": "Chihiro nach 25 Jahren, Arbeitsvertrag als Existenzbeweis",
+      "stichwort": "Wasserhund als Fachkraft",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 5,
-      "text": "Ich war mit meiner Tochter in Chihiros Reise ins Zauberland, 25 Jahre nach dem Original wieder im Kino. Am gruseligsten fand sie, dass man dort einen Arbeitsvertrag braucht, um zu existieren.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "haltbarkeit": "evergreen",
+      "format": 2,
+      "text": "Ich habe einen französischen Wasserhund angeschafft, weil er nicht haart. Er hasst Wasser, ist allergisch auf Gras und spricht kein Französisch. Fachkraft mit drei Jahren Berufserfahrung."
     },
     {
-      "id": "2026-08-16-2034-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "CSU bremst Moor-Wiedervernässung, Waldbrand erledigt es gratis",
+      "id": "2026-08-17-0843-31",
+      "typ": "persönlich",
+      "stichwort": "sieben Jahre ECO gegen Industrie-Umzug nach Ungarn",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich bremse für die CSU die Wiedervernässung der Moore. Diese Woche hat der grösste Waldbrand der Landesgeschichte eines für uns trockengelegt. Gratis. Ohne Antrag.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-16-2034-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rente und Pflege erst nach sechs Wochen Sommerpause",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Gute Nachricht: Nach sechs Wochen Sommerpause nehmen wir Rente und Pflege endlich in Angriff. Wer zwanzig Jahre gewartet hat, hält auch September aus. Trainiert haben wir ihn selbst.",
-      "jury": {
-        "anker": false,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-16-2034-28",
-      "typ": "schnittmenge",
-      "stichwort": "Ronaldo hoert mit 41 auf, ich mit 61",
-      "plattform": "Threads + Instagram",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Cristiano Ronaldo deutet mit 41 das Karriereende an und will ein spektakuläres Vermächtnis. Wer mit 61 aufhören will, bekommt einen Vortrag über Eigenverantwortung.",
-      "jury": {
-        "witz": true,
-        "neu": false,
-        "anker": true
-      }
+      "format": 16,
+      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren im ECO-Programm. Die deutsche Industrie zieht derweil nach Ungarn, weil dort der Strom billiger ist. Wir sparen beide. Nur einer von uns kriegt Fördergelder dafür."
     }
   ]
 }
