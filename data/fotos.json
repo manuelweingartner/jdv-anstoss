@@ -1,60 +1,55 @@
 {
-  "stand": "2026-08-16T17:00:54+02:00",
-  "lauf": "1700",
+  "stand": "2026-08-17T08:55:06+02:00",
+  "lauf": "0854",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Ersatzwahl Stadtpräsidium Wil – SVP-Nationalrat Lukas Reimann in den Wiler Stadtrat gewählt",
-      "was": "Lukas Reimann nimmt Gratulationen und Blumen im Wiler Stadthaus entgegen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: die grosse Rede über das Land gegen die Zuständigkeit für Trottoirs und Abfallsäcke.",
+      "id": "0854-1",
+      "titel": "Niklas Süle: Ex-Nationalspieler verliert deutlich bei seinem Kreisliga-Debüt für den SV Tiefenbach",
+      "was": "Ex-Nationalspieler im Kreisliga-Trikot auf einem Dorfsportplatz, wenige Zuschauer",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Weltklasse-Vergangenheit gegen Kreisliga-Gegenwart, dieselbe Person, dasselbe Spiel, anderer Massstab.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "NZZ",
         "Watson"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/ersatzwahl-stadtpraesidium-wil-svp-nationalrat-lukas-reimann-in-den-wiler-stadtrat-gewaehlt",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/56510d.jpg",
-      "zeit": "2026-08-16T15:12+02:00"
+      "artikel": "https://www.spiegel.de/sport/fussball/niklas-suele-ex-nationalspieler-verliert-deutlich-bei-seinem-kreisliga-debuet-fuer-den-sv-tiefenbach-a-83bdd837-598f-4586-aae5-cef7bf370db9#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/30600212-9dd4-48aa-989c-f99255a309e5_w520_r2.08_fpx49.35_fpy50.99.jpg",
+      "zeit": "2026-08-17T07:52+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "NATO-Kampfjet schießt Drohne über Rumänien ab",
-      "was": "Kampfjet und Uniformierte vor Lagekarte, Drohnenteile auf rumänischem Acker",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Hightech-Abfangjäger im Millionenbereich gegen ein Stück Bastelflugzeug aus Sperrholz.",
+      "id": "0854-2",
+      "titel": "Aargauer Gemeinde legt wegen Wasserdieben Brunnen trocken",
+      "was": "Trockengelegter Dorfbrunnen mit Hinweisschild, Gemeindevertreter oder Anwohner daneben",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: die abgedrehte Kelle Brunnenwasser gegen die grossen, nie gezählten Verbraucher.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Tagesschau",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
       "auch_bei": [
-        "NZZ"
+        "SRF"
       ],
-      "artikel": "https://www.tagesschau.de/ausland/europa/nato-abschuss-drohne-rumaenien-100.html",
-      "bild": "https://images.tagesschau.de/image/a3cf0bab-0b3a-41df-b09e-adc7f8d842cf/AAABoAmW_7c/AAABnSSvrFg/16x9-big/nato-kampfjet-102.jpg?width=1280",
-      "zeit": "2026-08-16T10:35+02:00"
+      "artikel": "https://www.20min.ch/story/veltheim-aargauer-gemeinde-legt-wegen-wasserdieben-den-brunnen-trocken-103618469",
+      "bild": "https://image.20min.ch/2026/08/17/0570ee77-38e3-4000-8fc0-521f51df6e68.jpg?s=7044e0f6559c3081f276fba991b0df27",
+      "zeit": "2026-08-17T08:19+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Hier pfeifen 295 «Sierra Madre» durch die Nase",
-      "was": "295 Menschen mit Nasenflöten in Glarner Halle, hochkonzentrierte Gesichter",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: der volle Ernst einer Weltrekordorganisation gegen das erreichte Resultat.",
+      "id": "0854-3",
+      "titel": "«Schlechtes Gewissen, TV zu machen, wenn die fast kollabieren»",
+      "was": "Ausgepumpte Staffelläufer vor dem Mikrofon, Moderator wartet auf Antwort",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: der Sendeablauf braucht einen Satz, der Körper braucht Sauerstoff.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/glarus-hier-pfeifen-295-sierra-madre-durch-die-nase-103618006",
-      "bild": "https://image.20min.ch/2026/08/15/1949a8fa-0323-425a-b98f-c15ea9433584.jpg?s=114062429c6e61507b3ff0d1b366f871",
-      "zeit": "2026-08-16T10:05+02:00"
+      "artikel": "https://www.20min.ch/story/srf-kaelin-schlechtes-gewissen-tv-zu-machen-wenn-die-fast-kollabieren-103618419",
+      "bild": "https://image.20min.ch/2026/08/16/27edc862-f872-4945-b4ae-d2637c64ed8b.png?s=b26cd8b3194d75b78672ba6c7f5db2ae",
+      "zeit": "2026-08-17T08:37+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute abend",
-      "was": "FC Basel gegen Barcelona: Jubel, Fassungslosigkeit auf der Bank, Barça-Stars im St. Jakob-Park"
-    },
-    {
-      "wann": "heute nachmittag bis abend",
-      "was": "Super-League-Runde: Torjubel und Trainergesten an der Seitenlinie"
+      "wann": "heute Abend",
+      "was": "Jubel- und Erschöpfungsbilder aus den Finals der Leichtathletik-EM in Birmingham"
     }
   ],
   "hinweis": ""
