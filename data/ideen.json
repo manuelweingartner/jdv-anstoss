@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-17",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -34,24 +34,34 @@
       "text": "Ich freue mich: 9'276 abgelehnte Asylsuchende sind dieses Jahr freiwillig ausgereist. Freiwillig, weil wir ihnen alles andere unfreiwillig gemacht haben. Zwei Jahre lang. Mit Formular."
     },
     {
-      "id": "2026-08-17-0843-30",
-      "typ": "persönlich",
-      "stichwort": "Wasserhund als Fachkraft",
+      "id": "2026-08-17-0843-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "100 Minuten pendeln, sieben Arbeitsjahre gratis",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 2,
-      "text": "Ich habe einen französischen Wasserhund angeschafft, weil er nicht haart. Er hasst Wasser, ist allergisch auf Gras und spricht kein Französisch. Fachkraft mit drei Jahren Berufserfahrung."
+      "format": 16,
+      "text": "Ich pendle täglich 100 Minuten, unbezahlt. Über ein Arbeitsleben sind das sieben volle Arbeitsjahre, die ich gratis abgebe. Freiwillig. Ticket zahle ich selbst."
     },
     {
-      "id": "2026-08-17-0843-31",
-      "typ": "persönlich",
-      "stichwort": "sieben Jahre ECO gegen Industrie-Umzug nach Ungarn",
+      "id": "2026-08-17-0843-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Küche für 8'000, Miete dauerhaft plus 200",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren im ECO-Programm. Die deutsche Industrie zieht derweil nach Ungarn, weil dort der Strom billiger ist. Wir sparen beide. Nur einer von uns kriegt Fördergelder dafür."
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Für die Sanierung meiner Küche darf mein Vermieter die Miete um 200 Franken erhöhen, dauerhaft. Die Küche kostete 8'000. Nach vierzig Monaten kocht sie Gewinn."
+    },
+    {
+      "id": "2026-08-17-0843-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "fünf Prozent BIP finanzierbar, solange es nicht Sozialausgaben ist",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Gute Nachricht für die Staatsfinanzen: Fünf Prozent des BIP sind finanzierbar, solange man sie nicht Sozialausgaben nennt. Das Geld war immer da. Nur die Empfänger stimmten nicht."
     }
   ]
 }
