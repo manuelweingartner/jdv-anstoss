@@ -4,26 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-17-0843-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Chinas Satelliten gegen brennende Moore",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Washington ist alarmiert über Chinas Satelliten. Am selben Tag frisst Nordrhein-Westfalens grösster Waldbrand Moore, die einen Millimeter pro Jahr wachsen. Zuständig für den Weltraum sind alle. Für den Boden niemand."
-    },
-    {
-      "id": "2026-08-17-0843-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zalando betreibt trotz Beleg",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Bei Zalando geht eine Zahlung unter, die Kundin wird trotz Beleg betrieben. Ich finde das richtig. Wer bezahlt und es auch noch beweisen kann, macht sich bei uns verdächtig."
-    },
-    {
       "id": "2026-08-17-0843-04",
       "typ": "politisch-aktuell",
       "stichwort": "9'276 freiwillige Ausreisen",
@@ -31,37 +11,87 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich freue mich: 9'276 abgelehnte Asylsuchende sind dieses Jahr freiwillig ausgereist. Freiwillig, weil wir ihnen alles andere unfreiwillig gemacht haben. Zwei Jahre lang. Mit Formular."
+      "text": "Ich freue mich: 9'276 abgelehnte Asylsuchende sind dieses Jahr freiwillig ausgereist. Freiwillig, weil wir ihnen alles andere unfreiwillig gemacht haben. Zwei Jahre lang. Mit Formular.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-17-0843-08",
-      "typ": "schnittmenge",
-      "stichwort": "Rodri-Medizincheck gegen neun Monate Rheumatologe",
-      "plattform": "Threads + Instagram",
+      "id": "2026-08-17-0843-11",
+      "typ": "persönlich",
+      "stichwort": "Fünfzehn SPD-Vorsitzende, drei Hausärzte",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Rodri wechselt zu Barça und ist an einem Nachmittag von Kopf bis Fuss durchgecheckt. Auf einen Termin beim Rheumatologen wartet man neun Monate. Gleiche Geräte."
+      "format": 19,
+      "text": "Ich bin fast 40 und habe in dieser Zeit fünfzehn SPD-Vorsitzende erlebt und drei Hausärzte. Jetzt wackeln Bas und Klingbeil auch schon wieder. Meine Praxis nicht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-17-0843-25",
+      "id": "2026-08-17-0843-12",
+      "typ": "persönlich",
+      "stichwort": "Industrie geht nach Ungarn, Waldbrand kommt rein",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich lese beim Frühstück, dass die deutsche Industrie nach Ungarn abwandert. Am selben Tag steht ein Waldbrand aus Belgien 300 Meter vor der deutschen Grenze. Es kommt also auch etwas rein.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-17-0843-21",
       "typ": "politisch-aktuell",
-      "stichwort": "100 Minuten pendeln, sieben Arbeitsjahre gratis",
+      "stichwort": "Bildschirmzeit zwei Stunden vierzig, verboten wird die Tochter",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich pendle täglich 100 Minuten, unbezahlt. Über ein Arbeitsleben sind das sieben volle Arbeitsjahre, die ich gratis abgebe. Freiwillig. Ticket zahle ich selbst."
+      "text": "Ich hatte gestern zwei Stunden vierzig Minuten Bildschirmzeit, meine Tochter fünfundzwanzig. Die Schweiz diskutiert ein Social-Media-Verbot für Jugendliche. Verboten wird sie. Zu ihrem Schutz.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-08-17-0843-26",
+      "id": "2026-08-17-0843-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Küche für 8'000, Miete dauerhaft plus 200",
+      "stichwort": "9276 freiwillige Ausreisen, Behörde erklärt das Wort freiwillig",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Für die Sanierung meiner Küche darf mein Vermieter die Miete um 200 Franken erhöhen, dauerhaft. Die Küche kostete 8'000. Nach vierzig Monaten kocht sie Gewinn."
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Gute Nachricht: 9276 abgelehnte Asylsuchende sind dieses Jahr freiwillig ausgereist. Gezwungen hat sie niemand. Wir haben nur gefragt. Zwölfmal. Mit beigelegtem Ticket.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-17-0843-29",
+      "typ": "remix",
+      "stichwort": "Tausend Meter Sperrzone, Termin im März",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Bei Heidenau räumen sie für eine Bombe von 1945 tausend Meter Umkreis, alle raus bis neun Uhr. So schnell habe ich noch nie einen Facharzttermin bekommen. Nächster freier: März.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
