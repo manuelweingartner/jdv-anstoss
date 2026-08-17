@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-17",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-17-0843-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zalando betreibt trotz Beleg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Bei Zalando geht eine Zahlung unter, die Kundin wird trotz Beleg betrieben. Ich finde das richtig. Wer bezahlt und es auch noch beweisen kann, macht sich bei uns verdächtig."
+    },
+    {
+      "id": "2026-08-17-0843-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "9'276 freiwillige Ausreisen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich freue mich: 9'276 abgelehnte Asylsuchende sind dieses Jahr freiwillig ausgereist. Freiwillig, weil wir ihnen alles andere unfreiwillig gemacht haben. Zwei Jahre lang. Mit Formular."
+    },
     {
       "id": "2026-08-17-0843-30",
       "typ": "persönlich",
