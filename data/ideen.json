@@ -1,8 +1,18 @@
 {
   "datum": "2026-08-17",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-17-0843-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Chinas Satelliten gegen brennende Moore",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Washington ist alarmiert über Chinas Satelliten. Am selben Tag frisst Nordrhein-Westfalens grösster Waldbrand Moore, die einen Millimeter pro Jahr wachsen. Zuständig für den Weltraum sind alle. Für den Boden niemand."
+    },
     {
       "id": "2026-08-17-0843-03",
       "typ": "politisch-aktuell",
