@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-18",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Ich habe zwanzig Minuten gebraucht, um mein IKEA-Regal aufzubauen. Meine Vermieterin hat in dieser Zeit einen Franken verdient. Mit meiner Wohnung. Ihr gehören dreihundert."
+    },
+    {
+      "id": "2026-08-18-0803-10",
+      "typ": "schnittmenge",
+      "stichwort": "120 Franken mit Formular, Verwaltungsrat einstimmig",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe für eine Lohnerhöhung von 120 Franken zwei Gespräche geführt und ein Formular ausgefüllt. Der Verwaltungsrat im selben Haus hat seine eigene Erhöhung selbst bewilligt. Einstimmig. Ohne Formular."
+    },
+    {
+      "id": "2026-08-18-0803-11",
+      "typ": "schnittmenge",
+      "stichwort": "434 Milliarden Care-Arbeit gegen den Finanzplatz",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Unbezahlte Haus- und Care-Arbeit ist in der Schweiz 434 Milliarden wert, sechsmal so viel wie der ganze Finanzplatz. Der Finanzplatz hat einen Lobbyverband. Die Care-Arbeit hat ein Muttertagsfrühstück."
+    },
+    {
+      "id": "2026-08-18-0803-12",
+      "typ": "schnittmenge",
+      "stichwort": "Ein Samstag für 340 Franken Abzüge, Konzern findet Irland",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Für meine Steuererklärung habe ich einen Samstag gebraucht und 340 Franken an Abzügen gefunden. Konzerne haben dafür eine eigene Abteilung und finden Irland. Legal. Beraten. Absetzbar."
     }
   ]
 }
