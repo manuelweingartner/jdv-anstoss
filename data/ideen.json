@@ -4,26 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-18-0803-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vier Stunden Sonntag, eine Null in der Statistik",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe am Sonntag vier Stunden gekocht, gebügelt und ein Kind getröstet. In der Wirtschaftsleistung des Landes steht dafür eine Null. Sauber gebucht. Vollständig erfasst."
-    },
-    {
-      "id": "2026-08-18-0803-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lohnausweis gegen zwei Millionen auf dem Konto",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Auf meinem Lohnausweis stehen 6'800 Franken im Monat. Dasselbe bringen zwei Millionen auf dem Konto, ohne dass jemand aufstehen muss. Ohne Wecker. Steuerlich günstiger."
-    },
-    {
       "id": "2026-08-18-0803-03",
       "typ": "politisch-aktuell",
       "stichwort": "Wohneigentum kommt nicht von der Arbeit",
@@ -31,27 +11,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Ich kenne niemanden, der eine Wohnung besitzt, weil die Arbeit gereicht hätte. Ich kenne vier, bei denen jemand gestorben ist."
-    },
-    {
-      "id": "2026-08-18-0803-04",
-      "typ": "schnittmenge",
-      "stichwort": "Kaffee in Sekunden gegen Kaffee in Minuten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Heute 4.20 für einen Kaffee bezahlt. Für mich sind das zwölf Minuten Arbeit, für den Nestlé-Chef drei Sekunden. Gleicher Becher. Gleiche Bohne."
-    },
-    {
-      "id": "2026-08-18-0803-06",
-      "typ": "schnittmenge",
-      "stichwort": "IKEA-Regal, ein Franken, dreihundert Wohnungen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe zwanzig Minuten gebraucht, um mein IKEA-Regal aufzubauen. Meine Vermieterin hat in dieser Zeit einen Franken verdient. Mit meiner Wohnung. Ihr gehören dreihundert."
+      "text": "Ich kenne niemanden, der eine Wohnung besitzt, weil die Arbeit gereicht hätte. Ich kenne vier, bei denen jemand gestorben ist.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-18-0803-07",
@@ -61,7 +26,72 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ich werfe seit fünf Jahren Zwei-Franken-Stücke in eine Waschmaschine, die ich damit zweimal abbezahlt habe. Sie gehört dem Mann, der nie wäscht. Zweimal. Ohne Anteil."
+      "text": "Ich werfe seit fünf Jahren Zwei-Franken-Stücke in eine Waschmaschine, die ich damit zweimal abbezahlt habe. Sie gehört dem Mann, der nie wäscht. Zweimal. Ohne Anteil.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-08-18-0803-11",
+      "typ": "schnittmenge",
+      "stichwort": "434 Milliarden Care-Arbeit gegen den Finanzplatz",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Unbezahlte Haus- und Care-Arbeit ist in der Schweiz 434 Milliarden wert, sechsmal so viel wie der ganze Finanzplatz. Der Finanzplatz hat einen Lobbyverband. Die Care-Arbeit hat ein Muttertagsfrühstück.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-18-0803-12",
+      "typ": "schnittmenge",
+      "stichwort": "Ein Samstag für 340 Franken Abzüge, Konzern findet Irland",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Für meine Steuererklärung habe ich einen Samstag gebraucht und 340 Franken an Abzügen gefunden. Konzerne haben dafür eine eigene Abteilung und finden Irland. Legal. Beraten. Absetzbar.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-08-18-0803-30",
+      "typ": "schnittmenge",
+      "stichwort": "Drei Abende Steuererklärung gegen ein ganzes Land",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich sitze drei Abende an der Steuererklärung, um 340 Franken Berufsauslagen abzuziehen. Konzerne mieten sich dafür ein ganzes Land. Mit Rechtsabteilung. Ohne Angestellte.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-08-18-0803-31",
+      "typ": "schnittmenge",
+      "stichwort": "Gedämmte Fassade, Miete plus 240, Heizkosten minus 30",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Ich bekomme eine gedämmte Fassade, damit ich weniger heize. Die Miete steigt um 240 Franken, die Heizkosten sinken um 30. Im Brief steht: Beitrag zum Klimaschutz.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     }
   ]
 }
