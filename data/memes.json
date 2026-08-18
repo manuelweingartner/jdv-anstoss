@@ -1,110 +1,100 @@
 {
-  "stand": "2026-08-17T08:56:16+02:00",
+  "stand": "2026-08-18T08:13:07+02:00",
   "vorschlaege": [
-    {
-      "vorlage": "schild",
-      "name": "Change My Mind",
-      "zeilen": [
-        "Die Kaiserschnittrate haengt vom Spital ab, nicht vom Kind"
-      ],
-      "warum": "die Studie sagt genau das, und widersprechen kann nur, wer die Zahlen nicht kennt",
-      "bild": "vorschlag-1.jpg"
-    },
-    {
-      "vorlage": "harold",
-      "name": "Hide the Pain Harold",
-      "zeilen": [
-        "Ihre Phishing-Meldung ist eingegangen",
-        "Mehr passiert auch nicht"
-      ],
-      "warum": "die brave Amtsauskunft oben, die reale Wirkung unten",
-      "bild": "vorschlag-2.jpg"
-    },
     {
       "vorlage": "skelett",
       "name": "Waiting Skeleton",
       "zeilen": [
-        "Linke Unterstuetzung fuer die Ernaehrungsinitiative",
-        "Seit der Trinkwasserinitiative 2021"
+        "Raststätte Walensee wird Begegnungsort",
+        "seit 2005"
       ],
-      "warum": "dasselbe Anliegen, dasselbe Warten, fuenf Jahre spaeter",
+      "warum": "weil 20 Jahre Leerstand genau die Figur des endlosen Wartens auf ein Versprechen sind",
+      "bild": "vorschlag-1.jpg"
+    },
+    {
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
+      "zeilen": [
+        "Pestizidkontrollen abschwächen",
+        "Vollzug praxisnah ausgestalten"
+      ],
+      "warum": "weil die Agrarlobby dieselbe Verwässerung erst als Kontrolle und dann als Praxisnähe verkauft",
+      "bild": "vorschlag-2.jpg"
+    },
+    {
+      "vorlage": "aliens",
+      "name": "Ancient Aliens",
+      "zeilen": [
+        "Warum schliessen die Bäckereien?",
+        "Die Hafermilch"
+      ],
+      "warum": "weil Margen und Fachkräftemangel ignoriert und durch die vegane Berner Filiale ersetzt werden",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "drake",
-      "name": "Drake Hotline Bling",
+      "vorlage": "glocke",
+      "name": "Bell Curve",
       "zeilen": [
-        "Den Zahlungsbeleg der Kundin pruefen",
-        "Betreibung einleiten"
+        "Helm aufsetzen",
+        "Nutzungsdaten, Pilotprojekt, Mobilitätsstrategie",
+        "Helm aufsetzen"
       ],
-      "warum": "der naheliegende Weg wird ausgeschlagen, der teurere gewaehlt",
+      "warum": "weil bei 16'500 E-Scooter-Unfällen nur die Mitte eine Strategie statt eines Helms braucht",
       "bild": "vorschlag-4.jpg"
-    },
-    {
-      "vorlage": "knoepfe",
-      "name": "Two Buttons",
-      "zeilen": [
-        "Maximal zwoelf Stunden pro Schicht",
-        "Genug Aerzte fuer den Dienstplan",
-        "Staenderatskommission"
-      ],
-      "warum": "zwei Dinge, die sich nur ausschliessen, weil niemand ausbilden wollte",
-      "bild": "vorschlag-5.jpg"
-    },
-    {
-      "vorlage": "freund",
-      "name": "Distracted Boyfriend",
-      "zeilen": [
-        "Kim Jong-un",
-        "Donald Trump",
-        "Suedkorea"
-      ],
-      "warum": "der Buendnispartner sitzt da, waehrend der Praesident dem anderen nachschaut",
-      "bild": "vorschlag-6.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Chef nach fuenf Monaten feuern",
-        "Die Strategie wirken lassen",
-        "Verwaltungsrat SIG"
+        "Twint-Direktlastschrift 2027",
+        "Das bestehende LSV-Verfahren",
+        "Schweizer Grossbanken"
       ],
-      "warum": "Kurswechsel in letzter Sekunde, obwohl geradeaus noch niemand probiert hat",
-      "bild": "vorschlag-7.jpg"
-    },
-    {
-      "vorlage": "handschlag",
-      "name": "Epic Handshake",
-      "zeilen": [
-        "Pentagon",
-        "Peking",
-        "Mehr Geld fuers Weltraumprogramm"
-      ],
-      "warum": "zwei Rivalen, deren Alarm sich gegenseitig die Budgets finanziert",
-      "bild": "vorschlag-8.jpg"
+      "warum": "weil ein funktionierendes Lastschriftverfahren in der letzten Sekunde für ein neues verlassen wird",
+      "bild": "vorschlag-5.jpg"
     },
     {
       "vorlage": "gehirn",
       "name": "Expanding Brain",
       "zeilen": [
-        "Die Prognose war methodisch schwach",
-        "Die Prognose kam zur Unzeit",
-        "Die Prognose schadet dem Institut",
-        "Es gab nie eine Prognose"
+        "Sieben Stunden schlafen",
+        "Dreimal Krafttraining pro Woche",
+        "Testosteron-Gel aus dem Netz",
+        "Fruchtbarkeit ist verhandelbar"
       ],
-      "warum": "die Begruendungen fuer die Entlassung werden mit jeder Stufe groesser und duenner",
-      "bild": "vorschlag-9.jpg"
+      "warum": "weil der Testosteron-Hype eine Rechtfertigungskette ist, die mit jeder Stufe selbstbewusster wird",
+      "bild": "vorschlag-6.jpg"
     },
     {
-      "vorlage": "angebot",
-      "name": "Trade Offer",
+      "vorlage": "harold",
+      "name": "Hide the Pain Harold",
       "zeilen": [
-        "Der Dorfbrunnen bleibt trocken",
-        "Ihr hoert auf, ihn leerzupumpen"
+        "WM-Medaille im Kunstturnen",
+        "Sponsorenmails am Abend"
       ],
-      "warum": "die Gemeinde bietet allen den Verzicht an, damit einige wenige aufhoeren",
-      "bild": "vorschlag-10.jpg"
+      "warum": "weil Noe Seiferts brave Erfolgsmeldung den Kampf um jeden Franken nicht verdeckt",
+      "bild": "vorschlag-7.jpg"
+    },
+    {
+      "vorlage": "doge",
+      "name": "Buff Doge vs. Cheems",
+      "zeilen": [
+        "Dublin-Abkommen, 2003",
+        "Rückführungen als Routine",
+        "2026: erste Flugbuchungen",
+        "Einzelne Asylsuchende"
+      ],
+      "warum": "weil zwischen dem behaupteten Abkommen und ein paar Flugtickets nach Italien genau dieses Gefälle liegt",
+      "bild": "vorschlag-8.jpg"
+    },
+    {
+      "vorlage": "schild",
+      "name": "Change My Mind",
+      "zeilen": [
+        "Prüfungen ohne KI sind kein Rückschritt"
+      ],
+      "warum": "weil Dänemarks Schulregel eine These ist, gegen die niemand ernsthaft argumentieren kann",
+      "bild": "vorschlag-9.jpg"
     }
   ]
 }
