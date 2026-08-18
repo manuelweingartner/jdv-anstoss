@@ -14,6 +14,26 @@
       "text": "Ich verkaufe Testosteron-Kapseln, 89 Franken die Dose, und finde es richtig, dass sie die Fruchtbarkeit senken. Männlichkeit gibt man nicht weiter. Man hat sie."
     },
     {
+      "id": "2026-08-18-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Dossier für die Wohnung, sechzig Bewerbungen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Ich habe für eine Dreizimmerwohnung ein Dossier mit Lohnausweis, Bonitätsauskunft und Motivationsschreiben abgegeben, gegen sechzig andere Bewerbungen. Für die Wohnung. Nicht für den Job."
+    },
+    {
+      "id": "2026-08-18-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Selbstanzeige straffrei, Schwarzfahren mit Eintrag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Ehrlich währt am längsten: Zehn Jahre verschwiegenes Vermögen darf man einmal im Leben straffrei nachmelden. Ein einziges Mal schwarzfahren bringt einen Eintrag ins Register."
+    },
+    {
       "id": "2026-08-18-0757-08",
       "typ": "schnittmenge",
       "stichwort": "Kartoffelpreis gegen Wasserpreis",
@@ -42,26 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 2,
       "text": "Nordkorea schickt laut Berichten weitere Soldaten nach Russland. Ich besitze 45 Kilo Herdenschutzhund, gezüchtet gegen Wölfe, und muss ihn seit Sonntag um den Kehrichtsack herumtragen. Abschreckung ist Verhandlungssache."
-    },
-    {
-      "id": "2026-08-18-0757-12",
-      "typ": "persönlich",
-      "stichwort": "KI plant Training, Diagnose dauert Jahre",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Eine App plant heute in elf Sekunden ein Trainingsprogramm für dich. Menschen mit chronischer Erschöpfung warten im Schnitt Jahre auf eine Diagnose und hören dazwischen, sie sollten mal spazieren gehen."
-    },
-    {
-      "id": "2026-08-18-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Prävention beim Wald, Glück beim Klima",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ich lese, dass die Schweiz von den Waldbränden verschont bleibt: dank konsequenter Prävention und Glück. Beim Klima verlassen wir uns seit 1990 auf den zweiten Teil. Bisher hat es gehalten."
     }
   ]
 }
