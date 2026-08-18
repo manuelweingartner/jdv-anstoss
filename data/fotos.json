@@ -1,59 +1,55 @@
 {
-  "stand": "2026-08-17T17:00:53+02:00",
-  "lauf": "1700",
+  "stand": "2026-08-18T08:11:36+02:00",
+  "lauf": "0810",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Trump will keine Manöver mehr mit Südkorea – aus Rücksicht auf seinen Freund Kim Jong Un",
-      "was": "Trump und Kim Jong Un beim Handschlag, Militärs im Hintergrund",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Bündnistreue als Verhandlungsmasse gegen Freundschaftspflege mit dem Gegner.",
+      "id": "0810-1",
+      "titel": "Nach Kritik an Infantino – Fifa trennt sich von Betriebsdirektor Lamour",
+      "was": "Fifa-Funktionäre im Anzug, Infantino im Zentrum, gestellter Händedruck vor Logowand",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Kritik von aussen gilt als Debattenbeitrag, Kritik von innen als Personalfrage.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "NZZ",
+      "quelle": "SRF",
       "auch_bei": [
-        "taz"
+        "Watson"
       ],
-      "artikel": "https://www.nzz.ch/international/trump-will-gemeinsame-manoever-mit-suedkorea-stoppen-ld.10019837",
-      "bild": "https://img-msp-prod.nzz.ch/2026/08/17/dfb73c15-6eca-48a8-a35d-0c56d5c5ab23.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3669,3669,x342,y0",
-      "zeit": "2026-08-17T16:55+02:00"
+      "artikel": "https://www.srf.ch/sport/fussball/internationale-ligen/nach-kritik-an-infantino-fifa-trennt-sich-von-betriebsdirektor-lamour",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/dc02ca.jpg",
+      "zeit": "2026-08-17T21:52+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Andy Burnham schrieb mit falscher Trump-Beraterin",
-      "was": "Neuer britischer Premier Burnham am Handy, Amtsantritt-Pose",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Regierungschef mit Zugang zu jedem Geheimdienst gegen einen, der im Chat einfach zurückschreibt.",
+      "id": "0810-2",
+      "titel": "Tennis: Serena und Venus Williams verlieren Doppel-Comeback in Cincinnati",
+      "was": "Venus und Serena Williams auf dem Platz, Schultern nach dem verlorenen Punkt",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Wiedersehen zum Spass gegen eine Rangliste, die keinen Spass kennt.",
       "grund": "breit",
-      "raum": "weltweit",
+      "raum": "",
       "quelle": "Spiegel",
       "auch_bei": [
-        "SRF"
+        "Watson"
       ],
-      "artikel": "https://www.spiegel.de/ausland/andy-burnham-schrieb-mit-falscher-trump-beraterin-a-4bbf916d-cf73-4533-9f92-bc1fd0fb91c1#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/e1a12cbf-8068-465c-9cde-f795962b1f23_w520_r2.08_fpx57.5_fpy50.jpg",
-      "zeit": "2026-08-17T13:33+02:00"
+      "artikel": "https://www.spiegel.de/sport/tennis/tennis-serena-und-venus-williams-verlieren-doppel-comeback-in-cincinnati-a-bd6fd5a3-1944-4efd-93ab-2e1b6866b307#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/8c8232c7-fd74-471e-bed2-099cff6a612e_w520_r2.08_fpx47.99_fpy49.99.jpg",
+      "zeit": "2026-08-18T07:32+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Endlich Regen: Sogar die Kühe freuen sich",
-      "was": "Kühe auf nasser Weide im ersten Regen, Bauer mit Schirm",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: nationale Erleichterung über ein paar Tropfen gegen den Sommer, der sie nötig gemacht hat.",
+      "id": "0810-3",
+      "titel": "«Switzerland» auf der Brust: US-Rapper Offset trägt Zürcher Marke",
+      "was": "US-Rapper Offset im Shirt mit Switzerland-Schriftzug und Kuh-Logo",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Weltweite Rapbühne gegen ein Land, das seinen Stolz an einem Kuhsymbol festmacht.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/video/duerresommer-endlich-regen-sogar-die-kuehe-freuen-sich-103618658",
-      "bild": "https://image.20min.ch/2026/08/17/7f32d014-fe7e-4eab-ac69-ce44b8fe39f3.jpg?s=cc6ab6aa09579e0100333e70dcfa15f4",
-      "zeit": "2026-08-17T12:43+02:00"
+      "artikel": "https://www.20min.ch/story/white-tiger-calligraphy-wie-ein-zuercher-label-us-rapper-offset-als-traeger-gewinnt-103618558",
+      "bild": "https://image.20min.ch/2026/08/18/f24cea12-cfb1-47b0-aea5-2f08c50792ac.jpg?s=1073faaa49baf0a40a48418cc846c988",
+      "zeit": "2026-08-18T04:47+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute abends",
-      "was": "Kushner und Netanjahu beim Handschlag vor Flaggen in Jerusalem"
-    },
-    {
-      "wann": "heute im Verlauf",
-      "was": "Lula und Bolsonaro auf Wahlkampfbühnen in Brasilien, Konfetti und Fahnenmeer"
+      "wann": "heute im Tagesverlauf",
+      "was": "Bilder von der Reit-WM in Aachen: Reiter, Pferde und Funktionäre im Parcours, dazu Siegerehrungen"
     }
   ],
   "hinweis": ""
