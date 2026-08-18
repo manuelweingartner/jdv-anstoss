@@ -1,77 +1,47 @@
 {
   "datum": "2026-08-18",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-18-0803-03",
+      "id": "2026-08-18-0757-03",
+      "typ": "schnittmenge",
+      "stichwort": "Testosteron-Kapseln senken die Fruchtbarkeit, richtig so",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich verkaufe Testosteron-Kapseln, 89 Franken die Dose, und finde es richtig, dass sie die Fruchtbarkeit senken. Männlichkeit gibt man nicht weiter. Man hat sie.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-18-0757-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Wohneigentum kommt nicht von der Arbeit",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ich kenne niemanden, der eine Wohnung besitzt, weil die Arbeit gereicht hätte. Ich kenne vier, bei denen jemand gestorben ist.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-18-0803-07",
-      "typ": "persönlich",
-      "stichwort": "Waschmaschine zweimal abbezahlt, gehört dem Vermieter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich werfe seit fünf Jahren Zwei-Franken-Stücke in eine Waschmaschine, die ich damit zweimal abbezahlt habe. Sie gehört dem Mann, der nie wäscht. Zweimal. Ohne Anteil.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-18-0803-11",
-      "typ": "schnittmenge",
-      "stichwort": "434 Milliarden Care-Arbeit gegen den Finanzplatz",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Unbezahlte Haus- und Care-Arbeit ist in der Schweiz 434 Milliarden wert, sechsmal so viel wie der ganze Finanzplatz. Der Finanzplatz hat einen Lobbyverband. Die Care-Arbeit hat ein Muttertagsfrühstück.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-18-0803-12",
-      "typ": "schnittmenge",
-      "stichwort": "Ein Samstag für 340 Franken Abzüge, Konzern findet Irland",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Für meine Steuererklärung habe ich einen Samstag gebraucht und 340 Franken an Abzügen gefunden. Konzerne haben dafür eine eigene Abteilung und finden Irland. Legal. Beraten. Absetzbar.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-18-0803-30",
-      "typ": "schnittmenge",
-      "stichwort": "Drei Abende Steuererklärung gegen ein ganzes Land",
+      "stichwort": "Adria-Bürgermeister räumt die Platzhalter-Sonnenschirme",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Als Bürgermeister an der Adria lasse ich die Sonnenschirme einsammeln, die Leute nachts als Platzhalter hinstellen. Endlich hat wieder jeder das gleiche Anrecht aufs Meer. 30 Euro die Liege.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-08-18-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Motivationsschreiben für die Wohnung, gekauft hat die eigene Pensionskasse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ich sitze drei Abende an der Steuererklärung, um 340 Franken Berufsauslagen abzuziehen. Konzerne mieten sich dafür ein ganzes Land. Mit Rechtsabteilung. Ohne Angestellte.",
+      "text": "Ich musste für eine 3-Zimmer-Wohnung drei Lohnabrechnungen, eine Schuldenauskunft und ein Motivationsschreiben einreichen. Gekauft hat das Haus am Ende meine eigene Pensionskasse. Ohne Motivationsschreiben.",
       "jury": {
         "anker": true,
         "witz": true,
@@ -79,18 +49,48 @@
       }
     },
     {
-      "id": "2026-08-18-0803-31",
-      "typ": "schnittmenge",
-      "stichwort": "Gedämmte Fassade, Miete plus 240, Heizkosten minus 30",
+      "id": "2026-08-18-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohnung unter 40 nur über eine Todesanzeige",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Ich bekomme eine gedämmte Fassade, damit ich weniger heize. Die Miete steigt um 240 Franken, die Heizkosten sinken um 30. Im Brief steht: Beitrag zum Klimaschutz.",
+      "format": 17,
+      "text": "Ich kenne niemanden unter 40, dem seine Wohnung gehört, ohne dass dafür vorher jemand gestorben ist. Der Markt regelt das. Über die Todesanzeigen.",
       "jury": {
         "anker": true,
         "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-18-0757-29",
+      "typ": "remix",
+      "stichwort": "Drei Monate Fristverlaengerung gegen drei Jahre Rueckfuehrung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich habe für meine Steuererklärung drei Monate Verlängerung gebraucht. Die Schweiz für die erste Rückführung nach Italien drei Jahre. Flüge sind gebucht. Meine Verlängerung nicht.",
+      "jury": {
+        "witz": true,
+        "anker": true,
         "neu": false
+      }
+    },
+    {
+      "id": "2026-08-18-0757-31",
+      "typ": "persönlich",
+      "stichwort": "Zwölf Läufe an die App, Airline-Daten an Google",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich habe einer Fitness-App meine letzten zwölf Läufe überlassen. Gleiche Woche kauft Google die Kundendaten einer pleitegegangenen US-Airline zum KI-Training. Konkurs ist offenbar kein Löschgrund. Tod auch nicht.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
       }
     }
   ]
