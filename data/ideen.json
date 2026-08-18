@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-18",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,26 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Ich verkaufe Testosteron-Kapseln, 89 Franken die Dose, und finde es richtig, dass sie die Fruchtbarkeit senken. Männlichkeit gibt man nicht weiter. Man hat sie."
+    },
+    {
+      "id": "2026-08-18-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "Kartoffelpreis gegen Wasserpreis",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Wegen der Dürre kostet ein Kilo Kartoffeln jetzt 3.40. Der Konzern, der daneben Grundwasser abfüllt, zahlt zwei Rappen für tausend Liter."
+    },
+    {
+      "id": "2026-08-18-0757-09",
+      "typ": "remix",
+      "stichwort": "Kreditlimit gegen Staatsrating",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich musste für 3'000 Franken Kreditlimit drei Lohnabrechnungen einreichen. Deutschland hat 2'700 Milliarden Schulden, und das Härteste, was droht, ist ein wackelndes Rating. Kein Formular. Keine Kopie."
     },
     {
       "id": "2026-08-18-0757-10",
@@ -42,16 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Ich lese, dass die Schweiz von den Waldbränden verschont bleibt: dank konsequenter Prävention und Glück. Beim Klima verlassen wir uns seit 1990 auf den zweiten Teil. Bisher hat es gehalten."
-    },
-    {
-      "id": "2026-08-18-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Aufsicht für 15-Jährige, nicht für 80-Jährige",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Trump droht dem Oman mit Bombardierung. In derselben Woche schränkt Dänemark KI an Schulen ein, damit Prüfungen selber geschrieben werden. Beaufsichtigt wird, wer 15 ist. Nicht, wer 80 ist."
     }
   ]
 }
