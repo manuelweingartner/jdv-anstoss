@@ -1,67 +1,97 @@
 {
   "datum": "2026-08-18",
-  "hinweis": "6 von 6 da, der Rest lädt noch.",
-  "fertig": false,
+  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-18-0803-01",
+      "id": "2026-08-18-0757-03",
+      "typ": "schnittmenge",
+      "stichwort": "Testosteron-Kapseln senken die Fruchtbarkeit, richtig so",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich verkaufe Testosteron-Kapseln, 89 Franken die Dose, und finde es richtig, dass sie die Fruchtbarkeit senken. Männlichkeit gibt man nicht weiter. Man hat sie.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-18-0757-10",
+      "typ": "persönlich",
+      "stichwort": "45 Kilo Hund gegen Kim Jong Uns Truppen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Nordkorea schickt laut Berichten weitere Soldaten nach Russland. Ich besitze 45 Kilo Herdenschutzhund, gezüchtet gegen Wölfe, und muss ihn seit Sonntag um den Kehrichtsack herumtragen. Abschreckung ist Verhandlungssache.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-08-18-0757-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Vier Stunden Sonntag, eine Null in der Statistik",
+      "stichwort": "Adria-Bürgermeister räumt die Platzhalter-Sonnenschirme",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Als Bürgermeister an der Adria lasse ich die Sonnenschirme einsammeln, die Leute nachts als Platzhalter hinstellen. Endlich hat wieder jeder das gleiche Anrecht aufs Meer. 30 Euro die Liege.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-08-18-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Motivationsschreiben für die Wohnung, gekauft hat die eigene Pensionskasse",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ich habe am Sonntag vier Stunden gekocht, gebügelt und ein Kind getröstet. In der Wirtschaftsleistung des Landes steht dafür eine Null. Sauber gebucht. Vollständig erfasst."
+      "text": "Ich musste für eine 3-Zimmer-Wohnung drei Lohnabrechnungen, eine Schuldenauskunft und ein Motivationsschreiben einreichen. Gekauft hat das Haus am Ende meine eigene Pensionskasse. Ohne Motivationsschreiben.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-08-18-0803-02",
+      "id": "2026-08-18-0757-27",
       "typ": "politisch-aktuell",
-      "stichwort": "Lohnausweis gegen zwei Millionen auf dem Konto",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Auf meinem Lohnausweis stehen 6'800 Franken im Monat. Dasselbe bringen zwei Millionen auf dem Konto, ohne dass jemand aufstehen muss. Ohne Wecker. Steuerlich günstiger."
-    },
-    {
-      "id": "2026-08-18-0803-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wohneigentum kommt nicht von der Arbeit",
+      "stichwort": "Wohnung unter 40 nur über eine Todesanzeige",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ich kenne niemanden, der eine Wohnung besitzt, weil die Arbeit gereicht hätte. Ich kenne vier, bei denen jemand gestorben ist."
+      "format": 17,
+      "text": "Ich kenne niemanden unter 40, dem seine Wohnung gehört, ohne dass dafür vorher jemand gestorben ist. Der Markt regelt das. Über die Todesanzeigen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-18-0803-04",
-      "typ": "schnittmenge",
-      "stichwort": "Kaffee in Sekunden gegen Kaffee in Minuten",
+      "id": "2026-08-18-0757-31",
+      "typ": "persönlich",
+      "stichwort": "Zwölf Läufe an die App, Airline-Daten an Google",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Heute 4.20 für einen Kaffee bezahlt. Für mich sind das zwölf Minuten Arbeit, für den Nestlé-Chef drei Sekunden. Gleicher Becher. Gleiche Bohne."
-    },
-    {
-      "id": "2026-08-18-0803-06",
-      "typ": "schnittmenge",
-      "stichwort": "IKEA-Regal, ein Franken, dreihundert Wohnungen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe zwanzig Minuten gebraucht, um mein IKEA-Regal aufzubauen. Meine Vermieterin hat in dieser Zeit einen Franken verdient. Mit meiner Wohnung. Ihr gehören dreihundert."
-    },
-    {
-      "id": "2026-08-18-0803-10",
-      "typ": "schnittmenge",
-      "stichwort": "120 Franken mit Formular, Verwaltungsrat einstimmig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe für eine Lohnerhöhung von 120 Franken zwei Gespräche geführt und ein Formular ausgefüllt. Der Verwaltungsrat im selben Haus hat seine eigene Erhöhung selbst bewilligt. Einstimmig. Ohne Formular."
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich habe einer Fitness-App meine letzten zwölf Läufe überlassen. Gleiche Woche kauft Google die Kundendaten einer pleitegegangenen US-Airline zum KI-Training. Konkurs ist offenbar kein Löschgrund. Tod auch nicht.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
