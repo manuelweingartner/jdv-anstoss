@@ -1,67 +1,27 @@
 {
   "datum": "2026-08-18",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
-  "fertig": true,
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-18-0757-03",
+      "id": "2026-08-18-0803-04",
       "typ": "schnittmenge",
-      "stichwort": "Testosteron-Kapseln senken die Fruchtbarkeit, richtig so",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich verkaufe Testosteron-Kapseln, 89 Franken die Dose, und finde es richtig, dass sie die Fruchtbarkeit senken. Männlichkeit gibt man nicht weiter. Man hat sie."
-    },
-    {
-      "id": "2026-08-18-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Dossier für die Wohnung, sechzig Bewerbungen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Ich habe für eine Dreizimmerwohnung ein Dossier mit Lohnausweis, Bonitätsauskunft und Motivationsschreiben abgegeben, gegen sechzig andere Bewerbungen. Für die Wohnung. Nicht für den Job."
-    },
-    {
-      "id": "2026-08-18-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Selbstanzeige straffrei, Schwarzfahren mit Eintrag",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Ehrlich währt am längsten: Zehn Jahre verschwiegenes Vermögen darf man einmal im Leben straffrei nachmelden. Ein einziges Mal schwarzfahren bringt einen Eintrag ins Register."
-    },
-    {
-      "id": "2026-08-18-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "Kartoffelpreis gegen Wasserpreis",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Wegen der Dürre kostet ein Kilo Kartoffeln jetzt 3.40. Der Konzern, der daneben Grundwasser abfüllt, zahlt zwei Rappen für tausend Liter."
-    },
-    {
-      "id": "2026-08-18-0757-09",
-      "typ": "remix",
-      "stichwort": "Kreditlimit gegen Staatsrating",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich musste für 3'000 Franken Kreditlimit drei Lohnabrechnungen einreichen. Deutschland hat 2'700 Milliarden Schulden, und das Härteste, was droht, ist ein wackelndes Rating. Kein Formular. Keine Kopie."
-    },
-    {
-      "id": "2026-08-18-0757-10",
-      "typ": "persönlich",
-      "stichwort": "45 Kilo Hund gegen Kim Jong Uns Truppen",
+      "stichwort": "Kaffee in Sekunden gegen Kaffee in Minuten",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 2,
-      "text": "Nordkorea schickt laut Berichten weitere Soldaten nach Russland. Ich besitze 45 Kilo Herdenschutzhund, gezüchtet gegen Wölfe, und muss ihn seit Sonntag um den Kehrichtsack herumtragen. Abschreckung ist Verhandlungssache."
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Heute 4.20 für einen Kaffee bezahlt. Für mich sind das zwölf Minuten Arbeit, für den Nestlé-Chef drei Sekunden. Gleicher Becher. Gleiche Bohne."
+    },
+    {
+      "id": "2026-08-18-0803-06",
+      "typ": "schnittmenge",
+      "stichwort": "IKEA-Regal, ein Franken, dreihundert Wohnungen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe zwanzig Minuten gebraucht, um mein IKEA-Regal aufzubauen. Meine Vermieterin hat in dieser Zeit einen Franken verdient. Mit meiner Wohnung. Ihr gehören dreihundert."
     }
   ]
 }
