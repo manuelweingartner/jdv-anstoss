@@ -8747,6 +8747,86 @@
         "anker": true
       },
       "datum": "2026-08-16"
+    },
+    {
+      "id": "2026-08-17-0843-11",
+      "typ": "persönlich",
+      "stichwort": "Fünfzehn SPD-Vorsitzende, drei Hausärzte",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich bin fast 40 und habe in dieser Zeit fünfzehn SPD-Vorsitzende erlebt und drei Hausärzte. Jetzt wackeln Bas und Klingbeil auch schon wieder. Meine Praxis nicht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-17"
+    },
+    {
+      "id": "2026-08-17-0843-12",
+      "typ": "persönlich",
+      "stichwort": "Industrie geht nach Ungarn, Waldbrand kommt rein",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich lese beim Frühstück, dass die deutsche Industrie nach Ungarn abwandert. Am selben Tag steht ein Waldbrand aus Belgien 300 Meter vor der deutschen Grenze. Es kommt also auch etwas rein.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-17"
+    },
+    {
+      "id": "2026-08-17-0843-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bildschirmzeit zwei Stunden vierzig, verboten wird die Tochter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich hatte gestern zwei Stunden vierzig Minuten Bildschirmzeit, meine Tochter fünfundzwanzig. Die Schweiz diskutiert ein Social-Media-Verbot für Jugendliche. Verboten wird sie. Zu ihrem Schutz.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-08-17"
+    },
+    {
+      "id": "2026-08-17-0843-29",
+      "typ": "remix",
+      "stichwort": "Tausend Meter Sperrzone, Termin im März",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Bei Heidenau räumen sie für eine Bombe von 1945 tausend Meter Umkreis, alle raus bis neun Uhr. So schnell habe ich noch nie einen Facharzttermin bekommen. Nächster freier: März.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-17"
+    },
+    {
+      "id": "2026-08-17-0843-30",
+      "typ": "persönlich",
+      "stichwort": "Wasserhund als Fachkraft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 2,
+      "text": "Ich habe einen französischen Wasserhund angeschafft, weil er nicht haart. Er hasst Wasser, ist allergisch auf Gras und spricht kein Französisch. Fachkraft mit drei Jahren Berufserfahrung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-08-17"
     }
   ]
 }
