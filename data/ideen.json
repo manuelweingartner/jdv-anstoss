@@ -1,8 +1,18 @@
 {
   "datum": "2026-08-18",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-18-0757-03",
+      "typ": "schnittmenge",
+      "stichwort": "Testosteron-Kapseln senken die Fruchtbarkeit, richtig so",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich verkaufe Testosteron-Kapseln, 89 Franken die Dose, und finde es richtig, dass sie die Fruchtbarkeit senken. Männlichkeit gibt man nicht weiter. Man hat sie."
+    },
     {
       "id": "2026-08-18-0757-10",
       "typ": "persönlich",
@@ -22,6 +32,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Eine App plant heute in elf Sekunden ein Trainingsprogramm für dich. Menschen mit chronischer Erschöpfung warten im Schnitt Jahre auf eine Diagnose und hören dazwischen, sie sollten mal spazieren gehen."
+    },
+    {
+      "id": "2026-08-18-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Prävention beim Wald, Glück beim Klima",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ich lese, dass die Schweiz von den Waldbränden verschont bleibt: dank konsequenter Prävention und Glück. Beim Klima verlassen wir uns seit 1990 auf den zweiten Teil. Bisher hat es gehalten."
+    },
+    {
+      "id": "2026-08-18-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Aufsicht für 15-Jährige, nicht für 80-Jährige",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Trump droht dem Oman mit Bombardierung. In derselben Woche schränkt Dänemark KI an Schulen ein, damit Prüfungen selber geschrieben werden. Beaufsichtigt wird, wer 15 ist. Nicht, wer 80 ist."
     }
   ]
 }
