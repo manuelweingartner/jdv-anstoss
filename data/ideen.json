@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
   "fertig": true,
   "ideen": [
     {
@@ -19,18 +19,18 @@
       }
     },
     {
-      "id": "2026-08-19-2104-04",
+      "id": "2026-08-19-2104-07",
       "typ": "politisch-aktuell",
-      "stichwort": "US-Sanktionen gegen den Strafgerichtshof",
+      "stichwort": "Depot hat noch nie einen Krieg verloren",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Neu sanktionieren die USA auch das Spitzenpersonal des Internationalen Strafgerichtshofs. Beruhigend: Kriegsverbrechen bleiben selbstverständlich verboten. Bestraft wird nur noch, wer sie aufschreibt.",
+      "text": "Als Aktionär eines Rüstungskonzerns bin ich für Frieden. Der wird in zwei Wochen beschlossen, die Nachbeschaffung läuft über zwanzig Jahre. Mein Depot hat noch nie einen Krieg verloren.",
       "jury": {
-        "anker": true,
         "witz": true,
-        "neu": false
+        "anker": false,
+        "neu": true
       }
     },
     {
@@ -64,33 +64,18 @@
       }
     },
     {
-      "id": "2026-08-19-2104-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "150 Stellen Winterthur, Standortverbundenheit",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich streiche in Winterthur 150 Stellen, weltweit 220. Standortverbundenheit heisst bei uns: zwei Drittel der Entlassungen bleiben in der Schweiz. Regional. Verankert.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-19-2104-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kanton feiert gesunkenen Wasserverbrauch",
+      "id": "2026-08-19-2104-17",
+      "typ": "schnittmenge",
+      "stichwort": "zwei Tippfehler verstanden, acht Jahre Bankbuchhaltung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Beim Kanton bin ich fürs Wasser zuständig. Erfreulich: der Verbrauch der Landwirtschaft sinkt stark, seit die Kartoffeln vertrocknet sind. Sparziel übertroffen. Zwei Jahre früher als geplant.",
+      "format": 1,
+      "text": "Ich diktiere meine Aufträge mit zwei Tippfehlern und werde verstanden. Der Fall Vincenz läuft seit acht Jahren, weil eine Bankbuchhaltung zu kompliziert zum Lesen sei. Kreditentscheid: zehn Minuten.",
       "jury": {
+        "witz": true,
         "anker": true,
-        "neu": true,
-        "witz": true
+        "neu": false
       }
     }
   ]
