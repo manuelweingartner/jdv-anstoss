@@ -1,8 +1,38 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-19-0915-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schulweg vor Gericht, Arbeitsweg ohne Instanz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich fahre 40 Kilometer zur Arbeit und stehe dafür um 5 Uhr auf. Zum Schulstart klärt die Schweiz, ob 2,5 Kilometer Schulweg zumutbar sind. Mein Arbeitsweg hat keine Instanz. Keine Frist."
+    },
+    {
+      "id": "2026-08-19-0915-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neutralitätsinitiative und leere Erdöllager",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Die Neutralitätsinitiative fällt laut Umfrage am Sonntag durch. Gleiche Woche leeren sich wegen des Kriegs am Golf die weltweiten Erdöllager. Wir sind seit 1815 neutral, sofern geliefert wird."
+    },
+    {
+      "id": "2026-08-19-0915-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Afghanistan zumutbar, Reisehinweise sagen das Gegenteil",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Das Bundesverwaltungsgericht erklärt Afghanistan neu für zumutbar. Auf den EDA-Reisehinweisen steht seit 2021 dringend das Gegenteil. Der Unterschied ist das Rückflugticket. Einfach. Ohne Gepäck."
+    },
     {
       "id": "2026-08-19-0915-27",
       "typ": "politisch-aktuell",
