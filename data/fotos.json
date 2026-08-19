@@ -1,56 +1,58 @@
 {
-  "stand": "2026-08-18T08:11:36+02:00",
-  "lauf": "0810",
+  "stand": "2026-08-19T08:07:31+02:00",
+  "lauf": "0807",
   "fotos": [
     {
-      "id": "0810-1",
-      "titel": "Nach Kritik an Infantino – Fifa trennt sich von Betriebsdirektor Lamour",
-      "was": "Fifa-Funktionäre im Anzug, Infantino im Zentrum, gestellter Händedruck vor Logowand",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Kritik von aussen gilt als Debattenbeitrag, Kritik von innen als Personalfrage.",
+      "id": "0807-1",
+      "titel": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: Trump pausiert Zölle gegen Kanada und will dafür Öl-Pipeline",
+      "was": "Trump am Schreibtisch mit Dekret, daneben Karte einer Pipeline",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Zoll-Pause als Grosszügigkeit verkauft gegen Pipeline als Gegenleistung eingefordert.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "SRF",
+      "quelle": "NZZ",
       "auch_bei": [
+        "SRF",
+        "Spiegel",
         "Watson"
       ],
-      "artikel": "https://www.srf.ch/sport/fussball/internationale-ligen/nach-kritik-an-infantino-fifa-trennt-sich-von-betriebsdirektor-lamour",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/dc02ca.jpg",
-      "zeit": "2026-08-17T21:52+02:00"
+      "artikel": "https://www.nzz.ch/wirtschaft/trump-und-zoelle-aktuelle-news-und-hintergruende-ld.1869433",
+      "bild": "https://img-msp-prod.nzz.ch/2026/02/20/84df9e3c-57d0-4534-8f6c-cb3407271943.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4545,4545,x0,y0",
+      "zeit": "2026-08-19T06:31+02:00"
     },
     {
-      "id": "0810-2",
-      "titel": "Tennis: Serena und Venus Williams verlieren Doppel-Comeback in Cincinnati",
-      "was": "Venus und Serena Williams auf dem Platz, Schultern nach dem verlorenen Punkt",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Wiedersehen zum Spass gegen eine Rangliste, die keinen Spass kennt.",
+      "id": "0807-2",
+      "titel": "Strafgerichtshof: USA verhängen Sanktionen gegen Präsidentin Tomoko Akane",
+      "was": "Richterin in Robe vor dem Wappen des Strafgerichtshofs, offizielles Porträt",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Sanktionen gegen Kriegsverbrecher gegen Sanktionen gegen die, die Kriegsverbrechen ahnden.",
       "grund": "breit",
       "raum": "",
       "quelle": "Spiegel",
       "auch_bei": [
-        "Watson"
+        "SRF",
+        "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/sport/tennis/tennis-serena-und-venus-williams-verlieren-doppel-comeback-in-cincinnati-a-bd6fd5a3-1944-4efd-93ab-2e1b6866b307#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/8c8232c7-fd74-471e-bed2-099cff6a612e_w520_r2.08_fpx47.99_fpy49.99.jpg",
-      "zeit": "2026-08-18T07:32+02:00"
+      "artikel": "https://www.spiegel.de/ausland/strafgerichtshof-usa-verhaengen-sanktionen-gegen-praesidentin-tomoko-akane-a-cbad7bea-3d22-49bb-8327-df8ac9fbdc10#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/1a40cd0e-7c2a-4f51-b871-f27de463bf85_w520_r2.08_fpx35.35_fpy50.jpg",
+      "zeit": "2026-08-19T07:51+02:00"
     },
     {
-      "id": "0810-3",
-      "titel": "«Switzerland» auf der Brust: US-Rapper Offset trägt Zürcher Marke",
-      "was": "US-Rapper Offset im Shirt mit Switzerland-Schriftzug und Kuh-Logo",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Weltweite Rapbühne gegen ein Land, das seinen Stolz an einem Kuhsymbol festmacht.",
-      "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
-      "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/white-tiger-calligraphy-wie-ein-zuercher-label-us-rapper-offset-als-traeger-gewinnt-103618558",
-      "bild": "https://image.20min.ch/2026/08/18/f24cea12-cfb1-47b0-aea5-2f08c50792ac.jpg?s=1073faaa49baf0a40a48418cc846c988",
-      "zeit": "2026-08-18T04:47+02:00"
+      "id": "0807-3",
+      "titel": "Donald Trump pausiert Zölle gegen Kanada – und will dafür Öl-Pipeline",
+      "was": "Donald Trump pausiert Zölle gegen Kanada, und will dafür Öl-Pipeline",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Nutztier ohne Billett gegen Mensch mit Abo, beide wollen nur weg von hier.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
+      "auch_bei": [
+        "NZZ",
+        "SRF",
+        "Watson"
+      ],
+      "artikel": "https://www.spiegel.de/wirtschaft/donald-trump-pausiert-zoelle-gegen-kanada-und-will-dafuer-oel-pipeline-a-bbdfe3d9-8d21-47ae-9343-ecd3c907d8f6#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/b4e8bf30-7ad1-4f4d-8b4b-eed9fffa71bd_w520_r2.08_fpx43.16_fpy50.jpg",
+      "zeit": "2026-08-19T06:35+02:00"
     }
   ],
-  "erwartet": [
-    {
-      "wann": "heute im Tagesverlauf",
-      "was": "Bilder von der Reit-WM in Aachen: Reiter, Pferde und Funktionäre im Parcours, dazu Siegerehrungen"
-    }
-  ],
+  "erwartet": [],
   "hinweis": ""
 }
