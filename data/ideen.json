@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Endlich sanktionieren die USA den Strafgerichtshof in Den Haag. Ein Weltgericht ist nur glaubwürdig, solange es für die halbe Welt nicht zuständig ist. Gerechtigkeit, aber bitte mit Gästeliste."
+    },
+    {
+      "id": "2026-08-19-1552-08",
+      "typ": "schnittmenge",
+      "stichwort": "129 Milliarden Zoll zurück, Quartalsbericht statt Preisnachlass",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "129 Milliarden Dollar Zölle lassen sich US-Konzerne gerade zurückerstatten. Bezahlt hat sie, wer einkaufen war, und der kriegt dafür einen guten Quartalsbericht zu lesen."
+    },
+    {
+      "id": "2026-08-19-1552-09",
+      "typ": "remix",
+      "stichwort": "Bewilligungspflicht Vordach gegen Krater im Mond",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 15,
+      "text": "Ich brauche eine Bewilligung für: Vordach. Gartenhaus. Satellitenschüssel. Die Nasa zeigt jetzt den Krater, den ein Stück SpaceX-Rakete in den Mond geschlagen hat. Baugesuch: keines."
     }
   ]
 }
