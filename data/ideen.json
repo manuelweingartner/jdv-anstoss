@@ -1,8 +1,68 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-08-19-1239-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "970 Millionen gegen die Luft, Seilparks zu wegen Dürre",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "970 Millionen beantragt der Bundesrat gegen Gefahren aus der Luft. Gleiche Woche schliessen erste Seilparks. Dürre."
+    },
+    {
+      "id": "2026-08-19-1239-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zahnarzttermin gegen Bundesratsentscheid zwischen zwei Sessionen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich warte drei Monate auf einen Zahnarzttermin. Der Bundesrat bewilligt 970 Millionen Luftabwehr zwischen zwei Sessionen."
+    },
+    {
+      "id": "2026-08-19-1239-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Besseres Budget landet zum Glück nicht bei den Prämien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Beruhigend: 970 Millionen für die Luftabwehr. Ich hatte Angst, das bessere Budget landet bei den Prämien."
+    },
+    {
+      "id": "2026-08-19-1239-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Luftabwehr sofort, Individualbesteuerung 2032",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Der Bundesrat beantragt 970 Millionen Franken für die Luftabwehr, sofort. Die Individualbesteuerung schiebt er in derselben Woche auf 2032, die längstmögliche Frist. Dringend ist in diesem Land, was fliegt."
+    },
+    {
+      "id": "2026-08-19-1239-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "108 Franken pro Kopf, nichts gegen die Sonne",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich sitze bei 35 Grad in einer Wohnung ohne Storen. Der Bundesrat beantragt 970 Millionen für die Luftabwehr, 108 Franken pro Kopf. Für die Sonne nichts. Die kommt auch von oben."
+    },
+    {
+      "id": "2026-08-19-1239-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Franchise 2'500 gegen 970 Millionen ohne Gesuch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Ich zahle 2'500 Franken Franchise, bevor die Krankenkasse einen Rappen übernimmt. Der Bundesrat spricht 970 Millionen Franken für die Luftabwehr. Ohne Gesuch, ohne Nachweis, ohne Wartefrist."
+    },
     {
       "id": "2026-08-19-1239-07",
       "typ": "politisch-aktuell",
@@ -34,6 +94,36 @@
       "text": "970 Millionen Franken für die Luftabwehr sind 110 Franken pro Kopf. Dafür kommt bei mir kein Sanitär, wenn der Boiler leckt. Der Himmel ist gedeckt. Das Bad nicht."
     },
     {
+      "id": "2026-08-19-1239-10e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schutzraum mit Skiern, 100 Millionen Eigenschutz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe einen Schutzraum, in dem seit 1994 Skier stehen. Der Bundesrat beantragt 970 Millionen für die Luftabwehr, hundert davon für den Eigenschutz. Die Skier bleiben. Seit 32 Jahren wehrhaft."
+    },
+    {
+      "id": "2026-08-19-1239-11e",
+      "typ": "politisch-aktuell",
+      "stichwort": "800 Millionen Überschuss, 970 Millionen Luftabwehr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Am selben Tag, an dem der Bund einen Überschuss von 800 Millionen meldet, beantragt der Bundesrat 970 Millionen für die Luftabwehr. 170 zu wenig gespart. Sonst hätte es gereicht."
+    },
+    {
+      "id": "2026-08-19-1239-12e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Verschärfte Bedrohungslage kam mit 38 Grad",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "970 Millionen Franken für die Luftabwehr, sagt der Bundesrat, wegen verschärfter Bedrohungslage. Was mich diesen Sommer bedroht hat, kam von oben und hatte 38 Grad. Kein Kredit, keine Botschaft, kein Parlament."
+    },
+    {
       "id": "2026-08-19-1239-21",
       "typ": "politisch-aktuell",
       "stichwort": "Luftverteidigung bewilligt, Flughafen steht",
@@ -62,6 +152,96 @@
       "haltbarkeit": "tagesgebunden",
       "format": 16,
       "text": "Aus der Luft kommt bei uns seit Wochen nur Hitze. Der Bundesrat will 970 Millionen für die Luftabwehr. Gegen Flugzeuge."
+    },
+    {
+      "id": "2026-08-19-1239-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "970 Millionen Luftabwehr, Status S gestrichen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Der Bundesrat beantragt 970 Millionen Franken für die Luftabwehr und streicht in derselben Woche den Schutzstatus für Ukrainer, die den Militärdienst verweigern. Geschützt wird der Luftraum. Nicht, wer darunter steht."
+    },
+    {
+      "id": "2026-08-19-1239-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wenigstens unsere eigenen Raketen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "970 Millionen Franken beantragt der Bundesrat für die Luftabwehr, und ich finde das richtig: wenn schon Raketen über diesem Land fliegen, sollen es wenigstens unsere eigenen sein."
+    },
+    {
+      "id": "2026-08-19-1239-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Regenschirm für 25 Franken gegen 109 pro Kopf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich habe am Bahnhof Bern für 25 Franken einen Regenschirm gekauft. Der Bundesrat beantragt 970 Millionen für die Luftabwehr, 109 pro Kopf. Beides schützt erst, wenn schon etwas runterkommt."
+    },
+    {
+      "id": "2026-08-19-1239-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Radar ohne Ablaufdatum, Schutzstatus mit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Aus Bern kommen am selben Tag zwei Entscheide: 970 Millionen für die Luftabwehr, und der Schutzstatus für Ukrainer*innen gilt bis März 2028. Menschen haben ein Ablaufdatum. Das Radar nicht."
+    },
+    {
+      "id": "2026-08-19-1239-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rauchmelder für 19 Franken, nie geprüft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe seit acht Jahren einen Rauchmelder für 19 Franken an der Decke und keine Ahnung, ob er funktioniert. Der Bundesrat will 970 Millionen für dasselbe Gefühl. Ungetestet. Aber beruhigend."
+    },
+    {
+      "id": "2026-08-19-1239-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "109 Franken pro Kopf, einfach nach Genf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "970 Millionen beantragt der Bundesrat für die Luftabwehr, das sind 109 Franken pro Kopf, meine inklusive. Damit fahre ich einmal von Zürich nach Genf, zurück nicht."
+    },
+    {
+      "id": "2026-08-19-1239-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "800 Millionen Überschuss, 970 Millionen Luftabwehr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ich lese, der Bund erwartet 800 Millionen Überschuss. Am selben Tag beantragt der Bundesrat 970 Millionen für die Luftabwehr. Das Geld war nie weg. Nur schlecht gelaunt."
+    },
+    {
+      "id": "2026-08-19-1239-31",
+      "typ": "politisch-aktuell",
+      "stichwort": "970 Millionen sofort, 970 Franken nie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Für 970 Millionen mehr Luftabwehr genügt eine verschärfte Bedrohungslage. Für 970 Franken mehr Rente genügen dreissig Jahre Debatte nicht."
+    },
+    {
+      "id": "2026-08-19-1239-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "110 Franken pro Kopf, Regenschirm",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Bundesrat will 970 Millionen für die Luftabwehr, macht 110 Franken pro Kopf. Ich bekomme dafür einen Regenschirm, der beim ersten Windstoss umklappt. Bei meinem steht es wenigstens in der Anleitung."
     }
   ]
 }
