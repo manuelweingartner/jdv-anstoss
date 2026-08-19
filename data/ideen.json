@@ -1,82 +1,27 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
-  "fertig": true,
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-19-2104-03",
+      "id": "2026-08-19-2116-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Burckhardt Compression, Standort erhalten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich streiche bei Burckhardt Compression 220 Stellen, 150 davon in Winterthur. Gute Nachricht: der Standort Schweiz bleibt erhalten. Alle sechs Quadratmeter. Im Verwaltungsrat.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-19-2104-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Depot hat noch nie einen Krieg verloren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Als Aktionär eines Rüstungskonzerns bin ich für Frieden. Der wird in zwei Wochen beschlossen, die Nachbeschaffung läuft über zwanzig Jahre. Mein Depot hat noch nie einen Krieg verloren.",
-      "jury": {
-        "witz": true,
-        "anker": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-19-2104-09",
-      "typ": "remix",
-      "stichwort": "elf Bänke mit Armlehne gegen britisches Obdachlosenprogramm",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich habe in der Stadt elf Bänke gezählt, alle mit Armlehne in der Mitte. Grossbritanniens Premier holt Obdachlose jetzt mit einem Millionenprogramm von der Strasse. Wir waren schneller. Und günstiger.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-19-2104-16",
-      "typ": "persönlich",
-      "stichwort": "bis und mit, danach nicht mehr zuständig",
+      "stichwort": "Saetze zu Bildern, Klimaberichte seit 1990",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Ich habe heute in einer privaten Nachricht bis und mit geschrieben. Drei Wörter Amtsdeutsch, und ich war für alles danach nicht mehr zuständig. Zuständigkeit endet freitags. Freundliche Grüsse.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich baue meine Sätze gerade zu Bildern um, weil Text niemand mehr liest. Bundespräsident Parmelin nennt den Hitzesommer einen Schock. Die Klimaberichte gibt es seit 1990. Als Text."
     },
     {
-      "id": "2026-08-19-2104-17",
-      "typ": "schnittmenge",
-      "stichwort": "zwei Tippfehler verstanden, acht Jahre Bankbuchhaltung",
+      "id": "2026-08-19-2116-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kapitalismuskritik auf 1080 Pixel",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Ich diktiere meine Aufträge mit zwei Tippfehlern und werde verstanden. Der Fall Vincenz läuft seit acht Jahren, weil eine Bankbuchhaltung zu kompliziert zum Lesen sei. Kreditentscheid: zehn Minuten.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
+      "format": "frei",
+      "text": "29 US-Bundesstaaten werfen Meta vor Gericht vor, Jugendliche süchtig zu machen. Ich schneide meine Kapitalismuskritik gerade auf 1080 Pixel, damit sie dort besser ausgespielt wird. Quadratisch. Weisser Rand. Bitte teilen."
     }
   ]
 }
