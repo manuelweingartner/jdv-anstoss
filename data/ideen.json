@@ -4,24 +4,34 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-19-0757-05",
+      "id": "2026-08-19-0757-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Vier Wochen Ferien seit 1984, Internet inklusive",
+      "stichwort": "Zwei Prozent sind ein Kaffee",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Vier Wochen Ferien sind in der Schweiz seit 1984 das gesetzliche Minimum. Seither kamen das Internet, das Smartphone und der ganze Produktivitätsschub daraus. Behalten haben wir die vier Wochen. Unangetastet."
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Travail Suisse fordert zwei Prozent mehr Lohn. Bei 5'000 Franken sind das knapp fünf pro Arbeitstag. Der Arbeitgeberverband nennt diesen Kaffee eine Gefahr für den Standort. Mit Studie.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-08-19-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "Löschflugzeuge grenzenlos, Klimaziel national",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "mittel",
+      "id": "2026-08-19-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bally-Archiv klimatisiert, Belegschaft nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "17'000 Hektar brennen in Aragón, Frankreich schickt Löschflugzeuge über die Grenze. Beim Klimaziel ist dann wieder jedes Land für sich zuständig. Souverän. Freiwillig. Bis 2050."
+      "format": 13,
+      "text": "Ich sitze im Verwaltungsrat von Bally. Beruhigend, dass die 40'000 historischen Schuhe klimatisiert überleben. Um die Leute, die sie genäht haben, kümmert sich der Markt. Ganz von allein.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-08-19-0757-09",
@@ -31,7 +41,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 10,
-      "text": "Ich war im Mittelmeer schwimmen, 30 Grad, wärmer als das Nichtschwimmerbecken im Hallenbad. Eine Studie sagt jetzt: Klimawandel. Das Becken heizt wenigstens jemand absichtlich."
+      "text": "Ich war im Mittelmeer schwimmen, 30 Grad, wärmer als das Nichtschwimmerbecken im Hallenbad. Eine Studie sagt jetzt: Klimawandel. Das Becken heizt wenigstens jemand absichtlich.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-08-19-0757-11",
@@ -41,17 +56,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 14,
-      "text": "Nicht die Aussicht treibt mich und die halbe Zentralschweiz auf den Berg, sondern sechs Grad weniger pro tausend Höhenmeter. Die Bergbahnen melden einen Rekord an einheimischen Gästen. Klimaflucht mit Halbtax."
-    },
-    {
-      "id": "2026-08-19-0757-12",
-      "typ": "persönlich",
-      "stichwort": "Diagnose mit Sportarzt, Diagnose ohne",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Seit gestern weiss ich, was eine neurologische Dysfunktion ist, weil Jamal Musiala zum zweiten Mal zusammengebrochen ist. Wer damit nicht Nationalspieler ist, sammelt jahrelang Berichte für die IV. Ohne Sportarzt."
+      "text": "Nicht die Aussicht treibt mich und die halbe Zentralschweiz auf den Berg, sondern sechs Grad weniger pro tausend Höhenmeter. Die Bergbahnen melden einen Rekord an einheimischen Gästen. Klimaflucht mit Halbtax.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-19-0757-21",
@@ -61,7 +71,27 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Das Schweizerkreuz darf neu auch auf Ware aus dem Ausland. Gleiche Woche verlagert ein Winterthurer Maschinenbauer 220 Stellen dorthin. Produziert wird hier nur noch das Kreuz."
+      "text": "Das Schweizerkreuz darf neu auch auf Ware aus dem Ausland. Gleiche Woche verlagert ein Winterthurer Maschinenbauer 220 Stellen dorthin. Produziert wird hier nur noch das Kreuz.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-19-0757-32",
+      "typ": "persönlich",
+      "stichwort": "Dorf stimmt zum ersten Mal wie ich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Bei uns im Dorf hängt die Neutralitätsinitiative an jedem zweiten Kandelaber. Laut Umfrage fällt sie am Sonntag durch. Mein Dorf stimmt zum ersten Mal wie ich. Ich bin beunruhigt.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
