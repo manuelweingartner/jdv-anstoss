@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "29 US-Bundesstaaten verklagen Meta, weil Instagram Jugendliche süchtig macht. Ich habe das in einem Reel erfahren, das mir Instagram empfohlen hat. Es war das vierte in dieser Minute."
+      "text": "29 US-Bundesstaaten verklagen Meta, weil Instagram Jugendliche süchtig macht. Ich habe das in einem Reel erfahren, das mir Instagram empfohlen hat. Es war das vierte in dieser Minute.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-08-19-1552-02",
@@ -21,17 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Selenski soll mitten im Krieg Wahlen abhalten, fordern jetzt auch eigene Ex-Minister. Endlich Demokratie: Urnengang unter Luftalarm, Briefwahl aus besetzten Gebieten, Wahlbeobachtung aus Moskau."
-    },
-    {
-      "id": "2026-08-19-1552-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Burckhardt Compression baut ab, Standortpflege",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich finde es richtig, dass wir bei Burckhardt Compression 150 Stellen in Winterthur streichen. Nichts stärkt den Standort so wie Leute, die ihn verlassen. Weltweit 220. Alles Standortpflege."
+      "text": "Selenski soll mitten im Krieg Wahlen abhalten, fordern jetzt auch eigene Ex-Minister. Endlich Demokratie: Urnengang unter Luftalarm, Briefwahl aus besetzten Gebieten, Wahlbeobachtung aus Moskau.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-08-19-1552-04",
@@ -41,27 +41,57 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Endlich sanktionieren die USA den Strafgerichtshof in Den Haag. Ein Weltgericht ist nur glaubwürdig, solange es für die halbe Welt nicht zuständig ist. Gerechtigkeit, aber bitte mit Gästeliste."
+      "text": "Endlich sanktionieren die USA den Strafgerichtshof in Den Haag. Ein Weltgericht ist nur glaubwürdig, solange es für die halbe Welt nicht zuständig ist. Gerechtigkeit, aber bitte mit Gästeliste.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-08-19-1552-05",
+      "id": "2026-08-19-1552-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Fünf Wochen Ferien, dreizehn Wochen Schule",
+      "stichwort": "Pensionskasse finanziert Rüstung",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Angestellte in der Schweiz haben fünf Wochen Ferien, Schulkinder dreizehn. Die fehlenden acht Wochen löst dieses Land seit hundert Jahren mit einer Grossmutter. Gratis. Unbefristet. Ohne Vertrag."
+      "text": "Ich zahle seit achtzehn Jahren in eine Pensionskasse ein, die Rüstungskonzerne mitfinanziert. Mein Alter hängt jetzt davon ab, wie gut die nächsten Kriege laufen.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-08-19-1552-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Spesenquittung 4.20 gegen Bonus 4,2 Millionen",
+      "id": "2026-08-19-1552-09",
+      "typ": "remix",
+      "stichwort": "Bewilligungspflicht Vordach gegen Krater im Mond",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Für eine Spesenquittung über 4.20 Franken habe ich heute zwanzig Minuten gebraucht. Ein Bonus über 4,2 Millionen braucht keine Quittung, nur einen Satz im Geschäftsbericht. Passiv formuliert."
+      "haltbarkeit": "tagesgebunden",
+      "format": 15,
+      "text": "Ich brauche eine Bewilligung für: Vordach. Gartenhaus. Satellitenschüssel. Die Nasa zeigt jetzt den Krater, den ein Stück SpaceX-Rakete in den Mond geschlagen hat. Baugesuch: keines.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-08-19-1552-29",
+      "typ": "remix",
+      "stichwort": "Deponie-Quittung gegen Raketenteil im Mond",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich musste für drei Säcke Bauschutt eine Deponie-Quittung vorweisen. SpaceX hat ein Raketenteil in den Mond gerammt, die Nasa veröffentlicht die Bilder als Entdeckung. Verursacher bekannt. Kein Verfahren.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
