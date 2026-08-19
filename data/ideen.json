@@ -4,14 +4,19 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-19-0915-04",
+      "id": "2026-08-19-0915-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Schulweg vor Gericht, Arbeitsweg ohne Instanz",
+      "stichwort": "Zwei Prozesse in Zürich, eine Meinungsfreiheit",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich fahre 40 Kilometer zur Arbeit und stehe dafür um 5 Uhr auf. Zum Schulstart klärt die Schweiz, ob 2,5 Kilometer Schulweg zumutbar sind. Mein Arbeitsweg hat keine Instanz. Keine Frist."
+      "format": 18,
+      "text": "In Zürich stehen diese Woche zwei vor Gericht: einer wegen Hunderten erpressten Firmen, ein 35-Jähriger wegen eines rechtsextremen Klebers. Ich warte auf die Debatte über die Meinungsfreiheit des Erpressers.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-19-0915-05",
@@ -21,7 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Die Neutralitätsinitiative fällt laut Umfrage am Sonntag durch. Gleiche Woche leeren sich wegen des Kriegs am Golf die weltweiten Erdöllager. Wir sind seit 1815 neutral, sofern geliefert wird."
+      "text": "Die Neutralitätsinitiative fällt laut Umfrage am Sonntag durch. Gleiche Woche leeren sich wegen des Kriegs am Golf die weltweiten Erdöllager. Wir sind seit 1815 neutral, sofern geliefert wird.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-08-19-0915-06",
@@ -31,7 +41,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Das Bundesverwaltungsgericht erklärt Afghanistan neu für zumutbar. Auf den EDA-Reisehinweisen steht seit 2021 dringend das Gegenteil. Der Unterschied ist das Rückflugticket. Einfach. Ohne Gepäck."
+      "text": "Das Bundesverwaltungsgericht erklärt Afghanistan neu für zumutbar. Auf den EDA-Reisehinweisen steht seit 2021 dringend das Gegenteil. Der Unterschied ist das Rückflugticket. Einfach. Ohne Gepäck.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-08-19-0915-10",
@@ -41,17 +56,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ich habe im Intranet gelesen, dass Humor am Arbeitsplatz die Leistung steigert. Seither lacht bei uns niemand mehr ohne Zielvereinbarung. Zwei Lacher pro Quartal. Dokumentiert."
-    },
-    {
-      "id": "2026-08-19-0915-11",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zumutbar ohne Rückflugticket",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Junge Afghanen dürfen laut Bundesverwaltungsgericht nach Afghanistan zurückgewiesen werden. Das EDA rät weiterhin dringend von Reisen dorthin ab. Sicher ist das Land für alle ohne Rückflugticket."
+      "text": "Ich habe im Intranet gelesen, dass Humor am Arbeitsplatz die Leistung steigert. Seither lacht bei uns niemand mehr ohne Zielvereinbarung. Zwei Lacher pro Quartal. Dokumentiert.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-08-19-0915-12",
@@ -61,7 +71,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 18,
-      "text": "Wieder schliessen Bäckereien in der Schweiz. In derselben Woche meldet der Bund einen Wachstumsschub, dank Chemie und Pharma. Bald frühstücken wir Wirkstoff. Zwei Ibuprofen 400, glutenfrei."
+      "text": "Wieder schliessen Bäckereien in der Schweiz. In derselben Woche meldet der Bund einen Wachstumsschub, dank Chemie und Pharma. Bald frühstücken wir Wirkstoff. Zwei Ibuprofen 400, glutenfrei.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-19-0915-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kein Lager, seit dreizehn Jahren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe zwanzig Minuten gewartet, weil jemand «im Lager nachschaut». Schweizer Verkäufer*innen geben jetzt zu: es gibt kein Lager. So verhandelt die Schweiz seit dreizehn Jahren mit der EU.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
