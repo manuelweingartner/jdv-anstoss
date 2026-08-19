@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-19-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "Löschflugzeuge grenzenlos, Klimaziel national",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "17'000 Hektar brennen in Aragón, Frankreich schickt Löschflugzeuge über die Grenze. Beim Klimaziel ist dann wieder jedes Land für sich zuständig. Souverän. Freiwillig. Bis 2050."
+    },
+    {
+      "id": "2026-08-19-0757-09",
+      "typ": "remix",
+      "stichwort": "Mittelmeer 30 Grad, Nichtschwimmerbecken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich war im Mittelmeer schwimmen, 30 Grad, wärmer als das Nichtschwimmerbecken im Hallenbad. Eine Studie sagt jetzt: Klimawandel. Das Becken heizt wenigstens jemand absichtlich."
+    },
     {
       "id": "2026-08-19-0757-23",
       "typ": "politisch-aktuell",
