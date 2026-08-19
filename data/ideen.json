@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -79,16 +79,16 @@
       }
     },
     {
-      "id": "2026-08-19-2028-29",
-      "typ": "remix",
-      "stichwort": "Klimastrategie gebaut fuer Hitze, versagt bei Hitze",
+      "id": "2026-08-19-2028-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Giftpilze lebenslang, Kontinent hochheizen mit Dividende",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 2,
-      "text": "Ich habe 40 Hitzetage hinter mir und der Sommer hat noch sechs Wochen. Die nationale Hitzestrategie ist ein PDF, das ab 30 Grad gekuehlt gelagert werden muss.",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Drei Menschen mit Giftpilzen im Beef Wellington umbringen: lebenslang, die Berufung in Australien läuft gerade. Einen halben Kontinent auf vierzig Hitzetage hochheizen: Quartalszahlen, Dividende, Ehrendoktor.",
       "jury": {
-        "neu": true,
+        "neu": false,
         "anker": true,
         "witz": true
       }
