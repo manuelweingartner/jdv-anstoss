@@ -1,8 +1,18 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-19-2028-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "40 Hitzetage, Baeren bekommen Eis, ich ein Merkblatt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Ich habe diesen Sommer 40 Hitzetage gezählt, und der August ist nicht durch. Die Bären im Zoo bekommen jetzt Eis, ich ein Merkblatt vom Bund. Viel trinken. Schatten."
+    },
     {
       "id": "2026-08-19-2028-03",
       "typ": "politisch-aktuell",
