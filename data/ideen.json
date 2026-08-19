@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Neu sanktionieren die USA auch das Spitzenpersonal des Internationalen Strafgerichtshofs. Beruhigend: Kriegsverbrechen bleiben selbstverständlich verboten. Bestraft wird nur noch, wer sie aufschreibt."
+    },
+    {
+      "id": "2026-08-19-2104-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "40 Überstunden geschenkt, 50'000 Stellen nie ausgeschrieben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich habe letztes Jahr 40 Überstunden geschenkt. In der Schweiz sind das 100 Millionen Stunden pro Jahr, also 50'000 Stellen. Nie ausgeschrieben. Trotzdem besetzt."
+    },
+    {
+      "id": "2026-08-19-2104-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Parkbusse ist keine Strafe, sondern ein Tarif",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Für eine Parkbusse von 40 Franken war ich zwei Tage beleidigt. Das ist keine Strafe, das ist ein Tarif. Monatlich. Eingeplant."
+    },
+    {
+      "id": "2026-08-19-2104-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leistung lohnt sich, ohne dass jemand einen Wecker stellt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Leistung muss sich wieder lohnen, heisst es immer. Das reichste Prozent hält 40 Prozent des Vermögens im Land. Dafür hat noch nie jemand einen Wecker gestellt."
     }
   ]
 }
