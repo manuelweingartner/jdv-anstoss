@@ -9525,6 +9525,102 @@
       "format": "frei",
       "text": "Der Bundesrat will 970 Millionen für die Luftabwehr, macht 110 Franken pro Kopf. Ich bekomme dafür einen Regenschirm, der beim ersten Windstoss umklappt. Bei meinem steht es wenigstens in der Anleitung.",
       "datum": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-1552-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "29 Staaten gegen Meta, empfohlenes Reel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "29 US-Bundesstaaten verklagen Meta, weil Instagram Jugendliche süchtig macht. Ich habe das in einem Reel erfahren, das mir Instagram empfohlen hat. Es war das vierte in dieser Minute.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-1552-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wahlen unter Luftalarm",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Selenski soll mitten im Krieg Wahlen abhalten, fordern jetzt auch eigene Ex-Minister. Endlich Demokratie: Urnengang unter Luftalarm, Briefwahl aus besetzten Gebieten, Wahlbeobachtung aus Moskau.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-1552-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pensionskasse finanziert Rüstung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ich zahle seit achtzehn Jahren in eine Pensionskasse ein, die Rüstungskonzerne mitfinanziert. Mein Alter hängt jetzt davon ab, wie gut die nächsten Kriege laufen.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      },
+      "datum": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-1552-09",
+      "typ": "remix",
+      "stichwort": "Bewilligungspflicht Vordach gegen Krater im Mond",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 15,
+      "text": "Ich brauche eine Bewilligung für: Vordach. Gartenhaus. Satellitenschüssel. Die Nasa zeigt jetzt den Krater, den ein Stück SpaceX-Rakete in den Mond geschlagen hat. Baugesuch: keines.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-1552-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Individualbesteuerung 2032 als ergebnisoffene Pruefung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es richtig, dass die im März angenommene Individualbesteuerung erst 2032 kommt. Eine Volksabstimmung ist ein Vorschlag, kein Auftrag. Wir prüfen ihn. Sechs Jahre. Ergebnisoffen.",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      },
+      "datum": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-1552-30",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm gegen Wirtschaftsstrafprozess",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren im ECO-Programm. Der Prozess gegen den früheren Raiffeisen-Chef Vincenz läuft seit acht. Sauber wird beides nicht. Dafür gründlich. Mit Gutachten.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      },
+      "datum": "2026-08-19"
     }
   ]
 }
