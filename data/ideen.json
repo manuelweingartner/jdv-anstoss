@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -27,21 +27,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Selenski soll mitten im Krieg Wahlen abhalten, fordern jetzt auch eigene Ex-Minister. Endlich Demokratie: Urnengang unter Luftalarm, Briefwahl aus besetzten Gebieten, Wahlbeobachtung aus Moskau.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-08-19-1552-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "US-Sanktionen gegen Den Haag, Weltgericht mit Gästeliste",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Endlich sanktionieren die USA den Strafgerichtshof in Den Haag. Ein Weltgericht ist nur glaubwürdig, solange es für die halbe Welt nicht zuständig ist. Gerechtigkeit, aber bitte mit Gästeliste.",
       "jury": {
         "neu": true,
         "witz": true,
@@ -79,18 +64,33 @@
       }
     },
     {
-      "id": "2026-08-19-1552-29",
-      "typ": "remix",
-      "stichwort": "Deponie-Quittung gegen Raketenteil im Mond",
+      "id": "2026-08-19-1552-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Individualbesteuerung 2032 als ergebnisoffene Pruefung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich musste für drei Säcke Bauschutt eine Deponie-Quittung vorweisen. SpaceX hat ein Raketenteil in den Mond gerammt, die Nasa veröffentlicht die Bilder als Entdeckung. Verursacher bekannt. Kein Verfahren.",
+      "format": 13,
+      "text": "Ich finde es richtig, dass die im März angenommene Individualbesteuerung erst 2032 kommt. Eine Volksabstimmung ist ein Vorschlag, kein Auftrag. Wir prüfen ihn. Sechs Jahre. Ergebnisoffen.",
       "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-08-19-1552-30",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm gegen Wirtschaftsstrafprozess",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren im ECO-Programm. Der Prozess gegen den früheren Raiffeisen-Chef Vincenz läuft seit acht. Sauber wird beides nicht. Dafür gründlich. Mit Gutachten.",
+      "jury": {
+        "witz": true,
         "neu": true,
-        "anker": true,
-        "witz": true
+        "anker": true
       }
     }
   ]
