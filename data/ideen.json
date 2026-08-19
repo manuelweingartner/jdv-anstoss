@@ -1,6 +1,37 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "0 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
-  "ideen": []
+  "ideen": [
+    {
+      "id": "2026-08-19-1239-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Luftverteidigung bewilligt, Flughafen steht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "970 Millionen will der Bundesrat für die Luftverteidigung. Am selben Tag steht der Flughafen Zürich wegen IT-Panne still."
+    },
+    {
+      "id": "2026-08-19-1239-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "108 Franken pro Kopf, nichts abgestürzt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich bezahle 108 Franken an die 970 Millionen Luftabwehr des Bundesrats. Pro Kopf. Bisher nichts abgestürzt. Wirkt."
+    },
+    {
+      "id": "2026-08-19-1239-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Aus der Luft kommt nur Hitze",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Aus der Luft kommt bei uns seit Wochen nur Hitze. Der Bundesrat will 970 Millionen für die Luftabwehr. Gegen Flugzeuge."
+    }
+  ]
 }
