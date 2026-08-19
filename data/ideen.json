@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 16,
       "text": "Aus der Luft kommt bei uns seit Wochen nur Hitze. Der Bundesrat will 970 Millionen für die Luftabwehr. Gegen Flugzeuge."
+    },
+    {
+      "id": "2026-08-19-1239-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "970 Millionen Luftabwehr, Status S gestrichen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Der Bundesrat beantragt 970 Millionen Franken für die Luftabwehr und streicht in derselben Woche den Schutzstatus für Ukrainer, die den Militärdienst verweigern. Geschützt wird der Luftraum. Nicht, wer darunter steht."
+    },
+    {
+      "id": "2026-08-19-1239-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wenigstens unsere eigenen Raketen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "970 Millionen Franken beantragt der Bundesrat für die Luftabwehr, und ich finde das richtig: wenn schon Raketen über diesem Land fliegen, sollen es wenigstens unsere eigenen sein."
+    },
+    {
+      "id": "2026-08-19-1239-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Regenschirm für 25 Franken gegen 109 pro Kopf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich habe am Bahnhof Bern für 25 Franken einen Regenschirm gekauft. Der Bundesrat beantragt 970 Millionen für die Luftabwehr, 109 pro Kopf. Beides schützt erst, wenn schon etwas runterkommt."
     }
   ]
 }
