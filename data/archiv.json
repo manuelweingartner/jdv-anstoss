@@ -9783,6 +9783,102 @@
         "witz": true
       },
       "datum": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-2054-03",
+      "typ": "schnittmenge",
+      "stichwort": "Instagram bestraft Zweitverwertung nicht, verkauft den Rest",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich mache das Ranking bei Instagram. Gute Nachricht: Wir bestrafen Zweitverwertung nicht. Wir zeigen sie nur 300 Leuten und verkaufen dir den Rest.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-2054-09",
+      "typ": "remix",
+      "stichwort": "Bildplattform, bestes Bild ist ein weisses Rechteck",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 2,
+      "text": "Instagram wurde für Bilder gebaut. Mein bestes Bild dort ist ein weisses Rechteck mit 22 Wörtern Text, angeschaut von 14'000 Leuten, die mich nicht kennen. Fotografie, gelöst.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-2054-17",
+      "typ": "persönlich",
+      "stichwort": "Fünf Posts zweitverwertet, 82 Prozent PET",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich verwerte heute fünf eigene Posts zum zweiten Mal. Die Schweiz recycelt 82 Prozent ihrer PET-Flaschen und null Prozent ihrer Wahlversprechen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-2054-18",
+      "typ": "persönlich",
+      "stichwort": "Politische Sätze in hübsche Kacheln",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich setze gerade fünf politische Sätze in hübsche Kacheln, weil sie sonst niemand liest. Die SVP macht das seit dreissig Jahren. Mit Schafen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-2054-23",
+      "typ": "schnittmenge",
+      "stichwort": "Klimastrategie von 2019 auf dem vierten Kanal",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich bin Nachhaltigkeitschef. Gute Nachricht: unsere Klimastrategie von 2019 läuft jetzt auch auf dem vierten Kanal, neu layoutet, fünf Slides. Wir nennen das Fortschritt. Seit sieben Jahren. Dieselbe Datei.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-2054-30",
+      "typ": "persönlich",
+      "stichwort": "Fünf Posts abtippen, zwei verstanden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ich sitze seit einer Stunde daran, fünf eigene Posts in Bilder zu verwandeln. Zwei davon habe ich beim Abtippen zum ersten Mal verstanden. Der dritte funktioniert nur ungelesen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-19"
     }
   ]
 }
