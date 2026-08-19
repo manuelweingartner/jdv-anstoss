@@ -1,97 +1,27 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-19-0740-02",
+      "id": "2026-08-19-0757-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Lenkungsabgabe auf EU-Arbeitskräfte",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich sitze in der Ständeratskommission und finde die Lenkungsabgabe auf EU-Arbeitskräfte richtig. Wir lenken seit Jahren erfolgreich Benzin und Abfall. Jetzt endlich auch die Pflegefachfrau, die deine Mutter wäscht.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-08-19-0740-05",
-      "typ": "schnittmenge",
-      "stichwort": "Zuger Briefkasten erwirtschaftet Konzerngewinn",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Als Steuerbeamter in Zug finde ich die Kritik unfair. Die zwölf Leute in unserem Briefkasten haben den Gewinn von 40'000 Angestellten erwirtschaftet. Nachts. Per Lizenzvertrag.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-19-0740-09",
-      "typ": "schnittmenge",
-      "stichwort": "Den Haag sanktioniert, Urteile bitte vorher absprechen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Wir sanktionieren jetzt auch die Richter*innen in Den Haag. 125 Staaten haben den Strafgerichtshof anerkannt, wir nie. Ein Gericht, das seine Angeklagten nicht mit uns abspricht, untergräbt die Rechtsstaatlichkeit.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-19-0740-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zollrückerstattung, Preise bleiben oben",
+      "stichwort": "Champagnerhaus feiert die Hitze als Klimaziel",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Als US-Konzern habe ich 129 Milliarden Dollar Zölle zurückerstattet bekommen. Die Preise lasse ich oben, damit die Kundschaft die Entlastung nicht zu abrupt erlebt. Rücksichtsvoll.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
+      "text": "Ich leite ein Champagnerhaus, wir lesen zwei Wochen früher als vor zwanzig Jahren. Die Hitze macht die Trauben schneller reif. Endlich ein Klimaziel, das jemand übertrifft."
     },
     {
-      "id": "2026-08-19-0740-24",
+      "id": "2026-08-19-0757-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Microsoft kürzt CO2-Entnahme, Auslastung",
+      "stichwort": "Bundesamt freut sich über Pharma-Wachstum",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich bin bei Microsoft für Klima zuständig und wir fahren die Milliarden für CO2-Entnahme zurück. Die Atmosphäre hat sich nie beschwert. Kein Ticket. Keine Eskalation.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-19-0740-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Reeder prüft die Eiskarte wie den Pollenflug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich führe eine Reederei und prüfe morgens die Eiskarte der Arktis wie andere den Pollenflug. Nordroute offen, zehn Tage kürzer nach Shanghai. Der Klimawandel liefert pünktlich.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
+      "text": "Als Bundesamt melde ich stolz: Das Schweizer BIP wächst kräftig, getragen von Chemie und Pharma. Beruhigend, dass wir endlich an den Kranken verdienen. Brutto. Und steuerbegünstigt."
     }
   ]
 }
