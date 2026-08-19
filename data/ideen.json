@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -24,6 +24,26 @@
       "text": "Neu sanktionieren die USA auch das Spitzenpersonal des Internationalen Strafgerichtshofs. Beruhigend: Kriegsverbrechen bleiben selbstverständlich verboten. Bestraft wird nur noch, wer sie aufschreibt."
     },
     {
+      "id": "2026-08-19-2104-08",
+      "typ": "schnittmenge",
+      "stichwort": "129 Milliarden Zollrueckerstattung gegen Kassenreserven",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Zu viel gezahlte Zölle bekommen US-Konzerne zurück, 129 Milliarden Dollar. Zu viel gezahlte Krankenkassenprämien heissen bei uns Reserven."
+    },
+    {
+      "id": "2026-08-19-2104-09",
+      "typ": "remix",
+      "stichwort": "elf Bänke mit Armlehne gegen britisches Obdachlosenprogramm",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich habe in der Stadt elf Bänke gezählt, alle mit Armlehne in der Mitte. Grossbritanniens Premier holt Obdachlose jetzt mit einem Millionenprogramm von der Strasse. Wir waren schneller. Und günstiger."
+    },
+    {
       "id": "2026-08-19-2104-25",
       "typ": "politisch-aktuell",
       "stichwort": "40 Überstunden geschenkt, 50'000 Stellen nie ausgeschrieben",
@@ -42,16 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 14,
       "text": "Für eine Parkbusse von 40 Franken war ich zwei Tage beleidigt. Das ist keine Strafe, das ist ein Tarif. Monatlich. Eingeplant."
-    },
-    {
-      "id": "2026-08-19-2104-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leistung lohnt sich, ohne dass jemand einen Wecker stellt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Leistung muss sich wieder lohnen, heisst es immer. Das reichste Prozent hält 40 Prozent des Vermögens im Land. Dafür hat noch nie jemand einen Wecker gestellt."
     }
   ]
 }
