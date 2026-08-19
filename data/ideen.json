@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-19-1552-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "29 Staaten gegen Meta, empfohlenes Reel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "29 US-Bundesstaaten verklagen Meta, weil Instagram Jugendliche süchtig macht. Ich habe das in einem Reel erfahren, das mir Instagram empfohlen hat. Es war das vierte in dieser Minute."
+    },
+    {
+      "id": "2026-08-19-1552-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wahlen unter Luftalarm",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Selenski soll mitten im Krieg Wahlen abhalten, fordern jetzt auch eigene Ex-Minister. Endlich Demokratie: Urnengang unter Luftalarm, Briefwahl aus besetzten Gebieten, Wahlbeobachtung aus Moskau."
+    },
     {
       "id": "2026-08-19-1552-03",
       "typ": "politisch-aktuell",
