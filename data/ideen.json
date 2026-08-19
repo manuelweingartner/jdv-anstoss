@@ -4,6 +4,16 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-08-19-2104-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ventilator in den Keller, Krise bleibt oben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Ich habe den Ventilator in den Keller getragen, es kommt bis Ende August keine Hitzewelle mehr. Heissester Sommer seit 1864. Nicht die Krise ist vorbei, nur die Saison."
+    },
+    {
       "id": "2026-08-19-2104-03",
       "typ": "politisch-aktuell",
       "stichwort": "Burckhardt Compression, Standort erhalten",
@@ -52,16 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 19,
       "text": "Ich habe letztes Jahr 40 Überstunden geschenkt. In der Schweiz sind das 100 Millionen Stunden pro Jahr, also 50'000 Stellen. Nie ausgeschrieben. Trotzdem besetzt."
-    },
-    {
-      "id": "2026-08-19-2104-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Parkbusse ist keine Strafe, sondern ein Tarif",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Für eine Parkbusse von 40 Franken war ich zwei Tage beleidigt. Das ist keine Strafe, das ist ein Tarif. Monatlich. Eingeplant."
     }
   ]
 }
