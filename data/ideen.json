@@ -1,82 +1,37 @@
 {
-  "datum": "2026-08-18",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
-  "fertig": true,
+  "datum": "2026-08-19",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-18-0803-03",
+      "id": "2026-08-19-0740-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Wohneigentum kommt nicht von der Arbeit",
+      "stichwort": "Microsoft kürzt CO2-Entnahme, Auslastung",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ich kenne niemanden, der eine Wohnung besitzt, weil die Arbeit gereicht hätte. Ich kenne vier, bei denen jemand gestorben ist.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-18-0803-07",
-      "typ": "persönlich",
-      "stichwort": "Waschmaschine zweimal abbezahlt, gehört dem Vermieter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich werfe seit fünf Jahren Zwei-Franken-Stücke in eine Waschmaschine, die ich damit zweimal abbezahlt habe. Sie gehört dem Mann, der nie wäscht. Zweimal. Ohne Anteil.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-18-0803-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ein Chefjahr gegen 180 Pflegejahre, ein Bett",
-      "plattform": "Threads + Instagram",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Der UBS-Chef verdient in einem Jahr so viel wie 180 Pflegefachfrauen. Im Spital braucht er trotzdem nur ein Bett. Und dieselbe Bettpfanne.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich bin bei Microsoft für Klima zuständig und wir fahren die Milliarden für CO2-Entnahme zurück. Die Atmosphäre hat sich nie beschwert. Kein Ticket. Keine Eskalation."
     },
     {
-      "id": "2026-08-18-0803-11",
-      "typ": "schnittmenge",
-      "stichwort": "434 Milliarden Care-Arbeit gegen den Finanzplatz",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Unbezahlte Haus- und Care-Arbeit ist in der Schweiz 434 Milliarden wert, sechsmal so viel wie der ganze Finanzplatz. Der Finanzplatz hat einen Lobbyverband. Die Care-Arbeit hat ein Muttertagsfrühstück.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-18-0803-31",
-      "typ": "schnittmenge",
-      "stichwort": "Gedämmte Fassade, Miete plus 240, Heizkosten minus 30",
+      "id": "2026-08-19-0740-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lizenzgebühren in die Schweiz, Winterthur streicht 220",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Ich bekomme eine gedämmte Fassade, damit ich weniger heize. Die Miete steigt um 240 Franken, die Heizkosten sinken um 30. Im Brief steht: Beitrag zum Klimaschutz.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Schön, dass wir uns einig sind: Grosskonzerne verschieben ihre Milliardengewinne als Lizenzgebühren in Schweizer Tochterfirmen. In Winterthur gehen dieselbe Woche 220 Stellen. Wir schaffen also beide Arbeitsplätze weg, nur ich mit Steuervorteil."
+    },
+    {
+      "id": "2026-08-19-0740-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "US-Sanktionen gegen die Präsidentin des Strafgerichtshofs",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich sanktioniere als Weltmacht die Präsidentin des Internationalen Strafgerichtshofs. Endlich ein Gericht, das versteht, dass Recht für alle gilt. Ausser für die, die es bezahlen."
     }
   ]
 }
