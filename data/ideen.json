@@ -11,47 +11,42 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich baue meine Sätze gerade zu Bildern um, weil Text niemand mehr liest. Bundespräsident Parmelin nennt den Hitzesommer einen Schock. Die Klimaberichte gibt es seit 1990. Als Text."
+      "text": "Ich baue meine Sätze gerade zu Bildern um, weil Text niemand mehr liest. Bundespräsident Parmelin nennt den Hitzesommer einen Schock. Die Klimaberichte gibt es seit 1990. Als Text.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-08-19-2116-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kapitalismuskritik auf 1080 Pixel",
+      "id": "2026-08-19-2116-03",
+      "typ": "schnittmenge",
+      "stichwort": "Verwaltungsrat findet die Kachel hübsch gesetzt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "29 US-Bundesstaaten werfen Meta vor Gericht vor, Jugendliche süchtig zu machen. Ich schneide meine Kapitalismuskritik gerade auf 1080 Pixel, damit sie dort besser ausgespielt wird. Quadratisch. Weisser Rand. Bitte teilen."
-    },
-    {
-      "id": "2026-08-19-2116-08",
-      "typ": "schnittmenge",
-      "stichwort": "Textgrafik gedrosselt, Kreditwerbung nicht",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Instagram drosselt meine Textgrafik, weil Politik als sensibler Inhalt gilt. Die Kreditwerbung daneben mit 12 Prozent Zins läuft ungedrosselt. Nicht sensibel. Nur bezahlt."
+      "format": 13,
+      "text": "Ich sitze im Verwaltungsrat. Beruhigend, dass die Empörung über uns jetzt hübsch gesetzt ist: weisse Kachel, 22 Wörter, Karussell. Unseren Geschäftsbericht liest keiner. 180 Seiten. Ohne Bild.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-19-2116-09",
-      "typ": "remix",
-      "stichwort": "Ich bin die heimliche Politik im Feed",
+      "id": "2026-08-19-2116-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "eine Stunde Slide, Vermoegen braucht keine",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 10,
-      "text": "Ich baue meine Sätze abends zu Bildern um, weil Instagram Text allein nicht ausspielt. Wer immer sagte, ihm werde heimlich Politik untergejubelt: stimmt. Seit 21 Uhr. Von Hand."
-    },
-    {
-      "id": "2026-08-19-2116-11",
-      "typ": "persönlich",
-      "stichwort": "Lizenzgebühr gegen fünf Kacheln",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Grosskonzerne buchen Milliardengewinne als Lizenzgebühr in Schweizer Tochterfirmen. Ich buche meine eigenen Bluesky-Posts in Instagram-Slides um und komme mir dabei schon vor wie ein Konzern. Fünf Kacheln, keine Steuern."
+      "format": 16,
+      "text": "Ich sitze seit einer Stunde an einer Slide, damit 300 Leute einen Satz über Erbschaften lesen. Ein Vermögen braucht keine Slides. Nie eine gebraucht.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-19-2116-12",
@@ -61,7 +56,42 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 19,
-      "text": "Ich habe mit fünf Bildern 14'151 Leute erreicht, 73 Prozent kannten mich nicht. Das ist ein voll besetztes Hallenstadion, dem ich meine eigenen Sätze von gestern vorlese. Niemand hustet."
+      "text": "Ich habe mit fünf Bildern 14'151 Leute erreicht, 73 Prozent kannten mich nicht. Das ist ein voll besetztes Hallenstadion, dem ich meine eigenen Sätze von gestern vorlese. Niemand hustet.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-19-2116-17",
+      "typ": "persönlich",
+      "stichwort": "Rösti im Feuer, drei Departementsteile brennen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe heute fünf meiner Posts zu Bildern gemacht, der letzte zeigt Albert Rösti im Feuer. Sein Departement heisst Umwelt, Verkehr, Energie und Kommunikation. Drei davon brennen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-19-2116-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Erbschaftssteuer-Satz muss aussehen wie eine UBS-Anzeige",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich setze seit vierzig Minuten einen Satz über Erbschaftssteuern in eine Kachel, die aussehen muss wie eine Anzeige der UBS. Sonst liest ihn niemand. Kerning sitzt.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
