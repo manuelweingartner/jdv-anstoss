@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,26 @@
       "haltbarkeit": "tagesgebunden",
       "text": "Bis Ende August kommt keine Hitzewelle mehr, meldet der Wetterdienst nach dem heissesten Sommer der Messgeschichte. Nicht die Krise ist vorbei. Sondern der Anlass, sie zu erwähnen.",
       "format": 14
+    },
+    {
+      "id": "2026-08-19-2054-23",
+      "typ": "schnittmenge",
+      "stichwort": "Klimastrategie von 2019 auf dem vierten Kanal",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich bin Nachhaltigkeitschef. Gute Nachricht: unsere Klimastrategie von 2019 läuft jetzt auch auf dem vierten Kanal, neu layoutet, fünf Slides. Wir nennen das Fortschritt. Seit sieben Jahren. Dieselbe Datei."
+    },
+    {
+      "id": "2026-08-19-2054-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bauern bekommen fünf Slides statt Wasser",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Als Kommunikationschef eines Bundesamts finde ich es richtig, dass die Bauern zur Wasserknappheit nicht Wasser bekommen, sondern fünf Slides. Extern gestaltet. Für 40'000 Franken."
     }
   ]
 }
