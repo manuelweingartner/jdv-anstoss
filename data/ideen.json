@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -19,6 +19,21 @@
       }
     },
     {
+      "id": "2026-08-19-2116-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kapitalismuskritik auf 1080 Pixel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "29 US-Bundesstaaten werfen Meta vor Gericht vor, Jugendliche süchtig zu machen. Ich schneide meine Kapitalismuskritik gerade auf 1080 Pixel, damit sie dort besser ausgespielt wird. Quadratisch. Weisser Rand. Bitte teilen.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": false
+      }
+    },
+    {
       "id": "2026-08-19-2116-03",
       "typ": "schnittmenge",
       "stichwort": "Verwaltungsrat findet die Kachel hübsch gesetzt",
@@ -34,18 +49,18 @@
       }
     },
     {
-      "id": "2026-08-19-2116-05",
+      "id": "2026-08-19-2116-06",
       "typ": "politisch-aktuell",
-      "stichwort": "eine Stunde Slide, Vermoegen braucht keine",
+      "stichwort": "zwanzig Minuten Werkstatt gegen 2500 Franken Mittwoch",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich sitze seit einer Stunde an einer Slide, damit 300 Leute einen Satz über Erbschaften lesen. Ein Vermögen braucht keine Slides. Nie eine gebraucht.",
+      "format": 19,
+      "text": "Zwanzig Minuten baue ich an einer Slide über Lohnungleichheit. Sergio Ermotti verdient in derselben Zeit rund 2'500 Franken. Ich nenne das Werkstatt. Er nennt das Mittwoch.",
       "jury": {
         "witz": true,
         "anker": true,
-        "neu": true
+        "neu": false
       }
     },
     {
@@ -64,33 +79,18 @@
       }
     },
     {
-      "id": "2026-08-19-2116-17",
+      "id": "2026-08-19-2116-36",
       "typ": "persönlich",
-      "stichwort": "Rösti im Feuer, drei Departementsteile brennen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe heute fünf meiner Posts zu Bildern gemacht, der letzte zeigt Albert Rösti im Feuer. Sein Departement heisst Umwelt, Verkehr, Energie und Kommunikation. Drei davon brennen.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-19-2116-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Erbschaftssteuer-Satz muss aussehen wie eine UBS-Anzeige",
+      "stichwort": "Bild fuer den Post, Helikopterplatz fuer Trump",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich setze seit vierzig Minuten einen Satz über Erbschaftssteuern in eine Kachel, die aussehen muss wie eine Anzeige der UBS. Sonst liest ihn niemand. Kerning sitzt.",
+      "text": "Ich brauche für jeden Post ein Bild, sonst sehen ihn 200 Leute. Trump baut sich dafür einen Helikopterplatz vor das Weisse Haus. Dasselbe Problem. Er löst es mit Beton.",
       "jury": {
-        "neu": true,
         "anker": true,
-        "witz": true
+        "witz": true,
+        "neu": true
       }
     }
   ]
