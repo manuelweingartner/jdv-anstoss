@@ -1,10 +1,13 @@
 {
-  "typ": "meme",
-  "caption": "",
-  "notiz": "Zwei Varianten: Balken unter dem Foto und Schrift im Bild. Welche gilt, entscheidest du.",
+  "typ": "slide",
+  "caption": "🇨🇭🇨🇭🇨🇭 💸💸💸 🏠🏠🏠 🥵🥵🥵 💸💸💸",
+  "notiz": "5 Slides aus den letzten Bluesky-Posts",
   "dateien": [
-    "meme-1.jpg",
-    "meme-2.jpg"
+    "slide-1.jpg",
+    "slide-2.jpg",
+    "slide-3.jpg",
+    "slide-4.jpg",
+    "slide-5.jpg"
   ],
-  "stand": "2026-08-18T08:01:48+02:00"
+  "stand": "2026-08-19T20:53:26+02:00"
 }
