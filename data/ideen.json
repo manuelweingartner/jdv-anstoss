@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 10,
       "text": "Ich war im Mittelmeer schwimmen, 30 Grad, wärmer als das Nichtschwimmerbecken im Hallenbad. Eine Studie sagt jetzt: Klimawandel. Das Becken heizt wenigstens jemand absichtlich."
+    },
+    {
+      "id": "2026-08-19-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizerkreuz bleibt, Stellen gehen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Das Schweizerkreuz darf neu auch auf Ware aus dem Ausland. Gleiche Woche verlagert ein Winterthurer Maschinenbauer 220 Stellen dorthin. Produziert wird hier nur noch das Kreuz."
+    },
+    {
+      "id": "2026-08-19-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reisewarnung gegen Wegweisung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Ich bekomme vom EDA für Afghanistan die höchste Reisewarnung: nicht hinreisen, sofort raus. Das Bundesverwaltungsgericht schickt junge Afghanen diese Woche genau dorthin. Gleiches Land. Anderer Pass."
     },
     {
       "id": "2026-08-19-0757-23",
