@@ -1,157 +1,17 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-19-204234-v1",
+      "id": "2026-08-19-2054-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: Zwei Prozent sind ein Kaffee",
+      "stichwort": "Hitze vorbei, Rest bleibt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Travail Suisse fordert zwei Prozent mehr Lohn. Bei 5'000 Franken sind das fünf pro Tag. Der Arbeitgeberverband hat dazu eine Studie."
-    },
-    {
-      "id": "2026-08-19-204234-v2",
-      "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: Zwei Prozent sind ein Kaffee",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Fünf Franken pro Arbeitstag gefährden laut Arbeitgeberverband den Standort Schweiz. Der Standort Schweiz verkauft in Zürich einen Kaffee für sieben."
-    },
-    {
-      "id": "2026-08-19-204234-v3",
-      "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: Zwei Prozent sind ein Kaffee",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Wer zwei Prozent mehr Lohn fordert, bekommt eine Studie. Wer zwei Prozent Dividende mehr will, bekommt sie."
-    },
-    {
-      "id": "2026-08-19-204215-v1",
-      "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: 108 Franken pro Kopf, nichts gegen die Sonne",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "35 Grad in einer Wohnung ohne Storen. Der Bundesrat kauft für 970 Millionen Luftabwehr. Die Sonne kommt auch von oben."
-    },
-    {
-      "id": "2026-08-19-204215-v2",
-      "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: 108 Franken pro Kopf, nichts gegen die Sonne",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "970 Millionen für Abwehr von oben. Meine Wohnung hat 35 Grad und keine Storen. Wer eine Rakete schickt, wird abgefangen. Wer Hitze schickt, wird gefördert."
-    },
-    {
-      "id": "2026-08-19-204215-v3",
-      "typ": "politisch-aktuell",
-      "stichwort": "Variante zu: 108 Franken pro Kopf, nichts gegen die Sonne",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "108 Franken pro Kopf für Luftabwehr. Für Hitzeschutz in Schulhäusern zahlt die Gemeinde. Die Bedrohung muss ein Absender haben."
-    },
-    {
-      "id": "2026-08-19-2028-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Regen als Konkurrenz",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich verkaufe Wasser in Flaschen. 40 Hitzetage in einem Sommer, der nicht mal vorbei ist: Regen war immer unsere schärfste Konkurrenz, und die geht gerade ein.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-19-2028-04",
-      "typ": "schnittmenge",
-      "stichwort": "Merkblatt in dritter Auflage",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Beruhigend: 40 Hitzetage in diesem Sommer, und er läuft noch. Wir vom Amt sind vorbereitet, das Merkblatt «Viel trinken, Rollläden runter» geht in die dritte Auflage. Diesmal auf Recyclingpapier.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-19-2028-08",
-      "typ": "schnittmenge",
-      "stichwort": "Vierzig Hitzetage, Schweine haben Vorschriften",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Vierzig Hitzetage diesen Sommer, er ist nicht mal vorbei. Schweine im Transporter haben ab 30 Grad Vorschriften. Menschen auf dem Bau haben ein Merkblatt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-19-2028-10",
-      "typ": "persönlich",
-      "stichwort": "40 Hitzetage gegen 25 Ferientage",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Ich habe 25 Ferientage im Jahr. Dieser Sommer liefert 40 Hitzetage und ist nicht mal vorbei. Erscheinen soll ich trotzdem. Um acht. In langen Hosen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-19-2028-12",
-      "typ": "persönlich",
-      "stichwort": "fast 40 Jahre, 40 Hitzetage",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Mit fast 40 Jahren habe ich diesen Sommer 40 Hitzetage gezählt. Eine der beiden Zahlen verdoppelt sich noch zu meinen Lebzeiten. Nicht mein Alter.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-19-2028-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Giftpilze lebenslang, Kontinent hochheizen mit Dividende",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Drei Menschen mit Giftpilzen im Beef Wellington umbringen: lebenslang, die Berufung in Australien läuft gerade. Einen halben Kontinent auf vierzig Hitzetage hochheizen: Quartalszahlen, Dividende, Ehrendoktor.",
-      "jury": {
-        "neu": false,
-        "anker": true,
-        "witz": true
-      }
+      "text": "Bis Ende August kommt keine Hitzewelle mehr, meldet der Wetterdienst nach dem heissesten Sommer der Messgeschichte. Nicht die Krise ist vorbei. Sondern der Anlass, sie zu erwähnen.",
+      "format": 14
     }
   ]
 }
