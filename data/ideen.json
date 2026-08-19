@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich sanktioniere als Weltmacht die Präsidentin des Internationalen Strafgerichtshofs. Endlich ein Gericht, das versteht, dass Recht für alle gilt. Ausser für die, die es bezahlen."
+    },
+    {
+      "id": "2026-08-19-0740-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reeder prüft die Eiskarte wie den Pollenflug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich führe eine Reederei und prüfe morgens die Eiskarte der Arktis wie andere den Pollenflug. Nordroute offen, zehn Tage kürzer nach Shanghai. Der Klimawandel liefert pünktlich."
+    },
+    {
+      "id": "2026-08-19-0740-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "220 Stellen weg, Rekordwachstum am selben Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich streiche in Winterthur 220 Stellen. Am selben Tag meldet die Schweiz das stärkste Wachstum seit Jahren. Gern geschehen. Wachstum ist Teamarbeit."
+    },
+    {
+      "id": "2026-08-19-0740-29",
+      "typ": "schnittmenge",
+      "stichwort": "Sanktionen gegen das Weltstrafgericht als Erziehung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Wir sanktionieren die Richter*innen des Weltstrafgerichts, das 125 Staaten mitgegründet haben. Wer Kriegsverbrechen untersucht, soll ruhig spüren, wie sich Konsequenzen anfühlen. Pädagogisch wertvoll."
     }
   ]
 }
