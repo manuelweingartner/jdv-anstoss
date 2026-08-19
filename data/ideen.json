@@ -1,20 +1,20 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-19-2054-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wassersparkampagne als Karussell, null Liter",
+      "id": "2026-08-19-2054-03",
+      "typ": "schnittmenge",
+      "stichwort": "Instagram bestraft Zweitverwertung nicht, verkauft den Rest",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Als Kanton nehmen wir die Trockenheit sehr ernst. Deshalb erscheint unsere Wassersparkampagne jetzt als Karussell. Fünf Slides. Vier Sprachen. Null Liter.",
+      "text": "Ich mache das Ranking bei Instagram. Gute Nachricht: Wir bestrafen Zweitverwertung nicht. Wir zeigen sie nur 300 Leuten und verkaufen dir den Rest.",
       "jury": {
+        "anker": false,
         "witz": true,
-        "anker": true,
         "neu": true
       }
     },
@@ -31,6 +31,21 @@
         "witz": true,
         "anker": true,
         "neu": true
+      }
+    },
+    {
+      "id": "2026-08-19-2054-17",
+      "typ": "persönlich",
+      "stichwort": "Fünf Posts zweitverwertet, 82 Prozent PET",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich verwerte heute fünf eigene Posts zum zweiten Mal. Die Schweiz recycelt 82 Prozent ihrer PET-Flaschen und null Prozent ihrer Wahlversprechen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
       }
     },
     {
@@ -64,32 +79,17 @@
       }
     },
     {
-      "id": "2026-08-19-2054-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bauern bekommen fünf Slides statt Wasser",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Als Kommunikationschef eines Bundesamts finde ich es richtig, dass die Bauern zur Wasserknappheit nicht Wasser bekommen, sondern fünf Slides. Extern gestaltet. Für 40'000 Franken.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-19-2054-29",
-      "typ": "remix",
-      "stichwort": "Neue Verpackung, 40 Prozent weniger Inhalt",
+      "id": "2026-08-19-2054-30",
+      "typ": "persönlich",
+      "stichwort": "Fünf Posts abtippen, zwei verstanden",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 15,
-      "text": "Meine letzten fünf Posts nochmal, in neuer Verpackung:\n- gleiche Sätze\n- neue Farben\n- 40 Prozent weniger Inhalt\nApple nennt das seit 2007 ein neues Modell.",
+      "format": "frei",
+      "text": "Ich sitze seit einer Stunde daran, fünf eigene Posts in Bilder zu verwandeln. Zwei davon habe ich beim Abtippen zum ersten Mal verstanden. Der dritte funktioniert nur ungelesen.",
       "jury": {
-        "witz": true,
         "anker": true,
+        "witz": true,
         "neu": true
       }
     }
