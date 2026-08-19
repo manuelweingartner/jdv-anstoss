@@ -4,6 +4,36 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-08-19-0740-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zollrückerstattung, Preise bleiben oben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Als US-Konzern habe ich 129 Milliarden Dollar Zölle zurückerstattet bekommen. Die Preise lasse ich oben, damit die Kundschaft die Entlastung nicht zu abrupt erlebt. Rücksichtsvoll."
+    },
+    {
+      "id": "2026-08-19-0740-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwei Prozent Lohn, wem die Produktivität gehört",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Gewerkschaften fordern zwei Prozent mehr Lohn. Ich als Arbeitgeber finde das richtig: Wer die Produktivität steigert, soll endlich erfahren, wem sie gehört. Auf Wunsch schriftlich."
+    },
+    {
+      "id": "2026-08-19-0740-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wegweisung nach Afghanistan, Reisehinweis seit 2021",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich begrüsse das Urteil: Junge Afghanen dürfen nach Afghanistan weggewiesen werden. In dasselbe Land, von dem unser Aussendepartement seit 2021 allen Schweizer*innen abrät. Sicher genug. Für gewisse Leute."
+    },
+    {
       "id": "2026-08-19-0740-24",
       "typ": "politisch-aktuell",
       "stichwort": "Microsoft kürzt CO2-Entnahme, Auslastung",
@@ -32,36 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich sanktioniere als Weltmacht die Präsidentin des Internationalen Strafgerichtshofs. Endlich ein Gericht, das versteht, dass Recht für alle gilt. Ausser für die, die es bezahlen."
-    },
-    {
-      "id": "2026-08-19-0740-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Reeder prüft die Eiskarte wie den Pollenflug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich führe eine Reederei und prüfe morgens die Eiskarte der Arktis wie andere den Pollenflug. Nordroute offen, zehn Tage kürzer nach Shanghai. Der Klimawandel liefert pünktlich."
-    },
-    {
-      "id": "2026-08-19-0740-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "220 Stellen weg, Rekordwachstum am selben Tag",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich streiche in Winterthur 220 Stellen. Am selben Tag meldet die Schweiz das stärkste Wachstum seit Jahren. Gern geschehen. Wachstum ist Teamarbeit."
-    },
-    {
-      "id": "2026-08-19-0740-29",
-      "typ": "schnittmenge",
-      "stichwort": "Sanktionen gegen das Weltstrafgericht als Erziehung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Wir sanktionieren die Richter*innen des Weltstrafgerichts, das 125 Staaten mitgegründet haben. Wer Kriegsverbrechen untersucht, soll ruhig spüren, wie sich Konsequenzen anfühlen. Pädagogisch wertvoll."
     }
   ]
 }
