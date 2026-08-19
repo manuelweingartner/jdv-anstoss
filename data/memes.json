@@ -1,100 +1,79 @@
 {
-  "stand": "2026-08-18T08:13:07+02:00",
+  "stand": "2026-08-19T08:08:40+02:00",
   "vorschlaege": [
-    {
-      "vorlage": "skelett",
-      "name": "Waiting Skeleton",
-      "zeilen": [
-        "Raststätte Walensee wird Begegnungsort",
-        "seit 2005"
-      ],
-      "warum": "weil 20 Jahre Leerstand genau die Figur des endlosen Wartens auf ein Versprechen sind",
-      "bild": "vorschlag-1.jpg"
-    },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Pestizidkontrollen abschwächen",
-        "Vollzug praxisnah ausgestalten"
+        "In Vietnam genäht",
+        "Schweizer Traditionsmarke"
       ],
-      "warum": "weil die Agrarlobby dieselbe Verwässerung erst als Kontrolle und dann als Praxisnähe verkauft",
-      "bild": "vorschlag-2.jpg"
+      "warum": "weil die neue Swissness-Regel genau die vornehme Verpackung derselben Sache erlaubt",
+      "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "aliens",
       "name": "Ancient Aliens",
       "zeilen": [
-        "Warum schliessen die Bäckereien?",
-        "Die Hafermilch"
+        "Warum liegt der Gewinn in Zug?",
+        "Sehr starke Marketingabteilung"
       ],
-      "warum": "weil Margen und Fachkräftemangel ignoriert und durch die vegane Berner Filiale ersetzt werden",
-      "bild": "vorschlag-3.jpg"
-    },
-    {
-      "vorlage": "glocke",
-      "name": "Bell Curve",
-      "zeilen": [
-        "Helm aufsetzen",
-        "Nutzungsdaten, Pilotprojekt, Mobilitätsstrategie",
-        "Helm aufsetzen"
-      ],
-      "warum": "weil bei 16'500 E-Scooter-Unfällen nur die Mitte eine Strategie statt eines Helms braucht",
-      "bild": "vorschlag-4.jpg"
+      "warum": "weil bei Lizenz- und Marketinggebühren die offensichtliche Ursache mit voller Überzeugung wegerklärt wird",
+      "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Twint-Direktlastschrift 2027",
-        "Das bestehende LSV-Verfahren",
-        "Schweizer Grossbanken"
+        "Lenkungsabgabe auf EU-Arbeitskräfte",
+        "Wohnungen bauen",
+        "Ständeratskommission"
       ],
-      "warum": "weil ein funktionierendes Lastschriftverfahren in der letzten Sekunde für ein neues verlassen wird",
-      "bild": "vorschlag-5.jpg"
-    },
-    {
-      "vorlage": "gehirn",
-      "name": "Expanding Brain",
-      "zeilen": [
-        "Sieben Stunden schlafen",
-        "Dreimal Krafttraining pro Woche",
-        "Testosteron-Gel aus dem Netz",
-        "Fruchtbarkeit ist verhandelbar"
-      ],
-      "warum": "weil der Testosteron-Hype eine Rechtfertigungskette ist, die mit jeder Stufe selbstbewusster wird",
-      "bild": "vorschlag-6.jpg"
+      "warum": "weil kurz vor den Bilateralen III noch der Kurswechsel zur Abgabe genommen wird",
+      "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "harold",
       "name": "Hide the Pain Harold",
       "zeilen": [
-        "WM-Medaille im Kunstturnen",
-        "Sponsorenmails am Abend"
+        "BIP wächst kräftig",
+        "220 Stellen in Winterthur weg"
       ],
-      "warum": "weil Noe Seiferts brave Erfolgsmeldung den Kampf um jeden Franken nicht verdeckt",
-      "bild": "vorschlag-7.jpg"
+      "warum": "weil die Wachstumsmeldung das brave Lächeln über dem Abbau bei Burckhardt ist",
+      "bild": "vorschlag-4.jpg"
+    },
+    {
+      "vorlage": "gehirn",
+      "name": "Expanding Brain",
+      "zeilen": [
+        "Zölle schützen US-Jobs",
+        "Zölle sind Verhandlungsmasse",
+        "Zölle pausieren gegen Pipeline",
+        "Keystone XL als Friedensangebot"
+      ],
+      "warum": "weil die Begründung für die Kanada-Zölle mit jeder Stufe grösser und selbstbewusster wird",
+      "bild": "vorschlag-5.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Dublin-Abkommen, 2003",
-        "Rückführungen als Routine",
-        "2026: erste Flugbuchungen",
-        "Einzelne Asylsuchende"
+        "Bally, gegründet 1851",
+        "40'000 Paare im Archiv",
+        "Marke sucht Investor",
+        "Archiv sucht Lagerraum"
       ],
-      "warum": "weil zwischen dem behaupteten Abkommen und ein paar Flugtickets nach Italien genau dieses Gefälle liegt",
-      "bild": "vorschlag-8.jpg"
+      "warum": "weil zwischen Weltmarke und Regalfrage genau der behauptete Früher-Heute-Sturz liegt",
+      "bild": "vorschlag-6.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Prüfungen ohne KI sind kein Rückschritt"
+        "Norwegen hat den besseren Finanzminister"
       ],
-      "warum": "weil Dänemarks Schulregel eine These ist, gegen die niemand ernsthaft argumentieren kann",
-      "bild": "vorschlag-9.jpg"
+      "warum": "weil die Staatsfonds-Frage eine These braucht, der niemand ernsthaft widersprechen kann",
+      "bild": "vorschlag-7.jpg"
     }
   ]
 }
