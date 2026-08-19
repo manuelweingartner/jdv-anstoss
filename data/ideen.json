@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-19-2028-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "40 Hitzetage, Baeren bekommen Eis, ich ein Merkblatt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Ich habe diesen Sommer 40 Hitzetage gezählt, und der August ist nicht durch. Die Bären im Zoo bekommen jetzt Eis, ich ein Merkblatt vom Bund. Viel trinken. Schatten."
-    },
-    {
       "id": "2026-08-19-2028-03",
       "typ": "politisch-aktuell",
       "stichwort": "Regen als Konkurrenz",
@@ -21,7 +11,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich verkaufe Wasser in Flaschen. 40 Hitzetage in einem Sommer, der nicht mal vorbei ist: Regen war immer unsere schärfste Konkurrenz, und die geht gerade ein."
+      "text": "Ich verkaufe Wasser in Flaschen. 40 Hitzetage in einem Sommer, der nicht mal vorbei ist: Regen war immer unsere schärfste Konkurrenz, und die geht gerade ein.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-08-19-2028-04",
@@ -31,7 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Beruhigend: 40 Hitzetage in diesem Sommer, und er läuft noch. Wir vom Amt sind vorbereitet, das Merkblatt «Viel trinken, Rollläden runter» geht in die dritte Auflage. Diesmal auf Recyclingpapier."
+      "text": "Beruhigend: 40 Hitzetage in diesem Sommer, und er läuft noch. Wir vom Amt sind vorbereitet, das Merkblatt «Viel trinken, Rollläden runter» geht in die dritte Auflage. Diesmal auf Recyclingpapier.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-19-2028-08",
@@ -41,7 +41,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Vierzig Hitzetage diesen Sommer, er ist nicht mal vorbei. Schweine im Transporter haben ab 30 Grad Vorschriften. Menschen auf dem Bau haben ein Merkblatt."
+      "text": "Vierzig Hitzetage diesen Sommer, er ist nicht mal vorbei. Schweine im Transporter haben ab 30 Grad Vorschriften. Menschen auf dem Bau haben ein Merkblatt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-19-2028-10",
@@ -51,17 +56,42 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 19,
-      "text": "Ich habe 25 Ferientage im Jahr. Dieser Sommer liefert 40 Hitzetage und ist nicht mal vorbei. Erscheinen soll ich trotzdem. Um acht. In langen Hosen."
+      "text": "Ich habe 25 Ferientage im Jahr. Dieser Sommer liefert 40 Hitzetage und ist nicht mal vorbei. Erscheinen soll ich trotzdem. Um acht. In langen Hosen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-08-19-2028-11",
+      "id": "2026-08-19-2028-12",
       "typ": "persönlich",
-      "stichwort": "Bilanz meiner eigenen Hitze-Posts",
+      "stichwort": "fast 40 Jahre, 40 Hitzetage",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ich habe diesen Sommer viermal über die Hitze gepostet. Bilanz nach 40 Hitzetagen: 1'383 Likes, null Grad weniger. Und der Sommer ist nicht mal vorbei."
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Mit fast 40 Jahren habe ich diesen Sommer 40 Hitzetage gezählt. Eine der beiden Zahlen verdoppelt sich noch zu meinen Lebzeiten. Nicht mein Alter.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-19-2028-29",
+      "typ": "remix",
+      "stichwort": "Klimastrategie gebaut fuer Hitze, versagt bei Hitze",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 2,
+      "text": "Ich habe 40 Hitzetage hinter mir und der Sommer hat noch sechs Wochen. Die nationale Hitzestrategie ist ein PDF, das ab 30 Grad gekuehlt gelagert werden muss.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
