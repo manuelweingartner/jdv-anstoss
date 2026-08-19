@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -16,21 +16,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-08-19-0915-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neutralitätsinitiative und leere Erdöllager",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Die Neutralitätsinitiative fällt laut Umfrage am Sonntag durch. Gleiche Woche leeren sich wegen des Kriegs am Golf die weltweiten Erdöllager. Wir sind seit 1815 neutral, sofern geliefert wird.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
       }
     },
     {
@@ -75,6 +60,21 @@
       "jury": {
         "anker": true,
         "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-19-0915-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Katze bei Sanitas versichert, ohne Nachweis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich kann meine Katze bei Sanitas krankenversichern, als erster Kasse der Schweiz. Sie muss nicht beweisen, dass sie sich bemüht, gesund zu werden. Kein Gutachten.",
+      "jury": {
+        "anker": true,
+        "neu": false,
         "witz": true
       }
     },
