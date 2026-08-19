@@ -4,6 +4,16 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-08-19-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vier Wochen Ferien seit 1984, Internet inklusive",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Vier Wochen Ferien sind in der Schweiz seit 1984 das gesetzliche Minimum. Seither kamen das Internet, das Smartphone und der ganze Produktivitätsschub daraus. Behalten haben wir die vier Wochen. Unangetastet."
+    },
+    {
       "id": "2026-08-19-0757-08",
       "typ": "schnittmenge",
       "stichwort": "Löschflugzeuge grenzenlos, Klimaziel national",
@@ -52,16 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich leite ein Champagnerhaus, wir lesen zwei Wochen früher als vor zwanzig Jahren. Die Hitze macht die Trauben schneller reif. Endlich ein Klimaziel, das jemand übertrifft."
-    },
-    {
-      "id": "2026-08-19-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bundesamt freut sich über Pharma-Wachstum",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Als Bundesamt melde ich stolz: Das Schweizer BIP wächst kräftig, getragen von Chemie und Pharma. Beruhigend, dass wir endlich an den Kranken verdienen. Brutto. Und steuerbegünstigt."
     }
   ]
 }
