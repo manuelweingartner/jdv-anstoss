@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-19-2104-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ventilator in den Keller, Krise bleibt oben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Ich habe den Ventilator in den Keller getragen, es kommt bis Ende August keine Hitzewelle mehr. Heissester Sommer seit 1864. Nicht die Krise ist vorbei, nur die Saison."
-    },
-    {
       "id": "2026-08-19-2104-03",
       "typ": "politisch-aktuell",
       "stichwort": "Burckhardt Compression, Standort erhalten",
@@ -21,7 +11,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich streiche bei Burckhardt Compression 220 Stellen, 150 davon in Winterthur. Gute Nachricht: der Standort Schweiz bleibt erhalten. Alle sechs Quadratmeter. Im Verwaltungsrat."
+      "text": "Ich streiche bei Burckhardt Compression 220 Stellen, 150 davon in Winterthur. Gute Nachricht: der Standort Schweiz bleibt erhalten. Alle sechs Quadratmeter. Im Verwaltungsrat.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-19-2104-04",
@@ -31,17 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Neu sanktionieren die USA auch das Spitzenpersonal des Internationalen Strafgerichtshofs. Beruhigend: Kriegsverbrechen bleiben selbstverständlich verboten. Bestraft wird nur noch, wer sie aufschreibt."
-    },
-    {
-      "id": "2026-08-19-2104-08",
-      "typ": "schnittmenge",
-      "stichwort": "129 Milliarden Zollrueckerstattung gegen Kassenreserven",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Zu viel gezahlte Zölle bekommen US-Konzerne zurück, 129 Milliarden Dollar. Zu viel gezahlte Krankenkassenprämien heissen bei uns Reserven."
+      "text": "Neu sanktionieren die USA auch das Spitzenpersonal des Internationalen Strafgerichtshofs. Beruhigend: Kriegsverbrechen bleiben selbstverständlich verboten. Bestraft wird nur noch, wer sie aufschreibt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-08-19-2104-09",
@@ -51,17 +41,57 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 10,
-      "text": "Ich habe in der Stadt elf Bänke gezählt, alle mit Armlehne in der Mitte. Grossbritanniens Premier holt Obdachlose jetzt mit einem Millionenprogramm von der Strasse. Wir waren schneller. Und günstiger."
+      "text": "Ich habe in der Stadt elf Bänke gezählt, alle mit Armlehne in der Mitte. Grossbritanniens Premier holt Obdachlose jetzt mit einem Millionenprogramm von der Strasse. Wir waren schneller. Und günstiger.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-19-2104-10",
+      "id": "2026-08-19-2104-16",
       "typ": "persönlich",
-      "stichwort": "Steuererklärung sechs Stunden gegen Lizenzgebühr",
+      "stichwort": "bis und mit, danach nicht mehr zuständig",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Ich habe heute in einer privaten Nachricht bis und mit geschrieben. Drei Wörter Amtsdeutsch, und ich war für alles danach nicht mehr zuständig. Zuständigkeit endet freitags. Freundliche Grüsse.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-19-2104-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "150 Stellen Winterthur, Standortverbundenheit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich streiche in Winterthur 150 Stellen, weltweit 220. Standortverbundenheit heisst bei uns: zwei Drittel der Entlassungen bleiben in der Schweiz. Regional. Verankert.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-19-2104-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kanton feiert gesunkenen Wasserverbrauch",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Meine Steuererklärung hat sechs Stunden gedauert, jeder Beleg gescannt. Konzerne verbuchen Milliardengewinne als Lizenzgebühr in einer Schweizer Tochterfirma. Der Beleg ist die Rechnung, die sie sich selber schicken. Selbst ausgestellt."
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Beim Kanton bin ich fürs Wasser zuständig. Erfreulich: der Verbrauch der Landwirtschaft sinkt stark, seit die Kartoffeln vertrocknet sind. Sparziel übertroffen. Zwei Jahre früher als geplant.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
