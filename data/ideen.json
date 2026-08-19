@@ -4,54 +4,19 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-19-2054-02",
+      "id": "2026-08-19-2054-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Hitze vorbei, Rest bleibt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Bis Ende August kommt keine Hitzewelle mehr, meldet der Wetterdienst nach dem heissesten Sommer der Messgeschichte. Nicht die Krise ist vorbei. Sondern der Anlass, sie zu erwähnen.",
-      "format": 14
-    },
-    {
-      "id": "2026-08-19-2054-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fünf Posts als Slides, Meta verdient",
+      "stichwort": "Wassersparkampagne als Karussell, null Liter",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich baue am Küchentisch aus meinen letzten fünf Posts ein Carousel für Instagram. Meta verdient daran, ich verdiene die Erfahrung. Reichweite ist auch eine Währung. Nur nicht meine."
-    },
-    {
-      "id": "2026-08-19-2054-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "40 Minuten Canva gegen Genfer Mindestlohn",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Fünf Slides in Canva gebaut, 40 Minuten. Zum Genfer Mindestlohn wären das 16 Franken. Auf Instagram heisst dieselbe Arbeit Community-Aufbau und kostet nichts."
-    },
-    {
-      "id": "2026-08-19-2054-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Sätze machen Doppelschichten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Meine fünf letzten Posts laufen jetzt nochmal als Slides auf Instagram. Wer Kapital hat, lässt Geld arbeiten. Ich lasse meine Sätze Doppelschichten machen. Ohne Zuschlag. Freiwillig."
-    },
-    {
-      "id": "2026-08-19-2054-08",
-      "typ": "schnittmenge",
-      "stichwort": "Fünf Sätze zweitverwertet, Klimaziel umgeschrieben",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Ich stelle meine fünf letzten Sätze als Bildergalerie nochmal online, das heisst dann Recycling. Der Bund schreibt seit 1990 dasselbe Klimaziel um und nennt es Fortschritt."
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Als Kanton nehmen wir die Trockenheit sehr ernst. Deshalb erscheint unsere Wassersparkampagne jetzt als Karussell. Fünf Slides. Vier Sprachen. Null Liter.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-19-2054-09",
@@ -61,7 +26,72 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 2,
-      "text": "Instagram wurde für Bilder gebaut. Mein bestes Bild dort ist ein weisses Rechteck mit 22 Wörtern Text, angeschaut von 14'000 Leuten, die mich nicht kennen. Fotografie, gelöst."
+      "text": "Instagram wurde für Bilder gebaut. Mein bestes Bild dort ist ein weisses Rechteck mit 22 Wörtern Text, angeschaut von 14'000 Leuten, die mich nicht kennen. Fotografie, gelöst.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-19-2054-18",
+      "typ": "persönlich",
+      "stichwort": "Politische Sätze in hübsche Kacheln",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich setze gerade fünf politische Sätze in hübsche Kacheln, weil sie sonst niemand liest. Die SVP macht das seit dreissig Jahren. Mit Schafen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-19-2054-23",
+      "typ": "schnittmenge",
+      "stichwort": "Klimastrategie von 2019 auf dem vierten Kanal",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich bin Nachhaltigkeitschef. Gute Nachricht: unsere Klimastrategie von 2019 läuft jetzt auch auf dem vierten Kanal, neu layoutet, fünf Slides. Wir nennen das Fortschritt. Seit sieben Jahren. Dieselbe Datei.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-19-2054-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bauern bekommen fünf Slides statt Wasser",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Als Kommunikationschef eines Bundesamts finde ich es richtig, dass die Bauern zur Wasserknappheit nicht Wasser bekommen, sondern fünf Slides. Extern gestaltet. Für 40'000 Franken.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-19-2054-29",
+      "typ": "remix",
+      "stichwort": "Neue Verpackung, 40 Prozent weniger Inhalt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 15,
+      "text": "Meine letzten fünf Posts nochmal, in neuer Verpackung:\n- gleiche Sätze\n- neue Farben\n- 40 Prozent weniger Inhalt\nApple nennt das seit 2007 ein neues Modell.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
