@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-19",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Beruhigend: 40 Hitzetage in diesem Sommer, und er läuft noch. Wir vom Amt sind vorbereitet, das Merkblatt «Viel trinken, Rollläden runter» geht in die dritte Auflage. Diesmal auf Recyclingpapier."
+    },
+    {
+      "id": "2026-08-19-2028-08",
+      "typ": "schnittmenge",
+      "stichwort": "Vierzig Hitzetage, Schweine haben Vorschriften",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Vierzig Hitzetage diesen Sommer, er ist nicht mal vorbei. Schweine im Transporter haben ab 30 Grad Vorschriften. Menschen auf dem Bau haben ein Merkblatt."
     }
   ]
 }
