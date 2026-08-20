@@ -1,82 +1,37 @@
 {
   "datum": "2026-08-20",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
-  "fertig": true,
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-20-1956-01",
+      "id": "2026-08-20-2139-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Autokredit gegen 100 Millionen Rohstoffkredit",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich musste für 12'000 Franken Autokredit drei Lohnabrechnungen einreichen. Die ZKB gab 100 Millionen Dollar an eine Firma, gegen die wegen Betrugs ermittelt wird. Ausweiskopie nicht nötig.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-08-20-1956-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizerkreuz aus Vietnam, Haltung statt Herkunft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich lasse meine Schuhe in Vietnam nähen und darf sie jetzt mit dem Schweizerkreuz bedrucken. Endlich zählt nicht die Herkunft, sondern die Haltung. Meine ist einwandfrei.",
-      "jury": {
-        "neu": false,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-08-20-1956-12",
-      "typ": "persönlich",
-      "stichwort": "Wegwerfagenten, gleiche Konditionen wie Satire",
+      "stichwort": "Drei Landi, kein Frauenhaus",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Russland rekrutiert laut Nachrichtendienst Wegwerfagenten über soziale Medien: dürftig entlöhnt, offiziell abstreitbar. Ich arbeite unter genau diesen Bedingungen, für 0 Franken. Bloss ohne Auftraggeber.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich erreiche im Thurgau drei Landi in zwanzig Minuten. Ein eigenes Frauenhaus hat der Kanton keins, der nächste Platz steht in St. Gallen. Falls sie den Autoschlüssel hat. Und Benzingeld."
     },
     {
-      "id": "2026-08-20-1956-16",
+      "id": "2026-08-20-2139-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Rösti drei Jahre, Problem sind die Yogamatten",
+      "stichwort": "Gewalt hält die Zuständigkeitsgrenze ein",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Albert Rösti ist seit drei Jahren für den Wald zuständig, und der Waldeigentümerverband sagt jetzt, das grösste Problem sei die Freizeitnutzung. Nicht das Feuer. Die Yogamatten.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-08-20-1956-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Anatomiekeller als Drittmittel",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Harvard zahlt 53 Millionen Dollar, weil unser Anatomiekeller Leichenteile verkauft hat. Gute Nachricht: gespendete Körper werfen hier endlich eine Rendite ab. Sauber verbucht. Unter Drittmittel.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "text": "Beruhigend: Der Thurgau spart sich ein eigenes Frauenhaus und kauft Plätze in St. Gallen. 296'000 Einwohner, null Betten, und die Gewalt hält sich brav an unsere Zuständigkeitsgrenze."
+    },
+    {
+      "id": "2026-08-20-2139-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Acht Betten wären ein Anfang",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "296'000 Menschen leben im Thurgau, ein eigenes Frauenhaus gibt es nicht. Wer nachts gehen muss, fährt nach St. Gallen, mit den Kindern und einer Tasche. Acht Betten wären ein Anfang."
     }
   ]
 }

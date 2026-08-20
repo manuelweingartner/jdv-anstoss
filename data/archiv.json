@@ -10151,6 +10151,86 @@
         "anker": true
       },
       "datum": "2026-08-20"
+    },
+    {
+      "id": "2026-08-20-1956-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Autokredit gegen 100 Millionen Rohstoffkredit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich musste für 12'000 Franken Autokredit drei Lohnabrechnungen einreichen. Die ZKB gab 100 Millionen Dollar an eine Firma, gegen die wegen Betrugs ermittelt wird. Ausweiskopie nicht nötig.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-08-20"
+    },
+    {
+      "id": "2026-08-20-1956-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizerkreuz aus Vietnam, Haltung statt Herkunft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich lasse meine Schuhe in Vietnam nähen und darf sie jetzt mit dem Schweizerkreuz bedrucken. Endlich zählt nicht die Herkunft, sondern die Haltung. Meine ist einwandfrei.",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-08-20"
+    },
+    {
+      "id": "2026-08-20-1956-12",
+      "typ": "persönlich",
+      "stichwort": "Wegwerfagenten, gleiche Konditionen wie Satire",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Russland rekrutiert laut Nachrichtendienst Wegwerfagenten über soziale Medien: dürftig entlöhnt, offiziell abstreitbar. Ich arbeite unter genau diesen Bedingungen, für 0 Franken. Bloss ohne Auftraggeber.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-20"
+    },
+    {
+      "id": "2026-08-20-1956-16",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti drei Jahre, Problem sind die Yogamatten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Albert Rösti ist seit drei Jahren für den Wald zuständig, und der Waldeigentümerverband sagt jetzt, das grösste Problem sei die Freizeitnutzung. Nicht das Feuer. Die Yogamatten.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-08-20"
+    },
+    {
+      "id": "2026-08-20-1956-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Anatomiekeller als Drittmittel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Harvard zahlt 53 Millionen Dollar, weil unser Anatomiekeller Leichenteile verkauft hat. Gute Nachricht: gespendete Körper werfen hier endlich eine Rendite ab. Sauber verbucht. Unter Drittmittel.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-20"
     }
   ]
 }
