@@ -4,6 +4,26 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-08-20-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "SBB kontrolliert im Sommerkleid, Panama nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Die SBB kontrolliert im IC 5 neu im Sommerkleid statt in Uniform. Verdeckt ermittelt wird in diesem Land nicht gegen Konten in Panama, sondern gegen fehlende Tickets. Hundert Franken Zuschlag."
+    },
+    {
+      "id": "2026-08-20-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Paket retourniert, Italien nimmt nicht an",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe im Juni ein Paket zurückgeschickt, weil die Grösse nicht passte. Deutschland schickt jetzt Menschen nach Italien zurück, Italien nimmt sie nicht an. Rücksendeetikett liegt bei."
+    },
+    {
       "id": "2026-08-20-0757-03",
       "typ": "politisch-aktuell",
       "stichwort": "Zentrum fuer Renitente, Adresse und Zaun",
@@ -42,26 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 19,
       "text": "Beim Schweizer Medianlohn von 6'800 Franken müsste ich 480'000 Jahre arbeiten, um das grösste Vermögen des Landes zu erreichen. Den Homo sapiens gibt es seit 300'000. Aber gut, Disziplin."
-    },
-    {
-      "id": "2026-08-20-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hinterziehung ist Nachsteuer, Fälschen ist Delikt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "100'000 Franken nicht deklarieren kostet in der Schweiz eine Nachsteuer. Strafbar wird es erst, wenn man dafür ein Dokument fälscht. Bestraft wird nicht das Verstecken. Sondern die Handschrift."
-    },
-    {
-      "id": "2026-08-20-0757-28",
-      "typ": "schnittmenge",
-      "stichwort": "Schweizerkreuz auf Importschuh, Pass nach zwölf Jahren",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Schweizer Schuhe dürfen das Schweizerkreuz neu auch tragen, wenn sie im Ausland hergestellt wurden. Menschen, die hier hergestellt wurden, warten zwölf Jahre auf den Pass."
     }
   ]
 }
