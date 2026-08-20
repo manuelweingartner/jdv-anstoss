@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-20",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -64,21 +64,6 @@
       }
     },
     {
-      "id": "2026-08-20-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Motivationsschreiben für 3,5 Zimmer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe für eine 3,5-Zimmer-Wohnung einen Betreibungsauszug, drei Lohnabrechnungen und ein Motivationsschreiben eingereicht. Wer vier solche Wohnungen besitzt, reicht nichts ein. Nirgends. Nie.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
       "id": "2026-08-20-0757-06",
       "typ": "politisch-aktuell",
       "stichwort": "480'000 Jahre Medianlohn gegen den Homo sapiens",
@@ -87,6 +72,21 @@
       "haltbarkeit": "evergreen",
       "format": 19,
       "text": "Beim Schweizer Medianlohn von 6'800 Franken müsste ich 480'000 Jahre arbeiten, um das grösste Vermögen des Landes zu erreichen. Den Homo sapiens gibt es seit 300'000. Aber gut, Disziplin.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-08-20-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hinterziehung ist Nachsteuer, Fälschen ist Delikt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "100'000 Franken nicht deklarieren kostet in der Schweiz eine Nachsteuer. Strafbar wird es erst, wenn man dafür ein Dokument fälscht. Bestraft wird nicht das Verstecken. Sondern die Handschrift.",
       "jury": {
         "witz": true,
         "neu": true,
