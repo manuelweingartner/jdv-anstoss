@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-20",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich lasse meine Schuhe in Vietnam nähen und darf sie jetzt mit dem Schweizerkreuz bedrucken. Endlich zählt nicht die Herkunft, sondern die Haltung. Meine ist einwandfrei."
+    },
+    {
+      "id": "2026-08-20-1956-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kita-Stunde gegen Parkhaus-Stunde",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Zwölf Franken kostet eine Stunde Kita in Zürich, fünf Franken eine Stunde Parkhaus. Das Auto steht günstiger als das Kind. Beim Auto zahlt die Firma."
     }
   ]
 }
