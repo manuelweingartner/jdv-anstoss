@@ -11,37 +11,27 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich musste für 12'000 Franken Autokredit drei Lohnabrechnungen einreichen. Die ZKB gab 100 Millionen Dollar an eine Firma, gegen die wegen Betrugs ermittelt wird. Ausweiskopie nicht nötig."
+      "text": "Ich musste für 12'000 Franken Autokredit drei Lohnabrechnungen einreichen. Die ZKB gab 100 Millionen Dollar an eine Firma, gegen die wegen Betrugs ermittelt wird. Ausweiskopie nicht nötig.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-08-20-1956-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "CO2 absaugen, niemand muss etwas lassen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Gegen die Hitze soll jetzt Technik helfen: CO2 absaugen, synthetisches Kerosin. Endlich eine Lösung, die niemanden zwingt, irgendetwas zu lassen. Erfunden nirgends. Eingerechnet in jedes Klimaziel für 2050."
-    },
-    {
-      "id": "2026-08-20-1956-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizerkreuz aus Vietnam, Haltung statt Herkunft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich lasse meine Schuhe in Vietnam nähen und darf sie jetzt mit dem Schweizerkreuz bedrucken. Endlich zählt nicht die Herkunft, sondern die Haltung. Meine ist einwandfrei."
-    },
-    {
-      "id": "2026-08-20-1956-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kita-Stunde gegen Parkhaus-Stunde",
+      "id": "2026-08-20-1956-12",
+      "typ": "persönlich",
+      "stichwort": "Wegwerfagenten, gleiche Konditionen wie Satire",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Zwölf Franken kostet eine Stunde Kita in Zürich, fünf Franken eine Stunde Parkhaus. Das Auto steht günstiger als das Kind. Beim Auto zahlt die Firma."
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Russland rekrutiert laut Nachrichtendienst Wegwerfagenten über soziale Medien: dürftig entlöhnt, offiziell abstreitbar. Ich arbeite unter genau diesen Bedingungen, für 0 Franken. Bloss ohne Auftraggeber.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-08-20-1956-16",
@@ -51,17 +41,57 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 14,
-      "text": "Albert Rösti ist seit drei Jahren für den Wald zuständig, und der Waldeigentümerverband sagt jetzt, das grösste Problem sei die Freizeitnutzung. Nicht das Feuer. Die Yogamatten."
+      "text": "Albert Rösti ist seit drei Jahren für den Wald zuständig, und der Waldeigentümerverband sagt jetzt, das grösste Problem sei die Freizeitnutzung. Nicht das Feuer. Die Yogamatten.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-08-20-1956-17",
-      "typ": "persönlich",
-      "stichwort": "Sechs Minuten Dunkelheit, zwei Jahre Vorlauf",
+      "id": "2026-08-20-1956-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "ZKB-Kredit gegen meine Steuererklärung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich weiss nicht, was ich am Wochenende mache. Am Mittelmeer sind die Hotels für die Sonnenfinsternis im August 2027 ausgebucht. Sechs Minuten Dunkelheit. Zwei Jahre im Voraus. Mit Anzahlung."
+      "text": "Ich musste für 20'000 Franken Kredit meine Steuererklärung einreichen. Die ZKB gab 100 Millionen Dollar an eine Firma, gegen die wegen Betrugs ermittelt wird. Mir fehlte ein Verfahren.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-20-1956-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Anatomiekeller als Drittmittel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Harvard zahlt 53 Millionen Dollar, weil unser Anatomiekeller Leichenteile verkauft hat. Gute Nachricht: gespendete Körper werfen hier endlich eine Rendite ab. Sauber verbucht. Unter Drittmittel.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-20-1956-30",
+      "typ": "persönlich",
+      "stichwort": "Brief drei Tage, Post 139 Millionen Gewinn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Ich dachte, mein Brief sei drei Tage unterwegs, weil die Post überlastet ist. Sie hat im Halbjahr 139 Millionen Franken Gewinn gemacht. Nicht überlastet. Optimiert.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     }
   ]
 }
