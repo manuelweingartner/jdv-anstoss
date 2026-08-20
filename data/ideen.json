@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-20",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich bin Gastronom in Zürich und verliere eine halbe Million pro Jahr: Gläser, WC-Ringe, ganze Ibérico-Schinken. Endlich versteht das Land, dass Eigentum Schutz braucht. Meines zuerst."
+    },
+    {
+      "id": "2026-08-20-0757-28",
+      "typ": "schnittmenge",
+      "stichwort": "Schweizerkreuz auf Importschuh, Pass nach zwölf Jahren",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Schweizer Schuhe dürfen das Schweizerkreuz neu auch tragen, wenn sie im Ausland hergestellt wurden. Menschen, die hier hergestellt wurden, warten zwölf Jahre auf den Pass."
+    },
+    {
+      "id": "2026-08-20-0757-29",
+      "typ": "remix",
+      "stichwort": "Samedan: fünf Minuten vom Jet auf die Piste, Bus jede Stunde",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Ich brauche zwanzig Minuten von der Wohnung zum Bahnhof. Wer in Samedan mit dem Privatjet landet, steht nach fünf auf der Skipiste. Der Bus fährt jede Stunde."
     }
   ]
 }
