@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-20",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -24,6 +24,36 @@
       "text": "Ich bin Gastronom in Zürich und verliere eine halbe Million pro Jahr: Gläser, WC-Ringe, ganze Ibérico-Schinken. Endlich versteht das Land, dass Eigentum Schutz braucht. Meines zuerst."
     },
     {
+      "id": "2026-08-20-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Motivationsschreiben für 3,5 Zimmer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe für eine 3,5-Zimmer-Wohnung einen Betreibungsauszug, drei Lohnabrechnungen und ein Motivationsschreiben eingereicht. Wer vier solche Wohnungen besitzt, reicht nichts ein. Nirgends. Nie."
+    },
+    {
+      "id": "2026-08-20-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "480'000 Jahre Medianlohn gegen den Homo sapiens",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Beim Schweizer Medianlohn von 6'800 Franken müsste ich 480'000 Jahre arbeiten, um das grösste Vermögen des Landes zu erreichen. Den Homo sapiens gibt es seit 300'000. Aber gut, Disziplin."
+    },
+    {
+      "id": "2026-08-20-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hinterziehung ist Nachsteuer, Fälschen ist Delikt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "100'000 Franken nicht deklarieren kostet in der Schweiz eine Nachsteuer. Strafbar wird es erst, wenn man dafür ein Dokument fälscht. Bestraft wird nicht das Verstecken. Sondern die Handschrift."
+    },
+    {
       "id": "2026-08-20-0757-28",
       "typ": "schnittmenge",
       "stichwort": "Schweizerkreuz auf Importschuh, Pass nach zwölf Jahren",
@@ -32,16 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 1,
       "text": "Schweizer Schuhe dürfen das Schweizerkreuz neu auch tragen, wenn sie im Ausland hergestellt wurden. Menschen, die hier hergestellt wurden, warten zwölf Jahre auf den Pass."
-    },
-    {
-      "id": "2026-08-20-0757-29",
-      "typ": "remix",
-      "stichwort": "Samedan: fünf Minuten vom Jet auf die Piste, Bus jede Stunde",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 10,
-      "text": "Ich brauche zwanzig Minuten von der Wohnung zum Bahnhof. Wer in Samedan mit dem Privatjet landet, steht nach fünf auf der Skipiste. Der Bus fährt jede Stunde."
     }
   ]
 }
