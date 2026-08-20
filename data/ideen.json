@@ -1,97 +1,27 @@
 {
-  "datum": "2026-08-19",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-08-20",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-19-2116-01",
+      "id": "2026-08-20-0757-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Saetze zu Bildern, Klimaberichte seit 1990",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich baue meine Sätze gerade zu Bildern um, weil Text niemand mehr liest. Bundespräsident Parmelin nennt den Hitzesommer einen Schock. Die Klimaberichte gibt es seit 1990. Als Text.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-19-2116-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kapitalismuskritik auf 1080 Pixel",
+      "stichwort": "Zentrum fuer Renitente, Adresse und Zaun",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "29 US-Bundesstaaten werfen Meta vor Gericht vor, Jugendliche süchtig zu machen. Ich schneide meine Kapitalismuskritik gerade auf 1080 Pixel, damit sie dort besser ausgespielt wird. Quadratisch. Weisser Rand. Bitte teilen.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-08-19-2116-03",
-      "typ": "schnittmenge",
-      "stichwort": "Verwaltungsrat findet die Kachel hübsch gesetzt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Ich sitze im Verwaltungsrat. Beruhigend, dass die Empörung über uns jetzt hübsch gesetzt ist: weisse Kachel, 22 Wörter, Karussell. Unseren Geschäftsbericht liest keiner. 180 Seiten. Ohne Bild.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Gute Nachricht aus dem Bund: «Renitente» Asylsuchende bekommen in Solothurn ein eigenes Zentrum. Wer sich nach Jahren im Verfahren wehrt, kriegt endlich eine Adresse. Und einen Zaun."
     },
     {
-      "id": "2026-08-19-2116-06",
+      "id": "2026-08-20-0757-04",
       "typ": "politisch-aktuell",
-      "stichwort": "zwanzig Minuten Werkstatt gegen 2500 Franken Mittwoch",
+      "stichwort": "halbe Million Ibérico, Eigentum meines zuerst",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Zwanzig Minuten baue ich an einer Slide über Lohnungleichheit. Sergio Ermotti verdient in derselben Zeit rund 2'500 Franken. Ich nenne das Werkstatt. Er nennt das Mittwoch.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-19-2116-12",
-      "typ": "persönlich",
-      "stichwort": "14'151 Leute, ein Hallenstadion vorgelesen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich habe mit fünf Bildern 14'151 Leute erreicht, 73 Prozent kannten mich nicht. Das ist ein voll besetztes Hallenstadion, dem ich meine eigenen Sätze von gestern vorlese. Niemand hustet.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-19-2116-36",
-      "typ": "persönlich",
-      "stichwort": "Bild fuer den Post, Helikopterplatz fuer Trump",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich brauche für jeden Post ein Bild, sonst sehen ihn 200 Leute. Trump baut sich dafür einen Helikopterplatz vor das Weisse Haus. Dasselbe Problem. Er löst es mit Beton.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "format": 13,
+      "text": "Ich bin Gastronom in Zürich und verliere eine halbe Million pro Jahr: Gläser, WC-Ringe, ganze Ibérico-Schinken. Endlich versteht das Land, dass Eigentum Schutz braucht. Meines zuerst."
     }
   ]
 }
