@@ -1,57 +1,55 @@
 {
-  "stand": "2026-08-20T08:05:07+02:00",
-  "lauf": "0805",
+  "stand": "2026-08-20T17:00:58+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0805-1",
-      "titel": "Prinz Harry und Meghan kehren wohl nach Großbritannien zurück",
-      "was": "Prinz Harry und Meghan kehren wohl nach Großbritannien zurück",
-      "richtung": "",
+      "id": "1700-1",
+      "titel": "Nach sechs Jahren im Exil: Prinz Harry und Meghan kehren laut Berichten nach Grossbritannien zurück",
+      "was": "Harry und Meghan mit Gepäck und Kindern bei einer Ankunft in England",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: der Auszug wurde als Befreiung verkauft, die Rückkehr soll auch eine sein.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Tagesschau",
+      "quelle": "NZZ",
       "auch_bei": [
         "20 Minuten",
         "SRF",
-        "Spiegel"
-      ],
-      "artikel": "https://www.tagesschau.de/ausland/europa/harry-meghan-rueckkehr-grossbritannien-100.html",
-      "bild": "https://images.tagesschau.de/image/f608f347-0177-4bf9-955e-a54940780659/AAABoB2jSY4/AAABnSSvrFg/16x9-big/harry-meghan-266.jpg?width=1280",
-      "zeit": "2026-08-20T07:27+02:00"
-    },
-    {
-      "id": "0805-2",
-      "titel": "Britische Royals – Harry und Meghan wollen zurück nach Grossbritannien",
-      "was": "Britische Royals, Harry und Meghan wollen zurück nach Grossbritannien",
-      "richtung": "",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "SRF",
-      "auch_bei": [
-        "20 Minuten",
         "Spiegel",
-        "Tagesschau"
-      ],
-      "artikel": "https://www.srf.ch/news/international/britische-royals-harry-und-meghan-wollen-zurueck-nach-grossbritannien",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/5f92efc.jpg",
-      "zeit": "2026-08-20T03:24+02:00"
-    },
-    {
-      "id": "0805-3",
-      "titel": "Natalie Harp und Donald Trump: Das ist seine ergebenste Dienerin",
-      "was": "Natalie Harp und Donald Trump: Das ist seine ergebenste Dienerin",
-      "richtung": "",
-      "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
-      "auch_bei": [
         "Watson"
       ],
-      "artikel": "https://www.spiegel.de/ausland/natalie-harp-und-donald-trump-das-ist-seine-ergebenste-dienerin-a-d87f5fc5-50fa-4456-85a5-f686b9dcb04d#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/8eb5865f-db31-41fe-a78f-57e9aa868deb_w520_r2.08_fpx51_fpy24.jpg",
-      "zeit": "2026-08-20T06:41+02:00"
+      "artikel": "https://www.nzz.ch/panorama/nach-sechs-jahren-im-exil-prinz-harry-und-meghan-wollen-wohl-schon-in-den-naechsten-tagen-nach-grossbritannien-zurueckkehren-ld.10020263",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/20/8d8e2014-cd4d-49da-b351-92b83be92256.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2010,2010,x464,y0",
+      "zeit": "2026-08-20T12:39+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Staatsverschuldung der USA auf 40 Billionen Dollar gestiegen",
+      "was": "Trump gestikulierend hinter dem Rednerpult im Weissen Haus",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: 40 Billionen Schulden gegen die Pose des besten Haushälters aller Zeiten.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "20 Minuten",
+      "auch_bei": [
+        "NZZ",
+        "taz"
+      ],
+      "artikel": "https://www.20min.ch/story/neuer-rekord-staatsverschuldung-der-usa-auf-40-billionen-dollar-gestiegen-103620091",
+      "bild": "https://image.20min.ch/2026/08/20/7179c366-8a9f-47cd-bfb2-bb7f0dac9729.jpg?s=4b1a7052f3960311b2678147587f2db5",
+      "zeit": "2026-08-20T16:01+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Zurück in die Armee – Rettungssanitäter müssen wieder einrücken",
+      "was": "Rettungssanitäter in Uniform neben Rettungswagen oder bei einer Militärübung",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: derselbe Mensch fehlt zivil im Notfall und gilt militärisch als Reserve.",
+      "grund": "memetauglich",
+      "raum": "schweiz",
+      "quelle": "SRF",
+      "auch_bei": [],
+      "artikel": "https://www.srf.ch/news/dialog/zurueck-in-die-armee-rettungssanitaeter-muessen-wieder-einruecken",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/adf5a74.jpg",
+      "zeit": "2026-08-20T13:52+02:00"
     }
   ],
   "erwartet": [],
-  "hinweis": "Auswahl ohne Modell zusammengestellt, Details in tages-anstoss.log."
+  "hinweis": ""
 }
