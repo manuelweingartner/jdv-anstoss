@@ -1,51 +1,57 @@
 {
-  "stand": "2026-08-19T17:01:01+02:00",
-  "lauf": "1700",
+  "stand": "2026-08-20T08:05:07+02:00",
+  "lauf": "0805",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Nordkorea – Donald Trump: Schwester von Kim Jong Un beschwert sich über feindselige US-Politik",
-      "was": "Trump gestikuliert vor Mikrofonen, dahinter Bilder gemeinsamer Manöver mit Südkorea",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Zurückfahren einmal als grosszügiges Signal und einmal als Rückzug. Achse: Pose der Stärke gegen faktisches Nachgeben auf Zuruf.",
+      "id": "0805-1",
+      "titel": "Prinz Harry und Meghan kehren wohl nach Großbritannien zurück",
+      "was": "Prinz Harry und Meghan kehren wohl nach Großbritannien zurück",
+      "richtung": "",
       "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "Tagesschau",
+      "auch_bei": [
+        "20 Minuten",
+        "SRF",
+        "Spiegel"
+      ],
+      "artikel": "https://www.tagesschau.de/ausland/europa/harry-meghan-rueckkehr-grossbritannien-100.html",
+      "bild": "https://images.tagesschau.de/image/f608f347-0177-4bf9-955e-a54940780659/AAABoB2jSY4/AAABnSSvrFg/16x9-big/harry-meghan-266.jpg?width=1280",
+      "zeit": "2026-08-20T07:27+02:00"
+    },
+    {
+      "id": "0805-2",
+      "titel": "Britische Royals – Harry und Meghan wollen zurück nach Grossbritannien",
+      "was": "Britische Royals, Harry und Meghan wollen zurück nach Grossbritannien",
+      "richtung": "",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "SRF",
+      "auch_bei": [
+        "20 Minuten",
+        "Spiegel",
+        "Tagesschau"
+      ],
+      "artikel": "https://www.srf.ch/news/international/britische-royals-harry-und-meghan-wollen-zurueck-nach-grossbritannien",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/5f92efc.jpg",
+      "zeit": "2026-08-20T03:24+02:00"
+    },
+    {
+      "id": "0805-3",
+      "titel": "Natalie Harp und Donald Trump: Das ist seine ergebenste Dienerin",
+      "was": "Natalie Harp und Donald Trump: Das ist seine ergebenste Dienerin",
+      "richtung": "",
+      "grund": "memetauglich",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
-        "NZZ"
+        "Watson"
       ],
-      "artikel": "https://www.spiegel.de/ausland/nordkorea-donald-trump-schwester-von-kim-jong-un-beschwert-sich-ueber-feindselige-us-politik-a-7363e4bb-0350-4129-9c7a-a7bd57807f39#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/64e47ed6-c8e7-4700-8deb-da36739b3b5d_w520_r2.08_fpx36.67_fpy44.99.jpg",
-      "zeit": "2026-08-19T16:50+02:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Hitze und Trockenheit – Schweizer Alpwirtschaft wegen Trockenheit unter Druck",
-      "was": "Bauern und Kühe auf verbrannter Alpweide, Helikopter bringt Wassertank",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, Wasserflüge pro Kuh gegen die Klimabilanz des Sommers. Achse: Symptom teuer bekämpfen gegen Ursache billig ignorieren.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [
-        "NZZ"
-      ],
-      "artikel": "https://www.srf.ch/news/schweiz/hitze-und-trockenheit-schweizer-alpwirtschaft-wegen-trockenheit-unter-druck",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/deee836.jpg",
-      "zeit": "2026-08-19T15:12+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Neue Affenart im Zoo – Im Zoo Zürich leben jetzt Affen mit Stummeldaumen",
-      "was": "Bärenstummelaffen hängen faul im Geäst des Zürcher Zoogeheges",
-      "richtung": "Mechanik: Rollenrede aus Sicht der abgebildeten Affen, die den fehlenden Daumen als Fortschritt verkaufen. Achse: Evolutionsvorteil ohne Daumen gegen den menschlichen Daumen, der nur noch scrollt.",
-      "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/neue-affenart-im-zoo-im-zoo-zuerich-leben-jetzt-affen-mit-stummeldaumen",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/e2d405.jpg",
-      "zeit": "2026-08-19T13:17+02:00"
+      "artikel": "https://www.spiegel.de/ausland/natalie-harp-und-donald-trump-das-ist-seine-ergebenste-dienerin-a-d87f5fc5-50fa-4456-85a5-f686b9dcb04d#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/8eb5865f-db31-41fe-a78f-57e9aa868deb_w520_r2.08_fpx51_fpy24.jpg",
+      "zeit": "2026-08-20T06:41+02:00"
     }
   ],
   "erwartet": [],
-  "hinweis": ""
+  "hinweis": "Auswahl ohne Modell zusammengestellt, Details in tages-anstoss.log."
 }
