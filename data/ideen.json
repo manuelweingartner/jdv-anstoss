@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-20",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Gegen die Hitze soll jetzt Technik helfen: CO2 absaugen, synthetisches Kerosin. Endlich eine Lösung, die niemanden zwingt, irgendetwas zu lassen. Erfunden nirgends. Eingerechnet in jedes Klimaziel für 2050."
+    },
+    {
+      "id": "2026-08-20-1956-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizerkreuz aus Vietnam, Haltung statt Herkunft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich lasse meine Schuhe in Vietnam nähen und darf sie jetzt mit dem Schweizerkreuz bedrucken. Endlich zählt nicht die Herkunft, sondern die Haltung. Meine ist einwandfrei."
     }
   ]
 }
