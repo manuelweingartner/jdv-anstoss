@@ -1,6 +1,27 @@
 {
   "datum": "2026-08-20",
-  "hinweis": "0 von 6 da, der Rest lädt noch.",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
   "fertig": false,
-  "ideen": []
+  "ideen": [
+    {
+      "id": "2026-08-20-1956-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Autokredit gegen 100 Millionen Rohstoffkredit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich musste für 12'000 Franken Autokredit drei Lohnabrechnungen einreichen. Die ZKB gab 100 Millionen Dollar an eine Firma, gegen die wegen Betrugs ermittelt wird. Ausweiskopie nicht nötig."
+    },
+    {
+      "id": "2026-08-20-1956-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "CO2 absaugen, niemand muss etwas lassen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Gegen die Hitze soll jetzt Technik helfen: CO2 absaugen, synthetisches Kerosin. Endlich eine Lösung, die niemanden zwingt, irgendetwas zu lassen. Erfunden nirgends. Eingerechnet in jedes Klimaziel für 2050."
+    }
+  ]
 }
