@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-21",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "300 Firmen stellen in Peking humanoide Roboter für Fabriken und Läden vor. Als Arbeitgeber gefällt mir daran vor allem, dass keiner davon krank wird, schwanger wird oder eine Rente will."
+    },
+    {
+      "id": "2026-08-21-0757-29",
+      "typ": "remix",
+      "stichwort": "Küchenofferte gegen 43 Milliarden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich habe für meine Küche 12'000 Franken offeriert bekommen und 19'000 bezahlt. Ein neues AKW kostet laut Studie bis zu 43 Milliarden. Das ist die Offerte. Nicht die Rechnung."
     }
   ]
 }
