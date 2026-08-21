@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-21",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-21-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Frauenklinik-Notfall ohne Einfahrt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Ich messe beim Möbelkauf dreimal die Tür aus. Die Berner Frauenklinik hat ihren Notfall saniert, jetzt sind die Ambulanzen zu hoch für die Einfahrt. Patientinnen gehen durch die Eingangshalle."
+    },
+    {
+      "id": "2026-08-21-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bali-Urteil gegen Weltwoche-Kolumne",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Auf Bali sitzt ein Schweizer ein Jahr im Gefängnis, weil er einen religiösen Feiertag missachtet hat. Bei uns bekommt man dafür eine Kolumne. In der Weltwoche. Jede Woche."
+    },
     {
       "id": "2026-08-21-0757-23",
       "typ": "politisch-aktuell",
