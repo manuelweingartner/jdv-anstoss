@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-21-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Frauenklinik-Notfall ohne Einfahrt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 2,
-      "text": "Ich messe beim Möbelkauf dreimal die Tür aus. Die Berner Frauenklinik hat ihren Notfall saniert, jetzt sind die Ambulanzen zu hoch für die Einfahrt. Patientinnen gehen durch die Eingangshalle."
-    },
-    {
       "id": "2026-08-21-0757-02",
       "typ": "politisch-aktuell",
       "stichwort": "Bali-Urteil gegen Weltwoche-Kolumne",
@@ -21,17 +11,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Auf Bali sitzt ein Schweizer ein Jahr im Gefängnis, weil er einen religiösen Feiertag missachtet hat. Bei uns bekommt man dafür eine Kolumne. In der Weltwoche. Jede Woche."
+      "text": "Auf Bali sitzt ein Schweizer ein Jahr im Gefängnis, weil er einen religiösen Feiertag missachtet hat. Bei uns bekommt man dafür eine Kolumne. In der Weltwoche. Jede Woche.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-08-21-0757-23",
+      "id": "2026-08-21-0757-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Amt legt das Klimadossier ab",
+      "stichwort": "100'000 Franken, eine Frage der Einstellung",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich melde mich aus dem Amt: nach 62 Tagen Hitze sind es heute 18 Grad und Regen. Damit ist die Klimakrise abgeschlossen, das Dossier geht zurück ins Archiv. Wiedervorlage im Juni."
+      "text": "Moderna und Merck melden einen Erfolg gegen schwarzen Hautkrebs. Ich finde es richtig, dass er 100'000 Franken kostet: wer geheilt werden will, soll es sich leisten wollen. Eine Frage der Einstellung.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-21-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Notfall saniert, Ambulanz kommt nicht hin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Die Berner Frauenklinik hat ihren Notfall saniert, und jetzt sind die Ambulanzen zu hoch für die Zufahrt. Gebären läuft durch die Eingangshalle. Geplant. Bewilligt. Abgenommen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-08-21-0757-24",
@@ -41,7 +56,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "300 Firmen stellen in Peking humanoide Roboter für Fabriken und Läden vor. Als Arbeitgeber gefällt mir daran vor allem, dass keiner davon krank wird, schwanger wird oder eine Rente will."
+      "text": "300 Firmen stellen in Peking humanoide Roboter für Fabriken und Läden vor. Als Arbeitgeber gefällt mir daran vor allem, dass keiner davon krank wird, schwanger wird oder eine Rente will.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-08-21-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mit Gruessen, freundlichen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich zahle 2'100 Franken für 68 Quadratmeter und bedanke mich jedes Mal, wenn der Vermieter mir überhaupt schreibt. Mit Grüssen. Freundlichen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-08-21-0757-29",
@@ -51,17 +86,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 10,
-      "text": "Ich habe für meine Küche 12'000 Franken offeriert bekommen und 19'000 bezahlt. Ein neues AKW kostet laut Studie bis zu 43 Milliarden. Das ist die Offerte. Nicht die Rechnung."
-    },
-    {
-      "id": "2026-08-21-0757-30",
-      "typ": "persönlich",
-      "stichwort": "Alle zwei Jahre ein Tesla für die Vermieterin",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich zahle 2'350 Franken Miete (echtes Detail einsetzen). Alle zwei Jahre kaufe ich meiner Vermieterin damit einen Tesla. Nicht den kleinen. Bar. Ohne Anzahlung."
+      "text": "Ich habe für meine Küche 12'000 Franken offeriert bekommen und 19'000 bezahlt. Ein neues AKW kostet laut Studie bis zu 43 Milliarden. Das ist die Offerte. Nicht die Rechnung.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     }
   ]
 }
