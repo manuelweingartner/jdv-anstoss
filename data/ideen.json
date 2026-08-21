@@ -1,6 +1,27 @@
 {
   "datum": "2026-08-21",
-  "hinweis": "0 von 6 da, der Rest lädt noch.",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
   "fertig": false,
-  "ideen": []
+  "ideen": [
+    {
+      "id": "2026-08-21-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Amt legt das Klimadossier ab",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich melde mich aus dem Amt: nach 62 Tagen Hitze sind es heute 18 Grad und Regen. Damit ist die Klimakrise abgeschlossen, das Dossier geht zurück ins Archiv. Wiedervorlage im Juni."
+    },
+    {
+      "id": "2026-08-21-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "300 Roboter, keine Rente",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "300 Firmen stellen in Peking humanoide Roboter für Fabriken und Läden vor. Als Arbeitgeber gefällt mir daran vor allem, dass keiner davon krank wird, schwanger wird oder eine Rente will."
+    }
+  ]
 }
