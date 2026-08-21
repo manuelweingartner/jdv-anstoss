@@ -1,60 +1,58 @@
 {
-  "stand": "2026-08-21T08:07:06+02:00",
-  "lauf": "0806",
+  "stand": "2026-08-21T17:00:35+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0806-1",
-      "titel": "Regierungswahlen im Februar – Waadt: Parteivorstand empfiehlt Nein zu Dittli",
-      "was": "Regierungsrätin allein vor Parteigremium, Mitte-Logos im Hintergrund",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Parteitreue als Wert gegen Parteitreue als Kündigungsgrund.",
+      "id": "1700-1",
+      "titel": "Nach einem Ausraster im verlorenen WM-Final wird der Argentinier Leandro Paredes für zehn Spiele gesperrt",
+      "was": "Argentinischer Spieler im Tumult nach dem verlorenen WM-Final",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: zehn Spiele Sperre für Sekunden Kontrollverlust gegen die Folgenlosigkeit derer, die den Final drumherum organisiert haben.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "weltweit",
+      "quelle": "NZZ",
       "auch_bei": [
-        "NZZ",
+        "20 Minuten",
         "Watson"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/regierungswahlen-im-februar-waadt-parteivorstand-empfiehlt-nein-zu-dittli-1",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/f7ca62.jpg",
-      "zeit": "2026-08-21T05:47+02:00"
+      "artikel": "https://www.nzz.ch/sport/fussball/ausraster-nach-verlorenem-wm-final-zehn-spielsperren-fuer-argentinier-leandro-paredes-ld.10020586",
+      "bild": "https://img-msp-prod.nzz.ch/2026/07/21/f314bde3-681d-4752-9410-bbb737cebbc9.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2724,2724,x549,y0",
+      "zeit": "2026-08-21T16:34+02:00"
     },
     {
-      "id": "0806-2",
-      "titel": "Vor Landtagswahl: Klingbeil bei Wahlkampf in Sachsen-Anhalt",
-      "was": "Parteichef im Wahlkampfzelt, Hände schüttelnd, halbleere Reihen",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Nahbarkeit im Sommer gegen Distanz in der Regierungszeit.",
+      "id": "1700-2",
+      "titel": "Katze entlaufen – Familie verbringt 12 Tage Ferien an Raststätte",
+      "was": "Familie mit Gepäck und Katzenkorb auf einem Autobahnparkplatz",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: zwölf Tage Raststätte als Ferien gegen die Bergferien, die eigentlich gebucht waren.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Tagesschau",
+      "quelle": "20 Minuten",
       "auch_bei": [
         "Spiegel"
       ],
-      "artikel": "https://www.tagesschau.de/inland/klingbeil-sachsen-anhalt-100.html",
-      "bild": "https://images.tagesschau.de/image/f4e33adf-97ee-42f6-b8a1-dd6501365813/AAABoCCnoqM/AAABnSSvrFg/16x9-big/klingbeil-400.jpg?width=1280",
-      "zeit": "2026-08-21T05:31+02:00"
+      "artikel": "https://www.20min.ch/story/frankreich-katze-entlaufen-familie-verbringt-12-tage-ferien-an-raststaette-103620618",
+      "bild": "https://image.20min.ch/2026/08/21/3c39503f-9cce-4b47-a2bc-9f599165331a.jpg?s=21d3530ddb9fbf81e10c6e2cf7da6ebe",
+      "zeit": "2026-08-21T15:20+02:00"
     },
     {
-      "id": "0806-3",
-      "titel": "Formel-1-Legende Peter Sauber – «Die Anerkennung fehlte in der Schweiz, aber der Neid war da»",
-      "was": "Formel-1-Patron im Fahrerlager, Rennanzug-Kulisse, Team ohne seinen Namen",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Schweizer Bescheidenheit als Tugend gegen Schweizer Bescheidenheit als Missgunst.",
+      "id": "1700-3",
+      "titel": "Hochdosiertes LSD im Umlauf – mit dem Gesicht von SP-Badran drauf",
+      "was": "LSD-Filze mit dem Porträt einer SP-Nationalrätin, Zürich",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Politikerin als Trip-Vorlage gegen die Politikerin, die man im Wahlkampf nicht mal auf dem Flyer erkennt.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [],
-      "artikel": "https://www.srf.ch/formel-1-legende-peter-sauber-die-anerkennung-fehlte-in-der-schweiz-aber-der-neid-war-da",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf/d7de33.jpg",
-      "zeit": "2026-08-21T06:30+02:00"
+      "quelle": "20 Minuten",
+      "auch_bei": [
+        "Watson"
+      ],
+      "artikel": "https://www.20min.ch/story/zuerich-hochdosiertes-lsd-im-umlauf-mit-dem-gesicht-von-sp-badran-drauf-103620642",
+      "bild": "https://image.20min.ch/2026/08/21/d93a2134-05b6-4cb9-abe3-e8edfe85d76b.jpg?s=90322b9384f892504edf57420a1870ea",
+      "zeit": "2026-08-21T14:59+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute 09:00 bis 10:30",
-      "was": "Fachrunde im Studio beim Hitze-Q&A, Expertinnen und Experten vor Bildschirmen"
-    },
-    {
-      "wann": "heute tagsüber",
-      "was": "Wahlkampfauftritt in Sachsen-Anhalt vor der Landtagswahl, Bühne und Publikum"
+      "wann": "heute abends",
+      "was": "Partybilder und Regen-Elend am Openair Gampel, Publikum in Ponchos und Schlamm"
     }
   ],
   "hinweis": ""
