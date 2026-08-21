@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-21",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 10,
       "text": "Ich habe für meine Küche 12'000 Franken offeriert bekommen und 19'000 bezahlt. Ein neues AKW kostet laut Studie bis zu 43 Milliarden. Das ist die Offerte. Nicht die Rechnung."
+    },
+    {
+      "id": "2026-08-21-0757-30",
+      "typ": "persönlich",
+      "stichwort": "Alle zwei Jahre ein Tesla für die Vermieterin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich zahle 2'350 Franken Miete (echtes Detail einsetzen). Alle zwei Jahre kaufe ich meiner Vermieterin damit einen Tesla. Nicht den kleinen. Bar. Ohne Anzahlung."
     }
   ]
 }
