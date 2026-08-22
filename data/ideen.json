@@ -4,24 +4,34 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-22-0646-01",
+      "id": "2026-08-22-0646-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Zwei Franken Bleifrei, 22 Franken Kaffee",
+      "stichwort": "139 Millionen Gewinn, Filiale als Kundenwunsch",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Ich habe geflucht, weil Bleifrei 95 erstmals über zwei Franken den Liter kostet. Am Kiosk zahle ich 22 Franken für den Liter Kaffee. Ohne Petition."
+      "format": 13,
+      "text": "Ich leite die Post und melde 139 Millionen Halbjahresgewinn bei sinkenden Briefmengen. Jede geschlossene Filiale war ein Kundenwunsch, den wir endlich ernst genommen haben. Zugehört. Dann geschlossen.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-08-22-0646-02",
+      "id": "2026-08-22-0646-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Nestlé Russland, rote Linie beim Eigentum",
+      "stichwort": "Ballsaal als Sicherheitsprojekt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Nestlé droht in Russland die Enteignung. Vier Jahre Krieg hat der Konzern dort ausgehalten, jetzt ist endgültig eine rote Linie überschritten: sein Eigentum."
+      "format": 13,
+      "text": "Endlich ein Gericht, das mitdenkt: Trumps Ballsaal für 400 Millionen Dollar gilt jetzt offiziell als sicherheitsrelevant. Als Bauherr sage ich es offen: Demokratie braucht Marmor. Und eine Garderobe.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-08-22-0646-05",
@@ -31,37 +41,57 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ich habe für meine Mutter drei Stunden lang Formulare ausgefüllt, sortiert, telefoniert. In jeder Firma heisst das Sachbearbeitung und kostet 90 Franken die Stunde. Zuhause heisst es Tochter."
+      "text": "Ich habe für meine Mutter drei Stunden lang Formulare ausgefüllt, sortiert, telefoniert. In jeder Firma heisst das Sachbearbeitung und kostet 90 Franken die Stunde. Zuhause heisst es Tochter.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-22-0646-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Erbschaft schlägt Vollzeitstelle",
+      "id": "2026-08-22-0646-11",
+      "typ": "persönlich",
+      "stichwort": "Spesen auf zehn Rappen, Vincenz auf acht Jahre",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Ich rechne meine Spesen auf zehn Rappen genau ab. Nicht aus Anstand. Sondern weil ich mir keine acht Jahre Berufungsverfahren leisten kann wie Pierin Vincenz.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-22-0646-17",
+      "typ": "schnittmenge",
+      "stichwort": "Vier Buchstaben falsch, Maschine versteht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich arbeite seit 20 Jahren Vollzeit und habe damit weniger verdient, als in der Schweiz an einem einzigen Werktag steuerfrei vererbt wird. 260 Millionen. Pro Tag. Ohne Bewerbungsgespräch."
+      "format": "frei",
+      "text": "Ich tippe vier Buchstaben falsch und die Maschine versteht mich trotzdem. Bei der Invalidenversicherung heisst ein leer gelassenes Feld: abgelehnt, bitte neu einreichen. Innert 30 Tagen.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-08-22-0646-09",
-      "typ": "remix",
-      "stichwort": "117 Jahre alt, fuenfzig Jahre Rente",
+      "id": "2026-08-22-0646-18",
+      "typ": "schnittmenge",
+      "stichwort": "Feuerverbot im Wald, Rösti lässt brennen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Ich bin fast vierzig und rechne damit, bis siebzig zu arbeiten. Der aelteste Mensch der Welt ist gerade 117 geworden und bezieht seit fuenfzig Jahren Rente. Damals war noch Geld drin."
-    },
-    {
-      "id": "2026-08-22-0646-16",
-      "typ": "politisch-aktuell",
-      "stichwort": "80 Gemeinden, kein Frauenhaus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "80 Gemeinden, 5 Bezirke, eine eigene Kantonalbank, kein einziges Frauenhaus. Wer im Kanton Thurgau nachts vor ihrem Mann flieht, fährt zuerst über die Kantonsgrenze."
+      "format": 1,
+      "text": "Ich darf bei dieser Trockenheit im Wald kein Feuer machen. Albert Rösti ist seit drei Jahren für Wald und Klima zuständig und lässt beides brennen. Netto null. Ab 2050.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     }
   ]
 }
