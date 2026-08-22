@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-22",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-22-0646-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwei Franken Bleifrei, 22 Franken Kaffee",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich habe geflucht, weil Bleifrei 95 erstmals über zwei Franken den Liter kostet. Am Kiosk zahle ich 22 Franken für den Liter Kaffee. Ohne Petition."
+    },
+    {
+      "id": "2026-08-22-0646-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nestlé Russland, rote Linie beim Eigentum",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Nestlé droht in Russland die Enteignung. Vier Jahre Krieg hat der Konzern dort ausgehalten, jetzt ist endgültig eine rote Linie überschritten: sein Eigentum."
+    },
     {
       "id": "2026-08-22-0646-05",
       "typ": "politisch-aktuell",
