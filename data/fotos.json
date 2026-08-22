@@ -1,57 +1,55 @@
 {
-  "stand": "2026-08-22T08:08:31+02:00",
-  "lauf": "0807",
+  "stand": "2026-08-22T17:01:08+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0807-1",
-      "titel": "USA: Donald Trumps Ballsaal am Weißen Haus darf vorerst weiter gebaut werden",
-      "was": "Baustelle mit Goldprunk und Kränen am Weissen Haus",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: ein Bau für die Ewigkeit gegen ein Amt auf Zeit.",
+      "id": "1700-1",
+      "titel": "Handelsabkommen USA und Kanada: Keine Einigung möglich",
+      "was": "Handelsabkommen USA und Kanada: Keine Einigung möglich",
+      "richtung": "",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Spiegel",
+      "quelle": "taz",
+      "auch_bei": [
+        "NZZ",
+        "SRF",
+        "Tagesschau"
+      ],
+      "artikel": "https://taz.de/Handelsabkommen-USA-und-Kanada/!6206211/",
+      "bild": "https://taz.de/picture/8687737/948/41898483.jpeg",
+      "zeit": "2026-08-22T09:25+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: Neue US-Zölle für Kanada treten nach Scheitern von Verhandlungen in Kraft",
+      "was": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: Neue US-Zölle für Kanada treten nach Scheitern von Verhandlungen i",
+      "richtung": "",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "NZZ",
       "auch_bei": [
         "SRF",
-        "Watson"
+        "Tagesschau",
+        "taz"
       ],
-      "artikel": "https://www.spiegel.de/ausland/usa-donald-trumps-ballsaal-am-weissen-haus-darf-vorerst-weiter-gebaut-werden-a-e9ab2fe4-67da-4f91-b6f7-bd97f65ac57f#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/5e55a28e-1af4-4db2-aa5d-b475f95f387e_w520_r2.08_fpx33.33_fpy49.99.jpg",
-      "zeit": "2026-08-21T22:25+02:00"
+      "artikel": "https://www.nzz.ch/wirtschaft/trump-und-zoelle-aktuelle-news-und-hintergruende-ld.1869433",
+      "bild": "https://img-msp-prod.nzz.ch/2026/02/20/84df9e3c-57d0-4534-8f6c-cb3407271943.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4545,4545,x0,y0",
+      "zeit": "2026-08-22T06:50+02:00"
     },
     {
-      "id": "0807-2",
-      "titel": "Athletissima Lausanne – Werro auch in Lausanne nicht zu bezwingen – Moser und Ehammer 2.",
-      "was": "Schweizer Leichtathletinnen jubelnd auf dem Podest in Lausanne",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: schweizerisches Kleinreden gegen tatsächliche Dominanz.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [
-        "Watson"
-      ],
-      "artikel": "https://www.srf.ch/sport/leichtathletik/athletissima-lausanne-werro-auch-in-lausanne-nicht-zu-bezwingen-moser-und-ehammer-2",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/fad36e2.jpg",
-      "zeit": "2026-08-21T22:01+02:00"
-    },
-    {
-      "id": "0807-3",
-      "titel": "Arschbombenmeisterschaften: „Man muss nicht auf dem Arsch landen“",
-      "was": "Jury mit Wertungstafeln beobachtet Arschbombe im Freibad",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Wettkampfernst der Bewertenden gegen die Banalität der bewerteten Handlung.",
+      "id": "1700-3",
+      "titel": "«Der extreme Luxus in der Schweiz befremdet mich»",
+      "was": "«Der extreme Luxus in der Schweiz befremdet mich»",
+      "richtung": "",
       "grund": "memetauglich",
-      "raum": "",
-      "quelle": "taz",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://taz.de/Arschbombenmeisterschaften/!6202624/",
-      "bild": "https://taz.de/picture/8684873/948/wochentaz-Interview-Arschbombe-Wettbewerb.jpeg",
-      "zeit": "2026-08-21T19:56+02:00"
+      "artikel": "https://www.20min.ch/story/caroline-wahl-ueber-st-moritz-der-extreme-luxus-in-der-schweiz-befremdet-mich-103620947",
+      "bild": "https://image.20min.ch/2026/08/22/ffe2f88c-def9-4409-92dd-525f1545ae37.jpg?s=c419a311260fdcf29c8b5d6dc2173354",
+      "zeit": "2026-08-22T16:58+02:00"
     }
   ],
-  "erwartet": [
-    {
-      "wann": "heute nachmittags",
-      "was": "Bilder von den 2. Eltviller Arschbombenmeisterschaften mit Jury und Springenden"
-    }
-  ],
-  "hinweis": ""
+  "erwartet": [],
+  "hinweis": "Auswahl ohne Modell zusammengestellt, Details in tages-anstoss.log."
 }
