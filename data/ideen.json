@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-22",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 14,
       "text": "Nicht der Tumor hat Sharon Stones Ehe beendet. Sondern ein Mann, der Pflege für eine Dienstleistung hielt. Buchbar. Stundenweise."
+    },
+    {
+      "id": "2026-08-22-0757-28",
+      "typ": "schnittmenge",
+      "stichwort": "38 Billionen Weltmacht, 3800 kein Handyabo",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Die USA haben 38 Billionen Dollar Schulden und gelten als Weltmacht. Ich hatte 3'800 Franken Schulden und bekam kein Handyabo. Nicht mal Prepaid."
+    },
+    {
+      "id": "2026-08-22-0757-29",
+      "typ": "remix",
+      "stichwort": "Kriegsanteil am Gewinn nicht beweisbar",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Erdölkonzerne verdienen am Nahost-Krieg Milliarden. Eine Übergewinnsteuer gilt als undurchführbar, weil niemand beweisen kann, welcher Teil des Gewinns vom Krieg kommt. Sie selbst wissen es. Pro Barrel. Auf Rappen."
     }
   ]
 }
