@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-22",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,16 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Mir gehören drei Wohnungen, und ich finde die Renditedebatte unfair. Ich trage schliesslich das unternehmerische Risiko, dass jemand pünktlich überweist. Jeden Monat aufs Neue."
+    },
+    {
+      "id": "2026-08-22-2033-28",
+      "typ": "schnittmenge",
+      "stichwort": "6 Prozent Praemie gegen 6 Prozent Medikamentenpreis",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Steigt die Krankenkassenprämie um 6 Prozent, nennt man das Kostenentwicklung. Sinkt der Medikamentenpreis um 6 Prozent, nennt man das Ende der Forschung."
     }
   ]
 }
