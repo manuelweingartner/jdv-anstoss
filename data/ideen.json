@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-22",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-22-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "400 Millionen, Rechtsstaat mit Preisschild",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "TikTok zahlt 400 Millionen Dollar, dann stoppt die US-Justiz ihre Ermittlungen. Als Konzern beruhigt mich das: endlich ein Rechtsstaat mit Preisschild. Bezahlt. Abgehakt."
+    },
+    {
+      "id": "2026-08-22-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Befristete Wiese, temporaer seit 600 Jahren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es richtig, dass die Stadt Zürich den Fahrenden nur eine befristete Wiese verpachtet. Wer sich einrichtet, gehört ja plötzlich dazu. Temporär seit 600 Jahren."
+    },
     {
       "id": "2026-08-22-0757-21",
       "typ": "politisch-aktuell",
