@@ -10360,6 +10360,102 @@
         "anker": true
       },
       "datum": "2026-08-21"
+    },
+    {
+      "id": "2026-08-22-0646-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "139 Millionen Gewinn, Filiale als Kundenwunsch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich leite die Post und melde 139 Millionen Halbjahresgewinn bei sinkenden Briefmengen. Jede geschlossene Filiale war ein Kundenwunsch, den wir endlich ernst genommen haben. Zugehört. Dann geschlossen.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-08-22"
+    },
+    {
+      "id": "2026-08-22-0646-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ballsaal als Sicherheitsprojekt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Endlich ein Gericht, das mitdenkt: Trumps Ballsaal für 400 Millionen Dollar gilt jetzt offiziell als sicherheitsrelevant. Als Bauherr sage ich es offen: Demokratie braucht Marmor. Und eine Garderobe.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-08-22"
+    },
+    {
+      "id": "2026-08-22-0646-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pflege der Mutter als unbezahltes Praktikum",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe für meine Mutter drei Stunden lang Formulare ausgefüllt, sortiert, telefoniert. In jeder Firma heisst das Sachbearbeitung und kostet 90 Franken die Stunde. Zuhause heisst es Tochter.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-22"
+    },
+    {
+      "id": "2026-08-22-0646-11",
+      "typ": "persönlich",
+      "stichwort": "Spesen auf zehn Rappen, Vincenz auf acht Jahre",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Ich rechne meine Spesen auf zehn Rappen genau ab. Nicht aus Anstand. Sondern weil ich mir keine acht Jahre Berufungsverfahren leisten kann wie Pierin Vincenz.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-08-22"
+    },
+    {
+      "id": "2026-08-22-0646-17",
+      "typ": "schnittmenge",
+      "stichwort": "Vier Buchstaben falsch, Maschine versteht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ich tippe vier Buchstaben falsch und die Maschine versteht mich trotzdem. Bei der Invalidenversicherung heisst ein leer gelassenes Feld: abgelehnt, bitte neu einreichen. Innert 30 Tagen.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-08-22"
+    },
+    {
+      "id": "2026-08-22-0646-18",
+      "typ": "schnittmenge",
+      "stichwort": "Feuerverbot im Wald, Rösti lässt brennen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Ich darf bei dieser Trockenheit im Wald kein Feuer machen. Albert Rösti ist seit drei Jahren für Wald und Klima zuständig und lässt beides brennen. Netto null. Ab 2050.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-08-22"
     }
   ]
 }
