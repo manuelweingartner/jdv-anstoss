@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-22",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
   "fertig": true,
   "ideen": [
     {
@@ -34,6 +34,21 @@
       }
     },
     {
+      "id": "2026-08-22-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "80 Franken zu viel gegen Uebergewinn-Machbarkeitsstudie",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Wer 80 Franken zu viel Sozialhilfe bezieht, zahlt zurueck, mit Zins. Erdoelkonzerne verdienen am Nahost-Krieg Milliarden und bekommen eine Machbarkeitsstudie.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
       "id": "2026-08-22-0757-17",
       "typ": "persönlich",
       "stichwort": "Posts nach Katastrophe sortiert, Ordner heisst August",
@@ -49,48 +64,18 @@
       }
     },
     {
-      "id": "2026-08-22-0757-22",
+      "id": "2026-08-22-0757-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Nicht der Tumor, sondern der Ehemann",
+      "stichwort": "Zwölf Quadratmeter Parkplatz gegen meine Wohnung",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Nicht der Tumor hat Sharon Stones Ehe beendet. Sondern ein Mann, der Pflege für eine Dienstleistung hielt. Buchbar. Stundenweise.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-22-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "400 Millionen fuer eingestellte Ermittlungen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich habe der US-Justiz 400 Millionen Dollar gezahlt, damit sie ihre TikTok-Ermittlungen einstellt. Gerechtigkeit soll etwas kosten, sonst könnte sie sich jeder leisten. Quittung liegt bei.",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich zahle 300 Franken im Monat für zwölf Quadratmeter Parkplatz. Das ist pro Quadratmeter weniger als meine Wohnung. Mein Auto wohnt günstiger als ich. Ohne Dossier.",
       "jury": {
         "anker": true,
         "neu": true,
         "witz": true
-      }
-    },
-    {
-      "id": "2026-08-22-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwei Franken Benzin als Klimapolitik",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Bleifrei 95 kostet in der Schweiz jetzt über zwei Franken. Als Bundesrat finde ich das die eleganteste Klimapolitik, die wir nie beschliessen mussten. Kein Gesetz. Keine Abstimmung.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
       }
     }
   ]
