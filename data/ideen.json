@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-22",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Ich suche seit sieben Monaten Personal, obwohl die Arbeitslosigkeit steigt. Beruhigend, dass das am fehlenden Nachwuchs liegt und nicht an meinen 4'300 Franken brutto. Sonst müsste ich etwas ändern."
+    },
+    {
+      "id": "2026-08-22-2033-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vier Überstunden, 50'000 Vollzeitstellen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich mache jede Woche vier Überstunden gratis. Schweizweit sind das 100 Millionen Stunden im Jahr, so viel wie 50'000 Vollzeitstellen. Unbezahlt. Aber sauber erfasst."
+    },
+    {
+      "id": "2026-08-22-2033-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Arbeitsweg 3'200, Vermögensverwaltung 6'000",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Für den Weg zur Arbeit darf ich 3'200 Franken abziehen. Wer sein Vermögen verwalten lässt, 6'000. Arbeiten ist die teurere Variante. Steuerlich."
+    },
+    {
+      "id": "2026-08-22-2033-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Unternehmerisches Risiko: pünktliche Miete",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Mir gehören drei Wohnungen, und ich finde die Renditedebatte unfair. Ich trage schliesslich das unternehmerische Risiko, dass jemand pünktlich überweist. Jeden Monat aufs Neue."
     }
   ]
 }
