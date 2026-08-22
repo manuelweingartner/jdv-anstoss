@@ -1,82 +1,27 @@
 {
   "datum": "2026-08-22",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
-  "fertig": true,
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-22-0757-04",
+      "id": "2026-08-22-2033-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Befristete Wiese, temporaer seit 600 Jahren",
+      "stichwort": "1800 statt 3000 Millionaere, unbetreut in Italien",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich finde es richtig, dass die Stadt Zürich den Fahrenden nur eine befristete Wiese verpachtet. Wer sich einrichtet, gehört ja plötzlich dazu. Temporär seit 600 Jahren.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
+      "text": "Nur noch 1800 Millionäre ziehen in die Schweiz, letztes Jahr waren es 3000. Als Standortkanton sehe ich da Handlungsbedarf: 1200 Vermögende sitzen jetzt unbetreut in Italien. Ohne Ansprechperson."
     },
     {
-      "id": "2026-08-22-0757-07",
+      "id": "2026-08-22-2033-04",
       "typ": "politisch-aktuell",
-      "stichwort": "43 Prozent, irgendwer muss besitzen",
+      "stichwort": "Fachkraeftemangel bei 4300 brutto",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Dem reichsten Prozent der Schweiz gehören 43 Prozent des Vermögens. Ich finde das richtig: irgendwer muss die Wohnungen besitzen, in denen die anderen wohnen dürfen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-22-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "80 Franken zu viel gegen Uebergewinn-Machbarkeitsstudie",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Wer 80 Franken zu viel Sozialhilfe bezieht, zahlt zurueck, mit Zins. Erdoelkonzerne verdienen am Nahost-Krieg Milliarden und bekommen eine Machbarkeitsstudie.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-22-0757-17",
-      "typ": "persönlich",
-      "stichwort": "Posts nach Katastrophe sortiert, Ordner heisst August",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Ich sortiere meine Posts nicht nach Datum, sondern nach Katastrophe. Die letzten fünf gehen bis und mit Umweltminister Rösti im brennenden Wald. Der Ordner heisst August.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-22-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwölf Quadratmeter Parkplatz gegen meine Wohnung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich zahle 300 Franken im Monat für zwölf Quadratmeter Parkplatz. Das ist pro Quadratmeter weniger als meine Wohnung. Mein Auto wohnt günstiger als ich. Ohne Dossier.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "text": "Ich suche seit sieben Monaten Personal, obwohl die Arbeitslosigkeit steigt. Beruhigend, dass das am fehlenden Nachwuchs liegt und nicht an meinen 4'300 Franken brutto. Sonst müsste ich etwas ändern."
     }
   ]
 }
