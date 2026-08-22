@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-22",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-22-0646-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pflege der Mutter als unbezahltes Praktikum",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe für meine Mutter drei Stunden lang Formulare ausgefüllt, sortiert, telefoniert. In jeder Firma heisst das Sachbearbeitung und kostet 90 Franken die Stunde. Zuhause heisst es Tochter."
+    },
+    {
+      "id": "2026-08-22-0646-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Erbschaft schlägt Vollzeitstelle",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich arbeite seit 20 Jahren Vollzeit und habe damit weniger verdient, als in der Schweiz an einem einzigen Werktag steuerfrei vererbt wird. 260 Millionen. Pro Tag. Ohne Bewerbungsgespräch."
+    },
     {
       "id": "2026-08-22-0646-23",
       "typ": "politisch-aktuell",
