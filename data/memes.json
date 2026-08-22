@@ -1,46 +1,46 @@
 {
-  "stand": "2026-08-21T08:08:42+02:00",
+  "stand": "2026-08-22T08:09:47+02:00",
   "vorschlaege": [
-    {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
-      "zeilen": [
-        "Im Ausland genäht",
-        "Swissness-konform gefertigt"
-      ],
-      "warum": "die neue Kreuz-Regel ist reine Umbenennung derselben Ware, also exakt der Euphemismus-Witz",
-      "bild": "vorschlag-1.jpg"
-    },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Nein zur eigenen Regierungsrätin",
-        "Dittli zur Wiederwahl tragen",
-        "Parteivorstand Mitte Waadt"
+        "Ballsaal weiterbauen",
+        "Urteil abwarten",
+        "Supreme Court"
       ],
-      "warum": "die Partei reisst kurz vor der Wahl das Steuer weg und lässt die eigene Kandidatur liegen",
+      "warum": "das Gericht nimmt die Ausfahrt statt der geraden Strecke, genau die Figur der Entscheidung von Freitag",
+      "bild": "vorschlag-1.jpg"
+    },
+    {
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
+      "zeilen": [
+        "Milliarden dank Nahostkrieg",
+        "verbessertes Marktumfeld"
+      ],
+      "warum": "die Uebergewinne existieren nur in der vornehmen Fassung, die Steuer scheitert an der Verpackung",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Personalmangel ist meistens ein Lohnproblem"
+        "Fachkraeftemangel ist ein Lohnthema"
       ],
-      "warum": "die These, gegen die KMU-Verbände nichts Sachliches vorbringen können, während die Arbeitslosigkeit steigt",
+      "warum": "die These, der bei steigender Arbeitslosigkeit niemand widersprechen mag",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Schweizer Motorsport 1993",
-        "Eigenes Team gegen Ferrari",
-        "Schweizer Motorsport 2026",
-        "Anerkennung fehlt, Neid bleibt"
+        "Grundversorgung fuer alle",
+        "Briefkasten in jedem Dorf",
+        "139 Millionen Halbjahresgewinn",
+        "Poststelle im Volg-Regal"
       ],
-      "warum": "Sauber ist der Musterfall eines starken Frühers und eines mageren Heutes",
+      "warum": "die Post beruft sich auf ein starkes Frueher, das Heute ist der Rekordgewinn selbst",
       "bild": "vorschlag-4.jpg"
     }
   ]
