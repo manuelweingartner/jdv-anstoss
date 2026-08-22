@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-22-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "400 Millionen, Rechtsstaat mit Preisschild",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "TikTok zahlt 400 Millionen Dollar, dann stoppt die US-Justiz ihre Ermittlungen. Als Konzern beruhigt mich das: endlich ein Rechtsstaat mit Preisschild. Bezahlt. Abgehakt."
-    },
-    {
       "id": "2026-08-22-0757-04",
       "typ": "politisch-aktuell",
       "stichwort": "Befristete Wiese, temporaer seit 600 Jahren",
@@ -21,17 +11,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich finde es richtig, dass die Stadt Zürich den Fahrenden nur eine befristete Wiese verpachtet. Wer sich einrichtet, gehört ja plötzlich dazu. Temporär seit 600 Jahren."
+      "text": "Ich finde es richtig, dass die Stadt Zürich den Fahrenden nur eine befristete Wiese verpachtet. Wer sich einrichtet, gehört ja plötzlich dazu. Temporär seit 600 Jahren.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-22-0757-21",
+      "id": "2026-08-22-0757-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Zwölf Dosen Ravioli, Gas aus Frankreich",
+      "stichwort": "43 Prozent, irgendwer muss besitzen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Dem reichsten Prozent der Schweiz gehören 43 Prozent des Vermögens. Ich finde das richtig: irgendwer muss die Wohnungen besitzen, in denen die anderen wohnen dürfen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-22-0757-17",
+      "typ": "persönlich",
+      "stichwort": "Posts nach Katastrophe sortiert, Ordner heisst August",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe zwölf Dosen Ravioli im Keller. Der Bund kauft jetzt Gas in Frankreich, weil die Schweizer Speicher für den Winter zu leer sind. Einer von uns hat vorgesorgt."
+      "format": 14,
+      "text": "Ich sortiere meine Posts nicht nach Datum, sondern nach Katastrophe. Die letzten fünf gehen bis und mit Umweltminister Rösti im brennenden Wald. Der Ordner heisst August.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-22-0757-22",
@@ -41,27 +56,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 14,
-      "text": "Nicht der Tumor hat Sharon Stones Ehe beendet. Sondern ein Mann, der Pflege für eine Dienstleistung hielt. Buchbar. Stundenweise."
+      "text": "Nicht der Tumor hat Sharon Stones Ehe beendet. Sondern ein Mann, der Pflege für eine Dienstleistung hielt. Buchbar. Stundenweise.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-22-0757-25",
+      "id": "2026-08-22-0757-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Zwölf Quadratmeter Parkplatz gegen meine Wohnung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich zahle 300 Franken im Monat für zwölf Quadratmeter Parkplatz. Das ist pro Quadratmeter weniger als meine Wohnung. Mein Auto wohnt günstiger als ich. Ohne Dossier."
-    },
-    {
-      "id": "2026-08-22-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wirtschaft verdoppelt, Ferienminimum bei vier Wochen",
+      "stichwort": "400 Millionen fuer eingestellte Ermittlungen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seit 1984 hat sich die Wirtschaftsleistung der Schweiz mehr als verdoppelt. Das gesetzliche Ferienminimum liegt seither bei vier Wochen. Den Zuwachs hat jemand behalten. Kein Rätsel, wer."
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich habe der US-Justiz 400 Millionen Dollar gezahlt, damit sie ihre TikTok-Ermittlungen einstellt. Gerechtigkeit soll etwas kosten, sonst könnte sie sich jeder leisten. Quittung liegt bei.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-22-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwei Franken Benzin als Klimapolitik",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Bleifrei 95 kostet in der Schweiz jetzt über zwei Franken. Als Bundesrat finde ich das die eleganteste Klimapolitik, die wir nie beschliessen mussten. Kein Gesetz. Keine Abstimmung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
