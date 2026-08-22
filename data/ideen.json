@@ -4,6 +4,36 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-08-22-2033-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tresor im Brünigmassiv gegen Endlager seit 1972",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Im Brünigmassiv entsteht ein Tresor im Fels, in dem Vermögende ihr Gold über Generationen lagern. Ein Endlager für Atommüll suchen wir seit 1972. Beim Gold ging es sofort. Privat finanziert.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-22-2033-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "1,4 Prozent der Jugendlichen, Schusswaffen bleiben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Washington hat die Zahlungen für Behandlungen von trans Jugendlichen gestoppt, also für 1,4 Prozent der Altersgruppe. Endlich nimmt jemand die Gefahren im Kinderzimmer ernst. Schusswaffen bleiben, wo sie sind.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
       "id": "2026-08-22-2033-03",
       "typ": "politisch-aktuell",
       "stichwort": "1800 statt 3000 Millionaere, unbetreut in Italien",
@@ -11,7 +41,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Nur noch 1800 Millionäre ziehen in die Schweiz, letztes Jahr waren es 3000. Als Standortkanton sehe ich da Handlungsbedarf: 1200 Vermögende sitzen jetzt unbetreut in Italien. Ohne Ansprechperson."
+      "text": "Nur noch 1800 Millionäre ziehen in die Schweiz, letztes Jahr waren es 3000. Als Standortkanton sehe ich da Handlungsbedarf: 1200 Vermögende sitzen jetzt unbetreut in Italien. Ohne Ansprechperson.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-22-2033-04",
@@ -21,27 +56,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Ich suche seit sieben Monaten Personal, obwohl die Arbeitslosigkeit steigt. Beruhigend, dass das am fehlenden Nachwuchs liegt und nicht an meinen 4'300 Franken brutto. Sonst müsste ich etwas ändern."
-    },
-    {
-      "id": "2026-08-22-2033-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vier Überstunden, 50'000 Vollzeitstellen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich mache jede Woche vier Überstunden gratis. Schweizweit sind das 100 Millionen Stunden im Jahr, so viel wie 50'000 Vollzeitstellen. Unbezahlt. Aber sauber erfasst."
-    },
-    {
-      "id": "2026-08-22-2033-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Arbeitsweg 3'200, Vermögensverwaltung 6'000",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Für den Weg zur Arbeit darf ich 3'200 Franken abziehen. Wer sein Vermögen verwalten lässt, 6'000. Arbeiten ist die teurere Variante. Steuerlich."
+      "text": "Ich suche seit sieben Monaten Personal, obwohl die Arbeitslosigkeit steigt. Beruhigend, dass das am fehlenden Nachwuchs liegt und nicht an meinen 4'300 Franken brutto. Sonst müsste ich etwas ändern.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-22-2033-07",
@@ -51,17 +71,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Mir gehören drei Wohnungen, und ich finde die Renditedebatte unfair. Ich trage schliesslich das unternehmerische Risiko, dass jemand pünktlich überweist. Jeden Monat aufs Neue."
+      "text": "Mir gehören drei Wohnungen, und ich finde die Renditedebatte unfair. Ich trage schliesslich das unternehmerische Risiko, dass jemand pünktlich überweist. Jeden Monat aufs Neue.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-22-2033-16",
-      "typ": "politisch-aktuell",
-      "stichwort": "296'000 Einwohner, in jedem Dorf eine Feuerwehr",
+      "id": "2026-08-22-2033-11",
+      "typ": "persönlich",
+      "stichwort": "Heukontrolle an der Grenze, Herkunft und Verwendungszweck",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Der Thurgau hat 296'000 Einwohner, in jedem Dorf eine Feuerwehr und kein einziges Frauenhaus. Löschen kann hier jeder. Zuständig für Gewalt: niemand."
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich bin diesen Sommer dreimal nach Frankreich gefahren, ohne Kontrolle. Weil Heu knapp ist, kontrolliert Frankreich jetzt die Schweizer Grenze. Getrocknetes Gras wird geprüft wie ein Mensch. Herkunft. Verwendungszweck.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
