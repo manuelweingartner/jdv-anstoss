@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-22",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 4 statt 6.",
   "fertig": true,
   "ideen": [
     {
@@ -42,36 +42,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Nur noch 1800 Millionäre ziehen in die Schweiz, letztes Jahr waren es 3000. Als Standortkanton sehe ich da Handlungsbedarf: 1200 Vermögende sitzen jetzt unbetreut in Italien. Ohne Ansprechperson.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-22-2033-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fachkraeftemangel bei 4300 brutto",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich suche seit sieben Monaten Personal, obwohl die Arbeitslosigkeit steigt. Beruhigend, dass das am fehlenden Nachwuchs liegt und nicht an meinen 4'300 Franken brutto. Sonst müsste ich etwas ändern.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-22-2033-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Unternehmerisches Risiko: pünktliche Miete",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Mir gehören drei Wohnungen, und ich finde die Renditedebatte unfair. Ich trage schliesslich das unternehmerische Risiko, dass jemand pünktlich überweist. Jeden Monat aufs Neue.",
       "jury": {
         "witz": true,
         "anker": true,
