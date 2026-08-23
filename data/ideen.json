@@ -4,6 +4,36 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-08-23-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Betreibungsauszug 17 Franken, Vermieter belegt nichts",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe für eine Dreizimmerwohnung einen Betreibungsauszug für 17 Franken gekauft und ein Motivationsschreiben geschrieben. Der Vermieter musste nichts belegen. Nicht mal, dass es die Wohnung gibt."
+    },
+    {
+      "id": "2026-08-23-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "434 Milliarden zu Hause, mehr als Pharma, Banken und Uhren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Zu Hause wird in der Schweiz für 434 Milliarden Franken gearbeitet, mehr als Pharma, Banken und Uhren zusammen. Eine Lohnrunde gab es nie. Nur Blumen im Mai."
+    },
+    {
+      "id": "2026-08-23-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Viereinhalb Jahre Unterschied, Rentenalter 67",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Im reichsten Fünftel der Schweiz lebt man viereinhalb Jahre länger als im ärmsten. Rentenalter 67 heisst für mich Ruhestand. Für den Maurer heisst es Beerdigung."
+    },
+    {
       "id": "2026-08-23-0757-08",
       "typ": "schnittmenge",
       "stichwort": "31 Tage ohne Auto als Challenge",
@@ -32,36 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 15,
       "text": "Der Kanton Thurgau hat eine eigene Kantonalbank, eine eigene Polizei und zwei Löwen im Wappen. Ein eigenes Frauenhaus hat er nicht. Die Löwen sind seit 1803 im Dienst."
-    },
-    {
-      "id": "2026-08-23-0757-17",
-      "typ": "persönlich",
-      "stichwort": "Fuenf eigene Posts, vier nächsten Sommer wortgleich",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Ich habe meine letzten fünf Posts durchgeschaut, um Bilder daraus zu machen. Vier davon kann ich nächsten Sommer wortgleich nochmal posten. Bei den Klimazielen nennt man das Planungssicherheit."
-    },
-    {
-      "id": "2026-08-23-0757-18",
-      "typ": "persönlich",
-      "stichwort": "Sieben Jahre ECO gegen zehn Minuten Rollzeit",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren im ECO-Programm, aus Prinzip. Ein Privatjet holt diese Ersparnis in zehn Minuten Rollzeit zurück. Aus Prinzip."
-    },
-    {
-      "id": "2026-08-23-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "2630 Shampoos gegen 263 Kilo Kokain",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Ich darf 100 Milliliter Shampoo ins Flugzeug nehmen. Ein Rentnerpaar hat 263 Kilo Kokain über den Atlantik gesegelt. Das sind 2630 Shampoos. Handgepäck wäre nicht durchgekommen."
     }
   ]
 }
