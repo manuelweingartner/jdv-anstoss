@@ -10536,6 +10536,103 @@
         "witz": true
       },
       "datum": "2026-08-22"
+    },
+    {
+      "id": "2026-08-22-214815-v1",
+      "typ": "politisch-aktuell",
+      "stichwort": "Variante zu: 1,4 Prozent der Jugendlichen, Schusswaffen bleiben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Washington stoppt die Behandlung von 1,4 Prozent der Jugendlichen. Die Schusswaffen bleiben, wo sie sind.",
+      "datum": "2026-08-22"
+    },
+    {
+      "id": "2026-08-22-214815-v2",
+      "typ": "politisch-aktuell",
+      "stichwort": "Variante zu: 1,4 Prozent der Jugendlichen, Schusswaffen bleiben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Washington schützt Kinder jetzt vor 1,4 Prozent von ihnen. Der Waffenschrank im Flur bleibt unangetastet.",
+      "datum": "2026-08-22"
+    },
+    {
+      "id": "2026-08-22-214815-v3",
+      "typ": "politisch-aktuell",
+      "stichwort": "Variante zu: 1,4 Prozent der Jugendlichen, Schusswaffen bleiben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Washington findet Hormone bei Jugendlichen bedenklich. Sturmgewehre ab 18, Pubertätsblocker nie.",
+      "datum": "2026-08-22"
+    },
+    {
+      "id": "2026-08-22-2033-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tresor im Brünigmassiv gegen Endlager seit 1972",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Im Brünigmassiv entsteht ein Tresor im Fels, in dem Vermögende ihr Gold über Generationen lagern. Ein Endlager für Atommüll suchen wir seit 1972. Beim Gold ging es sofort. Privat finanziert.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-22"
+    },
+    {
+      "id": "2026-08-22-2033-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "1,4 Prozent der Jugendlichen, Schusswaffen bleiben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Washington hat die Zahlungen für Behandlungen von trans Jugendlichen gestoppt, also für 1,4 Prozent der Altersgruppe. Endlich nimmt jemand die Gefahren im Kinderzimmer ernst. Schusswaffen bleiben, wo sie sind.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-22"
+    },
+    {
+      "id": "2026-08-22-2033-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "1800 statt 3000 Millionaere, unbetreut in Italien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Nur noch 1800 Millionäre ziehen in die Schweiz, letztes Jahr waren es 3000. Als Standortkanton sehe ich da Handlungsbedarf: 1200 Vermögende sitzen jetzt unbetreut in Italien. Ohne Ansprechperson.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-08-22"
+    },
+    {
+      "id": "2026-08-22-2033-11",
+      "typ": "persönlich",
+      "stichwort": "Heukontrolle an der Grenze, Herkunft und Verwendungszweck",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich bin diesen Sommer dreimal nach Frankreich gefahren, ohne Kontrolle. Weil Heu knapp ist, kontrolliert Frankreich jetzt die Schweizer Grenze. Getrocknetes Gras wird geprüft wie ein Mensch. Herkunft. Verwendungszweck.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-22"
     }
   ]
 }
