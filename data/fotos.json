@@ -1,55 +1,60 @@
 {
-  "stand": "2026-08-22T17:01:08+02:00",
-  "lauf": "1700",
+  "stand": "2026-08-23T08:12:22+02:00",
+  "lauf": "0811",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Handelsabkommen USA und Kanada: Keine Einigung möglich",
-      "was": "Handelsabkommen USA und Kanada: Keine Einigung möglich",
-      "richtung": "",
+      "id": "0811-1",
+      "titel": "Fifa: Gianni Infantino reist trotz Ausladung zu Jugendturnier in der Karibik",
+      "was": "Infantino bei Ankunft und Handschlag am Karibik-Jugendturnier, Funktionäre im Halbkreis",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Einladung als blosse Formsache gegen Anwesenheit als Machtbeweis.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "taz",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "NZZ",
-        "SRF",
-        "Tagesschau"
+        "Watson"
       ],
-      "artikel": "https://taz.de/Handelsabkommen-USA-und-Kanada/!6206211/",
-      "bild": "https://taz.de/picture/8687737/948/41898483.jpeg",
-      "zeit": "2026-08-22T09:25+02:00"
+      "artikel": "https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-reist-trotz-ausladung-zu-jugendturnier-in-der-karibik-a-15dd9bb3-336f-480e-bd14-f7d69a6349d5#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/4e91438a-87b0-479e-8cb8-6d9c81bd0939_w520_r2.08_fpx66.59_fpy50.jpg",
+      "zeit": "2026-08-23T03:32+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: Neue US-Zölle für Kanada treten nach Scheitern von Verhandlungen in Kraft",
-      "was": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: Neue US-Zölle für Kanada treten nach Scheitern von Verhandlungen i",
-      "richtung": "",
+      "id": "0811-2",
+      "titel": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
+      "was": "Humanoider Roboter sprintet auf Tartanbahn, Techniker mit Fernsteuerung daneben",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Maschinenrekord als Fortschritt gegen den Sinn einer menschlichen Bestleistung.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "NZZ",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "SRF",
-        "Tagesschau",
-        "taz"
+        "Spiegel"
       ],
-      "artikel": "https://www.nzz.ch/wirtschaft/trump-und-zoelle-aktuelle-news-und-hintergruende-ld.1869433",
-      "bild": "https://img-msp-prod.nzz.ch/2026/02/20/84df9e3c-57d0-4534-8f6c-cb3407271943.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4545,4545,x0,y0",
-      "zeit": "2026-08-22T06:50+02:00"
+      "artikel": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html",
+      "bild": "https://images.tagesschau.de/image/0d60d5c3-1218-440c-98b6-997d94c1cd05/AAABoCryuF0/AAABnSSvrFg/16x9-big/roboter-laeuft-100.jpg?width=1280",
+      "zeit": "2026-08-22T21:29+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "«Der extreme Luxus in der Schweiz befremdet mich»",
-      "was": "«Der extreme Luxus in der Schweiz befremdet mich»",
-      "richtung": "",
+      "id": "0811-3",
+      "titel": "Weinlese im Hochsommer – Hitze sorgt für ungewöhnlich frühe Traubenernte in der Schweiz",
+      "was": "Winzerinnen ernten Trauben im Hochsommer, Kisten und flimmernde Hitze im Rebberg",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Klimafolge im Rebberg gegen Jahrhundertjahrgang in der Vermarktung.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/caroline-wahl-ueber-st-moritz-der-extreme-luxus-in-der-schweiz-befremdet-mich-103620947",
-      "bild": "https://image.20min.ch/2026/08/22/ffe2f88c-def9-4409-92dd-525f1545ae37.jpg?s=c419a311260fdcf29c8b5d6dc2173354",
-      "zeit": "2026-08-22T16:58+02:00"
+      "artikel": "https://www.srf.ch/news/dialog/weinlese-im-hochsommer-hitze-sorgt-fuer-ungewoehnlich-fruehe-traubenernte-in-der-schweiz",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/687f0a.jpg",
+      "zeit": "2026-08-22T17:57+02:00"
     }
   ],
-  "erwartet": [],
-  "hinweis": "Auswahl ohne Modell zusammengestellt, Details in tages-anstoss.log."
+  "erwartet": [
+    {
+      "wann": "heute tagsüber",
+      "was": "Weitere Wettbewerbsbilder von der Roboter-WM in China, Roboter neben Betreuern"
+    },
+    {
+      "wann": "heute, offener Zeitpunkt",
+      "was": "Ankunfts- und Tribünenbilder von Infantino beim Jugendturnier in der Karibik"
+    }
+  ],
+  "hinweis": ""
 }
