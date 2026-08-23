@@ -1,59 +1,56 @@
 {
-  "stand": "2026-08-23T08:12:22+02:00",
-  "lauf": "0811",
+  "stand": "2026-08-23T17:00:27+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0811-1",
-      "titel": "Fifa: Gianni Infantino reist trotz Ausladung zu Jugendturnier in der Karibik",
-      "was": "Infantino bei Ankunft und Handschlag am Karibik-Jugendturnier, Funktionäre im Halbkreis",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Einladung als blosse Formsache gegen Anwesenheit als Machtbeweis.",
+      "id": "1700-1",
+      "titel": "Erling Haaland überrascht mit kurzen Haaren",
+      "was": "Haaland mit rasiertem Kopf, Nahaufnahme in Trainingskleidung",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Weltweite Aufmerksamkeit für zwei Zentimeter Haar gegen alles, was gleichzeitig gemeldet wird.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
+        "SRF",
         "Watson"
       ],
-      "artikel": "https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-reist-trotz-ausladung-zu-jugendturnier-in-der-karibik-a-15dd9bb3-336f-480e-bd14-f7d69a6349d5#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/4e91438a-87b0-479e-8cb8-6d9c81bd0939_w520_r2.08_fpx66.59_fpy50.jpg",
-      "zeit": "2026-08-23T03:32+02:00"
+      "artikel": "https://www.spiegel.de/sport/fussball/erling-haaland-ueberrascht-mit-kurzen-haaren-a-8ce81ee9-9d6a-4ebf-8a61-26520809ec79#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/3d2cf376-a415-495f-93d6-5a9fa8c896d9_w520_r2.08_fpx57.14_fpy44.97.jpg",
+      "zeit": "2026-08-23T13:32+02:00"
     },
     {
-      "id": "0811-2",
-      "titel": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
-      "was": "Humanoider Roboter sprintet auf Tartanbahn, Techniker mit Fernsteuerung daneben",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Maschinenrekord als Fortschritt gegen den Sinn einer menschlichen Bestleistung.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Tagesschau",
-      "auch_bei": [
-        "Spiegel"
-      ],
-      "artikel": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html",
-      "bild": "https://images.tagesschau.de/image/0d60d5c3-1218-440c-98b6-997d94c1cd05/AAABoCryuF0/AAABnSSvrFg/16x9-big/roboter-laeuft-100.jpg?width=1280",
-      "zeit": "2026-08-22T21:29+02:00"
-    },
-    {
-      "id": "0811-3",
-      "titel": "Weinlese im Hochsommer – Hitze sorgt für ungewöhnlich frühe Traubenernte in der Schweiz",
-      "was": "Winzerinnen ernten Trauben im Hochsommer, Kisten und flimmernde Hitze im Rebberg",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Klimafolge im Rebberg gegen Jahrhundertjahrgang in der Vermarktung.",
+      "id": "1700-2",
+      "titel": "«On va toujours être avec vous!»: Der Zürcher Stadtpräsident wird in Strassburg wie ein Pop-Star empfangen",
+      "was": "Zürcher Stadtpräsidium beim Hirsebrei-Empfang in Strassburg, jubelnde Menge",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Historische Städtefreundschaft mit Topf Brei gegen die realen Kompetenzen einer Stadtregierung.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/dialog/weinlese-im-hochsommer-hitze-sorgt-fuer-ungewoehnlich-fruehe-traubenernte-in-der-schweiz",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/687f0a.jpg",
-      "zeit": "2026-08-22T17:57+02:00"
+      "artikel": "https://www.nzz.ch/zuerich/hirsebreifahrt-von-zuerich-nach-strassburg-raphael-golta-wird-bejubelt-ld.10020508",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/23/ddf60bac-934b-417c-aba6-ebd247cbb5f9.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5464,5464,x1364,y0",
+      "zeit": "2026-08-23T16:35+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Weltroboterspiele in Peking: Schnell wie Usain Bolt, dann schneiden sie Gurken",
+      "was": "Humanoide Roboter beim Sprint und beim Gurkenschneiden in Peking",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Weltrekord als Fortschrittsbeweis gegen Küchenhilfe als tatsächliches Einsatzgebiet.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "Spiegel",
+      "auch_bei": [
+        "SRF"
+      ],
+      "artikel": "https://www.spiegel.de/ausland/weltroboterspiele-in-peking-schnell-wie-usain-bolt-dann-schneiden-sie-gurken-a-abb08882-f34c-4a9a-8ded-b046de88ff7d#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/b69a350d-5402-4050-b996-2b818ff7dee4_w520_r2.08_fpx45_fpy26.41.jpg",
+      "zeit": "2026-08-23T16:02+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute tagsüber",
-      "was": "Weitere Wettbewerbsbilder von der Roboter-WM in China, Roboter neben Betreuern"
-    },
-    {
-      "wann": "heute, offener Zeitpunkt",
-      "was": "Ankunfts- und Tribünenbilder von Infantino beim Jugendturnier in der Karibik"
+      "wann": "heute ab 16:00",
+      "was": "Formel-1-Rennen in Zandvoort: Podium, Siegerpose und Verstappen-Ausfall am Streckenrand"
     }
   ],
   "hinweis": ""
