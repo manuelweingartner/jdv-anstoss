@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-23",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-23-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "31 Tage ohne Auto als Challenge",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "31 Tage ohne Auto ist in Basel gerade eine Challenge mit Anmeldung. Wer sich nie eins leisten konnte, macht das seit Jahren. Ohne Urkunde."
+    },
+    {
+      "id": "2026-08-23-0757-09",
+      "typ": "remix",
+      "stichwort": "Franchise gegen Medikamentenpreise",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Ich zahle 2'500 Franken Franchise, bevor die Kasse überhaupt hinschaut. Die Pharmalobby sagt, tiefere Medikamentenpreise würden die Forschung gefährden. Gebaut gegen Krankheit, wirksam gegen Kranke."
+    },
     {
       "id": "2026-08-23-0757-21",
       "typ": "politisch-aktuell",
