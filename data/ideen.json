@@ -24,6 +24,36 @@
       "text": "Ich zahle 2'500 Franken Franchise, bevor die Kasse überhaupt hinschaut. Die Pharmalobby sagt, tiefere Medikamentenpreise würden die Forschung gefährden. Gebaut gegen Krankheit, wirksam gegen Kranke."
     },
     {
+      "id": "2026-08-23-0757-16",
+      "typ": "persönlich",
+      "stichwort": "Kantonalbank, Polizei, zwei Loewen, kein Frauenhaus",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 15,
+      "text": "Der Kanton Thurgau hat eine eigene Kantonalbank, eine eigene Polizei und zwei Löwen im Wappen. Ein eigenes Frauenhaus hat er nicht. Die Löwen sind seit 1803 im Dienst."
+    },
+    {
+      "id": "2026-08-23-0757-17",
+      "typ": "persönlich",
+      "stichwort": "Fuenf eigene Posts, vier nächsten Sommer wortgleich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Ich habe meine letzten fünf Posts durchgeschaut, um Bilder daraus zu machen. Vier davon kann ich nächsten Sommer wortgleich nochmal posten. Bei den Klimazielen nennt man das Planungssicherheit."
+    },
+    {
+      "id": "2026-08-23-0757-18",
+      "typ": "persönlich",
+      "stichwort": "Sieben Jahre ECO gegen zehn Minuten Rollzeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren im ECO-Programm, aus Prinzip. Ein Privatjet holt diese Ersparnis in zehn Minuten Rollzeit zurück. Aus Prinzip."
+    },
+    {
       "id": "2026-08-23-0757-21",
       "typ": "politisch-aktuell",
       "stichwort": "2630 Shampoos gegen 263 Kilo Kokain",
@@ -32,36 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 19,
       "text": "Ich darf 100 Milliliter Shampoo ins Flugzeug nehmen. Ein Rentnerpaar hat 263 Kilo Kokain über den Atlantik gesegelt. Das sind 2630 Shampoos. Handgepäck wäre nicht durchgekommen."
-    },
-    {
-      "id": "2026-08-23-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pandemie beendet, Thema besiegt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Die Pandemie gilt seit drei Jahren als beendet. Tausende kämpfen weiter mit Long Covid, die meisten ohne Rente. Besiegt haben wir nicht das Virus. Sondern das Thema."
-    },
-    {
-      "id": "2026-08-23-0757-23",
-      "typ": "schnittmenge",
-      "stichwort": "Elf Monate Personalsuche, 4200 Franken freiwillig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich suche seit elf Monaten Personal und finde niemanden. Gut, dass die Arbeitslosigkeit steigt: irgendwann ist jemand verzweifelt genug für 4'200 Franken. Und Wochenenddienst. Freiwillig."
-    },
-    {
-      "id": "2026-08-23-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "99 Prozent trocken, der Zaun steht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ungarns Seen stehen auf Rekordtiefstand, 99 Prozent des Landes trocknen aus. Ich habe als Regierung vorgesorgt: Der Zaun steht. Wasser kommt von oben. Nicht über die Grenze."
     }
   ]
 }
