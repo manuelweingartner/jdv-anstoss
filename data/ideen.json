@@ -4,6 +4,21 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-08-23-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "4200 brutto, Anspruchshaltung der Arbeitslosen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich habe eine offene Stelle für 4'200 Franken brutto und trotz steigender Arbeitslosigkeit keine einzige Bewerbung. Endlich redet dieses Land über die Anspruchshaltung der Arbeitslosen. Samstagsarbeit inklusive. Freiwillig.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
       "id": "2026-08-23-0757-05",
       "typ": "politisch-aktuell",
       "stichwort": "Betreibungsauszug 17 Franken, Vermieter belegt nichts",
@@ -11,47 +26,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ich habe für eine Dreizimmerwohnung einen Betreibungsauszug für 17 Franken gekauft und ein Motivationsschreiben geschrieben. Der Vermieter musste nichts belegen. Nicht mal, dass es die Wohnung gibt."
-    },
-    {
-      "id": "2026-08-23-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "434 Milliarden zu Hause, mehr als Pharma, Banken und Uhren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Zu Hause wird in der Schweiz für 434 Milliarden Franken gearbeitet, mehr als Pharma, Banken und Uhren zusammen. Eine Lohnrunde gab es nie. Nur Blumen im Mai."
-    },
-    {
-      "id": "2026-08-23-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Viereinhalb Jahre Unterschied, Rentenalter 67",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Im reichsten Fünftel der Schweiz lebt man viereinhalb Jahre länger als im ärmsten. Rentenalter 67 heisst für mich Ruhestand. Für den Maurer heisst es Beerdigung."
-    },
-    {
-      "id": "2026-08-23-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "31 Tage ohne Auto als Challenge",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "31 Tage ohne Auto ist in Basel gerade eine Challenge mit Anmeldung. Wer sich nie eins leisten konnte, macht das seit Jahren. Ohne Urkunde."
-    },
-    {
-      "id": "2026-08-23-0757-09",
-      "typ": "remix",
-      "stichwort": "Franchise gegen Medikamentenpreise",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 2,
-      "text": "Ich zahle 2'500 Franken Franchise, bevor die Kasse überhaupt hinschaut. Die Pharmalobby sagt, tiefere Medikamentenpreise würden die Forschung gefährden. Gebaut gegen Krankheit, wirksam gegen Kranke."
+      "text": "Ich habe für eine Dreizimmerwohnung einen Betreibungsauszug für 17 Franken gekauft und ein Motivationsschreiben geschrieben. Der Vermieter musste nichts belegen. Nicht mal, dass es die Wohnung gibt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-08-23-0757-16",
@@ -61,7 +41,57 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 15,
-      "text": "Der Kanton Thurgau hat eine eigene Kantonalbank, eine eigene Polizei und zwei Löwen im Wappen. Ein eigenes Frauenhaus hat er nicht. Die Löwen sind seit 1803 im Dienst."
+      "text": "Der Kanton Thurgau hat eine eigene Kantonalbank, eine eigene Polizei und zwei Löwen im Wappen. Ein eigenes Frauenhaus hat er nicht. Die Löwen sind seit 1803 im Dienst.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-23-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "2630 Shampoos gegen 263 Kilo Kokain",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich darf 100 Milliliter Shampoo ins Flugzeug nehmen. Ein Rentnerpaar hat 263 Kilo Kokain über den Atlantik gesegelt. Das sind 2630 Shampoos. Handgepäck wäre nicht durchgekommen.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-23-0757-23",
+      "typ": "schnittmenge",
+      "stichwort": "Elf Monate Personalsuche, 4200 Franken freiwillig",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich suche seit elf Monaten Personal und finde niemanden. Gut, dass die Arbeitslosigkeit steigt: irgendwann ist jemand verzweifelt genug für 4'200 Franken. Und Wochenenddienst. Freiwillig.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-23-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "99 Prozent trocken, der Zaun steht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ungarns Seen stehen auf Rekordtiefstand, 99 Prozent des Landes trocknen aus. Ich habe als Regierung vorgesorgt: Der Zaun steht. Wasser kommt von oben. Nicht über die Grenze.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
