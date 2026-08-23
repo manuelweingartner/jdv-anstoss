@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-23",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-23-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "2630 Shampoos gegen 263 Kilo Kokain",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich darf 100 Milliliter Shampoo ins Flugzeug nehmen. Ein Rentnerpaar hat 263 Kilo Kokain über den Atlantik gesegelt. Das sind 2630 Shampoos. Handgepäck wäre nicht durchgekommen."
+    },
+    {
+      "id": "2026-08-23-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pandemie beendet, Thema besiegt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Die Pandemie gilt seit drei Jahren als beendet. Tausende kämpfen weiter mit Long Covid, die meisten ohne Rente. Besiegt haben wir nicht das Virus. Sondern das Thema."
+    },
     {
       "id": "2026-08-23-0757-23",
       "typ": "schnittmenge",
