@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-23",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 4 statt 6.",
   "fertig": true,
   "ideen": [
     {
@@ -34,21 +34,6 @@
       }
     },
     {
-      "id": "2026-08-23-0757-16",
-      "typ": "persönlich",
-      "stichwort": "Kantonalbank, Polizei, zwei Loewen, kein Frauenhaus",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 15,
-      "text": "Der Kanton Thurgau hat eine eigene Kantonalbank, eine eigene Polizei und zwei Löwen im Wappen. Ein eigenes Frauenhaus hat er nicht. Die Löwen sind seit 1803 im Dienst.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
       "id": "2026-08-23-0757-21",
       "typ": "politisch-aktuell",
       "stichwort": "2630 Shampoos gegen 263 Kilo Kokain",
@@ -64,33 +49,18 @@
       }
     },
     {
-      "id": "2026-08-23-0757-23",
-      "typ": "schnittmenge",
-      "stichwort": "Elf Monate Personalsuche, 4200 Franken freiwillig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich suche seit elf Monaten Personal und finde niemanden. Gut, dass die Arbeitslosigkeit steigt: irgendwann ist jemand verzweifelt genug für 4'200 Franken. Und Wochenenddienst. Freiwillig.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-23-0757-24",
+      "id": "2026-08-23-0757-37",
       "typ": "politisch-aktuell",
-      "stichwort": "99 Prozent trocken, der Zaun steht",
+      "stichwort": "130 Sitze, kein Bett",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ungarns Seen stehen auf Rekordtiefstand, 99 Prozent des Landes trocknen aus. Ich habe als Regierung vorgesorgt: Der Zaun steht. Wasser kommt von oben. Nicht über die Grenze.",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Thurgau leistet sich 130 Sitze im Kantonsparlament und kein einziges Frauenhaus. Bei den Sitzen achtet der Kanton streng darauf, dass keiner leer bleibt.",
       "jury": {
-        "neu": true,
         "anker": true,
-        "witz": true
+        "witz": true,
+        "neu": true
       }
     }
   ]
