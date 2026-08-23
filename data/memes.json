@@ -1,46 +1,46 @@
 {
-  "stand": "2026-08-22T08:09:47+02:00",
+  "stand": "2026-08-23T08:13:42+02:00",
   "vorschlaege": [
-    {
-      "vorlage": "abzweigung",
-      "name": "Left Exit 12 Off Ramp",
-      "zeilen": [
-        "Ballsaal weiterbauen",
-        "Urteil abwarten",
-        "Supreme Court"
-      ],
-      "warum": "das Gericht nimmt die Ausfahrt statt der geraden Strecke, genau die Figur der Entscheidung von Freitag",
-      "bild": "vorschlag-1.jpg"
-    },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Milliarden dank Nahostkrieg",
-        "verbessertes Marktumfeld"
+        "Post schliesst Filialen",
+        "Post optimiert ihre Zugangspunkte"
       ],
-      "warum": "die Uebergewinne existieren nur in der vornehmen Fassung, die Steuer scheitert an der Verpackung",
+      "warum": "139 Millionen Gewinn bei sinkenden Briefmengen entstehen genau in der Lücke zwischen den zwei Formulierungen",
+      "bild": "vorschlag-1.jpg"
+    },
+    {
+      "vorlage": "abzweigung",
+      "name": "Left Exit 12 Off Ramp",
+      "zeilen": [
+        "Rekorddividende an die Aktionäre",
+        "Steuer auf Übergewinne",
+        "Shell, Total, BP"
+      ],
+      "warum": "die Übergewinne sind schon verteilt, bevor die Debatte über ihre Besteuerung anfängt",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Fachkraeftemangel ist ein Lohnthema"
+        "Bleifrei 95 wirkt besser als Klimastrategien"
       ],
-      "warum": "die These, der bei steigender Arbeitslosigkeit niemand widersprechen mag",
+      "warum": "die These stimmt und widerspricht trotzdem allem, was politisch gerne behauptet wird",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Grundversorgung fuer alle",
-        "Briefkasten in jedem Dorf",
-        "139 Millionen Halbjahresgewinn",
-        "Poststelle im Volg-Regal"
+        "Selber Lehrlinge ausgebildet",
+        "Vier Jahre Lohn bezahlt",
+        "Stelle seit acht Monaten offen",
+        "Junior mit zehn Jahren Erfahrung"
       ],
-      "warum": "die Post beruft sich auf ein starkes Frueher, das Heute ist der Rekordgewinn selbst",
+      "warum": "der KMU-Personalmangel bei steigender Arbeitslosigkeit ist genau dieser Bruch zwischen behauptetem Früher und heutigem Anspruch",
       "bild": "vorschlag-4.jpg"
     }
   ]
