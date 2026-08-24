@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-24",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-24-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "400 Kontakte gegen Brillenverbot in der Badi",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe einer Gratis-App mein Mikrofon und 400 Kontakte gegeben, damit sie mich verjüngt. Jetzt sollen smarte Brillen in der Badi verboten werden. Wegen der Privatsphäre."
+    },
+    {
+      "id": "2026-08-24-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Shein an der Börse, Kunde und Aktionär",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Shein geht an die Börse. Endlich profitiere ich am T-Shirt für 3 Franken nicht nur als Kunde, sondern auch als Aktionär. Zwei Kanäle. Gleiche Nähmaschine."
+    },
     {
       "id": "2026-08-24-0757-03",
       "typ": "politisch-aktuell",
