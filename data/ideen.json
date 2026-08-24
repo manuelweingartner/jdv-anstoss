@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-24",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -44,14 +44,24 @@
       "text": "Ich finde es richtig, dass Frankreich wegen der Trockenheit jetzt Heu an der Schweizer Grenze kontrolliert. Endlich eine Behörde, die schneller reagiert als das Wetter. Papiere prüfen. Kontingent klären. Regen abwarten."
     },
     {
-      "id": "2026-08-24-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "Übergewinn heisst Marktumfeld, Lohnplus heisst Forderung",
+      "id": "2026-08-24-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwei Unterschriften fuer Ferien, keine fuer Ueberstunden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Für einen halben Tag Ferien brauche ich zwei Unterschriften. Dass ich abends um halb neun noch Mails beantworte, braucht keine. Freiwillig. Steht so im Vertrag."
+    },
+    {
+      "id": "2026-08-24-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sanfte Sanierung, Balkon darf bleiben",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Erdölkonzerne verdienen wegen dem Krieg im Nahen Osten Milliarden mehr. Das nennt man Marktumfeld. Wer wegen der Miete mehr Lohn will, stellt eine Forderung."
+      "format": 3,
+      "text": "Meine Nachbarin bekam einen Brief: sanfte Sanierung, neue Küche, 600 Franken mehr Miete. Sanft ist daran, dass sie den Balkon behalten darf. Die Wohnung nicht."
     }
   ]
 }
