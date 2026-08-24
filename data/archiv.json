@@ -10633,6 +10633,70 @@
         "neu": true
       },
       "datum": "2026-08-22"
+    },
+    {
+      "id": "2026-08-23-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "4200 brutto, Anspruchshaltung der Arbeitslosen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich habe eine offene Stelle für 4'200 Franken brutto und trotz steigender Arbeitslosigkeit keine einzige Bewerbung. Endlich redet dieses Land über die Anspruchshaltung der Arbeitslosen. Samstagsarbeit inklusive. Freiwillig.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-23"
+    },
+    {
+      "id": "2026-08-23-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Betreibungsauszug 17 Franken, Vermieter belegt nichts",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe für eine Dreizimmerwohnung einen Betreibungsauszug für 17 Franken gekauft und ein Motivationsschreiben geschrieben. Der Vermieter musste nichts belegen. Nicht mal, dass es die Wohnung gibt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-23"
+    },
+    {
+      "id": "2026-08-23-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "2630 Shampoos gegen 263 Kilo Kokain",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich darf 100 Milliliter Shampoo ins Flugzeug nehmen. Ein Rentnerpaar hat 263 Kilo Kokain über den Atlantik gesegelt. Das sind 2630 Shampoos. Handgepäck wäre nicht durchgekommen.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-08-23"
+    },
+    {
+      "id": "2026-08-23-0757-37",
+      "typ": "politisch-aktuell",
+      "stichwort": "130 Sitze, kein Bett",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Thurgau leistet sich 130 Sitze im Kantonsparlament und kein einziges Frauenhaus. Bei den Sitzen achtet der Kanton streng darauf, dass keiner leer bleibt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-23"
     }
   ]
 }

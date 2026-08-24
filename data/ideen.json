@@ -1,67 +1,27 @@
 {
-  "datum": "2026-08-23",
-  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 4 statt 6.",
-  "fertig": true,
+  "datum": "2026-08-24",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-23-0757-03",
+      "id": "2026-08-24-0757-03",
       "typ": "politisch-aktuell",
-      "stichwort": "4200 brutto, Anspruchshaltung der Arbeitslosen",
+      "stichwort": "Bleifrei 95 ueber zwei Franken, Kunde als Klimaretter",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich habe eine offene Stelle für 4'200 Franken brutto und trotz steigender Arbeitslosigkeit keine einzige Bewerbung. Endlich redet dieses Land über die Anspruchshaltung der Arbeitslosen. Samstagsarbeit inklusive. Freiwillig.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-23-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Betreibungsauszug 17 Franken, Vermieter belegt nichts",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe für eine Dreizimmerwohnung einen Betreibungsauszug für 17 Franken gekauft und ein Motivationsschreiben geschrieben. Der Vermieter musste nichts belegen. Nicht mal, dass es die Wohnung gibt.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-23-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "2630 Shampoos gegen 263 Kilo Kokain",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Ich darf 100 Milliliter Shampoo ins Flugzeug nehmen. Ein Rentnerpaar hat 263 Kilo Kokain über den Atlantik gesegelt. Das sind 2630 Shampoos. Handgepäck wäre nicht durchgekommen.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
+      "format": 13,
+      "text": "Bleifrei 95 kostet jetzt über zwei Franken. Als Ölkonzern freut mich vor allem, dass Klimaschutz endlich dort ankommt, wo er hingehört: an der Zapfsäule. Freiwillig. Pro Liter. Von Ihnen."
     },
     {
-      "id": "2026-08-23-0757-37",
+      "id": "2026-08-24-0757-04",
       "typ": "politisch-aktuell",
-      "stichwort": "130 Sitze, kein Bett",
+      "stichwort": "Heukontrollen an der Grenze, Duerre mit Zollformular",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Thurgau leistet sich 130 Sitze im Kantonsparlament und kein einziges Frauenhaus. Bei den Sitzen achtet der Kanton streng darauf, dass keiner leer bleibt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es richtig, dass Frankreich wegen der Trockenheit jetzt Heu an der Schweizer Grenze kontrolliert. Endlich eine Behörde, die schneller reagiert als das Wetter. Papiere prüfen. Kontingent klären. Regen abwarten."
     }
   ]
 }
