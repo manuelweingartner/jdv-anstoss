@@ -1,55 +1,63 @@
 {
-  "stand": "2026-08-24T08:06:29+02:00",
-  "lauf": "0805",
+  "stand": "2026-08-24T17:00:38+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0805-1",
-      "titel": "Wahl Fifa-Präsident – Ceferin fordert Infantino nicht heraus",
-      "was": "Uefa-Chef Ceferin und Fifa-Chef Infantino nebeneinander bei einem Verbandsanlass",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Verzicht als staatsmännische Grösse gegen Verzicht als Rechnung, die man sich erspart.",
+      "id": "1700-1",
+      "titel": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: Trump lässt Handelskrieg mit Kanada weiter eskalieren",
+      "was": "Trump am Schreibtisch oder Podium, Zolldrohung gegen Kanada",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Nachbarschaft als Freundschaft verkauft gegen Nachbarschaft als Faustpfand.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "SRF",
+        "Watson"
+      ],
+      "artikel": "https://www.nzz.ch/wirtschaft/trump-und-zoelle-aktuelle-news-und-hintergruende-ld.1869433",
+      "bild": "https://img-msp-prod.nzz.ch/2026/02/20/84df9e3c-57d0-4534-8f6c-cb3407271943.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4545,4545,x0,y0",
+      "zeit": "2026-08-24T16:09+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Umstrittener Milliardär: Klaus-Michael Kühne hinterlässt ein Erbe",
+      "was": "Porträt des Milliardärs vor Logistikkulisse, Hafenkräne und Container",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Ein Vermögen, das alles bewegt, gegen eine Vergangenheit, die nie bewegt wurde.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "taz",
+      "auch_bei": [
+        "Watson"
+      ],
+      "artikel": "https://taz.de/Umstrittener-Milliardaer/!6206791/",
+      "bild": "https://taz.de/picture/8690477/948/41916714.jpeg",
+      "zeit": "2026-08-24T16:40+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Zollstreit mit Kanada – Trump droht mit 50-Prozent-Zoll auf kanadische Autos und Stahl",
+      "was": "Zollstreit mit Kanada, Trump droht mit 50-Prozent-Zoll auf kanadische Autos und Stahl",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Rekord als Beweis der Zukunft gegen die Trümmer direkt hinter der Ziellinie.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "SRF",
       "auch_bei": [
+        "NZZ",
         "Watson"
       ],
-      "artikel": "https://www.srf.ch/sport/fussball/fussball-allgemein/wahl-fifa-praesident-ceferin-fordert-infantino-nicht-heraus",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/117f31.jpg",
-      "zeit": "2026-08-24T07:19+02:00"
-    },
-    {
-      "id": "0805-2",
-      "titel": "Donald Trump, Mark Carney und die Zölle: Auge um Auge, Dollar für Dollar",
-      "was": "Trump am Rednerpult, Kanadas Premier Carney bei einem Auftritt zum Zollstreit",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Weltwirtschaft zweier G7-Staaten gegen Nachbarschaftsstreit am Gartenzaun.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
-      "auch_bei": [
-        "Watson"
-      ],
-      "artikel": "https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar-a-ffa6f0ce-ee37-41df-9744-98a53ce1fe5f#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/c904f4fe-8a52-4f0a-8055-72324448c739_w520_r2.08_fpx30.82_fpy45.jpg",
-      "zeit": "2026-08-24T05:59+02:00"
-    },
-    {
-      "id": "0805-3",
-      "titel": "Fussball, Sprint, Tischtennis: Bei der Weltmeisterschaft für humanoide Roboter demonstriert China technologische Stärke",
-      "was": "Humanoide Roboter beim Fussballspiel und Sprint in einer Halle in Peking",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: angekündigte technologische Weltmacht gegen das, was auf dem Rasen tatsächlich zu sehen ist.",
-      "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "NZZ",
-      "auch_bei": [],
-      "artikel": "https://www.nzz.ch/international/fussball-sprint-tischtennis-bei-der-weltmeisterschaft-fuer-humanoide-roboter-demonstriert-china-technologische-staerke-ld.10020664",
-      "bild": "https://img-msp-prod.nzz.ch/2026/08/23/e704d2eb-0a36-4dff-baa4-9dde6dd33688.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3255,3255,x607,y0",
-      "zeit": "2026-08-24T05:30+02:00"
+      "artikel": "https://www.srf.ch/news/international/zollstreit-mit-kanada-trump-droht-mit-50-prozent-zoll-auf-kanadische-autos-und-stahl",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/dd02da.jpg",
+      "zeit": "2026-08-24T16:24+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, im Lauf des Tages",
-      "was": "Programmvorstellung der Linken für Sachsen-Anhalt, Podium mit Parteibanner und Kameras"
+      "wann": "heute ab 17:00",
+      "was": "Gruppenbild der CDU-Spitze nach dem Treffen zum Ende der Sommerpause, steife Reihe vor Parteilogo"
+    },
+    {
+      "wann": "heute abends",
+      "was": "Selenski mit angereisten Staatsgästen am ukrainischen Unabhängigkeitstag in Kiew, Handschlag- und Kranzchoreografie"
     }
   ],
   "hinweis": ""
