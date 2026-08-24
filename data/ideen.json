@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-24",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -64,33 +64,33 @@
       }
     },
     {
-      "id": "2026-08-24-0757-24",
-      "typ": "schnittmenge",
-      "stichwort": "Resilienz-Training mit Znüni",
+      "id": "2026-08-24-0757-18",
+      "typ": "persönlich",
+      "stichwort": "340 Franken Fenster, Fassade seit 1998",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Meinem Team habe ich ein Resilienz-Training geschenkt: fünf Schritte, 90 Minuten, Znüni inklusive. Zwei Stellen streiche ich trotzdem. Resilient sind sie jetzt ja.",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Ich putze meine Fenster nicht, es regnet ja sowieso. Bei der Wohnungsabgabe kostet mich das 340 Franken. Die Verwaltung streicht die Fassade seit 1998 nicht. Gratis.",
       "jury": {
         "anker": true,
-        "neu": true,
+        "neu": false,
         "witz": true
       }
     },
     {
-      "id": "2026-08-24-0757-25",
+      "id": "2026-08-24-0757-22",
       "typ": "politisch-aktuell",
-      "stichwort": "Formular für die Senkung, Erhöhung portofrei",
+      "stichwort": "Erpresserbrief als Medienkonferenz",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Für eine Mietzinssenkung musste ich ein Formular ausfüllen, Belege beilegen und 30 Tage warten. Die Erhöhung kam von selbst. Pünktlich. Portofrei.",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Schweizer Pharmakonzerne warnen, wegen des Preisdrucks aus den USA gebe es hier bald keine neuen Medikamente mehr. Der einzige Erpresserbrief des Landes, der als Medienkonferenz durchgeht.",
       "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
+        "anker": false,
+        "neu": true,
+        "witz": true
       }
     }
   ]
