@@ -1,46 +1,46 @@
 {
-  "stand": "2026-08-23T08:13:42+02:00",
+  "stand": "2026-08-24T08:07:35+02:00",
   "vorschlaege": [
     {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "Post schliesst Filialen",
-        "Post optimiert ihre Zugangspunkte"
+        "Das Problem in der Badi war nie die Brille"
       ],
-      "warum": "139 Millionen Gewinn bei sinkenden Briefmengen entstehen genau in der Lücke zwischen den zwei Formulierungen",
+      "warum": "die These bittet um Widerspruch, den niemand liefern kann, weil dort seit Jahren Handys filmen",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Rekorddividende an die Aktionäre",
-        "Steuer auf Übergewinne",
-        "Shell, Total, BP"
+        "Bin nicht interessiert",
+        "Gegen Infantino antreten",
+        "Aleksander Ceferin"
       ],
-      "warum": "die Übergewinne sind schon verteilt, bevor die Debatte über ihre Besteuerung anfängt",
+      "warum": "Ceferins Rueckzug ist ein Kurswechsel in der letzten Sekunde vor der Kandidatur",
       "bild": "vorschlag-2.jpg"
     },
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Bleifrei 95 wirkt besser als Klimastrategien"
+        "Wir zahlen zu wenig",
+        "Akuter Fachkraeftemangel im Gewerbe"
       ],
-      "warum": "die These stimmt und widerspricht trotzdem allem, was politisch gerne behauptet wird",
+      "warum": "derselbe Sachverhalt, einmal schlicht benannt und einmal als Verbandsvokabular verpackt",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Selber Lehrlinge ausgebildet",
-        "Vier Jahre Lohn bezahlt",
-        "Stelle seit acht Monaten offen",
-        "Junior mit zehn Jahren Erfahrung"
+        "Zustellung bis Mittag",
+        "Poststelle im Dorf",
+        "139 Millionen Gewinn",
+        "Briefkasten am Dorfeingang"
       ],
-      "warum": "der KMU-Personalmangel bei steigender Arbeitslosigkeit ist genau dieser Bruch zwischen behauptetem Früher und heutigem Anspruch",
+      "warum": "die Post erzaehlt Rekordgewinn, wo die Figur den Vergleich mit dem alten Service erzwingt",
       "bild": "vorschlag-4.jpg"
     }
   ]
