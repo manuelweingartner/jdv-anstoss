@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-24",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich finde es richtig, dass Frankreich wegen der Trockenheit jetzt Heu an der Schweizer Grenze kontrolliert. Endlich eine Behörde, die schneller reagiert als das Wetter. Papiere prüfen. Kontingent klären. Regen abwarten."
+    },
+    {
+      "id": "2026-08-24-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "Übergewinn heisst Marktumfeld, Lohnplus heisst Forderung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Erdölkonzerne verdienen wegen dem Krieg im Nahen Osten Milliarden mehr. Das nennt man Marktumfeld. Wer wegen der Miete mehr Lohn will, stellt eine Forderung."
     }
   ]
 }
