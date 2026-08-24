@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich habe einer Gratis-App mein Mikrofon und 400 Kontakte gegeben, damit sie mich verjüngt. Jetzt sollen smarte Brillen in der Badi verboten werden. Wegen der Privatsphäre."
+      "text": "Ich habe einer Gratis-App mein Mikrofon und 400 Kontakte gegeben, damit sie mich verjüngt. Jetzt sollen smarte Brillen in der Badi verboten werden. Wegen der Privatsphäre.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-08-24-0757-02",
@@ -21,7 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Shein geht an die Börse. Endlich profitiere ich am T-Shirt für 3 Franken nicht nur als Kunde, sondern auch als Aktionär. Zwei Kanäle. Gleiche Nähmaschine."
+      "text": "Shein geht an die Börse. Endlich profitiere ich am T-Shirt für 3 Franken nicht nur als Kunde, sondern auch als Aktionär. Zwei Kanäle. Gleiche Nähmaschine.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-08-24-0757-03",
@@ -31,27 +41,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Bleifrei 95 kostet jetzt über zwei Franken. Als Ölkonzern freut mich vor allem, dass Klimaschutz endlich dort ankommt, wo er hingehört: an der Zapfsäule. Freiwillig. Pro Liter. Von Ihnen."
-    },
-    {
-      "id": "2026-08-24-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Heukontrollen an der Grenze, Duerre mit Zollformular",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich finde es richtig, dass Frankreich wegen der Trockenheit jetzt Heu an der Schweizer Grenze kontrolliert. Endlich eine Behörde, die schneller reagiert als das Wetter. Papiere prüfen. Kontingent klären. Regen abwarten."
-    },
-    {
-      "id": "2026-08-24-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwei Unterschriften fuer Ferien, keine fuer Ueberstunden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Für einen halben Tag Ferien brauche ich zwei Unterschriften. Dass ich abends um halb neun noch Mails beantworte, braucht keine. Freiwillig. Steht so im Vertrag."
+      "text": "Bleifrei 95 kostet jetzt über zwei Franken. Als Ölkonzern freut mich vor allem, dass Klimaschutz endlich dort ankommt, wo er hingehört: an der Zapfsäule. Freiwillig. Pro Liter. Von Ihnen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-24-0757-06",
@@ -61,7 +56,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 3,
-      "text": "Meine Nachbarin bekam einen Brief: sanfte Sanierung, neue Küche, 600 Franken mehr Miete. Sanft ist daran, dass sie den Balkon behalten darf. Die Wohnung nicht."
+      "text": "Meine Nachbarin bekam einen Brief: sanfte Sanierung, neue Küche, 600 Franken mehr Miete. Sanft ist daran, dass sie den Balkon behalten darf. Die Wohnung nicht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-08-24-0757-24",
+      "typ": "schnittmenge",
+      "stichwort": "Resilienz-Training mit Znüni",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Meinem Team habe ich ein Resilienz-Training geschenkt: fünf Schritte, 90 Minuten, Znüni inklusive. Zwei Stellen streiche ich trotzdem. Resilient sind sie jetzt ja.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-24-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Formular für die Senkung, Erhöhung portofrei",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Für eine Mietzinssenkung musste ich ein Formular ausfüllen, Belege beilegen und 30 Tage warten. Die Erhöhung kam von selbst. Pünktlich. Portofrei.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
