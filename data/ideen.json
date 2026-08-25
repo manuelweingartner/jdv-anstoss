@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-25",
-  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich finde es richtig, dass Salt und Sunrise ihre Antennen auf dem Land teilen. Endlich sparen wir gemeinsam. Zwei Netze, ein Mast, zwei Rechnungen."
+    },
+    {
+      "id": "2026-08-25-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pille danach am Bildschirm, viertes Nasenspray",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Frauen beantworten die Fragen zur Pille danach jetzt am Bildschirm statt laut am Apothekentresen. Ich hole dort diesen Monat mein viertes Nasenspray. Niemand fragt, mit wem."
+    },
+    {
+      "id": "2026-08-25-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fischotter gezaehlt, Einheimische nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Im Engadin werden die Fischotter gezählt und geschützt. Wer dort aufgewachsen ist und 3'000 Franken Miete nicht zahlen kann, heisst Strukturwandel. Wird nicht gezählt."
     }
   ]
 }
