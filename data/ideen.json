@@ -1,97 +1,17 @@
 {
-  "datum": "2026-08-24",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-08-25",
+  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-24-0757-01",
+      "id": "2026-08-25-0757-03",
       "typ": "politisch-aktuell",
-      "stichwort": "400 Kontakte gegen Brillenverbot in der Badi",
+      "stichwort": "Ein Mast, zwei Rechnungen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe einer Gratis-App mein Mikrofon und 400 Kontakte gegeben, damit sie mich verjüngt. Jetzt sollen smarte Brillen in der Badi verboten werden. Wegen der Privatsphäre.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-24-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Shein an der Börse, Kunde und Aktionär",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Shein geht an die Börse. Endlich profitiere ich am T-Shirt für 3 Franken nicht nur als Kunde, sondern auch als Aktionär. Zwei Kanäle. Gleiche Nähmaschine.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-24-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bleifrei 95 ueber zwei Franken, Kunde als Klimaretter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Bleifrei 95 kostet jetzt über zwei Franken. Als Ölkonzern freut mich vor allem, dass Klimaschutz endlich dort ankommt, wo er hingehört: an der Zapfsäule. Freiwillig. Pro Liter. Von Ihnen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-24-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Sanfte Sanierung, Balkon darf bleiben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Meine Nachbarin bekam einen Brief: sanfte Sanierung, neue Küche, 600 Franken mehr Miete. Sanft ist daran, dass sie den Balkon behalten darf. Die Wohnung nicht.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-08-24-0757-18",
-      "typ": "persönlich",
-      "stichwort": "340 Franken Fenster, Fassade seit 1998",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Ich putze meine Fenster nicht, es regnet ja sowieso. Bei der Wohnungsabgabe kostet mich das 340 Franken. Die Verwaltung streicht die Fassade seit 1998 nicht. Gratis.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-24-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Erpresserbrief als Medienkonferenz",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Schweizer Pharmakonzerne warnen, wegen des Preisdrucks aus den USA gebe es hier bald keine neuen Medikamente mehr. Der einzige Erpresserbrief des Landes, der als Medienkonferenz durchgeht.",
-      "jury": {
-        "anker": false,
-        "neu": true,
-        "witz": true
-      }
+      "text": "Ich finde es richtig, dass Salt und Sunrise ihre Antennen auf dem Land teilen. Endlich sparen wir gemeinsam. Zwei Netze, ein Mast, zwei Rechnungen."
     }
   ]
 }
