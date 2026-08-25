@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-25",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -49,21 +49,6 @@
       }
     },
     {
-      "id": "2026-08-25-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pille danach am Bildschirm, viertes Nasenspray",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Frauen beantworten die Fragen zur Pille danach jetzt am Bildschirm statt laut am Apothekentresen. Ich hole dort diesen Monat mein viertes Nasenspray. Niemand fragt, mit wem.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
       "id": "2026-08-25-0757-23",
       "typ": "politisch-aktuell",
       "stichwort": "67,1 Millionen, Journalismus nicht beteiligt",
@@ -87,6 +72,21 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Trumps Einschränkung der Briefwahl gilt vorerst, der Supreme Court hat den Stopp ausgesetzt. Ich finde das richtig: wer nicht vier Stunden ansteht, meint es nicht ernst. Krankheit ist Privatsache.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-25-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwanzig Prozent Eigenkapital oder ein Todesfall",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Für eine Eigentumswohnung brauche ich zwanzig Prozent Eigenkapital oder einen Todesfall in der Familie. Sparen tue ich trotzdem. Aus Höflichkeit.",
       "jury": {
         "anker": true,
         "witz": true,
