@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-25",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich finde es richtig, dass Salt und Sunrise ihre Antennen auf dem Land teilen. Endlich sparen wir gemeinsam. Zwei Netze, ein Mast, zwei Rechnungen."
+    },
+    {
+      "id": "2026-08-25-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "Syrien von der Terrorliste, Menschen von dort nicht",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Syrien stand seit 1979 auf der US-Liste der Terrorunterstützer und ist diese Woche gestrichen worden. Wer von dort geflohen ist, gilt bei uns weiter als Sicherheitsrisiko. Unbefristet."
+    },
+    {
+      "id": "2026-08-25-0757-09",
+      "typ": "remix",
+      "stichwort": "Hardturm: Burg schneller fertig als Stadion",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich lese seit 2003 von einem Stadion auf dem Zürcher Hardturm. Jetzt haben Archäologen dort eine ganze mittelalterliche Burganlage ausgegraben. Die stand schneller. Ohne Rekurs."
     },
     {
       "id": "2026-08-25-0757-21",
