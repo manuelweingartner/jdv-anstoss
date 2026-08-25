@@ -1,63 +1,59 @@
 {
-  "stand": "2026-08-24T17:00:38+02:00",
-  "lauf": "1700",
+  "stand": "2026-08-25T08:10:57+02:00",
+  "lauf": "0810",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: Trump lässt Handelskrieg mit Kanada weiter eskalieren",
-      "was": "Trump am Schreibtisch oder Podium, Zolldrohung gegen Kanada",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Nachbarschaft als Freundschaft verkauft gegen Nachbarschaft als Faustpfand.",
+      "id": "0810-1",
+      "titel": "Fußball-WM 1986: Maradonas »Hand Gottes«-Ball erzielt 3,35 Millionen Dollar",
+      "was": "Auktionshaus zeigt Maradonas Matchball von 1986 unter Glas mit Handschuhen",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: dieselbe Hand galt als Betrug und wird jetzt als Millionenreliquie gehandelt.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "NZZ",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "SRF",
         "Watson"
       ],
-      "artikel": "https://www.nzz.ch/wirtschaft/trump-und-zoelle-aktuelle-news-und-hintergruende-ld.1869433",
-      "bild": "https://img-msp-prod.nzz.ch/2026/02/20/84df9e3c-57d0-4534-8f6c-cb3407271943.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4545,4545,x0,y0",
-      "zeit": "2026-08-24T16:09+02:00"
+      "artikel": "https://www.spiegel.de/sport/hand-gottes-ball-aus-diego-maradonas-wm-spiel-bringt-3-35-millionen-dollar-bei-auktion-a-54825a84-9bcf-4c29-bff0-02e8018d6d5b#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/e8bd1197-d33f-4bc7-b9a6-0d6f8592ba77_w520_r2.08_fpx49.97_fpy63.96.jpg",
+      "zeit": "2026-08-25T04:32+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Umstrittener Milliardär: Klaus-Michael Kühne hinterlässt ein Erbe",
-      "was": "Porträt des Milliardärs vor Logistikkulisse, Hafenkräne und Container",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Ein Vermögen, das alles bewegt, gegen eine Vergangenheit, die nie bewegt wurde.",
+      "id": "0810-2",
+      "titel": "Spanienrundfahrt Vuelta: 3. Etappe wird nach Hagelschauer abgebrochen",
+      "was": "Radprofis im Hagel, Rennen gestoppt, Fahrer stehen in Regenjacken herum",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: durchtrainierte Härte über drei Wochen gegen zwanzig Minuten Wetter.",
       "grund": "breit",
       "raum": "",
-      "quelle": "taz",
+      "quelle": "Spiegel",
       "auch_bei": [
         "Watson"
       ],
-      "artikel": "https://taz.de/Umstrittener-Milliardaer/!6206791/",
-      "bild": "https://taz.de/picture/8690477/948/41916714.jpeg",
-      "zeit": "2026-08-24T16:40+02:00"
+      "artikel": "https://www.spiegel.de/sport/radsport/spanienrundfahrt-vuelta-3-etappe-wird-nach-hagelschauer-abgebrochen-a-e0b92b16-afce-44a8-b769-42265c5d7dd8#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/19d3e6f6-0c0a-44f1-ae55-a7d0d5f63221_w520_r2.08_fpx33.32_fpy49.97.jpg",
+      "zeit": "2026-08-25T07:22+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Zollstreit mit Kanada – Trump droht mit 50-Prozent-Zoll auf kanadische Autos und Stahl",
-      "was": "Zollstreit mit Kanada, Trump droht mit 50-Prozent-Zoll auf kanadische Autos und Stahl",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Rekord als Beweis der Zukunft gegen die Trümmer direkt hinter der Ziellinie.",
-      "grund": "breit",
-      "raum": "weltweit",
+      "id": "0810-3",
+      "titel": "Nationalphonothek Schweiz – Wo alte Tonbänder gebügelt und Schallplatten fotografiert werden",
+      "was": "Restauratorin bügelt ein altes Tonband, Schallplatten liegen unter Fotolampen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: was zu Hause Hausarbeit heisst, ist hier weltweit einzigartige Kulturrettung.",
+      "grund": "memetauglich",
+      "raum": "schweiz",
       "quelle": "SRF",
-      "auch_bei": [
-        "NZZ",
-        "Watson"
-      ],
-      "artikel": "https://www.srf.ch/news/international/zollstreit-mit-kanada-trump-droht-mit-50-prozent-zoll-auf-kanadische-autos-und-stahl",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/dd02da.jpg",
-      "zeit": "2026-08-24T16:24+02:00"
+      "auch_bei": [],
+      "artikel": "https://www.srf.ch/news/schweiz/nationalphonothek-schweiz-wo-alte-tonbaender-gebuegelt-und-schallplatten-fotografiert-werden",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/55b43b.jpg",
+      "zeit": "2026-08-25T06:27+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 17:00",
-      "was": "Gruppenbild der CDU-Spitze nach dem Treffen zum Ende der Sommerpause, steife Reihe vor Parteilogo"
+      "wann": "heute tagsüber",
+      "was": "VW-Betriebsversammlung: Vorstand auf der Bühne vor Belegschaft, Trillerpfeifen und Transparente"
     },
     {
-      "wann": "heute abends",
-      "was": "Selenski mit angereisten Staatsgästen am ukrainischen Unabhängigkeitstag in Kiew, Handschlag- und Kranzchoreografie"
+      "wann": "heute am Nachmittag",
+      "was": "nächste Vuelta-Etappe: Zielsprint, Siegerpodest mit Trikot und übergrossem Blumenstrauss"
     }
   ],
   "hinweis": ""
