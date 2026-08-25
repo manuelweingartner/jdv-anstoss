@@ -4,24 +4,19 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-25-0757-03",
+      "id": "2026-08-25-0757-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Ein Mast, zwei Rechnungen",
+      "stichwort": "Nicotinell ohne Frage, Pille danach mit Bildschirm",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich finde es richtig, dass Salt und Sunrise ihre Antennen auf dem Land teilen. Endlich sparen wir gemeinsam. Zwei Netze, ein Mast, zwei Rechnungen."
-    },
-    {
-      "id": "2026-08-25-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "Syrien von der Terrorliste, Menschen von dort nicht",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Syrien stand seit 1979 auf der US-Liste der Terrorunterstützer und ist diese Woche gestrichen worden. Wer von dort geflohen ist, gilt bei uns weiter als Sicherheitsrisiko. Unbefristet."
+      "format": 16,
+      "text": "Ich kriege in der Apotheke zwei Packungen Nicotinell, ohne dass jemand fragt. Für die Pille danach gibt es neu einen Bildschirm, damit die Fragen wenigstens niemand mithört.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-25-0757-09",
@@ -31,7 +26,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 10,
-      "text": "Ich lese seit 2003 von einem Stadion auf dem Zürcher Hardturm. Jetzt haben Archäologen dort eine ganze mittelalterliche Burganlage ausgegraben. Die stand schneller. Ohne Rekurs."
+      "text": "Ich lese seit 2003 von einem Stadion auf dem Zürcher Hardturm. Jetzt haben Archäologen dort eine ganze mittelalterliche Burganlage ausgegraben. Die stand schneller. Ohne Rekurs.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-08-25-0757-10",
@@ -41,27 +41,57 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Bei einem Netzausfall darf ich künftig offline mit der Karte zahlen, aber nur Lebensmittel, Medikamente und Treibstoff. Ich habe zwanzig Jahre Digitalisierung mitgemacht, und im Ernstfall bleibt: Essen, Pillen, Fluchtauto."
+      "text": "Bei einem Netzausfall darf ich künftig offline mit der Karte zahlen, aber nur Lebensmittel, Medikamente und Treibstoff. Ich habe zwanzig Jahre Digitalisierung mitgemacht, und im Ernstfall bleibt: Essen, Pillen, Fluchtauto.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-08-25-0757-11",
-      "typ": "persönlich",
-      "stichwort": "Kellerabteil teurer als die Wohnung",
+      "id": "2026-08-25-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pille danach am Bildschirm, viertes Nasenspray",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Frauen beantworten die Fragen zur Pille danach jetzt am Bildschirm statt laut am Apothekentresen. Ich hole dort diesen Monat mein viertes Nasenspray. Niemand fragt, mit wem.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-08-25-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "67,1 Millionen, Journalismus nicht beteiligt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich zahle 55 Franken im Monat für ein Kellerabteil von zwei Quadratmetern (echte Zahlen einsetzen). Pro Quadratmeter ist das mehr als meine Wohnung. Meine Winterreifen wohnen besser als ich. Trocken. Zentral. Unbefristet."
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich bin der Verlag hinter 20 Minuten und habe im Halbjahr 67,1 Millionen Gewinn gemacht, 70 Prozent mehr. Beruhigend: der Journalismus war daran nicht beteiligt. Nicht einmal am Rand.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-25-0757-12",
-      "typ": "persönlich",
-      "stichwort": "Neun Liter Wasser gegen den Gletscher",
+      "id": "2026-08-25-0757-24",
+      "typ": "schnittmenge",
+      "stichwort": "Briefwahl, vier Stunden anstehen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich habe neun Liter Wasser und Kerzen zuhause, wie der Bund das für Notlagen empfiehlt. In Randa ist das Gebiet gesperrt, weil ein Gletscher abbrechen könnte. Klimapolitisch sind wir also vorbereitet."
+      "text": "Trumps Einschränkung der Briefwahl gilt vorerst, der Supreme Court hat den Stopp ausgesetzt. Ich finde das richtig: wer nicht vier Stunden ansteht, meint es nicht ernst. Krankheit ist Privatsache.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
