@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-25",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -34,24 +34,34 @@
       "text": "Ich lese seit 2003 von einem Stadion auf dem Zürcher Hardturm. Jetzt haben Archäologen dort eine ganze mittelalterliche Burganlage ausgegraben. Die stand schneller. Ohne Rekurs."
     },
     {
-      "id": "2026-08-25-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pille danach am Bildschirm, viertes Nasenspray",
+      "id": "2026-08-25-0757-10",
+      "typ": "persönlich",
+      "stichwort": "Offline-Karte: Essen, Pillen, Treibstoff",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Frauen beantworten die Fragen zur Pille danach jetzt am Bildschirm statt laut am Apothekentresen. Ich hole dort diesen Monat mein viertes Nasenspray. Niemand fragt, mit wem."
+      "format": "frei",
+      "text": "Bei einem Netzausfall darf ich künftig offline mit der Karte zahlen, aber nur Lebensmittel, Medikamente und Treibstoff. Ich habe zwanzig Jahre Digitalisierung mitgemacht, und im Ernstfall bleibt: Essen, Pillen, Fluchtauto."
     },
     {
-      "id": "2026-08-25-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fischotter gezaehlt, Einheimische nicht",
+      "id": "2026-08-25-0757-11",
+      "typ": "persönlich",
+      "stichwort": "Kellerabteil teurer als die Wohnung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich zahle 55 Franken im Monat für ein Kellerabteil von zwei Quadratmetern (echte Zahlen einsetzen). Pro Quadratmeter ist das mehr als meine Wohnung. Meine Winterreifen wohnen besser als ich. Trocken. Zentral. Unbefristet."
+    },
+    {
+      "id": "2026-08-25-0757-12",
+      "typ": "persönlich",
+      "stichwort": "Neun Liter Wasser gegen den Gletscher",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Im Engadin werden die Fischotter gezählt und geschützt. Wer dort aufgewachsen ist und 3'000 Franken Miete nicht zahlen kann, heisst Strukturwandel. Wird nicht gezählt."
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich habe neun Liter Wasser und Kerzen zuhause, wie der Bund das für Notlagen empfiehlt. In Randa ist das Gebiet gesperrt, weil ein Gletscher abbrechen könnte. Klimapolitisch sind wir also vorbereitet."
     }
   ]
 }
