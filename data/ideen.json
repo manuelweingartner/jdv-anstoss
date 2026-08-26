@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-26",
-  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich leite Meta und zahle den US-Bundesstaaten 16,68 Milliarden für fehlenden Jugendschutz. Endlich ein Preis. Jetzt wissen wir, was es kostet. Und dass wir es uns leisten können."
+    },
+    {
+      "id": "2026-08-26-2235-30",
+      "typ": "persönlich",
+      "stichwort": "Faktor 50 privat, Hautkrebs versichert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich creme mich jeden Morgen mit Faktor 50 ein. Die Hautkrebs-Kontrolle kostet mich 150 Franken aus dem eigenen Sack. Vorsorgen ist Hobby. Krank sein ist versichert."
+    },
+    {
+      "id": "2026-08-26-2235-31",
+      "typ": "persönlich",
+      "stichwort": "Dachs im Blocher-Garten, erste Umverteilung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Zwanzig Minuten lang habe ich heute im Game von 20 Minuten als Dachs Christoph Blochers Rasen umgegraben. Die erste Umverteilung meines Lebens, die reibungslos lief. Ohne Übergangsfrist."
+    },
+    {
+      "id": "2026-08-26-2235-32",
+      "typ": "persönlich",
+      "stichwort": "Buchelis letzte Meteo-Sendung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Thomas Bucheli hat gestern seine letzte Meteo-Sendung moderiert. Dreissig Jahre lang war er der Einzige im Schweizer Fernsehen, der mir jeden Abend höflich sagte, dass es schlimmer wird."
     }
   ]
 }
