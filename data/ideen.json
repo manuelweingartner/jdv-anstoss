@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-26",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich finde es richtig, dass Aserbaidschan allen unter 16 die sozialen Medien verbietet. Wer nie gesehen hat, wie protestiert wird, muss es später nicht verlernen. Zum Schutz der Kinder."
+    },
+    {
+      "id": "2026-08-26-2244-30",
+      "typ": "persönlich",
+      "stichwort": "Faktor 50 im Februar, Braunwald steht still",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich trage seit 2019 im Februar Faktor 50. In Braunwald stehen die Skilifte jetzt für immer still. Meine Prognose war billiger. 12 Franken, Migros."
     }
   ]
 }
