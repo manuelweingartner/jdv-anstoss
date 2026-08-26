@@ -1,8 +1,18 @@
 {
   "datum": "2026-08-26",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-26-2244-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "0 Prozent auf Aktiengewinne, Lohn ab dem ersten Franken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Aktiengewinne besteuert die Schweiz mit 0 Prozent, Lohn ab dem ersten Franken. Richtig so: arbeiten geht freiwillig, reich sein ist Schicksal."
+    },
     {
       "id": "2026-08-26-2244-21",
       "typ": "politisch-aktuell",
