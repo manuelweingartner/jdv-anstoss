@@ -4,44 +4,49 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-26-2244-07",
+      "id": "2026-08-26-2244-02",
       "typ": "politisch-aktuell",
-      "stichwort": "0 Prozent auf Aktiengewinne, Lohn ab dem ersten Franken",
+      "stichwort": "Harry und Meghan, Rückkehrhilfe vom König",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Aktiengewinne besteuert die Schweiz mit 0 Prozent, Lohn ab dem ersten Franken. Richtig so: arbeiten geht freiwillig, reich sein ist Schicksal."
+      "text": "Harry und Meghan sind nach sechs Jahren Kalifornien zurück nach Grossbritannien gezogen. Richtig so: wer im Gastland nicht zurechtkommt, soll heimreisen. Freiwillig. Im eigenen Flugzeug. Mit Rückkehrhilfe vom König.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-26-2244-16",
-      "typ": "persönlich",
-      "stichwort": "Schutz mieten wie ein Auto",
+      "id": "2026-08-26-2244-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "16,68 Milliarden, jetzt kennen wir den Preis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Meta zahlt 16,68 Milliarden Dollar an US-Bundesstaaten, weil wir Jugendliche nicht geschützt haben. Endlich kennen wir den Preis. Planbar. Budgetierbar. Pro Kind.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-26-2244-04",
+      "typ": "schnittmenge",
+      "stichwort": "240 Wohnungen bewilligt, bezahlbar für jemanden",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe kein eigenes Auto, ich miete eins, wenn ich eins brauche. Der Kanton Thurgau macht das mit Frauenhausplätzen. Verfügbarkeit auf Anfrage. 40 Kilometer entfernt."
-    },
-    {
-      "id": "2026-08-26-2244-17",
-      "typ": "persönlich",
-      "stichwort": "Halbe Stunde Bildwerkstatt gegen 191 mal hundert Meter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Ich brauche eine halbe Stunde, um fünf eigene Posts zu Bildern umzubauen. Der chinesische Roboter rennt in der Zeit 191 mal hundert Meter. Schneller als Bolt."
-    },
-    {
-      "id": "2026-08-26-2244-18",
-      "typ": "persönlich",
-      "stichwort": "Rösti brennt in zwei Minuten, Hitzeplan in vier Sommern",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Albert Rösti brennt bei mir auf einem Instagram-Bild, fertig in zwei Minuten. Vier Hitzesommer ohne Plan nennt der Bundesrat eine Auslegeordnung."
+      "format": 13,
+      "text": "Ich bewillige in unserer Gemeinde die Neubauten. Beruhigend, dass wir gegen die Wohnungsnot endlich etwas tun: 240 neue Wohnungen, davon 240 zum Marktpreis. Bezahlbar. Für jemanden.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-26-2244-21",
@@ -51,17 +56,42 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich habe 40 Franken Bargeld im Haus. Bei Stromausfall kann ich künftig mit der Karte offline zahlen, aber nur Lebensmittel und Medikamente. Der Untergang ist geregelt. Nach Sortiment."
+      "text": "Ich habe 40 Franken Bargeld im Haus. Bei Stromausfall kann ich künftig mit der Karte offline zahlen, aber nur Lebensmittel und Medikamente. Der Untergang ist geregelt. Nach Sortiment.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-26-2244-22",
+      "id": "2026-08-26-2244-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Mondrian 25 Jahre im Depot, Sammler oder Hinterzieher",
+      "stichwort": "16,68 Milliarden, jetzt kennen wir den Preis",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Nach 25 Jahren im Depot kommt ein Mondrian von 1920 für bis zu 30 Millionen Pfund in die Auktion. Wer hier 25 Jahre nichts vorweist, ist Steuerhinterzieher. Oder Sammler."
+      "format": 13,
+      "text": "Meta zahlt den US-Bundesstaaten 16,68 Milliarden Dollar, weil es Jugendliche nicht geschützt hat. Ich finde es richtig, dass wir zahlen: endlich wissen wir, was ein Jahrgang kostet. Budgetiert. Abgeschrieben.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-26-2244-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "46 Überstunden, beruht auf Gegenseitigkeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Ich habe 46 Überstunden auf dem Konto. Das heisst hier Vertrauensarbeitszeit, und vertraut wird darauf, dass ich sie nie einfordere. Beruht auf Gegenseitigkeit.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
