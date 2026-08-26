@@ -1,59 +1,58 @@
 {
-  "stand": "2026-08-25T08:10:57+02:00",
-  "lauf": "0810",
+  "stand": "2026-08-26T17:00:38+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0810-1",
-      "titel": "Fußball-WM 1986: Maradonas »Hand Gottes«-Ball erzielt 3,35 Millionen Dollar",
-      "was": "Auktionshaus zeigt Maradonas Matchball von 1986 unter Glas mit Handschuhen",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: dieselbe Hand galt als Betrug und wird jetzt als Millionenreliquie gehandelt.",
+      "id": "1700-1",
+      "titel": "Bundesrat will Bauern im Kampf gegen die Trockenheit mit zusätzlich 54 Millionen Franken unterstützen",
+      "was": "Bundesräte vor Medien in Bern, Karten und Trockenheitszahlen im Hintergrund",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Millionenpaket gegen ausgetrocknete Böden gegen den Umstand, dass sich Regen nicht beantragen lässt.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "20 Minuten",
+        "SRF",
+        "Watson"
+      ],
+      "artikel": "https://www.nzz.ch/schweiz/wie-will-der-bundesrat-die-schweiz-fuer-kuenftige-hitzesommer-ruesten-die-medienkonferenz-mit-albert-roesti-in-kuerze-live-ld.10021131",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/26/4a6e0843-a160-435f-ad37-df66134e6e9c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5421,5421,x1045,y0",
+      "zeit": "2026-08-26T15:47+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Prinz Harry und Meghan zurück in England: Das Paar ist wieder in Großbritannien gelandet",
+      "was": "Harry und Meghan mit Kindern und Gepäck bei der Ankunft in Grossbritannien",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: der grosse Bruch als Befreiung verkauft gegen die Rückkehr als Heimkommen verkauft, beides mit Kamerateam.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
+        "20 Minuten",
         "Watson"
       ],
-      "artikel": "https://www.spiegel.de/sport/hand-gottes-ball-aus-diego-maradonas-wm-spiel-bringt-3-35-millionen-dollar-bei-auktion-a-54825a84-9bcf-4c29-bff0-02e8018d6d5b#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/e8bd1197-d33f-4bc7-b9a6-0d6f8592ba77_w520_r2.08_fpx49.97_fpy63.96.jpg",
-      "zeit": "2026-08-25T04:32+02:00"
+      "artikel": "https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet-a-d82ba7d3-8ca0-4c62-b132-51b92f2b00f4#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/ed115989-460f-4dbe-89f0-bc4e90e59f63_w520_r2.08_fpx68.81_fpy54.98.jpg",
+      "zeit": "2026-08-26T15:48+02:00"
     },
     {
-      "id": "0810-2",
-      "titel": "Spanienrundfahrt Vuelta: 3. Etappe wird nach Hagelschauer abgebrochen",
-      "was": "Radprofis im Hagel, Rennen gestoppt, Fahrer stehen in Regenjacken herum",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: durchtrainierte Härte über drei Wochen gegen zwanzig Minuten Wetter.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "Spiegel",
-      "auch_bei": [
-        "Watson"
-      ],
-      "artikel": "https://www.spiegel.de/sport/radsport/spanienrundfahrt-vuelta-3-etappe-wird-nach-hagelschauer-abgebrochen-a-e0b92b16-afce-44a8-b769-42265c5d7dd8#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/19d3e6f6-0c0a-44f1-ae55-a7d0d5f63221_w520_r2.08_fpx33.32_fpy49.97.jpg",
-      "zeit": "2026-08-25T07:22+02:00"
-    },
-    {
-      "id": "0810-3",
-      "titel": "Nationalphonothek Schweiz – Wo alte Tonbänder gebügelt und Schallplatten fotografiert werden",
-      "was": "Restauratorin bügelt ein altes Tonband, Schallplatten liegen unter Fotolampen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: was zu Hause Hausarbeit heisst, ist hier weltweit einzigartige Kulturrettung.",
+      "id": "1700-3",
+      "titel": "Ohne neuen Weltrekord in Zürich will Superstar nicht aufhören",
+      "was": "Duplantis an der Medienkonferenz in Zürich, lachend neben Mikrofonen",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: der Mann, der nur noch über sich selbst hinauswachsen kann, gegen alle anderen, die schon am Alltag scheitern.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/nationalphonothek-schweiz-wo-alte-tonbaender-gebuegelt-und-schallplatten-fotografiert-werden",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/55b43b.jpg",
-      "zeit": "2026-08-25T06:27+02:00"
+      "artikel": "https://www.20min.ch/story/weltklasse-zuerich-duplantis-jagt-neuen-weltrekord-im-letzigrund-103622926",
+      "bild": "https://image.20min.ch/2026/08/26/0e1e5578-f3eb-4893-b52e-e0739bc7896f.jpg?s=44b31ecc1832db7306af0b6aba58a3b7",
+      "zeit": "2026-08-26T16:37+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute tagsüber",
-      "was": "VW-Betriebsversammlung: Vorstand auf der Bühne vor Belegschaft, Trillerpfeifen und Transparente"
-    },
-    {
-      "wann": "heute am Nachmittag",
-      "was": "nächste Vuelta-Etappe: Zielsprint, Siegerpodest mit Trikot und übergrossem Blumenstrauss"
+      "wann": "heute ab 20:00",
+      "was": "Sprungbilder und Jubelposen von Weltklasse Zürich, Duplantis am Stab und Jason Joseph über den Hürden"
     }
   ],
   "hinweis": ""
