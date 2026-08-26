@@ -4,6 +4,26 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-08-26-2235-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mondrian für 30 Millionen, 25 Jahre unsichtbar",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Zwölf Franken Eintritt zahle ich, um ein Bild anzuschauen. Christie's versteigert einen Mondrian, den seit 25 Jahren niemand sehen durfte, für 30 Millionen Pfund. Klimatisiert. Unbeleuchtet."
+    },
+    {
+      "id": "2026-08-26-2235-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Dürre-Paket: 250 Duschen pro Kilo Rindfleisch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich dusche seit dem Dürre-Paket des Bundesrats kürzer und spare 60 Liter. Ein Kilo Rindfleisch braucht 15'000. Das sind 250 Duschen. Pro Kilo."
+    },
+    {
       "id": "2026-08-26-2235-08",
       "typ": "schnittmenge",
       "stichwort": "37 Billionen gegen 300 Franken Inkasso",
@@ -42,26 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Ich creme mich jeden Morgen mit Faktor 50 ein. Die Hautkrebs-Kontrolle kostet mich 150 Franken aus dem eigenen Sack. Vorsorgen ist Hobby. Krank sein ist versichert."
-    },
-    {
-      "id": "2026-08-26-2235-31",
-      "typ": "persönlich",
-      "stichwort": "Dachs im Blocher-Garten, erste Umverteilung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Zwanzig Minuten lang habe ich heute im Game von 20 Minuten als Dachs Christoph Blochers Rasen umgegraben. Die erste Umverteilung meines Lebens, die reibungslos lief. Ohne Übergangsfrist."
-    },
-    {
-      "id": "2026-08-26-2235-32",
-      "typ": "persönlich",
-      "stichwort": "Buchelis letzte Meteo-Sendung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Thomas Bucheli hat gestern seine letzte Meteo-Sendung moderiert. Dreissig Jahre lang war er der Einzige im Schweizer Fernsehen, der mir jeden Abend höflich sagte, dass es schlimmer wird."
     }
   ]
 }
