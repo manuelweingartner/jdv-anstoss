@@ -1,8 +1,23 @@
 {
   "datum": "2026-08-26",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-08-26-2235-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Brand gelöscht, Ursache anderes Amt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "An der griechischen Küste ist der Waldbrand gelöscht, der Ort Porto Germeno ist abgebrannt. Als Behörde bin ich zufrieden: Wir waren pünktlich. Zuständig für die Ursache ist ein anderes Amt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
     {
       "id": "2026-08-26-2235-09",
       "typ": "remix",
@@ -64,29 +79,14 @@
       }
     },
     {
-      "id": "2026-08-26-2235-28",
-      "typ": "schnittmenge",
-      "stichwort": "Briefträger dreimal die Woche, Frist bleibt zehn Tage",
-      "plattform": "Threads + Instagram",
+      "id": "2026-08-26-2235-32",
+      "typ": "persönlich",
+      "stichwort": "Buchelis letzte Meteo-Sendung",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Post-Chef Pascal Grieder sagt, in zehn Jahren kommt der Briefträger noch dreimal die Woche. Behördenfristen bleiben bei zehn Tagen. Ab Zustellung.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-08-26-2235-31",
-      "typ": "persönlich",
-      "stichwort": "Dachs im Blocher-Garten, erste Umverteilung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Zwanzig Minuten lang habe ich heute im Game von 20 Minuten als Dachs Christoph Blochers Rasen umgegraben. Die erste Umverteilung meines Lebens, die reibungslos lief. Ohne Übergangsfrist.",
+      "format": "frei",
+      "text": "Thomas Bucheli hat gestern seine letzte Meteo-Sendung moderiert. Dreissig Jahre lang war er der Einzige im Schweizer Fernsehen, der mir jeden Abend höflich sagte, dass es schlimmer wird.",
       "jury": {
         "anker": true,
         "neu": true,
