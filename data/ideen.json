@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-26",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-26-2235-08",
+      "typ": "schnittmenge",
+      "stichwort": "37 Billionen gegen 300 Franken Inkasso",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "China dreht den USA den Geldhahn zu, 37 Billionen Dollar Schulden. Bei mir kommt ab 300 Franken das Inkasso, bei Weltmächten heisst das Verhandlungsposition."
+    },
+    {
+      "id": "2026-08-26-2235-09",
+      "typ": "remix",
+      "stichwort": "Drei Zustelltage, taeglich kommt der Flyer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 15,
+      "text": "Ich bekomme 2036 nur noch drei Mal pro Woche Post, schätzt der Post-Chef. Täglich kommen weiter: die Steuerrechnung, die Prämienerhöhung, der Flyer der Partei, die die Post abgebaut hat."
+    },
     {
       "id": "2026-08-26-2235-23",
       "typ": "politisch-aktuell",
