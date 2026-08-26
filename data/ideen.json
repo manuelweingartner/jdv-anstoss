@@ -1,8 +1,28 @@
 {
   "datum": "2026-08-26",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-26-2244-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "40 Franken Bargeld, Untergang nach Sortiment",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe 40 Franken Bargeld im Haus. Bei Stromausfall kann ich künftig mit der Karte offline zahlen, aber nur Lebensmittel und Medikamente. Der Untergang ist geregelt. Nach Sortiment."
+    },
+    {
+      "id": "2026-08-26-2244-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mondrian 25 Jahre im Depot, Sammler oder Hinterzieher",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Nach 25 Jahren im Depot kommt ein Mondrian von 1920 für bis zu 30 Millionen Pfund in die Auktion. Wer hier 25 Jahre nichts vorweist, ist Steuerhinterzieher. Oder Sammler."
+    },
     {
       "id": "2026-08-26-2244-23",
       "typ": "politisch-aktuell",
