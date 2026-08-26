@@ -14,6 +14,36 @@
       "text": "Aktiengewinne besteuert die Schweiz mit 0 Prozent, Lohn ab dem ersten Franken. Richtig so: arbeiten geht freiwillig, reich sein ist Schicksal."
     },
     {
+      "id": "2026-08-26-2244-16",
+      "typ": "persönlich",
+      "stichwort": "Schutz mieten wie ein Auto",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe kein eigenes Auto, ich miete eins, wenn ich eins brauche. Der Kanton Thurgau macht das mit Frauenhausplätzen. Verfügbarkeit auf Anfrage. 40 Kilometer entfernt."
+    },
+    {
+      "id": "2026-08-26-2244-17",
+      "typ": "persönlich",
+      "stichwort": "Halbe Stunde Bildwerkstatt gegen 191 mal hundert Meter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich brauche eine halbe Stunde, um fünf eigene Posts zu Bildern umzubauen. Der chinesische Roboter rennt in der Zeit 191 mal hundert Meter. Schneller als Bolt."
+    },
+    {
+      "id": "2026-08-26-2244-18",
+      "typ": "persönlich",
+      "stichwort": "Rösti brennt in zwei Minuten, Hitzeplan in vier Sommern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Albert Rösti brennt bei mir auf einem Instagram-Bild, fertig in zwei Minuten. Vier Hitzesommer ohne Plan nennt der Bundesrat eine Auslegeordnung."
+    },
+    {
       "id": "2026-08-26-2244-21",
       "typ": "politisch-aktuell",
       "stichwort": "40 Franken Bargeld, Untergang nach Sortiment",
@@ -32,36 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 1,
       "text": "Nach 25 Jahren im Depot kommt ein Mondrian von 1920 für bis zu 30 Millionen Pfund in die Auktion. Wer hier 25 Jahre nichts vorweist, ist Steuerhinterzieher. Oder Sammler."
-    },
-    {
-      "id": "2026-08-26-2244-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "16,68 Milliarden, jetzt kennen wir den Preis",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Meta zahlt den US-Bundesstaaten 16,68 Milliarden Dollar, weil es Jugendliche nicht geschützt hat. Ich finde es richtig, dass wir zahlen: endlich wissen wir, was ein Jahrgang kostet. Budgetiert. Abgeschrieben."
-    },
-    {
-      "id": "2026-08-26-2244-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Unter 16 offline, damit nichts verlernt wird",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich finde es richtig, dass Aserbaidschan allen unter 16 die sozialen Medien verbietet. Wer nie gesehen hat, wie protestiert wird, muss es später nicht verlernen. Zum Schutz der Kinder."
-    },
-    {
-      "id": "2026-08-26-2244-30",
-      "typ": "persönlich",
-      "stichwort": "Faktor 50 im Februar, Braunwald steht still",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich trage seit 2019 im Februar Faktor 50. In Braunwald stehen die Skilifte jetzt für immer still. Meine Prognose war billiger. 12 Franken, Migros."
     }
   ]
 }
