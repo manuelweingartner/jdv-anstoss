@@ -10889,6 +10889,102 @@
         "neu": true
       },
       "datum": "2026-08-25"
+    },
+    {
+      "id": "2026-08-26-2235-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Brand gelöscht, Ursache anderes Amt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "An der griechischen Küste ist der Waldbrand gelöscht, der Ort Porto Germeno ist abgebrannt. Als Behörde bin ich zufrieden: Wir waren pünktlich. Zuständig für die Ursache ist ein anderes Amt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-08-26"
+    },
+    {
+      "id": "2026-08-26-2235-09",
+      "typ": "remix",
+      "stichwort": "Drei Zustelltage, taeglich kommt der Flyer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 15,
+      "text": "Ich bekomme 2036 nur noch drei Mal pro Woche Post, schätzt der Post-Chef. Täglich kommen weiter: die Steuerrechnung, die Prämienerhöhung, der Flyer der Partei, die die Post abgebaut hat.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-26"
+    },
+    {
+      "id": "2026-08-26-2235-10",
+      "typ": "persönlich",
+      "stichwort": "Dachs im Blocher-Garten, zwölf Engerlinge",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Christoph Blocher hat einen Dachs im Garten, 20 Minuten hat ein Gratis-Game daraus gemacht. Ich habe heute Mittag zwölf Engerlinge gefressen. Die erfolgreichste Umverteilung meines Lebens. Ohne Abstimmung.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      },
+      "datum": "2026-08-26"
+    },
+    {
+      "id": "2026-08-26-2235-12",
+      "typ": "persönlich",
+      "stichwort": "Ein Balken, zwei Rechnungen, ein Mast",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Mein Handy hat einen Balken, dafür zahle ich 55 Franken (echtes Detail einsetzen). Salt und Sunrise teilen künftig die Antennen auf dem Land. Wettbewerb heisst jetzt: derselbe Mast, zwei Rechnungen.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      },
+      "datum": "2026-08-26"
+    },
+    {
+      "id": "2026-08-26-2235-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kostenvorschuss 3'000, darum haben Reiche recht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Klagen kostet in der Schweiz einen Kostenvorschuss. Bei 30'000 Franken Streitwert sind das rund 3'000, bevor jemand zuhört. Deshalb haben Reiche so auffällig oft recht.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      },
+      "datum": "2026-08-26"
+    },
+    {
+      "id": "2026-08-26-2235-32",
+      "typ": "persönlich",
+      "stichwort": "Buchelis letzte Meteo-Sendung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Thomas Bucheli hat gestern seine letzte Meteo-Sendung moderiert. Dreissig Jahre lang war er der Einzige im Schweizer Fernsehen, der mir jeden Abend höflich sagte, dass es schlimmer wird.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-26"
     }
   ]
 }
