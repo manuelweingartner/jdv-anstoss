@@ -1,97 +1,17 @@
 {
-  "datum": "2026-08-25",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-08-26",
+  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-08-25-0757-01",
+      "id": "2026-08-26-2235-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Nicotinell ohne Frage, Pille danach mit Bildschirm",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich kriege in der Apotheke zwei Packungen Nicotinell, ohne dass jemand fragt. Für die Pille danach gibt es neu einen Bildschirm, damit die Fragen wenigstens niemand mithört.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-25-0757-09",
-      "typ": "remix",
-      "stichwort": "Hardturm: Burg schneller fertig als Stadion",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich lese seit 2003 von einem Stadion auf dem Zürcher Hardturm. Jetzt haben Archäologen dort eine ganze mittelalterliche Burganlage ausgegraben. Die stand schneller. Ohne Rekurs.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-08-25-0757-10",
-      "typ": "persönlich",
-      "stichwort": "Offline-Karte: Essen, Pillen, Treibstoff",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Bei einem Netzausfall darf ich künftig offline mit der Karte zahlen, aber nur Lebensmittel, Medikamente und Treibstoff. Ich habe zwanzig Jahre Digitalisierung mitgemacht, und im Ernstfall bleibt: Essen, Pillen, Fluchtauto.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-08-25-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "67,1 Millionen, Journalismus nicht beteiligt",
+      "stichwort": "16,68 Milliarden als Betriebskosten",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich bin der Verlag hinter 20 Minuten und habe im Halbjahr 67,1 Millionen Gewinn gemacht, 70 Prozent mehr. Beruhigend: der Journalismus war daran nicht beteiligt. Nicht einmal am Rand.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-25-0757-24",
-      "typ": "schnittmenge",
-      "stichwort": "Briefwahl, vier Stunden anstehen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Trumps Einschränkung der Briefwahl gilt vorerst, der Supreme Court hat den Stopp ausgesetzt. Ich finde das richtig: wer nicht vier Stunden ansteht, meint es nicht ernst. Krankheit ist Privatsache.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-25-0757-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwanzig Prozent Eigenkapital oder ein Todesfall",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Für eine Eigentumswohnung brauche ich zwanzig Prozent Eigenkapital oder einen Todesfall in der Familie. Sparen tue ich trotzdem. Aus Höflichkeit.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Ich leite Meta und zahle den US-Bundesstaaten 16,68 Milliarden für fehlenden Jugendschutz. Endlich ein Preis. Jetzt wissen wir, was es kostet. Und dass wir es uns leisten können."
     }
   ]
 }
