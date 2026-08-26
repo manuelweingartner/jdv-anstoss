@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-26",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
   "fertig": true,
   "ideen": [
     {
@@ -34,46 +34,31 @@
       }
     },
     {
-      "id": "2026-08-26-2244-04",
-      "typ": "schnittmenge",
-      "stichwort": "240 Wohnungen bewilligt, bezahlbar für jemanden",
+      "id": "2026-08-26-2244-16",
+      "typ": "persönlich",
+      "stichwort": "Schutz mieten wie ein Auto",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich bewillige in unserer Gemeinde die Neubauten. Beruhigend, dass wir gegen die Wohnungsnot endlich etwas tun: 240 neue Wohnungen, davon 240 zum Marktpreis. Bezahlbar. Für jemanden.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-26-2244-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "40 Franken Bargeld, Untergang nach Sortiment",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich habe 40 Franken Bargeld im Haus. Bei Stromausfall kann ich künftig mit der Karte offline zahlen, aber nur Lebensmittel und Medikamente. Der Untergang ist geregelt. Nach Sortiment.",
+      "text": "Ich habe kein eigenes Auto, ich miete eins, wenn ich eins brauche. Der Kanton Thurgau macht das mit Frauenhausplätzen. Verfügbarkeit auf Anfrage. 40 Kilometer entfernt.",
       "jury": {
         "anker": true,
         "witz": true,
-        "neu": true
+        "neu": false
       }
     },
     {
-      "id": "2026-08-26-2244-23",
+      "id": "2026-08-26-2244-24",
       "typ": "politisch-aktuell",
-      "stichwort": "16,68 Milliarden, jetzt kennen wir den Preis",
+      "stichwort": "Unter 16 offline, damit nichts verlernt wird",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Meta zahlt den US-Bundesstaaten 16,68 Milliarden Dollar, weil es Jugendliche nicht geschützt hat. Ich finde es richtig, dass wir zahlen: endlich wissen wir, was ein Jahrgang kostet. Budgetiert. Abgeschrieben.",
+      "text": "Ich finde es richtig, dass Aserbaidschan allen unter 16 die sozialen Medien verbietet. Wer nie gesehen hat, wie protestiert wird, muss es später nicht verlernen. Zum Schutz der Kinder.",
       "jury": {
-        "anker": true,
+        "anker": false,
         "witz": true,
         "neu": true
       }
