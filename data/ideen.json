@@ -1,6 +1,27 @@
 {
   "datum": "2026-08-26",
-  "hinweis": "0 von 6 da, der Rest lädt noch.",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
   "fertig": false,
-  "ideen": []
+  "ideen": [
+    {
+      "id": "2026-08-26-2244-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "16,68 Milliarden, jetzt kennen wir den Preis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Meta zahlt den US-Bundesstaaten 16,68 Milliarden Dollar, weil es Jugendliche nicht geschützt hat. Ich finde es richtig, dass wir zahlen: endlich wissen wir, was ein Jahrgang kostet. Budgetiert. Abgeschrieben."
+    },
+    {
+      "id": "2026-08-26-2244-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Unter 16 offline, damit nichts verlernt wird",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es richtig, dass Aserbaidschan allen unter 16 die sozialen Medien verbietet. Wer nie gesehen hat, wie protestiert wird, muss es später nicht verlernen. Zum Schutz der Kinder."
+    }
+  ]
 }
