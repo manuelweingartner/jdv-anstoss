@@ -24,6 +24,36 @@
       "text": "Ich dusche seit dem Dürre-Paket des Bundesrats kürzer und spare 60 Liter. Ein Kilo Rindfleisch braucht 15'000. Das sind 250 Duschen. Pro Kilo."
     },
     {
+      "id": "2026-08-26-2235-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "40 Franken Busse, Konzern bekommt Übergangsfrist",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Für zwanzig Minuten zu lang parkiert habe ich 40 Franken Busse bezahlt. Wer zwanzig Jahre zu lang Grundwasser verschmutzt, bekommt eine Übergangsfrist."
+    },
+    {
+      "id": "2026-08-26-2235-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "100 Millionen Überstunden, 50'000 Stellen ohne Bewerbung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Rund 100 Millionen Überstunden werden in der Schweiz jedes Jahr nicht bezahlt. Das sind 50'000 Vollzeitstellen, die niemand ausschreiben muss. Kein Bewerbungsgespräch. Keine Lohnverhandlung."
+    },
+    {
+      "id": "2026-08-26-2235-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lohn besteuert, Börsengewinn null",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Ich zahle auf jeden Franken Lohn Einkommenssteuer. Wer an der Börse 50'000 Franken Gewinn macht, zahlt null. Besteuert wird nicht das Geld. Sondern die Mühe."
+    },
+    {
       "id": "2026-08-26-2235-08",
       "typ": "schnittmenge",
       "stichwort": "37 Billionen gegen 300 Franken Inkasso",
@@ -32,36 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 1,
       "text": "China dreht den USA den Geldhahn zu, 37 Billionen Dollar Schulden. Bei mir kommt ab 300 Franken das Inkasso, bei Weltmächten heisst das Verhandlungsposition."
-    },
-    {
-      "id": "2026-08-26-2235-09",
-      "typ": "remix",
-      "stichwort": "Drei Zustelltage, taeglich kommt der Flyer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 15,
-      "text": "Ich bekomme 2036 nur noch drei Mal pro Woche Post, schätzt der Post-Chef. Täglich kommen weiter: die Steuerrechnung, die Prämienerhöhung, der Flyer der Partei, die die Post abgebaut hat."
-    },
-    {
-      "id": "2026-08-26-2235-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "16,68 Milliarden als Betriebskosten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich leite Meta und zahle den US-Bundesstaaten 16,68 Milliarden für fehlenden Jugendschutz. Endlich ein Preis. Jetzt wissen wir, was es kostet. Und dass wir es uns leisten können."
-    },
-    {
-      "id": "2026-08-26-2235-30",
-      "typ": "persönlich",
-      "stichwort": "Faktor 50 privat, Hautkrebs versichert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich creme mich jeden Morgen mit Faktor 50 ein. Die Hautkrebs-Kontrolle kostet mich 150 Franken aus dem eigenen Sack. Vorsorgen ist Hobby. Krank sein ist versichert."
     }
   ]
 }
