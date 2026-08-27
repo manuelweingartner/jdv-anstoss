@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-08-27-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "165 Tonnen Tomaten gegen Röstis Hitzepaket",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Albert Rösti nennt das Hitzepaket des Bundesrats ein Worst-Case-Szenario. Am selben Tag werfen Tausende in Spanien 165 Tonnen Tomaten aufeinander. Nur eine der beiden Aktionen kühlt. Seit 1945."
-    },
-    {
       "id": "2026-08-27-0757-02",
       "typ": "politisch-aktuell",
       "stichwort": "150 Milliliter Shampoo gegen Kriegsschiffe in Hormus",
@@ -21,7 +11,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich darf am Flughafen keine 150 Milliliter Shampoo mitnehmen. Iran und Oman wollen die Kriegsschiffe aus der Strasse von Hormus nehmen, Washington ist dagegen. Aus Sicherheitsgründen."
+      "text": "Ich darf am Flughafen keine 150 Milliliter Shampoo mitnehmen. Iran und Oman wollen die Kriegsschiffe aus der Strasse von Hormus nehmen, Washington ist dagegen. Aus Sicherheitsgründen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-08-27-0757-03",
@@ -31,7 +26,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Cédric Wermuth fordert Hitzefrei ab 33 Grad, und als Amt finden wir das richtig. Gemessen wird bei uns im Sitzungszimmer. Klimatisiert. 21 Grad."
+      "text": "Cédric Wermuth fordert Hitzefrei ab 33 Grad, und als Amt finden wir das richtig. Gemessen wird bei uns im Sitzungszimmer. Klimatisiert. 21 Grad.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-08-27-0757-04",
@@ -41,27 +41,57 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Ich lese, die Schweiz wünscht sich mehr Regionalität. Als Konzern mache ich mit: Meine Steuern zahle ich ab sofort streng regional. In Zug. 11,8 Prozent."
+      "text": "Ich lese, die Schweiz wünscht sich mehr Regionalität. Als Konzern mache ich mit: Meine Steuern zahle ich ab sofort streng regional. In Zug. 11,8 Prozent.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-27-0757-05",
+      "id": "2026-08-27-0757-21",
       "typ": "politisch-aktuell",
-      "stichwort": "1'400 Franken Krone, Zähne nicht versichert",
+      "stichwort": "Hitzepaket gegen 165 Tonnen Tomaten",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe 1'400 Franken für eine Zahnkrone bezahlt. Die Grundversicherung deckt jedes Organ ausser den Zähnen, also ausgerechnet das, was man beim Lächeln sieht. Sichtbar. Von weitem."
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Albert Rösti stellt das Hitzepaket des Bundesrats vor und nennt es ein Worst-Case-Szenario. Am selben Tag werfen in Spanien Tausende 165 Tonnen Tomaten aufeinander. Nur eines der beiden Pakete kühlt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-08-27-0757-07",
+      "id": "2026-08-27-0757-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Miete zahlt die Altersvorsorge des Vermieters",
+      "stichwort": "Hitzefrei ab 33, bei 32 leidet nur der Mensch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich bin Arbeitgeber und finde Hitzefrei ab 33 Grad richtig, wie Cédric Wermuth es fordert. Bei 32 leidet nur der Mensch, bei 33 die Produktivität. Wir haben das durchgerechnet.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-08-27-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zehnmal Blatten, noch im Rahmen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Meine Miete zahlt in dreissig Jahren eine ganze Wohnung ab. Sie gehört dann jemand anderem. Das ist seine Altersvorsorge. Bezahlt aus meiner."
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Zehnmal so gross wie in Blatten, sagt ein Schweizer Forscher über den Felssturz in Nepal. Als Bundesamt beruhigt mich das: wir liegen noch im Rahmen. Faktor zehn Reserve.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
