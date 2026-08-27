@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-27",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "27 Jahre nach der Tat kommt der mutmassliche 9/11-Planer 2028 in Guantánamo vor Gericht. Ich finde es richtig, nichts zu überstürzen. Wer gefoltert wurde, verdient ein sauberes Verfahren. Irgendwann."
+    },
+    {
+      "id": "2026-08-27-0631-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "6800 Lohn versteuert, 200000 Kursgewinn nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Ich zahle auf 6'800 Franken Lohn Steuern. Wer im selben Monat 200'000 Franken Kursgewinn macht, zahlt in der Schweiz nichts. Arbeit ist halt Einkommen."
+    },
+    {
+      "id": "2026-08-27-0631-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "20 Minuten Busse gegen 20 Minuten Vermögen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Für zwanzig Minuten Falschparken habe ich 40 Franken Busse bezahlt. Ein Vermögen von 40 Millionen verdient in denselben zwanzig Minuten genau so viel. Ohne aufzustehen."
+    },
+    {
+      "id": "2026-08-27-0631-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "780 Franken Pensionskasse in Rüstungsaktien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Jeden Monat gehen 780 Franken von meinem Lohn in die Pensionskasse, ein Teil davon in Rüstungsaktien. Mein Ruhestand ist also gesichert. Von Leuten, die keinen erleben."
     }
   ]
 }
