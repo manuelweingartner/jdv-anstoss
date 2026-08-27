@@ -1,46 +1,46 @@
 {
-  "stand": "2026-08-25T08:12:14+02:00",
+  "stand": "2026-08-27T08:12:39+02:00",
   "vorschlaege": [
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Briefwahl einschränken",
-        "Stimmen zählen lassen",
-        "Donald Trump"
+        "Massnahmenpaket gegen die Dürre",
+        "Ursachen angehen",
+        "Albert Rösti"
       ],
-      "warum": "weil der Supreme-Court-Entscheid genau der Vollgas-Schlenker weg vom naheliegenden Weg ist",
+      "warum": "das Paket biegt kurz vor der Ursache ab, genau die Bewegung der Figur",
       "bild": "vorschlag-1.jpg"
     },
     {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "Salt und Sunrise sparen Antennen",
-        "Aktive Netzinfrastruktur-Kooperation im ländlichen Raum"
+        "Dreimal Post pro Woche ist auch täglich"
       ],
-      "warum": "weil Antennenteilen erst als Konzernsprache klingt wie Fortschritt und nicht wie Sparen",
+      "warum": "eine Definitionsverschiebung, die niemand widerlegen kann, weil sie beschlossen ist",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Döner, 2021",
-        "Ein Produkt zum Essen",
-        "Geschenke, 2026",
-        "Auspacken als Geschäftsmodell"
+        "Skilifte Braunwald, 1954",
+        "Wintersport ohne Businessplan",
+        "Kleinseilbahn mit QR-Code",
+        "Digitalisierung als Rettungsplan"
       ],
-      "warum": "weil Mersons Neuerfindung selbst die Kurve von echtem Handwerk zu reinem Content beschreibt",
+      "warum": "behauptetes starkes Früher gegen ein Heute, das sich selbst verwaltet",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Der Hardturm war im Mittelalter weiter gebaut als heute"
+        "Wegwerfmode aus Guangzhou",
+        "Demokratisierter Modezugang"
       ],
-      "warum": "weil die These durch den Zürcher Stadionstreit unwiderlegbar geworden ist",
+      "warum": "der Börsenprospekt ist die vornehme Verpackung derselben Sache",
       "bild": "vorschlag-4.jpg"
     }
   ]
