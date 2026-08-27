@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich bin Nvidia, ich habe meinen Gewinn verdoppelt. Ihr wollt eine Maschine, die eure Mails höflicher schreibt, und eine zweite, die sie euch zusammenfasst. Beide laufen bei mir."
+      "text": "Ich bin Nvidia, ich habe meinen Gewinn verdoppelt. Ihr wollt eine Maschine, die eure Mails höflicher schreibt, und eine zweite, die sie euch zusammenfasst. Beide laufen bei mir.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-08-27-0631-04",
@@ -21,47 +26,72 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "27 Jahre nach der Tat kommt der mutmassliche 9/11-Planer 2028 in Guantánamo vor Gericht. Ich finde es richtig, nichts zu überstürzen. Wer gefoltert wurde, verdient ein sauberes Verfahren. Irgendwann."
+      "text": "27 Jahre nach der Tat kommt der mutmassliche 9/11-Planer 2028 in Guantánamo vor Gericht. Ich finde es richtig, nichts zu überstürzen. Wer gefoltert wurde, verdient ein sauberes Verfahren. Irgendwann.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-08-27-0631-08",
-      "typ": "schnittmenge",
-      "stichwort": "Böxli stört die Gämsen, Kampfjets nicht",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
+      "id": "2026-08-27-0631-17",
+      "typ": "persönlich",
+      "stichwort": "Bilder von Hand, Roboter in 9,39 Sekunden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ich bastle meine Bilder abends von Hand, weil ich es nicht anders kann. Ein chinesischer Roboter rennt inzwischen die 100 Meter in 9,39 Sekunden. Er kann auch nichts anderes.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-27-0631-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "9/11-Prozess erst 2028, Geständnisse werden noch geprüft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Mein Bluetooth-Lautsprecher auf dem Wanderweg stört laut Wildtier Schweiz die Gämsen. Zwei Kampfjets, die durch dasselbe Tal donnern, sind Landesverteidigung."
+      "format": 13,
+      "text": "Ich finde es richtig, dass der Prozess gegen die 9/11-Drahtzieher erst 2028 beginnt, 27 Jahre nach der Tat. Wir prüfen noch, welche Geständnisse ohne Folter entstanden sind. Sorgfältig. Seit 2003.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-27-0631-09",
-      "typ": "remix",
-      "stichwort": "Porto Germeno, Bauland ohne Rodungsbewilligung",
+      "id": "2026-08-27-0631-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "780 Franken Pensionskasse in Rüstungsaktien",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 15,
-      "text": "Nach dem Waldbrand in Porto Germeno bleibt Griechenland: verkohlte Olivenhaine, 30 Jahre bis der Wald zurück ist, und Bauland, für das niemand mehr eine Rodungsbewilligung braucht."
-    },
-    {
-      "id": "2026-08-27-0631-10",
-      "typ": "persönlich",
-      "stichwort": "Ein Balken Empfang, 60 Milliarden Gewinn",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich suche zuhause einen Balken Empfang. Salt und Sunrise teilen sich neu die Antennen auf dem Land, gleiche Woche macht Nvidia 60 Milliarden Gewinn. Wirtschaftlichkeit."
-    },
-    {
-      "id": "2026-08-27-0631-11",
-      "typ": "persönlich",
-      "stichwort": "Alaska-Seelachs aus Russland, Tagesteller",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ich habe im Migros-Restaurant Alaska-Seelachs gegessen, gefangen in Russland. Seit viereinhalb Jahren trägt die Schweiz die Sanktionen mit. Beim Tagesteller hört die Aussenpolitik auf."
+      "text": "Jeden Monat gehen 780 Franken von meinem Lohn in die Pensionskasse, ein Teil davon in Rüstungsaktien. Mein Ruhestand ist also gesichert. Von Leuten, die keinen erleben.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-08-27-0631-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "9.39 Sekunden, Glarner tritt zurück",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "9.39 Sekunden über 100 Meter, schneller als Usain Bolt: das schaffte ein chinesischer Roboter. Am selben Tag trat Andreas Glarner zurück. Zwei Meldungen über Automatisierung. Eine davon überfällig.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
