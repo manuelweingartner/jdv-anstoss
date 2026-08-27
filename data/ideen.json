@@ -24,6 +24,26 @@
       "text": "27 Jahre nach der Tat kommt der mutmassliche 9/11-Planer 2028 in Guantánamo vor Gericht. Ich finde es richtig, nichts zu überstürzen. Wer gefoltert wurde, verdient ein sauberes Verfahren. Irgendwann."
     },
     {
+      "id": "2026-08-27-0631-08",
+      "typ": "schnittmenge",
+      "stichwort": "Böxli stört die Gämsen, Kampfjets nicht",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Mein Bluetooth-Lautsprecher auf dem Wanderweg stört laut Wildtier Schweiz die Gämsen. Zwei Kampfjets, die durch dasselbe Tal donnern, sind Landesverteidigung."
+    },
+    {
+      "id": "2026-08-27-0631-09",
+      "typ": "remix",
+      "stichwort": "Porto Germeno, Bauland ohne Rodungsbewilligung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 15,
+      "text": "Nach dem Waldbrand in Porto Germeno bleibt Griechenland: verkohlte Olivenhaine, 30 Jahre bis der Wald zurück ist, und Bauland, für das niemand mehr eine Rodungsbewilligung braucht."
+    },
+    {
       "id": "2026-08-27-0631-10",
       "typ": "persönlich",
       "stichwort": "Ein Balken Empfang, 60 Milliarden Gewinn",
@@ -42,26 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 16,
       "text": "Ich habe im Migros-Restaurant Alaska-Seelachs gegessen, gefangen in Russland. Seit viereinhalb Jahren trägt die Schweiz die Sanktionen mit. Beim Tagesteller hört die Aussenpolitik auf."
-    },
-    {
-      "id": "2026-08-27-0631-12",
-      "typ": "persönlich",
-      "stichwort": "600 Kilowattstunden gegen vier Minuten Privatjet",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Sieben Jahre ECO-Programm an meiner Abwaschmaschine sparen etwa 600 Kilowattstunden. Ein Privatjet verbrennt das beim Rollen zum Start. In vier Minuten."
-    },
-    {
-      "id": "2026-08-27-0631-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mondrian für 30 Millionen, Seilbahn pleite",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Für bis zu 30 Millionen Pfund kommt im Oktober ein Mondrian unter den Hammer, Linien und Kästchen. Gleiche Woche: jede zweite Schweizer Kleinseilbahn ist pleite. Eine Linie, ein Kästchen dran."
     }
   ]
 }
