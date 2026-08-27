@@ -1,58 +1,59 @@
 {
-  "stand": "2026-08-26T17:00:38+02:00",
-  "lauf": "1700",
+  "stand": "2026-08-27T08:11:18+02:00",
+  "lauf": "0810",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Bundesrat will Bauern im Kampf gegen die Trockenheit mit zusätzlich 54 Millionen Franken unterstützen",
-      "was": "Bundesräte vor Medien in Bern, Karten und Trockenheitszahlen im Hintergrund",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Millionenpaket gegen ausgetrocknete Böden gegen den Umstand, dass sich Regen nicht beantragen lässt.",
+      "id": "0810-1",
+      "titel": "Ein letztes «auf Wiedersehen»: Hier nimmt Thomas Bucheli Abschied",
+      "was": "Thomas Bucheli auf dem Meteo-Dach, Nebelmaschine, Kuchen, geruehrte Kollegen",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Staatsakt mit Nebelmaschine gegen die Belanglosigkeit einer Wetterprognose.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "NZZ",
+      "quelle": "20 Minuten",
       "auch_bei": [
-        "20 Minuten",
-        "SRF",
-        "Watson"
+        "SRF"
       ],
-      "artikel": "https://www.nzz.ch/schweiz/wie-will-der-bundesrat-die-schweiz-fuer-kuenftige-hitzesommer-ruesten-die-medienkonferenz-mit-albert-roesti-in-kuerze-live-ld.10021131",
-      "bild": "https://img-msp-prod.nzz.ch/2026/08/26/4a6e0843-a160-435f-ad37-df66134e6e9c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5421,5421,x1045,y0",
-      "zeit": "2026-08-26T15:47+02:00"
+      "artikel": "https://www.20min.ch/video/wetterfrosch-der-nation-ein-letztes-auf-wiedersehen-hier-nimmt-thomas-bucheli-abschied-103623098",
+      "bild": "https://image.20min.ch/2026/08/26/e7480a74-c440-486b-b5dc-76807b969f33.jpg?s=069ffa5fe6b6aebd93282298ae1e3b7f",
+      "zeit": "2026-08-26T20:28+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Prinz Harry und Meghan zurück in England: Das Paar ist wieder in Großbritannien gelandet",
-      "was": "Harry und Meghan mit Kindern und Gepäck bei der Ankunft in Grossbritannien",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: der grosse Bruch als Befreiung verkauft gegen die Rückkehr als Heimkommen verkauft, beides mit Kamerateam.",
+      "id": "0810-2",
+      "titel": "News: Mini-EU-Gipfel im Kanzleramt, schwarz-roter Schwur in Münster, neuer SPIEGEL-Politikpodcast",
+      "was": "Kanzler und vier Regierungschefs beim Handschlag-Gruppenfoto im Kanzleramt",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Selbstbild als sparsame Fünf gegen den Aufwand, mit dem sie sich dabei fotografieren lassen.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
-        "20 Minuten",
-        "Watson"
+        "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet-a-d82ba7d3-8ca0-4c62-b132-51b92f2b00f4#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/ed115989-460f-4dbe-89f0-bc4e90e59f63_w520_r2.08_fpx68.81_fpy54.98.jpg",
-      "zeit": "2026-08-26T15:48+02:00"
+      "artikel": "https://www.spiegel.de/politik/deutschland/news-mini-eu-gipfel-im-kanzleramt-schwarz-roter-schwur-in-muenster-neuer-spiegel-politikpodcast-a-9f6d3e7a-8e73-4d6b-b172-89bb99dc123b#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w520_r2.08_fpx28.09_fpy49.93.png",
+      "zeit": "2026-08-27T05:43+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Ohne neuen Weltrekord in Zürich will Superstar nicht aufhören",
-      "was": "Duplantis an der Medienkonferenz in Zürich, lachend neben Mikrofonen",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: der Mann, der nur noch über sich selbst hinauswachsen kann, gegen alle anderen, die schon am Alltag scheitern.",
+      "id": "0810-3",
+      "titel": "Rang 2 für Stabhochspringerin – Moser fliegt im Zürcher HB erstmals auf das Podest",
+      "was": "Stabhochspringerin fliegt über die Latte in der Halle des Zürcher Hauptbahnhofs",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: 4,85 Meter Hallenrekord gegen alles andere, was in diesem Bahnhof nicht in die Höhe kommt.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/weltklasse-zuerich-duplantis-jagt-neuen-weltrekord-im-letzigrund-103622926",
-      "bild": "https://image.20min.ch/2026/08/26/0e1e5578-f3eb-4893-b52e-e0739bc7896f.jpg?s=44b31ecc1832db7306af0b6aba58a3b7",
-      "zeit": "2026-08-26T16:37+02:00"
+      "artikel": "https://www.srf.ch/sport/leichtathletik/rang-2-fuer-stabhochspringerin-moser-fliegt-im-zuercher-hb-erstmals-auf-das-podest",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/0c4396.jpg",
+      "zeit": "2026-08-26T19:42+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 20:00",
-      "was": "Sprungbilder und Jubelposen von Weltklasse Zürich, Duplantis am Stab und Jason Joseph über den Hürden"
+      "wann": "heute ab 19:00",
+      "was": "Weltklasse Zürich im Letzigrund: Jubel, Grimassen und Weltrekordversuch im Stabhochsprung"
+    },
+    {
+      "wann": "heute im Tagesverlauf",
+      "was": "Mini-EU-Gipfel im Kanzleramt: Begrüssungsritual, Treppenaufgang, Gruppenbild"
     }
   ],
   "hinweis": ""
