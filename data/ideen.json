@@ -1,23 +1,8 @@
 {
   "datum": "2026-08-27",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
-    {
-      "id": "2026-08-27-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "150 Milliliter Shampoo gegen Kriegsschiffe in Hormus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich darf am Flughafen keine 150 Milliliter Shampoo mitnehmen. Iran und Oman wollen die Kriegsschiffe aus der Strasse von Hormus nehmen, Washington ist dagegen. Aus Sicherheitsgründen.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
     {
       "id": "2026-08-27-0757-03",
       "typ": "politisch-aktuell",
@@ -49,6 +34,36 @@
       }
     },
     {
+      "id": "2026-08-27-0757-09",
+      "typ": "remix",
+      "stichwort": "1.20 für morgen, Briefträger noch drei Mal",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich zahle 1.20, damit mein Brief morgen ankommt. Der Post-Chef sagt, in zehn Jahren kommt der Briefträger noch drei Mal die Woche. Morgen ist dann ein Richtwert. Unverbindlich. Zum Vollpreis.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-08-27-0757-17",
+      "typ": "persönlich",
+      "stichwort": "Fünf Posts als Kacheln, zwei wegen Grün raus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe fünf Posts über Gewalt, Mieten und Konzerne in Bildkacheln setzen lassen. Zwei sind rausgeflogen, weil das Grün nicht zum Rest passte. Hausstil. Bildsprache. Haltung.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
+    },
+    {
       "id": "2026-08-27-0757-21",
       "typ": "politisch-aktuell",
       "stichwort": "Hitzepaket gegen 165 Tonnen Tomaten",
@@ -64,32 +79,17 @@
       }
     },
     {
-      "id": "2026-08-27-0757-23",
+      "id": "2026-08-27-0757-22",
       "typ": "politisch-aktuell",
-      "stichwort": "Hitzefrei ab 33, bei 32 leidet nur der Mensch",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich bin Arbeitgeber und finde Hitzefrei ab 33 Grad richtig, wie Cédric Wermuth es fordert. Bei 32 leidet nur der Mensch, bei 33 die Produktivität. Wir haben das durchgerechnet.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-08-27-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zehnmal Blatten, noch im Rahmen",
+      "stichwort": "Termin bei Fielmann, Therapieplatz keiner",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Zehnmal so gross wie in Blatten, sagt ein Schweizer Forscher über den Felssturz in Nepal. Als Bundesamt beruhigt mich das: wir liegen noch im Rahmen. Faktor zehn Reserve.",
+      "format": 16,
+      "text": "Ich hatte bei Fielmann in zwei Tagen einen Termin. Ein 25-jähriger Luzerner hat seine Essstörung ohne Therapieplatz überwunden, achtzehn Kilo in Eigenregie. Versichert ist er seit der Geburt.",
       "jury": {
         "anker": true,
-        "neu": true,
+        "neu": false,
         "witz": true
       }
     }
