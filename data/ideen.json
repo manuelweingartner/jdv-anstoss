@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-27",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -34,6 +34,36 @@
       }
     },
     {
+      "id": "2026-08-27-0631-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pensionskasse hält Rüstung, Rente hängt daran",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich zahle seit zwanzig Jahren zwangsweise in die Pensionskasse ein. Ein Teil davon liegt in Rüstungsaktien. Meine Rente hängt daran, dass irgendwo geschossen wird. Steuerlich abzugsfähig.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-08-27-0631-08",
+      "typ": "schnittmenge",
+      "stichwort": "Böxli stört die Gämsen, Kampfjets nicht",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Mein Bluetooth-Lautsprecher auf dem Wanderweg stört laut Wildtier Schweiz die Gämsen. Zwei Kampfjets, die durch dasselbe Tal donnern, sind Landesverteidigung.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
       "id": "2026-08-27-0631-17",
       "typ": "persönlich",
       "stichwort": "Bilder von Hand, Roboter in 9,39 Sekunden",
@@ -46,36 +76,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-08-27-0631-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "9/11-Prozess erst 2028, Geständnisse werden noch geprüft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich finde es richtig, dass der Prozess gegen die 9/11-Drahtzieher erst 2028 beginnt, 27 Jahre nach der Tat. Wir prüfen noch, welche Geständnisse ohne Folter entstanden sind. Sorgfältig. Seit 2003.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-08-27-0631-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "780 Franken Pensionskasse in Rüstungsaktien",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Jeden Monat gehen 780 Franken von meinem Lohn in die Pensionskasse, ein Teil davon in Rüstungsaktien. Mein Ruhestand ist also gesichert. Von Leuten, die keinen erleben.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
       }
     },
     {
