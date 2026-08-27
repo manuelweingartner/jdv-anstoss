@@ -44,24 +44,24 @@
       "text": "Ich lese, die Schweiz wünscht sich mehr Regionalität. Als Konzern mache ich mit: Meine Steuern zahle ich ab sofort streng regional. In Zug. 11,8 Prozent."
     },
     {
-      "id": "2026-08-27-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "Fabrik ist Enteignung, Wasser ist Konzession",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Nimmt ein Staat einem Konzern die Fabrik, heisst das Enteignung. Nimmt ein Konzern einem Land das Wasser, heisst das Konzession."
-    },
-    {
-      "id": "2026-08-27-0757-09",
-      "typ": "remix",
-      "stichwort": "1.20 für morgen, Briefträger noch drei Mal",
+      "id": "2026-08-27-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "1'400 Franken Krone, Zähne nicht versichert",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich zahle 1.20, damit mein Brief morgen ankommt. Der Post-Chef sagt, in zehn Jahren kommt der Briefträger noch drei Mal die Woche. Morgen ist dann ein Richtwert. Unverbindlich. Zum Vollpreis."
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe 1'400 Franken für eine Zahnkrone bezahlt. Die Grundversicherung deckt jedes Organ ausser den Zähnen, also ausgerechnet das, was man beim Lächeln sieht. Sichtbar. Von weitem."
+    },
+    {
+      "id": "2026-08-27-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Miete zahlt die Altersvorsorge des Vermieters",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Meine Miete zahlt in dreissig Jahren eine ganze Wohnung ab. Sie gehört dann jemand anderem. Das ist seine Altersvorsorge. Bezahlt aus meiner."
     }
   ]
 }
