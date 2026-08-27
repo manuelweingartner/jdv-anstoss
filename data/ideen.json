@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-27",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 16,
       "text": "Ich darf am Flughafen keine 150 Milliliter Shampoo mitnehmen. Iran und Oman wollen die Kriegsschiffe aus der Strasse von Hormus nehmen, Washington ist dagegen. Aus Sicherheitsgründen."
+    },
+    {
+      "id": "2026-08-27-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hitzefrei ab 33 Grad, gemessen im Sitzungszimmer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Cédric Wermuth fordert Hitzefrei ab 33 Grad, und als Amt finden wir das richtig. Gemessen wird bei uns im Sitzungszimmer. Klimatisiert. 21 Grad."
+    },
+    {
+      "id": "2026-08-27-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Regionalitaets-Wunsch, Steuern in Zug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich lese, die Schweiz wünscht sich mehr Regionalität. Als Konzern mache ich mit: Meine Steuern zahle ich ab sofort streng regional. In Zug. 11,8 Prozent."
     }
   ]
 }
