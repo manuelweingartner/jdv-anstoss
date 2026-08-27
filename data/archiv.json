@@ -11065,6 +11065,102 @@
         "neu": true
       },
       "datum": "2026-08-26"
+    },
+    {
+      "id": "2026-08-27-0631-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nvidia verdoppelt, zwei Maschinen fuer eine Mail",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich bin Nvidia, ich habe meinen Gewinn verdoppelt. Ihr wollt eine Maschine, die eure Mails höflicher schreibt, und eine zweite, die sie euch zusammenfasst. Beide laufen bei mir.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-0631-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "27 Jahre bis zum Prozess, nichts ueberstuerzen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "27 Jahre nach der Tat kommt der mutmassliche 9/11-Planer 2028 in Guantánamo vor Gericht. Ich finde es richtig, nichts zu überstürzen. Wer gefoltert wurde, verdient ein sauberes Verfahren. Irgendwann.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-0631-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pensionskasse hält Rüstung, Rente hängt daran",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich zahle seit zwanzig Jahren zwangsweise in die Pensionskasse ein. Ein Teil davon liegt in Rüstungsaktien. Meine Rente hängt daran, dass irgendwo geschossen wird. Steuerlich abzugsfähig.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-0631-08",
+      "typ": "schnittmenge",
+      "stichwort": "Böxli stört die Gämsen, Kampfjets nicht",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Mein Bluetooth-Lautsprecher auf dem Wanderweg stört laut Wildtier Schweiz die Gämsen. Zwei Kampfjets, die durch dasselbe Tal donnern, sind Landesverteidigung.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-0631-17",
+      "typ": "persönlich",
+      "stichwort": "Bilder von Hand, Roboter in 9,39 Sekunden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ich bastle meine Bilder abends von Hand, weil ich es nicht anders kann. Ein chinesischer Roboter rennt inzwischen die 100 Meter in 9,39 Sekunden. Er kann auch nichts anderes.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-0631-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "9.39 Sekunden, Glarner tritt zurück",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "9.39 Sekunden über 100 Meter, schneller als Usain Bolt: das schaffte ein chinesischer Roboter. Am selben Tag trat Andreas Glarner zurück. Zwei Meldungen über Automatisierung. Eine davon überfällig.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-08-27"
     }
   ]
 }
