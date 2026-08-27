@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-27",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Ich lese, die Schweiz wünscht sich mehr Regionalität. Als Konzern mache ich mit: Meine Steuern zahle ich ab sofort streng regional. In Zug. 11,8 Prozent."
+    },
+    {
+      "id": "2026-08-27-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "Fabrik ist Enteignung, Wasser ist Konzession",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Nimmt ein Staat einem Konzern die Fabrik, heisst das Enteignung. Nimmt ein Konzern einem Land das Wasser, heisst das Konzession."
+    },
+    {
+      "id": "2026-08-27-0757-09",
+      "typ": "remix",
+      "stichwort": "1.20 für morgen, Briefträger noch drei Mal",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich zahle 1.20, damit mein Brief morgen ankommt. Der Post-Chef sagt, in zehn Jahren kommt der Briefträger noch drei Mal die Woche. Morgen ist dann ein Richtwert. Unverbindlich. Zum Vollpreis."
     }
   ]
 }
