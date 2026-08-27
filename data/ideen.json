@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-27",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -24,6 +24,26 @@
       "text": "27 Jahre nach der Tat kommt der mutmassliche 9/11-Planer 2028 in Guantánamo vor Gericht. Ich finde es richtig, nichts zu überstürzen. Wer gefoltert wurde, verdient ein sauberes Verfahren. Irgendwann."
     },
     {
+      "id": "2026-08-27-0631-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mondrian für 30 Millionen, Seilbahn pleite",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Für bis zu 30 Millionen Pfund kommt im Oktober ein Mondrian unter den Hammer, Linien und Kästchen. Gleiche Woche: jede zweite Schweizer Kleinseilbahn ist pleite. Eine Linie, ein Kästchen dran."
+    },
+    {
+      "id": "2026-08-27-0631-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wirtschaftsterrorismus, Krebsstation statt Führung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Iran nennt die US-Sanktionen Wirtschaftsterrorismus. Ein Regime, das Demonstrantinnen aufhängt, hat seit 2018 in genau einem Punkt recht: Getroffen wird die Krebsstation, nicht die Führung."
+    },
+    {
       "id": "2026-08-27-0631-25",
       "typ": "politisch-aktuell",
       "stichwort": "6800 Lohn versteuert, 200000 Kursgewinn nicht",
@@ -42,16 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 19,
       "text": "Für zwanzig Minuten Falschparken habe ich 40 Franken Busse bezahlt. Ein Vermögen von 40 Millionen verdient in denselben zwanzig Minuten genau so viel. Ohne aufzustehen."
-    },
-    {
-      "id": "2026-08-27-0631-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "780 Franken Pensionskasse in Rüstungsaktien",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Jeden Monat gehen 780 Franken von meinem Lohn in die Pensionskasse, ein Teil davon in Rüstungsaktien. Mein Ruhestand ist also gesichert. Von Leuten, die keinen erleben."
     }
   ]
 }
