@@ -4,6 +4,26 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-08-31-2036-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "16,7 Prozent Salt, gleiche Woche SBB",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Mein Handy-Abo bei Salt kostet 16,7 Prozent mehr als 2023, gleiche Woche will die SBB teurere Billette. Der eine erhöht wegen der Konkurrenz, der andere, weil er keine hat. Beides überzeugend."
+    },
+    {
+      "id": "2026-08-31-2036-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "5 von 193 entscheiden, nächstes Jahr 6",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich verstehe Russland und die USA: Baerbock will bei der UNO-Wahl des Generalsekretärs mehr Mitsprache, dabei entscheiden heute nur 5 von 193 Staaten. Nächstes Jahr sind es 6. Dann herrscht Chaos."
+    },
+    {
       "id": "2026-08-31-2036-05",
       "typ": "politisch-aktuell",
       "stichwort": "Christbaum entsorgt, CEO hat mein Jahr drin",
@@ -42,26 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Ich bin dein Handyanbieter und habe dein Abo um drei Franken verteuert. Treue wird bei uns belohnt: du darfst bleiben. Zum neuen Preis. Automatisch."
-    },
-    {
-      "id": "2026-08-31-2036-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Sendelizenz kommt von uns, vorläufig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Trump will eine NBC-Journalistin für ihre Berichterstattung bestraft sehen. Ich finde es richtig: Wer eine Sendelizenz hat, hat sie von uns. Vorläufig."
-    },
-    {
-      "id": "2026-08-31-2036-28",
-      "typ": "schnittmenge",
-      "stichwort": "Dach in drei Wochen, Koerper in vier Jahren",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Die Gewitter vom Freitag kosten die Versicherungen mehrere hundert Millionen. Ein kaputtes Dach ist in drei Wochen bezahlt, ein kaputter Körper braucht drei Gutachten. Und vier Jahre."
     }
   ]
 }
