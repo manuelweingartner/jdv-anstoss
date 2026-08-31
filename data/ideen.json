@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Mein Handy-Abo bei Salt kostet 16,7 Prozent mehr als 2023, gleiche Woche will die SBB teurere Billette. Der eine erhöht wegen der Konkurrenz, der andere, weil er keine hat. Beides überzeugend."
+      "text": "Mein Handy-Abo bei Salt kostet 16,7 Prozent mehr als 2023, gleiche Woche will die SBB teurere Billette. Der eine erhöht wegen der Konkurrenz, der andere, weil er keine hat. Beides überzeugend.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-08-31-2036-02",
@@ -21,47 +26,72 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich verstehe Russland und die USA: Baerbock will bei der UNO-Wahl des Generalsekretärs mehr Mitsprache, dabei entscheiden heute nur 5 von 193 Staaten. Nächstes Jahr sind es 6. Dann herrscht Chaos."
+      "text": "Ich verstehe Russland und die USA: Baerbock will bei der UNO-Wahl des Generalsekretärs mehr Mitsprache, dabei entscheiden heute nur 5 von 193 Staaten. Nächstes Jahr sind es 6. Dann herrscht Chaos.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-08-31-2036-05",
+      "id": "2026-08-31-2036-11",
+      "typ": "persönlich",
+      "stichwort": "45 Kilo in der Badewanne, Versicherer rechnen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Mein 45-Kilo-Herdenschutzhund lag beim Hagelsturm vom Freitag in der Badewanne, die Versicherer melden mehrere hundert Millionen Schaden. Er ist der einzige hier, der aufs Wetter reagiert. Sofort. Ohne Übergangsfrist.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-08-31-2036-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Christbaum entsorgt, CEO hat mein Jahr drin",
+      "stichwort": "drei Franken mehr, Treue wird belohnt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich habe am 2. Januar den Christbaum entsorgt und danach die Steuererklärung gesucht. Der bestbezahlte CEO des Landes hatte da meinen Jahreslohn schon verdient."
+      "format": 13,
+      "text": "Ich bin dein Handyanbieter und habe dein Abo um drei Franken verteuert. Treue wird bei uns belohnt: du darfst bleiben. Zum neuen Preis. Automatisch.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-31-2036-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "45 Jahre Lohngleichheit, dafür ein Gedenktag",
+      "id": "2026-08-31-2036-29",
+      "typ": "remix",
+      "stichwort": "23 Jahre Miete, Vermieter muss sterben",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seit 1981 steht die Lohngleichheit in der Verfassung. 45 Jahre später verdienen Frauen 18 Prozent weniger, wir haben dafür einen Gedenktag. Der Kalender ist die Massnahme. Jährlich. Mit Podium."
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich zahle seit vierzehn Jahren pünktlich Miete. In Australien hat eine Frau nach 23 Jahren die Wohnung geschenkt bekommen. Ihr Vermieter musste dafür nur sterben.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-08-31-2036-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lohnausweis einzeln, Aktiengewinn null",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Auf meinem Lohnausweis steht jeder verdiente Franken einzeln. Wer eine Million mit Aktien gewinnt, zahlt in der Schweiz null. Leistung muss sich lohnen. Die von anderen."
-    },
-    {
-      "id": "2026-08-31-2036-10",
+      "id": "2026-08-31-2036-32",
       "typ": "persönlich",
-      "stichwort": "Drei Absätze Klarspüler, ein Augustrekord",
+      "stichwort": "Hagel am Fenster, zwei F-35",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich habe heute drei Absätze darüber gelesen, wie ich Klarspüler richtig nachfülle. Am selben Tag: zweitwärmster August seit Messbeginn. Der Ratgeber war ausführlicher. Mit Bildern."
+      "format": 19,
+      "text": "Ich habe am Freitag im Gewitter am Fenster gestanden und dem Hagel zugehört. Schweizweit kostet das mehrere hundert Millionen, also zwei F-35. Gegen den Himmel rüsten wir immerhin auf.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
