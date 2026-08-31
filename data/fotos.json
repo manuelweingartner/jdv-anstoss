@@ -1,59 +1,59 @@
 {
-  "stand": "2026-08-27T08:11:18+02:00",
-  "lauf": "0810",
+  "stand": "2026-08-31T17:01:09+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0810-1",
-      "titel": "Ein letztes «auf Wiedersehen»: Hier nimmt Thomas Bucheli Abschied",
-      "was": "Thomas Bucheli auf dem Meteo-Dach, Nebelmaschine, Kuchen, geruehrte Kollegen",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Staatsakt mit Nebelmaschine gegen die Belanglosigkeit einer Wetterprognose.",
+      "id": "1700-1",
+      "titel": "Die SVP will das Handy aus der Schule verbannen – der Zürcher Kantonsrat folgt ihr",
+      "was": "Zürcher Kantonsräte im Ratssaal, Smartphones und Tablets auf den Pulten",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Verbot fürs Klassenzimmer gegen die Bildschirme im Ratssaal.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "NZZ",
       "auch_bei": [
-        "SRF"
+        "Watson"
       ],
-      "artikel": "https://www.20min.ch/video/wetterfrosch-der-nation-ein-letztes-auf-wiedersehen-hier-nimmt-thomas-bucheli-abschied-103623098",
-      "bild": "https://image.20min.ch/2026/08/26/e7480a74-c440-486b-b5dc-76807b969f33.jpg?s=069ffa5fe6b6aebd93282298ae1e3b7f",
-      "zeit": "2026-08-26T20:28+02:00"
+      "artikel": "https://www.nzz.ch/zuerich/zuercher-kantonsrat-stimmt-fuer-handyverbot-an-schulen-ld.10021736",
+      "bild": "https://img-msp-prod.nzz.ch/2016/7/19/76b16125-42a3-448c-ac56-172f0b18c128.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3158,3158,x845,y0",
+      "zeit": "2026-08-31T13:17+02:00"
     },
     {
-      "id": "0810-2",
-      "titel": "News: Mini-EU-Gipfel im Kanzleramt, schwarz-roter Schwur in Münster, neuer SPIEGEL-Politikpodcast",
-      "was": "Kanzler und vier Regierungschefs beim Handschlag-Gruppenfoto im Kanzleramt",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Selbstbild als sparsame Fünf gegen den Aufwand, mit dem sie sich dabei fotografieren lassen.",
+      "id": "1700-2",
+      "titel": "Raus aus Zürich: Die Bank Vontobel verlegt 2030 ihren Hauptsitz in den Kanton Zug",
+      "was": "Vontobel-Spitze posiert vor Glasfassade oder Bauland in Baar, Zug",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Standortoptimierung in der Medienmitteilung gegen Steueroptimierung in der Bilanz.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
+      "raum": "schweiz",
+      "quelle": "NZZ",
       "auch_bei": [
-        "Tagesschau"
+        "Watson"
       ],
-      "artikel": "https://www.spiegel.de/politik/deutschland/news-mini-eu-gipfel-im-kanzleramt-schwarz-roter-schwur-in-muenster-neuer-spiegel-politikpodcast-a-9f6d3e7a-8e73-4d6b-b172-89bb99dc123b#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w520_r2.08_fpx28.09_fpy49.93.png",
-      "zeit": "2026-08-27T05:43+02:00"
+      "artikel": "https://www.nzz.ch/wirtschaft/raus-aus-zuerich-die-bank-vontobel-verlegt-2030-ihren-hauptsitz-in-den-kanton-zug-ld.10021516",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/28/768bdcc2-3cc1-4c60-82d4-7e156f2346a5.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2728,2728,x949,y0",
+      "zeit": "2026-08-31T15:07+02:00"
     },
     {
-      "id": "0810-3",
-      "titel": "Rang 2 für Stabhochspringerin – Moser fliegt im Zürcher HB erstmals auf das Podest",
-      "was": "Stabhochspringerin fliegt über die Latte in der Halle des Zürcher Hauptbahnhofs",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: 4,85 Meter Hallenrekord gegen alles andere, was in diesem Bahnhof nicht in die Höhe kommt.",
+      "id": "1700-3",
+      "titel": "New Yorks Bürgermeister – Bester Zohran-Mamdani-Doppelgänger gekürt",
+      "was": "Gewinner im Mamdani-Outfit posiert beim Doppelgänger-Wettbewerb in New York",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: perfekt kopiertes Auftreten gegen die Frage, wer die Politik dahinter kopiert.",
       "grund": "memetauglich",
-      "raum": "schweiz",
+      "raum": "",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/sport/leichtathletik/rang-2-fuer-stabhochspringerin-moser-fliegt-im-zuercher-hb-erstmals-auf-das-podest",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/0c4396.jpg",
-      "zeit": "2026-08-26T19:42+02:00"
+      "artikel": "https://www.srf.ch/news/international/new-yorks-buergermeister-bester-zohran-mamdani-doppelgaenger-gekuert",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/749590.jpg",
+      "zeit": "2026-08-31T16:03+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 19:00",
-      "was": "Weltklasse Zürich im Letzigrund: Jubel, Grimassen und Weltrekordversuch im Stabhochsprung"
+      "wann": "heute ab 18:00",
+      "was": "Wahlabend Sachsen-Anhalt: Parteispitzen vor der Balkengrafik, Jubel und Versteinerung im selben Raum"
     },
     {
-      "wann": "heute im Tagesverlauf",
-      "was": "Mini-EU-Gipfel im Kanzleramt: Begrüssungsritual, Treppenaufgang, Gruppenbild"
+      "wann": "heute abend",
+      "was": "Weltpremiere von Noizy in Zürich: Rapper auf dem roten Teppich zwischen Kinopublikum und Security"
     }
   ],
   "hinweis": ""
