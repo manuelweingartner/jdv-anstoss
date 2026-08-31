@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-31",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -34,16 +34,16 @@
       }
     },
     {
-      "id": "2026-08-31-2036-11",
-      "typ": "persönlich",
-      "stichwort": "45 Kilo in der Badewanne, Versicherer rechnen",
+      "id": "2026-08-31-2036-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Erster von 27 Zusatzartikeln, der Reihe nach",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Mein 45-Kilo-Herdenschutzhund lag beim Hagelsturm vom Freitag in der Badewanne, die Versicherer melden mehrere hundert Millionen Schaden. Er ist der einzige hier, der aufs Wetter reagiert. Sofort. Ohne Übergangsfrist.",
+      "format": 13,
+      "text": "Ich finde es richtig, dass Trump einer NBC-Journalistin mit Bestrafung droht. Die Pressefreiheit ist der erste von 27 Zusatzartikeln. Wir arbeiten uns durch. Der Reihe nach.",
       "jury": {
-        "anker": true,
+        "anker": false,
         "witz": true,
         "neu": true
       }
