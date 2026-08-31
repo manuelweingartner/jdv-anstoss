@@ -23,6 +23,16 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
   nur dieses Repo, Issues Read+Write. Ohne Token sammelt die Seite alles in
   einer localStorage-Queue und sendet es nach der Eingabe nach. Der
   aktuelle Token läuft am 04.08.2027 ab.
+- **Die Queue kann sich festfahren, seit 31.08.2026 gibt es einen Ausweg.**
+  `flushQueue()` leert die Warteschlange und sendet jeden Eintrag neu, und
+  `sendIssue()` legt einen weiterhin scheiternden Eintrag sofort wieder
+  zurück. Ein Auftrag, den GitHub dauerhaft ablehnt, dreht sich damit im
+  Kreis und der Banner bleibt für immer stehen. Der Banner nennt darum jetzt
+  den **echten HTTP-Fehler** samt GitHub-Meldung statt pauschal „Token
+  prüfen", und trägt einen **verwerfen**-Knopf mit Rückfrage. Auf dem Handy
+  gibt es keine Konsole, ohne diesen Knopf ist ein Stau dort nicht auflösbar.
+  Auslöser war eine „6 neue"-Anforderung, die nach einem Token-Wechsel
+  hängenblieb.
 - **Eine Runde sind seit 10.08.2026 nur noch 6 Vorschläge, aber gesiebte.**
   Nicht weniger Arbeit, sondern mehr: der Laptop zieht jeden Teilauftrag doppelt,
   hängt einen Material-Teilauftrag an und schickt rund 24 Ideen durch eine

@@ -80,6 +80,13 @@
     font-size: .76rem; line-height: 1.5; color: var(--matt);
   }
   .banner.warn { color: var(--nein); }
+  /* Verwerfen im Stau-Banner. Inline wie die Filterzeile, aber mit genug
+     Polster, damit es auf dem Handy sicher zu treffen ist. */
+  .banner button {
+    background: none; border: 0; color: inherit; font: inherit;
+    text-decoration: underline; cursor: pointer;
+    padding: 6px 2px; margin: -6px 0;
+  }
 
   /* ---------------------------------------------------------- Einstellungen */
   .settings {
@@ -687,10 +694,17 @@ async function sendIssue(title, body) {
       headers: { Authorization: `Bearer ${token}`, Accept: 'application/vnd.github+json' },
       body: JSON.stringify({ title, body }),
     });
-    if (!r.ok) throw new Error('HTTP ' + r.status);
+    if (!r.ok) {
+      /* Bis 27.08.2026 stand hier nur der Status, und der wurde vom catch
+         verschluckt. Der Banner riet dann immer "Token pruefen", auch wenn
+         das Token stimmte und in Wahrheit die Nutzlast abgelehnt wurde. */
+      let detail = '';
+      try { detail = (await r.json()).message || ''; } catch (_) { detail = ''; }
+      throw new Error('HTTP ' + r.status + (detail ? ': ' + detail : ''));
+    }
     return 'sent';
   } catch (e) {
-    queue.push({ title, body });
+    queue.push({ title, body, err: e.message });
     localStorage.setItem(LS_QUEUE, JSON.stringify(queue));
     return 'queued';
   }
@@ -715,13 +729,33 @@ function zeigeStau() {
   const queue = JSON.parse(localStorage.getItem(LS_QUEUE) || '[]');
   const el = document.getElementById('stau');
   if (!el) return;
+  el.textContent = '';
   if (!queue.length) { el.hidden = true; return; }
   const mehr = queue.filter(q => /^MEHR/.test(q.title)).length;
   const mat = queue.filter(q => /^MATERIAL/.test(q.title)).length;
-  el.textContent = `${queue.length} Rückmeldung${queue.length > 1 ? 'en' : ''} `
+  const grund = queue.map(q => q.err).filter(Boolean).pop();
+  el.append(`${queue.length} Rückmeldung${queue.length > 1 ? 'en' : ''} `
     + `noch nicht gesendet${mehr ? `, darunter ${mehr} mal "${MEHR_LABEL}"` : ''}`
     + `${mat ? `, dazu ${mat} mal Material` : ''}. `
-    + 'Der Laptop sieht davon nichts. Token unter ⚙ prüfen.';
+    + 'Der Laptop sieht davon nichts. '
+    + (grund ? `Letzter Fehler: ${grund}. ` : 'Token unter ⚙ prüfen. '));
+
+  /* Ohne diesen Knopf gibt es keinen Ausweg: flushQueue() legt einen Eintrag,
+     der weiter scheitert, sofort wieder zurueck in die Queue, und der Banner
+     bleibt fuer immer stehen. Am 27.08.2026 genau so passiert, mit einer
+     "6 neue"-Anforderung, die sich nach einem Token-Wechsel nicht mehr
+     senden liess. Auf dem Handy gibt es keine Konsole, also muss es hier
+     einen Weg geben. */
+  const b = document.createElement('button');
+  b.textContent = 'verwerfen';
+  b.onclick = () => {
+    const wieviel = `${queue.length} Rückmeldung${queue.length > 1 ? 'en' : ''}`;
+    if (!confirm(`${wieviel} endgültig verwerfen? Der Laptop erfährt nie davon.`)) return;
+    localStorage.setItem(LS_QUEUE, '[]');
+    toast(`${wieviel} verworfen`);
+    zeigeStau();
+  };
+  el.append(b);
   el.hidden = false;
 }
 
