@@ -11257,6 +11257,28 @@
         "witz": true
       },
       "datum": "2026-08-27"
+    },
+    {
+      "id": "2026-08-31-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Verwaltungsrat hat die Verteilfrage im März beantwortet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich sitze im Verwaltungsrat. Die Schweizer Wirtschaft war letztes Jahr produktiver, jetzt wird gefragt, wer davon etwas bekommt. Gute Frage. Wir haben sie im März beantwortet.",
+      "datum": "2026-08-31"
+    },
+    {
+      "id": "2026-08-31-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "35 Millionen Tribüne, niemand fragt nach Anstrengung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Winterthur saniert sein Stadion für 35 Millionen, praktisch unbestritten. Als Stadt finde ich das richtig: Bei einer Tribüne fragt niemand, ob sie sich genug angestrengt hat.",
+      "datum": "2026-08-31"
     }
   ]
 }
