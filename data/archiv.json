@@ -11161,6 +11161,102 @@
         "neu": true
       },
       "datum": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hitzefrei ab 33 Grad, gemessen im Sitzungszimmer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Cédric Wermuth fordert Hitzefrei ab 33 Grad, und als Amt finden wir das richtig. Gemessen wird bei uns im Sitzungszimmer. Klimatisiert. 21 Grad.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Regionalitaets-Wunsch, Steuern in Zug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich lese, die Schweiz wünscht sich mehr Regionalität. Als Konzern mache ich mit: Meine Steuern zahle ich ab sofort streng regional. In Zug. 11,8 Prozent.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-0757-09",
+      "typ": "remix",
+      "stichwort": "1.20 für morgen, Briefträger noch drei Mal",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich zahle 1.20, damit mein Brief morgen ankommt. Der Post-Chef sagt, in zehn Jahren kommt der Briefträger noch drei Mal die Woche. Morgen ist dann ein Richtwert. Unverbindlich. Zum Vollpreis.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-0757-17",
+      "typ": "persönlich",
+      "stichwort": "Fünf Posts als Kacheln, zwei wegen Grün raus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe fünf Posts über Gewalt, Mieten und Konzerne in Bildkacheln setzen lassen. Zwei sind rausgeflogen, weil das Grün nicht zum Rest passte. Hausstil. Bildsprache. Haltung.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      },
+      "datum": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hitzepaket gegen 165 Tonnen Tomaten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Albert Rösti stellt das Hitzepaket des Bundesrats vor und nennt es ein Worst-Case-Szenario. Am selben Tag werfen in Spanien Tausende 165 Tonnen Tomaten aufeinander. Nur eines der beiden Pakete kühlt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Termin bei Fielmann, Therapieplatz keiner",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich hatte bei Fielmann in zwei Tagen einen Termin. Ein 25-jähriger Luzerner hat seine Essstörung ohne Therapieplatz überwunden, achtzehn Kilo in Eigenregie. Versichert ist er seit der Geburt.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      },
+      "datum": "2026-08-27"
     }
   ]
 }
