@@ -1,8 +1,38 @@
 {
   "datum": "2026-08-31",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-08-31-2036-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Christbaum entsorgt, CEO hat mein Jahr drin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich habe am 2. Januar den Christbaum entsorgt und danach die Steuererklärung gesucht. Der bestbezahlte CEO des Landes hatte da meinen Jahreslohn schon verdient."
+    },
+    {
+      "id": "2026-08-31-2036-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "45 Jahre Lohngleichheit, dafür ein Gedenktag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seit 1981 steht die Lohngleichheit in der Verfassung. 45 Jahre später verdienen Frauen 18 Prozent weniger, wir haben dafür einen Gedenktag. Der Kalender ist die Massnahme. Jährlich. Mit Podium."
+    },
+    {
+      "id": "2026-08-31-2036-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lohnausweis einzeln, Aktiengewinn null",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Auf meinem Lohnausweis steht jeder verdiente Franken einzeln. Wer eine Million mit Aktien gewinnt, zahlt in der Schweiz null. Leistung muss sich lohnen. Die von anderen."
+    },
     {
       "id": "2026-08-31-2036-23",
       "typ": "politisch-aktuell",
@@ -32,16 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 1,
       "text": "Die Gewitter vom Freitag kosten die Versicherungen mehrere hundert Millionen. Ein kaputtes Dach ist in drei Wochen bezahlt, ein kaputter Körper braucht drei Gutachten. Und vier Jahre."
-    },
-    {
-      "id": "2026-08-31-2036-29",
-      "typ": "remix",
-      "stichwort": "23 Jahre Miete, Vermieter muss sterben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich zahle seit vierzehn Jahren pünktlich Miete. In Australien hat eine Frau nach 23 Jahren die Wohnung geschenkt bekommen. Ihr Vermieter musste dafür nur sterben."
     }
   ]
 }
