@@ -1,6 +1,6 @@
 {
   "datum": "2026-08-31",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Trump will eine NBC-Journalistin für ihre Berichterstattung bestraft sehen. Ich finde es richtig: Wer eine Sendelizenz hat, hat sie von uns. Vorläufig."
+    },
+    {
+      "id": "2026-08-31-2036-28",
+      "typ": "schnittmenge",
+      "stichwort": "Dach in drei Wochen, Koerper in vier Jahren",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Die Gewitter vom Freitag kosten die Versicherungen mehrere hundert Millionen. Ein kaputtes Dach ist in drei Wochen bezahlt, ein kaputter Körper braucht drei Gutachten. Und vier Jahre."
+    },
+    {
+      "id": "2026-08-31-2036-29",
+      "typ": "remix",
+      "stichwort": "23 Jahre Miete, Vermieter muss sterben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich zahle seit vierzehn Jahren pünktlich Miete. In Australien hat eine Frau nach 23 Jahren die Wohnung geschenkt bekommen. Ihr Vermieter musste dafür nur sterben."
     }
   ]
 }
