@@ -11279,6 +11279,102 @@
       "format": 13,
       "text": "Winterthur saniert sein Stadion für 35 Millionen, praktisch unbestritten. Als Stadt finde ich das richtig: Bei einer Tribüne fragt niemand, ob sie sich genug angestrengt hat.",
       "datum": "2026-08-31"
+    },
+    {
+      "id": "2026-08-31-2036-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "16,7 Prozent Salt, gleiche Woche SBB",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Mein Handy-Abo bei Salt kostet 16,7 Prozent mehr als 2023, gleiche Woche will die SBB teurere Billette. Der eine erhöht wegen der Konkurrenz, der andere, weil er keine hat. Beides überzeugend.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-08-31"
+    },
+    {
+      "id": "2026-08-31-2036-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "5 von 193 entscheiden, nächstes Jahr 6",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich verstehe Russland und die USA: Baerbock will bei der UNO-Wahl des Generalsekretärs mehr Mitsprache, dabei entscheiden heute nur 5 von 193 Staaten. Nächstes Jahr sind es 6. Dann herrscht Chaos.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-08-31"
+    },
+    {
+      "id": "2026-08-31-2036-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Erster von 27 Zusatzartikeln, der Reihe nach",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es richtig, dass Trump einer NBC-Journalistin mit Bestrafung droht. Die Pressefreiheit ist der erste von 27 Zusatzartikeln. Wir arbeiten uns durch. Der Reihe nach.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-31"
+    },
+    {
+      "id": "2026-08-31-2036-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "drei Franken mehr, Treue wird belohnt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich bin dein Handyanbieter und habe dein Abo um drei Franken verteuert. Treue wird bei uns belohnt: du darfst bleiben. Zum neuen Preis. Automatisch.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-08-31"
+    },
+    {
+      "id": "2026-08-31-2036-29",
+      "typ": "remix",
+      "stichwort": "23 Jahre Miete, Vermieter muss sterben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich zahle seit vierzehn Jahren pünktlich Miete. In Australien hat eine Frau nach 23 Jahren die Wohnung geschenkt bekommen. Ihr Vermieter musste dafür nur sterben.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-08-31"
+    },
+    {
+      "id": "2026-08-31-2036-32",
+      "typ": "persönlich",
+      "stichwort": "Hagel am Fenster, zwei F-35",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich habe am Freitag im Gewitter am Fenster gestanden und dem Hagel zugehört. Schweizweit kostet das mehrere hundert Millionen, also zwei F-35. Gegen den Himmel rüsten wir immerhin auf.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-08-31"
     }
   ]
 }
