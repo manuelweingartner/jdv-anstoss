@@ -1,59 +1,60 @@
 {
-  "stand": "2026-09-01T08:12:29+02:00",
-  "lauf": "0812",
+  "stand": "2026-09-01T17:00:46+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0812-1",
-      "titel": "Weisses Haus – Baustopp für Trumps Ballsaal aufgehoben",
-      "was": "Baustelle am Weissen Haus, Bagger und Kräne neben dem Westflügel",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: 400 Millionen für einen Ballsaal gegen alles, wofür angeblich kein Geld da ist.",
+      "id": "1700-1",
+      "titel": "Norwegens neuer König Haakon legt Eid vor Parlament ab",
+      "was": "Neuer König in Uniform legt Eid vor dem Parlament ab",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: feierlicher Schwur auf die Verfassung gegen einen Posten, der ohnehin per Geburt vergeben war.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "SRF",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "Watson"
+        "20 Minuten",
+        "Spiegel"
       ],
-      "artikel": "https://www.srf.ch/news/international/usa/weisses-haus-baustopp-fuer-trumps-ballsaal-aufgehoben",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/698c04.jpg",
-      "zeit": "2026-09-01T08:04+02:00"
+      "artikel": "https://www.tagesschau.de/video/video-1640860.html",
+      "bild": "https://images.tagesschau.de/image/db6e6426-f216-4309-a934-8b6a7072ea9a/AAABoFzx07Q/AAABnSSvrFg/16x9-big/sendungsbild-1789022.jpg?width=1280",
+      "zeit": "2026-09-01T14:29+02:00"
     },
     {
-      "id": "0812-2",
-      "titel": "Guterres-Nachfolge – UNO-Präsidentin Baerbock kommt unter Beschuss der Vetomächte",
-      "was": "Baerbock am UNO-Rednerpult, Vetomächte-Vertreter im Saal mit versteinerten Mienen",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Mitsprache für alle fordern gegen ein Gremium, das nur funktioniert, weil fünf Staaten Nein sagen dürfen.",
+      "id": "1700-2",
+      "titel": "Adiós, Argentina: Das Nationalteam gab Lionel Messis Karriere den epischen Anstrich",
+      "was": "Messi im Ehrenspalier, Abschiedsgesten und Tränen auf dem Rasen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Staatsakt mit Ehrengarde gegen einen ganz normalen Jobwechsel im Alter von 38.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "SRF",
-      "auch_bei": [
-        "taz"
-      ],
-      "artikel": "https://www.srf.ch/news/international/guterres-nachfolge-uno-praesidentin-baerbock-kommt-unter-beschuss-der-vetomaechte",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/c8c976.jpg",
-      "zeit": "2026-08-31T19:35+02:00"
-    },
-    {
-      "id": "0812-3",
-      "titel": "A340-300 »Theodor Heuss«: So haben Sie den VIP-Bereich einer deutschen Regierungsmaschine noch nie gesehen",
-      "was": "VIP-Kabine des Regierungsjets, Ledersessel und Holzvertäfelung im Flugzeugrumpf",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Dienstreise als Sparzwang verkauft gegen die Ausstattung, die niemand sehen sollte.",
-      "grund": "memetauglich",
       "raum": "",
-      "quelle": "Spiegel",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "Spiegel"
+      ],
+      "artikel": "https://www.nzz.ch/sport/fussball/lionel-messi-tritt-aus-der-argentinischen-nationalmannschaft-zurueck-ld.10021813",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/31/7e456124-3b57-4deb-98b1-915ae60c9516.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1500,1500,x663,y181",
+      "zeit": "2026-09-01T15:38+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Schlangenfund in Winterthur – Drei Meter lange Teppichpython in Zürcher Wald eingefangen",
+      "was": "Polizisten halten eine drei Meter lange Python vor der Kamera",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: das grösste Tier des Tages gegen die Zuständigkeit, die dafür vorgesehen ist.",
+      "grund": "memetauglich",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.spiegel.de/politik/deutschland/a340-300-theodor-heuss-so-haben-sie-den-vip-bereich-einer-deutschen-regierungsmaschine-noch-nie-gesehen-a-c7ecf637-0d23-42ff-895d-ff356852b73e#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/a41317b0-55f4-42b2-8e49-c5bc0ca02fd5_w520_r2.08_fpx33.31_fpy49.93.jpg",
-      "zeit": "2026-09-01T06:18+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/schlangenfund-in-winterthur-drei-meter-lange-teppichpython-in-zuercher-wald-eingefangen",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/cca1e0.jpg",
+      "zeit": "2026-09-01T12:27+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute im Lauf des Tages",
-      "was": "Handschlagfoto von Justizminister Jans und dem deutschen Innenminister in Chiasso, Grenzkulisse und Polizeiaufgebot"
+      "wann": "heute ab 18:00",
+      "was": "Gruppenfoto der EU-Verteidigungsminister beim Treffen in Wicklow, Reihe im Halbkreis vor Landschaftskulisse"
     },
     {
-      "wann": "heute ab Sitzungsbeginn",
-      "was": "Ständeratssaal in der EU-Mammutdebatte, müde Gesichter und Bundesrat am Rednerpult"
+      "wann": "heute ab 19:00",
+      "was": "Roter Teppich zum Auftakt der Filmfestspiele von Venedig, Posen und Blitzlichtgewitter am Lido"
     }
   ],
   "hinweis": ""
