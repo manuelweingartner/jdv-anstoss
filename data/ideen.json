@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-01",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-01-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "900 Tote, mehrere hundert Millionen Franken",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Nepal zählt nach der Flut über 900 Tote. Wir zählen nach dem Gewitter vom Freitag mehrere hundert Millionen Franken Schaden. Gleiche Woche, gleiche Klimakrise, andere Währung."
+    },
+    {
+      "id": "2026-09-01-0757-09",
+      "typ": "remix",
+      "stichwort": "sieben Jahre ECO, hundert Konzerne",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren auf ECO. Das rettet das Klima nicht, es beruhigt mich. Hundert Konzerne haben kein ECO-Programm. Und keine schlechten Träume."
+    },
     {
       "id": "2026-09-01-0757-24",
       "typ": "politisch-aktuell",
