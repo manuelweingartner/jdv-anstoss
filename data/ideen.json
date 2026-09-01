@@ -24,6 +24,16 @@
       "text": "Ich fahre die Abwaschmaschine seit sieben Jahren auf ECO. Das rettet das Klima nicht, es beruhigt mich. Hundert Konzerne haben kein ECO-Programm. Und keine schlechten Träume."
     },
     {
+      "id": "2026-09-01-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Verbrenner-Aus 2035 bekämpft, jetzt Zölle gegen BYD",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 17,
+      "text": "Chinas E-Autos hängen die deutschen Hersteller ab. Dieselbe Branche, die gegen das Verbrenner-Aus 2035 kämpfte, ruft jetzt nach Zöllen. Der freie Markt gilt, bis man ihn verliert."
+    },
+    {
       "id": "2026-09-01-0757-24",
       "typ": "politisch-aktuell",
       "stichwort": "Siedlergewalt verurteilt, Volksvermögen vernichtet",
@@ -52,16 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 3,
       "text": "Auf meinem Lohnausweis ist jeder Franken steuerbar. Wer sich aus der eigenen Firma eine Dividende auszahlt, versteuert davon 70 Prozent. Die anderen 30 heissen Standortvorteil."
-    },
-    {
-      "id": "2026-09-01-0757-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Eine Stunde Ermotti, ein Monat ich",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Sergio Ermotti verdient bei der UBS 14,9 Millionen im Jahr. Eine Arbeitsstunde von ihm ist ein Monatslohn von mir. Wir sind beide angestellt. Gleicher Vertragstyp."
     }
   ]
 }
