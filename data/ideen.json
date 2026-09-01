@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-01",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -79,14 +79,14 @@
       }
     },
     {
-      "id": "2026-09-01-0757-30",
+      "id": "2026-09-01-0757-31",
       "typ": "persönlich",
-      "stichwort": "Sieben Jahre ECO gegen einen Privatjet",
+      "stichwort": "Hund eingereist in 21 Tagen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Seit sieben Jahren läuft meine Abwaschmaschine im ECO-Programm, vier Stunden pro Ladung. In derselben Zeit fliegt ein Privatjet nach London und zurück. Ich spare weiter. Aus Prinzip.",
+      "format": 1,
+      "text": "Mein Hund ist aus Rumänien eingereist: Chip, Tollwutimpfung, 21 Tage warten, fertig. Menschen auf derselben Route sitzen nach drei Jahren im Verfahren. Er hat einen Pass. Blauen.",
       "jury": {
         "anker": true,
         "witz": true,
