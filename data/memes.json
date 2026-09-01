@@ -1,46 +1,46 @@
 {
-  "stand": "2026-08-27T08:12:39+02:00",
+  "stand": "2026-09-01T08:13:38+02:00",
   "vorschlaege": [
+    {
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
+      "zeilen": [
+        "600 Stellen weg",
+        "Strukturelle Effizienzoffensive 2028"
+      ],
+      "warum": "weil Swiss Life gute Zahlen und Stellenabbau nur ueber die Wortwahl zusammenpassen",
+      "bild": "vorschlag-1.jpg"
+    },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Massnahmenpaket gegen die Dürre",
-        "Ursachen angehen",
-        "Albert Rösti"
+        "Ballsaal fuer 400 Millionen",
+        "Baustopp respektieren",
+        "Der Supreme Court"
       ],
-      "warum": "das Paket biegt kurz vor der Ursache ab, genau die Bewegung der Figur",
-      "bild": "vorschlag-1.jpg"
-    },
-    {
-      "vorlage": "schild",
-      "name": "Change My Mind",
-      "zeilen": [
-        "Dreimal Post pro Woche ist auch täglich"
-      ],
-      "warum": "eine Definitionsverschiebung, die niemand widerlegen kann, weil sie beschlossen ist",
+      "warum": "weil das Gericht in letzter Sekunde vom naheliegenden Weg abbiegt",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Skilifte Braunwald, 1954",
-        "Wintersport ohne Businessplan",
-        "Kleinseilbahn mit QR-Code",
-        "Digitalisierung als Rettungsplan"
+        "Golf I, 1974",
+        "Weltmarkt in fuenf Jahren",
+        "BYD gibt den Takt",
+        "VW prueft Kostenstrukturen"
       ],
-      "warum": "behauptetes starkes Früher gegen ein Heute, das sich selbst verwaltet",
+      "warum": "weil die deutsche Autoindustrie ihr eigenes Fruecher als Messlatte hat",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "Wegwerfmode aus Guangzhou",
-        "Demokratisierter Modezugang"
+        "Treue ist bei Swisscom ein Preisaufschlag"
       ],
-      "warum": "der Börsenprospekt ist die vornehme Verpackung derselben Sache",
+      "warum": "weil der Satz nach Provokation klingt und faktisch die Preisliste beschreibt",
       "bild": "vorschlag-4.jpg"
     }
   ]
