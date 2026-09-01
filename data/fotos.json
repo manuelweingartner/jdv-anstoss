@@ -1,59 +1,59 @@
 {
-  "stand": "2026-08-31T17:01:09+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-01T08:12:29+02:00",
+  "lauf": "0812",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Die SVP will das Handy aus der Schule verbannen – der Zürcher Kantonsrat folgt ihr",
-      "was": "Zürcher Kantonsräte im Ratssaal, Smartphones und Tablets auf den Pulten",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Verbot fürs Klassenzimmer gegen die Bildschirme im Ratssaal.",
+      "id": "0812-1",
+      "titel": "Weisses Haus – Baustopp für Trumps Ballsaal aufgehoben",
+      "was": "Baustelle am Weissen Haus, Bagger und Kräne neben dem Westflügel",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: 400 Millionen für einen Ballsaal gegen alles, wofür angeblich kein Geld da ist.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "NZZ",
+      "raum": "weltweit",
+      "quelle": "SRF",
       "auch_bei": [
         "Watson"
       ],
-      "artikel": "https://www.nzz.ch/zuerich/zuercher-kantonsrat-stimmt-fuer-handyverbot-an-schulen-ld.10021736",
-      "bild": "https://img-msp-prod.nzz.ch/2016/7/19/76b16125-42a3-448c-ac56-172f0b18c128.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3158,3158,x845,y0",
-      "zeit": "2026-08-31T13:17+02:00"
+      "artikel": "https://www.srf.ch/news/international/usa/weisses-haus-baustopp-fuer-trumps-ballsaal-aufgehoben",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/698c04.jpg",
+      "zeit": "2026-09-01T08:04+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Raus aus Zürich: Die Bank Vontobel verlegt 2030 ihren Hauptsitz in den Kanton Zug",
-      "was": "Vontobel-Spitze posiert vor Glasfassade oder Bauland in Baar, Zug",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Standortoptimierung in der Medienmitteilung gegen Steueroptimierung in der Bilanz.",
+      "id": "0812-2",
+      "titel": "Guterres-Nachfolge – UNO-Präsidentin Baerbock kommt unter Beschuss der Vetomächte",
+      "was": "Baerbock am UNO-Rednerpult, Vetomächte-Vertreter im Saal mit versteinerten Mienen",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Mitsprache für alle fordern gegen ein Gremium, das nur funktioniert, weil fünf Staaten Nein sagen dürfen.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "NZZ",
+      "raum": "weltweit",
+      "quelle": "SRF",
       "auch_bei": [
-        "Watson"
+        "taz"
       ],
-      "artikel": "https://www.nzz.ch/wirtschaft/raus-aus-zuerich-die-bank-vontobel-verlegt-2030-ihren-hauptsitz-in-den-kanton-zug-ld.10021516",
-      "bild": "https://img-msp-prod.nzz.ch/2026/08/28/768bdcc2-3cc1-4c60-82d4-7e156f2346a5.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2728,2728,x949,y0",
-      "zeit": "2026-08-31T15:07+02:00"
+      "artikel": "https://www.srf.ch/news/international/guterres-nachfolge-uno-praesidentin-baerbock-kommt-unter-beschuss-der-vetomaechte",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/c8c976.jpg",
+      "zeit": "2026-08-31T19:35+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "New Yorks Bürgermeister – Bester Zohran-Mamdani-Doppelgänger gekürt",
-      "was": "Gewinner im Mamdani-Outfit posiert beim Doppelgänger-Wettbewerb in New York",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: perfekt kopiertes Auftreten gegen die Frage, wer die Politik dahinter kopiert.",
+      "id": "0812-3",
+      "titel": "A340-300 »Theodor Heuss«: So haben Sie den VIP-Bereich einer deutschen Regierungsmaschine noch nie gesehen",
+      "was": "VIP-Kabine des Regierungsjets, Ledersessel und Holzvertäfelung im Flugzeugrumpf",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Dienstreise als Sparzwang verkauft gegen die Ausstattung, die niemand sehen sollte.",
       "grund": "memetauglich",
       "raum": "",
-      "quelle": "SRF",
+      "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/new-yorks-buergermeister-bester-zohran-mamdani-doppelgaenger-gekuert",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/749590.jpg",
-      "zeit": "2026-08-31T16:03+02:00"
+      "artikel": "https://www.spiegel.de/politik/deutschland/a340-300-theodor-heuss-so-haben-sie-den-vip-bereich-einer-deutschen-regierungsmaschine-noch-nie-gesehen-a-c7ecf637-0d23-42ff-895d-ff356852b73e#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/a41317b0-55f4-42b2-8e49-c5bc0ca02fd5_w520_r2.08_fpx33.31_fpy49.93.jpg",
+      "zeit": "2026-09-01T06:18+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 18:00",
-      "was": "Wahlabend Sachsen-Anhalt: Parteispitzen vor der Balkengrafik, Jubel und Versteinerung im selben Raum"
+      "wann": "heute im Lauf des Tages",
+      "was": "Handschlagfoto von Justizminister Jans und dem deutschen Innenminister in Chiasso, Grenzkulisse und Polizeiaufgebot"
     },
     {
-      "wann": "heute abend",
-      "was": "Weltpremiere von Noizy in Zürich: Rapper auf dem roten Teppich zwischen Kinopublikum und Security"
+      "wann": "heute ab Sitzungsbeginn",
+      "was": "Ständeratssaal in der EU-Mammutdebatte, müde Gesichter und Bundesrat am Rednerpult"
     }
   ],
   "hinweis": ""
