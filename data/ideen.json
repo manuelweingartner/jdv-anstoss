@@ -4,34 +4,49 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-01-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "900 Tote, mehrere hundert Millionen Franken",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Nepal zählt nach der Flut über 900 Tote. Wir zählen nach dem Gewitter vom Freitag mehrere hundert Millionen Franken Schaden. Gleiche Woche, gleiche Klimakrise, andere Währung."
-    },
-    {
-      "id": "2026-09-01-0757-09",
-      "typ": "remix",
-      "stichwort": "sieben Jahre ECO, hundert Konzerne",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren auf ECO. Das rettet das Klima nicht, es beruhigt mich. Hundert Konzerne haben kein ECO-Programm. Und keine schlechten Träume."
-    },
-    {
-      "id": "2026-09-01-0757-22",
+      "id": "2026-09-01-0757-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Verbrenner-Aus 2035 bekämpft, jetzt Zölle gegen BYD",
+      "stichwort": "dreissig Jahre Tupac, Buch ungelesen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 17,
-      "text": "Chinas E-Autos hängen die deutschen Hersteller ab. Dieselbe Branche, die gegen das Verbrenner-Aus 2035 kämpfte, ruft jetzt nach Zöllen. Der freie Markt gilt, bis man ihn verliert."
+      "format": "frei",
+      "text": "Ich war neun, als Tupac erschossen wurde. Dreissig Jahre später kommt der Schuldspruch, obwohl der Täter die Tat in seinem eigenen Buch beschrieben hat. Ermittelt wurde nicht. Gelesen auch nicht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-01-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nachhaltigkeitsfonds mit Rüstung, Munition bleifrei",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Meine Bank empfiehlt mir einen Nachhaltigkeitsfonds, neu mit Rüstung drin. Seit 2022 die beste Rendite im Angebot. Immerhin ist die Munition bleifrei.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-01-0757-11",
+      "typ": "persönlich",
+      "stichwort": "Faktor 50 gegen zwölf Waldbrandtote",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich creme mich mit Faktor 50 ein, auch im Schatten, aus Prinzip. Algerien antwortet auf zwölf Waldbrandtote mit der Todesstrafe für Brandstifter. Der Sommer bleibt unbehelligt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-01-0757-24",
@@ -41,27 +56,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Netanjahu verurteilt die Siedlergewalt im Westjordanland aufs Schärfste. Ich finde das richtig: Wer ein Haus anzündet, das ihm ohnehin bald gehört, vernichtet Volksvermögen. Sachbeschädigung an der eigenen Zukunft."
+      "text": "Netanjahu verurteilt die Siedlergewalt im Westjordanland aufs Schärfste. Ich finde das richtig: Wer ein Haus anzündet, das ihm ohnehin bald gehört, vernichtet Volksvermögen. Sachbeschädigung an der eigenen Zukunft.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-01-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "40 Franken Busse, fuer den Porsche ein Tarif",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "id": "2026-09-01-0757-28",
+      "typ": "schnittmenge",
+      "stichwort": "200 Motorraeder gesegnet, zwei Maenner nicht",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Ich habe 40 Franken Parkbusse bezahlt. Für den Porsche daneben ist das keine Busse, sondern eine Parkgebühr mit Aufschlag. Nicht die Strafe. Der Tarif."
+      "text": "200 Motorräder hat ein Priester bei Rom gesegnet. Zwei Männer, die sich lieben, kriegen keinen. Es kommt drauf an, was zwischen den Beinen ist.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-01-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "70 Prozent Dividende, 30 Prozent Standortvorteil",
+      "id": "2026-09-01-0757-30",
+      "typ": "persönlich",
+      "stichwort": "Sieben Jahre ECO gegen einen Privatjet",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Auf meinem Lohnausweis ist jeder Franken steuerbar. Wer sich aus der eigenen Firma eine Dividende auszahlt, versteuert davon 70 Prozent. Die anderen 30 heissen Standortvorteil."
+      "format": 19,
+      "text": "Seit sieben Jahren läuft meine Abwaschmaschine im ECO-Programm, vier Stunden pro Ladung. In derselben Zeit fliegt ein Privatjet nach London und zurück. Ich spare weiter. Aus Prinzip.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
