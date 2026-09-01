@@ -1,8 +1,18 @@
 {
   "datum": "2026-09-01",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-01-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Siedlergewalt verurteilt, Volksvermögen vernichtet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Netanjahu verurteilt die Siedlergewalt im Westjordanland aufs Schärfste. Ich finde das richtig: Wer ein Haus anzündet, das ihm ohnehin bald gehört, vernichtet Volksvermögen. Sachbeschädigung an der eigenen Zukunft."
+    },
     {
       "id": "2026-09-01-0757-25",
       "typ": "politisch-aktuell",
