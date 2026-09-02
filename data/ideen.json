@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-02",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 10,
       "text": "100 Millionen gibt der Bund für die Sanierung von Berghotels. Es fehlt dort nicht an Betten. Es fehlt an Schnee. Saniert wird trotzdem das Bett."
+    },
+    {
+      "id": "2026-09-02-2230-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Drei Anbieter, ein Preis, gleiche Woche wie Moskau",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich zahle ab jetzt mehr fürs Handy: Swisscom, Salt und Sunrise haben in derselben Woche erhöht, in der Moskau Strom, Wärme und Wasser verteuert. Drei Anbieter, ein Preis."
+    },
+    {
+      "id": "2026-09-02-2230-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "98 Prozent aller Amoktäter, Einzelfall",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der mutmassliche Täter von Aarau hat laut Forensik keine psychische Krankheit, keine Ideologie, keine Vorstrafen. Bleibt ein Merkmal, das er mit 98 Prozent aller Amoktäter teilt. Wir nennen es Einzelfall."
     }
   ]
 }
