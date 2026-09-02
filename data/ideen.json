@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-02-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wong zehn Jahre, Besorgnis zollfrei",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Joshua Wong bekennt sich in Hongkong schuldig, ihm drohen zehn weitere Jahre. Wir nennen das besorgniserregend. Besorgnis ist der einzige Rohstoff, den die Schweiz zollfrei exportiert."
-    },
-    {
       "id": "2026-09-02-0757-03",
       "typ": "politisch-aktuell",
       "stichwort": "Hagelschäden, ab Januar über Ihre Prämie",
@@ -21,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Die Hagelgewitter vom Freitag kosten die Versicherungen mehrere hundert Millionen. Endlich zahlt die Klimakrise jemand, der es sich leisten kann. Ab Januar. Über Ihre Prämie."
+      "text": "Die Hagelgewitter vom Freitag kosten die Versicherungen mehrere hundert Millionen. Endlich zahlt die Klimakrise jemand, der es sich leisten kann. Ab Januar. Über Ihre Prämie.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-02-0757-04",
@@ -31,7 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Kaum jemand verlangt eine Mietsenkung, obwohl der Referenzzinssatz auf dem Rekordtief liegt. Beruhigend, wie viel Vertrauen mir meine Mieterschaft entgegenbringt. Ich senke sofort. Sobald jemand fragt."
+      "text": "Kaum jemand verlangt eine Mietsenkung, obwohl der Referenzzinssatz auf dem Rekordtief liegt. Beruhigend, wie viel Vertrauen mir meine Mieterschaft entgegenbringt. Ich senke sofort. Sobald jemand fragt.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-02-0757-05",
@@ -41,27 +41,57 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "42 Stunden arbeite ich pro Woche, mein Urgrossvater 48. Sechs Stunden in hundert Jahren. Die Vier-Tage-Woche kommt also 2160. Ich freue mich für alle."
+      "text": "42 Stunden arbeite ich pro Woche, mein Urgrossvater 48. Sechs Stunden in hundert Jahren. Die Vier-Tage-Woche kommt also 2160. Ich freue mich für alle.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-02-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "250 Franken Busse, bei mir pro Stunde",
+      "id": "2026-09-02-0757-09",
+      "typ": "remix",
+      "stichwort": "Rheinschiffe ausgebucht, Rhein leer",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich finde es richtig, dass eine Busse für alle gleich hoch ist. 250 Franken sind 250 Franken. Bei mir einfach pro Stunde."
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Flusskreuzfahrten boomen bei Schweizern. Die Schiffe sind extra für den Rhein gebaut und lagen 2022 wegen Niedrigwasser wochenlang fest. Gebucht wird trotzdem. Im Voraus. Mit Vollpension.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-02-0757-11",
+      "id": "2026-09-02-0757-12",
       "typ": "persönlich",
-      "stichwort": "Erschoepfung auf einer Skala von 0 bis 10",
+      "stichwort": "Ladekabel elf Monate, Garantie zwölf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Mein Apple-Ladekabel hält elf Monate, die Garantie zwölf. Heute hat Apple einen neuen Chef, unter dem Vorgänger vervierfachte sich der Umsatz. Jetzt weiss ich, woran das lag. Nicht am Design.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-02-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Referenzzins tief, der Markt regelt sich, indem niemand fragt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Chronisch Kranke geben ihre Erschöpfung auf einer Skala von 0 bis 10 an, jedes Jahr neu, für jede Versicherung. Die Beweislast liegt bei den Müdesten im Raum. Glauben würde reichen."
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Beruhigend: Der Referenzzinssatz liegt auf dem Rekordtief, und kaum jemand stellt ein Senkungsgesuch. Wir Vermieter haben immer gesagt, dass der Markt sich selber regelt. Er regelt sich, indem niemand fragt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
