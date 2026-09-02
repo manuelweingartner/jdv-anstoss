@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-02",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Ich finde es richtig, dass eine Busse für alle gleich hoch ist. 250 Franken sind 250 Franken. Bei mir einfach pro Stunde."
+    },
+    {
+      "id": "2026-09-02-0757-28",
+      "typ": "schnittmenge",
+      "stichwort": "15,7 Prozent unerklaert, in der Kasse heisst das Verdacht",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Frauen verdienen 15,7 Prozent weniger, knapp die Hälfte davon gilt als unerklärt. Fehlt in einer Firmenkasse Geld, heisst das nicht unerklärt, sondern Verdacht."
+    },
+    {
+      "id": "2026-09-02-0757-29",
+      "typ": "remix",
+      "stichwort": "Kopfhoerer leiser stellen, Strassenlaerm bleibt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich soll meine Kopfhörer leiser stellen, sonst gibt es Hörschäden. Über eine Million Menschen hier wohnen an Strassen über dem Lärmgrenzwert. Geregelt wird mein Lautstärkeregler."
     }
   ]
 }
