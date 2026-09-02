@@ -11471,6 +11471,102 @@
         "neu": true
       },
       "datum": "2026-09-01"
+    },
+    {
+      "id": "2026-09-02-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Referenzzins-Tief, ich senke sobald jemand fragt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Kaum jemand verlangt eine Mietsenkung, obwohl der Referenzzinssatz auf dem Rekordtief liegt. Beruhigend, wie viel Vertrauen mir meine Mieterschaft entgegenbringt. Ich senke sofort. Sobald jemand fragt.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "42 Stunden, Vier-Tage-Woche ab 2160",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "42 Stunden arbeite ich pro Woche, mein Urgrossvater 48. Sechs Stunden in hundert Jahren. Die Vier-Tage-Woche kommt also 2160. Ich freue mich für alle.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "250 Franken Busse, bei mir pro Stunde",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich finde es richtig, dass eine Busse für alle gleich hoch ist. 250 Franken sind 250 Franken. Bei mir einfach pro Stunde.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "15,7 Prozent fehlen: Staatsanwaltschaft gegen Studie",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Fehlen im Konzernabschluss 15,7 Prozent, ermittelt die Staatsanwaltschaft. Fehlen sie im Lohn der Frauen, erscheint alle zwei Jahre eine Studie.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-0757-09",
+      "typ": "remix",
+      "stichwort": "Rheinschiffe ausgebucht, Rhein leer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Flusskreuzfahrten boomen bei Schweizern. Die Schiffe sind extra für den Rhein gebaut und lagen 2022 wegen Niedrigwasser wochenlang fest. Gebucht wird trotzdem. Im Voraus. Mit Vollpension.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-0757-12",
+      "typ": "persönlich",
+      "stichwort": "Ladekabel elf Monate, Garantie zwölf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Mein Apple-Ladekabel hält elf Monate, die Garantie zwölf. Heute hat Apple einen neuen Chef, unter dem Vorgänger vervierfachte sich der Umsatz. Jetzt weiss ich, woran das lag. Nicht am Design.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-02"
     }
   ]
 }
