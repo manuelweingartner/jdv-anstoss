@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-02",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-02-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hagelschäden, ab Januar über Ihre Prämie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Die Hagelgewitter vom Freitag kosten die Versicherungen mehrere hundert Millionen. Endlich zahlt die Klimakrise jemand, der es sich leisten kann. Ab Januar. Über Ihre Prämie."
+    },
+    {
+      "id": "2026-09-02-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Referenzzins-Tief, ich senke sobald jemand fragt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Kaum jemand verlangt eine Mietsenkung, obwohl der Referenzzinssatz auf dem Rekordtief liegt. Beruhigend, wie viel Vertrauen mir meine Mieterschaft entgegenbringt. Ich senke sofort. Sobald jemand fragt."
+    },
     {
       "id": "2026-09-02-0757-05",
       "typ": "politisch-aktuell",
