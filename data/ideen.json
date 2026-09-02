@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-02",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Der mutmassliche Täter von Aarau hat laut Forensik keine psychische Krankheit, keine Ideologie, keine Vorstrafen. Bleibt ein Merkmal, das er mit 98 Prozent aller Amoktäter teilt. Wir nennen es Einzelfall."
+    },
+    {
+      "id": "2026-09-02-2230-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "303 Milliarden Barrel, freie Wahl",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Wir sichern uns Venezuelas Öl, 303 Milliarden Barrel, und das Land hatte dabei freie Wahl: unterschreiben oder die Variante, über die wir aus Höflichkeit schweigen. Freiwillig. Auf einer Seite."
+    },
+    {
+      "id": "2026-09-02-2230-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "12 Milliarden, einmal im Jahr erwogen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich habe als Bundesamt beschlossen, den Gotthard 18 Nächte zu sperren. Nehmen Sie solange den Basistunnel, den wir für 12 Milliarden gebaut haben, damit Sie ihn einmal im Jahr erwägen."
     }
   ]
 }
