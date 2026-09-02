@@ -1,59 +1,59 @@
 {
-  "stand": "2026-09-02T08:12:58+02:00",
-  "lauf": "0811",
+  "stand": "2026-09-02T17:01:20+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0811-1",
-      "titel": "Regierungsflieger kaputt: Klingbeil in den USA gestrandet",
-      "was": "Finanzminister neben defekter Regierungsmaschine auf dem Rollfeld in den USA",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: der Mann, der über Milliarden verfügt, gegen ein Fluggerät, das nicht anspringt.",
+      "id": "1700-1",
+      "titel": "Die Leiden des verwöhnten Prinzen: was das Drama um die Rückkehr von Harry und Meghan über die Briten und ihr Verhältnis zu den Royals aussagt",
+      "was": "Harry und Meghan winken vor einer Wand aus Boulevard-Kameras",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Privatsphäre einfordern gegen den bestellten Auftritt vor Objektiven.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "20 Minuten",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "20 Minuten"
+      ],
+      "artikel": "https://www.nzz.ch/international/prinz-harrys-rueckkehr-was-die-aufregung-ueber-die-britische-gesellschaft-verraet-ld.10021792",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/02/0c4d7209-f955-401a-9893-7e21c8bc8911.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2138,2138,x567,y160",
+      "zeit": "2026-09-02T16:30+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Deutsche Frauen-Bundesliga: Bangen um das große Geschäft",
+      "was": "Spielerinnen jubeln oder liegen erschöpft im Playoff-Spiel",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Millionenbudgets der Champions League gegen halb gefüllte Ränge.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "taz",
       "auch_bei": [
         "Tagesschau"
       ],
-      "artikel": "https://www.20min.ch/story/deutscher-finanzminister-regierungsflieger-kaputt-klingbeil-in-den-usa-gestrandet-103626089",
-      "bild": "https://image.20min.ch/2026/09/02/5e32fd80-b84e-42e8-9b23-31420dddd048.jpg?s=7f9eb7bfcd707da79051b33a25b2ef5c",
-      "zeit": "2026-09-02T04:36+02:00"
+      "artikel": "https://taz.de/Deutsche-Frauen-Bundesliga/!6209087/",
+      "bild": "https://taz.de/picture/8708215/948/imago1082039124.jpeg",
+      "zeit": "2026-09-02T10:17+02:00"
     },
     {
-      "id": "0811-2",
-      "titel": "Alpenspitze verliert wegen NS-Bezug Namen – und einen Meter Höhe",
-      "was": "Alpengipfel mit Kreuz, Vermesser mit Messgerät auf dem Grat",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Vergangenheitsaufarbeitung als Buchhaltung, ein Meter Höhe als Wechselkurs für einen Namen.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "Spiegel",
-      "auch_bei": [
-        "SRF"
-      ],
-      "artikel": "https://www.spiegel.de/panorama/alpenspitze-verliert-wegen-ns-bezug-namen-und-einen-meter-hoehe-a-d8771dd8-47b7-4a8f-be27-56b993943b89#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/045ae6c9-5dd6-4a48-8c15-458ec5946846_w520_r2.08_fpx50.42_fpy54.99.jpg",
-      "zeit": "2026-09-02T07:06+02:00"
-    },
-    {
-      "id": "0811-3",
-      "titel": "Alles dreht sich um Xi: SCO-Gipfel in Bischkek zeigt gewachsenen Einfluss von Chinas Präsidenten",
-      "was": "Staatschefs in Reihe beim Gruppenfoto des Gipfels, Xi in der Mitte",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Familienfoto der Stabilität gegen das, was dieselben Leute zu Hause veranstalten.",
+      "id": "1700-3",
+      "titel": "Gericht stoppt Blochers Neutralitäts-Zeitung: Ja-Lager lenkt ein",
+      "was": "Blocher am Rednerpult, die eigene Abstimmungszeitung in der Hand",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Pressefreiheit für das eigene Blatt gegen Misstrauen gegenüber allen anderen Medien.",
       "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "NZZ",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/international/sco-gipfel-in-bischkek-zeigt-die-regionale-dominanz-von-chinas-praesidenten-xi-jinping-ld.10021854",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2258,2258,x873,y462",
-      "zeit": "2026-09-02T05:30+02:00"
+      "artikel": "https://www.20min.ch/story/gruene-klagen-erfolgreich-widerrechtlich-gericht-stoppt-blochers-neutralitaets-zeitung-103625810",
+      "bild": "https://media.20min.ch/6/image/2025/06/02/9ec9889d-8b03-4c28-afa6-6df1a723e348.jpeg?s=6aa3902621917cebeccfe77c80ef6a66",
+      "zeit": "2026-09-02T10:50+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute im Tagesverlauf",
-      "was": "Gruppenfoto und Handschlag-Choreografie vom laufenden Regionalgipfel in Bischkek"
+      "wann": "heute abends",
+      "was": "Jubel- und Enttäuschungsbilder aus dem Playoff-Spiel der Frauen um die Champions League"
     },
     {
-      "wann": "heute, sobald ein Ersatzflieger da ist",
-      "was": "Der gestrandete Finanzminister beim Einsteigen in die Ersatzmaschine"
+      "wann": "heute tagsüber",
+      "was": "Paparazzi-Aufnahmen von Harry und Meghan in ihrer neuen englischen Nachbarschaft"
     }
   ],
   "hinweis": ""
