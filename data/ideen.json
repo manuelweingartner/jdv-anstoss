@@ -4,14 +4,49 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-02-2230-08",
-      "typ": "schnittmenge",
-      "stichwort": "20 Prozent Eigenkapital, UBS senkt ihre Quote in Bern",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
+      "id": "2026-09-02-2230-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwei Forensiker, ein Name hätte gereicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Ich brauche 20 Prozent Eigenkapital, damit mir die UBS eine Zweizimmerwohnung finanziert. Die UBS lässt sich ihre Quote gerade in Bern senken."
+      "text": "Beim Täter von Aarau fehlen Diagnose, Ideologie und Vorstrafen. Zwei Forensiker erklären jetzt, warum der Fall so ungewöhnlich ist. Bei einem ausländischen Namen hätte eine Zeile gereicht. Ohne Einordnung.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-02-2230-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "300 Milliarden Barrel, darf weiter Venezuela heissen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Venezuela überschreibt uns sein Öl, 300 Milliarden Barrel, freiwillig. Als USA war uns die Souveränität des Landes immer wichtig: Es darf weiterhin Venezuela heissen. Fahne bleibt. Hymne auch.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-02-2230-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "150'000 Franken Schulgeld, bezahlt sind die Mitschüler",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "150'000 Franken kostet ein Jahr im teuersten Internat der Welt, es steht in St. Gallen. Bezahlt wird dort nicht der Unterricht, bezahlt werden die Mitschüler. Lebenslang. Mit Vornamen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-02-2230-09",
@@ -21,37 +56,27 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 10,
-      "text": "100 Millionen gibt der Bund für die Sanierung von Berghotels. Es fehlt dort nicht an Betten. Es fehlt an Schnee. Saniert wird trotzdem das Bett."
+      "text": "100 Millionen gibt der Bund für die Sanierung von Berghotels. Es fehlt dort nicht an Betten. Es fehlt an Schnee. Saniert wird trotzdem das Bett.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-02-2230-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Drei Anbieter, ein Preis, gleiche Woche wie Moskau",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich zahle ab jetzt mehr fürs Handy: Swisscom, Salt und Sunrise haben in derselben Woche erhöht, in der Moskau Strom, Wärme und Wasser verteuert. Drei Anbieter, ein Preis."
-    },
-    {
-      "id": "2026-09-02-2230-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "98 Prozent aller Amoktäter, Einzelfall",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Der mutmassliche Täter von Aarau hat laut Forensik keine psychische Krankheit, keine Ideologie, keine Vorstrafen. Bleibt ein Merkmal, das er mit 98 Prozent aller Amoktäter teilt. Wir nennen es Einzelfall."
-    },
-    {
-      "id": "2026-09-02-2230-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "303 Milliarden Barrel, freie Wahl",
+      "id": "2026-09-02-2230-10",
+      "typ": "persönlich",
+      "stichwort": "Sieben Jahre ECO-Programm, Klimaziel auch aus Prinzip",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Wir sichern uns Venezuelas Öl, 303 Milliarden Barrel, und das Land hatte dabei freie Wahl: unterschreiben oder die Variante, über die wir aus Höflichkeit schweigen. Freiwillig. Auf einer Seite."
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich lasse die Abwaschmaschine seit sieben Jahren im ECO-Programm laufen. Drei Stunden vierzig pro Gang, aus Prinzip. In derselben Zeit wurden die Klimaziele zweimal nach hinten geschoben. Auch aus Prinzip.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-02-2230-24",
@@ -61,7 +86,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich habe als Bundesamt beschlossen, den Gotthard 18 Nächte zu sperren. Nehmen Sie solange den Basistunnel, den wir für 12 Milliarden gebaut haben, damit Sie ihn einmal im Jahr erwägen."
+      "text": "Ich habe als Bundesamt beschlossen, den Gotthard 18 Nächte zu sperren. Nehmen Sie solange den Basistunnel, den wir für 12 Milliarden gebaut haben, damit Sie ihn einmal im Jahr erwägen.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
