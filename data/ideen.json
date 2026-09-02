@@ -4,6 +4,16 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-09-02-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wong zehn Jahre, Besorgnis zollfrei",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Joshua Wong bekennt sich in Hongkong schuldig, ihm drohen zehn weitere Jahre. Wir nennen das besorgniserregend. Besorgnis ist der einzige Rohstoff, den die Schweiz zollfrei exportiert."
+    },
+    {
       "id": "2026-09-02-0757-03",
       "typ": "politisch-aktuell",
       "stichwort": "Hagelschäden, ab Januar über Ihre Prämie",
@@ -52,16 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 1,
       "text": "Frauen verdienen 15,7 Prozent weniger, knapp die Hälfte davon gilt als unerklärt. Fehlt in einer Firmenkasse Geld, heisst das nicht unerklärt, sondern Verdacht."
-    },
-    {
-      "id": "2026-09-02-0757-29",
-      "typ": "remix",
-      "stichwort": "Kopfhoerer leiser stellen, Strassenlaerm bleibt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich soll meine Kopfhörer leiser stellen, sonst gibt es Hörschäden. Über eine Million Menschen hier wohnen an Strassen über dem Lärmgrenzwert. Geregelt wird mein Lautstärkeregler."
     }
   ]
 }
