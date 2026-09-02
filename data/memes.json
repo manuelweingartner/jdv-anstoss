@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-01T08:13:38+02:00",
+  "stand": "2026-09-02T08:14:12+02:00",
   "vorschlaege": [
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "600 Stellen weg",
-        "Strukturelle Effizienzoffensive 2028"
+        "Steuerzahler haftet weiter",
+        "Ausgewogene Kapitalvorschriften"
       ],
-      "warum": "weil Swiss Life gute Zahlen und Stellenabbau nur ueber die Wortwahl zusammenpassen",
+      "warum": "der UBS-Kompromiss ist genau dieselbe Sache, einmal schlicht und einmal vornehm benannt",
       "bild": "vorschlag-1.jpg"
-    },
-    {
-      "vorlage": "abzweigung",
-      "name": "Left Exit 12 Off Ramp",
-      "zeilen": [
-        "Ballsaal fuer 400 Millionen",
-        "Baustopp respektieren",
-        "Der Supreme Court"
-      ],
-      "warum": "weil das Gericht in letzter Sekunde vom naheliegenden Weg abbiegt",
-      "bild": "vorschlag-2.jpg"
-    },
-    {
-      "vorlage": "doge",
-      "name": "Buff Doge vs. Cheems",
-      "zeilen": [
-        "Golf I, 1974",
-        "Weltmarkt in fuenf Jahren",
-        "BYD gibt den Takt",
-        "VW prueft Kostenstrukturen"
-      ],
-      "warum": "weil die deutsche Autoindustrie ihr eigenes Fruecher als Messlatte hat",
-      "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Treue ist bei Swisscom ein Preisaufschlag"
+        "Mietsenkung bekommt nur, wer sie verlangt"
       ],
-      "warum": "weil der Satz nach Provokation klingt und faktisch die Preisliste beschreibt",
+      "warum": "eine These zum Referenzzins, der niemand widersprechen kann, weil die tiefe Gesuchszahl sie belegt",
+      "bild": "vorschlag-2.jpg"
+    },
+    {
+      "vorlage": "abzweigung",
+      "name": "Left Exit 12 Off Ramp",
+      "zeilen": [
+        "Biberburg zwanzig Mal abräumen",
+        "Biber ist geschützt",
+        "Solothurner Gemeindepräsident"
+      ],
+      "warum": "ein Kurswechsel in letzter Sekunde am geltenden Recht vorbei, direkt vors Amtsgericht",
+      "bild": "vorschlag-3.jpg"
+    },
+    {
+      "vorlage": "doge",
+      "name": "Buff Doge vs. Cheems",
+      "zeilen": [
+        "Paris 2015",
+        "1.5 Grad, verbindlich",
+        "1.5 Grad, ungefähr",
+        "Wir bleiben ambitioniert"
+      ],
+      "warum": "das behauptete starke Früher gegen das kleinlaute Heute derselben Zahl",
       "bild": "vorschlag-4.jpg"
     }
   ]
