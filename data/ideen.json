@@ -1,23 +1,8 @@
 {
   "datum": "2026-09-02",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
-    {
-      "id": "2026-09-02-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hagelschäden, ab Januar über Ihre Prämie",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Die Hagelgewitter vom Freitag kosten die Versicherungen mehrere hundert Millionen. Endlich zahlt die Klimakrise jemand, der es sich leisten kann. Ab Januar. Über Ihre Prämie.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
     {
       "id": "2026-09-02-0757-04",
       "typ": "politisch-aktuell",
@@ -49,6 +34,36 @@
       }
     },
     {
+      "id": "2026-09-02-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "250 Franken Busse, bei mir pro Stunde",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich finde es richtig, dass eine Busse für alle gleich hoch ist. 250 Franken sind 250 Franken. Bei mir einfach pro Stunde.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-02-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "15,7 Prozent fehlen: Staatsanwaltschaft gegen Studie",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Fehlen im Konzernabschluss 15,7 Prozent, ermittelt die Staatsanwaltschaft. Fehlen sie im Lohn der Frauen, erscheint alle zwei Jahre eine Studie.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
       "id": "2026-09-02-0757-09",
       "typ": "remix",
       "stichwort": "Rheinschiffe ausgebucht, Rhein leer",
@@ -72,21 +87,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Mein Apple-Ladekabel hält elf Monate, die Garantie zwölf. Heute hat Apple einen neuen Chef, unter dem Vorgänger vervierfachte sich der Umsatz. Jetzt weiss ich, woran das lag. Nicht am Design.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-02-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Referenzzins tief, der Markt regelt sich, indem niemand fragt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Beruhigend: Der Referenzzinssatz liegt auf dem Rekordtief, und kaum jemand stellt ein Senkungsgesuch. Wir Vermieter haben immer gesagt, dass der Markt sich selber regelt. Er regelt sich, indem niemand fragt.",
       "jury": {
         "anker": true,
         "witz": true,
