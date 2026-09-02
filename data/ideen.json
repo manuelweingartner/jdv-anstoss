@@ -1,97 +1,27 @@
 {
-  "datum": "2026-09-01",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-09-02",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-01-0757-02",
+      "id": "2026-09-02-0757-05",
       "typ": "politisch-aktuell",
-      "stichwort": "dreissig Jahre Tupac, Buch ungelesen",
+      "stichwort": "42 Stunden, Vier-Tage-Woche ab 2160",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ich war neun, als Tupac erschossen wurde. Dreissig Jahre später kommt der Schuldspruch, obwohl der Täter die Tat in seinem eigenen Buch beschrieben hat. Ermittelt wurde nicht. Gelesen auch nicht.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-01-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nachhaltigkeitsfonds mit Rüstung, Munition bleifrei",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Meine Bank empfiehlt mir einen Nachhaltigkeitsfonds, neu mit Rüstung drin. Seit 2022 die beste Rendite im Angebot. Immerhin ist die Munition bleifrei.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-01-0757-11",
-      "typ": "persönlich",
-      "stichwort": "Faktor 50 gegen zwölf Waldbrandtote",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich creme mich mit Faktor 50 ein, auch im Schatten, aus Prinzip. Algerien antwortet auf zwölf Waldbrandtote mit der Todesstrafe für Brandstifter. Der Sommer bleibt unbehelligt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "42 Stunden arbeite ich pro Woche, mein Urgrossvater 48. Sechs Stunden in hundert Jahren. Die Vier-Tage-Woche kommt also 2160. Ich freue mich für alle."
     },
     {
-      "id": "2026-09-01-0757-24",
+      "id": "2026-09-02-0757-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Siedlergewalt verurteilt, Volksvermögen vernichtet",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Netanjahu verurteilt die Siedlergewalt im Westjordanland aufs Schärfste. Ich finde das richtig: Wer ein Haus anzündet, das ihm ohnehin bald gehört, vernichtet Volksvermögen. Sachbeschädigung an der eigenen Zukunft.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-01-0757-28",
-      "typ": "schnittmenge",
-      "stichwort": "200 Motorraeder gesegnet, zwei Maenner nicht",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "200 Motorräder hat ein Priester bei Rom gesegnet. Zwei Männer, die sich lieben, kriegen keinen. Es kommt drauf an, was zwischen den Beinen ist.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-01-0757-31",
-      "typ": "persönlich",
-      "stichwort": "Hund eingereist in 21 Tagen",
+      "stichwort": "250 Franken Busse, bei mir pro Stunde",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Mein Hund ist aus Rumänien eingereist: Chip, Tollwutimpfung, 21 Tage warten, fertig. Menschen auf derselben Route sitzen nach drei Jahren im Verfahren. Er hat einen Pass. Blauen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "format": 13,
+      "text": "Ich finde es richtig, dass eine Busse für alle gleich hoch ist. 250 Franken sind 250 Franken. Bei mir einfach pro Stunde."
     }
   ]
 }
