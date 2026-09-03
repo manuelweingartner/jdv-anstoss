@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-03",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Ich habe als Inkassobüro nach neunzehn Jahren wieder angerufen. Alte Verlustscheine verjähren erst nach zwanzig, und ich finde es richtig: Irgendwann muss auch mal Schluss sein. Nächstes Jahr."
+    },
+    {
+      "id": "2026-09-03-0917-28",
+      "typ": "schnittmenge",
+      "stichwort": "Systemrelevant heisst, die Bank rechnet mit uns",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Beim Kompromiss zu den Kapitalvorschriften für die UBS spricht die Finanzministerin von einer Lösung zulasten der Steuerzahlenden. Systemrelevant heisst nicht, dass wir die Bank brauchen. Sondern dass sie mit uns rechnet."
+    },
+    {
+      "id": "2026-09-03-0917-29",
+      "typ": "remix",
+      "stichwort": "15 von 15 durchgefallen, kontrolliert wurde die Mehrwertsteuer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich habe eine Wimperntusche für 3 Franken bestellt. 15 von 15 Billig-Kosmetika aus Onlineshops fallen im Schadstofftest durch. Kontrolliert wurde bei der Einfuhr: die Mehrwertsteuer. Zuverlässig. Auf den Rappen."
     }
   ]
 }
