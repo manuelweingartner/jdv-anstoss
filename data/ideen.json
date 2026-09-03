@@ -1,8 +1,23 @@
 {
   "datum": "2026-09-03",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-09-03-1242-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Butter gehortet, 86 Tonnen Gold heim",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich habe diese Woche Butter gehortet, weil die Schweizer Inflation auf dem höchsten Stand seit zwei Jahren ist. Die Niederlande holen gleichzeitig 86 Tonnen Gold aus den USA heim. Kleinerer Tresor.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
     {
       "id": "2026-09-03-1242-03",
       "typ": "politisch-aktuell",
@@ -49,44 +64,29 @@
       }
     },
     {
-      "id": "2026-09-03-1242-23",
+      "id": "2026-09-03-1242-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rekordinflation ohne Krankenkassenprämie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Ich habe im August die höchste Inflation seit zwei Jahren bezahlt, die Krankenkassenprämie ist darin nicht einmal enthalten. Sie zählt nicht als Preis. Sondern als Naturereignis. Amtlich.",
+      "jury": {
+        "anker": false,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-03-1242-28",
       "typ": "schnittmenge",
-      "stichwort": "Ashwagandha abgemahnt, beruhigt hat es nur uns",
-      "plattform": "Threads + Bluesky",
+      "stichwort": "Eigenkapital durchgesetzt, Bank ohne Rueckgaberecht",
+      "plattform": "Threads + Instagram",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich verkaufe Ashwagandha-Pulver mit Pamela Reif drauf, jetzt hat Foodwatch mich abgemahnt: beruhigend wirkt es nachweislich nicht. Stimmt. Beruhigt hat es immer nur uns. Monatlich. Im Abo.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-03-1242-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "15'000 Kubikmeter Fels bewegen sich termingerecht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Oberhalb der Schwägalp drohen 15'000 Kubikmeter Fels abzustürzen, der Permafrost taut. Endlich bewegt sich beim Klima etwas, ohne dass wir dafür ein Gesetz verschieben mussten. Termingerecht. Ohne Übergangsfrist.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-03-1242-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "zwei Wochen Vaterschaft, achtzehn Wochen Rekrutenschule",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Zwei Wochen Vaterschaftsurlaub gibt dieses Land, für die Rekrutenschule achtzehn. Schiessen lernt man offenbar langsamer als einen Säugling am Leben zu halten. Üben muss man es auch öfter.",
+      "format": "frei",
+      "text": "Beim Eigenkapital hat sich die UBS durchgesetzt, die Finanzministerin nennt es eine Lösung zulasten der Steuerzahlenden. Vor drei Jahren haben wir schon eine Bank gekauft, die niemand wollte. Ohne Rückgaberecht.",
       "jury": {
         "anker": true,
         "witz": true,
