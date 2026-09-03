@@ -4,24 +4,49 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-03-0757-05",
+      "id": "2026-09-03-0757-01",
       "typ": "politisch-aktuell",
-      "stichwort": "191 Jahre bis zum UBS-Jahreslohn",
+      "stichwort": "600 Stellen bei guten Zahlen, Lebensversicherer",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Für das Jahresgehalt des UBS-Chefs müsste ich mit 6000 Franken Lohn 191 Jahre arbeiten. Ich hätte 13 Jahre vor der Gründung der Schweiz anfangen müssen. Ohne Ferien."
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Ich habe gelernt, wie ein Lebensversicherer auf gute Zahlen reagiert: Swiss Life streicht 600 Stellen bis 2028. Versichert ist das Leben der Zahlen. Nicht deines.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-03-0757-06",
+      "id": "2026-09-03-0757-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Sechs Stunden Steuererklärung, für andere ein Beruf",
+      "stichwort": "Trottinett-Regeln am selben Tag wie die Waffen-Bremse",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich sitze jedes Jahr sechs Stunden über meiner Steuererklärung und trage 40 Franken Spesen ein. Ab einem gewissen Vermögen ist das ein Beruf. Mit Verband. Und Weiterbildung."
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Städte fordern am selben Tag strengere Regeln für E-Trottinetts, während Bürgerliche das Waffenrecht nach der Kalaschnikow-Tat von Aarau streng genug finden. Das Trottinett steht ja auch im Weg. Ungesichert.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-03-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "250 Tage Karibik, Crew braucht Erholung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich bin ein US-Flugzeugträger. 250 Tage Karibik, Boote beschossen, jetzt erholt sich meine Crew in Thailand. Anstrengend, so ein Einsatz. Für alle Beteiligten.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-03-0757-07",
@@ -31,37 +56,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 14,
-      "text": "88 Prozent der Schweizer Firmen sind Familienunternehmen, und jede Erbschaftssteuer bedroht angeblich sofort ihre Existenz. Bedroht wird die Firma nicht von der Steuer. Sondern vom Sohn."
+      "text": "88 Prozent der Schweizer Firmen sind Familienunternehmen, und jede Erbschaftssteuer bedroht angeblich sofort ihre Existenz. Bedroht wird die Firma nicht von der Steuer. Sondern vom Sohn.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-03-0757-10",
-      "typ": "persönlich",
-      "stichwort": "Zwanzig Minuten Anschluss, 130 Stellen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich habe in Immensee zwanzig Minuten auf den Anschluss gewartet, mit zwei Entschuldigungen. Novartis streicht 130 Stellen, Swiss Life dieselbe Woche jeden zwanzigsten Job trotz Gewinnplus. Entschuldigt hat sich keiner."
-    },
-    {
-      "id": "2026-09-03-0757-11",
-      "typ": "persönlich",
-      "stichwort": "Thermomix drei Wochen überlegt, Prämie nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Für meinen Thermomix habe ich 1'500 Franken bezahlt und drei Wochen überlegt. Meine Prämie ist dieses Jahr 240 Franken teurer geworden. Überlegen durfte ich nichts."
-    },
-    {
-      "id": "2026-09-03-0757-12",
-      "typ": "persönlich",
-      "stichwort": "Heuschnupfen drei Wochen früher",
+      "id": "2026-09-03-0757-09",
+      "typ": "remix",
+      "stichwort": "286 Tage auf See, gescheitert am Mittagessen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "286 Tage am Stück auf See, 5000 Menschen an Bord: der US-Flugzeugträger Abraham Lincoln ist für jeden Feind gebaut und scheitert am Mittagessen und an funktionierenden Toiletten. Einsatzbereit. Durchgehend.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-03-0757-37",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau lagert Gewaltschutz aus",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Seit ein paar Jahren fängt mein Heuschnupfen drei Wochen früher an, Mitte August statt im September. Nicht ich bin empfindlicher geworden. Sondern der August."
+      "format": "frei",
+      "text": "Gewalt zu Hause ist im Thurgau kein kantonales Problem: 300'000 Menschen, null Frauenhausplätze, zuständig ist St. Gallen. Ausgelagert wie die Buchhaltung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
