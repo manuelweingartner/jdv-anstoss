@@ -1,8 +1,38 @@
 {
   "datum": "2026-09-03",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-03-1242-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trinkgeld auf den Rappen, Aktiengewinn null Prozent",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich versteuere mein Trinkgeld auf den Rappen. Wer zwei Millionen mit Aktien verdient, zahlt in der Schweiz null Prozent darauf. Privatvermögen. Kein Einkommen. Nur Glück gehabt."
+    },
+    {
+      "id": "2026-09-03-1242-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "zwei Wochen Vaterschaft, achtzehn Wochen Rekrutenschule",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Zwei Wochen Vaterschaftsurlaub gibt dieses Land, für die Rekrutenschule achtzehn. Schiessen lernt man offenbar langsamer als einen Säugling am Leben zu halten. Üben muss man es auch öfter."
+    },
+    {
+      "id": "2026-09-03-1242-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "4500 pauschal besteuert, Arbeiten verboten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Ich muss dem Steueramt jeden Beleg einzeln nachweisen. 4'500 Vermögende aus dem Ausland handeln ihre Steuer pauschal aus, Bedingung ist, dass sie hier nicht arbeiten. Leistung soll sich lohnen."
+    },
     {
       "id": "2026-09-03-1242-28",
       "typ": "schnittmenge",
@@ -32,26 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Auf dem Parkplatz in Appenzell Innerrhoden, 16'000 Einwohner, stehen lauter Mietautos. Autos dürfen sich dort anmelden, wo die Steuern tiefer sind. Ich muss mich für eine Wohnung bewerben. Mit Lohnausweis."
-    },
-    {
-      "id": "2026-09-03-1242-37",
-      "typ": "persönlich",
-      "stichwort": "290'000 Menschen, kein eigenes Frauenhaus",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "290'000 Menschen leben im Kanton Thurgau, ein eigenes Frauenhaus gibt es nicht. Wer Schutz sucht, muss zuerst den Kanton verlassen. Es fehlt keine Strategie. Es fehlt eine Adresse."
-    },
-    {
-      "id": "2026-09-03-1242-38",
-      "typ": "persönlich",
-      "stichwort": "Rösti brennt auf Slide vier",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ich baue Slides aus meinen letzten fünf Posts, auf dem vierten brennt Umweltminister Albert Rösti. Das war als Witz gemeint. Inzwischen ist es der Wetterbericht. Mit Karte."
     }
   ]
 }
