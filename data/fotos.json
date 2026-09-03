@@ -1,59 +1,59 @@
 {
-  "stand": "2026-09-02T17:01:20+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-03T08:14:36+02:00",
+  "lauf": "0813",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Die Leiden des verwöhnten Prinzen: was das Drama um die Rückkehr von Harry und Meghan über die Briten und ihr Verhältnis zu den Royals aussagt",
-      "was": "Harry und Meghan winken vor einer Wand aus Boulevard-Kameras",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Privatsphäre einfordern gegen den bestellten Auftritt vor Objektiven.",
+      "id": "0813-1",
+      "titel": "News: Wladimir Putin droht Deutschland, CDU versteckt Friedrich Merz, Hape Kerkeling hilft SPD",
+      "was": "Hape Kerkeling im SPD-Wahlkampfauftritt, daneben Plakate ohne den CDU-Spitzenmann",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, der Gastauftritt eines Komikers wird als Parteiarbeit verbucht. Achse: geliehene Beliebtheit gegen eigene Sichtbarkeit.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "20 Minuten"
-      ],
-      "artikel": "https://www.nzz.ch/international/prinz-harrys-rueckkehr-was-die-aufregung-ueber-die-britische-gesellschaft-verraet-ld.10021792",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/02/0c4d7209-f955-401a-9893-7e21c8bc8911.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2138,2138,x567,y160",
-      "zeit": "2026-09-02T16:30+02:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Deutsche Frauen-Bundesliga: Bangen um das große Geschäft",
-      "was": "Spielerinnen jubeln oder liegen erschöpft im Playoff-Spiel",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Millionenbudgets der Champions League gegen halb gefüllte Ränge.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "taz",
+      "quelle": "Spiegel",
       "auch_bei": [
         "Tagesschau"
       ],
-      "artikel": "https://taz.de/Deutsche-Frauen-Bundesliga/!6209087/",
-      "bild": "https://taz.de/picture/8708215/948/imago1082039124.jpeg",
-      "zeit": "2026-09-02T10:17+02:00"
+      "artikel": "https://www.spiegel.de/politik/deutschland/news-wladimir-putin-droht-deutschland-cdu-versteckt-friedrich-merz-hape-kerkeling-hilft-spd-a-8e52d403-5ce9-40ff-8d1e-a8d81bb5b23c#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w520_r2.08_fpx28.09_fpy49.93.png",
+      "zeit": "2026-09-03T05:48+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Gericht stoppt Blochers Neutralitäts-Zeitung: Ja-Lager lenkt ein",
-      "was": "Blocher am Rednerpult, die eigene Abstimmungszeitung in der Hand",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Pressefreiheit für das eigene Blatt gegen Misstrauen gegenüber allen anderen Medien.",
+      "id": "0813-2",
+      "titel": "Norwegen beschlagnahmt russisches Kreuzfahrtschiff »Professor Moltschanow« in der Arktis",
+      "was": "Weisses russisches Expeditionsschiff im Packeis, norwegische Beamte an Bord",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, eine Entschädigungssumme wird in Kreuzfahrtschiffen aufgewogen. Achse: Arktis als Ferienkulisse gegen Arktis als Pfandlager.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "Spiegel",
+      "auch_bei": [
+        "Tagesschau"
+      ],
+      "artikel": "https://www.spiegel.de/ausland/norwegen-beschlagnahmt-russisches-kreuzfahrtschiff-professor-moltschanow-in-der-arktis-a-c546a932-0857-4733-8c10-1f5e65669d0e#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/0a752460-e2b8-4ca4-bdb1-60320d33b4e4_w520_r2.08_fpx32.58_fpy50.jpg",
+      "zeit": "2026-09-03T03:31+02:00"
+    },
+    {
+      "id": "0813-3",
+      "titel": "Wegen Ärger mit den Urnern – der Muni Max geht in den verlängerten Winterschlaf",
+      "was": "Riesiger Holzstier Max eingelagert oder verhüllt in Andermatt",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist, das Wahrzeichen geht tatsächlich schlafen wie ein Tier. Achse: Kantonsstolz als Attraktion gegen Kantonsstolz als Nachbarschaftsstreit.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/gruene-klagen-erfolgreich-widerrechtlich-gericht-stoppt-blochers-neutralitaets-zeitung-103625810",
-      "bild": "https://media.20min.ch/6/image/2025/06/02/9ec9889d-8b03-4c28-afa6-6df1a723e348.jpeg?s=6aa3902621917cebeccfe77c80ef6a66",
-      "zeit": "2026-09-02T10:50+02:00"
+      "artikel": "https://www.nzz.ch/schweiz/wegen-aerger-mit-den-urnern-muni-max-geht-in-den-verlaengerten-winterschlaf-ld.10022119",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/02/e4916692-6e65-46c4-9fc1-2c4743e122fe.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2558,2558,x2430,y733",
+      "zeit": "2026-09-03T05:30+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute abends",
-      "was": "Jubel- und Enttäuschungsbilder aus dem Playoff-Spiel der Frauen um die Champions League"
+      "wann": "heute ab 18:00",
+      "was": "Roter Teppich zur Eröffnung der Filmfestspiele in Venedig, Jury und Regie posieren"
     },
     {
-      "wann": "heute tagsüber",
-      "was": "Paparazzi-Aufnahmen von Harry und Meghan in ihrer neuen englischen Nachbarschaft"
+      "wann": "heute ab 15:00",
+      "was": "Vuelta-Etappe, Zielankunft und Siegerpose oder Erschöpfung am Berg"
     }
   ],
   "hinweis": ""
