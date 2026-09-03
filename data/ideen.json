@@ -4,54 +4,34 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-03-0917-05",
+      "id": "2026-09-03-0917-02",
       "typ": "politisch-aktuell",
-      "stichwort": "2. Januar, Chef hat mein Jahr schon drin",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Am 2. Januar bin ich um sieben aufgestanden und arbeiten gegangen. Der Chef von Novartis hatte mein Jahresgehalt da schon verdient. Vor dem Mittag. Ohne Wecker."
-    },
-    {
-      "id": "2026-09-03-0917-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Steuerfrei sind nur Gewinne, nicht der Lohn",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 15,
-      "text": "Steuerfrei in der Schweiz: der Gewinn aus deinen Aktien, der Gewinn aus deinem Gold, der Gewinn aus deiner Kunstsammlung. Nicht steuerfrei: die 6800 Franken, die du im Monat verdienst."
-    },
-    {
-      "id": "2026-09-03-0917-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bis 66, weil wir alle länger leben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Ich soll bis 66 arbeiten, weil wir alle länger leben. Die ärmsten Männer sterben vier Jahre vor den reichsten. Zahlen länger ein. Beziehen kürzer. Rechnet sich."
-    },
-    {
-      "id": "2026-09-03-0917-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hoch Thomas 33 Grad, gleichzeitig drei Hurrikane",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Bei uns heisst die Hitze Hoch Thomas und bringt 33 Grad im September. Am selben Tag bilden sich im Pazifik drei schwere Hurrikane. Dieselbe Atmosphäre. Zwei Sendeformate."
-    },
-    {
-      "id": "2026-09-03-0917-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kyjiw Luftalarm, Europa kauft weiter Gas",
+      "stichwort": "Millionen mit Fälschungen in Zug, das Geld war echt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Ich habe heute gelesen, dass in Kyjiw die Schulanfangsfeier vom Luftalarm unterbrochen wurde. Europa verurteilt die Angriffe seit 2022 aufs Schärfste und kauft weiter russisches Gas. Beides täglich. Zuverlässig."
+      "format": 14,
+      "text": "Ein Instagram-Shop hat in Zug mit Fälschungen Millionen umgesetzt, die Strafbehörde hat das Verfahren eingestellt. Gefälscht waren die Taschen, nicht das Geld. Das kam echt an.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-03-0917-11",
+      "typ": "persönlich",
+      "stichwort": "Auto vor der Einfahrt, Zehntausende in Ceuta",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Letzte Woche habe ich zwanzig Minuten über ein Auto vor meiner Einfahrt geflucht. In Ceuta demonstrieren Zehntausende, weil Menschen an der Küste ankommen. Ich verstehe das. Platz ist Platz.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-03-0917-23",
@@ -61,7 +41,57 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Swisscom, Salt und Sunrise haben alle drei die Preise erhöht. Als Anbieter finde ich es gut, dass sich Wechseln wieder lohnt. Ihnen stehen zwei Alternativen offen. Beide neu."
+      "text": "Swisscom, Salt und Sunrise haben alle drei die Preise erhöht. Als Anbieter finde ich es gut, dass sich Wechseln wieder lohnt. Ihnen stehen zwei Alternativen offen. Beide neu.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-03-0917-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Verlustschein nach neunzehn Jahren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich habe als Inkassobüro nach neunzehn Jahren wieder angerufen. Alte Verlustscheine verjähren erst nach zwanzig, und ich finde es richtig: Irgendwann muss auch mal Schluss sein. Nächstes Jahr.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-03-0917-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "60 Franken pro Kilo, 120 pro Tonne",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich habe am Flughafen 60 Franken für ein Kilo Übergepäck bezahlt. Eine Tonne CO2 kostet in der Schweiz 120 Franken Abgabe. Pro Tonne. Nicht pro Kilo.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-03-0917-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "2000 Franken belegen, 2200 Milliarden nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Für ein Sparkonto mit 2000 Franken musste ich belegen, woher das Geld kommt. Auf Schweizer Konten liegen 2200 Milliarden aus dem Ausland. Dort reichte Vertrauen. Gewachsen. Über Jahrzehnte.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
