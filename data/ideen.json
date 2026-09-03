@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-03",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-03-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "600 Stellen bei guten Zahlen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich zahle jeden Monat in eine Lebensversicherung, damit im Alter nichts wackelt. Swiss Life streicht bis 2028 rund 600 Stellen, trotz guter Zahlen. Die kennen sich aus mit Absicherung."
+    },
+    {
+      "id": "2026-09-03-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Federer wirbt für drei Marken, für Frauen keine",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Billie Jean King kritisiert Roger Federer: zu wenig Einsatz für Gleichberechtigung. Er hat 20 Grand Slams und wirbt für Rolex, On und Mercedes. Für Frauen war kein Vertrag frei."
+    },
     {
       "id": "2026-09-03-0757-23",
       "typ": "politisch-aktuell",
