@@ -1,82 +1,27 @@
 {
   "datum": "2026-09-03",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
-  "fertig": true,
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-03-0917-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Millionen mit Fälschungen in Zug, das Geld war echt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Ein Instagram-Shop hat in Zug mit Fälschungen Millionen umgesetzt, die Strafbehörde hat das Verfahren eingestellt. Gefälscht waren die Taschen, nicht das Geld. Das kam echt an.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-03-0917-11",
-      "typ": "persönlich",
-      "stichwort": "Auto vor der Einfahrt, Zehntausende in Ceuta",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Letzte Woche habe ich zwanzig Minuten über ein Auto vor meiner Einfahrt geflucht. In Ceuta demonstrieren Zehntausende, weil Menschen an der Küste ankommen. Ich verstehe das. Platz ist Platz.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-03-0917-23",
+      "id": "2026-09-03-1242-28",
       "typ": "schnittmenge",
-      "stichwort": "Alle drei erhöhen, Wechseln lohnt sich",
+      "stichwort": "Eigenkapital durchgesetzt, Bank ohne Rueckgaberecht",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Beim Eigenkapital hat sich die UBS durchgesetzt, die Finanzministerin nennt es eine Lösung zulasten der Steuerzahlenden. Vor drei Jahren haben wir schon eine Bank gekauft, die niemand wollte. Ohne Rückgaberecht."
+    },
+    {
+      "id": "2026-09-03-1242-29",
+      "typ": "remix",
+      "stichwort": "15 von 15 durchgefallen, zehn Jahre Zulassung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Swisscom, Salt und Sunrise haben alle drei die Preise erhöht. Als Anbieter finde ich es gut, dass sich Wechseln wieder lohnt. Ihnen stehen zwei Alternativen offen. Beide neu.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-03-0917-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Verlustschein nach neunzehn Jahren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich habe als Inkassobüro nach neunzehn Jahren wieder angerufen. Alte Verlustscheine verjähren erst nach zwanzig, und ich finde es richtig: Irgendwann muss auch mal Schluss sein. Nächstes Jahr.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-03-0917-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "60 Franken pro Kilo, 120 pro Tonne",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich habe am Flughafen 60 Franken für ein Kilo Übergepäck bezahlt. Eine Tonne CO2 kostet in der Schweiz 120 Franken Abgabe. Pro Tonne. Nicht pro Kilo.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "format": 10,
+      "text": "Ich habe heute gelernt, dass in einem Test 15 von 15 Billig-Kosmetika aus Online-Shops wegen Schadstoffen durchgefallen sind. Ein Medikament braucht zehn Jahre Zulassung. Die Wimperntusche zwei Tage. Versandkostenfrei."
     }
   ]
 }
