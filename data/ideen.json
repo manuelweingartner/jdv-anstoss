@@ -1,8 +1,38 @@
 {
   "datum": "2026-09-03",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-03-0917-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "2. Januar, Chef hat mein Jahr schon drin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Am 2. Januar bin ich um sieben aufgestanden und arbeiten gegangen. Der Chef von Novartis hatte mein Jahresgehalt da schon verdient. Vor dem Mittag. Ohne Wecker."
+    },
+    {
+      "id": "2026-09-03-0917-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuerfrei sind nur Gewinne, nicht der Lohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 15,
+      "text": "Steuerfrei in der Schweiz: der Gewinn aus deinen Aktien, der Gewinn aus deinem Gold, der Gewinn aus deiner Kunstsammlung. Nicht steuerfrei: die 6800 Franken, die du im Monat verdienst."
+    },
+    {
+      "id": "2026-09-03-0917-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bis 66, weil wir alle länger leben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Ich soll bis 66 arbeiten, weil wir alle länger leben. Die ärmsten Männer sterben vier Jahre vor den reichsten. Zahlen länger ein. Beziehen kürzer. Rechnet sich."
+    },
     {
       "id": "2026-09-03-0917-23",
       "typ": "schnittmenge",
@@ -32,16 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 14,
       "text": "Beim Kompromiss zu den Kapitalvorschriften für die UBS spricht die Finanzministerin von einer Lösung zulasten der Steuerzahlenden. Systemrelevant heisst nicht, dass wir die Bank brauchen. Sondern dass sie mit uns rechnet."
-    },
-    {
-      "id": "2026-09-03-0917-29",
-      "typ": "remix",
-      "stichwort": "15 von 15 durchgefallen, kontrolliert wurde die Mehrwertsteuer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich habe eine Wimperntusche für 3 Franken bestellt. 15 von 15 Billig-Kosmetika aus Onlineshops fallen im Schadstofftest durch. Kontrolliert wurde bei der Einfuhr: die Mehrwertsteuer. Zuverlässig. Auf den Rappen."
     }
   ]
 }
