@@ -11567,6 +11567,102 @@
         "neu": true
       },
       "datum": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-2230-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwei Forensiker, ein Name hätte gereicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Beim Täter von Aarau fehlen Diagnose, Ideologie und Vorstrafen. Zwei Forensiker erklären jetzt, warum der Fall so ungewöhnlich ist. Bei einem ausländischen Namen hätte eine Zeile gereicht. Ohne Einordnung.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-2230-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "300 Milliarden Barrel, darf weiter Venezuela heissen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Venezuela überschreibt uns sein Öl, 300 Milliarden Barrel, freiwillig. Als USA war uns die Souveränität des Landes immer wichtig: Es darf weiterhin Venezuela heissen. Fahne bleibt. Hymne auch.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-2230-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "150'000 Franken Schulgeld, bezahlt sind die Mitschüler",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "150'000 Franken kostet ein Jahr im teuersten Internat der Welt, es steht in St. Gallen. Bezahlt wird dort nicht der Unterricht, bezahlt werden die Mitschüler. Lebenslang. Mit Vornamen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-2230-09",
+      "typ": "remix",
+      "stichwort": "100 Millionen für Berghotels, es fehlt an Schnee",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "100 Millionen gibt der Bund für die Sanierung von Berghotels. Es fehlt dort nicht an Betten. Es fehlt an Schnee. Saniert wird trotzdem das Bett.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-2230-10",
+      "typ": "persönlich",
+      "stichwort": "Sieben Jahre ECO-Programm, Klimaziel auch aus Prinzip",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich lasse die Abwaschmaschine seit sieben Jahren im ECO-Programm laufen. Drei Stunden vierzig pro Gang, aus Prinzip. In derselben Zeit wurden die Klimaziele zweimal nach hinten geschoben. Auch aus Prinzip.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-2230-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "12 Milliarden, einmal im Jahr erwogen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich habe als Bundesamt beschlossen, den Gotthard 18 Nächte zu sperren. Nehmen Sie solange den Basistunnel, den wir für 12 Milliarden gebaut haben, damit Sie ihn einmal im Jahr erwägen.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-09-02"
     }
   ]
 }
