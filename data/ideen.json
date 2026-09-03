@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-03",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 10,
       "text": "Ich habe heute gelernt, dass in einem Test 15 von 15 Billig-Kosmetika aus Online-Shops wegen Schadstoffen durchgefallen sind. Ein Medikament braucht zehn Jahre Zulassung. Die Wimperntusche zwei Tage. Versandkostenfrei."
+    },
+    {
+      "id": "2026-09-03-1242-36",
+      "typ": "persönlich",
+      "stichwort": "16'000 Einwohner, Parkplatz voller Mietautos",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Auf dem Parkplatz in Appenzell Innerrhoden, 16'000 Einwohner, stehen lauter Mietautos. Autos dürfen sich dort anmelden, wo die Steuern tiefer sind. Ich muss mich für eine Wohnung bewerben. Mit Lohnausweis."
+    },
+    {
+      "id": "2026-09-03-1242-37",
+      "typ": "persönlich",
+      "stichwort": "290'000 Menschen, kein eigenes Frauenhaus",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "290'000 Menschen leben im Kanton Thurgau, ein eigenes Frauenhaus gibt es nicht. Wer Schutz sucht, muss zuerst den Kanton verlassen. Es fehlt keine Strategie. Es fehlt eine Adresse."
+    },
+    {
+      "id": "2026-09-03-1242-38",
+      "typ": "persönlich",
+      "stichwort": "Rösti brennt auf Slide vier",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ich baue Slides aus meinen letzten fünf Posts, auf dem vierten brennt Umweltminister Albert Rösti. Das war als Witz gemeint. Inzwischen ist es der Wetterbericht. Mit Karte."
     }
   ]
 }
