@@ -1,59 +1,63 @@
 {
-  "stand": "2026-09-03T08:14:36+02:00",
-  "lauf": "0813",
+  "stand": "2026-09-03T17:01:29+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0813-1",
-      "titel": "News: Wladimir Putin droht Deutschland, CDU versteckt Friedrich Merz, Hape Kerkeling hilft SPD",
-      "was": "Hape Kerkeling im SPD-Wahlkampfauftritt, daneben Plakate ohne den CDU-Spitzenmann",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, der Gastauftritt eines Komikers wird als Parteiarbeit verbucht. Achse: geliehene Beliebtheit gegen eigene Sichtbarkeit.",
+      "id": "1700-1",
+      "titel": "Norwegen setzt ein russisches Passagierschiff in Spitzbergen fest – Putin spricht von «Staatsterrorismus»",
+      "was": "Beschlagnahmtes russisches Schiff im Hafen von Longyearbyen, norwegische Beamte daneben",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Rechtsstaat nennt es Vollstreckung, Moskau nennt es Terrorismus, das Bild zeigt beides als Bootsbeschau.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "taz"
+      ],
+      "artikel": "https://www.nzz.ch/international/norwegen-setzt-russisches-schiff-in-spitzbergen-fest-kreml-empoert-ld.10022208",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/03/8c8ac997-dfbe-428b-9480-3514b240452c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2160,2160,x840,y0",
+      "zeit": "2026-09-03T16:00+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Treffen des Weimarer Dreiecks: Vereinigt gegen russischen Staatsterrorismus",
+      "was": "Drei Regierungsvertreter im Handschlag vor Flaggenreihe, Jubiläumsgruppenfoto Weimarer Dreieck",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Geschlossenheit als Fotopose gegen 35 Jahre Zuständigkeitsgerangel.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "taz",
+      "auch_bei": [
+        "NZZ",
+        "Tagesschau"
+      ],
+      "artikel": "https://taz.de/Treffen-des-Weimarer-Dreiecks/!6209865/",
+      "bild": "https://taz.de/picture/8714059/948/41981871.jpeg",
+      "zeit": "2026-09-03T15:43+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Ukraine-Krieg: Wladimir Putin will trotz hoher Verluste nichts von neuer Mobilmachung wissen",
+      "was": "Ukraine-Krieg: Wladimir Putin will trotz hoher Verluste nichts von neuer Mobilmachung wissen",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Jugendsprache für einen Nachmittag gegen Verwaltungstempo von Jahrzehnten.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
-        "Tagesschau"
+        "NZZ",
+        "taz"
       ],
-      "artikel": "https://www.spiegel.de/politik/deutschland/news-wladimir-putin-droht-deutschland-cdu-versteckt-friedrich-merz-hape-kerkeling-hilft-spd-a-8e52d403-5ce9-40ff-8d1e-a8d81bb5b23c#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w520_r2.08_fpx28.09_fpy49.93.png",
-      "zeit": "2026-09-03T05:48+02:00"
-    },
-    {
-      "id": "0813-2",
-      "titel": "Norwegen beschlagnahmt russisches Kreuzfahrtschiff »Professor Moltschanow« in der Arktis",
-      "was": "Weisses russisches Expeditionsschiff im Packeis, norwegische Beamte an Bord",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, eine Entschädigungssumme wird in Kreuzfahrtschiffen aufgewogen. Achse: Arktis als Ferienkulisse gegen Arktis als Pfandlager.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "Spiegel",
-      "auch_bei": [
-        "Tagesschau"
-      ],
-      "artikel": "https://www.spiegel.de/ausland/norwegen-beschlagnahmt-russisches-kreuzfahrtschiff-professor-moltschanow-in-der-arktis-a-c546a932-0857-4733-8c10-1f5e65669d0e#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/0a752460-e2b8-4ca4-bdb1-60320d33b4e4_w520_r2.08_fpx32.58_fpy50.jpg",
-      "zeit": "2026-09-03T03:31+02:00"
-    },
-    {
-      "id": "0813-3",
-      "titel": "Wegen Ärger mit den Urnern – der Muni Max geht in den verlängerten Winterschlaf",
-      "was": "Riesiger Holzstier Max eingelagert oder verhüllt in Andermatt",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist, das Wahrzeichen geht tatsächlich schlafen wie ein Tier. Achse: Kantonsstolz als Attraktion gegen Kantonsstolz als Nachbarschaftsstreit.",
-      "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "NZZ",
-      "auch_bei": [],
-      "artikel": "https://www.nzz.ch/schweiz/wegen-aerger-mit-den-urnern-muni-max-geht-in-den-verlaengerten-winterschlaf-ld.10022119",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/02/e4916692-6e65-46c4-9fc1-2c4743e122fe.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2558,2558,x2430,y733",
-      "zeit": "2026-09-03T05:30+02:00"
+      "artikel": "https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-trotz-hoher-verluste-nichts-von-neuer-mobilmachung-wissen-a-416a1d72-893b-45cb-8c5e-5786959d6fe9#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/9ab7636d-cf66-43ef-9a28-88646a309d91_w520_r2.08_fpx58.67_fpy50.jpg",
+      "zeit": "2026-09-03T13:23+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 18:00",
-      "was": "Roter Teppich zur Eröffnung der Filmfestspiele in Venedig, Jury und Regie posieren"
+      "wann": "heute ab 17:00",
+      "was": "Abschluss-Pressekonferenz und Gruppenfoto des Weimarer Dreiecks"
     },
     {
-      "wann": "heute ab 15:00",
-      "was": "Vuelta-Etappe, Zielankunft und Siegerpose oder Erschöpfung am Berg"
+      "wann": "heute abend",
+      "was": "Fototermin und Statements an der Klausurtagung der SPD-Bundestagsfraktion"
     }
   ],
   "hinweis": ""
