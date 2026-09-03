@@ -1,127 +1,27 @@
 {
   "datum": "2026-09-03",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-03-080106-v1",
-      "typ": "persönlich",
-      "stichwort": "Variante zu: 2026 legal wegtherapiert, Bundesrat offen",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ich habe heute gelernt, dass man 2026 in der Schweiz die Sexualität eines Menschen legal wegtherapieren darf. Der Bundesrat ist offen für ein Verbot. Offen."
-    },
-    {
-      "id": "2026-09-03-080106-v2",
-      "typ": "persönlich",
-      "stichwort": "Variante zu: 2026 legal wegtherapiert, Bundesrat offen",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Konversionstherapie ist in der Schweiz 2026 erlaubt, ein Verbot ist beim Bundesrat noch in Prüfung. Geprüft wird also, ob Menschen bleiben dürfen, wie sie sind."
-    },
-    {
-      "id": "2026-09-03-080106-v3",
-      "typ": "persönlich",
-      "stichwort": "Variante zu: 2026 legal wegtherapiert, Bundesrat offen",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "In der Schweiz braucht ein Hundesalon eine Bewilligung. Wer schwule Jugendliche umpolen will, braucht ein freies Wochenende."
-    },
-    {
-      "id": "2026-09-03-0628-03",
+      "id": "2026-09-03-0757-23",
       "typ": "politisch-aktuell",
-      "stichwort": "20 Millionen für den Gipfel, bezahlt hat der Nachbar",
+      "stichwort": "Preise erhöht, damit Wechseln sich lohnt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Genf bleibt auf 20 Millionen Franken Sicherheitskosten für den G7-Gipfel in Évian sitzen. Als Frankreich finde ich das richtig: eingeladen habe ich, bezahlt hat der Nachbar. Nächstes Jahr gerne wieder.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Ich habe als Swisscom die Preise erhöht, damit Neukunden endlich einen Rabatt bekommen. Bezahlt wird er von allen, die seit zwölf Jahren bleiben. Aus Treue. Monatlich."
     },
     {
-      "id": "2026-09-03-0628-04",
+      "id": "2026-09-03-0757-24",
       "typ": "politisch-aktuell",
-      "stichwort": "20 Millionen Fass, Freiheit barrelweise",
+      "stichwort": "Freiheit ab 2030, Ernte selber wählen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich finde es als Ölkonzern richtig, dass die USA im Iran Minenleger bombardieren. Durch die Strasse von Hormus fliessen 20 Millionen Fass am Tag. Freiheit der Meere. Barrelweise.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-03-0628-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "830 Milliarden gegen einen Kassenbon",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich habe im Coop den Kassenbon kontrolliert, weil 4.20 für Butter zu viel schien. Die 300 reichsten Menschen der Schweiz besitzen 830 Milliarden, fast zehn Bundesbudgets. Kontrolliert wurde die Butter.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-03-0628-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "434 Milliarden unbezahlt, Leistung soll sich lohnen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Die unbezahlte Betreuungs- und Hausarbeit in der Schweiz ist 434 Milliarden Franken wert, zwei Drittel davon leisten Frauen. Und wer nichts leistet, soll ja auch nichts bekommen.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-03-0628-11",
-      "typ": "persönlich",
-      "stichwort": "2026 legal wegtherapiert, Bundesrat offen",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ich habe heute gelernt, dass man 2026 in der Schweiz die Sexualität eines Menschen legal wegtherapieren darf. Der Bundesrat zeigt sich offen für ein Verbot. Offen.",
-      "jury": {
-        "anker": false,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-03-0628-12",
-      "typ": "persönlich",
-      "stichwort": "Appenzell voller Mietautos, Kennzeichen AI",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Im Kanton Appenzell Innerrhoden dachte ich zwei Minuten lang, ich stünde vor der grössten Autovermietung Europas. Es sind Firmenflotten, die dort Steuern sparen. Das Kennzeichen heisst AI.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
+      "text": "Endlich gibt der Bundesrat der Landwirtschaft ab 2030 mehr Freiheit. Nach diesem Hitzesommer darf sie selber entscheiden, welche Ernte sie verliert. Eigenverantwortlich. Ohne Vorschriften."
     }
   ]
 }
