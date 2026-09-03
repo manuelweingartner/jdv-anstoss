@@ -1,8 +1,38 @@
 {
   "datum": "2026-09-03",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-03-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "191 Jahre bis zum UBS-Jahreslohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Für das Jahresgehalt des UBS-Chefs müsste ich mit 6000 Franken Lohn 191 Jahre arbeiten. Ich hätte 13 Jahre vor der Gründung der Schweiz anfangen müssen. Ohne Ferien."
+    },
+    {
+      "id": "2026-09-03-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sechs Stunden Steuererklärung, für andere ein Beruf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich sitze jedes Jahr sechs Stunden über meiner Steuererklärung und trage 40 Franken Spesen ein. Ab einem gewissen Vermögen ist das ein Beruf. Mit Verband. Und Weiterbildung."
+    },
+    {
+      "id": "2026-09-03-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nicht die Steuer bedroht die Firma, der Sohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "88 Prozent der Schweizer Firmen sind Familienunternehmen, und jede Erbschaftssteuer bedroht angeblich sofort ihre Existenz. Bedroht wird die Firma nicht von der Steuer. Sondern vom Sohn."
+    },
     {
       "id": "2026-09-03-0757-21",
       "typ": "politisch-aktuell",
@@ -32,16 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich habe als Swisscom die Preise erhöht, damit Neukunden endlich einen Rabatt bekommen. Bezahlt wird er von allen, die seit zwölf Jahren bleiben. Aus Treue. Monatlich."
-    },
-    {
-      "id": "2026-09-03-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Freiheit ab 2030, Ernte selber wählen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Endlich gibt der Bundesrat der Landwirtschaft ab 2030 mehr Freiheit. Nach diesem Hitzesommer darf sie selber entscheiden, welche Ernte sie verliert. Eigenverantwortlich. Ohne Vorschriften."
     }
   ]
 }
