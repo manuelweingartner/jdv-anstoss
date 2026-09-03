@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-03",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-03-0628-11",
+      "typ": "persönlich",
+      "stichwort": "2026 legal wegtherapiert, Bundesrat offen",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ich habe heute gelernt, dass man 2026 in der Schweiz die Sexualität eines Menschen legal wegtherapieren darf. Der Bundesrat zeigt sich offen für ein Verbot. Offen."
+    },
+    {
+      "id": "2026-09-03-0628-12",
+      "typ": "persönlich",
+      "stichwort": "Appenzell voller Mietautos, Kennzeichen AI",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Im Kanton Appenzell Innerrhoden dachte ich zwei Minuten lang, ich stünde vor der grössten Autovermietung Europas. Es sind Firmenflotten, die dort Steuern sparen. Das Kennzeichen heisst AI."
+    },
     {
       "id": "2026-09-03-0628-21",
       "typ": "politisch-aktuell",
