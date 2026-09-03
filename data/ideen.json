@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-03",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-03-0628-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "20 Millionen für den Gipfel, bezahlt hat der Nachbar",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Genf bleibt auf 20 Millionen Franken Sicherheitskosten für den G7-Gipfel in Évian sitzen. Als Frankreich finde ich das richtig: eingeladen habe ich, bezahlt hat der Nachbar. Nächstes Jahr gerne wieder."
+    },
+    {
+      "id": "2026-09-03-0628-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "20 Millionen Fass, Freiheit barrelweise",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es als Ölkonzern richtig, dass die USA im Iran Minenleger bombardieren. Durch die Strasse von Hormus fliessen 20 Millionen Fass am Tag. Freiheit der Meere. Barrelweise."
+    },
     {
       "id": "2026-09-03-0628-11",
       "typ": "persönlich",
