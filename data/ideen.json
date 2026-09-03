@@ -4,26 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-03-1242-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Butter gehortet, 86 Tonnen Gold heim",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich habe diese Woche Butter gehortet, weil die Schweizer Inflation auf dem höchsten Stand seit zwei Jahren ist. Die Niederlande holen gleichzeitig 86 Tonnen Gold aus den USA heim. Kleinerer Tresor."
-    },
-    {
-      "id": "2026-09-03-1242-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neutralität ohne Sanktionen, Seite 1943",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Cassis stellt sich diese Woche den Fragen zur Neutralitätsinitiative, die uns Sanktionen verbieten will. Ich finde das richtig: Wer nie Position bezieht, muss nie erklären, auf welcher Seite er 1943 stand."
-    },
-    {
       "id": "2026-09-03-1242-03",
       "typ": "politisch-aktuell",
       "stichwort": "Ashwagandha abgemahnt, Preis bleibt",
@@ -31,27 +11,72 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich verkaufe Ashwagandha-Kapseln und wurde von Foodwatch abgemahnt, weil ich Wirkung versprochen habe. Die Kritik ist berechtigt. Ab sofort verspreche ich nichts mehr. Preis bleibt: 39 Franken."
+      "text": "Ich verkaufe Ashwagandha-Kapseln und wurde von Foodwatch abgemahnt, weil ich Wirkung versprochen habe. Die Kritik ist berechtigt. Ab sofort verspreche ich nichts mehr. Preis bleibt: 39 Franken.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-03-1242-04",
+      "id": "2026-09-03-1242-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vier Landesregierungen für einen Bankchef",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Sieben Bundesrätinnen und Bundesräte kosten die Schweiz zusammen 3,3 Millionen im Jahr. Der Chef der UBS verdient 14,9, könnte sich also vier Landesregierungen halten. Ich fände zwei schon genug.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-03-1242-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "29 empfohlene Schutzplätze, Thurgau hat keinen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "290'000 Menschen leben im Thurgau, empfohlen wären 29 Schutzplätze für Gewaltopfer. Der Kanton hat keinen und schickt die Frauen nach St. Gallen. Eine Kantonsgrenze weiter. Mit Umsteigen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-03-1242-23",
       "typ": "schnittmenge",
-      "stichwort": "Entführungsplan aus der Zelle, Justizvollzug freut sich",
+      "stichwort": "Ashwagandha abgemahnt, beruhigt hat es nur uns",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich verkaufe Ashwagandha-Pulver mit Pamela Reif drauf, jetzt hat Foodwatch mich abgemahnt: beruhigend wirkt es nachweislich nicht. Stimmt. Beruhigt hat es immer nur uns. Monatlich. Im Abo.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-03-1242-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "15'000 Kubikmeter Fels bewegen sich termingerecht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Aus der Zelle heraus hat ein 18-Jähriger die Entführung von Kylian Mbappé geplant. Als Justizvollzug finde ich das ein gutes Zeichen: Endlich lernt drinnen jemand etwas. Vernetzung inklusive."
-    },
-    {
-      "id": "2026-09-03-1242-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trinkgeld auf den Rappen, Aktiengewinn null Prozent",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich versteuere mein Trinkgeld auf den Rappen. Wer zwei Millionen mit Aktien verdient, zahlt in der Schweiz null Prozent darauf. Privatvermögen. Kein Einkommen. Nur Glück gehabt."
+      "text": "Oberhalb der Schwägalp drohen 15'000 Kubikmeter Fels abzustürzen, der Permafrost taut. Endlich bewegt sich beim Klima etwas, ohne dass wir dafür ein Gesetz verschieben mussten. Termingerecht. Ohne Übergangsfrist.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-03-1242-26",
@@ -61,7 +86,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 19,
-      "text": "Zwei Wochen Vaterschaftsurlaub gibt dieses Land, für die Rekrutenschule achtzehn. Schiessen lernt man offenbar langsamer als einen Säugling am Leben zu halten. Üben muss man es auch öfter."
+      "text": "Zwei Wochen Vaterschaftsurlaub gibt dieses Land, für die Rekrutenschule achtzehn. Schiessen lernt man offenbar langsamer als einen Säugling am Leben zu halten. Üben muss man es auch öfter.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
