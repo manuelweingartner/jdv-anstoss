@@ -34,6 +34,26 @@
       "text": "Ich soll bis 66 arbeiten, weil wir alle länger leben. Die ärmsten Männer sterben vier Jahre vor den reichsten. Zahlen länger ein. Beziehen kürzer. Rechnet sich."
     },
     {
+      "id": "2026-09-03-0917-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hoch Thomas 33 Grad, gleichzeitig drei Hurrikane",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Bei uns heisst die Hitze Hoch Thomas und bringt 33 Grad im September. Am selben Tag bilden sich im Pazifik drei schwere Hurrikane. Dieselbe Atmosphäre. Zwei Sendeformate."
+    },
+    {
+      "id": "2026-09-03-0917-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kyjiw Luftalarm, Europa kauft weiter Gas",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Ich habe heute gelesen, dass in Kyjiw die Schulanfangsfeier vom Luftalarm unterbrochen wurde. Europa verurteilt die Angriffe seit 2022 aufs Schärfste und kauft weiter russisches Gas. Beides täglich. Zuverlässig."
+    },
+    {
       "id": "2026-09-03-0917-23",
       "typ": "schnittmenge",
       "stichwort": "Alle drei erhöhen, Wechseln lohnt sich",
@@ -42,26 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Swisscom, Salt und Sunrise haben alle drei die Preise erhöht. Als Anbieter finde ich es gut, dass sich Wechseln wieder lohnt. Ihnen stehen zwei Alternativen offen. Beide neu."
-    },
-    {
-      "id": "2026-09-03-0917-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Verlustschein nach neunzehn Jahren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich habe als Inkassobüro nach neunzehn Jahren wieder angerufen. Alte Verlustscheine verjähren erst nach zwanzig, und ich finde es richtig: Irgendwann muss auch mal Schluss sein. Nächstes Jahr."
-    },
-    {
-      "id": "2026-09-03-0917-28",
-      "typ": "schnittmenge",
-      "stichwort": "Systemrelevant heisst, die Bank rechnet mit uns",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Beim Kompromiss zu den Kapitalvorschriften für die UBS spricht die Finanzministerin von einer Lösung zulasten der Steuerzahlenden. Systemrelevant heisst nicht, dass wir die Bank brauchen. Sondern dass sie mit uns rechnet."
     }
   ]
 }
