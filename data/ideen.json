@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-03",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -19,6 +19,21 @@
       }
     },
     {
+      "id": "2026-09-03-0628-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "20 Millionen Fass, Freiheit barrelweise",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es als Ölkonzern richtig, dass die USA im Iran Minenleger bombardieren. Durch die Strasse von Hormus fliessen 20 Millionen Fass am Tag. Freiheit der Meere. Barrelweise.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": false
+      }
+    },
+    {
       "id": "2026-09-03-0628-05",
       "typ": "politisch-aktuell",
       "stichwort": "830 Milliarden gegen einen Kassenbon",
@@ -31,21 +46,6 @@
         "anker": true,
         "witz": true,
         "neu": false
-      }
-    },
-    {
-      "id": "2026-09-03-0628-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kaffeepause gestrichen, UBS-Chef bis Dienstagmittag",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Seit dem Frühling lasse ich die Kaffeepause weg, damit die Stunden aufgehen. Der UBS-Chef verdient 14,9 Millionen im Jahr, also meinen Jahreslohn zwischen Montagmorgen und Dienstagmittag. Ohne Pause.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
       }
     },
     {
@@ -64,6 +64,21 @@
       }
     },
     {
+      "id": "2026-09-03-0628-11",
+      "typ": "persönlich",
+      "stichwort": "2026 legal wegtherapiert, Bundesrat offen",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ich habe heute gelernt, dass man 2026 in der Schweiz die Sexualität eines Menschen legal wegtherapieren darf. Der Bundesrat zeigt sich offen für ein Verbot. Offen.",
+      "jury": {
+        "anker": false,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-09-03-0628-12",
       "typ": "persönlich",
       "stichwort": "Appenzell voller Mietautos, Kennzeichen AI",
@@ -76,21 +91,6 @@
         "anker": true,
         "witz": false,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-09-03-0628-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "600 Stellen gestrichen, Vorsorge funktioniert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich zahle monatlich in eine Lebensversicherung ein, damit später nichts wackelt. Swiss Life streicht bis 2028 trotz guter Zahlen 600 Stellen. Vorsorge funktioniert. Für einen von uns.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
       }
     }
   ]
