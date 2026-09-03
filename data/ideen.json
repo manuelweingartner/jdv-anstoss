@@ -4,6 +4,26 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-09-03-1242-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Butter gehortet, 86 Tonnen Gold heim",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich habe diese Woche Butter gehortet, weil die Schweizer Inflation auf dem höchsten Stand seit zwei Jahren ist. Die Niederlande holen gleichzeitig 86 Tonnen Gold aus den USA heim. Kleinerer Tresor."
+    },
+    {
+      "id": "2026-09-03-1242-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neutralität ohne Sanktionen, Seite 1943",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Cassis stellt sich diese Woche den Fragen zur Neutralitätsinitiative, die uns Sanktionen verbieten will. Ich finde das richtig: Wer nie Position bezieht, muss nie erklären, auf welcher Seite er 1943 stand."
+    },
+    {
       "id": "2026-09-03-1242-25",
       "typ": "politisch-aktuell",
       "stichwort": "Trinkgeld auf den Rappen, Aktiengewinn null Prozent",
@@ -42,26 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Beim Eigenkapital hat sich die UBS durchgesetzt, die Finanzministerin nennt es eine Lösung zulasten der Steuerzahlenden. Vor drei Jahren haben wir schon eine Bank gekauft, die niemand wollte. Ohne Rückgaberecht."
-    },
-    {
-      "id": "2026-09-03-1242-29",
-      "typ": "remix",
-      "stichwort": "15 von 15 durchgefallen, zehn Jahre Zulassung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich habe heute gelernt, dass in einem Test 15 von 15 Billig-Kosmetika aus Online-Shops wegen Schadstoffen durchgefallen sind. Ein Medikament braucht zehn Jahre Zulassung. Die Wimperntusche zwei Tage. Versandkostenfrei."
-    },
-    {
-      "id": "2026-09-03-1242-36",
-      "typ": "persönlich",
-      "stichwort": "16'000 Einwohner, Parkplatz voller Mietautos",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Auf dem Parkplatz in Appenzell Innerrhoden, 16'000 Einwohner, stehen lauter Mietautos. Autos dürfen sich dort anmelden, wo die Steuern tiefer sind. Ich muss mich für eine Wohnung bewerben. Mit Lohnausweis."
     }
   ]
 }
