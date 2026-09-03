@@ -11792,6 +11792,102 @@
         "neu": true
       },
       "datum": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "600 Stellen bei guten Zahlen, Lebensversicherer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Ich habe gelernt, wie ein Lebensversicherer auf gute Zahlen reagiert: Swiss Life streicht 600 Stellen bis 2028. Versichert ist das Leben der Zahlen. Nicht deines.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trottinett-Regeln am selben Tag wie die Waffen-Bremse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Städte fordern am selben Tag strengere Regeln für E-Trottinetts, während Bürgerliche das Waffenrecht nach der Kalaschnikow-Tat von Aarau streng genug finden. Das Trottinett steht ja auch im Weg. Ungesichert.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "2,8 Milliarden und dann noch Auflagen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Der Bundesrat gibt der Landwirtschaft ab 2030 mehr Freiheit. Ich finde es richtig: 2,8 Milliarden Franken Direktzahlungen und dann noch Auflagen, das wäre ja Planwirtschaft. Subventioniert. Aber frei.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "250 Tage Karibik, Crew braucht Erholung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich bin ein US-Flugzeugträger. 250 Tage Karibik, Boote beschossen, jetzt erholt sich meine Crew in Thailand. Anstrengend, so ein Einsatz. Für alle Beteiligten.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sechs Stunden Steuererklärung, für andere ein Beruf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich sitze jedes Jahr sechs Stunden über meiner Steuererklärung und trage 40 Franken Spesen ein. Ab einem gewissen Vermögen ist das ein Beruf. Mit Verband. Und Weiterbildung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nicht die Steuer bedroht die Firma, der Sohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "88 Prozent der Schweizer Firmen sind Familienunternehmen, und jede Erbschaftssteuer bedroht angeblich sofort ihre Existenz. Bedroht wird die Firma nicht von der Steuer. Sondern vom Sohn.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-03"
     }
   ]
 }
