@@ -1,27 +1,27 @@
 {
   "datum": "2026-09-04",
-  "hinweis": "4 Ideen aussortiert und nicht ersetzt, Liste hat 2 statt 6.",
-  "fertig": true,
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-04-0757-23",
+      "id": "2026-09-04-1916-03",
       "typ": "politisch-aktuell",
-      "stichwort": "50'000 Stellen, gespart wird bei uns",
+      "stichwort": "kleinvolumig, Krankheit gross genug",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich habe als VW-Aufsichtsrat 50'000 Stellen gestrichen, vier Werke wackeln. Beruhigend, dass wir beim Sparen bei uns selbst anfangen. Bei uns. Also bei Ihnen."
+      "text": "Ich stelle als Novartis bis 2027 die kleinvolumige Produktion in Basel ein, 130 Stellen. Beruhigend: Betroffen sind nur kleine Mengen. Ihre Krankheit ist hoffentlich gross genug."
     },
     {
-      "id": "2026-09-04-0757-24e",
+      "id": "2026-09-04-1916-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Coop-Chef ohne Noten, Kartoffeln mit Mindestkaliber",
+      "stichwort": "Hitzesommer normal, Erwartung gesenkt",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Der Coop-Chef sagt, bei Bewerbungen zählen für ihn nicht die Noten, sondern der Mensch. Gleiche Woche bleiben die Kartoffeln auf dem Feld, weil sie das Mindestkaliber von 42 Millimetern verfehlen."
+      "format": 13,
+      "text": "Gute Nachricht vom Bund: Sommer wie 2026 sind in unserer Klimazukunft nicht mehr aussergewöhnlich. Wir haben das Ziel also nicht verfehlt, sondern die Erwartung gesenkt. Planmässig."
     }
   ]
 }

@@ -12064,6 +12064,28 @@
         "neu": true
       },
       "datum": "2026-09-03"
+    },
+    {
+      "id": "2026-09-04-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "50'000 Stellen, gespart wird bei uns",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich habe als VW-Aufsichtsrat 50'000 Stellen gestrichen, vier Werke wackeln. Beruhigend, dass wir beim Sparen bei uns selbst anfangen. Bei uns. Also bei Ihnen.",
+      "datum": "2026-09-04"
+    },
+    {
+      "id": "2026-09-04-0757-24e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Coop-Chef ohne Noten, Kartoffeln mit Mindestkaliber",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Der Coop-Chef sagt, bei Bewerbungen zählen für ihn nicht die Noten, sondern der Mensch. Gleiche Woche bleiben die Kartoffeln auf dem Feld, weil sie das Mindestkaliber von 42 Millimetern verfehlen.",
+      "datum": "2026-09-04"
     }
   ]
 }
