@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-04",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -31,6 +31,21 @@
         "witz": true,
         "anker": true,
         "neu": true
+      }
+    },
+    {
+      "id": "2026-09-04-1916-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "kleinvolumig, Krankheit gross genug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich stelle als Novartis bis 2027 die kleinvolumige Produktion in Basel ein, 130 Stellen. Beruhigend: Betroffen sind nur kleine Mengen. Ihre Krankheit ist hoffentlich gross genug.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
       }
     },
     {
@@ -75,21 +90,6 @@
       "jury": {
         "anker": true,
         "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-04-1916-36",
-      "typ": "persönlich",
-      "stichwort": "Appenzell: Autos durften vor den Frauen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe im Kanton Appenzell Innerrhoden lauter Mietautos gezählt, angemeldet dort, weil es billiger ist. Frauen durften ab 1990 mitreden. Autos sofort.",
-      "jury": {
-        "witz": true,
-        "anker": true,
         "neu": true
       }
     }
