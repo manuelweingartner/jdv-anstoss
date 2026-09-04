@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-03T08:16:16+02:00",
+  "stand": "2026-09-04T08:11:04+02:00",
   "vorschlaege": [
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Der Steuerzahler haftet weiter",
-        "Ausgewogene Kapitalvorschriften für die UBS"
+        "600 Stellen streichen",
+        "Strukturelle Fokussierung bis 2028"
       ],
-      "warum": "weil beim UBS-Kompromiss die vornehme Formulierung exakt dieselbe Haftung meint wie die schlichte",
+      "warum": "weil Swiss Life den Abbau trotz Gewinnanstieg in eine Vornehmigkeit verpackt, und genau das ist die Figur",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Mehr Freiheit für die Landwirtschaft",
-        "Agrarpolitik für den nächsten Hitzesommer",
-        "Bundesrat"
+        "Miete stillschweigend weiterzahlen",
+        "Senkungsgesuch einreichen",
+        "Die halbe Schweizer Mieterschaft"
       ],
-      "warum": "weil der Bundesrat nach dem Hitzesommer in letzter Sekunde vom naheliegenden Weg abbiegt",
+      "warum": "weil der Referenzzins auf Tief liegt und trotzdem fast niemand abbiegt, wo es sich lohnt",
       "bild": "vorschlag-2.jpg"
-    },
-    {
-      "vorlage": "doge",
-      "name": "Buff Doge vs. Cheems",
-      "zeilen": [
-        "Volkswagen 2015",
-        "Taktgeber der Autowelt",
-        "Volkswagen 2026",
-        "Kostenprogramm, BYD im Rückspiegel"
-      ],
-      "warum": "weil die deutsche Autoindustrie genau die Figur vom stolzen Früher und klaeglichen Heute liefert",
-      "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Ein Parkplatz ist kein Grundrecht"
+        "In Zug ist Einstellen auch Aufklärung"
       ],
-      "warum": "weil die These beim Streit um Strassenflaeche stimmt und trotzdem jedes Mal Widerspruch provoziert",
+      "warum": "weil die These als ernst gemeinter Satz stehen bleibt und der Fälschershop den Widerspruch schon widerlegt hat",
+      "bild": "vorschlag-3.jpg"
+    },
+    {
+      "vorlage": "doge",
+      "name": "Buff Doge vs. Cheems",
+      "zeilen": [
+        "Reduit im Gotthard",
+        "Jeder Mann ein Gewehr",
+        "Patriot auf der Bestellliste",
+        "Berlin liefert nicht"
+      ],
+      "warum": "weil der Patriot-Deal das behauptete Wehrpathos direkt neben die Realität der Beschaffung stellt",
       "bild": "vorschlag-4.jpg"
     }
   ]
