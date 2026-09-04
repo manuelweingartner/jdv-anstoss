@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-04",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-04-1916-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "15 von 15 Kosmetika durchgefallen, UBS bleibt drin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "15 von 15 getesteten Billig-Kosmetika fallen durch den Schadstofftest. Gleiche Woche darf die UBS weniger Eigenkapital halten als geplant. Die Schweiz zieht klare Grenzen. Beim Lipgloss."
+    },
+    {
+      "id": "2026-09-04-1916-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bauchweh diagnostiziert, Schule bekommt ein Leitbild",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe für das Bauchweh meiner Tochter einen Kinderarzttermin gebraucht. Laut neuer Studie dreht sich dort jede fünfte Konsultation um schulische Probleme. Behandelt wird das Kind. Die Schule bekommt ein Leitbild."
+    },
     {
       "id": "2026-09-04-1916-03",
       "typ": "politisch-aktuell",
@@ -42,16 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 19,
       "text": "Für 80 Franken mehr Lohn habe ich zwanzig Minuten verhandelt. Der Novartis-Chef verdient in denselben zwanzig Minuten 2'800 Franken. Ohne Gespräch. Auch im Schlaf."
-    },
-    {
-      "id": "2026-09-04-1916-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "4500 Pauschalbesteuerte, Steuern als Abo",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Als ich meine Steuerrechnung bekam, war sie schon ausgerechnet. Rund 4'500 sehr Reiche handeln ihre mit dem Kanton aus, pauschal nach Aufwand. Keine Hinterziehung. Ein Abo."
     }
   ]
 }
