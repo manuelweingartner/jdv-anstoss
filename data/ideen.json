@@ -1,7 +1,7 @@
 {
   "datum": "2026-09-04",
-  "hinweis": "1 von 6 da, der Rest lädt noch.",
-  "fertig": false,
+  "hinweis": "1 von 6 da, Dubletten-Check läuft noch.",
+  "fertig": true,
   "ideen": [
     {
       "id": "2026-09-04-0757-23",
