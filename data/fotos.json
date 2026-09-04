@@ -1,55 +1,58 @@
 {
-  "stand": "2026-09-04T08:10:04+02:00",
-  "lauf": "0809",
+  "stand": "2026-09-04T17:01:00+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0809-1",
-      "titel": "News: Wahl in Sachsen-Anhalt, AfD, Ceuta, Annalena Baerbock",
-      "was": "News: Wahl in Sachsen-Anhalt, AfD, Ceuta, Annalena Baerbock",
-      "richtung": "",
+      "id": "1700-1",
+      "titel": "Protestpartei von Farage – Geld statt Inhalte: Neue Spendenaffäre schadet Reform UK",
+      "was": "Farage und Parteispitze vor Mikrofonen, Pressekonferenz mit breitem Grinsen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Aufstand gegen die Eliten gegen eine Spenderliste voller Eliten.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
+      "raum": "",
+      "quelle": "SRF",
       "auch_bei": [
-        "SRF",
-        "Tagesschau",
         "taz"
       ],
-      "artikel": "https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-afd-ceuta-annalena-baerbock-a-89e2ceaf-e9e5-4b9a-8fbb-aa7158d2fe94#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w520_r2.08_fpx28.09_fpy49.93.png",
-      "zeit": "2026-09-04T05:53+02:00"
+      "artikel": "https://www.srf.ch/news/international/protestpartei-von-farage-geld-statt-inhalte-neue-spendenaffaere-schadet-reform-uk",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/7ee330e.jpg",
+      "zeit": "2026-09-04T15:18+02:00"
     },
     {
-      "id": "0809-2",
-      "titel": "Patriot-Deal mit Deutschland geplatzt – es drohen hohe Mehrkosten",
-      "was": "Patriot-Deal mit Deutschland geplatzt, es drohen hohe Mehrkosten",
-      "richtung": "",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
-      "auch_bei": [
-        "SRF"
-      ],
-      "artikel": "https://www.20min.ch/story/flugabwehr-patriot-deal-mit-deutschland-geplatzt-es-drohen-hohe-mehrkosten-103627303",
-      "bild": "https://image.20min.ch/2026/09/04/73a3fb5a-8a95-4f62-9444-fe93b5517566.jpg?s=4cfe4a52e19816e0069703a3942cd1a4",
-      "zeit": "2026-09-04T07:48+02:00"
-    },
-    {
-      "id": "0809-3",
-      "titel": "Sie vergruben 2000 Unterhosen und untersuchten Kakerlakenmilch: Forscher nehmen in Zürich den alternativen Nobelpreis entgegen",
-      "was": "Sie vergruben 2000 Unterhosen und untersuchten Kakerlakenmilch: Forscher nehmen in Zürich den alternativen Nob",
-      "richtung": "",
+      "id": "1700-2",
+      "titel": "Jung-SVPler sterben Filmtod in Uniform: Das sagt die Armee",
+      "was": "Junge SVP-Mitglieder im Tarnanzug posieren für ihr Kampagnenvideo",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: gespielter Ernstfall im Nachmittagslicht gegen den Dienst, den andere wirklich leisten.",
       "grund": "memetauglich",
       "raum": "schweiz",
+      "quelle": "20 Minuten",
+      "auch_bei": [],
+      "artikel": "https://www.20min.ch/story/armeeuniform-unerlaubt-getragen-droht-der-jungen-svp-ein-disziplinarverfahren-103627423",
+      "bild": "https://image.20min.ch/2026/09/04/3772f43f-34c3-4824-b29e-cfdf64493593.jpg?s=a0c00f1a9944d521b24e8a57f76898cf",
+      "zeit": "2026-09-04T16:55+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Immer mehr Schlussgänge enden mit einem Gestellten – auch beim Kilchberger Schwinget, dem Höhepunkt dieser Saison?",
+      "was": "Zwei Schwinger umklammern sich im Sägemehl, Kampfrichter daneben",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: maximaler Kraftaufwand gegen die Angst, den Entscheid zu suchen.",
+      "grund": "memetauglich",
+      "raum": "weltweit",
       "quelle": "NZZ",
-      "auch_bei": [
-        "SRF"
-      ],
-      "artikel": "https://www.nzz.ch/panorama/ig-nobelpreis-2026-skurrile-forschung-in-zuerich-praemiert-ld.10022365",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/04/3074a12f-b05b-4b0b-b0bc-04f9caf6ae62.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3329,3329,x1384,y0",
-      "zeit": "2026-09-04T06:38+02:00"
+      "auch_bei": [],
+      "artikel": "https://www.nzz.ch/sport/immer-mehr-schlussgaenge-enden-mit-einem-gestellten-auch-beim-kilchberg-schwinget-dem-hoehepunkt-dieser-saison-ld.10022385",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/04/f0ffc4c4-b8f4-4e47-9eaf-31472e340452.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3849,3849,x357,y0",
+      "zeit": "2026-09-04T12:00+02:00"
     }
   ],
-  "erwartet": [],
-  "hinweis": "Auswahl ohne Modell zusammengestellt, Details in tages-anstoss.log."
+  "erwartet": [
+    {
+      "wann": "heute im Tagesverlauf",
+      "was": "Hendrik Wüst auf Sommertour, Auftritt in Turnhalle, Zelt oder Betriebshalle mit Publikum"
+    },
+    {
+      "wann": "heute abends",
+      "was": "US Open in New York, Spielerinnen-Gesten und Publikum auf den Rängen mit Handykameras"
+    }
+  ],
+  "hinweis": ""
 }
