@@ -1,64 +1,55 @@
 {
-  "stand": "2026-09-03T17:01:29+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-04T08:10:04+02:00",
+  "lauf": "0809",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Norwegen setzt ein russisches Passagierschiff in Spitzbergen fest – Putin spricht von «Staatsterrorismus»",
-      "was": "Beschlagnahmtes russisches Schiff im Hafen von Longyearbyen, norwegische Beamte daneben",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Rechtsstaat nennt es Vollstreckung, Moskau nennt es Terrorismus, das Bild zeigt beides als Bootsbeschau.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "taz"
-      ],
-      "artikel": "https://www.nzz.ch/international/norwegen-setzt-russisches-schiff-in-spitzbergen-fest-kreml-empoert-ld.10022208",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/03/8c8ac997-dfbe-428b-9480-3514b240452c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2160,2160,x840,y0",
-      "zeit": "2026-09-03T16:00+02:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Treffen des Weimarer Dreiecks: Vereinigt gegen russischen Staatsterrorismus",
-      "was": "Drei Regierungsvertreter im Handschlag vor Flaggenreihe, Jubiläumsgruppenfoto Weimarer Dreieck",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Geschlossenheit als Fotopose gegen 35 Jahre Zuständigkeitsgerangel.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "taz",
-      "auch_bei": [
-        "NZZ",
-        "Tagesschau"
-      ],
-      "artikel": "https://taz.de/Treffen-des-Weimarer-Dreiecks/!6209865/",
-      "bild": "https://taz.de/picture/8714059/948/41981871.jpeg",
-      "zeit": "2026-09-03T15:43+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Ukraine-Krieg: Wladimir Putin will trotz hoher Verluste nichts von neuer Mobilmachung wissen",
-      "was": "Ukraine-Krieg: Wladimir Putin will trotz hoher Verluste nichts von neuer Mobilmachung wissen",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Jugendsprache für einen Nachmittag gegen Verwaltungstempo von Jahrzehnten.",
+      "id": "0809-1",
+      "titel": "News: Wahl in Sachsen-Anhalt, AfD, Ceuta, Annalena Baerbock",
+      "was": "News: Wahl in Sachsen-Anhalt, AfD, Ceuta, Annalena Baerbock",
+      "richtung": "",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
-        "NZZ",
+        "SRF",
+        "Tagesschau",
         "taz"
       ],
-      "artikel": "https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-trotz-hoher-verluste-nichts-von-neuer-mobilmachung-wissen-a-416a1d72-893b-45cb-8c5e-5786959d6fe9#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/9ab7636d-cf66-43ef-9a28-88646a309d91_w520_r2.08_fpx58.67_fpy50.jpg",
-      "zeit": "2026-09-03T13:23+02:00"
-    }
-  ],
-  "erwartet": [
-    {
-      "wann": "heute ab 17:00",
-      "was": "Abschluss-Pressekonferenz und Gruppenfoto des Weimarer Dreiecks"
+      "artikel": "https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-afd-ceuta-annalena-baerbock-a-89e2ceaf-e9e5-4b9a-8fbb-aa7158d2fe94#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w520_r2.08_fpx28.09_fpy49.93.png",
+      "zeit": "2026-09-04T05:53+02:00"
     },
     {
-      "wann": "heute abend",
-      "was": "Fototermin und Statements an der Klausurtagung der SPD-Bundestagsfraktion"
+      "id": "0809-2",
+      "titel": "Patriot-Deal mit Deutschland geplatzt – es drohen hohe Mehrkosten",
+      "was": "Patriot-Deal mit Deutschland geplatzt, es drohen hohe Mehrkosten",
+      "richtung": "",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
+      "auch_bei": [
+        "SRF"
+      ],
+      "artikel": "https://www.20min.ch/story/flugabwehr-patriot-deal-mit-deutschland-geplatzt-es-drohen-hohe-mehrkosten-103627303",
+      "bild": "https://image.20min.ch/2026/09/04/73a3fb5a-8a95-4f62-9444-fe93b5517566.jpg?s=4cfe4a52e19816e0069703a3942cd1a4",
+      "zeit": "2026-09-04T07:48+02:00"
+    },
+    {
+      "id": "0809-3",
+      "titel": "Sie vergruben 2000 Unterhosen und untersuchten Kakerlakenmilch: Forscher nehmen in Zürich den alternativen Nobelpreis entgegen",
+      "was": "Sie vergruben 2000 Unterhosen und untersuchten Kakerlakenmilch: Forscher nehmen in Zürich den alternativen Nob",
+      "richtung": "",
+      "grund": "memetauglich",
+      "raum": "schweiz",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "SRF"
+      ],
+      "artikel": "https://www.nzz.ch/panorama/ig-nobelpreis-2026-skurrile-forschung-in-zuerich-praemiert-ld.10022365",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/04/3074a12f-b05b-4b0b-b0bc-04f9caf6ae62.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3329,3329,x1384,y0",
+      "zeit": "2026-09-04T06:38+02:00"
     }
   ],
-  "hinweis": ""
+  "erwartet": [],
+  "hinweis": "Auswahl ohne Modell zusammengestellt, Details in tages-anstoss.log."
 }
