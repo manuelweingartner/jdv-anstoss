@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "15 von 15 getesteten Billig-Kosmetika fallen durch den Schadstofftest. Gleiche Woche darf die UBS weniger Eigenkapital halten als geplant. Die Schweiz zieht klare Grenzen. Beim Lipgloss."
+      "text": "15 von 15 getesteten Billig-Kosmetika fallen durch den Schadstofftest. Gleiche Woche darf die UBS weniger Eigenkapital halten als geplant. Die Schweiz zieht klare Grenzen. Beim Lipgloss.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-04-1916-02",
@@ -21,47 +26,72 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich habe für das Bauchweh meiner Tochter einen Kinderarzttermin gebraucht. Laut neuer Studie dreht sich dort jede fünfte Konsultation um schulische Probleme. Behandelt wird das Kind. Die Schule bekommt ein Leitbild."
+      "text": "Ich habe für das Bauchweh meiner Tochter einen Kinderarzttermin gebraucht. Laut neuer Studie dreht sich dort jede fünfte Konsultation um schulische Probleme. Behandelt wird das Kind. Die Schule bekommt ein Leitbild.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-04-1916-03",
+      "id": "2026-09-04-1916-24",
       "typ": "politisch-aktuell",
-      "stichwort": "kleinvolumig, Krankheit gross genug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich stelle als Novartis bis 2027 die kleinvolumige Produktion in Basel ein, 130 Stellen. Beruhigend: Betroffen sind nur kleine Mengen. Ihre Krankheit ist hoffentlich gross genug."
-    },
-    {
-      "id": "2026-09-04-1916-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hitzesommer normal, Erwartung gesenkt",
+      "stichwort": "Hitzesommer amtlich normal, Krise sprachlich beendet",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Gute Nachricht vom Bund: Sommer wie 2026 sind in unserer Klimazukunft nicht mehr aussergewöhnlich. Wir haben das Ziel also nicht verfehlt, sondern die Erwartung gesenkt. Planmässig."
+      "text": "Gute Nachricht aus dem Bundesamt: Ein Hitzesommer wie 2026 gilt in den neuen Klimaszenarien als normal. Damit haben wir die Klimakrise beendet. Sprachlich. Per Definition. Rückwirkend.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-04-1916-05",
+      "id": "2026-09-04-1916-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Zahnkrone selbst bezahlt, Klasse am Laecheln",
+      "stichwort": "180 Franken Zahnreinigung, Zähne sind kein Organ",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe 1'400 Franken für eine Zahnkrone selbst bezahlt, Zähne sind in der Grundversicherung nicht vorgesehen. Klasse sieht man in diesem Land am Lächeln. Seit dem Kindergarten. Auf jedem Foto."
+      "format": 14,
+      "text": "Ich habe 180 Franken für eine Zahnreinigung bezahlt, die Krankenkasse zahlt nichts davon. Zähne sind in der Schweiz kein Organ. Sondern Schmuck. Freiwillig.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-04-1916-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwanzig Minuten verhandelt, 2800 im Schlaf",
+      "id": "2026-09-04-1916-29",
+      "typ": "remix",
+      "stichwort": "Bienenvolk erfasst, Aktionär nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 11,
+      "text": "Russland registriert neu jedes Huhn beim Amt, mit Halternummer. Bei uns auch, dazu jedes Bienenvolk. Nicht erfasst: wem die AG mit 100'000 Franken gehört. Die Biene hat eine Nummer.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-04-1916-36",
+      "typ": "persönlich",
+      "stichwort": "Appenzell: Autos durften vor den Frauen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Für 80 Franken mehr Lohn habe ich zwanzig Minuten verhandelt. Der Novartis-Chef verdient in denselben zwanzig Minuten 2'800 Franken. Ohne Gespräch. Auch im Schlaf."
+      "format": 16,
+      "text": "Ich habe im Kanton Appenzell Innerrhoden lauter Mietautos gezählt, angemeldet dort, weil es billiger ist. Frauen durften ab 1990 mitreden. Autos sofort.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
