@@ -11968,6 +11968,102 @@
         "witz": true
       },
       "datum": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-1242-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Butter gehortet, 86 Tonnen Gold heim",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich habe diese Woche Butter gehortet, weil die Schweizer Inflation auf dem höchsten Stand seit zwei Jahren ist. Die Niederlande holen gleichzeitig 86 Tonnen Gold aus den USA heim. Kleinerer Tresor.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-1242-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ashwagandha abgemahnt, Preis bleibt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich verkaufe Ashwagandha-Kapseln und wurde von Foodwatch abgemahnt, weil ich Wirkung versprochen habe. Die Kritik ist berechtigt. Ab sofort verspreche ich nichts mehr. Preis bleibt: 39 Franken.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-1242-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vier Landesregierungen für einen Bankchef",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Sieben Bundesrätinnen und Bundesräte kosten die Schweiz zusammen 3,3 Millionen im Jahr. Der Chef der UBS verdient 14,9, könnte sich also vier Landesregierungen halten. Ich fände zwei schon genug.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-1242-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "29 empfohlene Schutzplätze, Thurgau hat keinen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "290'000 Menschen leben im Thurgau, empfohlen wären 29 Schutzplätze für Gewaltopfer. Der Kanton hat keinen und schickt die Frauen nach St. Gallen. Eine Kantonsgrenze weiter. Mit Umsteigen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-1242-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rekordinflation ohne Krankenkassenprämie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Ich habe im August die höchste Inflation seit zwei Jahren bezahlt, die Krankenkassenprämie ist darin nicht einmal enthalten. Sie zählt nicht als Preis. Sondern als Naturereignis. Amtlich.",
+      "jury": {
+        "anker": false,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-1242-28",
+      "typ": "schnittmenge",
+      "stichwort": "Eigenkapital durchgesetzt, Bank ohne Rueckgaberecht",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Beim Eigenkapital hat sich die UBS durchgesetzt, die Finanzministerin nennt es eine Lösung zulasten der Steuerzahlenden. Vor drei Jahren haben wir schon eine Bank gekauft, die niemand wollte. Ohne Rückgaberecht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-03"
     }
   ]
 }
