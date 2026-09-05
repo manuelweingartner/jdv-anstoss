@@ -1,57 +1,60 @@
 {
-  "stand": "2026-09-04T17:01:00+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-05T08:14:00+02:00",
+  "lauf": "0813",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Protestpartei von Farage – Geld statt Inhalte: Neue Spendenaffäre schadet Reform UK",
-      "was": "Farage und Parteispitze vor Mikrofonen, Pressekonferenz mit breitem Grinsen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Aufstand gegen die Eliten gegen eine Spenderliste voller Eliten.",
+      "id": "0813-1",
+      "titel": "Wie gross ist Afrika? Eine Uno-Resolution verlangt eine neue Weltkarte",
+      "was": "Uno-Delegierte im Saal vor einer projizierten Weltkarte, Abstimmungstafel",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: korrigierte Proportionen auf dem Papier gegen unkorrigierte Machtverhältnisse im Saal.",
       "grund": "breit",
-      "raum": "",
-      "quelle": "SRF",
-      "auch_bei": [
-        "taz"
-      ],
-      "artikel": "https://www.srf.ch/news/international/protestpartei-von-farage-geld-statt-inhalte-neue-spendenaffaere-schadet-reform-uk",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/7ee330e.jpg",
-      "zeit": "2026-09-04T15:18+02:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Jung-SVPler sterben Filmtod in Uniform: Das sagt die Armee",
-      "was": "Junge SVP-Mitglieder im Tarnanzug posieren für ihr Kampagnenvideo",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: gespielter Ernstfall im Nachmittagslicht gegen den Dienst, den andere wirklich leisten.",
-      "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
-      "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/armeeuniform-unerlaubt-getragen-droht-der-jungen-svp-ein-disziplinarverfahren-103627423",
-      "bild": "https://image.20min.ch/2026/09/04/3772f43f-34c3-4824-b29e-cfdf64493593.jpg?s=a0c00f1a9944d521b24e8a57f76898cf",
-      "zeit": "2026-09-04T16:55+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Immer mehr Schlussgänge enden mit einem Gestellten – auch beim Kilchberger Schwinget, dem Höhepunkt dieser Saison?",
-      "was": "Zwei Schwinger umklammern sich im Sägemehl, Kampfrichter daneben",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: maximaler Kraftaufwand gegen die Angst, den Entscheid zu suchen.",
-      "grund": "memetauglich",
       "raum": "weltweit",
       "quelle": "NZZ",
+      "auch_bei": [
+        "Tagesschau"
+      ],
+      "artikel": "https://www.nzz.ch/international/wie-gross-ist-afrika-eine-uno-resolution-verlangt-eine-neue-weltkarte-ld.10022388",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/04/d260d75f-fc41-43c8-b21d-99f3d7723f84.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3264,3264,x1297,y0",
+      "zeit": "2026-09-05T05:30+02:00"
+    },
+    {
+      "id": "0813-2",
+      "titel": "Wahlkampfendspurt in Sachsen-Anhalt",
+      "was": "Spitzenkandidaten im Wahlkampfendspurt am Marktstand, Bratwurst, Handschlag, Kundgebung",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Volksnähe fuer die letzten drei Tage gegen fünf Jahre Landtag.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "Tagesschau",
+      "auch_bei": [
+        "Spiegel",
+        "taz"
+      ],
+      "artikel": "https://www.tagesschau.de/tagesthemen/video-1643070.html",
+      "bild": "https://images.tagesschau.de/image/820e8b72-9dc6-4455-a408-6e931431e5da/AAABoG6QE_Q/AAABnSSvrFg/16x9-big/sendungsbild-1790934.jpg?width=1280",
+      "zeit": "2026-09-05T00:35+02:00"
+    },
+    {
+      "id": "0813-3",
+      "titel": "Deal für Bauern – Mercosur-Abkommen soll mit Millionen für Bauern abgefedert werden",
+      "was": "Bundesrat und Bauernvertreter zwischen Traktoren oder im Stall, Handschlag vor Kühen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Abfederung fuer die Bauern gegen die Marktöffnung, die dieselbe Unterschrift bringt.",
+      "grund": "memetauglich",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/sport/immer-mehr-schlussgaenge-enden-mit-einem-gestellten-auch-beim-kilchberg-schwinget-dem-hoehepunkt-dieser-saison-ld.10022385",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/04/f0ffc4c4-b8f4-4e47-9eaf-31472e340452.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3849,3849,x357,y0",
-      "zeit": "2026-09-04T12:00+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/deal-fuer-bauern-mercosur-abkommen-soll-mit-millionen-fuer-bauern-abgefedert-werden",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/c566f0.jpg",
+      "zeit": "2026-09-04T18:29+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute im Tagesverlauf",
-      "was": "Hendrik Wüst auf Sommertour, Auftritt in Turnhalle, Zelt oder Betriebshalle mit Publikum"
+      "wann": "heute ab 14:00",
+      "was": "Schlussgang am Kilchberger Schwinget: Sägemehl, Muskeln, Siegermuni und Ehrengäste im Sonntagshemd"
     },
     {
-      "wann": "heute abends",
-      "was": "US Open in New York, Spielerinnen-Gesten und Publikum auf den Rängen mit Handykameras"
+      "wann": "heute ab 17:00",
+      "was": "Letzte Wahlkampfauftritte in Sachsen-Anhalt: Bühne, Bierbank, Gegendemo im Hintergrund"
     }
   ],
   "hinweis": ""
