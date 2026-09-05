@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-05",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
   "fertig": true,
   "ideen": [
     {
@@ -49,21 +49,6 @@
       }
     },
     {
-      "id": "2026-09-05-0757-17",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau braucht kein Frauenhaus, statistisch ein Wunder",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Beruhigend, dass der Kanton Thurgau kein eigenes Frauenhaus braucht. 290'000 Menschen, und keine einzige Frau, die nachts eine Adresse sucht. Statistisch ein Wunder. Kantonal begrenzt.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
       "id": "2026-09-05-0757-22",
       "typ": "politisch-aktuell",
       "stichwort": "Waschmaschine bewilligt, AK-74 gemeldet",
@@ -79,14 +64,14 @@
       }
     },
     {
-      "id": "2026-09-05-0757-24",
+      "id": "2026-09-05-0757-26",
       "typ": "politisch-aktuell",
-      "stichwort": "Witkoff und Kushner als Vermittler, Ruinen als Lage",
+      "stichwort": "4'500 nach Aufwand besteuert, Ausgaben statt Einkommen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich schicke als Weisses Haus zwei Immobilienhändler nach Moskau und Kiew, um den Krieg zu beenden. Gute Nachricht: Beide können Ruinen als Lage verkaufen.",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ich muss dem Steueramt jeden Franken Lohn belegen. Rund 4'500 Reiche in der Schweiz werden nicht nach ihrem Einkommen besteuert, sondern nach ihren Ausgaben. Selbst geschätzt.",
       "jury": {
         "neu": true,
         "anker": true,
