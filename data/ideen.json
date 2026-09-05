@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-05-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vegan-Zwang gegen Kalaschnikow, gleiche Woche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Heute Abend streitet die Arena über die Ernährungsinitiative, das Schreckwort heisst Vegan-Zwang. Gleiche Woche: Hunderte Schweizer melden ihre private Kalaschnikow. Zwang ist heikel. Beim Gemüse."
-    },
-    {
       "id": "2026-09-05-0757-02",
       "typ": "politisch-aktuell",
       "stichwort": "Céline Dion spielt Residency, ich kenne das von der Post",
@@ -21,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 3,
-      "text": "Céline Dion macht ihr Comeback als Residency in Paris: neu reisen die Fans zum Star, nicht umgekehrt. Ich kenne das von der Post. Abholstelle."
+      "text": "Céline Dion macht ihr Comeback als Residency in Paris: neu reisen die Fans zum Star, nicht umgekehrt. Ich kenne das von der Post. Abholstelle.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-05-0757-03",
@@ -31,7 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Shein ist an die Börse gegangen und hat am ersten Tag 4 Prozent verloren. Endlich zahlt auch im Konzern jemand für die tiefen Preise. Vier Prozent. Einmalig."
+      "text": "Shein ist an die Börse gegangen und hat am ersten Tag 4 Prozent verloren. Endlich zahlt auch im Konzern jemand für die tiefen Preise. Vier Prozent. Einmalig.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-05-0757-04",
@@ -41,27 +41,57 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich vermittle für Trump in Moskau und Kiew, hauptberuflich handle ich mit Immobilien. Endlich schätzt nach vier Jahren Krieg jemand den Wert von zerstörtem Bauland richtig ein. Lage, Lage, Lage."
+      "text": "Ich vermittle für Trump in Moskau und Kiew, hauptberuflich handle ich mit Immobilien. Endlich schätzt nach vier Jahren Krieg jemand den Wert von zerstörtem Bauland richtig ein. Lage, Lage, Lage.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-05-0757-08",
+      "id": "2026-09-05-0757-17",
       "typ": "schnittmenge",
-      "stichwort": "300 Kilo zu klein, Grimsel 100 Prozent",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Gleiche Woche: 300 Kilo Zwetschgen sind dem Grosshandel zu klein, und den Grimsel-Kraftwerken sind die kleinen Stromversorger zu klein. Die grossen Eigner behalten 100 Prozent. Aus den Zwetschgen wird wenigstens Schnaps."
+      "stichwort": "Thurgau braucht kein Frauenhaus, statistisch ein Wunder",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Beruhigend, dass der Kanton Thurgau kein eigenes Frauenhaus braucht. 290'000 Menschen, und keine einzige Frau, die nachts eine Adresse sucht. Statistisch ein Wunder. Kantonal begrenzt.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-05-0757-09",
-      "typ": "remix",
-      "stichwort": "3 Stunden 40 am Handy, ab Werk",
+      "id": "2026-09-05-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Waschmaschine bewilligt, AK-74 gemeldet",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Ich schaue laut meinem Handy 3 Stunden 40 Minuten pro Tag auf mein Handy und schäme mich jeden Sonntag dafür. Nicht ich habe versagt. Das Gerät funktioniert. Genau so. Ab Werk."
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich brauche eine schriftliche Bewilligung meiner Vermieterin, um eine Waschmaschine anzuschliessen. Für eine AK-74 im Keller reicht ein Erwerbsschein für 50 Franken. Hunderte sind gemeldet. Waschmaschinen nicht.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-05-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Witkoff und Kushner als Vermittler, Ruinen als Lage",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich schicke als Weisses Haus zwei Immobilienhändler nach Moskau und Kiew, um den Krieg zu beenden. Gute Nachricht: Beide können Ruinen als Lage verkaufen.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
