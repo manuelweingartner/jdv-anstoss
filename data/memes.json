@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-04T08:11:04+02:00",
+  "stand": "2026-09-05T08:15:01+02:00",
   "vorschlaege": [
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "600 Stellen streichen",
-        "Strukturelle Fokussierung bis 2028"
+        "Zu viel Miete zahlen",
+        "Auf ein Reduktionsgesuch verzichten"
       ],
-      "warum": "weil Swiss Life den Abbau trotz Gewinnanstieg in eine Vornehmigkeit verpackt, und genau das ist die Figur",
+      "warum": "der Verzicht auf das Gesuch ist dieselbe Sache wie zu viel zahlen, nur vornehmer benannt",
       "bild": "vorschlag-1.jpg"
-    },
-    {
-      "vorlage": "abzweigung",
-      "name": "Left Exit 12 Off Ramp",
-      "zeilen": [
-        "Miete stillschweigend weiterzahlen",
-        "Senkungsgesuch einreichen",
-        "Die halbe Schweizer Mieterschaft"
-      ],
-      "warum": "weil der Referenzzins auf Tief liegt und trotzdem fast niemand abbiegt, wo es sich lohnt",
-      "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "In Zug ist Einstellen auch Aufklärung"
+        "Vegan-Zwang steht in keinem Initiativtext"
       ],
-      "warum": "weil die These als ernst gemeinter Satz stehen bleibt und der Fälschershop den Widerspruch schon widerlegt hat",
+      "warum": "eine nachprüfbare These, gegen die es keinen Widerspruch gibt, nur lautere Gegner",
+      "bild": "vorschlag-2.jpg"
+    },
+    {
+      "vorlage": "abzweigung",
+      "name": "Left Exit 12 Off Ramp",
+      "zeilen": [
+        "Hochhäuser am Stadtrand",
+        "Wohnungen im Zentrum",
+        "Stadt Zürich"
+      ],
+      "warum": "die Abstimmung ist buchstäblich ein Ausweichen vor der Frage, wo gewohnt wird",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Reduit im Gotthard",
-        "Jeder Mann ein Gewehr",
-        "Patriot auf der Bestellliste",
-        "Berlin liefert nicht"
+        "Tournee durch vierzig Städte",
+        "Der Star reist",
+        "Residency in Paris",
+        "Der Fan reist"
       ],
-      "warum": "weil der Patriot-Deal das behauptete Wehrpathos direkt neben die Realität der Beschaffung stellt",
+      "warum": "Residency-Konzerte drehen die alte Kräfteverteilung zwischen Bühne und Publikum um",
       "bild": "vorschlag-4.jpg"
     }
   ]
