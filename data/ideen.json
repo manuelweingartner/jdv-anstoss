@@ -1,97 +1,27 @@
 {
-  "datum": "2026-09-04",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-09-05",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-04-1916-01",
+      "id": "2026-09-05-0757-01",
       "typ": "politisch-aktuell",
-      "stichwort": "15 von 15 Kosmetika durchgefallen, UBS bleibt drin",
+      "stichwort": "Vegan-Zwang gegen Kalaschnikow, gleiche Woche",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "15 von 15 getesteten Billig-Kosmetika fallen durch den Schadstofftest. Gleiche Woche darf die UBS weniger Eigenkapital halten als geplant. Die Schweiz zieht klare Grenzen. Beim Lipgloss.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
+      "text": "Heute Abend streitet die Arena über die Ernährungsinitiative, das Schreckwort heisst Vegan-Zwang. Gleiche Woche: Hunderte Schweizer melden ihre private Kalaschnikow. Zwang ist heikel. Beim Gemüse."
     },
     {
-      "id": "2026-09-04-1916-02",
+      "id": "2026-09-05-0757-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Bauchweh diagnostiziert, Schule bekommt ein Leitbild",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe für das Bauchweh meiner Tochter einen Kinderarzttermin gebraucht. Laut neuer Studie dreht sich dort jede fünfte Konsultation um schulische Probleme. Behandelt wird das Kind. Die Schule bekommt ein Leitbild.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-04-1916-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "kleinvolumig, Krankheit gross genug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich stelle als Novartis bis 2027 die kleinvolumige Produktion in Basel ein, 130 Stellen. Beruhigend: Betroffen sind nur kleine Mengen. Ihre Krankheit ist hoffentlich gross genug.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-04-1916-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hitzesommer amtlich normal, Krise sprachlich beendet",
+      "stichwort": "Céline Dion spielt Residency, ich kenne das von der Post",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Gute Nachricht aus dem Bundesamt: Ein Hitzesommer wie 2026 gilt in den neuen Klimaszenarien als normal. Damit haben wir die Klimakrise beendet. Sprachlich. Per Definition. Rückwirkend.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-04-1916-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "180 Franken Zahnreinigung, Zähne sind kein Organ",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Ich habe 180 Franken für eine Zahnreinigung bezahlt, die Krankenkasse zahlt nichts davon. Zähne sind in der Schweiz kein Organ. Sondern Schmuck. Freiwillig.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-04-1916-29",
-      "typ": "remix",
-      "stichwort": "Bienenvolk erfasst, Aktionär nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 11,
-      "text": "Russland registriert neu jedes Huhn beim Amt, mit Halternummer. Bei uns auch, dazu jedes Bienenvolk. Nicht erfasst: wem die AG mit 100'000 Franken gehört. Die Biene hat eine Nummer.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "format": 3,
+      "text": "Céline Dion macht ihr Comeback als Residency in Paris: neu reisen die Fans zum Star, nicht umgekehrt. Ich kenne das von der Post. Abholstelle."
     }
   ]
 }
