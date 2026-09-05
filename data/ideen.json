@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-05",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 3,
       "text": "Céline Dion macht ihr Comeback als Residency in Paris: neu reisen die Fans zum Star, nicht umgekehrt. Ich kenne das von der Post. Abholstelle."
+    },
+    {
+      "id": "2026-09-05-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "0 Prozent auf Kapitalgewinn, Leistung soll sich lohnen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Ich zahle auf jede Überstunde Einkommenssteuer. Der Satz auf privaten Kapitalgewinnen liegt bei 0 Prozent. Leistung soll sich lohnen. Nur nicht meine."
+    },
+    {
+      "id": "2026-09-05-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "4'500 nach Aufwand besteuert, Ausgaben statt Einkommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ich muss dem Steueramt jeden Franken Lohn belegen. Rund 4'500 Reiche in der Schweiz werden nicht nach ihrem Einkommen besteuert, sondern nach ihren Ausgaben. Selbst geschätzt."
+    },
+    {
+      "id": "2026-09-05-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sparkonto 0,25 Prozent, Rüstung verzehnfacht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Nicht mein Sparkonto hat mich reich gemacht, das gibt 0,25 Prozent. Rheinmetall hat sich seit 2022 verzehnfacht. Frieden ist halt eine Anlageklasse ohne Wachstum."
     }
   ]
 }
