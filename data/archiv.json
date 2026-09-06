@@ -12262,6 +12262,118 @@
         "witz": true
       },
       "datum": "2026-09-05"
+    },
+    {
+      "id": "2026-09-06-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Venezuelas Öl gesichert, drei Tanker versenkt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Die USA haben sich Venezuelas Öl gesichert und in derselben Woche drei iranische Öltanker versenkt. Das nennt man in Washington einen ausgeglichenen Energiemix. Fossil. Aber vielfältig.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      },
+      "datum": "2026-09-06"
+    },
+    {
+      "id": "2026-09-06-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ich finde es richtig: UBS spart Eigenkapital",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es richtig, dass die UBS weniger Eigenkapital hinterlegen muss. Keller-Sutter nennt das eine Lösung zulasten der Steuerzahlenden. Die haben 2023 bewiesen, dass sie es können. An einem Wochenende.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-06"
+    },
+    {
+      "id": "2026-09-06-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vier Milliarden Jahre alt, jemandem gehörend",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich finde es völlig richtig, dass jemandem ein Stück Erdoberfläche gehört, das seit vier Milliarden Jahren dort liegt. Es wurde ja gekauft. Von jemandem, dem es auch nicht gehörte.",
+      "jury": {
+        "anker": false,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-06"
+    },
+    {
+      "id": "2026-09-06-0757-11",
+      "typ": "persönlich",
+      "stichwort": "Hohle Gasse, Problem strukturell gelöst",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 12,
+      "text": "Ich wohne zehn Minuten von der Hohlen Gasse, wo der Widerstand gegen zu hohe Abgaben erfunden wurde. Die Gegend hat das Problem inzwischen strukturell gelöst. Zug ist eine Autostunde weg.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-09-06"
+    },
+    {
+      "id": "2026-09-06-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "KI-Songs raus aus den Charts, 0,003 Franken bleiben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Australien wirft KI-Songs aus den Charts. Als Label finde ich das richtig, Musik gehört den Menschen. Deshalb zahlen wir weiter 0,003 Franken pro Stream. An echte.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-06"
+    },
+    {
+      "id": "2026-09-06-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "6'900 Kaution als Beweis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich musste 6'900 Franken Kaution hinterlegen, um zu beweisen, dass ich mir die Miete leisten kann. Wer die 6'900 nicht hat, hat den Beweis auch erbracht.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-06"
+    },
+    {
+      "id": "2026-09-06-0757-29",
+      "typ": "remix",
+      "stichwort": "Temu-Offensive und VW-Sparkurs am selben Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Temu startet seine Grossoffensive in Europa, am selben Tag soll VW noch härter sparen. Bald bestellen wir den Golf für 29.90, Lieferung in drei bis fünf Werktagen. Batterie separat.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-06"
     }
   ]
 }
