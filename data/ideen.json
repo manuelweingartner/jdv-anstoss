@@ -4,54 +4,19 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-06-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "Temu-Lager macht Lokal, der Dorfladen steht nur dort",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Temu baut Lager in Europa, damit «Lokal» aufs Paket darf. Der Laden im Dorf macht das seit vierzig Jahren falsch. Er steht wirklich dort. Ohne Label."
-    },
-    {
-      "id": "2026-09-06-0757-11",
-      "typ": "persönlich",
-      "stichwort": "Hohle Gasse, Problem strukturell gelöst",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 12,
-      "text": "Ich wohne zehn Minuten von der Hohlen Gasse, wo der Widerstand gegen zu hohe Abgaben erfunden wurde. Die Gegend hat das Problem inzwischen strukturell gelöst. Zug ist eine Autostunde weg."
-    },
-    {
-      "id": "2026-09-06-0757-12",
-      "typ": "persönlich",
-      "stichwort": "Zwei Stunden Krafttraining, derselbe Rat seit dreissig Jahren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Zwei Stunden Krafttraining pro Woche senken das Diabetesrisiko, meldet eine Studie. Menschen mit ME/CFS bekommen denselben Rat seit dreissig Jahren, obwohl Belastung sie kränker macht. Die Leitlinie sagt das seit 2021."
-    },
-    {
-      "id": "2026-09-06-0757-21",
+      "id": "2026-09-06-0757-03",
       "typ": "politisch-aktuell",
-      "stichwort": "21 Jugendliche in Grönland, keiner will es kaufen",
+      "stichwort": "Ich finde es richtig: UBS spart Eigenkapital",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich schaffe keine drei Wochen ohne Bildschirm. 21 Walliser Jugendliche haben drei Wochen autonom in Grönland gelebt und sind heimgekommen, ohne die Insel kaufen zu wollen. Freiwillig. Ohne Absichtserklärung."
-    },
-    {
-      "id": "2026-09-06-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Venezuela-Deal und drei versenkte Tanker am selben Tag",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Erst sichern sich die USA Zugriff auf Venezuelas Öl, dann zerstören sie am selben Tag drei iranische Tanker. Endlich ein Land, das die Ölförderung senkt. Zielgerichtet. Nach Herkunft."
+      "format": 13,
+      "text": "Ich finde es richtig, dass die UBS weniger Eigenkapital hinterlegen muss. Keller-Sutter nennt das eine Lösung zulasten der Steuerzahlenden. Die haben 2023 bewiesen, dass sie es können. An einem Wochenende.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-06-0757-23",
@@ -61,7 +26,72 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Australien wirft KI-Songs aus den Charts. Als Label finde ich das richtig, Musik gehört den Menschen. Deshalb zahlen wir weiter 0,003 Franken pro Stream. An echte."
+      "text": "Australien wirft KI-Songs aus den Charts. Als Label finde ich das richtig, Musik gehört den Menschen. Deshalb zahlen wir weiter 0,003 Franken pro Stream. An echte.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-06-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "UBS-Kapitalvorschriften aufgeweicht, ihr könnt das",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Das Parlament weicht die Kapitalvorschriften für die UBS auf, laut Keller-Sutter zulasten der Steuerzahlenden. Als Partei finde ich das richtig. 2008 hat gezeigt: Ihr könnt das. Geübt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-06-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "6'900 Kaution als Beweis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich musste 6'900 Franken Kaution hinterlegen, um zu beweisen, dass ich mir die Miete leisten kann. Wer die 6'900 nicht hat, hat den Beweis auch erbracht.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-06-0757-29",
+      "typ": "remix",
+      "stichwort": "Temu-Offensive und VW-Sparkurs am selben Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Temu startet seine Grossoffensive in Europa, am selben Tag soll VW noch härter sparen. Bald bestellen wir den Golf für 29.90, Lieferung in drei bis fünf Werktagen. Batterie separat.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-06-0757-30",
+      "typ": "persönlich",
+      "stichwort": "Zwei Stunden Krafttraining, Kasse zahlt später",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich sollte laut einer Studie zwei Stunden pro Woche Krafttraining machen, das senkt das Diabetes-Risiko deutlich. Meine Kasse zahlt den Fitnesspark nicht, die Insulinpumpe später schon. Vorsorge ist Hobby.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
