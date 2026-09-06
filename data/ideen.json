@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-06",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Das Parlament weicht die Kapitalvorschriften für die UBS auf, laut Keller-Sutter zulasten der Steuerzahlenden. Als Partei finde ich das richtig. 2008 hat gezeigt: Ihr könnt das. Geübt."
+    },
+    {
+      "id": "2026-09-06-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "6'900 Kaution als Beweis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich musste 6'900 Franken Kaution hinterlegen, um zu beweisen, dass ich mir die Miete leisten kann. Wer die 6'900 nicht hat, hat den Beweis auch erbracht."
+    },
+    {
+      "id": "2026-09-06-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mein Geld arbeitet nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Ich arbeite seit zwanzig Jahren für mein Geld. Vermögende sagen, ihr Geld arbeite für sie. Meines liegt auf dem Konto und schaut mir dabei zu. Seit zwanzig Jahren."
+    },
+    {
+      "id": "2026-09-06-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Übertretung wie 40 Franken Falschparken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Steuerhinterziehung ist in der Schweiz eine Übertretung, wie die 40 Franken fürs Falschparken. Nur kommt beim Parkplatz jemand vorbei und schaut nach. Jeden Tag. Mit Kreide."
     }
   ]
 }
