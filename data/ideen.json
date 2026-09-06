@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-06",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
   "fertig": true,
   "ideen": [
     {
@@ -34,6 +34,21 @@
       }
     },
     {
+      "id": "2026-09-06-2057-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "140-Faches, dafür Werte im Eingang",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Als CEO verdiene ich das 140-Fache meiner Angestellten und finde das richtig. Ohne mich wüsste hier niemand, welche Werte wir leben. Sie hängen im Eingang. Auf Deutsch und Englisch.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
       "id": "2026-09-06-2057-08",
       "typ": "schnittmenge",
       "stichwort": "22-Jaehrige aus Sydney zurueckgeholt, Stelle ohne Assessment",
@@ -49,21 +64,6 @@
       }
     },
     {
-      "id": "2026-09-06-2057-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "38 Artikel selbst gescannt, dann Service bewerten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe im Supermarkt 38 Artikel selbst gescannt und eingepackt. Danach fragte mich der Bildschirm, wie zufrieden ich mit dem Service war. Vier von fünf Sternen.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
       "id": "2026-09-06-2057-29",
       "typ": "remix",
       "stichwort": "fliegende Bank, gerettet wurde die Bank",
@@ -76,21 +76,6 @@
         "anker": true,
         "neu": true,
         "witz": true
-      }
-    },
-    {
-      "id": "2026-09-06-2057-32",
-      "typ": "persönlich",
-      "stichwort": "Klimagerät bläst die Hitze auf die Strasse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Diesen Sommer hatte ich die Storen unten, das Auto stehen und für 1'200 Franken ein Klimagerät, das die Hitze aus der Wohnung auf die Strasse bläst. Netto null. Für mich.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
       }
     }
   ]
