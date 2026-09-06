@@ -1,63 +1,63 @@
 {
-  "stand": "2026-09-05T17:00:51+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-06T08:10:08+02:00",
+  "lauf": "0809",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Ukrainekrieg: US-Unterhändler in Moskau gelandet – Treffen mit Putin geplant",
-      "was": "US-Gesandte Kushner und Witkoff beim Handschlag mit Putin im Kreml",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Friedensmission als Etikett gegen Geschäftstermin unter alten Bekannten.",
+      "id": "0809-1",
+      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: Wahllokale haben geöffnet ++",
+      "was": "Wahllokal in Sachsen-Anhalt, Urne, Kabine, Wählende mit Zettel",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: die Wahl als kleiner Verwaltungsakt im Turnhallenlicht gegen die Bedeutung, die alle ihr vorher zugeschrieben haben.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "Tagesschau",
+      "auch_bei": [
+        "20 Minuten",
+        "Spiegel",
+        "taz"
+      ],
+      "artikel": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
+      "bild": "https://images.tagesschau.de/image/3f56ac05-f813-4e4f-bfbb-139fd9bb5f8e/AAABlNqXvMc/AAABnSSvrFg/16x9-big/wahllokal-sachsen-anhalt-107.jpg?width=1280",
+      "zeit": "2026-09-06T08:00+02:00"
+    },
+    {
+      "id": "0809-2",
+      "titel": "Moskau: US-Unterhändler führen Gespräch mit Putin",
+      "was": "Putin und die US-Gesandten am langen Kremltisch, Handschlag vor Fahnen",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: die Choreografie eines Besuchs gegen das, was am Tisch tatsächlich verhandelbar ist.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
-        "NZZ",
-        "SRF",
-        "taz"
+        "SRF"
       ],
-      "artikel": "https://www.spiegel.de/ausland/ukrainekrieg-us-unterhaendler-in-moskau-gelandet-treffen-mit-putin-geplant-a-f08bdbc5-e042-4d65-81ed-18267f45a0eb#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/ca06c28c-c1fa-434c-9586-a45552a9002d_w520_r2.08_fpx48_fpy41.jpg",
-      "zeit": "2026-09-05T15:11+02:00"
+      "artikel": "https://www.spiegel.de/ausland/moskau-us-unterhaendler-fuehren-gespraech-mit-putin-a-a64bbc8a-ef43-47ae-b14a-bc9cb66cdd17#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/6add5739-1a28-4199-a9b3-6c0fce58cf4c_w520_r2.08_fpx47_fpy43.jpg",
+      "zeit": "2026-09-05T21:09+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Wie gross ist Afrika? Eine Uno-Resolution verlangt eine neue Weltkarte",
-      "was": "UNO-Delegierte vor einer neuen Weltkarte, Afrika deutlich grösser als gewohnt",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: korrigierte Proportionen auf dem Papier gegen unkorrigierte Verhältnisse dahinter.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "taz"
-      ],
-      "artikel": "https://www.nzz.ch/international/wie-gross-ist-afrika-eine-uno-resolution-verlangt-eine-neue-weltkarte-ld.10022388",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/04/d260d75f-fc41-43c8-b21d-99f3d7723f84.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3264,3264,x1297,y0",
-      "zeit": "2026-09-05T05:30+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Kilchberger Schwinget: Giger gegen Bieri im Schlussgang",
-      "was": "Zwei Schwinger im Sägemehl, Griff an der Zwilchhose, Schlussgang Kilchberg",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: bodenständiges Ringen im Sägemehl gegen die Sponsorenlogos am Rand.",
+      "id": "0809-3",
+      "titel": "Am Ursprung des Kilchberg-Schwingets steht der Ärger eines Zürcher Juristen – die Diskussionen von damals dauern seit über hundert Jahren an",
+      "was": "Schwinger im Sägemehl, Zwilchhosen, Siegermuni und Kranz am Kilchberger",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: bäuerliche Bescheidenheitsfolklore gegen Sponsoring und Profibetrieb im selben Sägemehlring.",
       "grund": "memetauglich",
-      "raum": "",
+      "raum": "schweiz",
       "quelle": "NZZ",
       "auch_bei": [
         "20 Minuten"
       ],
-      "artikel": "https://www.nzz.ch/sport/kilchberger-schwinget-berner-quartett-zur-mittagspause-an-der-spitze-ld.10022561",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/05/3b165bf5-9530-4db1-b9f8-1768de5b5391.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1523,1523,x363,y0",
-      "zeit": "2026-09-05T16:19+02:00"
+      "artikel": "https://www.nzz.ch/sport/weitere-sportarten/am-ursprung-des-kilchberg-schwingets-steht-der-aerger-eines-zuercher-juristen-die-diskussionen-von-damals-dauern-seit-ueber-hundert-jahren-an-ld.10022212",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/05/c7a75b2b-24a3-4941-88ed-5d2bfb7fcc4a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5236,5236,x1585,y524",
+      "zeit": "2026-09-06T05:30+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute später Nachmittag",
-      "was": "Siegerbild vom Schlussgang in Kilchberg, Sieger im Sägemehl mit Preis"
+      "wann": "heute ab 18:00",
+      "was": "Wahlparty in Magdeburg: Balkendiagramm auf der Leinwand, jubelnde und erstarrte Parteispitzen mit Sektglas"
     },
     {
-      "wann": "heute Abend",
-      "was": "Kreml-Setting mit langem Tisch oder Handschlag beim Treffen der US-Gesandten mit Putin"
+      "wann": "heute, tagsüber",
+      "was": "US-Gesandte bei der Weiterreise in die Ukraine: Ankunft, Handschlag, Delegation vor Fahnenwand"
     }
   ],
   "hinweis": ""
