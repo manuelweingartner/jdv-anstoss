@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-06",
-  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-06-2057-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tagungen zum ÖV, Tankstellen als Juli-Gewinner",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ganze Tagungen suchen Wege, die Schweizer vom Auto in den ÖV zu bringen. Am selben Tag meldet der Detailhandel den Juli-Gewinner: die Tankstellen. Der Umstieg läuft. Tankfüllung für Tankfüllung."
+    },
+    {
+      "id": "2026-09-06-2057-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Winterreifen ausgelagert, Schweden lagert Gefangene aus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich lagere meine Winterreifen 40 Kilometer ausserhalb ein, weil zuhause der Platz fehlt. Schweden macht das jetzt mit Gefangenen: 600 Plätze in Estland. Reine Platzfrage. Logistisch sauber gelöst."
+    },
     {
       "id": "2026-09-06-2057-23",
       "typ": "politisch-aktuell",
