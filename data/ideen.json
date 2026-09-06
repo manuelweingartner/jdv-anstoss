@@ -1,8 +1,23 @@
 {
   "datum": "2026-09-06",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-09-06-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Venezuelas Öl gesichert, drei Tanker versenkt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Die USA haben sich Venezuelas Öl gesichert und in derselben Woche drei iranische Öltanker versenkt. Das nennt man in Washington einen ausgeglichenen Energiemix. Fossil. Aber vielfältig.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
+    },
     {
       "id": "2026-09-06-0757-03",
       "typ": "politisch-aktuell",
@@ -19,6 +34,36 @@
       }
     },
     {
+      "id": "2026-09-06-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vier Milliarden Jahre alt, jemandem gehörend",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich finde es völlig richtig, dass jemandem ein Stück Erdoberfläche gehört, das seit vier Milliarden Jahren dort liegt. Es wurde ja gekauft. Von jemandem, dem es auch nicht gehörte.",
+      "jury": {
+        "anker": false,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-06-0757-11",
+      "typ": "persönlich",
+      "stichwort": "Hohle Gasse, Problem strukturell gelöst",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 12,
+      "text": "Ich wohne zehn Minuten von der Hohlen Gasse, wo der Widerstand gegen zu hohe Abgaben erfunden wurde. Die Gegend hat das Problem inzwischen strukturell gelöst. Zug ist eine Autostunde weg.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
       "id": "2026-09-06-0757-23",
       "typ": "politisch-aktuell",
       "stichwort": "KI-Songs raus aus den Charts, 0,003 Franken bleiben",
@@ -27,21 +72,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Australien wirft KI-Songs aus den Charts. Als Label finde ich das richtig, Musik gehört den Menschen. Deshalb zahlen wir weiter 0,003 Franken pro Stream. An echte.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-06-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "UBS-Kapitalvorschriften aufgeweicht, ihr könnt das",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Das Parlament weicht die Kapitalvorschriften für die UBS auf, laut Keller-Sutter zulasten der Steuerzahlenden. Als Partei finde ich das richtig. 2008 hat gezeigt: Ihr könnt das. Geübt.",
       "jury": {
         "anker": true,
         "neu": true,
@@ -76,21 +106,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-09-06-0757-30",
-      "typ": "persönlich",
-      "stichwort": "Zwei Stunden Krafttraining, Kasse zahlt später",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich sollte laut einer Studie zwei Stunden pro Woche Krafttraining machen, das senkt das Diabetes-Risiko deutlich. Meine Kasse zahlt den Fitnesspark nicht, die Insulinpumpe später schon. Vorsorge ist Hobby.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
       }
     }
   ]
