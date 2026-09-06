@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-05T08:15:01+02:00",
+  "stand": "2026-09-06T08:11:36+02:00",
   "vorschlaege": [
-    {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
-      "zeilen": [
-        "Zu viel Miete zahlen",
-        "Auf ein Reduktionsgesuch verzichten"
-      ],
-      "warum": "der Verzicht auf das Gesuch ist dieselbe Sache wie zu viel zahlen, nur vornehmer benannt",
-      "bild": "vorschlag-1.jpg"
-    },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Vegan-Zwang steht in keinem Initiativtext"
+        "Die Bundesverwaltung ist eine Microsoft-Filiale"
       ],
-      "warum": "eine nachprüfbare These, gegen die es keinen Widerspruch gibt, nur lautere Gegner",
-      "bild": "vorschlag-2.jpg"
+      "warum": "Digitale Souveraenitaet, die man auf fremden Servern testet, ist eine These, der niemand ernsthaft widersprechen kann",
+      "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Hochhäuser am Stadtrand",
-        "Wohnungen im Zentrum",
-        "Stadt Zürich"
+        "Absolute Neutralitaet in die Verfassung",
+        "Absprachen wie Guisan 1940",
+        "Das Initiativkomitee"
       ],
-      "warum": "die Abstimmung ist buchstäblich ein Ausweichen vor der Frage, wo gewohnt wird",
-      "bild": "vorschlag-3.jpg"
+      "warum": "die Initiative reisst in letzter Sekunde weg von der Praxis, die die Schweiz historisch gefahren ist",
+      "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Tournee durch vierzig Städte",
-        "Der Star reist",
-        "Residency in Paris",
-        "Der Fan reist"
+        "Schweiz 1882",
+        "Gotthardtunnel durch den Berg",
+        "Schweiz 2026",
+        "18 Naechte gesperrt fuer Wartung"
       ],
-      "warum": "Residency-Konzerte drehen die alte Kräfteverteilung zwischen Bühne und Publikum um",
+      "warum": "Bauland der Nation gegen Baustellenkalender der Nation, das ist genau der behauptete Frueher-Heute-Abstand",
+      "bild": "vorschlag-3.jpg"
+    },
+    {
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
+      "zeilen": [
+        "Die Steuerzahlenden haften weiter",
+        "Ausgewogener Kapitalkompromiss"
+      ],
+      "warum": "der UBS-Kompromiss ist dieselbe Sache einmal ehrlich benannt und einmal in Finanzplatzsprache verpackt",
       "bild": "vorschlag-4.jpg"
     }
   ]
