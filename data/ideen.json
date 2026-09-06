@@ -1,82 +1,27 @@
 {
-  "datum": "2026-09-05",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
-  "fertig": true,
+  "datum": "2026-09-06",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-05-0757-02",
+      "id": "2026-09-06-0757-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Céline Dion spielt Residency, ich kenne das von der Post",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Céline Dion macht ihr Comeback als Residency in Paris: neu reisen die Fans zum Star, nicht umgekehrt. Ich kenne das von der Post. Abholstelle.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-05-0757-03",
-      "typ": "schnittmenge",
-      "stichwort": "Shein an der Börse, 4 Prozent minus",
+      "stichwort": "KI-Songs raus aus den Charts, 0,003 Franken bleiben",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Shein ist an die Börse gegangen und hat am ersten Tag 4 Prozent verloren. Endlich zahlt auch im Konzern jemand für die tiefen Preise. Vier Prozent. Einmalig.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "text": "Australien wirft KI-Songs aus den Charts. Als Label finde ich das richtig, Musik gehört den Menschen. Deshalb zahlen wir weiter 0,003 Franken pro Stream. An echte."
     },
     {
-      "id": "2026-09-05-0757-04",
+      "id": "2026-09-06-0757-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Immobilienhändler vermitteln in Moskau und Kiew",
+      "stichwort": "UBS-Kapitalvorschriften aufgeweicht, ihr könnt das",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich vermittle für Trump in Moskau und Kiew, hauptberuflich handle ich mit Immobilien. Endlich schätzt nach vier Jahren Krieg jemand den Wert von zerstörtem Bauland richtig ein. Lage, Lage, Lage.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-05-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Waschmaschine bewilligt, AK-74 gemeldet",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich brauche eine schriftliche Bewilligung meiner Vermieterin, um eine Waschmaschine anzuschliessen. Für eine AK-74 im Keller reicht ein Erwerbsschein für 50 Franken. Hunderte sind gemeldet. Waschmaschinen nicht.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-05-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "4'500 nach Aufwand besteuert, Ausgaben statt Einkommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ich muss dem Steueramt jeden Franken Lohn belegen. Rund 4'500 Reiche in der Schweiz werden nicht nach ihrem Einkommen besteuert, sondern nach ihren Ausgaben. Selbst geschätzt.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
+      "text": "Das Parlament weicht die Kapitalvorschriften für die UBS auf, laut Keller-Sutter zulasten der Steuerzahlenden. Als Partei finde ich das richtig. 2008 hat gezeigt: Ihr könnt das. Geübt."
     }
   ]
 }
