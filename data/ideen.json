@@ -24,6 +24,36 @@
       "text": "Ich lagere meine Winterreifen 40 Kilometer ausserhalb ein, weil zuhause der Platz fehlt. Schweden macht das jetzt mit Gefangenen: 600 Plätze in Estland. Reine Platzfrage. Logistisch sauber gelöst."
     },
     {
+      "id": "2026-09-06-2057-10",
+      "typ": "persönlich",
+      "stichwort": "4 Stunden 12 Minuten, roter Pfeil",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Jeden Sonntag meldet mir mein Handy 4 Stunden 12 Minuten Bildschirmzeit, ungefragt, mit rotem Pfeil. Konzerne melden ihre Emissionen selbst. Einmal im Jahr. Ohne Pfeil."
+    },
+    {
+      "id": "2026-09-06-2057-11",
+      "typ": "persönlich",
+      "stichwort": "24 Franken fürs Atmen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ich zahle 24 Franken für mein Heuschnupfen-Spray, die Krankenkasse übernimmt davon nichts. Atmen gilt als Komfort. Von März bis Juli. Selbst zu tragen."
+    },
+    {
+      "id": "2026-09-06-2057-12",
+      "typ": "persönlich",
+      "stichwort": "3'995 fürs GA, 0 fürs Kerosin",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 15,
+      "text": "Was ich dieses Jahr bezahlt habe, um von A nach B zu kommen:\n- 3'995 Franken fürs Generalabonnement\n- 40 Franken Autobahnvignette\n- 0 Franken Kerosinsteuer, wie jeder Privatjet"
+    },
+    {
       "id": "2026-09-06-2057-23",
       "typ": "politisch-aktuell",
       "stichwort": "Temu-Lokal-Label, 4 Tage Lieferzeit",
@@ -32,36 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "text": "Temu startet die Europaoffensive und schreibt neu «Lokal» auf die Pakete. Ich finde das ehrlich: der Händler sitzt in Guangzhou, aber das Wort sitzt in Zürich. Vier Tage Anreise. Gut integriert.",
       "format": "frei"
-    },
-    {
-      "id": "2026-09-06-2057-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "38 Artikel selbst gescannt, dann Service bewerten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe im Supermarkt 38 Artikel selbst gescannt und eingepackt. Danach fragte mich der Bildschirm, wie zufrieden ich mit dem Service war. Vier von fünf Sternen."
-    },
-    {
-      "id": "2026-09-06-2057-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "16'667 Jahre bis zur ersten Milliarde, so alt wie der Gletscher",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich müsste bei 5'000 Franken im Monat 16'667 Jahre arbeiten für die erste Milliarde. So lange ist es her, dass hier ein Gletscher lag. Leistung muss sich lohnen."
-    },
-    {
-      "id": "2026-09-06-2057-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "34 Prozent weniger Rente, ausbezahlt in Dankbarkeit",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Frauen bekommen in der Schweiz 34 Prozent weniger Rente als Männer. Die fehlenden Jahre haben sie mit Kinderbetreuung verbracht, ausbezahlt wurde ihnen dafür Dankbarkeit. Steuerfrei. Lebenslang."
     }
   ]
 }
