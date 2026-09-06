@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-06",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "text": "Temu startet die Europaoffensive und schreibt neu «Lokal» auf die Pakete. Ich finde das ehrlich: der Händler sitzt in Guangzhou, aber das Wort sitzt in Zürich. Vier Tage Anreise. Gut integriert.",
       "format": "frei"
+    },
+    {
+      "id": "2026-09-06-2057-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "38 Artikel selbst gescannt, dann Service bewerten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe im Supermarkt 38 Artikel selbst gescannt und eingepackt. Danach fragte mich der Bildschirm, wie zufrieden ich mit dem Service war. Vier von fünf Sternen."
+    },
+    {
+      "id": "2026-09-06-2057-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "16'667 Jahre bis zur ersten Milliarde, so alt wie der Gletscher",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich müsste bei 5'000 Franken im Monat 16'667 Jahre arbeiten für die erste Milliarde. So lange ist es her, dass hier ein Gletscher lag. Leistung muss sich lohnen."
+    },
+    {
+      "id": "2026-09-06-2057-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "34 Prozent weniger Rente, ausbezahlt in Dankbarkeit",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Frauen bekommen in der Schweiz 34 Prozent weniger Rente als Männer. Die fehlenden Jahre haben sie mit Kinderbetreuung verbracht, ausbezahlt wurde ihnen dafür Dankbarkeit. Steuerfrei. Lebenslang."
     }
   ]
 }
