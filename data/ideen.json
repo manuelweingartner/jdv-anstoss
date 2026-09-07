@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-07",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "evergreen",
       "format": 13,
       "text": "Ich bin Ihre Krankenkasse und gratuliere: nach vier Jahren haben Sie eine Diagnose. Wir prüfen jetzt, ob es die bei uns auch gibt. Wenn nicht, sind Sie gesund."
+    },
+    {
+      "id": "2026-09-07-0757-30",
+      "typ": "persönlich",
+      "stichwort": "Rechnung zu früh gezahlt, Brücken 30 Jahre verpachtet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich zahle Rechnungen am Tag, an dem sie kommen. SRF nennt das ungesunde Präkrastination. Die Türkei verpachtet in derselben Woche ihre Bosporusbrücken für 30 Jahre. Vorausschauend. Kerngesund."
+    },
+    {
+      "id": "2026-09-07-0757-31",
+      "typ": "persönlich",
+      "stichwort": "66 Tage gescrollt, vier Wochen Ferien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich verordne meiner Tochter Bildschirmpausen und scrolle selbst 4 Stunden 20 pro Tag. Das sind 66 Tage im Jahr. Ferien habe ich vier Wochen. Bezahlt."
     }
   ]
 }
