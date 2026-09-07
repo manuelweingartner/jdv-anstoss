@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-07",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 14,
       "text": "Netanjahu nennt Katar einen feindlichen Staat und verteidigt seinen Angriff auf Doha von 2025. Feindlich ist ein Land nicht, weil es etwas tut. Sondern weil man es bombardiert hat. Rückwirkend."
+    },
+    {
+      "id": "2026-09-07-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "47 Franken nach Bruessel, ich bin in 90 Minuten da",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Endlich fährt ein Nachtzug für 47 Franken von Aarau nach Brüssel, zwölf Stunden im Liegewagen. Meine Airline unterstützt das ausdrücklich. Ich bin in 90 Minuten da. Steuerfrei."
+    },
+    {
+      "id": "2026-09-07-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "vier Jahre bis zur Diagnose, Kasse prüft ob es die gibt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich bin Ihre Krankenkasse und gratuliere: nach vier Jahren haben Sie eine Diagnose. Wir prüfen jetzt, ob es die bei uns auch gibt. Wenn nicht, sind Sie gesund."
     }
   ]
 }
