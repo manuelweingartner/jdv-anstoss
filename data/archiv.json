@@ -12374,6 +12374,86 @@
         "neu": true
       },
       "datum": "2026-09-06"
+    },
+    {
+      "id": "2026-09-06-2057-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Winterreifen ausgelagert, Schweden lagert Gefangene aus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich lagere meine Winterreifen 40 Kilometer ausserhalb ein, weil zuhause der Platz fehlt. Schweden macht das jetzt mit Gefangenen: 600 Plätze in Estland. Reine Platzfrage. Logistisch sauber gelöst.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-06"
+    },
+    {
+      "id": "2026-09-06-2057-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tunesiens Verschwörer, endlich beim Namen genannt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Tunesiens Präsident macht ausländische Verschwörer für Hitze und Wassermangel verantwortlich. Endlich eine Regierung, welche die Klimakrise beim Namen nennt. Ausländisch. Organisiert. Seit Jahrzehnten am Werk.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-06"
+    },
+    {
+      "id": "2026-09-06-2057-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "140-Faches, dafür Werte im Eingang",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Als CEO verdiene ich das 140-Fache meiner Angestellten und finde das richtig. Ohne mich wüsste hier niemand, welche Werte wir leben. Sie hängen im Eingang. Auf Deutsch und Englisch.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-09-06"
+    },
+    {
+      "id": "2026-09-06-2057-08",
+      "typ": "schnittmenge",
+      "stichwort": "22-Jaehrige aus Sydney zurueckgeholt, Stelle ohne Assessment",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Norwegen holt eine 22-Jährige aus dem Studium in Sydney zurück, damit sie Kronprinzessin wird. Die einzige Stellenbesetzung Europas, die seit tausend Jahren ohne Assessment auskommt. Und ohne Zweifel.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-06"
+    },
+    {
+      "id": "2026-09-06-2057-29",
+      "typ": "remix",
+      "stichwort": "fliegende Bank, gerettet wurde die Bank",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Vor 25 Jahren blieb die Swissair am Boden, damals hiess sie noch die fliegende Bank. Am Fliegen lag es nie. An der Bank auch nicht, die wurde gerettet.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-06"
     }
   ]
 }
