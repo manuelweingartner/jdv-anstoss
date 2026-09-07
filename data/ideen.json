@@ -44,6 +44,16 @@
       "text": "Ich bin Ihre Krankenkasse und gratuliere: nach vier Jahren haben Sie eine Diagnose. Wir prüfen jetzt, ob es die bei uns auch gibt. Wenn nicht, sind Sie gesund."
     },
     {
+      "id": "2026-09-07-0757-09",
+      "typ": "remix",
+      "stichwort": "43 Franken Haarschnitt, 2720 für dauerhaft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich zahle 43 Franken für einen Haarschnitt und finde das teuer. Eine Laser-Haarentfernung kostet 2720, danach wachsen die Haare weiter. Dauerhaft war der Preis."
+    },
+    {
       "id": "2026-09-07-0757-25",
       "typ": "politisch-aktuell",
       "stichwort": "100 Minuten pendeln, neun Wochen geschenkt",
@@ -52,16 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Ich pendle täglich 100 Minuten zur Arbeit, das sind neun unbezahlte Arbeitswochen im Jahr. Wer sich eine Wohnung in der Stadt leisten kann, bekommt neun Wochen Ferien geschenkt. Netto."
-    },
-    {
-      "id": "2026-09-07-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Eine Milliarde, Startpunkt Neolithikum",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Für eine Milliarde müsste ich 10'000 Jahre lang 100'000 Franken verdienen und nie etwas ausgeben. Ich hätte im Neolithikum anfangen müssen. Vor der Erfindung des Rads. Ohne Znüni."
     }
   ]
 }
