@@ -1,63 +1,61 @@
 {
-  "stand": "2026-09-06T17:00:43+02:00",
+  "stand": "2026-09-07T17:00:57+02:00",
   "lauf": "1700",
   "fotos": [
     {
       "id": "1700-1",
-      "titel": "Krieg in der Ukraine: US-Vermittler Steve Witkoff und Jared Kushner erstmals in Kyjiw",
-      "was": "Kushner und Witkoff im Handschlag mit Selenski in Kiew",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Deal-Routine der Geschäftswelt gegen ein Land, das seit vier Jahren im Krieg steht.",
+      "titel": "Sachsen-Anhalt nach AfD-Sieg: Das sind die Szenarien nach dem Dammbruch von Magdeburg",
+      "was": "Parteispitzen an Rednerpulten im Magdeburger Landtag, Kameras und Wahlgrafiken im Rücken",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Brandmauer als erklärtes Prinzip gegen Koalitionsarithmetik als tatsächliche Praxis.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
-        "NZZ",
         "SRF",
-        "Tagesschau"
+        "Tagesschau",
+        "taz"
       ],
-      "artikel": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-us-vermittler-steve-witkoff-und-jared-kushner-erstmals-in-kyjiw-a-47f102dc-83e4-47f8-ab5b-0a4f5e8650fb#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/8eb817bb-5e82-4134-a5aa-4de7421f75d1_w520_r2.08_fpx48_fpy24.jpg",
-      "zeit": "2026-09-06T14:39+02:00"
+      "artikel": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-nach-afd-sieg-das-sind-die-szenarien-nach-dem-dammbruch-von-magdeburg-a-0d2dbad4-dfba-433c-acb8-e486b51d753e#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/25ca8ed9-0437-46e6-858b-ecf444848909_w520_r2.08_fpx36.67_fpy45.jpg",
+      "zeit": "2026-09-07T15:09+02:00"
     },
     {
       "id": "1700-2",
-      "titel": "DIE NEUESTEN ENTWICKLUNGEN - Gescheiterte Investorenpläne der Fifa: Fifa-Präsident Infantino tritt 2027 zur Wiederwahl an",
-      "was": "Infantino vor Fifa-Logo verkündet seine Kandidatur, Arme ausgebreitet",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Reform als Versprechen gegen Amtsverlängerung als eigentlichen Zweck.",
+      "titel": "In Management und Support – Die Post will bis zu 110 Stellen in der Verwaltung abbauen",
+      "was": "Post-Kader an Medienkonferenz, gelbes Logo und Sparfolien auf der Leinwand",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Service public als Auftrag gegen Stellenabbau als Weg dorthin.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "NZZ",
+      "raum": "",
+      "quelle": "SRF",
       "auch_bei": [
-        "20 Minuten",
-        "Spiegel",
-        "taz"
+        "Spiegel"
       ],
-      "artikel": "https://www.nzz.ch/sport/fussball/gescheiterte-investorenplaene-der-fifa-weltverband-stellt-sich-nach-krisentreffen-hinter-praesident-infantino-geruechte-zu-wm-final-2030-in-casablanca-dementiert-ld.10017724",
-      "bild": "https://img-msp-prod.nzz.ch/2026/07/31/5fe81e39-9fd2-4c9d-8c6c-8d3b6d1a4880.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3600,3600,x850,y0",
-      "zeit": "2026-09-06T15:04+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/in-management-und-support-die-post-will-bis-zu-110-stellen-in-der-verwaltung-abbauen",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/c38ccf.jpg",
+      "zeit": "2026-09-07T16:34+02:00"
     },
     {
       "id": "1700-3",
-      "titel": "Der Kilchberger-Schwinget zeigt, dass dieser traditionsreichen Sportart etwas mehr Exklusivität guttun würde",
-      "was": "Zwei Schwinger im Sägemehl, Giger mit Siegerkranz beim Kilchberger",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Bauernhemd und Sägemehl gegen den Wunsch nach Exklusivität und VIP-Zelt.",
+      "titel": "Polizeieinsatz: Kalb reisst aus und rennt in Wohnsiedlung",
+      "was": "Kalb zwischen Wohnblöcken, Polizisten mit ausgebreiteten Armen im Halbkreis",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: der Ausbruch eines Einzelnen gegen den Apparat, der ihn zurück auf die Weide begleitet.",
       "grund": "memetauglich",
-      "raum": "",
-      "quelle": "NZZ",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/sport/der-kilchberger-schwinget-zeigt-dass-dieser-traditionsreichen-sportart-etwas-mehr-exklusivitaet-gut-tun-wuerde-ld.10022548",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/06/e34759fd-3de1-4f86-a504-add1cdae0d94.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2321,2321,x485,y0",
-      "zeit": "2026-09-06T15:27+02:00"
+      "artikel": "https://www.20min.ch/video/zuerich-affoltern-polizeieinsatz-kalb-reisst-aus-und-rennt-in-wohnsiedlung-103629165",
+      "bild": "https://image.20min.ch/2026/09/07/34e5d527-ad45-490a-8b6c-1e002f08268d.jpg?s=acca481dd7c32a4484b8a7a4903f87b4",
+      "zeit": "2026-09-07T15:39+02:00"
     }
   ],
   "erwartet": [
     {
       "wann": "heute ab 18:00",
-      "was": "Wahlparty-Bilder aus Magdeburg: Jubel, versteinerte Mienen, Balkendiagramme im Rücken der Spitzenkandidaten"
+      "was": "Auftritte der Parteispitzen in Magdeburg zu möglichen Bündnissen, Rednerpult und Mikrofonwald"
     },
     {
       "wann": "heute Abend",
-      "was": "Weitere Bilder der Gespräche in Kiew: Handschlag am langen Tisch, Fahnen im Hintergrund"
+      "was": "Resultatverkündung in Genf zur Gratis-Verhütung, Komitee mit Transparenten und Plakaten"
     }
   ],
   "hinweis": ""
