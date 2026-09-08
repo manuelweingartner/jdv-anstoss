@@ -4,6 +4,21 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-09-08-2106-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "1'200 Franken Existenzminimum, Thermomix 1'549",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Wer in der Schweiz gepfändet wird, darf 1'200 Franken im Monat behalten. Ein Thermomix kostet 1'549. Beides ist fürs Leben gedacht.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
       "id": "2026-09-08-2106-08",
       "typ": "schnittmenge",
       "stichwort": "Zwölf Länder verbieten Siedlungswaren, bewegt hat sich das Sortiment",
@@ -11,7 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 14,
-      "text": "Zwölf Länder verbieten jetzt Waren aus den israelischen Siedlungen im Westjordanland, nach 59 Jahren Besatzung. Nicht das Völkerrecht hat sich bewegt. Sondern das Sortiment."
+      "text": "Zwölf Länder verbieten jetzt Waren aus den israelischen Siedlungen im Westjordanland, nach 59 Jahren Besatzung. Nicht das Völkerrecht hat sich bewegt. Sondern das Sortiment.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-08-2106-09",
@@ -21,47 +41,57 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 10,
-      "text": "Auf dem Basler Münsterplatz sollte eine Skulptur zeigen, dass Sand knapp wird. Sie ist vor der Vernissage in sich zusammengefallen. Jetzt liegt dort ein Haufen. Reichlich."
+      "text": "Auf dem Basler Münsterplatz sollte eine Skulptur zeigen, dass Sand knapp wird. Sie ist vor der Vernissage in sich zusammengefallen. Jetzt liegt dort ein Haufen. Reichlich.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-08-2106-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "0,05 Prozent Sparkonto, in vierzig Jahren ein Aromat",
+      "id": "2026-09-08-2106-12",
+      "typ": "persönlich",
+      "stichwort": "28 Tage Katze, 30 Tage Anfechtungsfrist",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 19,
-      "text": "Ich bekomme auf meinem Sparkonto 0,05 Prozent, weil die SNB die Zinsen unten lässt, während andere Notenbanken erhöhen. In vierzig Jahren spare ich damit ein Aromat zusammen. Immerhin sicher. Und neutral."
+      "text": "28 Tage hat eine Familie in Frankreich ihre Katze gesucht und an einer Raststätte gefunden. Für die Anfechtung einer Mietzinserhöhung habe ich 30. Wer sucht, der findet. Katzen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-08-2106-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fixpreis-Luege und 73 Verletzte am selben Tag",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Beim F-35 wurden wir laut GPK beim Fixpreis brandschwarz angelogen. Am selben Tag verletzen Angriffe auf saudische Ölanlagen 73 Menschen. Aufgeregt hat uns die Rechnung. Nicht das Gerät."
-    },
-    {
-      "id": "2026-09-08-2106-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hersteller lobt den ungelesenen Vertrag",
+      "id": "2026-09-08-2106-29",
+      "typ": "remix",
+      "stichwort": "Nagelknipser abgegeben, Bombardier-Jets gestrichen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich verkaufe der Schweiz 36 Kampfjets für 6 Milliarden. Beruhigend, dass niemand in Bern den Vertrag ganz gelesen hat. Vertrauen ist teuer. Steht drin. Auf Seite 40."
+      "format": 16,
+      "text": "Ich habe am Flughafen einen Nagelknipser abgegeben, 4 Zentimeter, Sicherheitsrisiko. Trump streicht ganzen Bombardier-Jets die Zulassung, weil sie kanadisch sind. Bedenklich war der Knipser.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-08-2106-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Warnung der Emirate weggelegt",
+      "id": "2026-09-08-2106-31",
+      "typ": "persönlich",
+      "stichwort": "Klassenlager gegen ein Jahr Eton",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Netanjahu soll eine direkte Warnung der Emirate vor dem 7. Oktober 2023 ignoriert haben. Endlich ein Regierungschef, der sich nicht von Geheimdiensten regieren lässt. Drei Jahre Krieg. Kein Rücktritt."
+      "format": 19,
+      "text": "Ich habe fürs Klassenlager 180 Franken überwiesen (echtes Detail einsetzen). Prinz George startet in Eton: 63'000 Pfund im Jahr, also 46 Jahre ETH-Studiengebühren. Er lernt dort Rudern.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
