@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-08",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "evergreen",
       "format": 14,
       "text": "Ich dachte lange, Steuern seien eine Pflicht. Ab etwa drei Millionen Vermögen sind sie ein Angebot. Verhandelbar. Mit Termin. Auf beiden Seiten des Tisches sitzt jemand, den du bezahlst."
+    },
+    {
+      "id": "2026-09-08-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "Kiew unter Raketen, 200 Millionen fuer Groenlands Boden",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Russland beschiesst Kiew erneut mit Raketen. Am selben Tag legt die EU 200 Millionen für grönländische Rohstoffe auf den Tisch. Verteidigt wird, was im Boden liegt. Nicht, was drauf."
+    },
+    {
+      "id": "2026-09-08-0757-09",
+      "typ": "remix",
+      "stichwort": "Schutzraum von 1971, voll mit Skiern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Ich habe im Keller einen Schutzraum von 1971, gebaut gegen genau das, wovor der Armeechef jetzt warnt: Moskau. Er ist voll mit Skiern. Und Sirup von 2004."
     }
   ]
 }
