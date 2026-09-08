@@ -1,82 +1,27 @@
 {
   "datum": "2026-09-08",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
-  "fertig": true,
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-08-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "40 Franken Gerüst, eine Million Jahre Atommüll",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich bekam 40 Franken Rabatt, weil ein Gerüst zwei Wochen mein Fenster verdeckte. Nördlich Lägern bekommt eine Abgeltung für eine Million Jahre Atommüll. Deutschland will auch was.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-08-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Eiffelturm zieht Mitarbeiterinnen ab, ab 2027 waehlbar",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Am Eiffelturm wurden auf Wunsch einer religiösen Reisegruppe die Mitarbeiterinnen vom Dienst abgezogen. Endlich ein Betrieb, der auf Kundenwünsche eingeht. Ab 2027 wählt man beim Ticketkauf, wer einen bedient.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-08-0757-04",
+      "id": "2026-09-08-2106-08",
       "typ": "schnittmenge",
-      "stichwort": "Schulbehoerde zum Dragqueen-Lehrer, Pfarrer im Lehrplan",
-      "plattform": "Threads + Bluesky",
+      "stichwort": "Zwölf Länder verbieten Siedlungswaren, bewegt hat sich das Sortiment",
+      "plattform": "Instagram + Threads",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich habe als Schulbehörde nichts gegen den Aargauer Lehrer, der abends als Dragqueen auftritt. Im Kostüm steht vor unseren Klassen sonst nur der Pfarrer. Wöchentlich. Im Lehrplan.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
+      "format": 14,
+      "text": "Zwölf Länder verbieten jetzt Waren aus den israelischen Siedlungen im Westjordanland, nach 59 Jahren Besatzung. Nicht das Völkerrecht hat sich bewegt. Sondern das Sortiment."
     },
     {
-      "id": "2026-09-08-0757-09",
+      "id": "2026-09-08-2106-09",
       "typ": "remix",
-      "stichwort": "Schutzraum von 1971, voll mit Skiern",
+      "stichwort": "Sandskulptur gegen Sandmangel fällt zu einem Haufen zusammen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 2,
-      "text": "Ich habe im Keller einen Schutzraum von 1971, gebaut gegen genau das, wovor der Armeechef jetzt warnt: Moskau. Er ist voll mit Skiern. Und Sirup von 2004.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-08-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Statine gegen Demenz, Grönland seit 1721",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich nehme keine Statine, Europa sollte: sie senken laut schwedischen Forschenden das Demenzrisiko. Am selben Tag sichert sich die EU in Grönland die Arktis. Erstmals seit 1721.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
+      "format": 10,
+      "text": "Auf dem Basler Münsterplatz sollte eine Skulptur zeigen, dass Sand knapp wird. Sie ist vor der Vernissage in sich zusammengefallen. Jetzt liegt dort ein Haufen. Reichlich."
     }
   ]
 }
