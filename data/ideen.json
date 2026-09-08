@@ -11,17 +11,42 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich bekam 40 Franken Rabatt, weil ein Gerüst zwei Wochen mein Fenster verdeckte. Nördlich Lägern bekommt eine Abgeltung für eine Million Jahre Atommüll. Deutschland will auch was."
+      "text": "Ich bekam 40 Franken Rabatt, weil ein Gerüst zwei Wochen mein Fenster verdeckte. Nördlich Lägern bekommt eine Abgeltung für eine Million Jahre Atommüll. Deutschland will auch was.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-08-0757-02",
+      "id": "2026-09-08-0757-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Arktis-Strategie, neu ist der schiffbare Ozean",
+      "stichwort": "Eiffelturm zieht Mitarbeiterinnen ab, ab 2027 waehlbar",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Am Eiffelturm wurden auf Wunsch einer religiösen Reisegruppe die Mitarbeiterinnen vom Dienst abgezogen. Endlich ein Betrieb, der auf Kundenwünsche eingeht. Ab 2027 wählt man beim Ticketkauf, wer einen bedient.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-08-0757-04",
+      "typ": "schnittmenge",
+      "stichwort": "Schulbehoerde zum Dragqueen-Lehrer, Pfarrer im Lehrplan",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Von der Leyen wirbt in Grönland für eine neue Arktis-Strategie, bei 56'000 Einwohnern. Neu sind dort nicht die Interessen, neu ist der schiffbare Ozean. Geschmolzen, aber endlich rentabel."
+      "format": 13,
+      "text": "Ich habe als Schulbehörde nichts gegen den Aargauer Lehrer, der abends als Dragqueen auftritt. Im Kostüm steht vor unseren Klassen sonst nur der Pfarrer. Wöchentlich. Im Lehrplan.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-08-0757-05",
@@ -31,37 +56,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ich habe zum ersten Mal meinen Pensionskassenauszug gelesen. Mein Alter beim Rentenbeginn steht auf Seite 1, meine Beteiligung an europäischen Rüstungskonzernen auf Seite 4. Beides steigt."
+      "text": "Ich habe zum ersten Mal meinen Pensionskassenauszug gelesen. Mein Alter beim Rentenbeginn steht auf Seite 1, meine Beteiligung an europäischen Rüstungskonzernen auf Seite 4. Beides steigt.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-08-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "acht Tage Ferien im Stundenlohn",
+      "id": "2026-09-08-0757-09",
+      "typ": "remix",
+      "stichwort": "Schutzraum von 1971, voll mit Skiern",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Meine Chefin war drei Wochen weg und hat trotzdem entschieden, wer befördert wird. Wer im Stundenlohn arbeitet, verliert nach acht Tagen den Anschluss an die eigene Wohnungsmiete."
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Ich habe im Keller einen Schutzraum von 1971, gebaut gegen genau das, wovor der Armeechef jetzt warnt: Moskau. Er ist voll mit Skiern. Und Sirup von 2004.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-08-0757-07",
+      "id": "2026-09-08-0757-22",
       "typ": "politisch-aktuell",
-      "stichwort": "Steuerberater ab 3 Millionen",
+      "stichwort": "Statine gegen Demenz, Grönland seit 1721",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Ich dachte lange, Steuern seien eine Pflicht. Ab etwa drei Millionen Vermögen sind sie ein Angebot. Verhandelbar. Mit Termin. Auf beiden Seiten des Tisches sitzt jemand, den du bezahlst."
-    },
-    {
-      "id": "2026-09-08-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "Kiew unter Raketen, 200 Millionen fuer Groenlands Boden",
-      "plattform": "Instagram + Threads",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Russland beschiesst Kiew erneut mit Raketen. Am selben Tag legt die EU 200 Millionen für grönländische Rohstoffe auf den Tisch. Verteidigt wird, was im Boden liegt. Nicht, was drauf."
+      "text": "Ich nehme keine Statine, Europa sollte: sie senken laut schwedischen Forschenden das Demenzrisiko. Am selben Tag sichert sich die EU in Grönland die Arktis. Erstmals seit 1721.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
