@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-08",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
   "fertig": true,
   "ideen": [
     {
@@ -42,21 +42,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich habe als Schulbehörde nichts gegen den Aargauer Lehrer, der abends als Dragqueen auftritt. Im Kostüm steht vor unseren Klassen sonst nur der Pfarrer. Wöchentlich. Im Lehrplan.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-08-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pensionskassenauszug, 7 Prozent Rüstung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe zum ersten Mal meinen Pensionskassenauszug gelesen. Mein Alter beim Rentenbeginn steht auf Seite 1, meine Beteiligung an europäischen Rüstungskonzernen auf Seite 4. Beides steigt.",
       "jury": {
         "witz": true,
         "anker": true,
