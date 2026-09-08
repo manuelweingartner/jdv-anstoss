@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-08",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 10,
       "text": "Auf dem Basler Münsterplatz sollte eine Skulptur zeigen, dass Sand knapp wird. Sie ist vor der Vernissage in sich zusammengefallen. Jetzt liegt dort ein Haufen. Reichlich."
+    },
+    {
+      "id": "2026-09-08-2106-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "0,05 Prozent Sparkonto, in vierzig Jahren ein Aromat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich bekomme auf meinem Sparkonto 0,05 Prozent, weil die SNB die Zinsen unten lässt, während andere Notenbanken erhöhen. In vierzig Jahren spare ich damit ein Aromat zusammen. Immerhin sicher. Und neutral."
+    },
+    {
+      "id": "2026-09-08-2106-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fixpreis-Luege und 73 Verletzte am selben Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Beim F-35 wurden wir laut GPK beim Fixpreis brandschwarz angelogen. Am selben Tag verletzen Angriffe auf saudische Ölanlagen 73 Menschen. Aufgeregt hat uns die Rechnung. Nicht das Gerät."
     },
     {
       "id": "2026-09-08-2106-23",
