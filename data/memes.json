@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-06T08:11:36+02:00",
+  "stand": "2026-09-08T08:08:01+02:00",
   "vorschlaege": [
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Die Bundesverwaltung ist eine Microsoft-Filiale"
+        "Mietsenkungen gibt es nur auf Antrag"
       ],
-      "warum": "Digitale Souveraenitaet, die man auf fremden Servern testet, ist eine These, der niemand ernsthaft widersprechen kann",
+      "warum": "eine These, der niemand widersprechen kann, weil der unveraenderte Referenzzins genau das beweist",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Absolute Neutralitaet in die Verfassung",
-        "Absprachen wie Guisan 1940",
-        "Das Initiativkomitee"
+        "Millionen Abgeltung verhandeln",
+        "Deutschlands Einsprache klaeren",
+        "Nagra"
       ],
-      "warum": "die Initiative reisst in letzter Sekunde weg von der Praxis, die die Schweiz historisch gefahren ist",
+      "warum": "der Kurswechsel in der letzten Sekunde: Geld statt der offenen Frage",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Schweiz 1882",
-        "Gotthardtunnel durch den Berg",
-        "Schweiz 2026",
-        "18 Naechte gesperrt fuer Wartung"
+        "Volkswagen 1998",
+        "Kauft Bentley, Lamborghini, Bugatti",
+        "Volkswagen 2026",
+        "Streicht 50'000 Stellen"
       ],
-      "warum": "Bauland der Nation gegen Baustellenkalender der Nation, das ist genau der behauptete Frueher-Heute-Abstand",
+      "warum": "behauptetes starkes Frueher gegen klaegliches Heute, exakt die Konzernkurve",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Die Steuerzahlenden haften weiter",
-        "Ausgewogener Kapitalkompromiss"
+        "Zahlen ergeben keinen Sinn",
+        "Angebotsorientierte Wachstumsimpulse"
       ],
-      "warum": "der UBS-Kompromiss ist dieselbe Sache einmal ehrlich benannt und einmal in Finanzplatzsprache verpackt",
+      "warum": "dieselbe Rechnung einmal nackt und einmal in Wirtschaftsdeutsch, der Euphemismus ist Wellershoffs Punkt",
       "bild": "vorschlag-4.jpg"
     }
   ]
