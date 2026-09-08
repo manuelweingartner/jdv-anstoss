@@ -1,59 +1,60 @@
 {
-  "stand": "2026-09-08T08:07:07+02:00",
-  "lauf": "0806",
+  "stand": "2026-09-08T17:01:04+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0806-1",
-      "titel": "Verschärfte Bedrohungslage – Armeechef: «Die Schweiz ist ein Ziel für Moskau»",
-      "was": "Armeechef in Uniform vor Karte oder Panzer im Studio",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Weltmachtdrohung gegen die tatsächliche Grösse und Ausrüstung des Landes.",
+      "id": "1700-1",
+      "titel": "Nach Brief von König Charles: Harry und Meghan sind überrascht",
+      "was": "Charles in Gala-Uniform mit Ordensspange, daneben Archivbild von Harry und Meghan",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Brief an die eigene Familie gegen Verwaltungsakt an zwei Ex-Angestellte.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [
-        "20 Minuten"
-      ],
-      "artikel": "https://www.srf.ch/news/schweiz/verschaerfte-bedrohungslage-armeechef-die-schweiz-ist-ein-ziel-fuer-moskau",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/447ee6.jpg",
-      "zeit": "2026-09-07T18:09+02:00"
-    },
-    {
-      "id": "0806-2",
-      "titel": "Besuch von Hindu-Gruppe führt zu Streik am Eiffelturm",
-      "was": "Eiffelturm mit Streikposten und leeren Kassenhäuschen davor",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Wer sich beim Besuch Rücksicht wünscht gegen die, die vor Ort arbeiten müssen.",
-      "grund": "breit",
-      "raum": "",
+      "raum": "weltweit",
       "quelle": "20 Minuten",
       "auch_bei": [
         "SRF"
       ],
-      "artikel": "https://www.20min.ch/story/paris-besuch-von-hindu-gruppe-fuehrt-zu-streik-am-eiffelturm-103629362",
-      "bild": "https://image.20min.ch/2026/09/07/ce21bf0a-92ef-453f-81fd-17635a9e3930.jpg?s=b76ca58e5d054733f39ac22a61e1d50d",
-      "zeit": "2026-09-08T05:04+02:00"
+      "artikel": "https://www.20min.ch/story/harry-und-meghan-ueberrascht-koenig-charles-stellt-royal-status-schriftlich-klar-103629605",
+      "bild": "https://image.20min.ch/2026/08/20/f41972b1-6acc-4a56-bfb9-eeeb5bbbb8c5.jpg?s=be36ffe73f78081725f1001fd939b951",
+      "zeit": "2026-09-08T14:29+02:00"
     },
     {
-      "id": "0806-3",
-      "titel": "Der Rekordmann: Louis Gruber ist in 16 Stunden, 3 Minuten und 26 Sekunden vom Lago Maggiore auf die Dufourspitze gerast",
-      "was": "Bergläufer erschöpft auf Gipfelkreuz der Dufourspitze, Stoppuhr",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Rekordleistung gegen die simple Tatsache, dass jemand einfach den ganzen Tag bergauf gerannt ist.",
+      "id": "1700-2",
+      "titel": "Sachsen-Anhalt live: CDU-Abgeordnete wählen Noch-Ministerpräsident Sven Schulze zum Fraktionschef",
+      "was": "Sven Schulze nimmt nach der Wahlniederlage Applaus und Blumen der Fraktion entgegen",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Applaus im Fraktionssaal gegen Ergebnis an der Urne.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "Spiegel",
+      "auch_bei": [
+        "Tagesschau",
+        "taz"
+      ],
+      "artikel": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef-a-33e47bc8-09a0-40e8-9d4b-c5b06526eba9#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/58898eba-d7d7-43ad-a55a-fbf2ba198779_w520_r2.08_fpx65_fpy27.jpg",
+      "zeit": "2026-09-08T16:37+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "World Nomad Games 2026 in Kirgistan: Ziegenpolo is coming home",
+      "was": "Reiter in Filzhüten und Tracht beim Ziegenpolo in der kirgisischen Steppe",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Spiel auf dem Pferderücken gegen den Apparat, der sich für den einzig echten Weltsport hält.",
       "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "NZZ",
+      "raum": "weltweit",
+      "quelle": "taz",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/sport/der-rekordmann-louis-gruber-ist-in-16-stunden-drei-minuten-und-26-sekunden-vom-lago-maggiore-auf-die-dufourspitze-gerast-warum-hat-er-das-gemacht-ld.10022291",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/07/d22ba1db-4b8f-425c-8438-55f137b5f32b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2160,2160,x840,y0",
-      "zeit": "2026-09-08T05:30+02:00"
+      "artikel": "https://taz.de/World-Nomad-Games-2026-in-Kirgistan/!6211344/",
+      "bild": "https://taz.de/picture/8723592/948/imago1082463544h.jpeg",
+      "zeit": "2026-09-08T13:53+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute tagsüber",
-      "was": "Fototermine der CDU Sachsen-Anhalt zur Neuwahl des Landesvorstands, betretene Mienen am Rednerpult"
+      "wann": "heute ab 17:00",
+      "was": "Klingbeil am Rednerpult im Bundestag, Regierungsbank und Aktenordner im Bild"
     },
     {
-      "wann": "heute vormittag",
-      "was": "Bundestagsdebatte zum Haushalt, Finanzminister mit Mappe am Pult"
+      "wann": "heute Abend",
+      "was": "Basketball-WM der Frauen in Berlin, Grössenunterschied am Sprungball"
     }
   ],
   "hinweis": ""
