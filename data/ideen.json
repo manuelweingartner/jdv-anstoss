@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-08",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 2,
       "text": "Ich habe im Keller einen Schutzraum von 1971, gebaut gegen genau das, wovor der Armeechef jetzt warnt: Moskau. Er ist voll mit Skiern. Und Sirup von 2004."
+    },
+    {
+      "id": "2026-09-08-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Eiffelturm: Gast ist König, wörtlich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich verwalte den Eiffelturm und habe auf Wunsch einer religiösen Reisegruppe alle Mitarbeiterinnen aus dem Turm genommen. Bei uns ist der Gast König. Wörtlich. Seit 1889."
     }
   ]
 }
