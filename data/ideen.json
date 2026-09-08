@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-08",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 10,
       "text": "Auf dem Basler Münsterplatz sollte eine Skulptur zeigen, dass Sand knapp wird. Sie ist vor der Vernissage in sich zusammengefallen. Jetzt liegt dort ein Haufen. Reichlich."
+    },
+    {
+      "id": "2026-09-08-2106-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hersteller lobt den ungelesenen Vertrag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich verkaufe der Schweiz 36 Kampfjets für 6 Milliarden. Beruhigend, dass niemand in Bern den Vertrag ganz gelesen hat. Vertrauen ist teuer. Steht drin. Auf Seite 40."
+    },
+    {
+      "id": "2026-09-08-2106-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Warnung der Emirate weggelegt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Netanjahu soll eine direkte Warnung der Emirate vor dem 7. Oktober 2023 ignoriert haben. Endlich ein Regierungschef, der sich nicht von Geheimdiensten regieren lässt. Drei Jahre Krieg. Kein Rücktritt."
     }
   ]
 }
