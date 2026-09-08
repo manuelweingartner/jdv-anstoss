@@ -1,67 +1,37 @@
 {
-  "datum": "2026-09-07",
-  "hinweis": "6 von 6 da, der Rest lädt noch.",
+  "datum": "2026-09-08",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-07-0757-01",
+      "id": "2026-09-08-0757-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Elf Wochen Physio, 18 Nächte Gotthard",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich warte elf Wochen auf einen Physiotherapie-Termin. Der Gotthard-Strassentunnel wird bis 7. Oktober 18 Nächte gesperrt, rein vorsorglich. Beton hat hier die besseren Versicherungen."
-    },
-    {
-      "id": "2026-09-07-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Feindlich rückwirkend, Doha",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Netanjahu nennt Katar einen feindlichen Staat und verteidigt seinen Angriff auf Doha von 2025. Feindlich ist ein Land nicht, weil es etwas tut. Sondern weil man es bombardiert hat. Rückwirkend."
-    },
-    {
-      "id": "2026-09-07-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "47 Franken nach Bruessel, ich bin in 90 Minuten da",
+      "stichwort": "Pensionskassenauszug, 7 Prozent Rüstung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Endlich fährt ein Nachtzug für 47 Franken von Aarau nach Brüssel, zwölf Stunden im Liegewagen. Meine Airline unterstützt das ausdrücklich. Ich bin in 90 Minuten da. Steuerfrei."
-    },
-    {
-      "id": "2026-09-07-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "vier Jahre bis zur Diagnose, Kasse prüft ob es die gibt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich bin Ihre Krankenkasse und gratuliere: nach vier Jahren haben Sie eine Diagnose. Wir prüfen jetzt, ob es die bei uns auch gibt. Wenn nicht, sind Sie gesund."
+      "format": 16,
+      "text": "Ich habe zum ersten Mal meinen Pensionskassenauszug gelesen. Mein Alter beim Rentenbeginn steht auf Seite 1, meine Beteiligung an europäischen Rüstungskonzernen auf Seite 4. Beides steigt."
     },
     {
-      "id": "2026-09-07-0757-09",
-      "typ": "remix",
-      "stichwort": "43 Franken Haarschnitt, 2720 für dauerhaft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich zahle 43 Franken für einen Haarschnitt und finde das teuer. Eine Laser-Haarentfernung kostet 2720, danach wachsen die Haare weiter. Dauerhaft war der Preis."
-    },
-    {
-      "id": "2026-09-07-0757-25",
+      "id": "2026-09-08-0757-06",
       "typ": "politisch-aktuell",
-      "stichwort": "100 Minuten pendeln, neun Wochen geschenkt",
+      "stichwort": "acht Tage Ferien im Stundenlohn",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ich pendle täglich 100 Minuten zur Arbeit, das sind neun unbezahlte Arbeitswochen im Jahr. Wer sich eine Wohnung in der Stadt leisten kann, bekommt neun Wochen Ferien geschenkt. Netto."
+      "text": "Meine Chefin war drei Wochen weg und hat trotzdem entschieden, wer befördert wird. Wer im Stundenlohn arbeitet, verliert nach acht Tagen den Anschluss an die eigene Wohnungsmiete."
+    },
+    {
+      "id": "2026-09-08-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuerberater ab 3 Millionen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Ich dachte lange, Steuern seien eine Pflicht. Ab etwa drei Millionen Vermögen sind sie ein Angebot. Verhandelbar. Mit Termin. Auf beiden Seiten des Tisches sitzt jemand, den du bezahlst."
     }
   ]
 }

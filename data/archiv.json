@@ -12454,6 +12454,72 @@
         "witz": true
       },
       "datum": "2026-09-06"
+    },
+    {
+      "id": "2026-09-07-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Elf Wochen Physio, 18 Nächte Gotthard",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich warte elf Wochen auf einen Physiotherapie-Termin. Der Gotthard-Strassentunnel wird bis 7. Oktober 18 Nächte gesperrt, rein vorsorglich. Beton hat hier die besseren Versicherungen.",
+      "datum": "2026-09-07"
+    },
+    {
+      "id": "2026-09-07-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Feindlich rückwirkend, Doha",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Netanjahu nennt Katar einen feindlichen Staat und verteidigt seinen Angriff auf Doha von 2025. Feindlich ist ein Land nicht, weil es etwas tut. Sondern weil man es bombardiert hat. Rückwirkend.",
+      "datum": "2026-09-07"
+    },
+    {
+      "id": "2026-09-07-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "47 Franken nach Bruessel, ich bin in 90 Minuten da",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Endlich fährt ein Nachtzug für 47 Franken von Aarau nach Brüssel, zwölf Stunden im Liegewagen. Meine Airline unterstützt das ausdrücklich. Ich bin in 90 Minuten da. Steuerfrei.",
+      "datum": "2026-09-07"
+    },
+    {
+      "id": "2026-09-07-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "vier Jahre bis zur Diagnose, Kasse prüft ob es die gibt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich bin Ihre Krankenkasse und gratuliere: nach vier Jahren haben Sie eine Diagnose. Wir prüfen jetzt, ob es die bei uns auch gibt. Wenn nicht, sind Sie gesund.",
+      "datum": "2026-09-07"
+    },
+    {
+      "id": "2026-09-07-0757-09",
+      "typ": "remix",
+      "stichwort": "43 Franken Haarschnitt, 2720 für dauerhaft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich zahle 43 Franken für einen Haarschnitt und finde das teuer. Eine Laser-Haarentfernung kostet 2720, danach wachsen die Haare weiter. Dauerhaft war der Preis.",
+      "datum": "2026-09-07"
+    },
+    {
+      "id": "2026-09-07-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "100 Minuten pendeln, neun Wochen geschenkt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich pendle täglich 100 Minuten zur Arbeit, das sind neun unbezahlte Arbeitswochen im Jahr. Wer sich eine Wohnung in der Stadt leisten kann, bekommt neun Wochen Ferien geschenkt. Netto.",
+      "datum": "2026-09-07"
     }
   ]
 }
