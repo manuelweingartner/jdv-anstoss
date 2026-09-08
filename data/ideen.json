@@ -1,8 +1,23 @@
 {
   "datum": "2026-09-08",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-09-08-2106-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "6 Milliarden bewilligt, der Rest war auf Englisch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich habe 6 Milliarden für F-35-Kampfjets bewilligt, ohne den Vertrag zu Ende zu lesen. Endlich eine Verwaltung, die einfach mal vertraut. Der Rest war auf Englisch.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
+    },
     {
       "id": "2026-09-08-2106-05",
       "typ": "politisch-aktuell",
@@ -49,21 +64,6 @@
       }
     },
     {
-      "id": "2026-09-08-2106-12",
-      "typ": "persönlich",
-      "stichwort": "28 Tage Katze, 30 Tage Anfechtungsfrist",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "28 Tage hat eine Familie in Frankreich ihre Katze gesucht und an einer Raststätte gefunden. Für die Anfechtung einer Mietzinserhöhung habe ich 30. Wer sucht, der findet. Katzen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-09-08-2106-29",
       "typ": "remix",
       "stichwort": "Nagelknipser abgegeben, Bombardier-Jets gestrichen",
@@ -79,14 +79,14 @@
       }
     },
     {
-      "id": "2026-09-08-2106-31",
-      "typ": "persönlich",
-      "stichwort": "Klassenlager gegen ein Jahr Eton",
+      "id": "2026-09-08-2106-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti montiert, Pazifik und Nagoya liefern nach",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Ich habe fürs Klassenlager 180 Franken überwiesen (echtes Detail einsetzen). Prinz George startet in Eton: 63'000 Pfund im Jahr, also 46 Jahre ETH-Studiengebühren. Er lernt dort Rudern.",
+      "format": 18,
+      "text": "Ich habe letzte Woche Umweltminister Rösti in ein Feuer montiert. Gleiche Woche: Rekordwärme im Pazifik, 104,5 Millimeter Regen pro Stunde in Nagoya. Die Montage war der zurückhaltende Teil.",
       "jury": {
         "anker": true,
         "neu": true,
