@@ -1,61 +1,59 @@
 {
-  "stand": "2026-09-07T17:00:57+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-08T08:07:07+02:00",
+  "lauf": "0806",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Sachsen-Anhalt nach AfD-Sieg: Das sind die Szenarien nach dem Dammbruch von Magdeburg",
-      "was": "Parteispitzen an Rednerpulten im Magdeburger Landtag, Kameras und Wahlgrafiken im Rücken",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Brandmauer als erklärtes Prinzip gegen Koalitionsarithmetik als tatsächliche Praxis.",
+      "id": "0806-1",
+      "titel": "Verschärfte Bedrohungslage – Armeechef: «Die Schweiz ist ein Ziel für Moskau»",
+      "was": "Armeechef in Uniform vor Karte oder Panzer im Studio",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Weltmachtdrohung gegen die tatsächliche Grösse und Ausrüstung des Landes.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
-      "auch_bei": [
-        "SRF",
-        "Tagesschau",
-        "taz"
-      ],
-      "artikel": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-nach-afd-sieg-das-sind-die-szenarien-nach-dem-dammbruch-von-magdeburg-a-0d2dbad4-dfba-433c-acb8-e486b51d753e#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/25ca8ed9-0437-46e6-858b-ecf444848909_w520_r2.08_fpx36.67_fpy45.jpg",
-      "zeit": "2026-09-07T15:09+02:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "In Management und Support – Die Post will bis zu 110 Stellen in der Verwaltung abbauen",
-      "was": "Post-Kader an Medienkonferenz, gelbes Logo und Sparfolien auf der Leinwand",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Service public als Auftrag gegen Stellenabbau als Weg dorthin.",
-      "grund": "breit",
-      "raum": "",
+      "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
-        "Spiegel"
+        "20 Minuten"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/in-management-und-support-die-post-will-bis-zu-110-stellen-in-der-verwaltung-abbauen",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/c38ccf.jpg",
-      "zeit": "2026-09-07T16:34+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/verschaerfte-bedrohungslage-armeechef-die-schweiz-ist-ein-ziel-fuer-moskau",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/447ee6.jpg",
+      "zeit": "2026-09-07T18:09+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Polizeieinsatz: Kalb reisst aus und rennt in Wohnsiedlung",
-      "was": "Kalb zwischen Wohnblöcken, Polizisten mit ausgebreiteten Armen im Halbkreis",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: der Ausbruch eines Einzelnen gegen den Apparat, der ihn zurück auf die Weide begleitet.",
+      "id": "0806-2",
+      "titel": "Besuch von Hindu-Gruppe führt zu Streik am Eiffelturm",
+      "was": "Eiffelturm mit Streikposten und leeren Kassenhäuschen davor",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Wer sich beim Besuch Rücksicht wünscht gegen die, die vor Ort arbeiten müssen.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "20 Minuten",
+      "auch_bei": [
+        "SRF"
+      ],
+      "artikel": "https://www.20min.ch/story/paris-besuch-von-hindu-gruppe-fuehrt-zu-streik-am-eiffelturm-103629362",
+      "bild": "https://image.20min.ch/2026/09/07/ce21bf0a-92ef-453f-81fd-17635a9e3930.jpg?s=b76ca58e5d054733f39ac22a61e1d50d",
+      "zeit": "2026-09-08T05:04+02:00"
+    },
+    {
+      "id": "0806-3",
+      "titel": "Der Rekordmann: Louis Gruber ist in 16 Stunden, 3 Minuten und 26 Sekunden vom Lago Maggiore auf die Dufourspitze gerast",
+      "was": "Bergläufer erschöpft auf Gipfelkreuz der Dufourspitze, Stoppuhr",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Rekordleistung gegen die simple Tatsache, dass jemand einfach den ganzen Tag bergauf gerannt ist.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/video/zuerich-affoltern-polizeieinsatz-kalb-reisst-aus-und-rennt-in-wohnsiedlung-103629165",
-      "bild": "https://image.20min.ch/2026/09/07/34e5d527-ad45-490a-8b6c-1e002f08268d.jpg?s=acca481dd7c32a4484b8a7a4903f87b4",
-      "zeit": "2026-09-07T15:39+02:00"
+      "artikel": "https://www.nzz.ch/sport/der-rekordmann-louis-gruber-ist-in-16-stunden-drei-minuten-und-26-sekunden-vom-lago-maggiore-auf-die-dufourspitze-gerast-warum-hat-er-das-gemacht-ld.10022291",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/07/d22ba1db-4b8f-425c-8438-55f137b5f32b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2160,2160,x840,y0",
+      "zeit": "2026-09-08T05:30+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 18:00",
-      "was": "Auftritte der Parteispitzen in Magdeburg zu möglichen Bündnissen, Rednerpult und Mikrofonwald"
+      "wann": "heute tagsüber",
+      "was": "Fototermine der CDU Sachsen-Anhalt zur Neuwahl des Landesvorstands, betretene Mienen am Rednerpult"
     },
     {
-      "wann": "heute Abend",
-      "was": "Resultatverkündung in Genf zur Gratis-Verhütung, Komitee mit Transparenten und Plakaten"
+      "wann": "heute vormittag",
+      "was": "Bundestagsdebatte zum Haushalt, Finanzminister mit Mappe am Pult"
     }
   ],
   "hinweis": ""
