@@ -4,6 +4,36 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-09-09-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Katzenfutter 2,6, Windeln 8,1",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich hatte im Coop Windeln und Katzenfutter im selben Korb. Auf das Katzenfutter zahle ich 2,6 Prozent Mehrwertsteuer, auf die Windeln 8,1. Grundbedarf ist geregelt."
+    },
+    {
+      "id": "2026-09-09-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zins versteuert, Kapitalgewinn privat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich versteuere jeden Franken Zins auf meinem Sparkonto, 60 im Jahr. Aktiengewinne sind in der Schweiz steuerfrei, weil sie privat sind. Wie mein Sparkonto."
+    },
+    {
+      "id": "2026-09-09-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "44 Prozent Vermoegen, Belastungsgrenze",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Das reichste Prozent der Schweiz besitzt 44 Prozent des Vermögens. Als Wirtschaftsverband warnen wir vor Neiddebatten: bei 44 Prozent ist unsere Belastungsgrenze erreicht."
+    },
+    {
       "id": "2026-09-09-0757-21",
       "typ": "politisch-aktuell",
       "stichwort": "40 Franken Strom, 24 Milliarden Novartis",
@@ -32,36 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "767 Millionen Kinder atmen täglich fremden Rauch ein, sagt die neue Studie. Politisch gefährlich für Kinder ist weiterhin die Bildschirmzeit. Zwei Stunden. Höchstens."
-    },
-    {
-      "id": "2026-09-09-0757-30",
-      "typ": "persönlich",
-      "stichwort": "Totalschaden faehrt, Mensch gilt als gesund",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich fahre seit drei Wochen ein Auto, das offiziell ein Totalschaden ist und einwandfrei läuft. Bei Menschen macht es die Versicherung umgekehrt. Sieht gesund aus. Akte geschlossen."
-    },
-    {
-      "id": "2026-09-09-0757-31",
-      "typ": "persönlich",
-      "stichwort": "Notarzt im Flugzeug, Pensionskasse selber",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Zwei Swiss-Maschinen mussten diese Woche wegen medizinischer Notfälle landen, ich hätte mich nie gemeldet. Beim Pensionskassenkapital will die Hälfte von uns selber ran. Ich auch."
-    },
-    {
-      "id": "2026-09-09-0757-32",
-      "typ": "persönlich",
-      "stichwort": "45 Minuten Suche, 40 Minuten Spiel",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich habe 45 Minuten gebraucht, um den Stream der Frauen-Basketball-WM zu finden. Ein Spiel dauert 40. Die Männer finde ich, indem ich den Fernseher anschaue."
     }
   ]
 }
