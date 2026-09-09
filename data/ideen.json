@@ -1,6 +1,27 @@
 {
   "datum": "2026-09-09",
-  "hinweis": "0 von 6 da, der Rest lädt noch.",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
   "fertig": false,
-  "ideen": []
+  "ideen": [
+    {
+      "id": "2026-09-09-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "40 Franken Strom, 24 Milliarden Novartis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich spare ab 2027 vierzig Franken Strom im Jahr. Novartis hat am selben Tag 24 Milliarden Börsenwert verloren. Aufholen wäre in 600 Millionen Jahren möglich. Falls der Strom weiter sinkt."
+    },
+    {
+      "id": "2026-09-09-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "New Mexico umbenannt, Herkunftsland abgeschafft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Trump will New Mexico in New America umbenennen. Endlich packt einer die Migration an der Wurzel: weg mit dem Herkunftsland. Der Bundesstaat ist seit 1912 dabei. Länger als er."
+    }
+  ]
 }
