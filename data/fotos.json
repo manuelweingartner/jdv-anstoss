@@ -1,59 +1,55 @@
 {
-  "stand": "2026-09-09T08:08:15+02:00",
-  "lauf": "0807",
+  "stand": "2026-09-09T17:01:04+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0807-1",
-      "titel": "Bei Fixpreis «brandschwarz angelogen» und «hinters Licht geführt»",
-      "was": "Kommissionsmitglieder vor Mikrofonen, Kampfjet-Grafik und Aktenordner im Bild",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Fixpreis als Wort in der Kommunikation gegen Fixpreis als Betrag auf der Rechnung.",
+      "id": "1700-1",
+      "titel": "Basketball-WM der Frauen: Deshalb spielt Deutschland gerade so stark",
+      "was": "Deutsche Basketballerinnen jubeln umarmt auf dem WM-Parkett nach dem Viertelfinaleinzug",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: die bescheidene Selbsteinschätzung des Teams gegen die Zahl auf der Anzeigetafel.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
-      "auch_bei": [
-        "SRF"
-      ],
-      "artikel": "https://www.20min.ch/story/f-35-fixpreis-debakel-politiker-sprechen-von-sauerei-und-skandal-103629696",
-      "bild": "https://image.20min.ch/2026/09/08/1ef7f9eb-b601-4dc0-a843-0f8e19071b43.jpg?s=a4ac5e3792327376829174456f6145bf",
-      "zeit": "2026-09-08T18:30+02:00"
-    },
-    {
-      "id": "0807-2",
-      "titel": "Fernsehheldin feiert Jubiläum – Die Biene Maja wird 50 – und noch immer summen alle mit",
-      "was": "Jubiläumsanlass mit Biene-Maja-Kostüm, Zeichentrickbiene neben erwachsenen Fans",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: 50 Jahre gefeierter Fleiss gegen null Lohn, null Rente, null Ferien.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "SRF",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
       "auch_bei": [
         "taz"
       ],
-      "artikel": "https://www.srf.ch/kultur/film-serien/fernsehheldin-feiert-jubilaeum-die-biene-maja-wird-50-und-noch-immer-summen-alle-mit",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf/50364f.jpg",
-      "zeit": "2026-09-09T06:37+02:00"
+      "artikel": "https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deshalb-spielt-deutschland-gerade-so-stark-a-f9410f29-0933-45ed-8ef9-a1cf01fefed5#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/d72292cc-4e76-4dc5-90fc-d6aec1608c02_w520_r2.08_fpx57.33_fpy49.99.jpg",
+      "zeit": "2026-09-09T16:35+02:00"
     },
     {
-      "id": "0807-3",
-      "titel": "Kamel-Festival in Oberglatt – Mitten in Zürich grasen Kamele statt Kühe",
-      "was": "Kamele grasen auf Zürcher Wiese, Besucher und Festivalstand daneben",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: das offizielle Heimatbild mit Kuh gegen das Tier, das wirklich auf der Wiese steht.",
+      "id": "1700-2",
+      "titel": "Gigabitstrategie – 730 Millionen: Bundesrat will schnelleres Internet auf dem Land",
+      "was": "Bundesrat Rösti an der Medienkonferenz vor Ausbaukarte, Kabel oder Rednerpult",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: 730 Millionen für die Randregionen gegen das, was auf dem letzten Kilometer wirklich ankommt.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "SRF",
+      "auch_bei": [
+        "NZZ"
+      ],
+      "artikel": "https://www.srf.ch/news/schweiz/gigabitstrategie-730-millionen-bundesrat-will-schnelleres-internet-auf-dem-land",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/404efd.jpg",
+      "zeit": "2026-09-09T16:32+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "«Königin der Lokomotiven» – Die grossen SBB-Krokodile feiern ihren 100. Geburtstag",
+      "was": "Eisenbahnfans mit Kameras umdrängen die grüne Krokodil-Lokomotive am Jubiläumsanlass",
+      "richtung": "Mechanik: wörtlich nehmen, was nur als Ehrentitel gemeint ist. Achse: die gefeierte Zuverlässigkeit von 1925 gegen den Fahrplan von heute.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/gesellschaft/kamel-festival-in-oberglatt-mitten-in-zuerich-grasen-kamele-statt-kuehe",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/5f1715.jpg",
-      "zeit": "2026-09-08T21:37+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/koenigin-der-lokomotiven-die-grossen-sbb-krokodile-feiern-ihren-100-geburtstag",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/2e21ff1.jpg",
+      "zeit": "2026-09-09T16:03+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute vormittags",
-      "was": "Nationalrat entscheidet über die Lex Jans: Ratssaal, Bundesratsbank, Redner am Pult"
-    },
-    {
-      "wann": "heute vormittags",
-      "was": "Generaldebatte im Bundestag: Kanzler am Pult, Gesten Richtung Opposition"
+      "wann": "heute im Tagesverlauf",
+      "was": "Bilder vom Jubiläumsanlass der SBB-Krokodile, Fans und Bahnpersonal posierend vor der Lok"
     }
   ],
   "hinweis": ""
