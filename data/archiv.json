@@ -12600,6 +12600,102 @@
         "neu": true
       },
       "datum": "2026-09-08"
+    },
+    {
+      "id": "2026-09-08-2106-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "6 Milliarden bewilligt, der Rest war auf Englisch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich habe 6 Milliarden für F-35-Kampfjets bewilligt, ohne den Vertrag zu Ende zu lesen. Endlich eine Verwaltung, die einfach mal vertraut. Der Rest war auf Englisch.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-09-08"
+    },
+    {
+      "id": "2026-09-08-2106-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "1'200 Franken Existenzminimum, Thermomix 1'549",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Wer in der Schweiz gepfändet wird, darf 1'200 Franken im Monat behalten. Ein Thermomix kostet 1'549. Beides ist fürs Leben gedacht.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-09-08"
+    },
+    {
+      "id": "2026-09-08-2106-08",
+      "typ": "schnittmenge",
+      "stichwort": "Zwölf Länder verbieten Siedlungswaren, bewegt hat sich das Sortiment",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Zwölf Länder verbieten jetzt Waren aus den israelischen Siedlungen im Westjordanland, nach 59 Jahren Besatzung. Nicht das Völkerrecht hat sich bewegt. Sondern das Sortiment.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-08"
+    },
+    {
+      "id": "2026-09-08-2106-09",
+      "typ": "remix",
+      "stichwort": "Sandskulptur gegen Sandmangel fällt zu einem Haufen zusammen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Auf dem Basler Münsterplatz sollte eine Skulptur zeigen, dass Sand knapp wird. Sie ist vor der Vernissage in sich zusammengefallen. Jetzt liegt dort ein Haufen. Reichlich.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-08"
+    },
+    {
+      "id": "2026-09-08-2106-29",
+      "typ": "remix",
+      "stichwort": "Nagelknipser abgegeben, Bombardier-Jets gestrichen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe am Flughafen einen Nagelknipser abgegeben, 4 Zentimeter, Sicherheitsrisiko. Trump streicht ganzen Bombardier-Jets die Zulassung, weil sie kanadisch sind. Bedenklich war der Knipser.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-09-08"
+    },
+    {
+      "id": "2026-09-08-2106-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti montiert, Pazifik und Nagoya liefern nach",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich habe letzte Woche Umweltminister Rösti in ein Feuer montiert. Gleiche Woche: Rekordwärme im Pazifik, 104,5 Millimeter Regen pro Stunde in Nagoya. Die Montage war der zurückhaltende Teil.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-08"
     }
   ]
 }
