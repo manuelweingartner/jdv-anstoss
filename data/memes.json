@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-08T08:08:01+02:00",
+  "stand": "2026-09-09T08:09:27+02:00",
   "vorschlaege": [
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Mietsenkungen gibt es nur auf Antrag"
+        "Kapitalbezug ist Selbstvertrauen mit Auszahlungsplan"
       ],
-      "warum": "eine These, der niemand widersprechen kann, weil der unveraenderte Referenzzins genau das beweist",
+      "warum": "die These bittet um Widerspruch, den ausgerechnet die Selbstueberschaetzten nicht liefern koennen",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Millionen Abgeltung verhandeln",
-        "Deutschlands Einsprache klaeren",
-        "Nagra"
+        "Fixpreis oeffentlich versprechen",
+        "Den Vertrag zuerst lesen",
+        "Die F-35-Beschaffung"
       ],
-      "warum": "der Kurswechsel in der letzten Sekunde: Geld statt der offenen Frage",
+      "warum": "der Bericht beschreibt genau diesen Schlenker in der letzten Sekunde weg vom naheliegenden Weg",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Volkswagen 1998",
-        "Kauft Bentley, Lamborghini, Bugatti",
-        "Volkswagen 2026",
-        "Streicht 50'000 Stellen"
+        "Robidog 1985",
+        "Ein Kasten, eine Aufgabe",
+        "Kombi-Abfalleimer 2026",
+        "Kann alles, riecht nach allem"
       ],
-      "warum": "behauptetes starkes Frueher gegen klaegliches Heute, exakt die Konzernkurve",
+      "warum": "die Verdraengung des Spezialisten durch das Universalsystem ist wortwoertlich stark gegen klaeglich",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Zahlen ergeben keinen Sinn",
-        "Angebotsorientierte Wachstumsimpulse"
+        "Strom wird ein bisschen billiger",
+        "Tarifentspannung in der Grundversorgung"
       ],
-      "warum": "dieselbe Rechnung einmal nackt und einmal in Wirtschaftsdeutsch, der Euphemismus ist Wellershoffs Punkt",
+      "warum": "die Senkung ist so klein, dass nur die vornehme Verpackung sie gross macht",
       "bild": "vorschlag-4.jpg"
     }
   ]
