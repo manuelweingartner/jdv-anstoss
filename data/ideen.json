@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-09",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "767 Millionen Kinder atmen täglich fremden Rauch ein, sagt die neue Studie. Politisch gefährlich für Kinder ist weiterhin die Bildschirmzeit. Zwei Stunden. Höchstens."
+    },
+    {
+      "id": "2026-09-09-0757-30",
+      "typ": "persönlich",
+      "stichwort": "Totalschaden faehrt, Mensch gilt als gesund",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich fahre seit drei Wochen ein Auto, das offiziell ein Totalschaden ist und einwandfrei läuft. Bei Menschen macht es die Versicherung umgekehrt. Sieht gesund aus. Akte geschlossen."
+    },
+    {
+      "id": "2026-09-09-0757-31",
+      "typ": "persönlich",
+      "stichwort": "Notarzt im Flugzeug, Pensionskasse selber",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Zwei Swiss-Maschinen mussten diese Woche wegen medizinischer Notfälle landen, ich hätte mich nie gemeldet. Beim Pensionskassenkapital will die Hälfte von uns selber ran. Ich auch."
+    },
+    {
+      "id": "2026-09-09-0757-32",
+      "typ": "persönlich",
+      "stichwort": "45 Minuten Suche, 40 Minuten Spiel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich habe 45 Minuten gebraucht, um den Stream der Frauen-Basketball-WM zu finden. Ein Spiel dauert 40. Die Männer finde ich, indem ich den Fernseher anschaue."
     }
   ]
 }
