@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-09",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Trump will New Mexico in New America umbenennen. Endlich packt einer die Migration an der Wurzel: weg mit dem Herkunftsland. Der Bundesstaat ist seit 1912 dabei. Länger als er."
+    },
+    {
+      "id": "2026-09-09-0757-28",
+      "typ": "schnittmenge",
+      "stichwort": "767 Millionen Kinder im Rauch, gefährlich ist die Bildschirmzeit",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "767 Millionen Kinder atmen täglich fremden Rauch ein, sagt die neue Studie. Politisch gefährlich für Kinder ist weiterhin die Bildschirmzeit. Zwei Stunden. Höchstens."
     }
   ]
 }
