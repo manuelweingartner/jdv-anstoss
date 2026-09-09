@@ -1,60 +1,59 @@
 {
-  "stand": "2026-09-08T17:01:04+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-09T08:08:15+02:00",
+  "lauf": "0807",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Nach Brief von König Charles: Harry und Meghan sind überrascht",
-      "was": "Charles in Gala-Uniform mit Ordensspange, daneben Archivbild von Harry und Meghan",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Brief an die eigene Familie gegen Verwaltungsakt an zwei Ex-Angestellte.",
+      "id": "0807-1",
+      "titel": "Bei Fixpreis «brandschwarz angelogen» und «hinters Licht geführt»",
+      "was": "Kommissionsmitglieder vor Mikrofonen, Kampfjet-Grafik und Aktenordner im Bild",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Fixpreis als Wort in der Kommunikation gegen Fixpreis als Betrag auf der Rechnung.",
       "grund": "breit",
-      "raum": "weltweit",
+      "raum": "schweiz",
       "quelle": "20 Minuten",
       "auch_bei": [
         "SRF"
       ],
-      "artikel": "https://www.20min.ch/story/harry-und-meghan-ueberrascht-koenig-charles-stellt-royal-status-schriftlich-klar-103629605",
-      "bild": "https://image.20min.ch/2026/08/20/f41972b1-6acc-4a56-bfb9-eeeb5bbbb8c5.jpg?s=be36ffe73f78081725f1001fd939b951",
-      "zeit": "2026-09-08T14:29+02:00"
+      "artikel": "https://www.20min.ch/story/f-35-fixpreis-debakel-politiker-sprechen-von-sauerei-und-skandal-103629696",
+      "bild": "https://image.20min.ch/2026/09/08/1ef7f9eb-b601-4dc0-a843-0f8e19071b43.jpg?s=a4ac5e3792327376829174456f6145bf",
+      "zeit": "2026-09-08T18:30+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Sachsen-Anhalt live: CDU-Abgeordnete wählen Noch-Ministerpräsident Sven Schulze zum Fraktionschef",
-      "was": "Sven Schulze nimmt nach der Wahlniederlage Applaus und Blumen der Fraktion entgegen",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Applaus im Fraktionssaal gegen Ergebnis an der Urne.",
+      "id": "0807-2",
+      "titel": "Fernsehheldin feiert Jubiläum – Die Biene Maja wird 50 – und noch immer summen alle mit",
+      "was": "Jubiläumsanlass mit Biene-Maja-Kostüm, Zeichentrickbiene neben erwachsenen Fans",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: 50 Jahre gefeierter Fleiss gegen null Lohn, null Rente, null Ferien.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Spiegel",
+      "quelle": "SRF",
       "auch_bei": [
-        "Tagesschau",
         "taz"
       ],
-      "artikel": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef-a-33e47bc8-09a0-40e8-9d4b-c5b06526eba9#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/58898eba-d7d7-43ad-a55a-fbf2ba198779_w520_r2.08_fpx65_fpy27.jpg",
-      "zeit": "2026-09-08T16:37+02:00"
+      "artikel": "https://www.srf.ch/kultur/film-serien/fernsehheldin-feiert-jubilaeum-die-biene-maja-wird-50-und-noch-immer-summen-alle-mit",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf/50364f.jpg",
+      "zeit": "2026-09-09T06:37+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "World Nomad Games 2026 in Kirgistan: Ziegenpolo is coming home",
-      "was": "Reiter in Filzhüten und Tracht beim Ziegenpolo in der kirgisischen Steppe",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Spiel auf dem Pferderücken gegen den Apparat, der sich für den einzig echten Weltsport hält.",
+      "id": "0807-3",
+      "titel": "Kamel-Festival in Oberglatt – Mitten in Zürich grasen Kamele statt Kühe",
+      "was": "Kamele grasen auf Zürcher Wiese, Besucher und Festivalstand daneben",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: das offizielle Heimatbild mit Kuh gegen das Tier, das wirklich auf der Wiese steht.",
       "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "taz",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://taz.de/World-Nomad-Games-2026-in-Kirgistan/!6211344/",
-      "bild": "https://taz.de/picture/8723592/948/imago1082463544h.jpeg",
-      "zeit": "2026-09-08T13:53+02:00"
+      "artikel": "https://www.srf.ch/news/gesellschaft/kamel-festival-in-oberglatt-mitten-in-zuerich-grasen-kamele-statt-kuehe",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/5f1715.jpg",
+      "zeit": "2026-09-08T21:37+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 17:00",
-      "was": "Klingbeil am Rednerpult im Bundestag, Regierungsbank und Aktenordner im Bild"
+      "wann": "heute vormittags",
+      "was": "Nationalrat entscheidet über die Lex Jans: Ratssaal, Bundesratsbank, Redner am Pult"
     },
     {
-      "wann": "heute Abend",
-      "was": "Basketball-WM der Frauen in Berlin, Grössenunterschied am Sprungball"
+      "wann": "heute vormittags",
+      "was": "Generaldebatte im Bundestag: Kanzler am Pult, Gesten Richtung Opposition"
     }
   ],
   "hinweis": ""
