@@ -1,27 +1,27 @@
 {
-  "stand": "2026-09-11T07:32:52+02:00",
-  "lauf": "0731",
+  "stand": "2026-09-11T08:11:08+02:00",
+  "lauf": "0810",
   "fotos": [
     {
-      "id": "0731-1",
-      "titel": "Ewigkeitschemikalie PFAS – Kanton St. Gallen verschärft PFAS-Kurs – Kritik vom Bauernverband",
-      "was": "Bauer im Stall oder auf dem Feld, Behördenbrief in der Hand",
-      "richtung": "Mechanik: wörtlich nehmen, was im Wort Ewigkeitschemikalie nur als Warnung gemeint ist. Achse: Ewigkeit als Zeithorizont des Stoffes gegen einen Amtsbrief mit Frist und Übergangsregelung.",
+      "id": "0810-1",
+      "titel": "Show des Präsidenten – «Trump-a-Palooza» oder: Der republikanische Parteitag in Dallas",
+      "was": "Parteitagsbühne in Dallas mit Konfetti, Fahnen und jubelnden Delegierten",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, der Parteitag wird als Musikfestival geführt. Achse: Partystimmung auf der Bühne gegen den Ernst eines Wahlkampfs um Mehrheiten.",
       "grund": "breit",
-      "raum": "schweiz",
+      "raum": "weltweit",
       "quelle": "SRF",
       "auch_bei": [
-        "taz"
+        "Tagesschau"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/ewigkeitschemikalie-pfas-kanton-st-gallen-verschaerft-pfas-kurs-kritik-vom-bauernverband",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/da18304.jpg",
-      "zeit": "2026-09-10T20:40+02:00"
+      "artikel": "https://www.srf.ch/news/international/usa/show-des-praesidenten-trump-a-palooza-oder-der-republikanische-parteitag-in-dallas",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/441e65.jpg",
+      "zeit": "2026-09-11T05:59+02:00"
     },
     {
-      "id": "0731-2",
+      "id": "0810-2",
       "titel": "Schwesig wirbt als \"Frau gegen Blau\" vor Landtagswahl in Mecklenburg-Vorpommern um Stimmen",
-      "was": "Schwesig im Wahlkampf am Marktstand zwischen Plakaten, Mikrofonen und Publikum",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, Wahlkampf wird zur Farbenlehre erklärt. Achse: eine Kandidatur, die sich über die Farbe der Gegenseite definiert, gegen die Frage nach dem eigenen Inhalt.",
+      "was": "Schwesig im Strassenwahlkampf vor Plakatwand und kleinem Publikum",
+      "richtung": "Mechanik: wörtlich nehmen, was nur symbolisch gemeint ist, nämlich die Farbenlehre des Wahlkampfs. Achse: Politik als Farbwahl gegen Politik als Angebot an die Leute.",
       "grund": "breit",
       "raum": "",
       "quelle": "Tagesschau",
@@ -33,27 +33,27 @@
       "zeit": "2026-09-10T23:12+02:00"
     },
     {
-      "id": "0731-3",
-      "titel": "Show des Präsidenten – «Trump-a-Palooza» oder: Der republikanische Parteitag in Dallas",
-      "was": "Trump auf grosser Bühne, Konfetti, Anhänger mit Kappen und Schildern",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, Parteitag an Festivalmaßstäben. Achse: Bühnenproduktion und Fanjubel gegen die Behauptung, hier werde ein Programm beschlossen.",
+      "id": "0810-3",
+      "titel": "Präsident Silvan Wildhaber – Zwischen Windeln und Textilien – der neue Mann von Economiesuisse",
+      "was": "Neuer Economiesuisse-Präsident posiert zwischen Windelpaletten und Textilrollen in seiner Firma",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, Firmensortiment gegen Verbandsmacht. Achse: das sehr konkrete Produkt gegen den sehr abstrakten Anspruch, die Schweizer Wirtschaft zu lenken.",
       "grund": "memetauglich",
-      "raum": "weltweit",
+      "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/usa/show-des-praesidenten-trump-a-palooza-oder-der-republikanische-parteitag-in-dallas",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/441e65.jpg",
-      "zeit": "2026-09-11T05:59+02:00"
+      "artikel": "https://www.srf.ch/news/wirtschaft/praesident-silvan-wildhaber-zwischen-windeln-und-textilien-der-neue-mann-von-economiesuisse",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/9b7827.jpg",
+      "zeit": "2026-09-11T05:44+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute im Tagesverlauf",
-      "was": "Bühnenbilder vom republikanischen Parteitag in Dallas, Trump vor jubelndem Publikum"
+      "wann": "heute abends, US-Abendprogramm",
+      "was": "Bühnenauftritt am Republikaner-Parteitag in Dallas, Rednerpult, Fahnen, Delegierte mit Hüten und Schildern"
     },
     {
-      "wann": "heute",
-      "was": "Amtsübernahme bei Economiesuisse, Handschlag und Posieren des neuen Präsidenten Silvan Wildhaber"
+      "wann": "heute tagsüber",
+      "was": "Gruppen- und Podiumsfoto der europäischen Raumfahrtkonferenz, Würdenträger vor Raketenmodell oder Raumfahrt-Logowand"
     }
   ],
   "hinweis": ""
