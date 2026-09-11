@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-09T08:09:27+02:00",
+  "stand": "2026-09-11T08:12:08+02:00",
   "vorschlaege": [
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Kapitalbezug ist Selbstvertrauen mit Auszahlungsplan"
+        "Wohnungsnot",
+        "Angespannte Leerstandsdynamik unter 1 Prozent"
       ],
-      "warum": "die These bittet um Widerspruch, den ausgerechnet die Selbstueberschaetzten nicht liefern koennen",
+      "warum": "weil die Statistik den Mangel vornehmer benennt, als er sich anfühlt",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Fixpreis oeffentlich versprechen",
-        "Den Vertrag zuerst lesen",
-        "Die F-35-Beschaffung"
+        "Noch ein Monitoringbericht",
+        "Wasserstrategie mit Fristen",
+        "Der Bund"
       ],
-      "warum": "der Bericht beschreibt genau diesen Schlenker in der letzten Sekunde weg vom naheliegenden Weg",
+      "warum": "weil die Akademie den geraden Weg zeigt und Bern in letzter Sekunde abbiegt",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Robidog 1985",
-        "Ein Kasten, eine Aufgabe",
-        "Kombi-Abfalleimer 2026",
-        "Kann alles, riecht nach allem"
+        "Deutsche Ingenieurskunst",
+        "Abfahrt Minute genau",
+        "Sechs der zehn schlechtesten Bahnhöfe",
+        "Ersatzverkehr ab Gleis 12"
       ],
-      "warum": "die Verdraengung des Spezialisten durch das Universalsystem ist wortwoertlich stark gegen klaeglich",
+      "warum": "weil der Mythos Pünktlichkeit gegen das heutige Ranking antritt",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "Strom wird ein bisschen billiger",
-        "Tarifentspannung in der Grundversorgung"
+        "Zwei Franken Benzin sind historisch billig"
       ],
-      "warum": "die Senkung ist so klein, dass nur die vornehme Verpackung sie gross macht",
+      "warum": "weil die These nur stimmt und trotzdem jeden an der Zapfsäule provoziert",
       "bild": "vorschlag-4.jpg"
     }
   ]
