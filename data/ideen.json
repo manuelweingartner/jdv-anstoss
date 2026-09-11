@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-11",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,26 @@
       "haltbarkeit": "tagesgebunden",
       "text": "Ich habe heute für zwei Franken pro Liter getankt und gelesen, das sei historisch günstig. Am selben Tag bleibt der Referenzzins unverändert, und meine Miete ist historisch was genau?",
       "format": 18
+    },
+    {
+      "id": "2026-09-11-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Stimmrechtsalter 16, Enttäuschung erst ab 18",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich bin dagegen, dass in Graubünden 16-Jährige abstimmen dürfen. In dem Alter glaubt man noch, dass es etwas bringt. Die Enttäuschung gibt es bei uns ab 18."
+    },
+    {
+      "id": "2026-09-11-0757-04",
+      "typ": "schnittmenge",
+      "stichwort": "Kapitalbezug bis 86, danach vorher sterben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Wir raten Ihnen zum Kapitalbezug statt zur Rente. Gerechnet haben wir bis 86. Werden Sie älter, empfehlen wir Ihnen, vorher zu sterben."
     },
     {
       "id": "2026-09-11-0757-08",
