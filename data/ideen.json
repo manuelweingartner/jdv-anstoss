@@ -1,8 +1,23 @@
 {
   "datum": "2026-09-11",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-09-11-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Stimmrechtsalter 16, Enttäuschung erst ab 18",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich bin dagegen, dass in Graubünden 16-Jährige abstimmen dürfen. In dem Alter glaubt man noch, dass es etwas bringt. Die Enttäuschung gibt es bei uns ab 18.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": false
+      }
+    },
     {
       "id": "2026-09-11-0757-04",
       "typ": "schnittmenge",
@@ -49,16 +64,16 @@
       }
     },
     {
-      "id": "2026-09-11-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kapitalbezug: niemand kennt Ihr Sterbedatum besser",
+      "id": "2026-09-11-0757-11",
+      "typ": "persönlich",
+      "stichwort": "Allergietablette, getestet hat sie jemand anders",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Endlich dürfen Sie mit 65 selbst wählen: monatliche Rente oder alles auf einmal. Als Ihre Pensionskasse empfehlen wir alles auf einmal. Niemand kennt Ihr Sterbedatum so gut wie Sie.",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich schlucke seit 14 Jahren jeden Frühling dieselbe Allergietablette (echtes Detail einsetzen). Neue Medikamente werden inzwischen vor allem in Asien getestet. Die Nebenwirkungen hatte dann schon jemand anders. Billiger.",
       "jury": {
-        "neu": true,
+        "neu": false,
         "witz": true,
         "anker": true
       }
