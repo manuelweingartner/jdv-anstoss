@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-11",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 10,
       "text": "Ich habe sieben Monate auf die Bewilligung für ein Gartenhaus gewartet. Vor Nicolas Cages Villa in Malibu hat der Hurrikan die halbe Einfahrt weggefressen. Bewilligt wurde nichts. Ging trotzdem."
+    },
+    {
+      "id": "2026-09-11-0757-30",
+      "typ": "persönlich",
+      "stichwort": "iPhone vier Jahre alt, Swiss Life faltet Stellen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich habe mein iPhone vier Jahre nicht ersetzt, jetzt stellt Apple das faltbare vor. Am selben Tag faltet Swiss Life bei steigendem Gewinn jede zwanzigste Stelle weg. Ohne Keynote."
     }
   ]
 }
