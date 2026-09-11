@@ -1,59 +1,57 @@
 {
-  "stand": "2026-09-11T08:11:08+02:00",
-  "lauf": "0810",
+  "stand": "2026-09-11T17:01:06+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0810-1",
-      "titel": "Show des Präsidenten – «Trump-a-Palooza» oder: Der republikanische Parteitag in Dallas",
-      "was": "Parteitagsbühne in Dallas mit Konfetti, Fahnen und jubelnden Delegierten",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, der Parteitag wird als Musikfestival geführt. Achse: Partystimmung auf der Bühne gegen den Ernst eines Wahlkampfs um Mehrheiten.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "SRF",
-      "auch_bei": [
-        "Tagesschau"
-      ],
-      "artikel": "https://www.srf.ch/news/international/usa/show-des-praesidenten-trump-a-palooza-oder-der-republikanische-parteitag-in-dallas",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/441e65.jpg",
-      "zeit": "2026-09-11T05:59+02:00"
-    },
-    {
-      "id": "0810-2",
-      "titel": "Schwesig wirbt als \"Frau gegen Blau\" vor Landtagswahl in Mecklenburg-Vorpommern um Stimmen",
-      "was": "Schwesig im Strassenwahlkampf vor Plakatwand und kleinem Publikum",
-      "richtung": "Mechanik: wörtlich nehmen, was nur symbolisch gemeint ist, nämlich die Farbenlehre des Wahlkampfs. Achse: Politik als Farbwahl gegen Politik als Angebot an die Leute.",
+      "id": "1700-1",
+      "titel": "Royales Mode-Statement – Lady Dianas «Rachekleid» wird in New York versteigert",
+      "was": "Schwarzes Abendkleid von Prinzessin Diana auf einem Auktionspodest in New York",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: privater Trotz von damals gegen sechsstelliges Anlageobjekt von heute.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Tagesschau",
+      "quelle": "SRF",
       "auch_bei": [
-        "taz"
+        "NZZ"
       ],
-      "artikel": "https://www.tagesschau.de/tagesthemen/video-1646990.html",
-      "bild": "https://images.tagesschau.de/image/3e753209-c49f-4f1f-a040-81641deb75ab/AAABoI0qWMo/AAABnSSvrFg/16x9-big/sendungsbild-1794520.jpg?width=1280",
-      "zeit": "2026-09-10T23:12+02:00"
+      "artikel": "https://www.srf.ch/news/gesellschaft/royales-mode-statement-lady-dianas-rachekleid-wird-in-new-york-versteigert",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/90cf7e.jpg",
+      "zeit": "2026-09-11T12:13+02:00"
     },
     {
-      "id": "0810-3",
-      "titel": "Präsident Silvan Wildhaber – Zwischen Windeln und Textilien – der neue Mann von Economiesuisse",
-      "was": "Neuer Economiesuisse-Präsident posiert zwischen Windelpaletten und Textilrollen in seiner Firma",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, Firmensortiment gegen Verbandsmacht. Achse: das sehr konkrete Produkt gegen den sehr abstrakten Anspruch, die Schweizer Wirtschaft zu lenken.",
+      "id": "1700-2",
+      "titel": "Brics-Gipfel in Delhi: Nicht westlich, aber nicht gegen den Westen",
+      "was": "Staatschefs beim Gruppenfoto des Brics-Gipfels in Delhi, Xi und Modi nebeneinander",
+      "richtung": "Mechanik: wörtlich nehmen, was nur symbolisch gemeint ist. Achse: Handschlag fürs Familienfoto gegen Interessen, die in vier Richtungen zeigen.",
+      "grund": "memetauglich",
+      "raum": "weltweit",
+      "quelle": "taz",
+      "auch_bei": [],
+      "artikel": "https://taz.de/Brics-Gipfel-in-Delhi/!6212507/",
+      "bild": "https://taz.de/picture/8733804/948/42047276.jpeg",
+      "zeit": "2026-09-11T13:26+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Weniger Fleisch, mehr Gemüse – Wie die Ernährungsinitiative die Landwirtschaft verändern würde",
+      "was": "Politikerinnen und Bauern zwischen Gemüsekisten auf einem Schweizer Feld",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Selbstversorgungsgrad im Abstimmungskampf gegen den realen Einkaufswagen im Grenzladen.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/wirtschaft/praesident-silvan-wildhaber-zwischen-windeln-und-textilien-der-neue-mann-von-economiesuisse",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/9b7827.jpg",
-      "zeit": "2026-09-11T05:44+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/weniger-fleisch-mehr-gemuese-wie-die-ernaehrungsinitiative-die-landwirtschaft-veraendern-wuerde",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/aa3d3a8.jpg",
+      "zeit": "2026-09-11T14:06+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute abends, US-Abendprogramm",
-      "was": "Bühnenauftritt am Republikaner-Parteitag in Dallas, Rednerpult, Fahnen, Delegierte mit Hüten und Schildern"
+      "wann": "heute abends",
+      "was": "Gruppenfoto und Handschlagserie der Brics-Staatschefs in Delhi"
     },
     {
-      "wann": "heute tagsüber",
-      "was": "Gruppen- und Podiumsfoto der europäischen Raumfahrtkonferenz, Würdenträger vor Raketenmodell oder Raumfahrt-Logowand"
+      "wann": "heute ab 17:00",
+      "was": "Inszenierte Athletenpräsentation vor der Ultimate Championship in Budapest"
     }
   ],
   "hinweis": ""
