@@ -4,26 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-11-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwei Franken Benzin, Referenzzins unverändert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Ich habe heute für zwei Franken pro Liter getankt und gelesen, das sei historisch günstig. Am selben Tag bleibt der Referenzzins unverändert, und meine Miete ist historisch was genau?",
-      "format": 18
-    },
-    {
-      "id": "2026-09-11-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Stimmrechtsalter 16, Enttäuschung erst ab 18",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich bin dagegen, dass in Graubünden 16-Jährige abstimmen dürfen. In dem Alter glaubt man noch, dass es etwas bringt. Die Enttäuschung gibt es bei uns ab 18."
-    },
-    {
       "id": "2026-09-11-0757-04",
       "typ": "schnittmenge",
       "stichwort": "Kapitalbezug bis 86, danach vorher sterben",
@@ -31,17 +11,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Wir raten Ihnen zum Kapitalbezug statt zur Rente. Gerechnet haben wir bis 86. Werden Sie älter, empfehlen wir Ihnen, vorher zu sterben."
-    },
-    {
-      "id": "2026-09-11-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Säule 3a gegen Rheinmetall",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich zahle jedes Jahr das Maximum in die Säule 3a und bekomme 1,2 Prozent. Wer 2022 dasselbe Geld in Rheinmetall gesteckt hat, hat es verfünfzehnfacht. Vorsorgen lohnt sich."
+      "text": "Wir raten Ihnen zum Kapitalbezug statt zur Rente. Gerechnet haben wir bis 86. Werden Sie älter, empfehlen wir Ihnen, vorher zu sterben.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-09-11-0757-06",
@@ -51,17 +26,72 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ich musste einen halben Tag freinehmen für einen Schalter, der von acht bis halb zwölf offen ist. Wer das nicht kann, hat eben kein Anliegen. Rein organisatorisch."
+      "text": "Ich musste einen halben Tag freinehmen für einen Schalter, der von acht bis halb zwölf offen ist. Wer das nicht kann, hat eben kein Anliegen. Rein organisatorisch.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-09-11-0757-07",
+      "id": "2026-09-11-0757-09",
+      "typ": "remix",
+      "stichwort": "Sieben Monate Gartenhaus, Cages Einfahrt weg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich habe sieben Monate auf die Bewilligung für ein Gartenhaus gewartet. Vor Nicolas Cages Villa in Malibu hat der Hurrikan die halbe Einfahrt weggefressen. Bewilligt wurde nichts. Ging trotzdem.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-09-11-0757-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Rentenalter gleich, Lebenserwartung nicht",
+      "stichwort": "Kapitalbezug: niemand kennt Ihr Sterbedatum besser",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Das Rentenalter gilt für alle gleich, die Lebenserwartung nicht: Männer aus dem reichsten Fünftel leben viereinhalb Jahre länger. Die günstigste Rentenreform war schon immer ein anstrengender Beruf."
+      "text": "Endlich dürfen Sie mit 65 selbst wählen: monatliche Rente oder alles auf einmal. Als Ihre Pensionskasse empfehlen wir alles auf einmal. Niemand kennt Ihr Sterbedatum so gut wie Sie.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-09-11-0757-29",
+      "typ": "remix",
+      "stichwort": "Zwei Krater: Novartis und Malibu",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich habe an einem Tag zwei Krater gesehen: 24 Milliarden Börsenwert bei Novartis und Nicolas Cages Einfahrt in Malibu. Den einen filmt eine Drohne, den anderen erklärt ein Analyst.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-09-11-0757-38",
+      "typ": "persönlich",
+      "stichwort": "Fünf alte Posts, Federers Ring",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 5,
+      "text": "Ich poste meine letzten fünf Posts gerade als Bilder nochmal. Federer bekommt diese Woche seinen Ring der Hall of Fame. Wir leben beide vom Archiv. Er mit Ring.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
