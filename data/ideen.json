@@ -34,34 +34,34 @@
       "text": "Wir raten Ihnen zum Kapitalbezug statt zur Rente. Gerechnet haben wir bis 86. Werden Sie älter, empfehlen wir Ihnen, vorher zu sterben."
     },
     {
-      "id": "2026-09-11-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "24 Milliarden Boersenwert, Toedi-Gletscher zwei Jahre",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Novartis verliert an einem Tag 24 Milliarden Franken, Eilmeldung auf allen Kanälen. Gleiche Woche: der Tödi-Gletscher ist in zwei Jahren weg. Verloren ist nur, was jemandem gehörte."
-    },
-    {
-      "id": "2026-09-11-0757-09",
-      "typ": "remix",
-      "stichwort": "Sieben Monate Gartenhaus, Cages Einfahrt weg",
+      "id": "2026-09-11-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Säule 3a gegen Rheinmetall",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich habe sieben Monate auf die Bewilligung für ein Gartenhaus gewartet. Vor Nicolas Cages Villa in Malibu hat der Hurrikan die halbe Einfahrt weggefressen. Bewilligt wurde nichts. Ging trotzdem."
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich zahle jedes Jahr das Maximum in die Säule 3a und bekomme 1,2 Prozent. Wer 2022 dasselbe Geld in Rheinmetall gesteckt hat, hat es verfünfzehnfacht. Vorsorgen lohnt sich."
     },
     {
-      "id": "2026-09-11-0757-30",
-      "typ": "persönlich",
-      "stichwort": "iPhone vier Jahre alt, Swiss Life faltet Stellen",
+      "id": "2026-09-11-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schalter bis halb zwölf",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich habe mein iPhone vier Jahre nicht ersetzt, jetzt stellt Apple das faltbare vor. Am selben Tag faltet Swiss Life bei steigendem Gewinn jede zwanzigste Stelle weg. Ohne Keynote."
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich musste einen halben Tag freinehmen für einen Schalter, der von acht bis halb zwölf offen ist. Wer das nicht kann, hat eben kein Anliegen. Rein organisatorisch."
+    },
+    {
+      "id": "2026-09-11-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rentenalter gleich, Lebenserwartung nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Das Rentenalter gilt für alle gleich, die Lebenserwartung nicht: Männer aus dem reichsten Fünftel leben viereinhalb Jahre länger. Die günstigste Rentenreform war schon immer ein anstrengender Beruf."
     }
   ]
 }
