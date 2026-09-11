@@ -1,97 +1,17 @@
 {
-  "datum": "2026-09-09",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-09-11",
+  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-09-0757-03",
+      "id": "2026-09-11-0757-01",
       "typ": "politisch-aktuell",
-      "stichwort": "65 Milliarden in der Schublade, Akku verklebt",
+      "stichwort": "Zwei Franken Benzin, Referenzzins unverändert",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich bin Ihr Elektrogerätehersteller und freue mich: In Ihren Schubladen liegen Metalle für 65 Milliarden Euro. Sie besitzen ein Rohstofflager. Deshalb ist der Akku fest verklebt. Damit Sie es behalten.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-09-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zins versteuert, Kapitalgewinn privat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich versteuere jeden Franken Zins auf meinem Sparkonto, 60 im Jahr. Aktiengewinne sind in der Schweiz steuerfrei, weil sie privat sind. Wie mein Sparkonto.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-09-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "44 Prozent Vermoegen, Belastungsgrenze",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Das reichste Prozent der Schweiz besitzt 44 Prozent des Vermögens. Als Wirtschaftsverband warnen wir vor Neiddebatten: bei 44 Prozent ist unsere Belastungsgrenze erreicht.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-09-0757-09",
-      "typ": "remix",
-      "stichwort": "Totalschaden fährt 120, nur der Wert ist tot",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 2,
-      "text": "Ich fahre ein Auto, das nach dem Hagel offiziell ein Totalschaden ist. Es fährt 120, bremst, heizt. Nur der Wert ist gestorben. Sonst geht es ihm gut.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-09-0757-11",
-      "typ": "persönlich",
-      "stichwort": "20 Minuten Stream-Suche, Transfer kam von selbst",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ich habe 20 Minuten gebraucht, um den Stream der Basketball-WM der Frauen zu finden. Dass Moritz Jenz zu YB wechselt, hat mir mein Handy von selbst gemeldet. Mit Ton.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-09-0757-18",
-      "typ": "persönlich",
-      "stichwort": "Instagram-Grafiken um elf, Strombranche plant Tarife",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Ich lasse nachts um elf Instagram-Grafiken rendern, weil ich dann Zeit habe. Die Strombranche plant deswegen neue Tarife. Nicht die Speicher fehlen. Meine Uhrzeit ist falsch.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
+      "text": "Ich habe heute für zwei Franken pro Liter getankt und gelesen, das sei historisch günstig. Am selben Tag bleibt der Referenzzins unverändert, und meine Miete ist historisch was genau?",
+      "format": 18
     }
   ]
 }
