@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-11",
-  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,26 @@
       "haltbarkeit": "tagesgebunden",
       "text": "Ich habe heute für zwei Franken pro Liter getankt und gelesen, das sei historisch günstig. Am selben Tag bleibt der Referenzzins unverändert, und meine Miete ist historisch was genau?",
       "format": 18
+    },
+    {
+      "id": "2026-09-11-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "24 Milliarden Boersenwert, Toedi-Gletscher zwei Jahre",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Novartis verliert an einem Tag 24 Milliarden Franken, Eilmeldung auf allen Kanälen. Gleiche Woche: der Tödi-Gletscher ist in zwei Jahren weg. Verloren ist nur, was jemandem gehörte."
+    },
+    {
+      "id": "2026-09-11-0757-09",
+      "typ": "remix",
+      "stichwort": "Sieben Monate Gartenhaus, Cages Einfahrt weg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Ich habe sieben Monate auf die Bewilligung für ein Gartenhaus gewartet. Vor Nicolas Cages Villa in Malibu hat der Hurrikan die halbe Einfahrt weggefressen. Bewilligt wurde nichts. Ging trotzdem."
     }
   ]
 }
