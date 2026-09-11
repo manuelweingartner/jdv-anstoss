@@ -1,55 +1,59 @@
 {
-  "stand": "2026-09-09T17:01:04+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-11T07:32:52+02:00",
+  "lauf": "0731",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Basketball-WM der Frauen: Deshalb spielt Deutschland gerade so stark",
-      "was": "Deutsche Basketballerinnen jubeln umarmt auf dem WM-Parkett nach dem Viertelfinaleinzug",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: die bescheidene Selbsteinschätzung des Teams gegen die Zahl auf der Anzeigetafel.",
+      "id": "0731-1",
+      "titel": "Ewigkeitschemikalie PFAS – Kanton St. Gallen verschärft PFAS-Kurs – Kritik vom Bauernverband",
+      "was": "Bauer im Stall oder auf dem Feld, Behördenbrief in der Hand",
+      "richtung": "Mechanik: wörtlich nehmen, was im Wort Ewigkeitschemikalie nur als Warnung gemeint ist. Achse: Ewigkeit als Zeithorizont des Stoffes gegen einen Amtsbrief mit Frist und Übergangsregelung.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [
         "taz"
       ],
-      "artikel": "https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deshalb-spielt-deutschland-gerade-so-stark-a-f9410f29-0933-45ed-8ef9-a1cf01fefed5#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/d72292cc-4e76-4dc5-90fc-d6aec1608c02_w520_r2.08_fpx57.33_fpy49.99.jpg",
-      "zeit": "2026-09-09T16:35+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/ewigkeitschemikalie-pfas-kanton-st-gallen-verschaerft-pfas-kurs-kritik-vom-bauernverband",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/da18304.jpg",
+      "zeit": "2026-09-10T20:40+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Gigabitstrategie – 730 Millionen: Bundesrat will schnelleres Internet auf dem Land",
-      "was": "Bundesrat Rösti an der Medienkonferenz vor Ausbaukarte, Kabel oder Rednerpult",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: 730 Millionen für die Randregionen gegen das, was auf dem letzten Kilometer wirklich ankommt.",
+      "id": "0731-2",
+      "titel": "Schwesig wirbt als \"Frau gegen Blau\" vor Landtagswahl in Mecklenburg-Vorpommern um Stimmen",
+      "was": "Schwesig im Wahlkampf am Marktstand zwischen Plakaten, Mikrofonen und Publikum",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, Wahlkampf wird zur Farbenlehre erklärt. Achse: eine Kandidatur, die sich über die Farbe der Gegenseite definiert, gegen die Frage nach dem eigenen Inhalt.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "NZZ"
+        "taz"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/gigabitstrategie-730-millionen-bundesrat-will-schnelleres-internet-auf-dem-land",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/404efd.jpg",
-      "zeit": "2026-09-09T16:32+02:00"
+      "artikel": "https://www.tagesschau.de/tagesthemen/video-1646990.html",
+      "bild": "https://images.tagesschau.de/image/3e753209-c49f-4f1f-a040-81641deb75ab/AAABoI0qWMo/AAABnSSvrFg/16x9-big/sendungsbild-1794520.jpg?width=1280",
+      "zeit": "2026-09-10T23:12+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "«Königin der Lokomotiven» – Die grossen SBB-Krokodile feiern ihren 100. Geburtstag",
-      "was": "Eisenbahnfans mit Kameras umdrängen die grüne Krokodil-Lokomotive am Jubiläumsanlass",
-      "richtung": "Mechanik: wörtlich nehmen, was nur als Ehrentitel gemeint ist. Achse: die gefeierte Zuverlässigkeit von 1925 gegen den Fahrplan von heute.",
+      "id": "0731-3",
+      "titel": "Show des Präsidenten – «Trump-a-Palooza» oder: Der republikanische Parteitag in Dallas",
+      "was": "Trump auf grosser Bühne, Konfetti, Anhänger mit Kappen und Schildern",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, Parteitag an Festivalmaßstäben. Achse: Bühnenproduktion und Fanjubel gegen die Behauptung, hier werde ein Programm beschlossen.",
       "grund": "memetauglich",
-      "raum": "schweiz",
+      "raum": "weltweit",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/koenigin-der-lokomotiven-die-grossen-sbb-krokodile-feiern-ihren-100-geburtstag",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/2e21ff1.jpg",
-      "zeit": "2026-09-09T16:03+02:00"
+      "artikel": "https://www.srf.ch/news/international/usa/show-des-praesidenten-trump-a-palooza-oder-der-republikanische-parteitag-in-dallas",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/441e65.jpg",
+      "zeit": "2026-09-11T05:59+02:00"
     }
   ],
   "erwartet": [
     {
       "wann": "heute im Tagesverlauf",
-      "was": "Bilder vom Jubiläumsanlass der SBB-Krokodile, Fans und Bahnpersonal posierend vor der Lok"
+      "was": "Bühnenbilder vom republikanischen Parteitag in Dallas, Trump vor jubelndem Publikum"
+    },
+    {
+      "wann": "heute",
+      "was": "Amtsübernahme bei Economiesuisse, Handschlag und Posieren des neuen Präsidenten Silvan Wildhaber"
     }
   ],
   "hinweis": ""
