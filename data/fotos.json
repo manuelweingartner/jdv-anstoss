@@ -1,57 +1,59 @@
 {
-  "stand": "2026-09-12T08:06:17+02:00",
-  "lauf": "0805",
+  "stand": "2026-09-12T17:00:33+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0805-1",
-      "titel": "BRICS-Gipfel im Zeichen globaler Ungewissheiten",
-      "was": "Putin, Xi und Modi beim Gruppenbild des BRICS-Gipfels in Neu-Delhi",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Familienfoto als das lesen, was es organisatorisch ist. Achse: demonstrative Geschlossenheit im Bild gegen Uneinigkeit in fast jedem Sachthema.",
+      "id": "1700-1",
+      "titel": "Gipfel in Neu-Delhi – Brics-Gruppe fordert «maximale Mässigung» im Nahost-Konflikt",
+      "was": "Staatschefs der Brics-Gruppe beim Gruppenfoto in Neu-Delhi",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: maximale Mässigung als Forderung an andere gegen die eigene Aufstellung fürs Foto.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Tagesschau",
-      "auch_bei": [],
-      "artikel": "https://www.tagesschau.de/ausland/asien/brics-gipfel-indien-100.html",
-      "bild": "https://images.tagesschau.de/image/777971b8-cbaa-4426-bbf6-ad045a333cbb/AAABoJAFSRk/AAABnSSvrFg/16x9-big/sicherheitskraefte-banner-104.jpg?width=1280",
-      "zeit": "2026-09-12T07:18+02:00"
+      "quelle": "SRF",
+      "auch_bei": [
+        "Tagesschau"
+      ],
+      "artikel": "https://www.srf.ch/news/international/gipfel-in-neu-delhi-brics-gruppe-fordert-maximale-maessigung-im-nahost-konflikt",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/8a3177.jpg",
+      "zeit": "2026-09-12T16:33+02:00"
     },
     {
-      "id": "0805-2",
-      "titel": "Frauen im Landtag von Sachsen-Anhalt: Es lebe die neue alte Männerwelt",
-      "was": "Neu gewählter Landtag von Sachsen-Anhalt, Plenarsaal fast nur mit Männern",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist, also Volksvertretung als exakte Abbildung verstehen. Achse: Anspruch, das ganze Land zu vertreten, gegen ein Saalfoto, das die halbe Bevölkerung ",
+      "id": "1700-2",
+      "titel": "Trump in Irland: US-Präsident besucht seinen eigenen Golfplatz",
+      "was": "Trump auf seinem eigenen Golfplatz in Irland, Staatsbesuch",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Staatsbesuch als Bezeichnung gegen Betriebsbesichtigung als Inhalt.",
       "grund": "breit",
-      "raum": "",
+      "raum": "weltweit",
       "quelle": "taz",
       "auch_bei": [
         "Spiegel"
       ],
-      "artikel": "https://taz.de/Frauen-im-Landtag-von-Sachsen-Anhalt/!6208156/",
-      "bild": "https://taz.de/picture/8733876/948/42048030.jpeg",
-      "zeit": "2026-09-11T19:34+02:00"
+      "artikel": "https://taz.de/Trump-in-Irland/!6212679/",
+      "bild": "https://taz.de/picture/8735117/948/42056472.jpeg",
+      "zeit": "2026-09-12T13:32+02:00"
     },
     {
-      "id": "0805-3",
-      "titel": "Seilzieh-WM in Südafrika – Diese Seilzieher sind Weltspitze – und fast alle aus Engelberg",
-      "was": "Seilzieher aus Engelberg im Zug am Seil, Absätze im Boden, WM-Dress",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, Weltspitze gegen Einwohnerzahl. Achse: Titel Weltmeisterschaft gegen ein Innerschweizer Dorf, das die halbe Königsklasse stellt.",
+      "id": "1700-3",
+      "titel": "Die Schweizerinnen sind die Besten des Rests: Julie Derron und Alanis Siffert gewinnen an der Ironman-70.3-Weltmeisterschaft Silber und Bronze",
+      "was": "Schweizer Triathletinnen auf dem Podest mit Silber und Bronze",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Beste des Rests als Trostformel gegen den einen Platz, der zählt.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/seilzieh-wm-in-suedafrika-diese-seilzieher-sind-weltspitze-und-fast-alle-aus-engelberg",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/7dd05d4.jpg",
-      "zeit": "2026-09-11T21:31+02:00"
+      "artikel": "https://www.nzz.ch/sport/weitere-sportarten/die-schweizerinnen-sind-die-besten-des-rests-julie-derron-und-alanis-siffert-gewinnen-an-der-ironman-703-weltmeisterschaft-silber-und-bronze-ld.10022849",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/12/aace60ae-9e77-4ea4-a083-fa3155cfe4e3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1974,1974,x894,y133",
+      "zeit": "2026-09-12T14:13+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute im Tagesverlauf",
-      "was": "Familienfoto und Handschlagreihe der Staatschefs am BRICS-Gipfel in Neu-Delhi"
+      "wann": "heute ab 16:00",
+      "was": "Abschlussbild vom Brics-Gipfel in Neu-Delhi, Handschlag oder Familienfoto der Delegationen"
     },
     {
-      "wann": "heute abends",
-      "was": "Jubel- und Verzweiflungsbilder vom Halbfinal der Basketball-WM der Frauen in Berlin"
+      "wann": "heute, laufender Besuchstag",
+      "was": "Trump in Irland vor Golfplatz-Kulisse, zwischen Empfangsprotokoll und Privatgelände"
     }
   ],
   "hinweis": ""
