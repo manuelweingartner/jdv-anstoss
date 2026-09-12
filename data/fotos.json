@@ -1,57 +1,57 @@
 {
-  "stand": "2026-09-11T17:01:06+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-12T08:06:17+02:00",
+  "lauf": "0805",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Royales Mode-Statement – Lady Dianas «Rachekleid» wird in New York versteigert",
-      "was": "Schwarzes Abendkleid von Prinzessin Diana auf einem Auktionspodest in New York",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: privater Trotz von damals gegen sechsstelliges Anlageobjekt von heute.",
+      "id": "0805-1",
+      "titel": "BRICS-Gipfel im Zeichen globaler Ungewissheiten",
+      "was": "Putin, Xi und Modi beim Gruppenbild des BRICS-Gipfels in Neu-Delhi",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Familienfoto als das lesen, was es organisatorisch ist. Achse: demonstrative Geschlossenheit im Bild gegen Uneinigkeit in fast jedem Sachthema.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "Tagesschau",
+      "auch_bei": [],
+      "artikel": "https://www.tagesschau.de/ausland/asien/brics-gipfel-indien-100.html",
+      "bild": "https://images.tagesschau.de/image/777971b8-cbaa-4426-bbf6-ad045a333cbb/AAABoJAFSRk/AAABnSSvrFg/16x9-big/sicherheitskraefte-banner-104.jpg?width=1280",
+      "zeit": "2026-09-12T07:18+02:00"
+    },
+    {
+      "id": "0805-2",
+      "titel": "Frauen im Landtag von Sachsen-Anhalt: Es lebe die neue alte Männerwelt",
+      "was": "Neu gewählter Landtag von Sachsen-Anhalt, Plenarsaal fast nur mit Männern",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist, also Volksvertretung als exakte Abbildung verstehen. Achse: Anspruch, das ganze Land zu vertreten, gegen ein Saalfoto, das die halbe Bevölkerung ",
       "grund": "breit",
       "raum": "",
-      "quelle": "SRF",
-      "auch_bei": [
-        "NZZ"
-      ],
-      "artikel": "https://www.srf.ch/news/gesellschaft/royales-mode-statement-lady-dianas-rachekleid-wird-in-new-york-versteigert",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/90cf7e.jpg",
-      "zeit": "2026-09-11T12:13+02:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Brics-Gipfel in Delhi: Nicht westlich, aber nicht gegen den Westen",
-      "was": "Staatschefs beim Gruppenfoto des Brics-Gipfels in Delhi, Xi und Modi nebeneinander",
-      "richtung": "Mechanik: wörtlich nehmen, was nur symbolisch gemeint ist. Achse: Handschlag fürs Familienfoto gegen Interessen, die in vier Richtungen zeigen.",
-      "grund": "memetauglich",
-      "raum": "weltweit",
       "quelle": "taz",
-      "auch_bei": [],
-      "artikel": "https://taz.de/Brics-Gipfel-in-Delhi/!6212507/",
-      "bild": "https://taz.de/picture/8733804/948/42047276.jpeg",
-      "zeit": "2026-09-11T13:26+02:00"
+      "auch_bei": [
+        "Spiegel"
+      ],
+      "artikel": "https://taz.de/Frauen-im-Landtag-von-Sachsen-Anhalt/!6208156/",
+      "bild": "https://taz.de/picture/8733876/948/42048030.jpeg",
+      "zeit": "2026-09-11T19:34+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Weniger Fleisch, mehr Gemüse – Wie die Ernährungsinitiative die Landwirtschaft verändern würde",
-      "was": "Politikerinnen und Bauern zwischen Gemüsekisten auf einem Schweizer Feld",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Selbstversorgungsgrad im Abstimmungskampf gegen den realen Einkaufswagen im Grenzladen.",
+      "id": "0805-3",
+      "titel": "Seilzieh-WM in Südafrika – Diese Seilzieher sind Weltspitze – und fast alle aus Engelberg",
+      "was": "Seilzieher aus Engelberg im Zug am Seil, Absätze im Boden, WM-Dress",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, Weltspitze gegen Einwohnerzahl. Achse: Titel Weltmeisterschaft gegen ein Innerschweizer Dorf, das die halbe Königsklasse stellt.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/weniger-fleisch-mehr-gemuese-wie-die-ernaehrungsinitiative-die-landwirtschaft-veraendern-wuerde",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/aa3d3a8.jpg",
-      "zeit": "2026-09-11T14:06+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/seilzieh-wm-in-suedafrika-diese-seilzieher-sind-weltspitze-und-fast-alle-aus-engelberg",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/7dd05d4.jpg",
+      "zeit": "2026-09-11T21:31+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute abends",
-      "was": "Gruppenfoto und Handschlagserie der Brics-Staatschefs in Delhi"
+      "wann": "heute im Tagesverlauf",
+      "was": "Familienfoto und Handschlagreihe der Staatschefs am BRICS-Gipfel in Neu-Delhi"
     },
     {
-      "wann": "heute ab 17:00",
-      "was": "Inszenierte Athletenpräsentation vor der Ultimate Championship in Budapest"
+      "wann": "heute abends",
+      "was": "Jubel- und Verzweiflungsbilder vom Halbfinal der Basketball-WM der Frauen in Berlin"
     }
   ],
   "hinweis": ""
