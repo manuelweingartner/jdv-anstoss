@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-12",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-12-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "iPhone gefaltet, Frühstück weggefaltet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Apple faltet diese Woche das iPhone, damit zwei Bildschirme in eine Tasche passen. Gleiche Woche, Lausanne: Studierende falten das Frühstück weg. Auch platzsparend."
+    },
+    {
+      "id": "2026-09-12-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "25 Jahre Sicherheitskontrolle",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich stehe seit 25 Jahren in Sicherheitskontrollen, weil 19 Männer Flugzeuge entführt haben. Der Krieg dagegen hat fast eine Million Menschen getötet. Die Schlange ist geblieben."
+    },
     {
       "id": "2026-09-12-0757-23",
       "typ": "politisch-aktuell",
