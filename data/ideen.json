@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-12",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -24,6 +24,36 @@
       "text": "Ich stehe seit 25 Jahren in Sicherheitskontrollen, weil 19 Männer Flugzeuge entführt haben. Der Krieg dagegen hat fast eine Million Menschen getötet. Die Schlange ist geblieben."
     },
     {
+      "id": "2026-09-12-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "40 Franken Busse, zwanzig Sekunden Lohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich habe 40 Franken Busse bezahlt, weil ich zwanzig Minuten zu lang parkiert habe. Wer 16 Millionen im Jahr verdient, hat sie in zwanzig Sekunden wieder drin. Gratis geparkt."
+    },
+    {
+      "id": "2026-09-12-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Straflose Selbstanzeige gibt es beim Ladendiebstahl nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Straflose Selbstanzeige heisst: Wer Millionen am Fiskus vorbeischiebt, darf das einmal im Leben folgenlos beichten. Beim Ladendiebstahl von 20 Franken gibt es das nicht. Zu wenig gestohlen."
+    },
+    {
+      "id": "2026-09-12-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pensionskasse waechst an der Ruestung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Am zuverlaessigsten waechst in meiner Pensionskasse die Ruestung, Rheinmetall hat sich seit 2022 verzehnfacht. Mein Ruhestand ist gesichert. Finanziert von Leuten, die keinen erleben."
+    },
+    {
       "id": "2026-09-12-0757-23",
       "typ": "politisch-aktuell",
       "stichwort": "2,5 Prozent, wir prüfen es intern",
@@ -32,16 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich finde es richtig, dass der Gewerkschaftsbund ab 2027 zweieinhalb Prozent mehr Lohn fordert. Wir prüfen das jetzt sorgfältig. Bis 2029. Pro Standort. Ergebnisoffen."
-    },
-    {
-      "id": "2026-09-12-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwei Jahre für Imamoglu, sauber terminiert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Gute Nachricht aus Ankara: Erdogans Gegenkandidat Imamoglu bekommt nur zwei Jahre Haft und ein politisches Betätigungsverbot. Zwei Jahre sind bei uns nichts. Ausser es sind genau die zwei vor einer Wahl."
     }
   ]
 }
