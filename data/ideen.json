@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-12-0352-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "2,5 Prozent ab 2027, 1900 Franken ab sofort",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "2,5 Prozent mehr Lohn fordert der Gewerkschaftsbund, ab 2027. Am selben Tag kostet die kleine Saisonnierwohnung in Zermatt 1900 Franken. Eine der beiden Zahlen musste niemand fordern."
-    },
-    {
       "id": "2026-09-12-0352-02",
       "typ": "politisch-aktuell",
       "stichwort": "Elf Jahre Jemen, eine Tankfuellung",
@@ -21,7 +11,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 14,
-      "text": "Ich verfolge den Krieg im Jemen seit elf Jahren. Genauer gesagt seit gestern, als die Huthi die Meerenge sperrten und das Benzin knapp werden könnte. Elf Jahre. Eine Tankfüllung."
+      "text": "Ich verfolge den Krieg im Jemen seit elf Jahren. Genauer gesagt seit gestern, als die Huthi die Meerenge sperrten und das Benzin knapp werden könnte. Elf Jahre. Eine Tankfüllung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-12-0352-03",
@@ -31,27 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Wir haben in Hongkong drei Menschen zu fünf bis sieben Jahren verurteilt, weil sie an den 4. Juni 1989 erinnert haben. Gute Nachricht: Vergessen bleibt straffrei. Vorerst."
-    },
-    {
-      "id": "2026-09-12-0352-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwei Franken der Liter, Rechnung an die Enkel",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich verkaufe den Liter Benzin für zwei Franken, real günstiger als 1985. Die Rechnung für den Rest kriegen Ihre Enkel. Zinslos. Wir sind ja keine Bank."
-    },
-    {
-      "id": "2026-09-12-0352-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Briefkasten in Zug, 30 Firmen, ich krieg keinen Zweitschluessel",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich habe drei Wochen auf einen zweiten Briefkastenschluessel gewartet. An manchen Adressen in Zug hängen 30 Firmen am selben Kasten. Die kriegen sofort einen. Alle 30."
+      "text": "Wir haben in Hongkong drei Menschen zu fünf bis sieben Jahren verurteilt, weil sie an den 4. Juni 1989 erinnert haben. Gute Nachricht: Vergessen bleibt straffrei. Vorerst.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-12-0352-06",
@@ -61,7 +41,57 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Ich arbeite in einem Land mit einer der längsten Arbeitswochen Europas, 42 Stunden. Bei jedem anderen Rekord hätten wir längst eine Schokoladentafel mit Sonderedition."
+      "text": "Ich arbeite in einem Land mit einer der längsten Arbeitswochen Europas, 42 Stunden. Bei jedem anderen Rekord hätten wir längst eine Schokoladentafel mit Sonderedition.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-12-0352-10",
+      "typ": "persönlich",
+      "stichwort": "Basketball-WM, Kommentar wie Naturdoku",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich schaue die Frauen-Basketball-WM, und der Kommentator erklärt zum dritten Mal, was ein Foul ist. Er glaubt offenbar, ich hätte aus Versehen eingeschaltet. Wie bei einer Naturdoku.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-12-0352-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hongkong: fünf bis sieben Jahre fürs Erinnern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Hongkong sperrt drei Menschen fünf bis sieben Jahre ein, weil sie an Tiananmen erinnert haben. Als Behörde finde ich das richtig: wir erinnern uns auch. Jeden Tag. Ohne Kerzen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-12-0352-31",
+      "typ": "persönlich",
+      "stichwort": "Kaffeemaschine geschenkt, 300 Stück zurückverlangt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Ich habe meiner Frau eine Jura-Kaffeemaschine geschenkt und trinke seither selber daraus. In Singapur hat einer nach der Trennung Geschenke für 300'000 Franken zurückverlangt. Das sind 300 Kaffeemaschinen. Anfängerfehler.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
