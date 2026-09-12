@@ -1,6 +1,27 @@
 {
   "datum": "2026-09-12",
-  "hinweis": "0 von 6 da, der Rest lädt noch.",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
   "fertig": false,
-  "ideen": []
+  "ideen": [
+    {
+      "id": "2026-09-12-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "2,5 Prozent, wir prüfen es intern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es richtig, dass der Gewerkschaftsbund ab 2027 zweieinhalb Prozent mehr Lohn fordert. Wir prüfen das jetzt sorgfältig. Bis 2029. Pro Standort. Ergebnisoffen."
+    },
+    {
+      "id": "2026-09-12-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwei Jahre für Imamoglu, sauber terminiert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Gute Nachricht aus Ankara: Erdogans Gegenkandidat Imamoglu bekommt nur zwei Jahre Haft und ein politisches Betätigungsverbot. Zwei Jahre sind bei uns nichts. Ausser es sind genau die zwei vor einer Wahl."
+    }
+  ]
 }
