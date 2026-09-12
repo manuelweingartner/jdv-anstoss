@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-12",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-12-0352-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fünf bis sieben Jahre fürs Erinnern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Wir haben in Hongkong drei Menschen zu fünf bis sieben Jahren verurteilt, weil sie an den 4. Juni 1989 erinnert haben. Gute Nachricht: Vergessen bleibt straffrei. Vorerst."
+    },
+    {
+      "id": "2026-09-12-0352-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwei Franken der Liter, Rechnung an die Enkel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich verkaufe den Liter Benzin für zwei Franken, real günstiger als 1985. Die Rechnung für den Rest kriegen Ihre Enkel. Zinslos. Wir sind ja keine Bank."
+    },
     {
       "id": "2026-09-12-0352-05",
       "typ": "politisch-aktuell",
