@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-11T08:12:08+02:00",
+  "stand": "2026-09-12T08:07:09+02:00",
   "vorschlaege": [
-    {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
-      "zeilen": [
-        "Wohnungsnot",
-        "Angespannte Leerstandsdynamik unter 1 Prozent"
-      ],
-      "warum": "weil die Statistik den Mangel vornehmer benennt, als er sich anfühlt",
-      "bild": "vorschlag-1.jpg"
-    },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Noch ein Monitoringbericht",
-        "Wasserstrategie mit Fristen",
-        "Der Bund"
+        "Fussball-WM kaufen",
+        "LIV Golf weiterfinanzieren",
+        "Saudi-Arabien"
       ],
-      "warum": "weil die Akademie den geraden Weg zeigt und Bern in letzter Sekunde abbiegt",
+      "warum": "weil der Stecker beim Golf genau der Kurswechsel in letzter Sekunde ist, den die Abzweigung zeigt",
+      "bild": "vorschlag-1.jpg"
+    },
+    {
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
+      "zeilen": [
+        "Studierende sparen beim Essen",
+        "Optimiertes Ausgabenverhalten der Jugend"
+      ],
+      "warum": "weil die Lausanner Umfrage genau von der vornehmen Verpackung lebt, die aus Verzicht Eigenverantwortung macht",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Deutsche Ingenieurskunst",
-        "Abfahrt Minute genau",
-        "Sechs der zehn schlechtesten Bahnhöfe",
-        "Ersatzverkehr ab Gleis 12"
+        "Deutsche Bahn 1995",
+        "Puenktlichkeit als Exportschlager",
+        "Deutsche Bahnhoefe 2026",
+        "Sechs der zehn schlechtesten"
       ],
-      "warum": "weil der Mythos Pünktlichkeit gegen das heutige Ranking antritt",
+      "warum": "weil der Bahnhofsreport den behaupteten deutschen Ingenieursstolz direkt gegen das heutige Ranking stellt",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Zwei Franken Benzin sind historisch billig"
+        "Unter 1 Prozent Leerwohnungen ist kein Schicksal"
       ],
-      "warum": "weil die These nur stimmt und trotzdem jeden an der Zapfsäule provoziert",
+      "warum": "weil die Leerwohnungsziffer als These allein steht und der einzig moegliche Widerspruch von denen kaeme, die sie verursacht haben",
       "bild": "vorschlag-4.jpg"
     }
   ]
