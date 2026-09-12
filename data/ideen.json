@@ -1,8 +1,23 @@
 {
   "datum": "2026-09-12",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-09-12-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "25 Jahre Sicherheitskontrolle",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich stehe seit 25 Jahren in Sicherheitskontrollen, weil 19 Männer Flugzeuge entführt haben. Der Krieg dagegen hat fast eine Million Menschen getötet. Die Schlange ist geblieben.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
+    },
     {
       "id": "2026-09-12-0757-04",
       "typ": "politisch-aktuell",
@@ -57,36 +72,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Erstmals seit 15 Jahren stehen unter 1 Prozent der Schweizer Wohnungen leer. Gleiche Woche: in Nevada steht ein legales Bordell zum Verkauf. Ich prüfe gerade den Arbeitsweg. Und die Zimmerzahl.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-12-0757-18",
-      "typ": "persönlich",
-      "stichwort": "Ich recycle Posts, Ringier den Sonntagsblick",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Ich recycle gerade meine fünf letzten Posts als Bilder, Ringier recycelt den Sonntagsblick zum Blick fürs Wochenende. Eingespart wurde nicht die Zeitung. Sondern der Sonntag. Der war zu teuer.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-12-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "25 Jahre 9/11, 100 Milliliter Shampoo",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "25 Jahre nach 9/11 zeige ich am Flughafen immer noch mein 100-Milliliter-Shampoo vor. Zwei Kriege und ein Folterlager sind in derselben Zeit unkontrolliert durchs Gate. Mit Begleitschutz.",
       "jury": {
         "anker": true,
         "witz": true,
