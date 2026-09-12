@@ -1,112 +1,37 @@
 {
-  "datum": "2026-09-11",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-09-12",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-11-0757-03",
+      "id": "2026-09-12-0352-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Stimmrechtsalter 16, Enttäuschung erst ab 18",
+      "stichwort": "Briefkasten in Zug, 30 Firmen, ich krieg keinen Zweitschluessel",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich bin dagegen, dass in Graubünden 16-Jährige abstimmen dürfen. In dem Alter glaubt man noch, dass es etwas bringt. Die Enttäuschung gibt es bei uns ab 18.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": false
-      }
-    },
-    {
-      "id": "2026-09-11-0757-04",
-      "typ": "schnittmenge",
-      "stichwort": "Kapitalbezug bis 86, danach vorher sterben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Wir raten Ihnen zum Kapitalbezug statt zur Rente. Gerechnet haben wir bis 86. Werden Sie älter, empfehlen wir Ihnen, vorher zu sterben.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
+      "format": 19,
+      "text": "Ich habe drei Wochen auf einen zweiten Briefkastenschluessel gewartet. An manchen Adressen in Zug hängen 30 Firmen am selben Kasten. Die kriegen sofort einen. Alle 30."
     },
     {
-      "id": "2026-09-11-0757-06",
+      "id": "2026-09-12-0352-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Schalter bis halb zwölf",
+      "stichwort": "42 Stunden pro Woche, Rekord den niemand feiert",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich musste einen halben Tag freinehmen für einen Schalter, der von acht bis halb zwölf offen ist. Wer das nicht kann, hat eben kein Anliegen. Rein organisatorisch.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
+      "format": "frei",
+      "text": "Ich arbeite in einem Land mit einer der längsten Arbeitswochen Europas, 42 Stunden. Bei jedem anderen Rekord hätten wir längst eine Schokoladentafel mit Sonderedition."
     },
     {
-      "id": "2026-09-11-0757-09",
-      "typ": "remix",
-      "stichwort": "Sieben Monate Gartenhaus, Cages Einfahrt weg",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Ich habe sieben Monate auf die Bewilligung für ein Gartenhaus gewartet. Vor Nicolas Cages Villa in Malibu hat der Hurrikan die halbe Einfahrt weggefressen. Bewilligt wurde nichts. Ging trotzdem.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-11-0757-11",
-      "typ": "persönlich",
-      "stichwort": "Allergietablette, getestet hat sie jemand anders",
+      "id": "2026-09-12-0352-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Care-Arbeit ist keine Liebe, sondern Erbverzicht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich schlucke seit 14 Jahren jeden Frühling dieselbe Allergietablette (echtes Detail einsetzen). Neue Medikamente werden inzwischen vor allem in Asien getestet. Die Nebenwirkungen hatte dann schon jemand anders. Billiger.",
-      "jury": {
-        "neu": false,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-11-0757-29",
-      "typ": "remix",
-      "stichwort": "Zwei Krater: Novartis und Malibu",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich habe an einem Tag zwei Krater gesehen: 24 Milliarden Börsenwert bei Novartis und Nicolas Cages Einfahrt in Malibu. Den einen filmt eine Drohne, den anderen erklärt ein Analyst.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-11-0757-38",
-      "typ": "persönlich",
-      "stichwort": "Fünf alte Posts, Federers Ring",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 5,
-      "text": "Ich poste meine letzten fünf Posts gerade als Bilder nochmal. Federer bekommt diese Woche seinen Ring der Hall of Fame. Wir leben beide vom Archiv. Er mit Ring.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Wer die Eltern pflegt, tut das nicht aus Liebe. Sondern gratis. Am Ende erbt trotzdem der Bruder mit, der zweimal im Jahr anruft. Steuerfrei. Zu gleichen Teilen."
     }
   ]
 }
