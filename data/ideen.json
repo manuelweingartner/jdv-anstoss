@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-12",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-12-0352-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "2,5 Prozent ab 2027, 1900 Franken ab sofort",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "2,5 Prozent mehr Lohn fordert der Gewerkschaftsbund, ab 2027. Am selben Tag kostet die kleine Saisonnierwohnung in Zermatt 1900 Franken. Eine der beiden Zahlen musste niemand fordern."
+    },
+    {
+      "id": "2026-09-12-0352-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Elf Jahre Jemen, eine Tankfuellung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Ich verfolge den Krieg im Jemen seit elf Jahren. Genauer gesagt seit gestern, als die Huthi die Meerenge sperrten und das Benzin knapp werden könnte. Elf Jahre. Eine Tankfüllung."
+    },
     {
       "id": "2026-09-12-0352-03",
       "typ": "politisch-aktuell",
@@ -42,16 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Ich arbeite in einem Land mit einer der längsten Arbeitswochen Europas, 42 Stunden. Bei jedem anderen Rekord hätten wir längst eine Schokoladentafel mit Sonderedition."
-    },
-    {
-      "id": "2026-09-12-0352-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Care-Arbeit ist keine Liebe, sondern Erbverzicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Wer die Eltern pflegt, tut das nicht aus Liebe. Sondern gratis. Am Ende erbt trotzdem der Bruder mit, der zweimal im Jahr anruft. Steuerfrei. Zu gleichen Teilen."
     }
   ]
 }
