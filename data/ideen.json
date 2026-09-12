@@ -4,44 +4,19 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-12-0757-01",
+      "id": "2026-09-12-0757-04",
       "typ": "politisch-aktuell",
-      "stichwort": "iPhone gefaltet, Frühstück weggefaltet",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Apple faltet diese Woche das iPhone, damit zwei Bildschirme in eine Tasche passen. Gleiche Woche, Lausanne: Studierende falten das Frühstück weg. Auch platzsparend."
-    },
-    {
-      "id": "2026-09-12-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "25 Jahre Sicherheitskontrolle",
+      "stichwort": "Imamoglu verurteilt, die Wahl bleibt frei",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich stehe seit 25 Jahren in Sicherheitskontrollen, weil 19 Männer Flugzeuge entführt haben. Der Krieg dagegen hat fast eine Million Menschen getötet. Die Schlange ist geblieben."
-    },
-    {
-      "id": "2026-09-12-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "40 Franken Busse, zwanzig Sekunden Lohn",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich habe 40 Franken Busse bezahlt, weil ich zwanzig Minuten zu lang parkiert habe. Wer 16 Millionen im Jahr verdient, hat sie in zwanzig Sekunden wieder drin. Gratis geparkt."
-    },
-    {
-      "id": "2026-09-12-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Straflose Selbstanzeige gibt es beim Ladendiebstahl nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Straflose Selbstanzeige heisst: Wer Millionen am Fiskus vorbeischiebt, darf das einmal im Leben folgenlos beichten. Beim Ladendiebstahl von 20 Franken gibt es das nicht. Zu wenig gestohlen."
+      "format": 13,
+      "text": "Als türkisches Gericht haben wir Erdogans Herausforderer Imamoglu zu zwei Jahren verurteilt und ihm Politik verboten. Die nächste Wahl bleibt selbstverständlich frei. Von ihm.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-12-0757-07",
@@ -51,7 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Am zuverlaessigsten waechst in meiner Pensionskasse die Ruestung, Rheinmetall hat sich seit 2022 verzehnfacht. Mein Ruhestand ist gesichert. Finanziert von Leuten, die keinen erleben."
+      "text": "Am zuverlaessigsten waechst in meiner Pensionskasse die Ruestung, Rheinmetall hat sich seit 2022 verzehnfacht. Mein Ruhestand ist gesichert. Finanziert von Leuten, die keinen erleben.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-12-0757-08",
@@ -61,7 +41,57 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 14,
-      "text": "Mobilezone hat einen Kadermann wegen eines Sexismus-Videos entlassen und holt ihn jetzt zurück, er habe es aufgearbeitet. Gelernt hat er nicht, wie man Frauen behandelt. Sondern wer gerade filmt."
+      "text": "Mobilezone hat einen Kadermann wegen eines Sexismus-Videos entlassen und holt ihn jetzt zurück, er habe es aufgearbeitet. Gelernt hat er nicht, wie man Frauen behandelt. Sondern wer gerade filmt.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-12-0757-10",
+      "typ": "persönlich",
+      "stichwort": "Unter 1 Prozent leer, Bordell zu verkaufen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Erstmals seit 15 Jahren stehen unter 1 Prozent der Schweizer Wohnungen leer. Gleiche Woche: in Nevada steht ein legales Bordell zum Verkauf. Ich prüfe gerade den Arbeitsweg. Und die Zimmerzahl.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-12-0757-18",
+      "typ": "persönlich",
+      "stichwort": "Ich recycle Posts, Ringier den Sonntagsblick",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Ich recycle gerade meine fünf letzten Posts als Bilder, Ringier recycelt den Sonntagsblick zum Blick fürs Wochenende. Eingespart wurde nicht die Zeitung. Sondern der Sonntag. Der war zu teuer.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-12-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "25 Jahre 9/11, 100 Milliliter Shampoo",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "25 Jahre nach 9/11 zeige ich am Flughafen immer noch mein 100-Milliliter-Shampoo vor. Zwei Kriege und ein Folterlager sind in derselben Zeit unkontrolliert durchs Gate. Mit Begleitschutz.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
