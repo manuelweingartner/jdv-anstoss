@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-13",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-13-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "LIV Golf pleite, WM 2034 bleibt",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Saudi-Arabien lässt seine Golfliga pleitegehen und steckt das Geld in die Fussball-WM 2034. Menschenrechte waren nie das Problem. Die Einschaltquoten schon."
+    },
+    {
+      "id": "2026-09-13-0757-09",
+      "typ": "remix",
+      "stichwort": "2 Franken Benzin, Gletscher inbegriffen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe heute 2 Franken für einen Liter Benzin bezahlt. Real ist das billiger als in den 80er-Jahren. Damals war der Gletscher im Preis inbegriffen."
+    },
     {
       "id": "2026-09-13-0757-23",
       "typ": "politisch-aktuell",
