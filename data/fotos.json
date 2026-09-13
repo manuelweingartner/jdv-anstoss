@@ -1,59 +1,62 @@
 {
-  "stand": "2026-09-12T17:00:33+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-13T08:05:17+02:00",
+  "lauf": "0804",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Gipfel in Neu-Delhi – Brics-Gruppe fordert «maximale Mässigung» im Nahost-Konflikt",
-      "was": "Staatschefs der Brics-Gruppe beim Gruppenfoto in Neu-Delhi",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: maximale Mässigung als Forderung an andere gegen die eigene Aufstellung fürs Foto.",
+      "id": "0804-1",
+      "titel": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
+      "was": "Trump im Golfwagen auf dem eigenen Platz, Protestschilder am Zaun",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, der Staatsbesuch wird zur Geschaeftsreise im eigenen Betrieb. Achse: Amtsauftrag gegen Privatbilanz.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "SRF",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "Tagesschau"
+        "NZZ"
       ],
-      "artikel": "https://www.srf.ch/news/international/gipfel-in-neu-delhi-brics-gruppe-fordert-maximale-maessigung-im-nahost-konflikt",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/8a3177.jpg",
-      "zeit": "2026-09-12T16:33+02:00"
+      "artikel": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
+      "bild": "https://images.tagesschau.de/image/dfad6621-0420-409f-89a2-ef5809c01562/AAABoJbDAFU/AAABnSSvrFg/16x9-big/trump-golfplatz-100.jpg?width=1280",
+      "zeit": "2026-09-12T19:55+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Trump in Irland: US-Präsident besucht seinen eigenen Golfplatz",
-      "was": "Trump auf seinem eigenen Golfplatz in Irland, Staatsbesuch",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Staatsbesuch als Bezeichnung gegen Betriebsbesichtigung als Inhalt.",
+      "id": "0804-2",
+      "titel": "BRICS-Gipfel in Neu-Delhi: Betonung der Einigkeit trotz unterschiedlicher Positionen",
+      "was": "Brics-Staatschefs nebeneinander beim Gruppenfoto auf der Buehne in Neu-Delhi",
+      "richtung": "Mechanik: woertlich nehmen, was symbolisch gemeint ist, die Reihe im Bild als tatsaechliche Einigkeit lesen. Achse: geschlossene Front im Foto gegen unvereinbare Positionen im Papier.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "taz",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "Spiegel"
+        "SRF",
+        "taz"
       ],
-      "artikel": "https://taz.de/Trump-in-Irland/!6212679/",
-      "bild": "https://taz.de/picture/8735117/948/42056472.jpeg",
-      "zeit": "2026-09-12T13:32+02:00"
+      "artikel": "https://www.tagesschau.de/tagesthemen/video-1648094.html",
+      "bild": "https://images.tagesschau.de/image/d2c98d55-11e3-48aa-a328-bdae64739df1/AAABoJeGPWw/AAABnSSvrFg/16x9-big/sendungsbild-1795454.jpg?width=1280",
+      "zeit": "2026-09-12T23:30+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Die Schweizerinnen sind die Besten des Rests: Julie Derron und Alanis Siffert gewinnen an der Ironman-70.3-Weltmeisterschaft Silber und Bronze",
-      "was": "Schweizer Triathletinnen auf dem Podest mit Silber und Bronze",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Beste des Rests als Trostformel gegen den einen Platz, der zählt.",
+      "id": "0804-3",
+      "titel": "Dem Ultimo wird es nicht anders ergehen als dem Harald: Er soll einmal ausgestopft an Samuel Gigers Wand hängen",
+      "was": "Schwinger Samuel Giger neben dem lebenden Siegermuni im Saegemehl",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten, der Muni kommentiert seine Rolle als Trophaee. Achse: Ehrung fuer den Sieger gegen Zukunftsaussicht fuer den Preis.",
       "grund": "memetauglich",
-      "raum": "schweiz",
+      "raum": "",
       "quelle": "NZZ",
-      "auch_bei": [],
-      "artikel": "https://www.nzz.ch/sport/weitere-sportarten/die-schweizerinnen-sind-die-besten-des-rests-julie-derron-und-alanis-siffert-gewinnen-an-der-ironman-703-weltmeisterschaft-silber-und-bronze-ld.10022849",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/12/aace60ae-9e77-4ea4-a083-fa3155cfe4e3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1974,1974,x894,y133",
-      "zeit": "2026-09-12T14:13+02:00"
+      "auch_bei": [
+        "SRF"
+      ],
+      "artikel": "https://www.nzz.ch/sport/weitere-sportarten/dem-ultimo-wird-es-nicht-anders-ergehen-als-dem-harald-er-soll-einmal-ausgestopft-an-samuel-gigers-wand-haengen-ld.10023249",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/10/2cc9a5c1-606c-4d54-8ab1-6528c515e0fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3327,3327,x832,y0",
+      "zeit": "2026-09-13T05:30+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 16:00",
-      "was": "Abschlussbild vom Brics-Gipfel in Neu-Delhi, Handschlag oder Familienfoto der Delegationen"
+      "wann": "heute ab 20:00",
+      "was": "Wahlabend Schweden: Parteispitzen vor jubelnden oder erstarrten Anhaengern"
     },
     {
-      "wann": "heute, laufender Besuchstag",
-      "was": "Trump in Irland vor Golfplatz-Kulisse, zwischen Empfangsprotokoll und Privatgelände"
+      "wann": "heute tagsueber",
+      "was": "Brics-Gipfel Tag zwei in Neu-Delhi: Handschlag- und Familienfoto-Choreografie"
     }
   ],
   "hinweis": ""
