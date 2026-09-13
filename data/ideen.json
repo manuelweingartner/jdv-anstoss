@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-13",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -64,21 +64,6 @@
       }
     },
     {
-      "id": "2026-09-13-0757-09",
-      "typ": "remix",
-      "stichwort": "2 Franken Benzin, Gletscher inbegriffen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe heute 2 Franken für einen Liter Benzin bezahlt. Real ist das billiger als in den 80er-Jahren. Damals war der Gletscher im Preis inbegriffen.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
       "id": "2026-09-13-0757-12",
       "typ": "persönlich",
       "stichwort": "2,5 Prozent Leitzins, fünf Königinnen",
@@ -91,6 +76,21 @@
         "neu": true,
         "anker": true,
         "witz": true
+      }
+    },
+    {
+      "id": "2026-09-13-0757-18",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm gegen Erdöl-Verband",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Seit sieben Jahren lasse ich die Abwaschmaschine im ECO-Programm laufen, drei Stunden pro Gang. Albert Rösti, unser Energieminister, war vorher Präsident des Erdöl-Verbands. Wir tun beide, was wir können. Ich mehr.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
       }
     }
   ]
