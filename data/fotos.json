@@ -1,62 +1,59 @@
 {
-  "stand": "2026-09-13T08:05:17+02:00",
-  "lauf": "0804",
+  "stand": "2026-09-13T17:01:02+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0804-1",
-      "titel": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
-      "was": "Trump im Golfwagen auf dem eigenen Platz, Protestschilder am Zaun",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, der Staatsbesuch wird zur Geschaeftsreise im eigenen Betrieb. Achse: Amtsauftrag gegen Privatbilanz.",
+      "id": "1700-1",
+      "titel": "Brics-Gipfel in Indien: Staaten mahnen zu »maximale Zurückhaltung« im Irankrieg",
+      "was": "Staatschefs nebeneinander beim Familienfoto zum Abschluss des Brics Gipfels in Delhi",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: demonstrative Einigkeit in der Fotoreihe gegen die gegensätzlichen Interessen, die jeder mitgebracht hat.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Tagesschau",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "NZZ"
-      ],
-      "artikel": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
-      "bild": "https://images.tagesschau.de/image/dfad6621-0420-409f-89a2-ef5809c01562/AAABoJbDAFU/AAABnSSvrFg/16x9-big/trump-golfplatz-100.jpg?width=1280",
-      "zeit": "2026-09-12T19:55+02:00"
-    },
-    {
-      "id": "0804-2",
-      "titel": "BRICS-Gipfel in Neu-Delhi: Betonung der Einigkeit trotz unterschiedlicher Positionen",
-      "was": "Brics-Staatschefs nebeneinander beim Gruppenfoto auf der Buehne in Neu-Delhi",
-      "richtung": "Mechanik: woertlich nehmen, was symbolisch gemeint ist, die Reihe im Bild als tatsaechliche Einigkeit lesen. Achse: geschlossene Front im Foto gegen unvereinbare Positionen im Papier.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Tagesschau",
-      "auch_bei": [
-        "SRF",
+        "NZZ",
+        "Tagesschau",
         "taz"
       ],
-      "artikel": "https://www.tagesschau.de/tagesthemen/video-1648094.html",
-      "bild": "https://images.tagesschau.de/image/d2c98d55-11e3-48aa-a328-bdae64739df1/AAABoJeGPWw/AAABnSSvrFg/16x9-big/sendungsbild-1795454.jpg?width=1280",
-      "zeit": "2026-09-12T23:30+02:00"
+      "artikel": "https://www.spiegel.de/ausland/brics-gipfel-in-indien-staaten-mahnen-zu-maximale-zurueckhaltung-im-irankrieg-a-1bce2118-945e-404b-9aca-870139fbca09#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/3473858e-5701-4d5d-a7bd-3af9d5987a4e_w520_r2.08_fpx55.34_fpy45.jpg",
+      "zeit": "2026-09-13T12:44+02:00"
     },
     {
-      "id": "0804-3",
-      "titel": "Dem Ultimo wird es nicht anders ergehen als dem Harald: Er soll einmal ausgestopft an Samuel Gigers Wand hängen",
-      "was": "Schwinger Samuel Giger neben dem lebenden Siegermuni im Saegemehl",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten, der Muni kommentiert seine Rolle als Trophaee. Achse: Ehrung fuer den Sieger gegen Zukunftsaussicht fuer den Preis.",
-      "grund": "memetauglich",
+      "id": "1700-2",
+      "titel": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
+      "was": "Schwedische Parteispitzen am Wahltag an der Urne, Anhänger im Hintergrund",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: das Tabu als feierlich beschworene Grenze gegen das Tabu als blosse Koalitionsarithmetik.",
+      "grund": "breit",
       "raum": "",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "SRF"
-      ],
-      "artikel": "https://www.nzz.ch/sport/weitere-sportarten/dem-ultimo-wird-es-nicht-anders-ergehen-als-dem-harald-er-soll-einmal-ausgestopft-an-samuel-gigers-wand-haengen-ld.10023249",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/10/2cc9a5c1-606c-4d54-8ab1-6528c515e0fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3327,3327,x832,y0",
-      "zeit": "2026-09-13T05:30+02:00"
+      "quelle": "Tagesschau",
+      "auch_bei": [],
+      "artikel": "https://www.tagesschau.de/ausland/europa/schweden-wahl-130.html",
+      "bild": "https://images.tagesschau.de/image/b5723a42-615f-4cfb-8ed9-b5845c7f3692/AAABoJkgSdo/AAABnSSvrFg/16x9-big/jimmie-akesson-104.jpg?width=1280",
+      "zeit": "2026-09-13T06:57+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Küchenchef Gstaad Palace – «Ich bin ‹gottefroh›» – Kult-Koch Franz Faeh geht in Pension",
+      "was": "Küchenchef in weisser Kochjacke am Herd der Luxushotelküche in Gstaad",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: fünfzig Jahre Gäste bekochen gegen den ersten Abend, an dem niemand mehr eine Bestellung aufgibt.",
+      "grund": "memetauglich",
+      "raum": "schweiz",
+      "quelle": "SRF",
+      "auch_bei": [],
+      "artikel": "https://www.srf.ch/news/schweiz/kuechenchef-gstaad-palace-ich-bin-gottefroh-kult-koch-franz-faeh-geht-in-pension",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/2e9475.jpg",
+      "zeit": "2026-09-13T07:24+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 20:00",
-      "was": "Wahlabend Schweden: Parteispitzen vor jubelnden oder erstarrten Anhaengern"
+      "wann": "heute nachmittag",
+      "was": "Abschlussbilder und Handschlagchoreografie vom Ende des Brics Gipfels in Delhi"
     },
     {
-      "wann": "heute tagsueber",
-      "was": "Brics-Gipfel Tag zwei in Neu-Delhi: Handschlag- und Familienfoto-Choreografie"
+      "wann": "heute ab 20:00",
+      "was": "Jubel und Ernüchterung in den schwedischen Parteizentralen nach Schliessung der Wahllokale"
     }
   ],
   "hinweis": ""
