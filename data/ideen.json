@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-13",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Ich habe heute 2 Franken für einen Liter Benzin bezahlt. Real ist das billiger als in den 80er-Jahren. Damals war der Gletscher im Preis inbegriffen."
+    },
+    {
+      "id": "2026-09-13-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Referenzzins-Entscheid, Mietsenkung nächste Woche ganz sicher",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ich darf laut dem heutigen Referenzzins-Entscheid eine Mietsenkung verlangen. Zwischen mir und dem Geld steht nur der Mann, der im Frühling meinen Mietvertrag verlängert. Nächste Woche. Ganz sicher."
+    },
+    {
+      "id": "2026-09-13-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trumps Elternhaus anonym gekauft, Expertin rät zum Hacken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Trumps Elternhaus ging für zwei Millionen an einen anonymen Käufer. Am selben Tag rät eine Cybersicherheitsexpertin, jeder solle ein Hacker sein. Der Name steht bis Montag im Netz. Spätestens."
     },
     {
       "id": "2026-09-13-0757-23",
