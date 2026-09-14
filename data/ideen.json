@@ -4,6 +4,16 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-09-14-2221-09",
+      "typ": "remix",
+      "stichwort": "40 Minuten Filmsuche, Menschheit ausgelöscht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 2,
+      "text": "Ich habe gestern 40 Minuten gebraucht, um im Streaming einen Film zu finden. Vorgeschlagen hat ihn dieselbe Technologie, die laut Fachleuten bald die Menschheit auslöscht. Die findet uns nie."
+    },
+    {
       "id": "2026-09-14-2221-21",
       "typ": "politisch-aktuell",
       "stichwort": "Fünf Monate leerer Tank, dann der Ansturm",
@@ -52,16 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Ich muss meine Ferien sieben Wochen im Voraus beantragen und begründen, warum ausgerechnet im Oktober. Wer von Dividenden lebt, hat 52 Wochen Ferien und niemanden, der nachfragt."
-    },
-    {
-      "id": "2026-09-14-2221-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Care-Arbeit: 9,8 Milliarden Stunden unbezahlt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "In der Schweiz werden pro Jahr über 9 Milliarden Stunden unbezahlt betreut und gepflegt. Beruhigend, dass der grösste Wirtschaftszweig des Landes ganz ohne Lohnkosten auskommt. Freiwillig. Meistens weiblich."
     }
   ]
 }
