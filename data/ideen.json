@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-14",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-14-2221-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fünf Monate leerer Tank, dann der Ansturm",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich warte seit fünf Monaten mit dem Heizöltank auf tiefere Preise. Jetzt warnt die Branche vor einem Bestellansturm, weil alle dasselbe gemacht haben. Mein erstes erfolgreiches Kollektiv. Aus Geiz."
+    },
+    {
+      "id": "2026-09-14-2221-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hegseth entlässt Offiziere, Armee nach Leistung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Der US-Verteidigungsminister entlässt reihenweise hohe Offiziere, auffällig oft Frauen und Schwarze. Endlich wieder eine Armee, die nur noch nach Leistung geht. Erkennbar am Ergebnis."
+    },
     {
       "id": "2026-09-14-2221-25",
       "typ": "politisch-aktuell",
