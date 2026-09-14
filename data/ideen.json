@@ -4,14 +4,64 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-14-2221-09",
-      "typ": "remix",
-      "stichwort": "40 Minuten Filmsuche, Menschheit ausgelöscht",
+      "id": "2026-09-14-2221-04",
+      "typ": "schnittmenge",
+      "stichwort": "KI-Firma begrüsst das geprompte Diplom",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Wir als KI-Firma begrüssen es, dass Studierende ihre Arbeiten prompten statt schreiben. Nach dem Diplom brauchen sie uns dann monatlich für 22 Franken. Lebenslang. Preis vorbehalten.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-14-2221-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Koordinationsabzug 26'460, unsichtbarer Lohn",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 2,
-      "text": "Ich habe gestern 40 Minuten gebraucht, um im Streaming einen Film zu finden. Vorgeschlagen hat ihn dieselbe Technologie, die laut Fachleuten bald die Menschheit auslöscht. Die findet uns nie."
+      "format": 19,
+      "text": "Ich verdiene 4'000 im Monat, aber für meine Pensionskasse verdiene ich davon 1'795. Die ersten 26'460 Franken im Jahr gelten als Hobby.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-14-2221-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ferienlohn 8,33 Prozent im Stundenlohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich wollte im Coop fragen, wann die Kollegin an der Kasse Ferien hat. Ihre Ferien sind schon im Stundenlohn drin, 8,33 Prozent. Bezahlt. Bezogen nicht. Das steht nirgends.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-14-2221-10",
+      "typ": "persönlich",
+      "stichwort": "Appenzell AI, ohne Bewertung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich hielt die Autos in Appenzell Innerrhoden für Mietwagen, bis ich die Schilder las: AI. Der einzige AI-Standort ohne Bewertung von vier Billionen. Läuft seit 1513.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-14-2221-17",
@@ -21,17 +71,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 3,
-      "text": "Ich habe meine letzten fünf Posts nochmal als Bilder gepostet. Der Bund tauft das Patientendossier nach neun Jahren in Gesundheitsdossier um. Wir beide nennen das Fortschritt. Meins war günstiger."
-    },
-    {
-      "id": "2026-09-14-2221-18",
-      "typ": "persönlich",
-      "stichwort": "Thurgau, 80 Gemeinden, Umfahrungsstrasse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der Kanton Thurgau hat 290'000 Einwohner, 80 Gemeinden und kein eigenes Frauenhaus. Wer Schutz sucht, fährt nach St. Gallen. Ich kenne Kantone, die für weniger eine Umfahrungsstrasse bauen. Mit Kreisel."
+      "text": "Ich habe meine letzten fünf Posts nochmal als Bilder gepostet. Der Bund tauft das Patientendossier nach neun Jahren in Gesundheitsdossier um. Wir beide nennen das Fortschritt. Meins war günstiger.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-14-2221-21",
@@ -41,27 +86,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Ich warte seit fünf Monaten mit dem Heizöltank auf tiefere Preise. Jetzt warnt die Branche vor einem Bestellansturm, weil alle dasselbe gemacht haben. Mein erstes erfolgreiches Kollektiv. Aus Geiz."
-    },
-    {
-      "id": "2026-09-14-2221-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hegseth entlässt Offiziere, Armee nach Leistung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Der US-Verteidigungsminister entlässt reihenweise hohe Offiziere, auffällig oft Frauen und Schwarze. Endlich wieder eine Armee, die nur noch nach Leistung geht. Erkennbar am Ergebnis."
-    },
-    {
-      "id": "2026-09-14-2221-23",
-      "typ": "schnittmenge",
-      "stichwort": "KI langsamer, 300 Stellen pro Quartal",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Als KI-Konzern finde ich den Aufruf des Anthropic-Chefs richtig: langsamer entwickeln. Ab 2027 ersetzen wir nur noch 300 Stellen pro Quartal. Sorgfältig. Mit Übergangsfrist."
+      "text": "Ich warte seit fünf Monaten mit dem Heizöltank auf tiefere Preise. Jetzt warnt die Branche vor einem Bestellansturm, weil alle dasselbe gemacht haben. Mein erstes erfolgreiches Kollektiv. Aus Geiz.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
