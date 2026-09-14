@@ -1,59 +1,59 @@
 {
-  "stand": "2026-09-13T17:01:02+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-14T18:24:13+02:00",
+  "lauf": "1823",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Brics-Gipfel in Indien: Staaten mahnen zu »maximale Zurückhaltung« im Irankrieg",
-      "was": "Staatschefs nebeneinander beim Familienfoto zum Abschluss des Brics Gipfels in Delhi",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: demonstrative Einigkeit in der Fotoreihe gegen die gegensätzlichen Interessen, die jeder mitgebracht hat.",
+      "id": "1823-1",
+      "titel": "Ständerat sagt Ja zu Mercosur – und halber Milliarde für Bauern",
+      "was": "Ständeratssaal in Bern, Abstimmung zu Mercosur, daneben Bauernvertreter auf der Tribüne",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: das Prinzip Freihandel gegen den Preis, den es kostet, damit niemand widerspricht.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
       "auch_bei": [
-        "NZZ",
-        "Tagesschau",
-        "taz"
+        "SRF"
       ],
-      "artikel": "https://www.spiegel.de/ausland/brics-gipfel-in-indien-staaten-mahnen-zu-maximale-zurueckhaltung-im-irankrieg-a-1bce2118-945e-404b-9aca-870139fbca09#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/3473858e-5701-4d5d-a7bd-3af9d5987a4e_w520_r2.08_fpx55.34_fpy45.jpg",
-      "zeit": "2026-09-13T12:44+02:00"
+      "artikel": "https://www.20min.ch/story/freihandelsabkommen-staenderat-sagt-ja-zu-mercosur-und-halber-milliarde-fuer-bauern-103632937",
+      "bild": "https://media.20min.ch/6/image/2025/12/19/baa46396-13d4-4bd5-abe2-9e682bf39e26.jpg?s=881495b5a041f145a93f6ece725c9094",
+      "zeit": "2026-09-14T18:13+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
-      "was": "Schwedische Parteispitzen am Wahltag an der Urne, Anhänger im Hintergrund",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: das Tabu als feierlich beschworene Grenze gegen das Tabu als blosse Koalitionsarithmetik.",
+      "id": "1823-2",
+      "titel": "Krieg in der Ukraine – Arktisgipfel: Europäische Regierungschefs warnen vor Russland",
+      "was": "Europäische Regierungschefs in Winterjacken beim Gruppenfoto am Polarkreis in Finnland",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: die Entschlossenheit im Gruppenfoto gegen die Ausrüstung, die zu Hause fehlt.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Tagesschau",
-      "auch_bei": [],
-      "artikel": "https://www.tagesschau.de/ausland/europa/schweden-wahl-130.html",
-      "bild": "https://images.tagesschau.de/image/b5723a42-615f-4cfb-8ed9-b5845c7f3692/AAABoJkgSdo/AAABnSSvrFg/16x9-big/jimmie-akesson-104.jpg?width=1280",
-      "zeit": "2026-09-13T06:57+02:00"
+      "quelle": "SRF",
+      "auch_bei": [
+        "NZZ"
+      ],
+      "artikel": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-arktisgipfel-europaeische-regierungschefs-warnen-vor-russland",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/45153a.jpg",
+      "zeit": "2026-09-14T16:33+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Küchenchef Gstaad Palace – «Ich bin ‹gottefroh›» – Kult-Koch Franz Faeh geht in Pension",
-      "was": "Küchenchef in weisser Kochjacke am Herd der Luxushotelküche in Gstaad",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: fünfzig Jahre Gäste bekochen gegen den ersten Abend, an dem niemand mehr eine Bestellung aufgibt.",
+      "id": "1823-3",
+      "titel": "BILDSTRECKE - Eindrücke des Knabenschiessens 2026 in Bildern",
+      "was": "Jugendliche am Gewehr zwischen Festzelten und Bahnen am Zürcher Knabenschiessen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Volksfest und Brauchtum gegen den Gegenstand, der tatsächlich in den Händen liegt.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/kuechenchef-gstaad-palace-ich-bin-gottefroh-kult-koch-franz-faeh-geht-in-pension",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/2e9475.jpg",
-      "zeit": "2026-09-13T07:24+02:00"
+      "artikel": "https://www.nzz.ch/zuerich/eindruecke-des-knabenschiessens-2026-in-bildern-ld.10023695",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/14/be229fb7-05f3-491e-94c1-e16a70df1e84.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5318,5318,x0,y718",
+      "zeit": "2026-09-14T15:00+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute nachmittag",
-      "was": "Abschlussbilder und Handschlagchoreografie vom Ende des Brics Gipfels in Delhi"
+      "wann": "heute ab 08:00",
+      "was": "Bilder aus der laufenden Herbstsession in Bern, Ratssaal und Wandelhalle"
     },
     {
-      "wann": "heute ab 20:00",
-      "was": "Jubel und Ernüchterung in den schwedischen Parteizentralen nach Schliessung der Wahllokale"
+      "wann": "heute im Tagesverlauf",
+      "was": "Abschlussbilder vom Arktisgipfel in Finnland, Gruppenfoto und Handschlag im Freien"
     }
   ],
   "hinweis": ""
