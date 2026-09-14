@@ -1,97 +1,17 @@
 {
-  "datum": "2026-09-13",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-09-14",
+  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-13-0757-01",
+      "id": "2026-09-14-0757-03",
       "typ": "politisch-aktuell",
-      "stichwort": "58 Franken weniger, Referenzzins unverändert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich könnte 58 Franken weniger Miete zahlen, obwohl der Referenzzinssatz heute unverändert bleibt. Verlangen muss ich es selber. Erhöhungen haben mich immer von allein gefunden.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-13-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Boersengang verschoben, Produkt laeuft",
+      "stichwort": "Leerwohnungsziffer unter 1 Prozent, gute Nachricht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich verschiebe als OpenAI meinen Börsengang wegen Sicherheitsbedenken. Verantwortung heisst, ein ungeklärtes Risiko nicht der Börse zuzumuten. Den 800 Millionen Nutzenden schon. Seit vier Jahren. Täglich.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-13-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gras entgiftet Kriegsboden, Armee begruesst",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Gute Nachricht: In Südfrankreich zieht ein Gras den Sprengstoff aus Böden, die seit 80 Jahren verseucht sind. Wir als Armee begrüssen das. Endlich räumt jemand hinter uns auf. Freiwillig.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-13-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "LIV Golf pleite, WM 2034 bleibt",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Saudi-Arabien lässt seine Golfliga pleitegehen und steckt das Geld in die Fussball-WM 2034. Menschenrechte waren nie das Problem. Die Einschaltquoten schon.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-13-0757-12",
-      "typ": "persönlich",
-      "stichwort": "2,5 Prozent Leitzins, fünf Königinnen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Zwei Meldungen am selben Morgen: die EZB hebt den Leitzins auf 2,5 Prozent, Europa bekommt bald fünf Königinnen gleichzeitig. Ich spare weiter. Die haben vorgesorgt. Vorgeburtlich.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-13-0757-18",
-      "typ": "persönlich",
-      "stichwort": "ECO-Programm gegen Erdöl-Verband",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Seit sieben Jahren lasse ich die Abwaschmaschine im ECO-Programm laufen, drei Stunden pro Gang. Albert Rösti, unser Energieminister, war vorher Präsident des Erdöl-Verbands. Wir tun beide, was wir können. Ich mehr.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
+      "text": "Erstmals seit 15 Jahren stehen in der Schweiz unter 1 Prozent der Wohnungen leer. Als Vermieter freut mich das: endlich wird keine einzige mehr verschwendet. Vollauslastung. Wie im Lager. Nur mit Menschen.",
+      "format": "frei"
     }
   ]
 }
