@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-14",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
   "fertig": true,
   "ideen": [
     {
@@ -49,44 +49,29 @@
       }
     },
     {
-      "id": "2026-09-14-2221-10",
+      "id": "2026-09-14-2221-11",
       "typ": "persönlich",
-      "stichwort": "Appenzell AI, ohne Bewertung",
+      "stichwort": "41 Stunden Bildschirmzeit, Telefon gratuliert",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich hielt die Autos in Appenzell Innerrhoden für Mietwagen, bis ich die Schilder las: AI. Der einzige AI-Standort ohne Bewertung von vier Billionen. Läuft seit 1513.",
+      "format": 16,
+      "text": "Ich hatte letzte Woche 41 Stunden Bildschirmzeit und mein Telefon gratulierte mir zum Rückgang. Genau so feiert dieses Land seine Klimabilanz. Weniger schlimm als letztes Jahr. Applaus.",
       "jury": {
         "witz": true,
         "anker": true,
-        "neu": true
+        "neu": false
       }
     },
     {
-      "id": "2026-09-14-2221-17",
-      "typ": "persönlich",
-      "stichwort": "Slides aus alten Posts, Patientendossier umgetauft",
+      "id": "2026-09-14-2221-38",
+      "typ": "schnittmenge",
+      "stichwort": "Patientendossier von 2017 heisst jetzt anders",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Ich habe meine letzten fünf Posts nochmal als Bilder gepostet. Der Bund tauft das Patientendossier nach neun Jahren in Gesundheitsdossier um. Wir beide nennen das Fortschritt. Meins war günstiger.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-14-2221-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fünf Monate leerer Tank, dann der Ansturm",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich warte seit fünf Monaten mit dem Heizöltank auf tiefere Preise. Jetzt warnt die Branche vor einem Bestellansturm, weil alle dasselbe gemacht haben. Mein erstes erfolgreiches Kollektiv. Aus Geiz.",
+      "format": 13,
+      "text": "Ich habe gestern fünf alte Sätze von mir neu verpackt, damit sie jemand sieht. Beruhigend, dass der Bund das auch kann: das Patientendossier von 2017 heisst jetzt Gesundheitsdossier.",
       "jury": {
         "witz": true,
         "anker": true,
