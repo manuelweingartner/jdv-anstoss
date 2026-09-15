@@ -1,59 +1,60 @@
 {
-  "stand": "2026-09-14T18:24:13+02:00",
-  "lauf": "1823",
+  "stand": "2026-09-15T17:01:18+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "1823-1",
-      "titel": "Ständerat sagt Ja zu Mercosur – und halber Milliarde für Bauern",
-      "was": "Ständeratssaal in Bern, Abstimmung zu Mercosur, daneben Bauernvertreter auf der Tribüne",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: das Prinzip Freihandel gegen den Preis, den es kostet, damit niemand widerspricht.",
+      "id": "1700-1",
+      "titel": "Höchstes Gericht zur Briefwahl – USA-Experte: «Eine Niederlage für Donald Trump»",
+      "was": "Trump am Rednerpult, sichtlich ungehalten nach dem Urteil zur Briefwahl",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: das Selbstbild als Regelsetzer gegen die Rolle des Regelunterworfenen.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
-      "auch_bei": [
-        "SRF"
-      ],
-      "artikel": "https://www.20min.ch/story/freihandelsabkommen-staenderat-sagt-ja-zu-mercosur-und-halber-milliarde-fuer-bauern-103632937",
-      "bild": "https://media.20min.ch/6/image/2025/12/19/baa46396-13d4-4bd5-abe2-9e682bf39e26.jpg?s=881495b5a041f145a93f6ece725c9094",
-      "zeit": "2026-09-14T18:13+02:00"
-    },
-    {
-      "id": "1823-2",
-      "titel": "Krieg in der Ukraine – Arktisgipfel: Europäische Regierungschefs warnen vor Russland",
-      "was": "Europäische Regierungschefs in Winterjacken beim Gruppenfoto am Polarkreis in Finnland",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: die Entschlossenheit im Gruppenfoto gegen die Ausrüstung, die zu Hause fehlt.",
-      "grund": "breit",
-      "raum": "",
+      "raum": "weltweit",
       "quelle": "SRF",
       "auch_bei": [
-        "NZZ"
+        "Tagesschau",
+        "taz"
       ],
-      "artikel": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-arktisgipfel-europaeische-regierungschefs-warnen-vor-russland",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/45153a.jpg",
-      "zeit": "2026-09-14T16:33+02:00"
+      "artikel": "https://www.srf.ch/news/international/usa/hoechstes-gericht-zur-briefwahl-usa-experte-eine-niederlage-fuer-donald-trump",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/35dbbd9.jpg",
+      "zeit": "2026-09-15T13:48+02:00"
     },
     {
-      "id": "1823-3",
-      "titel": "BILDSTRECKE - Eindrücke des Knabenschiessens 2026 in Bildern",
-      "was": "Jugendliche am Gewehr zwischen Festzelten und Bahnen am Zürcher Knabenschiessen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Volksfest und Brauchtum gegen den Gegenstand, der tatsächlich in den Händen liegt.",
+      "id": "1700-2",
+      "titel": "Wahlkampf in Mecklenburg-Vorpommern: Bouncen gegen den blauen Balken",
+      "was": "Wahlkämpfer in mobiler Disco, Nebelmaschine und Boxen auf dem Anhänger",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Partystimmung für einen Abend gegen Umfragewerte, die seit Monaten stehen.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "taz",
+      "auch_bei": [
+        "Tagesschau"
+      ],
+      "artikel": "https://taz.de/Wahlkampf-in-Mecklenburg-Vorpommern/!6208027/",
+      "bild": "https://taz.de/picture/8724066/948/wochentaz-Politik-Linke-Bewegungen-Mecklenburg-Vorpommern-1-1-1.jpeg",
+      "zeit": "2026-09-15T13:55+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Kulturnews in Kurzform – Schweiz gibt fast 3000 Jahre alte Maske an Ägypten zurück",
+      "was": "Amtsträger übergeben feierlich eine fast 3000 Jahre alte Totenmaske",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Rückgabe als grosszügige Geste inszeniert gegen beschlagnahmte Ware, die ohnehin niemandem hier gehört.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "NZZ",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/zuerich/eindruecke-des-knabenschiessens-2026-in-bildern-ld.10023695",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/14/be229fb7-05f3-491e-94c1-e16a70df1e84.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5318,5318,x0,y718",
-      "zeit": "2026-09-14T15:00+02:00"
+      "artikel": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-schweiz-gibt-fast-3000-jahre-alte-maske-an-aegypten-zurueck",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf/597653.jpg",
+      "zeit": "2026-09-15T15:37+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 08:00",
-      "was": "Bilder aus der laufenden Herbstsession in Bern, Ratssaal und Wandelhalle"
+      "wann": "heute, Sessionstag im Bundeshaus",
+      "was": "Bilder aus dem Nationalratssaal zur Armeebotschaft und zum F-35"
     },
     {
-      "wann": "heute im Tagesverlauf",
-      "was": "Abschlussbilder vom Arktisgipfel in Finnland, Gruppenfoto und Handschlag im Freien"
+      "wann": "heute, Nachmittag bis Abend",
+      "was": "Merz auf der Bühne beim Unternehmertag in Berlin"
     }
   ],
   "hinweis": ""
