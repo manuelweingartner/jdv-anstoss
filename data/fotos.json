@@ -1,60 +1,60 @@
 {
-  "stand": "2026-09-15T17:01:18+02:00",
+  "stand": "2026-09-16T17:01:02+02:00",
   "lauf": "1700",
   "fotos": [
     {
       "id": "1700-1",
-      "titel": "Höchstes Gericht zur Briefwahl – USA-Experte: «Eine Niederlage für Donald Trump»",
-      "was": "Trump am Rednerpult, sichtlich ungehalten nach dem Urteil zur Briefwahl",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: das Selbstbild als Regelsetzer gegen die Rolle des Regelunterworfenen.",
+      "titel": "«Hochzeitsgeschenk von Freund» – Donald Trump Jr.: Russischer Sportfunktionär zahlte Hochzeit",
+      "was": "Hochzeitsgesellschaft posiert festlich, Trump Jr. mit Braut und Gästen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Geschenk unter Freunden gegen bezahlte Nähe zu einem Machtapparat.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "SRF",
       "auch_bei": [
-        "Tagesschau",
-        "taz"
+        "Spiegel"
       ],
-      "artikel": "https://www.srf.ch/news/international/usa/hoechstes-gericht-zur-briefwahl-usa-experte-eine-niederlage-fuer-donald-trump",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/35dbbd9.jpg",
-      "zeit": "2026-09-15T13:48+02:00"
+      "artikel": "https://www.srf.ch/news/gesellschaft/hochzeitsgeschenk-von-freund-donald-trump-jr-russischer-sportfunktionaer-zahlte-hochzeit",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/23a142.jpg",
+      "zeit": "2026-09-16T15:12+02:00"
     },
     {
       "id": "1700-2",
-      "titel": "Wahlkampf in Mecklenburg-Vorpommern: Bouncen gegen den blauen Balken",
-      "was": "Wahlkämpfer in mobiler Disco, Nebelmaschine und Boxen auf dem Anhänger",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Partystimmung für einen Abend gegen Umfragewerte, die seit Monaten stehen.",
+      "titel": "Bundespräsident Parmelin verliert seine wichtigste Beamtin: Die Seco-Chefin Helene Budliger tritt ab",
+      "was": "Bundespräsident Parmelin neben der abtretenden Seco-Direktorin im Bundeshaus",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: die offiziell Unentbehrliche gegen die Leichtigkeit, mit der man sie ziehen lässt.",
       "grund": "breit",
-      "raum": "",
-      "quelle": "taz",
+      "raum": "schweiz",
+      "quelle": "NZZ",
       "auch_bei": [
-        "Tagesschau"
+        "20 Minuten",
+        "SRF"
       ],
-      "artikel": "https://taz.de/Wahlkampf-in-Mecklenburg-Vorpommern/!6208027/",
-      "bild": "https://taz.de/picture/8724066/948/wochentaz-Politik-Linke-Bewegungen-Mecklenburg-Vorpommern-1-1-1.jpeg",
-      "zeit": "2026-09-15T13:55+02:00"
+      "artikel": "https://www.nzz.ch/wirtschaft/seco-chefin-helene-budliger-tritt-ab-ld.10024044",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/16/718a5bac-b509-42d7-9a3a-74f1cc3946ed.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2484,2484,x1883,y1116",
+      "zeit": "2026-09-16T15:07+02:00"
     },
     {
       "id": "1700-3",
-      "titel": "Kulturnews in Kurzform – Schweiz gibt fast 3000 Jahre alte Maske an Ägypten zurück",
-      "was": "Amtsträger übergeben feierlich eine fast 3000 Jahre alte Totenmaske",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Rückgabe als grosszügige Geste inszeniert gegen beschlagnahmte Ware, die ohnehin niemandem hier gehört.",
+      "titel": "USA: Pentagon will offenbar nur »makellose« Soldaten bei anstehender Rede von Pete Hegseth",
+      "was": "Uniformierte Soldaten in Reih und Glied als Publikum einer Ministerrede",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Verteidigungsfähigkeit gegen Bauchumfang als Auswahlkriterium fürs Bild.",
       "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "",
+      "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-schweiz-gibt-fast-3000-jahre-alte-maske-an-aegypten-zurueck",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf/597653.jpg",
-      "zeit": "2026-09-15T15:37+02:00"
+      "artikel": "https://www.spiegel.de/ausland/usa-pentagon-will-offenbar-nur-makellose-soldaten-bei-anstehender-rede-von-pete-hegseth-a-1af9cce0-8605-438d-851b-017225a83c6a#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/7011afa8-e260-4113-be7c-857521d5089f_w520_r2.08_fpx77_fpy51.jpg",
+      "zeit": "2026-09-16T14:58+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, Sessionstag im Bundeshaus",
-      "was": "Bilder aus dem Nationalratssaal zur Armeebotschaft und zum F-35"
+      "wann": "heute ab 17:00",
+      "was": "Bilder aus der Herbstsession in Bern, Ratssaal, Wandelhalle, Politikerinnen im Gespräch"
     },
     {
-      "wann": "heute, Nachmittag bis Abend",
-      "was": "Merz auf der Bühne beim Unternehmertag in Berlin"
+      "wann": "heute ab 17:30",
+      "was": "Nachbilder zur Rede zur Lage der Union, von der Leyen am Pult, Applaus und Reaktionen im EU-Parlament"
     }
   ],
   "hinweis": ""
