@@ -1,82 +1,27 @@
 {
-  "datum": "2026-09-14",
-  "hinweis": "Anforderung um 10:08 fehlgeschlagen (kein Shard hat geliefert). Liste unverändert, bitte nochmal.",
-  "fertig": true,
+  "datum": "2026-09-17",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-14-2221-04",
-      "typ": "schnittmenge",
-      "stichwort": "KI-Firma begrüsst das geprompte Diplom",
+      "id": "2026-09-17-0804-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "1996 reduzierte Mehrwertsteuer, seither Rekordjahre",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Wir als KI-Firma begrüssen es, dass Studierende ihre Arbeiten prompten statt schreiben. Nach dem Diplom brauchen sie uns dann monatlich für 22 Franken. Lebenslang. Preis vorbehalten.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
+      "text": "Ich vertrete die Hotellerie. Seit 1996 zahlen wir eine reduzierte Mehrwertsteuer gegen die Krise und melden seither Rekordjahre. Ausgebucht seit Jahren. Notleidend seit dreissig."
     },
     {
-      "id": "2026-09-14-2221-05",
+      "id": "2026-09-17-0804-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Koordinationsabzug 26'460, unsichtbarer Lohn",
+      "stichwort": "500 Franken Busse fürs kurze Kleid in der Boxengasse",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich verdiene 4'000 im Monat, aber für meine Pensionskasse verdiene ich davon 1'795. Die ersten 26'460 Franken im Jahr gelten als Hobby.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-14-2221-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ferienlohn 8,33 Prozent im Stundenlohn",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich wollte im Coop fragen, wann die Kollegin an der Kasse Ferien hat. Ihre Ferien sind schon im Stundenlohn drin, 8,33 Prozent. Bezahlt. Bezogen nicht. Das steht nirgends.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-14-2221-11",
-      "typ": "persönlich",
-      "stichwort": "41 Stunden Bildschirmzeit, Telefon gratuliert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich hatte letzte Woche 41 Stunden Bildschirmzeit und mein Telefon gratulierte mir zum Rückgang. Genau so feiert dieses Land seine Klimabilanz. Weniger schlimm als letztes Jahr. Applaus.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-14-2221-38",
-      "typ": "schnittmenge",
-      "stichwort": "Patientendossier von 2017 heisst jetzt anders",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Ich habe gestern fünf alte Sätze von mir neu verpackt, damit sie jemand sieht. Beruhigend, dass der Bund das auch kann: das Patientendossier von 2017 heisst jetzt Gesundheitsdossier.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
+      "text": "Endlich Ordnung in der Boxengasse: 500 Franken Busse, weil eine Frau ein kurzes Kleid trug. Die lange Hose ist Sicherheitsvorschrift. Geschützt wird, wer sich anziehen lässt."
     }
   ]
 }

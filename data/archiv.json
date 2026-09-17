@@ -13187,6 +13187,86 @@
       "text": "Erstmals seit 15 Jahren stehen in der Schweiz unter 1 Prozent der Wohnungen leer. Als Vermieter freut mich das: endlich wird keine einzige mehr verschwendet. Vollauslastung. Wie im Lager. Nur mit Menschen.",
       "format": "frei",
       "datum": "2026-09-14"
+    },
+    {
+      "id": "2026-09-14-2221-04",
+      "typ": "schnittmenge",
+      "stichwort": "KI-Firma begrüsst das geprompte Diplom",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Wir als KI-Firma begrüssen es, dass Studierende ihre Arbeiten prompten statt schreiben. Nach dem Diplom brauchen sie uns dann monatlich für 22 Franken. Lebenslang. Preis vorbehalten.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-14"
+    },
+    {
+      "id": "2026-09-14-2221-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Koordinationsabzug 26'460, unsichtbarer Lohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich verdiene 4'000 im Monat, aber für meine Pensionskasse verdiene ich davon 1'795. Die ersten 26'460 Franken im Jahr gelten als Hobby.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-14"
+    },
+    {
+      "id": "2026-09-14-2221-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ferienlohn 8,33 Prozent im Stundenlohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich wollte im Coop fragen, wann die Kollegin an der Kasse Ferien hat. Ihre Ferien sind schon im Stundenlohn drin, 8,33 Prozent. Bezahlt. Bezogen nicht. Das steht nirgends.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-14"
+    },
+    {
+      "id": "2026-09-14-2221-11",
+      "typ": "persönlich",
+      "stichwort": "41 Stunden Bildschirmzeit, Telefon gratuliert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich hatte letzte Woche 41 Stunden Bildschirmzeit und mein Telefon gratulierte mir zum Rückgang. Genau so feiert dieses Land seine Klimabilanz. Weniger schlimm als letztes Jahr. Applaus.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-09-14"
+    },
+    {
+      "id": "2026-09-14-2221-38",
+      "typ": "schnittmenge",
+      "stichwort": "Patientendossier von 2017 heisst jetzt anders",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich habe gestern fünf alte Sätze von mir neu verpackt, damit sie jemand sieht. Beruhigend, dass der Bund das auch kann: das Patientendossier von 2017 heisst jetzt Gesundheitsdossier.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-14"
     }
   ]
 }
