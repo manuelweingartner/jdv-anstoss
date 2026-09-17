@@ -4,24 +4,64 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-17-0804-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "25 Jahre fuer Kosovos Ex-Praesident",
+      "id": "2026-09-17-0804-09",
+      "typ": "remix",
+      "stichwort": "300 Millionen Riechzellen gegen 300 Milliarden Parameter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Ich habe gelesen, dass der Zoll trotz KI weiter auf Spürhunde setzt. 300 Millionen Riechzellen schlagen 300 Milliarden Parameter. Der Hund arbeitet für Leberwurst. Ohne Abo.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-17-0804-10",
+      "typ": "persönlich",
+      "stichwort": "Faktor 50 gegen 690 Hektar",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich creme mich jeden Morgen mit Faktor 50 ein, aus Prinzip. In Valencia sind 690 Hektar verbrannt, nach Spaniens heissestem Sommer. Meiner Haut geht es blendend. Lückenlos. Seit zwanzig Jahren.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-17-0804-12",
+      "typ": "persönlich",
+      "stichwort": "50 Jahre Österreich, neun Bussen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich finde es beruhigend, dass Kosovos Ex-Präsident 25 Jahre für Kriegsverbrechen bekommt. Das Völkerrecht funktioniert also. Man muss nur ein kleines Land regieren. Ohne Atomwaffen."
+      "format": "frei",
+      "text": "Eine ORF-Journalistin lebt seit 50 Jahren in Österreich und wird wegen neun Verkehrsbussen nicht eingebürgert. Ich habe nichts geleistet ausser hier geboren zu sein. Reicht lebenslang.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-17-0804-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Sondersatz seit 1996",
+      "id": "2026-09-17-0804-17",
+      "typ": "schnittmenge",
+      "stichwort": "Fünf Posts recycelt, UBS-Regeln seit 2011",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Ich finde befristete Hilfen für Branchen in Not richtig. Diese hier läuft seit 1996 und die Branche meldet Rekordzahlen. Befristet heisst ja nicht kurz."
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe meine letzten fünf Posts nochmal als Bilder gepostet. Der Bundesrat verlangt seit 2011 strengere Regeln für die UBS. Auch immer dasselbe. Nur ohne Folgen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-17-0804-23",
@@ -31,37 +71,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Ich vertrete die Hotellerie. Seit 1996 zahlen wir eine reduzierte Mehrwertsteuer gegen die Krise und melden seither Rekordjahre. Ausgebucht seit Jahren. Notleidend seit dreissig."
+      "text": "Ich vertrete die Hotellerie. Seit 1996 zahlen wir eine reduzierte Mehrwertsteuer gegen die Krise und melden seither Rekordjahre. Ausgebucht seit Jahren. Notleidend seit dreissig.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-17-0804-24",
+      "id": "2026-09-17-0804-27",
       "typ": "politisch-aktuell",
-      "stichwort": "500 Franken Busse fürs kurze Kleid in der Boxengasse",
+      "stichwort": "3'000 Franken Vorschuss, nie unrecht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Endlich Ordnung in der Boxengasse: 500 Franken Busse, weil eine Frau ein kurzes Kleid trug. Die lange Hose ist Sicherheitsvorschrift. Geschützt wird, wer sich anziehen lässt."
-    },
-    {
-      "id": "2026-09-17-0804-28",
-      "typ": "schnittmenge",
-      "stichwort": "350 Millionen Gläubigerschutz, 350 Franken Besuch",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Mit 350 Millionen Schulden bekommt eine Fluggesellschaft Gläubigerschutz und fliegt normal weiter. Mit 350 Franken Schulden bekommst du Besuch."
-    },
-    {
-      "id": "2026-09-17-0804-29",
-      "typ": "remix",
-      "stichwort": "Fussmatte beim Autokauf, Quantencomputer beim Kampfjet",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich bekomme beim Autokauf eine Fussmatte. Die Schweiz kauft 36 Kampfjets und bekommt einen Quantencomputer für die ETH. Ausgehandelt hat beides der Verkäufer. Gratis. Angeblich."
+      "format": "frei",
+      "text": "Für eine Klage über 20'000 Franken zahlt man vorab rund 3'000 Franken Gerichtskostenvorschuss. Wer die nicht hat, verliert keinen einzigen Prozess.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
