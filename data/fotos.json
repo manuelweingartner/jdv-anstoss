@@ -1,60 +1,60 @@
 {
-  "stand": "2026-09-16T17:01:02+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-17T08:21:03+02:00",
+  "lauf": "0820",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "«Hochzeitsgeschenk von Freund» – Donald Trump Jr.: Russischer Sportfunktionär zahlte Hochzeit",
-      "was": "Hochzeitsgesellschaft posiert festlich, Trump Jr. mit Braut und Gästen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Geschenk unter Freunden gegen bezahlte Nähe zu einem Machtapparat.",
+      "id": "0820-1",
+      "titel": "Donald Trump droht EU wegen Kanada-Annäherung mit »sehr hohen Zöllen«",
+      "was": "Trump am Pult, daneben Handschlagbilder von EU und Kanada",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Wenn er Partner sucht heisst es Deal, wenn andere Partner suchen heisst es Verrat.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "SRF",
-      "auch_bei": [
-        "Spiegel"
-      ],
-      "artikel": "https://www.srf.ch/news/gesellschaft/hochzeitsgeschenk-von-freund-donald-trump-jr-russischer-sportfunktionaer-zahlte-hochzeit",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/23a142.jpg",
-      "zeit": "2026-09-16T15:12+02:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Bundespräsident Parmelin verliert seine wichtigste Beamtin: Die Seco-Chefin Helene Budliger tritt ab",
-      "was": "Bundespräsident Parmelin neben der abtretenden Seco-Direktorin im Bundeshaus",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: die offiziell Unentbehrliche gegen die Leichtigkeit, mit der man sie ziehen lässt.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "NZZ",
+      "quelle": "Spiegel",
       "auch_bei": [
         "20 Minuten",
-        "SRF"
+        "Tagesschau"
       ],
-      "artikel": "https://www.nzz.ch/wirtschaft/seco-chefin-helene-budliger-tritt-ab-ld.10024044",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/16/718a5bac-b509-42d7-9a3a-74f1cc3946ed.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2484,2484,x1883,y1116",
-      "zeit": "2026-09-16T15:07+02:00"
+      "artikel": "https://www.spiegel.de/wirtschaft/donald-trump-droht-eu-wegen-kanada-annaeherung-mit-sehr-hohen-zoellen-a-f4bcbd42-8e0d-4a79-af07-9a0ae0df9f6d#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/ba14437f-07e1-4425-8ab4-c9af8f7cf1a5_w520_r2.08_fpx45_fpy41.jpg",
+      "zeit": "2026-09-17T03:12+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "USA: Pentagon will offenbar nur »makellose« Soldaten bei anstehender Rede von Pete Hegseth",
-      "was": "Uniformierte Soldaten in Reih und Glied als Publikum einer Ministerrede",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Verteidigungsfähigkeit gegen Bauchumfang als Auswahlkriterium fürs Bild.",
+      "id": "0820-2",
+      "titel": "«Too big to fail»-Regulierung – «Lex UBS» – Jetzt kommt es zum Showdown im Ständerat",
+      "was": "Ständeräte an ihren Pulten, Abstimmungstafel und Bankenlogo im Hintergrund",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Milliardenpuffer für eine einzige Bank gegen die Sparrunden bei allem anderen.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "SRF",
+      "auch_bei": [
+        "NZZ"
+      ],
+      "artikel": "https://www.srf.ch/news/schweiz/too-big-to-fail-regulierung-lex-ubs-jetzt-kommt-es-zum-showdown-im-staenderat",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/cb61b45.jpg",
+      "zeit": "2026-09-17T06:18+02:00"
+    },
+    {
+      "id": "0820-3",
+      "titel": "Tochter von F1-Ikone trägt weisses Kleid: Es folgt die Strafe",
+      "was": "Junge Frau im kurzen weissen Kleid in der Boxengasse",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Strenge Kleiderordnung heute gegen die Grid-Girls-Vergangenheit desselben Sports.",
       "grund": "memetauglich",
-      "raum": "",
-      "quelle": "Spiegel",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.spiegel.de/ausland/usa-pentagon-will-offenbar-nur-makellose-soldaten-bei-anstehender-rede-von-pete-hegseth-a-1af9cce0-8605-438d-851b-017225a83c6a#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/7011afa8-e260-4113-be7c-857521d5089f_w520_r2.08_fpx77_fpy51.jpg",
-      "zeit": "2026-09-16T14:58+02:00"
+      "artikel": "https://www.20min.ch/story/500-franken-strafe-kleid-in-der-boxengasse-kostet-formel-2-team-prema-103634057",
+      "bild": "https://image.20min.ch/2026/09/16/b5baac9d-1707-4621-9e3b-d056b8e2f38b.jpg?s=2982293ac5bab7c15d5cd213d03e4ca0",
+      "zeit": "2026-09-16T17:05+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 17:00",
-      "was": "Bilder aus der Herbstsession in Bern, Ratssaal, Wandelhalle, Politikerinnen im Gespräch"
+      "wann": "heute ab 08:15",
+      "was": "Bilder aus dem Ständeratssaal in Bern während der Lex-UBS-Debatte, Ratsmitglieder am Mikrofon und im Wandelgang"
     },
     {
-      "wann": "heute ab 17:30",
-      "was": "Nachbilder zur Rede zur Lage der Union, von der Leyen am Pult, Applaus und Reaktionen im EU-Parlament"
+      "wann": "heute am Abend",
+      "was": "Promi-Aufmarsch am HeidiFest in München, Dirndl und Lederhosen an Leuten, denen man beides nicht abnimmt"
     }
   ],
   "hinweis": ""
