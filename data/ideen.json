@@ -34,6 +34,26 @@
       "text": "Endlich Ordnung in der Boxengasse: 500 Franken Busse, weil eine Frau ein kurzes Kleid trug. Die lange Hose ist Sicherheitsvorschrift. Geschützt wird, wer sich anziehen lässt."
     },
     {
+      "id": "2026-09-17-0804-28",
+      "typ": "schnittmenge",
+      "stichwort": "350 Millionen Gläubigerschutz, 350 Franken Besuch",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Mit 350 Millionen Schulden bekommt eine Fluggesellschaft Gläubigerschutz und fliegt normal weiter. Mit 350 Franken Schulden bekommst du Besuch."
+    },
+    {
+      "id": "2026-09-17-0804-29",
+      "typ": "remix",
+      "stichwort": "Fussmatte beim Autokauf, Quantencomputer beim Kampfjet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich bekomme beim Autokauf eine Fussmatte. Die Schweiz kauft 36 Kampfjets und bekommt einen Quantencomputer für die ETH. Ausgehandelt hat beides der Verkäufer. Gratis. Angeblich."
+    },
+    {
       "id": "2026-09-17-0804-30",
       "typ": "persönlich",
       "stichwort": "AI-Schild in Appenzell, 1990",
@@ -42,26 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Ich bin durch Appenzell Innerrhoden gefahren und dachte bei den vielen AI-Schildern kurz an künstliche Intelligenz. Der Kanton liess Frauen erst 1990 abstimmen. Nach Gerichtsurteil."
-    },
-    {
-      "id": "2026-09-17-0804-31",
-      "typ": "persönlich",
-      "stichwort": "Jede zwanzigste Stelle, Pflegekosten 2050",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Swiss Life streicht fast jede zwanzigste Stelle, trotz mehr Gewinn. Am selben Tag heisst es, die Pflegekosten verdoppeln sich bis 2050. Ich soll privat vorsorgen. Bei denen."
-    },
-    {
-      "id": "2026-09-17-0804-32",
-      "typ": "persönlich",
-      "stichwort": "Faktor 50 gegen 690 Hektar",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Ich creme mir seit Jahren jeden Morgen Faktor 50 ins Gesicht, auch bei Regen. Nach Spaniens heissestem Sommer brennen in Valencia 690 Hektar, rund tausend Fussballfelder. Geschützt ist meine Haut."
     }
   ]
 }
