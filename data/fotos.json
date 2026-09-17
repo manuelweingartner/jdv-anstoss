@@ -1,61 +1,51 @@
 {
-  "stand": "2026-09-17T08:21:03+02:00",
-  "lauf": "0820",
+  "stand": "2026-09-17T17:00:55+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0820-1",
-      "titel": "Donald Trump droht EU wegen Kanada-Annäherung mit »sehr hohen Zöllen«",
-      "was": "Trump am Pult, daneben Handschlagbilder von EU und Kanada",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Wenn er Partner sucht heisst es Deal, wenn andere Partner suchen heisst es Verrat.",
+      "id": "1700-1",
+      "titel": "König Charles warnt vor »existenziellen Gefahren« von KI-Systemen",
+      "was": "König Charles am Rednerpult, mahnende Geste, Rede über KI-Gefahren",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: ein Amt, das man erbt, warnt vor einer Macht, die niemand gewählt hat.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
-        "20 Minuten",
-        "Tagesschau"
-      ],
-      "artikel": "https://www.spiegel.de/wirtschaft/donald-trump-droht-eu-wegen-kanada-annaeherung-mit-sehr-hohen-zoellen-a-f4bcbd42-8e0d-4a79-af07-9a0ae0df9f6d#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/ba14437f-07e1-4425-8ab4-c9af8f7cf1a5_w520_r2.08_fpx45_fpy41.jpg",
-      "zeit": "2026-09-17T03:12+02:00"
-    },
-    {
-      "id": "0820-2",
-      "titel": "«Too big to fail»-Regulierung – «Lex UBS» – Jetzt kommt es zum Showdown im Ständerat",
-      "was": "Ständeräte an ihren Pulten, Abstimmungstafel und Bankenlogo im Hintergrund",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Milliardenpuffer für eine einzige Bank gegen die Sparrunden bei allem anderen.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [
         "NZZ"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/too-big-to-fail-regulierung-lex-ubs-jetzt-kommt-es-zum-showdown-im-staenderat",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/cb61b45.jpg",
-      "zeit": "2026-09-17T06:18+02:00"
+      "artikel": "https://www.spiegel.de/netzwelt/netzpolitik/koenig-charles-warnt-vor-existenziellen-gefahren-von-ki-systemen-a-1f84edb0-c123-4d77-a00b-a0dc6222ce40#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/582debc7-27e6-439c-9e66-0f99d50ec3b3_w520_r2.08_fpx6_fpy30.jpg",
+      "zeit": "2026-09-17T16:02+02:00"
     },
     {
-      "id": "0820-3",
-      "titel": "Tochter von F1-Ikone trägt weisses Kleid: Es folgt die Strafe",
-      "was": "Junge Frau im kurzen weissen Kleid in der Boxengasse",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Strenge Kleiderordnung heute gegen die Grid-Girls-Vergangenheit desselben Sports.",
+      "id": "1700-2",
+      "titel": "KOMMENTAR - Kanada und die EU: Aus dem Flirt könnte rasch eine enttäuschte Liebe werden",
+      "was": "Carney mit EU-Spitzen, Handschlag und Fahnenreihe im Parlamentssaal",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Bündnis aus Überzeugung gegen Bündnis aus fehlenden Alternativen.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "SRF"
+      ],
+      "artikel": "https://www.nzz.ch/meinung/kanada-und-die-eu-aus-dem-flirt-koennte-rasch-eine-enttaeuschte-liebe-werden-ld.10024274",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/17/59bf6392-4782-40ee-a187-4e2098a0ee64.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1616,1616,x360,y0",
+      "zeit": "2026-09-17T15:00+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Grüne Wiesen: Nun wird der Schnee für den Ski-Weltcup ausgepackt",
+      "was": "Weisses Schneeband auf grüner Wiese, Pistenfahrzeuge verteilen eingelagerten Schnee",
+      "richtung": "Mechanik: wörtlich nehmen, was als Naturereignis verkauft wird. Achse: Wintersaison nach Kalender gegen Winter nach Wetterlage.",
       "grund": "memetauglich",
-      "raum": "schweiz",
+      "raum": "",
       "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/500-franken-strafe-kleid-in-der-boxengasse-kostet-formel-2-team-prema-103634057",
-      "bild": "https://image.20min.ch/2026/09/16/b5baac9d-1707-4621-9e3b-d056b8e2f38b.jpg?s=2982293ac5bab7c15d5cd213d03e4ca0",
-      "zeit": "2026-09-16T17:05+02:00"
+      "artikel": "https://www.20min.ch/story/mitten-im-september-gruene-wiesen-nun-wird-der-schnee-fuer-den-ski-weltcup-ausgepackt-103634736",
+      "bild": "https://image.20min.ch/2026/09/17/c30c8dbd-b806-4c99-bdf3-bbb9f83eada4.png?s=b5e1c180f7ade21014d3d4bd2fb54fbd",
+      "zeit": "2026-09-17T15:32+02:00"
     }
   ],
-  "erwartet": [
-    {
-      "wann": "heute ab 08:15",
-      "was": "Bilder aus dem Ständeratssaal in Bern während der Lex-UBS-Debatte, Ratsmitglieder am Mikrofon und im Wandelgang"
-    },
-    {
-      "wann": "heute am Abend",
-      "was": "Promi-Aufmarsch am HeidiFest in München, Dirndl und Lederhosen an Leuten, denen man beides nicht abnimmt"
-    }
-  ],
+  "erwartet": [],
   "hinweis": ""
 }
