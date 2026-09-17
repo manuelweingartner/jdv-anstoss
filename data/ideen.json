@@ -1,8 +1,18 @@
 {
   "datum": "2026-09-17",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-17-0804-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sondersatz seit 1996",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich finde befristete Hilfen für Branchen in Not richtig. Diese hier läuft seit 1996 und die Branche meldet Rekordzahlen. Befristet heisst ja nicht kurz."
+    },
     {
       "id": "2026-09-17-0804-23",
       "typ": "politisch-aktuell",
