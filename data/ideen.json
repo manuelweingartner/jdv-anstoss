@@ -4,6 +4,16 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-09-17-0804-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "25 Jahre fuer Kosovos Ex-Praesident",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich finde es beruhigend, dass Kosovos Ex-Präsident 25 Jahre für Kriegsverbrechen bekommt. Das Völkerrecht funktioniert also. Man muss nur ein kleines Land regieren. Ohne Atomwaffen."
+    },
+    {
       "id": "2026-09-17-0804-07",
       "typ": "politisch-aktuell",
       "stichwort": "Sondersatz seit 1996",
@@ -52,16 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 16,
       "text": "Ich bekomme beim Autokauf eine Fussmatte. Die Schweiz kauft 36 Kampfjets und bekommt einen Quantencomputer für die ETH. Ausgehandelt hat beides der Verkäufer. Gratis. Angeblich."
-    },
-    {
-      "id": "2026-09-17-0804-30",
-      "typ": "persönlich",
-      "stichwort": "AI-Schild in Appenzell, 1990",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich bin durch Appenzell Innerrhoden gefahren und dachte bei den vielen AI-Schildern kurz an künstliche Intelligenz. Der Kanton liess Frauen erst 1990 abstimmen. Nach Gerichtsurteil."
     }
   ]
 }
