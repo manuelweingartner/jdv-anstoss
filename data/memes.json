@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-13T08:06:17+02:00",
+  "stand": "2026-09-17T08:22:20+02:00",
   "vorschlaege": [
-    {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
-      "zeilen": [
-        "Mehr Lohn",
-        "Kaufkraftneutrale Teuerungsanpassung"
-      ],
-      "warum": "die Gewerkschaftsforderung von 2.5 Prozent wird erst dann verhandelbar, wenn sie einen Namen aus dem Personalhandbuch traegt",
-      "bild": "vorschlag-1.jpg"
-    },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Nichts tun",
-        "Mietzinssenkung verlangen",
-        "Schweizer Mietende"
+        "Eigenmittelfrage zurück an den Bundesrat",
+        "Strengere Eigenmittel für die UBS",
+        "FDP im Ständerat"
       ],
-      "warum": "der Referenzzins gaebe vielen ein Recht her, aber der Reflex biegt zuverlaessig in die andere Richtung ab",
-      "bild": "vorschlag-2.jpg"
+      "warum": "weil der Ausweichmanöver-Charakter der Rückweisung genau die Figur ist",
+      "bild": "vorschlag-1.jpg"
     },
     {
-      "vorlage": "doge",
-      "name": "Buff Doge vs. Cheems",
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Deutsche Bahn 1994",
-        "Weltweit als Vorbild zitiert",
-        "Deutsche Bahn 2026",
-        "6 der 10 schlechtesten Bahnhoefe"
+        "Jeden 20. Job streichen",
+        "Fokussierte Personalstruktur bei Rekordgewinn"
       ],
-      "warum": "das behauptete Fruecher gegen die Rangliste von heute ist genau die Achse, auf der die Bahn sich selbst gern misst",
-      "bild": "vorschlag-3.jpg"
+      "warum": "weil der Stellenabbau trotz Gewinn nur eine Verpackungsfrage ist",
+      "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Verglichen mit 1981 ist alles guenstig"
+        "Dreissig Jahre Krise sind ein Geschäftsmodell"
       ],
-      "warum": "die Einordnung des Benzinpreises ist rechnerisch unwiderlegbar und trotzdem kein Trost an der Saeule",
+      "warum": "weil die Dauer-Krisenhilfe für die boomende Hotellerie unwidersprechlich ist",
+      "bild": "vorschlag-3.jpg"
+    },
+    {
+      "vorlage": "doge",
+      "name": "Buff Doge vs. Cheems",
+      "zeilen": [
+        "Service public 1996",
+        "Korrespondenten in aller Welt",
+        "Service public 2027",
+        "Enavant statt 38 Stellen"
+      ],
+      "warum": "weil der Abbau als Vergleich früher gegen heute am deutlichsten wird",
       "bild": "vorschlag-4.jpg"
     }
   ]
