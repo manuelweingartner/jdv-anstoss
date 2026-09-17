@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-17",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
   "fertig": true,
   "ideen": [
     {
@@ -19,21 +19,6 @@
       }
     },
     {
-      "id": "2026-09-17-0804-10",
-      "typ": "persönlich",
-      "stichwort": "Faktor 50 gegen 690 Hektar",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich creme mich jeden Morgen mit Faktor 50 ein, aus Prinzip. In Valencia sind 690 Hektar verbrannt, nach Spaniens heissestem Sommer. Meiner Haut geht es blendend. Lückenlos. Seit zwanzig Jahren.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-09-17-0804-12",
       "typ": "persönlich",
       "stichwort": "50 Jahre Österreich, neun Bussen",
@@ -46,21 +31,6 @@
         "anker": true,
         "neu": true,
         "witz": true
-      }
-    },
-    {
-      "id": "2026-09-17-0804-17",
-      "typ": "schnittmenge",
-      "stichwort": "Fünf Posts recycelt, UBS-Regeln seit 2011",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe meine letzten fünf Posts nochmal als Bilder gepostet. Der Bundesrat verlangt seit 2011 strengere Regeln für die UBS. Auch immer dasselbe. Nur ohne Folgen.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
       }
     },
     {
@@ -91,6 +61,21 @@
         "anker": true,
         "neu": true,
         "witz": true
+      }
+    },
+    {
+      "id": "2026-09-17-0804-29",
+      "typ": "remix",
+      "stichwort": "Fussmatte beim Autokauf, Quantencomputer beim Kampfjet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich bekomme beim Autokauf eine Fussmatte. Die Schweiz kauft 36 Kampfjets und bekommt einen Quantencomputer für die ETH. Ausgehandelt hat beides der Verkäufer. Gratis. Angeblich.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
       }
     }
   ]
