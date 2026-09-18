@@ -4,64 +4,94 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-18-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "Swiss Life streicht jede 20. Stelle bei mehr Gewinn",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Swiss Life streicht fast jede 20. Stelle und meldet mehr Gewinn. Wer dort eine Rente beantragt, muss belegen, dass es ihm schlecht geht. Der Konzern nicht."
-    },
-    {
-      "id": "2026-09-18-0757-09",
-      "typ": "remix",
-      "stichwort": "Katar 560 Events bis 2027, Wahlen nicht dabei",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe zwei Termine pro Woche und finde das viel. Katar kündigt bis 2027 über 560 Events an, mehr als einen pro Tag. Wahlen sind keine dabei."
-    },
-    {
-      "id": "2026-09-18-0757-10",
-      "typ": "persönlich",
-      "stichwort": "5 Franken am Schalter, Revolut und Fed am selben Tag",
+      "id": "2026-09-18-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Valencia unter Wasser, Sprit billiger",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Ich zahle 5 Franken fürs Abheben am Schalter. Gleiche Woche: Revolut will eine Schweizer Banklizenz, die Fed erhöht den Leitzins. Konkurrenz belebt das Geschäft. Meine Gebühr bleibt."
+      "text": "Regenfälle haben in Valencia und Katalonien ganze Strassen unter Wasser gesetzt. In derselben Woche will ein SVP-Politiker den Sprit billiger machen. Damit man schneller wegkommt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-18-0757-11",
-      "typ": "persönlich",
-      "stichwort": "Neue Wildkatze in Bolivien, neue Raubtiere bei uns",
+      "id": "2026-09-18-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nestlé, Babynahrung, Zwangsverwaltung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Forschende haben in Bolivien eine neue Wildkatze entdeckt. Ich wohne in einem Land, das neue Raubtiere nicht erforscht, sondern ab dem 1. September zum Abschuss freigibt. Vorsorglich."
+      "format": 13,
+      "text": "Ich bin Nestlé und seit 2022 in Russland geblieben, weil Babynahrung humanitär ist. Jetzt hat Putin zwei meiner Töchter unter Zwangsverwaltung gestellt. Der Markt reguliert sich.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-18-0757-12",
-      "typ": "persönlich",
-      "stichwort": "Restwert des Totalschadens gegen den iPhone-Preis",
+      "id": "2026-09-18-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuerverwaltung: das reichste Prozent zahlt nicht über seine Verhältnisse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich bin die Steuerverwaltung. Neue Studie: Das reichste Prozent zahlt anteilig am wenigsten Steuern. Beruhigend, dass hier niemand über seine Verhältnisse zahlt. Freiwillig. Auf eigenen Wunsch.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-18-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nestlé unter Zwangsverwaltung, endlich ein Markt mit denselben Werten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Wir bei Nestlé sind nach 2022 in Russland geblieben. Jetzt stellt Putin zwei unserer Töchter unter Zwangsverwaltung. Endlich ein Markt, der unsere Werte teilt. Bedingungslos. Unkündbar.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-18-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Miele fünf Jahre, Vaterschaft zwei Wochen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe eine Miele mit fünf Jahren Garantie gekauft. Der Vaterschaftsurlaub in diesem Land dauert zwei Wochen. Verlängerung gibt es nur beim Gerät.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-18-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sechs Monate gratis, Bewerbung lückenhaft",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich fahre ein Auto, das nach dem Hagel ein Totalschaden ist. Restwert 900 Franken (echtes Detail einsetzen), weniger als das neue iPhone. Versichert ist nur noch das Telefon. Mit Displayschutz."
-    },
-    {
-      "id": "2026-09-18-0757-16",
-      "typ": "persönlich",
-      "stichwort": "Mietautos in Appenzell, Stimmrecht 1990",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 12,
-      "text": "Ich stand in Appenzell Innerrhoden auf einem Parkplatz voller Mietautos, Leute reisen an für die Urdemokratie. Frauen stimmen hier seit 1990 mit. Angeordnet vom Bundesgericht."
+      "format": 3,
+      "text": "Ich habe sechs Monate gratis gearbeitet und es Praktikum genannt. Wer sich Gratisarbeit nicht leisten kann, heisst in der Bewerbung lückenhaft.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
