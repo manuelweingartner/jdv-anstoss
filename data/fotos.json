@@ -1,51 +1,61 @@
 {
-  "stand": "2026-09-17T17:00:55+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-18T08:16:31+02:00",
+  "lauf": "0815",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "König Charles warnt vor »existenziellen Gefahren« von KI-Systemen",
-      "was": "König Charles am Rednerpult, mahnende Geste, Rede über KI-Gefahren",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: ein Amt, das man erbt, warnt vor einer Macht, die niemand gewählt hat.",
+      "id": "0815-1",
+      "titel": "Duma-Wahl in Russland: Alles unter Kontrolle - und doch ein Stresstest?",
+      "was": "Wähler werfen Zettel in Urnen, Wahlhelfer und Beobachter posieren daneben",
+      "richtung": "Mechanik: wörtlich nehmen, was nur symbolisch vollzogen wird. Achse: der Aufwand der Wahlinszenierung gegen ein Ergebnis, das vorher feststeht.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
-      "auch_bei": [
-        "NZZ"
-      ],
-      "artikel": "https://www.spiegel.de/netzwelt/netzpolitik/koenig-charles-warnt-vor-existenziellen-gefahren-von-ki-systemen-a-1f84edb0-c123-4d77-a00b-a0dc6222ce40#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/582debc7-27e6-439c-9e66-0f99d50ec3b3_w520_r2.08_fpx6_fpy30.jpg",
-      "zeit": "2026-09-17T16:02+02:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "KOMMENTAR - Kanada und die EU: Aus dem Flirt könnte rasch eine enttäuschte Liebe werden",
-      "was": "Carney mit EU-Spitzen, Handschlag und Fahnenreihe im Parlamentssaal",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Bündnis aus Überzeugung gegen Bündnis aus fehlenden Alternativen.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "NZZ",
+      "raum": "schweiz",
+      "quelle": "Tagesschau",
       "auch_bei": [
         "SRF"
       ],
-      "artikel": "https://www.nzz.ch/meinung/kanada-und-die-eu-aus-dem-flirt-koennte-rasch-eine-enttaeuschte-liebe-werden-ld.10024274",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/17/59bf6392-4782-40ee-a187-4e2098a0ee64.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1616,1616,x360,y0",
-      "zeit": "2026-09-17T15:00+02:00"
+      "artikel": "https://www.tagesschau.de/ausland/europa/russland-duma-wahl-auftakt-100.html",
+      "bild": "https://images.tagesschau.de/image/26ed43e4-b9fb-4857-8523-27e59eb699c2/AAABoK-UOGk/AAABnSSvrFg/16x9-big/wahlplakate-moskau-104.jpg?width=1280",
+      "zeit": "2026-09-18T07:04+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Grüne Wiesen: Nun wird der Schnee für den Ski-Weltcup ausgepackt",
-      "was": "Weisses Schneeband auf grüner Wiese, Pistenfahrzeuge verteilen eingelagerten Schnee",
-      "richtung": "Mechanik: wörtlich nehmen, was als Naturereignis verkauft wird. Achse: Wintersaison nach Kalender gegen Winter nach Wetterlage.",
+      "id": "0815-2",
+      "titel": "Nestlé-Geschäft in Russland – Nestlé-Geschäft unter Zwangsverwaltung: Warum macht Putin das?",
+      "was": "Putin am Schreibtisch beim Unterzeichnen, dazu Nestlé-Regale in russischen Supermärkten",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Zwangsverwaltung als nüchterner Verwaltungsakt gegen Enteignung als Tatsache.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "SRF",
+      "auch_bei": [
+        "20 Minuten",
+        "Tagesschau"
+      ],
+      "artikel": "https://www.srf.ch/news/international/nestle-geschaeft-in-russland-nestle-geschaeft-unter-zwangsverwaltung-warum-macht-putin-das",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/15f15e9.jpg",
+      "zeit": "2026-09-18T06:56+02:00"
+    },
+    {
+      "id": "0815-3",
+      "titel": "Heidi Klum zeigt ihren amerikanischen Freunden deutsche Kultur",
+      "was": "Prominente in Dirndl, Lederhosen und Euter-Kostüm auf Klums Oktoberfest-Party",
+      "richtung": "Mechanik: wörtlich nehmen, was als Kostüm gemeint ist. Achse: Brauchtum als Verkleidung für einen Abend gegen die Herkunft, die man sonst meidet.",
       "grund": "memetauglich",
       "raum": "",
       "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/mitten-im-september-gruene-wiesen-nun-wird-der-schnee-fuer-den-ski-weltcup-ausgepackt-103634736",
-      "bild": "https://image.20min.ch/2026/09/17/c30c8dbd-b806-4c99-bdf3-bbb9f83eada4.png?s=b5e1c180f7ade21014d3d4bd2fb54fbd",
-      "zeit": "2026-09-17T15:32+02:00"
+      "artikel": "https://www.20min.ch/story/heidifest-in-muenchen-heidi-klum-zeigt-ihren-amerikanischen-freunden-deutsche-kultur-103635163",
+      "bild": "https://image.20min.ch/2026/09/17/72fd6563-ec41-4bf3-99c8-eaa576c7c5a8.jpg?s=a62be009cf09893915780f718c1ae46e",
+      "zeit": "2026-09-18T02:15+02:00"
     }
   ],
-  "erwartet": [],
+  "erwartet": [
+    {
+      "wann": "heute tagsüber",
+      "was": "Bilder aus russischen Wahllokalen: Urnen, Wahlhelfer, prominente Stimmabgaben"
+    },
+    {
+      "wann": "heute, Rand des Treffens",
+      "was": "Gruppenbild der EU-Finanzminister in Dublin, Handschlag und Reihenaufstellung"
+    }
+  ],
   "hinweis": ""
 }
