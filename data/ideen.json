@@ -24,6 +24,36 @@
       "text": "Ich habe zwei Termine pro Woche und finde das viel. Katar kündigt bis 2027 über 560 Events an, mehr als einen pro Tag. Wahlen sind keine dabei."
     },
     {
+      "id": "2026-09-18-0757-16",
+      "typ": "persönlich",
+      "stichwort": "Mietautos in Appenzell, Stimmrecht 1990",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 12,
+      "text": "Ich stand in Appenzell Innerrhoden auf einem Parkplatz voller Mietautos, Leute reisen an für die Urdemokratie. Frauen stimmen hier seit 1990 mit. Angeordnet vom Bundesgericht."
+    },
+    {
+      "id": "2026-09-18-0757-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fünf Posts neu verpackt, PFAS-Fleisch untergemischt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Meine letzten fünf Posts verpacke ich gerade als Bilder neu, gleicher Inhalt, andere Hülle. Der Bundesrat will belastetes PFAS-Fleisch untermischen, bis es unter dem Grenzwert liegt."
+    },
+    {
+      "id": "2026-09-18-0757-18",
+      "typ": "schnittmenge",
+      "stichwort": "300'000 Menschen, kein eigenes Frauenhaus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Fast 300'000 Menschen leben im Kanton Thurgau. Ein eigenes Frauenhaus gibt es nicht, wer flüchten muss, fährt in den Nachbarkanton. Mit Kindern. Nachts."
+    },
+    {
       "id": "2026-09-18-0757-22",
       "typ": "politisch-aktuell",
       "stichwort": "Nespresso entkalkt, Nestlé nicht",
@@ -32,36 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 16,
       "text": "Ich habe meine Nespresso-Maschine entkalkt und dabei mehr Widerstand geleistet als Nestlé, seit es 2022 in Russland geblieben ist. Jetzt kassiert Putin zwei Tochterfirmen per Dekret. Entkalkt."
-    },
-    {
-      "id": "2026-09-18-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "oberstes Prozent, kleinster Steueranteil",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich gehöre zum obersten 1 Prozent und zahle laut der neuen Studie den kleinsten Steueranteil. Richtig so: ich nutze den Staat ja kaum. Ausser die Gerichte. Und die Nationalbank."
-    },
-    {
-      "id": "2026-09-18-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nestlé-Töchter unter Zwangsverwaltung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Putin hat zwei unserer russischen Töchter unter Zwangsverwaltung gestellt. Wir sind trotzdem seit 2022 im Land, weil ein Rückzug niemandem hilft. Ausser dem Gewissen."
-    },
-    {
-      "id": "2026-09-18-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wohnung spart schneller",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich spare seit zwölf Jahren für 20 Prozent Eigenkapital. Die Wohnung spart schneller. Sie legt drei Prozent im Jahr zu, ich zwei."
     }
   ]
 }
