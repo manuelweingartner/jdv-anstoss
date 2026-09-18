@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-18",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-18-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "Swiss Life streicht jede 20. Stelle bei mehr Gewinn",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Swiss Life streicht fast jede 20. Stelle und meldet mehr Gewinn. Wer dort eine Rente beantragt, muss belegen, dass es ihm schlecht geht. Der Konzern nicht."
+    },
+    {
+      "id": "2026-09-18-0757-09",
+      "typ": "remix",
+      "stichwort": "Katar 560 Events bis 2027, Wahlen nicht dabei",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe zwei Termine pro Woche und finde das viel. Katar kündigt bis 2027 über 560 Events an, mehr als einen pro Tag. Wahlen sind keine dabei."
+    },
     {
       "id": "2026-09-18-0757-22",
       "typ": "politisch-aktuell",
@@ -42,16 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Ich spare seit zwölf Jahren für 20 Prozent Eigenkapital. Die Wohnung spart schneller. Sie legt drei Prozent im Jahr zu, ich zwei."
-    },
-    {
-      "id": "2026-09-18-0757-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ruestung findet Frieden gut",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Als Rüstungskonzern finde ich den Frieden gut. Wir haben unseren Umsatz seit 2021 vervierfacht, ganz ohne einen einzigen Krieg zu gewinnen. Gewinnen war nie das Geschäft. Dauern schon."
     }
   ]
 }
