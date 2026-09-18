@@ -13267,6 +13267,86 @@
         "neu": true
       },
       "datum": "2026-09-14"
+    },
+    {
+      "id": "2026-09-17-0804-09",
+      "typ": "remix",
+      "stichwort": "300 Millionen Riechzellen gegen 300 Milliarden Parameter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Ich habe gelesen, dass der Zoll trotz KI weiter auf Spürhunde setzt. 300 Millionen Riechzellen schlagen 300 Milliarden Parameter. Der Hund arbeitet für Leberwurst. Ohne Abo.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-17"
+    },
+    {
+      "id": "2026-09-17-0804-12",
+      "typ": "persönlich",
+      "stichwort": "50 Jahre Österreich, neun Bussen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Eine ORF-Journalistin lebt seit 50 Jahren in Österreich und wird wegen neun Verkehrsbussen nicht eingebürgert. Ich habe nichts geleistet ausser hier geboren zu sein. Reicht lebenslang.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-17"
+    },
+    {
+      "id": "2026-09-17-0804-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "1996 reduzierte Mehrwertsteuer, seither Rekordjahre",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Ich vertrete die Hotellerie. Seit 1996 zahlen wir eine reduzierte Mehrwertsteuer gegen die Krise und melden seither Rekordjahre. Ausgebucht seit Jahren. Notleidend seit dreissig.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-17"
+    },
+    {
+      "id": "2026-09-17-0804-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "3'000 Franken Vorschuss, nie unrecht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Für eine Klage über 20'000 Franken zahlt man vorab rund 3'000 Franken Gerichtskostenvorschuss. Wer die nicht hat, verliert keinen einzigen Prozess.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-17"
+    },
+    {
+      "id": "2026-09-17-0804-29",
+      "typ": "remix",
+      "stichwort": "Fussmatte beim Autokauf, Quantencomputer beim Kampfjet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich bekomme beim Autokauf eine Fussmatte. Die Schweiz kauft 36 Kampfjets und bekommt einen Quantencomputer für die ETH. Ausgehandelt hat beides der Verkäufer. Gratis. Angeblich.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-17"
     }
   ]
 }
