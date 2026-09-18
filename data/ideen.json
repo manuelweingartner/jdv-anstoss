@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-18",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -49,21 +49,6 @@
       }
     },
     {
-      "id": "2026-09-18-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nestlé unter Zwangsverwaltung, endlich ein Markt mit denselben Werten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Wir bei Nestlé sind nach 2022 in Russland geblieben. Jetzt stellt Putin zwei unserer Töchter unter Zwangsverwaltung. Endlich ein Markt, der unsere Werte teilt. Bedingungslos. Unkündbar.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-09-18-0757-05",
       "typ": "politisch-aktuell",
       "stichwort": "Miele fünf Jahre, Vaterschaft zwei Wochen",
@@ -90,6 +75,36 @@
       "jury": {
         "neu": true,
         "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-18-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "3000 Franken Pflege, Wohnzimmer sieben Tage",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Zu Hause gepflegt wird in diesem Land, wer 3'000 Franken im Monat aufbringt. Dafür schläft eine Frau aus Rumänien sieben Tage die Woche im Wohnzimmer. Freiwillig.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-18-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "Swiss Life streicht jede 20. Stelle bei mehr Gewinn",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Swiss Life streicht fast jede 20. Stelle und meldet mehr Gewinn. Wer dort eine Rente beantragt, muss belegen, dass es ihm schlecht geht. Der Konzern nicht.",
+      "jury": {
+        "anker": true,
+        "neu": true,
         "witz": true
       }
     }
