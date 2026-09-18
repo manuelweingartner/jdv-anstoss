@@ -24,6 +24,36 @@
       "text": "Ich habe zwei Termine pro Woche und finde das viel. Katar kündigt bis 2027 über 560 Events an, mehr als einen pro Tag. Wahlen sind keine dabei."
     },
     {
+      "id": "2026-09-18-0757-10",
+      "typ": "persönlich",
+      "stichwort": "5 Franken am Schalter, Revolut und Fed am selben Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich zahle 5 Franken fürs Abheben am Schalter. Gleiche Woche: Revolut will eine Schweizer Banklizenz, die Fed erhöht den Leitzins. Konkurrenz belebt das Geschäft. Meine Gebühr bleibt."
+    },
+    {
+      "id": "2026-09-18-0757-11",
+      "typ": "persönlich",
+      "stichwort": "Neue Wildkatze in Bolivien, neue Raubtiere bei uns",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Forschende haben in Bolivien eine neue Wildkatze entdeckt. Ich wohne in einem Land, das neue Raubtiere nicht erforscht, sondern ab dem 1. September zum Abschuss freigibt. Vorsorglich."
+    },
+    {
+      "id": "2026-09-18-0757-12",
+      "typ": "persönlich",
+      "stichwort": "Restwert des Totalschadens gegen den iPhone-Preis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich fahre ein Auto, das nach dem Hagel ein Totalschaden ist. Restwert 900 Franken (echtes Detail einsetzen), weniger als das neue iPhone. Versichert ist nur noch das Telefon. Mit Displayschutz."
+    },
+    {
       "id": "2026-09-18-0757-16",
       "typ": "persönlich",
       "stichwort": "Mietautos in Appenzell, Stimmrecht 1990",
@@ -32,36 +62,6 @@
       "haltbarkeit": "evergreen",
       "format": 12,
       "text": "Ich stand in Appenzell Innerrhoden auf einem Parkplatz voller Mietautos, Leute reisen an für die Urdemokratie. Frauen stimmen hier seit 1990 mit. Angeordnet vom Bundesgericht."
-    },
-    {
-      "id": "2026-09-18-0757-17",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fünf Posts neu verpackt, PFAS-Fleisch untergemischt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Meine letzten fünf Posts verpacke ich gerade als Bilder neu, gleicher Inhalt, andere Hülle. Der Bundesrat will belastetes PFAS-Fleisch untermischen, bis es unter dem Grenzwert liegt."
-    },
-    {
-      "id": "2026-09-18-0757-18",
-      "typ": "schnittmenge",
-      "stichwort": "300'000 Menschen, kein eigenes Frauenhaus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Fast 300'000 Menschen leben im Kanton Thurgau. Ein eigenes Frauenhaus gibt es nicht, wer flüchten muss, fährt in den Nachbarkanton. Mit Kindern. Nachts."
-    },
-    {
-      "id": "2026-09-18-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nespresso entkalkt, Nestlé nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe meine Nespresso-Maschine entkalkt und dabei mehr Widerstand geleistet als Nestlé, seit es 2022 in Russland geblieben ist. Jetzt kassiert Putin zwei Tochterfirmen per Dekret. Entkalkt."
     }
   ]
 }
