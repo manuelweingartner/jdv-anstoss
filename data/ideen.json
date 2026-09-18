@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-18",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Putin hat zwei unserer russischen Töchter unter Zwangsverwaltung gestellt. Wir sind trotzdem seit 2022 im Land, weil ein Rückzug niemandem hilft. Ausser dem Gewissen."
+    },
+    {
+      "id": "2026-09-18-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohnung spart schneller",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich spare seit zwölf Jahren für 20 Prozent Eigenkapital. Die Wohnung spart schneller. Sie legt drei Prozent im Jahr zu, ich zwei."
+    },
+    {
+      "id": "2026-09-18-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ruestung findet Frieden gut",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Als Rüstungskonzern finde ich den Frieden gut. Wir haben unseren Umsatz seit 2021 vervierfacht, ganz ohne einen einzigen Krieg zu gewinnen. Gewinnen war nie das Geschäft. Dauern schon."
     }
   ]
 }
