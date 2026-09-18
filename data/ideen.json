@@ -1,8 +1,18 @@
 {
   "datum": "2026-09-18",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-18-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nespresso entkalkt, Nestlé nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe meine Nespresso-Maschine entkalkt und dabei mehr Widerstand geleistet als Nestlé, seit es 2022 in Russland geblieben ist. Jetzt kassiert Putin zwei Tochterfirmen per Dekret. Entkalkt."
+    },
     {
       "id": "2026-09-18-0757-23",
       "typ": "politisch-aktuell",
