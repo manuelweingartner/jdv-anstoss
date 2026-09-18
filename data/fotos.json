@@ -1,60 +1,55 @@
 {
-  "stand": "2026-09-18T08:16:31+02:00",
-  "lauf": "0815",
+  "stand": "2026-09-18T17:00:50+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0815-1",
-      "titel": "Duma-Wahl in Russland: Alles unter Kontrolle - und doch ein Stresstest?",
-      "was": "Wähler werfen Zettel in Urnen, Wahlhelfer und Beobachter posieren daneben",
-      "richtung": "Mechanik: wörtlich nehmen, was nur symbolisch vollzogen wird. Achse: der Aufwand der Wahlinszenierung gegen ein Ergebnis, das vorher feststeht.",
+      "id": "1700-1",
+      "titel": "Kylian Mbappé kooperiert mit On: Die Schweizer Firma will mit dem Superstar den umkämpften Fussballmarkt erobern",
+      "was": "Kylian Mbappé posiert im Werbeshooting mit Schweizer Laufschuhen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Schweizer Understatement als Markenkern gegen den teuersten Namen im Weltfussball.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "Tagesschau",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "20 Minuten"
+      ],
+      "artikel": "https://www.nzz.ch/sport/fussball/on-steigt-mit-kylian-mbappe-an-der-seite-ins-fussball-geschaeft-ein-ld.10024467",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/18/6a5ff77d-fbc4-433d-98b8-6b730296d705.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3568,3568,x263,y790",
+      "zeit": "2026-09-18T15:01+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Bundesrat lehnt die Grenzschutzinitiative ohne Gegenvorschlag ab",
+      "was": "Bundesrat am Rednerpult vor Bundeswappen, Medienkonferenz zur Initiative",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: das Gefühl einer kontrollierten Grenze gegen die Summe, die dieses Gefühl kostet.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "NZZ",
       "auch_bei": [
         "SRF"
       ],
-      "artikel": "https://www.tagesschau.de/ausland/europa/russland-duma-wahl-auftakt-100.html",
-      "bild": "https://images.tagesschau.de/image/26ed43e4-b9fb-4857-8523-27e59eb699c2/AAABoK-UOGk/AAABnSSvrFg/16x9-big/wahlplakate-moskau-104.jpg?width=1280",
-      "zeit": "2026-09-18T07:04+02:00"
+      "artikel": "https://www.nzz.ch/schweiz/bundesrat-lehnt-die-grenzschutzinitiative-ohne-gegenvorschlag-ab-ld.10024408",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/18/9746e915-8670-454a-a327-1f53af4e80fb.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4581,4581,x842,y0",
+      "zeit": "2026-09-18T16:09+02:00"
     },
     {
-      "id": "0815-2",
-      "titel": "Nestlé-Geschäft in Russland – Nestlé-Geschäft unter Zwangsverwaltung: Warum macht Putin das?",
-      "was": "Putin am Schreibtisch beim Unterzeichnen, dazu Nestlé-Regale in russischen Supermärkten",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Zwangsverwaltung als nüchterner Verwaltungsakt gegen Enteignung als Tatsache.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [
-        "20 Minuten",
-        "Tagesschau"
-      ],
-      "artikel": "https://www.srf.ch/news/international/nestle-geschaeft-in-russland-nestle-geschaeft-unter-zwangsverwaltung-warum-macht-putin-das",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/15f15e9.jpg",
-      "zeit": "2026-09-18T06:56+02:00"
-    },
-    {
-      "id": "0815-3",
-      "titel": "Heidi Klum zeigt ihren amerikanischen Freunden deutsche Kultur",
-      "was": "Prominente in Dirndl, Lederhosen und Euter-Kostüm auf Klums Oktoberfest-Party",
-      "richtung": "Mechanik: wörtlich nehmen, was als Kostüm gemeint ist. Achse: Brauchtum als Verkleidung für einen Abend gegen die Herkunft, die man sonst meidet.",
+      "id": "1700-3",
+      "titel": "Schweizer Imker jagen die asiatische Hornisse mit Hightech-Methoden",
+      "was": "Imker im weissen Schutzanzug mit Peilantenne im Wald",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Hightech-Ortung und Vollmontur gegen die tatsächliche Körpergrösse des Gegners.",
       "grund": "memetauglich",
-      "raum": "",
-      "quelle": "20 Minuten",
+      "raum": "schweiz",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/heidifest-in-muenchen-heidi-klum-zeigt-ihren-amerikanischen-freunden-deutsche-kultur-103635163",
-      "bild": "https://image.20min.ch/2026/09/17/72fd6563-ec41-4bf3-99c8-eaa576c7c5a8.jpg?s=a62be009cf09893915780f718c1ae46e",
-      "zeit": "2026-09-18T02:15+02:00"
+      "artikel": "https://www.nzz.ch/panorama/schweizer-imker-jagen-die-asiatische-hornisse-mit-hightech-methoden-ld.10024394",
+      "bild": "https://img-msp-prod.nzz.ch/2025/06/23/2f9b54fb-bd0b-4e07-99e1-d971d32956bc.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2410,2410,x658,y0",
+      "zeit": "2026-09-18T13:05+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute tagsüber",
-      "was": "Bilder aus russischen Wahllokalen: Urnen, Wahlhelfer, prominente Stimmabgaben"
-    },
-    {
-      "wann": "heute, Rand des Treffens",
-      "was": "Gruppenbild der EU-Finanzminister in Dublin, Handschlag und Reihenaufstellung"
+      "wann": "heute, im Lauf des Tages",
+      "was": "Bilder aus russischen Wahllokalen zum Start der dreitägigen Duma-Wahl: Urnen, Wahlhelferinnen, inszenierte Stimmabgabe"
     }
   ],
   "hinweis": ""
