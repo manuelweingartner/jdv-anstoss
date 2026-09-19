@@ -44,24 +44,24 @@
       "text": "Der Vitaminkonzern DSM-Firmenich streicht 230 Stellen, 50 davon im Aargau. Ein Unternehmen, das vom Beheben von Mangelerscheinungen lebt, stellt jetzt selber welche her. Ganz ohne Tablette."
     },
     {
-      "id": "2026-09-19-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "KI-Proteste, Gefahr steht im Prospekt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Vor den Büros von OpenAI und Anthropic wird demonstriert, die KI sei zu gefährlich. Als Hersteller sage ich das seit 2023. Steht bei uns im Prospekt. Unter Produktvorteile."
-    },
-    {
-      "id": "2026-09-19-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vitaminkonzern streicht 230 Stellen",
+      "id": "2026-09-19-0757-16",
+      "typ": "persönlich",
+      "stichwort": "Mietautos in Appenzell, Auto schneller eingebürgert",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich produziere Vitamine für die Abwehrkräfte und streiche 230 Stellen. Wer das übersteht, ist der beste Beweis für mein Produkt. Ganz ohne Studie."
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich war in Appenzell Innerrhoden, überall Mietautos. Angemeldet dort wegen der Motorfahrzeugsteuer, eine der tiefsten im Land. Ein Auto ist nach einer Woche eingebürgert, ein Mensch nach zehn Jahren. Ohne Test."
+    },
+    {
+      "id": "2026-09-19-0757-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti, neues AKW, erster Strom 2050",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Albert Rösti will neue Atomkraftwerke bewilligen. Der erste Strom käme frühestens 2050, also im Jahr, in dem die Schweiz klimaneutral sein will. Ich bin dann 64. Punktlandung."
     }
   ]
 }
