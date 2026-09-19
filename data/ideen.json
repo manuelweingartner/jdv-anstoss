@@ -1,8 +1,23 @@
 {
   "datum": "2026-09-19",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-09-19-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "2.41 Diesel und Grönland-Abkommen am selben Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich tanke Diesel für 2.41 Franken, neuer Schweizer Rekord. Am selben Tag einigen sich die USA und Dänemark über Grönland. Zwei Wege an Rohstoffe zu kommen. Einer mit Quittung.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
+    },
     {
       "id": "2026-09-19-0757-16",
       "typ": "persönlich",
@@ -49,36 +64,6 @@
       }
     },
     {
-      "id": "2026-09-19-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vitaminkonzern streicht 230 Stellen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich produziere Vitamine für die Abwehrkräfte und streiche 230 Stellen. Wer das übersteht, ist der beste Beweis für mein Produkt. Ganz ohne Studie.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-19-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Handy nach drei Jahren ersetzt, Fünftagewoche von 1926",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe mein Handy ersetzt, weil es drei Jahre alt war. Die Fünftagewoche hat Henry Ford 1926 eingeführt. Läuft noch. Keine Updates nötig.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-09-19-0757-30",
       "typ": "persönlich",
       "stichwort": "fast 40, Ronaldo 50, Buffett 96",
@@ -91,6 +76,21 @@
         "witz": true,
         "anker": true,
         "neu": true
+      }
+    },
+    {
+      "id": "2026-09-19-0757-38",
+      "typ": "persönlich",
+      "stichwort": "Eigene Texte als Bilder, Adéla 1,8 Millionen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Gestern Abend habe ich eigene Texte in Bilder verwandelt. Adéla wurde 2023 Letzte einer Castingshow und hat 1,8 Millionen Tiktok-Follower, mehr als der Kanton Zürich. Ich arbeite an meinem Ausscheiden.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
       }
     }
   ]
