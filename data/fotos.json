@@ -1,55 +1,57 @@
 {
-  "stand": "2026-09-18T17:00:50+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-19T08:05:40+02:00",
+  "lauf": "0804",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Kylian Mbappé kooperiert mit On: Die Schweizer Firma will mit dem Superstar den umkämpften Fussballmarkt erobern",
-      "was": "Kylian Mbappé posiert im Werbeshooting mit Schweizer Laufschuhen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Schweizer Understatement als Markenkern gegen den teuersten Namen im Weltfussball.",
+      "id": "0804-1",
+      "titel": "Dänemark und USA verkünden Einigung im Grönland-Streit",
+      "was": "Unterzeichner aus USA, Dänemark und Grönland posieren mit Mappen und Flaggen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: monatelange Annexionsdrohung gegen die Feierlaune eines Partnerschaftsabkommens, das dieselben Militäranlagen bringt.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "NZZ",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "20 Minuten"
+        "20 Minuten",
+        "SRF",
+        "Tagesschau"
       ],
-      "artikel": "https://www.nzz.ch/sport/fussball/on-steigt-mit-kylian-mbappe-an-der-seite-ins-fussball-geschaeft-ein-ld.10024467",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/18/6a5ff77d-fbc4-433d-98b8-6b730296d705.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3568,3568,x263,y790",
-      "zeit": "2026-09-18T15:01+02:00"
+      "artikel": "https://www.spiegel.de/ausland/daenemark-und-usa-verkuenden-einigung-im-groenland-streit-a-3b1862ed-e331-4dde-8265-e5ec805254b6#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/e18f9b2d-2489-44da-9a6c-c3147f84e8fb_w520_r2.08_fpx49.76_fpy48.99.jpg",
+      "zeit": "2026-09-19T00:16+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Bundesrat lehnt die Grenzschutzinitiative ohne Gegenvorschlag ab",
-      "was": "Bundesrat am Rednerpult vor Bundeswappen, Medienkonferenz zur Initiative",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: das Gefühl einer kontrollierten Grenze gegen die Summe, die dieses Gefühl kostet.",
+      "id": "0804-2",
+      "titel": "Krieg in der Ukraine – Trump unterzeichnet Sanktionsgesetz gegen Russland",
+      "was": "Trump hält das unterschriebene Sanktionsgesetz in die Kameras",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: maximale Härte gegen russisches Geld auf dem Papier gegen russisches Geld im eigenen Familienkalender.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "NZZ",
+      "raum": "weltweit",
+      "quelle": "SRF",
       "auch_bei": [
-        "SRF"
+        "Spiegel"
       ],
-      "artikel": "https://www.nzz.ch/schweiz/bundesrat-lehnt-die-grenzschutzinitiative-ohne-gegenvorschlag-ab-ld.10024408",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/18/9746e915-8670-454a-a327-1f53af4e80fb.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4581,4581,x842,y0",
-      "zeit": "2026-09-18T16:09+02:00"
+      "artikel": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-trump-unterzeichnet-sanktionsgesetz-gegen-russland",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/ce648d.jpg",
+      "zeit": "2026-09-19T07:12+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Schweizer Imker jagen die asiatische Hornisse mit Hightech-Methoden",
-      "was": "Imker im weissen Schutzanzug mit Peilantenne im Wald",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Hightech-Ortung und Vollmontur gegen die tatsächliche Körpergrösse des Gegners.",
+      "id": "0804-3",
+      "titel": "Davis Cup gegen Brasilien – Wawrinka und Stricker verlieren: Schweiz in arger Rücklage",
+      "was": "Wawrinka erschöpft auf dem Sandplatz in Rio, brasilianische Fans jubeln",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Routine und Erfahrung als Versprechen gegen den Spielstand als Auskunft.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "NZZ",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/panorama/schweizer-imker-jagen-die-asiatische-hornisse-mit-hightech-methoden-ld.10024394",
-      "bild": "https://img-msp-prod.nzz.ch/2025/06/23/2f9b54fb-bd0b-4e07-99e1-d971d32956bc.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2410,2410,x658,y0",
-      "zeit": "2026-09-18T13:05+02:00"
+      "artikel": "https://www.srf.ch/sport/tennis/davis-cup/davis-cup-gegen-brasilien-wawrinka-und-stricker-verlieren-schweiz-in-arger-ruecklage",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/88f7c1.jpg",
+      "zeit": "2026-09-19T01:38+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, im Lauf des Tages",
-      "was": "Bilder aus russischen Wahllokalen zum Start der dreitägigen Duma-Wahl: Urnen, Wahlhelferinnen, inszenierte Stimmabgabe"
+      "wann": "heute ab 17:00",
+      "was": "Davis Cup Tag zwei in Rio: Doppel und Einzel, Bilder von Jubel und Verzweiflung auf beiden Bänken"
     }
   ],
   "hinweis": ""
