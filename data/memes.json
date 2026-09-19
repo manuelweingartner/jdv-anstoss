@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-18T08:17:51+02:00",
+  "stand": "2026-09-19T08:06:49+02:00",
   "vorschlaege": [
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Reiche zahlen am wenigsten Steuern",
-        "Standortgerechte Belastungsverteilung"
+        "Top 1 Prozent zahlt am wenigsten",
+        "Steuerlich attraktiver Wirtschaftsstandort"
       ],
-      "warum": "Die Studie beschreibt genau die Sache, fuer die es das vornehme Wort gibt",
+      "warum": "weil dieselbe Zahl je nach Wortwahl Skandal oder Standortpolitik heisst",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Eigenmittelfrage zurueck an den Bundesrat",
-        "20 Milliarden Eigenkapital",
-        "FDP-Staenderaete vor den Wahlen"
+        "Lange Übergangsfristen",
+        "Mehr Eigenkapital",
+        "Der Ständerat"
       ],
-      "warum": "Caronis Antrag ist der Ausweichmanoever-Moment kurz vor der Regulierung",
+      "warum": "weil im letzten Moment vom vernünftigen Weg auf die Schonfrist gezogen wird",
       "bild": "vorschlag-2.jpg"
-    },
-    {
-      "vorlage": "schild",
-      "name": "Change My Mind",
-      "zeilen": [
-        "Krisenhilfe seit 1996 heisst Subvention"
-      ],
-      "warum": "Eine These zum Hotellerie-Steuerprivileg, der niemand sachlich widersprechen kann",
-      "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Nestle 1974",
-        "Verhandelt mit Regierungen",
-        "Nestle 2026",
-        "Dekret gelesen, Kenntnis genommen"
+        "Bank mit Stahltresor",
+        "Filiale mit Panzerglas",
+        "Revolut, App im Handy",
+        "Kontodaten im Erpresserbrief"
       ],
-      "warum": "Der Weltkonzern als behauptetes Frueher gegen die Zwangsverwaltung von heute",
+      "warum": "weil der Vergleich zwischen altem Bankschutz und heutigem Login die Figur selbst ist",
+      "bild": "vorschlag-3.jpg"
+    },
+    {
+      "vorlage": "schild",
+      "name": "Change My Mind",
+      "zeilen": [
+        "2.41 Franken Diesel ist keine Klimapolitik"
+      ],
+      "warum": "weil der Satz um Widerspruch bittet, den der Rekordpreis nicht hergibt",
       "bild": "vorschlag-4.jpg"
     }
   ]
