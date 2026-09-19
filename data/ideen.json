@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-19",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Vor den Büros von OpenAI und Anthropic wird demonstriert, die KI sei zu gefährlich. Als Hersteller sage ich das seit 2023. Steht bei uns im Prospekt. Unter Produktvorteile."
+    },
+    {
+      "id": "2026-09-19-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vitaminkonzern streicht 230 Stellen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich produziere Vitamine für die Abwehrkräfte und streiche 230 Stellen. Wer das übersteht, ist der beste Beweis für mein Produkt. Ganz ohne Studie."
+    },
+    {
+      "id": "2026-09-19-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Verband prüft Xhakas Zertifikat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Als Verband prüfen wir bei Granit Xhaka das mutmasslich gefälschte Covid-Zertifikat. Für die Huldigung eines Kriegsverbrechers sind wir nicht zuständig. Das ist Meinungsfreiheit. Ein Zertifikat nicht."
     }
   ]
 }
