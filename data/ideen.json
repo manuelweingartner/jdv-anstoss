@@ -1,112 +1,37 @@
 {
-  "datum": "2026-09-18",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-09-19",
+  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-18-0757-01",
+      "id": "2026-09-19-0757-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Valencia unter Wasser, Sprit billiger",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Regenfälle haben in Valencia und Katalonien ganze Strassen unter Wasser gesetzt. In derselben Woche will ein SVP-Politiker den Sprit billiger machen. Damit man schneller wegkommt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-18-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nestlé, Babynahrung, Zwangsverwaltung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich bin Nestlé und seit 2022 in Russland geblieben, weil Babynahrung humanitär ist. Jetzt hat Putin zwei meiner Töchter unter Zwangsverwaltung gestellt. Der Markt reguliert sich.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-18-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Steuerverwaltung: das reichste Prozent zahlt nicht über seine Verhältnisse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich bin die Steuerverwaltung. Neue Studie: Das reichste Prozent zahlt anteilig am wenigsten Steuern. Beruhigend, dass hier niemand über seine Verhältnisse zahlt. Freiwillig. Auf eigenen Wunsch.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-18-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Miele fünf Jahre, Vaterschaft zwei Wochen",
+      "stichwort": "Überstunden, kompensiert, 14. Monatslohn",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ich habe eine Miele mit fünf Jahren Garantie gekauft. Der Vaterschaftsurlaub in diesem Land dauert zwei Wochen. Verlängerung gibt es nur beim Gerät.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
+      "text": "Ich habe dieses Jahr 47 Überstunden angesammelt, die ich bis Dezember kompensieren muss, sonst verfallen sie. Zusammengerechnet arbeiten wir in diesem Land einen dreizehnten Monat gratis. Der vierzehnte ist in Planung."
     },
     {
-      "id": "2026-09-18-0757-06",
+      "id": "2026-09-19-0757-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Sechs Monate gratis, Bewerbung lückenhaft",
+      "stichwort": "Aktienrückkauf, Lohnrunde, steuerfrei",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Ich habe sechs Monate gratis gearbeitet und es Praktikum genannt. Wer sich Gratisarbeit nicht leisten kann, heisst in der Bewerbung lückenhaft.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
+      "format": 1,
+      "text": "Zahlt eine Firma eine Dividende, zahlen die Aktionäre darauf Steuern. Kauft sie stattdessen eigene Aktien zurück, heisst dasselbe Geld Kursgewinn und ist steuerfrei. Die Lohnrunde fiel leider knapp aus."
     },
     {
-      "id": "2026-09-18-0757-07",
+      "id": "2026-09-19-0757-07",
       "typ": "politisch-aktuell",
-      "stichwort": "3000 Franken Pflege, Wohnzimmer sieben Tage",
+      "stichwort": "Vermögensverwaltung, Sozialdetektiv, Berufsbild",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Zu Hause gepflegt wird in diesem Land, wer 3'000 Franken im Monat aufbringt. Dafür schläft eine Frau aus Rumänien sieben Tage die Woche im Wohnzimmer. Freiwillig.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-18-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "Swiss Life streicht jede 20. Stelle bei mehr Gewinn",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Swiss Life streicht fast jede 20. Stelle und meldet mehr Gewinn. Wer dort eine Rente beantragt, muss belegen, dass es ihm schlecht geht. Der Konzern nicht.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "format": 19,
+      "text": "Ich habe nachgeschaut: In der Schweiz arbeiten rund 40'000 Menschen in der Vermögensverwaltung. Ungefähr gleich viele in der Pflege im Kanton Zürich. Nur eine der beiden Gruppen gilt als systemrelevant. Raten Sie."
     }
   ]
 }
