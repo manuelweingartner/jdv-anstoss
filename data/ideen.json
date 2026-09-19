@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-19",
-  "hinweis": "3 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,16 @@
       "haltbarkeit": "evergreen",
       "format": 19,
       "text": "Ich habe nachgeschaut: In der Schweiz arbeiten rund 40'000 Menschen in der Vermögensverwaltung. Ungefähr gleich viele in der Pflege im Kanton Zürich. Nur eine der beiden Gruppen gilt als systemrelevant. Raten Sie."
+    },
+    {
+      "id": "2026-09-19-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "KI-Proteste, Gefahr steht im Prospekt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Vor den Büros von OpenAI und Anthropic wird demonstriert, die KI sei zu gefährlich. Als Hersteller sage ich das seit 2023. Steht bei uns im Prospekt. Unter Produktvorteile."
     }
   ]
 }
