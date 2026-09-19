@@ -4,46 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-19-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Überstunden, kompensiert, 14. Monatslohn",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe dieses Jahr 47 Überstunden angesammelt, die ich bis Dezember kompensieren muss, sonst verfallen sie. Zusammengerechnet arbeiten wir in diesem Land einen dreizehnten Monat gratis. Der vierzehnte ist in Planung."
-    },
-    {
-      "id": "2026-09-19-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Aktienrückkauf, Lohnrunde, steuerfrei",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Zahlt eine Firma eine Dividende, zahlen die Aktionäre darauf Steuern. Kauft sie stattdessen eigene Aktien zurück, heisst dasselbe Geld Kursgewinn und ist steuerfrei. Die Lohnrunde fiel leider knapp aus."
-    },
-    {
-      "id": "2026-09-19-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vermögensverwaltung, Sozialdetektiv, Berufsbild",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich habe nachgeschaut: In der Schweiz arbeiten rund 40'000 Menschen in der Vermögensverwaltung. Ungefähr gleich viele in der Pflege im Kanton Zürich. Nur eine der beiden Gruppen gilt als systemrelevant. Raten Sie."
-    },
-    {
-      "id": "2026-09-19-0757-09",
-      "typ": "remix",
-      "stichwort": "Vitaminkonzern streicht 230 Stellen, Mangelerscheinung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Der Vitaminkonzern DSM-Firmenich streicht 230 Stellen, 50 davon im Aargau. Ein Unternehmen, das vom Beheben von Mangelerscheinungen lebt, stellt jetzt selber welche her. Ganz ohne Tablette."
-    },
-    {
       "id": "2026-09-19-0757-16",
       "typ": "persönlich",
       "stichwort": "Mietautos in Appenzell, Auto schneller eingebürgert",
@@ -51,7 +11,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ich war in Appenzell Innerrhoden, überall Mietautos. Angemeldet dort wegen der Motorfahrzeugsteuer, eine der tiefsten im Land. Ein Auto ist nach einer Woche eingebürgert, ein Mensch nach zehn Jahren. Ohne Test."
+      "text": "Ich war in Appenzell Innerrhoden, überall Mietautos. Angemeldet dort wegen der Motorfahrzeugsteuer, eine der tiefsten im Land. Ein Auto ist nach einer Woche eingebürgert, ein Mensch nach zehn Jahren. Ohne Test.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-19-0757-17",
@@ -61,7 +26,72 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 19,
-      "text": "Albert Rösti will neue Atomkraftwerke bewilligen. Der erste Strom käme frühestens 2050, also im Jahr, in dem die Schweiz klimaneutral sein will. Ich bin dann 64. Punktlandung."
+      "text": "Albert Rösti will neue Atomkraftwerke bewilligen. Der erste Strom käme frühestens 2050, also im Jahr, in dem die Schweiz klimaneutral sein will. Ich bin dann 64. Punktlandung.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-19-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "KI-Proteste, Gefahr steht im Prospekt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Vor den Büros von OpenAI und Anthropic wird demonstriert, die KI sei zu gefährlich. Als Hersteller sage ich das seit 2023. Steht bei uns im Prospekt. Unter Produktvorteile.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-19-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vitaminkonzern streicht 230 Stellen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich produziere Vitamine für die Abwehrkräfte und streiche 230 Stellen. Wer das übersteht, ist der beste Beweis für mein Produkt. Ganz ohne Studie.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-19-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Handy nach drei Jahren ersetzt, Fünftagewoche von 1926",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe mein Handy ersetzt, weil es drei Jahre alt war. Die Fünftagewoche hat Henry Ford 1926 eingeführt. Läuft noch. Keine Updates nötig.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-19-0757-30",
+      "typ": "persönlich",
+      "stichwort": "fast 40, Ronaldo 50, Buffett 96",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich bin fast 40 und finde Treppen anstrengend. Diese Woche wird Ronaldo 50 und Warren Buffett gibt mit 96 den Chefposten ab. An seinen Sohn, Jahrgang 1954.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
