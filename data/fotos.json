@@ -1,57 +1,60 @@
 {
-  "stand": "2026-09-19T08:05:40+02:00",
-  "lauf": "0804",
+  "stand": "2026-09-19T17:00:44+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0804-1",
-      "titel": "Dänemark und USA verkünden Einigung im Grönland-Streit",
-      "was": "Unterzeichner aus USA, Dänemark und Grönland posieren mit Mappen und Flaggen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: monatelange Annexionsdrohung gegen die Feierlaune eines Partnerschaftsabkommens, das dieselben Militäranlagen bringt.",
+      "id": "1700-1",
+      "titel": "Grönland, Dänemark und die USA einigen sich: Das ist über die Zukunft der grössten Insel der Welt bekannt",
+      "was": "Vertreter der USA, Dänemarks und Grönlands beim Handschlag vor Flaggen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Sicherheitspartnerschaft als Wort gegen Landnahme als Vorgang.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "SRF",
+        "Tagesschau"
+      ],
+      "artikel": "https://www.nzz.ch/international/groenland-daenemark-usa-neue-sicherheitsvereinbarung-erklaert-ld.10024561",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/19/7e4ec5a9-c842-4381-a9c5-464af3335902.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5389,5389,x1347,y0",
+      "zeit": "2026-09-19T12:05+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Donald Trump: Weißes Haus verwehrt Fernsehjournalisten von MS NOW den Zugang",
+      "was": "Trump am Rednerpult, Kameras und Reportermeute im Presseraum des Weissen Hauses",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Meinungsfreiheit als Dauerforderung gegen Hausverbot für die unbequeme Kamera.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
-        "20 Minuten",
-        "SRF",
         "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/ausland/daenemark-und-usa-verkuenden-einigung-im-groenland-streit-a-3b1862ed-e331-4dde-8265-e5ec805254b6#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/e18f9b2d-2489-44da-9a6c-c3147f84e8fb_w520_r2.08_fpx49.76_fpy48.99.jpg",
-      "zeit": "2026-09-19T00:16+02:00"
+      "artikel": "https://www.spiegel.de/ausland/donald-trump-weisses-haus-verwehrt-fernsehjournalisten-von-ms-now-den-zugang-a-5764ff07-67e0-44e2-8005-5d54860dfa2e#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/8f02ca23-a591-4c47-a81e-87694b2e0cb6_w520_r2.08_fpx44.67_fpy44.99.jpg",
+      "zeit": "2026-09-19T16:09+02:00"
     },
     {
-      "id": "0804-2",
-      "titel": "Krieg in der Ukraine – Trump unterzeichnet Sanktionsgesetz gegen Russland",
-      "was": "Trump hält das unterschriebene Sanktionsgesetz in die Kameras",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: maximale Härte gegen russisches Geld auf dem Papier gegen russisches Geld im eigenen Familienkalender.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "SRF",
-      "auch_bei": [
-        "Spiegel"
-      ],
-      "artikel": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-trump-unterzeichnet-sanktionsgesetz-gegen-russland",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/ce648d.jpg",
-      "zeit": "2026-09-19T07:12+02:00"
-    },
-    {
-      "id": "0804-3",
-      "titel": "Davis Cup gegen Brasilien – Wawrinka und Stricker verlieren: Schweiz in arger Rücklage",
-      "was": "Wawrinka erschöpft auf dem Sandplatz in Rio, brasilianische Fans jubeln",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Routine und Erfahrung als Versprechen gegen den Spielstand als Auskunft.",
+      "id": "1700-3",
+      "titel": "«O'zapft is» – Das 191. Münchner Oktoberfest ist eröffnet",
+      "was": "Politiker in Tracht mit Hammer am Bierfass, Massgläser im vollen Zelt",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: gefeierte Gemütlichkeit gegen den industriellen Massenbetrieb dahinter.",
       "grund": "memetauglich",
-      "raum": "schweiz",
+      "raum": "",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/sport/tennis/davis-cup/davis-cup-gegen-brasilien-wawrinka-und-stricker-verlieren-schweiz-in-arger-ruecklage",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/88f7c1.jpg",
-      "zeit": "2026-09-19T01:38+02:00"
+      "artikel": "https://www.srf.ch/news/international/o-zapft-is-das-191-muenchner-oktoberfest-ist-eroeffnet",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/02e0246.jpg",
+      "zeit": "2026-09-19T15:03+02:00"
     }
   ],
   "erwartet": [
     {
       "wann": "heute ab 17:00",
-      "was": "Davis Cup Tag zwei in Rio: Doppel und Einzel, Bilder von Jubel und Verzweiflung auf beiden Bänken"
+      "was": "Bierzeltbilder vom Oktoberfest-Eröffnungstag: Prominenz in Tracht, Mass in beiden Händen"
+    },
+    {
+      "wann": "heute ab 20:00",
+      "was": "FC Sion gegen FC Zürich: Fankurven, Jubel und Verzweiflung auf der Bank"
     }
   ],
   "hinweis": ""
