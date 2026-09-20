@@ -44,24 +44,24 @@
       "text": "Sonnencreme Faktor 50 kostet mich 22 Franken und reicht korrekt dosiert für fünf Anwendungen. Ein Flug nach Palma kostet 39. Ich creme trotzdem weiter."
     },
     {
-      "id": "2026-09-20-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ventilator für 39 Franken, Klimademos Genf und Lausanne",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe den Hitzesommer mit einem Ventilator für 39 Franken gelöst. In Genf und Lausanne demonstrierten Tausende für mehr. Der Bundesrat hat auch einen Ventilator. Stufe zwei."
-    },
-    {
-      "id": "2026-09-20-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Sanktionspaket und Mobilisierungsflucht, Visumstermin in Moskau",
+      "id": "2026-09-20-0757-16",
+      "typ": "persönlich",
+      "stichwort": "Mietautos in Appenzell, Fortschritt geliehen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Trump unterzeichnet neue Sanktionen gegen Russland, in derselben Woche fliehen junge Russen vor der Mobilisierung. Wer nicht in den Krieg will, braucht bei uns ein Visum. Mit Termin. In Moskau."
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Ich habe in Appenzell Innerrhoden einen Parkplatz voller Mietautos gezählt. Das Frauenstimmrecht kam hier 1990, und auch nur, weil das Bundesgericht es angeordnet hat. Geliehen. Wie die Autos."
+    },
+    {
+      "id": "2026-09-20-0757-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Thurgau 290'000 Einwohner*innen, kein Frauenhaus",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Der Kanton Thurgau hat 290'000 Einwohner*innen und kein eigenes Frauenhaus. Wer hier nachts fliehen muss, fährt in einen anderen Kanton. Mit Kind, ohne Gepäck. Es ginge um ein Haus."
     }
   ]
 }
