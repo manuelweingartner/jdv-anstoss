@@ -4,64 +4,94 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-20-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "Vier Tote ohne Beweise, Quittung im Kleiderladen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Das US-Militär tötet vier Menschen in der Karibik, Beweise für den Drogenhandel gibt es keine. Im Kleiderladen muss ich für zwei Socken die Quittung zeigen."
-    },
-    {
-      "id": "2026-09-20-0757-10",
-      "typ": "persönlich",
-      "stichwort": "Brandalarm streicht Züge, Studie streicht nichts",
+      "id": "2026-09-20-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Revolut-Hack, Lösegeld als Gebühr",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich habe 50 Minuten auf einen Intercity gewartet, den ein FCZ-Brandalarm gestrichen hat. Am selben Tag: das reichste Prozent zahlt laut Studie anteilig am wenigsten Steuern. Gestrichen wird dort nichts."
+      "format": 13,
+      "text": "Ich bin Revolut, Ihre Bank. Die Hacker mit Ihren Kontodaten verlangen das Lösegeld jetzt direkt bei Ihnen. Endlich eine Gebühr, die wir nicht erfunden haben. Günstiger als unsere Kontoführung.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-20-0757-11",
-      "typ": "persönlich",
-      "stichwort": "Turnhalle angestanden, Xhaka hatte eine Hausärztin",
+      "id": "2026-09-20-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "200'000 Deserteure als Kostenposten",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe damals 90 Minuten in einer Turnhalle angestanden, um geimpft zu werden. Granit Xhaka hatte dafür eine Hausärztin in Luzern. Gleiche Pandemie. Andere Türen."
+      "format": 13,
+      "text": "Als Rüstungskonzern finde ich es richtig, dass 200'000 ukrainische Soldaten ihre Einheiten verlassen haben. Das Material bleibt ja da. Personal war immer der teurere Posten. Und schwerer nachzubestellen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-09-20-0757-12",
-      "typ": "persönlich",
-      "stichwort": "Faktor 50 teurer als der Flug nach Palma",
+      "id": "2026-09-20-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ventilator für 39 Franken, Klimademos Genf und Lausanne",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Sonnencreme Faktor 50 kostet mich 22 Franken und reicht korrekt dosiert für fünf Anwendungen. Ein Flug nach Palma kostet 39. Ich creme trotzdem weiter."
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe den Hitzesommer mit einem Ventilator für 39 Franken gelöst. In Genf und Lausanne demonstrierten Tausende für mehr. Der Bundesrat hat auch einen Ventilator. Stufe zwei.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-20-0757-16",
-      "typ": "persönlich",
-      "stichwort": "Mietautos in Appenzell, Fortschritt geliehen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 5,
-      "text": "Ich habe in Appenzell Innerrhoden einen Parkplatz voller Mietautos gezählt. Das Frauenstimmrecht kam hier 1990, und auch nur, weil das Bundesgericht es angeordnet hat. Geliehen. Wie die Autos."
-    },
-    {
-      "id": "2026-09-20-0757-17",
+      "id": "2026-09-20-0757-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Thurgau 290'000 Einwohner*innen, kein Frauenhaus",
-      "plattform": "Instagram + Threads",
+      "stichwort": "Revolut-Hack, Erpresser schreiben den Kunden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Bei Revolut wurden Kontodaten von tausenden Schweizer Kundinnen geklaut. Als Bank begrüsse ich, dass sich endlich jemand persönlich bei ihnen meldet. Kostenlos. Ohne Wartezeit. Auf Deutsch.",
+      "format": "frei",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-20-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "UBS-Lohn in Bundesräten gerechnet",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der Kanton Thurgau hat 290'000 Einwohner*innen und kein eigenes Frauenhaus. Wer hier nachts fliehen muss, fährt in einen anderen Kanton. Mit Kind, ohne Gepäck. Es ginge um ein Haus."
+      "format": 19,
+      "text": "14,9 Millionen hat der UBS-Chef letztes Jahr verdient. Das sind 32 Bundesräte. Wir leisten uns sieben. Und finden das teuer.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-20-0757-37",
+      "typ": "politisch-aktuell",
+      "stichwort": "80 Feuerwehren, kein Frauenhaus",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "80 Gemeinden im Kanton Thurgau halten sich eine Feuerwehr, der Kanton kein einziges Frauenhaus. Offenbar brennt es hier öfter, als Männer zuschlagen.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     }
   ]
 }
