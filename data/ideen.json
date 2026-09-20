@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-20",
-  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 1,
       "text": "Das US-Militär tötet vier Menschen in der Karibik, Beweise für den Drogenhandel gibt es keine. Im Kleiderladen muss ich für zwei Socken die Quittung zeigen."
+    },
+    {
+      "id": "2026-09-20-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Revolut-Hack, Erpresser schreiben den Kunden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Bei Revolut wurden Kontodaten von tausenden Schweizer Kundinnen geklaut. Als Bank begrüsse ich, dass sich endlich jemand persönlich bei ihnen meldet. Kostenlos. Ohne Wartezeit. Auf Deutsch.",
+      "format": "frei"
     }
   ]
 }
