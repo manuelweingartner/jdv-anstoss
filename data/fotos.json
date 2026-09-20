@@ -1,60 +1,57 @@
 {
-  "stand": "2026-09-20T08:06:50+02:00",
-  "lauf": "0805",
+  "stand": "2026-09-20T17:00:58+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0805-1",
-      "titel": "Nach monatelangem Streit um Grönland: Mögliches Abkommen zwischen Dänemark, den USA und Grönland",
-      "was": "Unterzeichnung des Grönland-Abkommens, Trump zwischen dänischer und grönländischer Delegation vor Flaggen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: abgewehrte Übernahme gegen gefeierten Deal, je nachdem wer die Bildlegende schreibt.",
+      "id": "1700-1",
+      "titel": "Kulturnews in Kurzform – Werner Herzog warnt vor Künstlicher Intelligenz",
+      "was": "Werner Herzog mit Ehrenpreis auf der Bühne des Filmfestivals",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: die Trophäe für ein Lebenswerk in der Hand gegen die Warnung, dass die Maschine das Werk demnächst selber macht.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Tagesschau",
+      "quelle": "SRF",
       "auch_bei": [
-        "SRF",
-        "taz"
+        "Tagesschau"
       ],
-      "artikel": "https://www.tagesschau.de/tagesthemen/video-1651962.html",
-      "bild": "https://images.tagesschau.de/image/4a29422b-1d05-4a99-b4e1-6b09f8a9c62f/AAABoLuM62I/AAABnSSvrFg/16x9-big/sendungsbild-1798734.jpg?width=1280",
-      "zeit": "2026-09-19T23:23+02:00"
+      "artikel": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-werner-herzog-warnt-vor-kuenstlicher-intelligenz",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf/2058e6.jpg",
+      "zeit": "2026-09-20T16:08+02:00"
     },
     {
-      "id": "0805-2",
-      "titel": "INTERVIEW - Die Schweiz sei ein Leuchtturm der Demokratie. Als Vorbild tauge sie indes nicht, sagt der Chefkommentator der «Financial Times»",
-      "was": "INTERVIEW - Die Schweiz sei ein Leuchtturm der Demokratie. Als Vorbild tauge sie indes nicht, sagt der Chefkom",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Bodenständigkeit als Fototermin gegen fünf Jahre Landespolitik danach.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "taz"
-      ],
-      "artikel": "https://www.nzz.ch/international/die-schweiz-sei-ein-leuchtturm-der-demokratie-als-vorbild-tauge-sie-indes-nicht-sagt-der-chefkommentator-der-financial-times-ld.10024243",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/17/2a6c8e24-8aa5-4bc1-90cb-aab2fe05efff.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=991,991,x684,y342",
-      "zeit": "2026-09-20T05:30+02:00"
-    },
-    {
-      "id": "0805-3",
-      "titel": "Ruderwettbewerbe an Olympia finden in einem Krokodilfluss statt. Kein Problem, sagen die Verantwortlichen",
-      "was": "Ruderboote auf dem trüben Fitzroy River, Funktionäre am Ufer",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: olympische Sicherheitsstandards gegen das, was tatsächlich im Wasser wohnt.",
+      "id": "1700-2",
+      "titel": "Donald Trump will aus seinem Triumphbogen plötzlich einen Militärkomplex machen",
+      "was": "Trump vor Modell oder Visualisierung seines geplanten Triumphbogens in Washington",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Denkmal für die Nation gegen Munitionslager mit Scharfschützen, dasselbe Bauwerk je nach Beschriftung.",
       "grund": "memetauglich",
       "raum": "weltweit",
-      "quelle": "NZZ",
+      "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/sport/ld.10024411",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/19/3c3bb14b-9da5-4504-b59b-02ac31ee15d1.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=777,777,x1133,y491",
-      "zeit": "2026-09-20T05:30+02:00"
+      "artikel": "https://www.spiegel.de/ausland/donald-trump-will-aus-seinem-triumphbogen-ploetzlich-einen-militaerkomplex-machen-a-1d038789-4998-471e-97a3-bd6479ee99f3#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/3e7165d4-9316-4413-b710-632042e6f307_w520_r2.08_fpx70_fpy46.98.jpg",
+      "zeit": "2026-09-20T15:07+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Wer mag nasse Hunde? – Zürcher Badis lassen zum Saisonende noch mal Hunde ins Wasser",
+      "was": "Nasse Hunde springen ins Becken einer Zürcher Badi",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: den ganzen Sommer streng verboten gegen am letzten Tag ausdrücklich erwünscht, bei identischem Hund und identischem Wasser.",
+      "grund": "memetauglich",
+      "raum": "schweiz",
+      "quelle": "SRF",
+      "auch_bei": [],
+      "artikel": "https://www.srf.ch/news/schweiz/wer-mag-nasse-hunde-zuercher-badis-lassen-zum-saisonende-noch-mal-hunde-ins-wasser",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/4ba46b.jpg",
+      "zeit": "2026-09-20T16:04+02:00"
     }
   ],
   "erwartet": [
     {
       "wann": "heute ab 18:00",
-      "was": "Wahlabend in Schwerin und Berlin: Jubel, versteinerte Gesichter und Blumensträusse auf den Parteibühnen"
+      "was": "Wahlabend in Berlin und Schwerin: Spitzenkandidaten vor Balkendiagrammen, Applaus bei schlechten Zahlen, Blumensträusse "
     },
     {
-      "wann": "heute tagsüber",
-      "was": "Zweiter Wiesn-Tag in München: Trachten, Masskrüge und Prominenz in der Loge"
+      "wann": "heute den ganzen Tag",
+      "was": "Wiesn-Bilder aus München: Masskrüge, Trachten, Festzelt-Prominenz und Sanitäter im Einsatzgewusel am Rand"
     }
   ],
   "hinweis": ""
