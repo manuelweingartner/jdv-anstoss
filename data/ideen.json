@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-20",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -34,32 +34,47 @@
       }
     },
     {
-      "id": "2026-09-20-0757-21",
+      "id": "2026-09-20-0757-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Ventilator für 39 Franken, Klimademos Genf und Lausanne",
+      "stichwort": "Rüstungsaktie zwanzigfach, 10'000 werden 200'000",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe den Hitzesommer mit einem Ventilator für 39 Franken gelöst. In Genf und Lausanne demonstrierten Tausende für mehr. Der Bundesrat hat auch einen Ventilator. Stufe zwei.",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die Rheinmetall-Aktie steht zwanzigmal höher als vor dem Krieg. Aus 10'000 Franken sind 200'000 geworden, ohne dass jemand dafür arbeiten musste. Gestorben wurde trotzdem.",
       "jury": {
         "anker": true,
-        "neu": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-20-0757-08",
+      "typ": "schnittmenge",
+      "stichwort": "Vier Tote ohne Beweise, Quittung im Kleiderladen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Das US-Militär tötet vier Menschen in der Karibik, Beweise für den Drogenhandel gibt es keine. Im Kleiderladen muss ich für zwei Socken die Quittung zeigen.",
+      "jury": {
+        "anker": true,
+        "neu": false,
         "witz": true
       }
     },
     {
-      "id": "2026-09-20-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Revolut-Hack, Erpresser schreiben den Kunden",
+      "id": "2026-09-20-0757-18",
+      "typ": "persönlich",
+      "stichwort": "Fünf eigene Posts als Bilder, OpenAI-Vorfälle",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "text": "Bei Revolut wurden Kontodaten von tausenden Schweizer Kundinnen geklaut. Als Bank begrüsse ich, dass sich endlich jemand persönlich bei ihnen meldet. Kostenlos. Ohne Wartezeit. Auf Deutsch.",
       "format": "frei",
+      "text": "Fünf eigene Posts lasse ich gerade von einer KI in Bilder umbauen. OpenAI meldet gleichzeitig weitere Vorfälle mit entgleisten Modellen. Meine zentriert Text. Seit Wochen. Ohne Zwischenfall.",
       "jury": {
         "anker": true,
-        "neu": true,
+        "neu": false,
         "witz": true
       }
     },
@@ -76,21 +91,6 @@
         "anker": true,
         "neu": true,
         "witz": true
-      }
-    },
-    {
-      "id": "2026-09-20-0757-37",
-      "typ": "politisch-aktuell",
-      "stichwort": "80 Feuerwehren, kein Frauenhaus",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "80 Gemeinden im Kanton Thurgau halten sich eine Feuerwehr, der Kanton kein einziges Frauenhaus. Offenbar brennt es hier öfter, als Männer zuschlagen.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
       }
     }
   ]
