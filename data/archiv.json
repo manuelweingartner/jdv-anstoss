@@ -13459,6 +13459,102 @@
         "witz": true
       },
       "datum": "2026-09-18"
+    },
+    {
+      "id": "2026-09-19-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "2.41 Diesel und Grönland-Abkommen am selben Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich tanke Diesel für 2.41 Franken, neuer Schweizer Rekord. Am selben Tag einigen sich die USA und Dänemark über Grönland. Zwei Wege an Rohstoffe zu kommen. Einer mit Quittung.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      },
+      "datum": "2026-09-19"
+    },
+    {
+      "id": "2026-09-19-0757-16",
+      "typ": "persönlich",
+      "stichwort": "Mietautos in Appenzell, Auto schneller eingebürgert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich war in Appenzell Innerrhoden, überall Mietautos. Angemeldet dort wegen der Motorfahrzeugsteuer, eine der tiefsten im Land. Ein Auto ist nach einer Woche eingebürgert, ein Mensch nach zehn Jahren. Ohne Test.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-19"
+    },
+    {
+      "id": "2026-09-19-0757-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti, neues AKW, erster Strom 2050",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Albert Rösti will neue Atomkraftwerke bewilligen. Der erste Strom käme frühestens 2050, also im Jahr, in dem die Schweiz klimaneutral sein will. Ich bin dann 64. Punktlandung.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-19"
+    },
+    {
+      "id": "2026-09-19-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "KI-Proteste, Gefahr steht im Prospekt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Vor den Büros von OpenAI und Anthropic wird demonstriert, die KI sei zu gefährlich. Als Hersteller sage ich das seit 2023. Steht bei uns im Prospekt. Unter Produktvorteile.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-19"
+    },
+    {
+      "id": "2026-09-19-0757-30",
+      "typ": "persönlich",
+      "stichwort": "fast 40, Ronaldo 50, Buffett 96",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich bin fast 40 und finde Treppen anstrengend. Diese Woche wird Ronaldo 50 und Warren Buffett gibt mit 96 den Chefposten ab. An seinen Sohn, Jahrgang 1954.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-19"
+    },
+    {
+      "id": "2026-09-19-0757-38",
+      "typ": "persönlich",
+      "stichwort": "Eigene Texte als Bilder, Adéla 1,8 Millionen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Gestern Abend habe ich eigene Texte in Bilder verwandelt. Adéla wurde 2023 Letzte einer Castingshow und hat 1,8 Millionen Tiktok-Follower, mehr als der Kanton Zürich. Ich arbeite an meinem Ausscheiden.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-19"
     }
   ]
 }
