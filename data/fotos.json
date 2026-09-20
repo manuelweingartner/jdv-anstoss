@@ -1,60 +1,60 @@
 {
-  "stand": "2026-09-19T17:00:44+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-20T08:06:50+02:00",
+  "lauf": "0805",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Grönland, Dänemark und die USA einigen sich: Das ist über die Zukunft der grössten Insel der Welt bekannt",
-      "was": "Vertreter der USA, Dänemarks und Grönlands beim Handschlag vor Flaggen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Sicherheitspartnerschaft als Wort gegen Landnahme als Vorgang.",
+      "id": "0805-1",
+      "titel": "Nach monatelangem Streit um Grönland: Mögliches Abkommen zwischen Dänemark, den USA und Grönland",
+      "was": "Unterzeichnung des Grönland-Abkommens, Trump zwischen dänischer und grönländischer Delegation vor Flaggen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: abgewehrte Übernahme gegen gefeierten Deal, je nachdem wer die Bildlegende schreibt.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "NZZ",
+      "raum": "",
+      "quelle": "Tagesschau",
       "auch_bei": [
         "SRF",
-        "Tagesschau"
+        "taz"
       ],
-      "artikel": "https://www.nzz.ch/international/groenland-daenemark-usa-neue-sicherheitsvereinbarung-erklaert-ld.10024561",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/19/7e4ec5a9-c842-4381-a9c5-464af3335902.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5389,5389,x1347,y0",
-      "zeit": "2026-09-19T12:05+02:00"
+      "artikel": "https://www.tagesschau.de/tagesthemen/video-1651962.html",
+      "bild": "https://images.tagesschau.de/image/4a29422b-1d05-4a99-b4e1-6b09f8a9c62f/AAABoLuM62I/AAABnSSvrFg/16x9-big/sendungsbild-1798734.jpg?width=1280",
+      "zeit": "2026-09-19T23:23+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Donald Trump: Weißes Haus verwehrt Fernsehjournalisten von MS NOW den Zugang",
-      "was": "Trump am Rednerpult, Kameras und Reportermeute im Presseraum des Weissen Hauses",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Meinungsfreiheit als Dauerforderung gegen Hausverbot für die unbequeme Kamera.",
+      "id": "0805-2",
+      "titel": "INTERVIEW - Die Schweiz sei ein Leuchtturm der Demokratie. Als Vorbild tauge sie indes nicht, sagt der Chefkommentator der «Financial Times»",
+      "was": "INTERVIEW - Die Schweiz sei ein Leuchtturm der Demokratie. Als Vorbild tauge sie indes nicht, sagt der Chefkom",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Bodenständigkeit als Fototermin gegen fünf Jahre Landespolitik danach.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
+      "raum": "schweiz",
+      "quelle": "NZZ",
       "auch_bei": [
-        "Tagesschau"
+        "taz"
       ],
-      "artikel": "https://www.spiegel.de/ausland/donald-trump-weisses-haus-verwehrt-fernsehjournalisten-von-ms-now-den-zugang-a-5764ff07-67e0-44e2-8005-5d54860dfa2e#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/8f02ca23-a591-4c47-a81e-87694b2e0cb6_w520_r2.08_fpx44.67_fpy44.99.jpg",
-      "zeit": "2026-09-19T16:09+02:00"
+      "artikel": "https://www.nzz.ch/international/die-schweiz-sei-ein-leuchtturm-der-demokratie-als-vorbild-tauge-sie-indes-nicht-sagt-der-chefkommentator-der-financial-times-ld.10024243",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/17/2a6c8e24-8aa5-4bc1-90cb-aab2fe05efff.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=991,991,x684,y342",
+      "zeit": "2026-09-20T05:30+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "«O'zapft is» – Das 191. Münchner Oktoberfest ist eröffnet",
-      "was": "Politiker in Tracht mit Hammer am Bierfass, Massgläser im vollen Zelt",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: gefeierte Gemütlichkeit gegen den industriellen Massenbetrieb dahinter.",
+      "id": "0805-3",
+      "titel": "Ruderwettbewerbe an Olympia finden in einem Krokodilfluss statt. Kein Problem, sagen die Verantwortlichen",
+      "was": "Ruderboote auf dem trüben Fitzroy River, Funktionäre am Ufer",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: olympische Sicherheitsstandards gegen das, was tatsächlich im Wasser wohnt.",
       "grund": "memetauglich",
-      "raum": "",
-      "quelle": "SRF",
+      "raum": "weltweit",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/o-zapft-is-das-191-muenchner-oktoberfest-ist-eroeffnet",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/02e0246.jpg",
-      "zeit": "2026-09-19T15:03+02:00"
+      "artikel": "https://www.nzz.ch/sport/ld.10024411",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/19/3c3bb14b-9da5-4504-b59b-02ac31ee15d1.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=777,777,x1133,y491",
+      "zeit": "2026-09-20T05:30+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 17:00",
-      "was": "Bierzeltbilder vom Oktoberfest-Eröffnungstag: Prominenz in Tracht, Mass in beiden Händen"
+      "wann": "heute ab 18:00",
+      "was": "Wahlabend in Schwerin und Berlin: Jubel, versteinerte Gesichter und Blumensträusse auf den Parteibühnen"
     },
     {
-      "wann": "heute ab 20:00",
-      "was": "FC Sion gegen FC Zürich: Fankurven, Jubel und Verzweiflung auf der Bank"
+      "wann": "heute tagsüber",
+      "was": "Zweiter Wiesn-Tag in München: Trachten, Masskrüge und Prominenz in der Loge"
     }
   ],
   "hinweis": ""
