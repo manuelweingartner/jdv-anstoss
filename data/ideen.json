@@ -14,6 +14,36 @@
       "text": "Das US-Militär tötet vier Menschen in der Karibik, Beweise für den Drogenhandel gibt es keine. Im Kleiderladen muss ich für zwei Socken die Quittung zeigen."
     },
     {
+      "id": "2026-09-20-0757-10",
+      "typ": "persönlich",
+      "stichwort": "Brandalarm streicht Züge, Studie streicht nichts",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich habe 50 Minuten auf einen Intercity gewartet, den ein FCZ-Brandalarm gestrichen hat. Am selben Tag: das reichste Prozent zahlt laut Studie anteilig am wenigsten Steuern. Gestrichen wird dort nichts."
+    },
+    {
+      "id": "2026-09-20-0757-11",
+      "typ": "persönlich",
+      "stichwort": "Turnhalle angestanden, Xhaka hatte eine Hausärztin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe damals 90 Minuten in einer Turnhalle angestanden, um geimpft zu werden. Granit Xhaka hatte dafür eine Hausärztin in Luzern. Gleiche Pandemie. Andere Türen."
+    },
+    {
+      "id": "2026-09-20-0757-12",
+      "typ": "persönlich",
+      "stichwort": "Faktor 50 teurer als der Flug nach Palma",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Sonnencreme Faktor 50 kostet mich 22 Franken und reicht korrekt dosiert für fünf Anwendungen. Ein Flug nach Palma kostet 39. Ich creme trotzdem weiter."
+    },
+    {
       "id": "2026-09-20-0757-21",
       "typ": "politisch-aktuell",
       "stichwort": "Ventilator für 39 Franken, Klimademos Genf und Lausanne",
@@ -32,36 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Trump unterzeichnet neue Sanktionen gegen Russland, in derselben Woche fliehen junge Russen vor der Mobilisierung. Wer nicht in den Krieg will, braucht bei uns ein Visum. Mit Termin. In Moskau."
-    },
-    {
-      "id": "2026-09-20-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Revolut-Hack, Erpresser schreiben den Kunden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Bei Revolut wurden Kontodaten von tausenden Schweizer Kundinnen geklaut. Als Bank begrüsse ich, dass sich endlich jemand persönlich bei ihnen meldet. Kostenlos. Ohne Wartezeit. Auf Deutsch.",
-      "format": "frei"
-    },
-    {
-      "id": "2026-09-20-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "17 Franken Betreibungsauszug pro Wohnungsbewerbung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich brauche für jede Wohnungsbewerbung einen Betreibungsauszug für 17 Franken, damit ein Amt bestätigt, dass ich niemandem Geld schulde. Zwanzig Bewerbungen, 340 Franken Beweis dafür, dass ich zahlen kann."
-    },
-    {
-      "id": "2026-09-20-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "UBS-Lohn in Bundesräten gerechnet",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "14,9 Millionen hat der UBS-Chef letztes Jahr verdient. Das sind 32 Bundesräte. Wir leisten uns sieben. Und finden das teuer."
     }
   ]
 }
