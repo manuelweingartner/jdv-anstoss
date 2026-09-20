@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-19T08:06:49+02:00",
+  "stand": "2026-09-20T08:08:09+02:00",
   "vorschlaege": [
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
         "Top 1 Prozent zahlt am wenigsten",
-        "Steuerlich attraktiver Wirtschaftsstandort"
+        "standortattraktive Steuerstruktur"
       ],
-      "warum": "weil dieselbe Zahl je nach Wortwahl Skandal oder Standortpolitik heisst",
+      "warum": "die Studie beschreibt genau dasselbe Faktum, das in der Politik nur den vornehmen Namen bekommt",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Lange Übergangsfristen",
-        "Mehr Eigenkapital",
-        "Der Ständerat"
+        "Weiter gleich viel zahlen",
+        "Mietsenkung verlangen",
+        "Mietende in der Schweiz"
       ],
-      "warum": "weil im letzten Moment vom vernünftigen Weg auf die Schonfrist gezogen wird",
+      "warum": "der Referenzzins bleibt gleich, der vernünftige Weg zur Senkung liegt trotzdem offen und wird nicht genommen",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Bank mit Stahltresor",
-        "Filiale mit Panzerglas",
-        "Revolut, App im Handy",
-        "Kontodaten im Erpresserbrief"
+        "Fed",
+        "unabhängig von jedem Präsidenten",
+        "Kevin Warsh",
+        "ein Zinsschritt als Abgrenzung"
       ],
-      "warum": "weil der Vergleich zwischen altem Bankschutz und heutigem Login die Figur selbst ist",
+      "warum": "behauptete Notenbank-Stärke früher gegen die heutige Distanzierung im Format eines einzigen Zinsschritts",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "2.41 Franken Diesel ist keine Klimapolitik"
+        "2.41 beim Diesel ist Klimapolitik"
       ],
-      "warum": "weil der Satz um Widerspruch bittet, den der Rekordpreis nicht hergibt",
+      "warum": "eine These, der niemand widersprechen kann, weil der Preis mehr bewirkt als jede Vorlage",
       "bild": "vorschlag-4.jpg"
     }
   ]
