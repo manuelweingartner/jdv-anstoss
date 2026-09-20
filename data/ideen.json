@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-20",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 1,
       "text": "Das US-Militär tötet vier Menschen in der Karibik, Beweise für den Drogenhandel gibt es keine. Im Kleiderladen muss ich für zwei Socken die Quittung zeigen."
+    },
+    {
+      "id": "2026-09-20-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ventilator für 39 Franken, Klimademos Genf und Lausanne",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe den Hitzesommer mit einem Ventilator für 39 Franken gelöst. In Genf und Lausanne demonstrierten Tausende für mehr. Der Bundesrat hat auch einen Ventilator. Stufe zwei."
+    },
+    {
+      "id": "2026-09-20-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sanktionspaket und Mobilisierungsflucht, Visumstermin in Moskau",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Trump unterzeichnet neue Sanktionen gegen Russland, in derselben Woche fliehen junge Russen vor der Mobilisierung. Wer nicht in den Krieg will, braucht bei uns ein Visum. Mit Termin. In Moskau."
     },
     {
       "id": "2026-09-20-0757-23",
