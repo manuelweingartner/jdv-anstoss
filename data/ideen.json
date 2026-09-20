@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-20",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "tagesgebunden",
       "text": "Bei Revolut wurden Kontodaten von tausenden Schweizer Kundinnen geklaut. Als Bank begrüsse ich, dass sich endlich jemand persönlich bei ihnen meldet. Kostenlos. Ohne Wartezeit. Auf Deutsch.",
       "format": "frei"
+    },
+    {
+      "id": "2026-09-20-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "17 Franken Betreibungsauszug pro Wohnungsbewerbung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich brauche für jede Wohnungsbewerbung einen Betreibungsauszug für 17 Franken, damit ein Amt bestätigt, dass ich niemandem Geld schulde. Zwanzig Bewerbungen, 340 Franken Beweis dafür, dass ich zahlen kann."
+    },
+    {
+      "id": "2026-09-20-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "UBS-Lohn in Bundesräten gerechnet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "14,9 Millionen hat der UBS-Chef letztes Jahr verdient. Das sind 32 Bundesräte. Wir leisten uns sieben. Und finden das teuer."
     }
   ]
 }
