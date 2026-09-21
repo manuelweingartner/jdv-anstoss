@@ -1,97 +1,27 @@
 {
-  "datum": "2026-09-20",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-09-21",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-20-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Revolut-Hack, Lösegeld als Gebühr",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich bin Revolut, Ihre Bank. Die Hacker mit Ihren Kontodaten verlangen das Lösegeld jetzt direkt bei Ihnen. Endlich eine Gebühr, die wir nicht erfunden haben. Günstiger als unsere Kontoführung.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-20-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "200'000 Deserteure als Kostenposten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Als Rüstungskonzern finde ich es richtig, dass 200'000 ukrainische Soldaten ihre Einheiten verlassen haben. Das Material bleibt ja da. Personal war immer der teurere Posten. Und schwerer nachzubestellen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-20-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rüstungsaktie zwanzigfach, 10'000 werden 200'000",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die Rheinmetall-Aktie steht zwanzigmal höher als vor dem Krieg. Aus 10'000 Franken sind 200'000 geworden, ohne dass jemand dafür arbeiten musste. Gestorben wurde trotzdem.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-20-0757-08",
+      "id": "2026-09-21-0757-08",
       "typ": "schnittmenge",
-      "stichwort": "Vier Tote ohne Beweise, Quittung im Kleiderladen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "stichwort": "Referenzzins gesenkt, Miete gleich",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Das US-Militär tötet vier Menschen in der Karibik, Beweise für den Drogenhandel gibt es keine. Im Kleiderladen muss ich für zwei Socken die Quittung zeigen.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
+      "text": "Steigt der Referenzzins, ist meine Miete in vier Wochen höher. Sinkt er, muss ich das schriftlich beantragen, begründen und höflich bleiben. Mit Frist. Zweimal."
     },
     {
-      "id": "2026-09-20-0757-18",
-      "typ": "persönlich",
-      "stichwort": "Fünf eigene Posts als Bilder, OpenAI-Vorfälle",
+      "id": "2026-09-21-0757-09",
+      "typ": "remix",
+      "stichwort": "KI prüft 2000 km Schienen, Bern steht still",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Fünf eigene Posts lasse ich gerade von einer KI in Bilder umbauen. OpenAI meldet gleichzeitig weitere Vorfälle mit entgleisten Modellen. Meine zentriert Text. Seit Wochen. Ohne Zwischenfall.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-20-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "UBS-Lohn in Bundesräten gerechnet",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "14,9 Millionen hat der UBS-Chef letztes Jahr verdient. Das sind 32 Bundesräte. Wir leisten uns sieben. Und finden das teuer.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "format": 2,
+      "text": "Die SBB lässt jetzt eine KI monatlich 2000 Kilometer Schienen kontrollieren. Erkannt hat sie alles. Ausser der Strecke bei Bern, die gestern stundenlang stillstand."
     }
   ]
 }
