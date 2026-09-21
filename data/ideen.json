@@ -1,112 +1,37 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "3 Ideen aussortiert und nicht ersetzt, Liste hat 7 statt 10.",
-  "fertig": true,
+  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-21-1959-02",
+      "id": "2026-09-21-2158-25",
       "typ": "politisch-aktuell",
-      "stichwort": "CNN raus, Sender kürzen selbst",
+      "stichwort": "Liste der Wohnungsbesitzer ohne Erbe",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Amerikas Sender fahren die Trump-Kritik zurück. Wer braucht Zensur, wenn es auch Redaktionssitzungen gibt?",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-21-1959-03",
-      "typ": "schnittmenge",
-      "stichwort": "Inklusion ist teuer, Ausgrenzung gratis",
-      "plattform": "Instagram + Threads",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Stimmt, Inklusion ist teuer. Dass jemand im Rollstuhl draussen bleibt, kostet dagegen nichts.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": false
-      }
+      "text": "Hier eine Liste aller Leute unter vierzig, die sich eine Wohnung gekauft haben, ohne dass jemand gestorben ist oder mitunterschrieben hat:\n-\n-\nThat's it."
     },
     {
-      "id": "2026-09-21-1959-08",
-      "typ": "schnittmenge",
-      "stichwort": "Gastredner ausgeladen vs. CNN aus dem Weissen Haus",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Uni lädt Gastredner aus: «Cancel Culture». Trump sperrt CNN aus dem Weissen Haus: «Hausrecht».",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-21-1959-10",
-      "typ": "persönlich",
-      "stichwort": "Puzzle-WM gegen Krankenkassenabrechnung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "An der Puzzle-WM in Valladolid legen 70 Nationen dasselbe unbekannte Bild. Ich mache das jeden Monat mit meiner Krankenkassenabrechnung. Kein Bild auf der Schachtel.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-21-1959-12",
-      "typ": "persönlich",
-      "stichwort": "Armee über die Mehrwertsteuer, Rüebli rüsten auf",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Der Ständerat will die Armee über die Mehrwertsteuer finanzieren. Künftig rüstet meine Packung Rüebli mit auf. Regional. Saisonal. Verteidigungsfähig.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-21-1959-16",
-      "typ": "persönlich",
-      "stichwort": "AI verhandelt, AI stimmt ab",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "USA und China verhandeln über AI-Risiken. Bei uns ist AI der Kanton, in dem Mietautos angemeldet sind und Frauen erst seit 1990 abstimmen. Gerichtlich verordnet.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-21-1959-26",
+      "id": "2026-09-21-2158-26",
       "typ": "politisch-aktuell",
-      "stichwort": "Wie lange arbeiten, bis man vom Arbeiten leben kann",
+      "stichwort": "Betreuungsstunden in der Steuererklärung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Meine Steuererklärung hat ein Feld für den Wert meines Autos und keines für die Stunden, in denen meine Frau ihre Mutter gewaschen hat. Volkswirtschaftlich ist das eine Null. Steuerlich auch. Sonst nirgends."
+    },
+    {
+      "id": "2026-09-21-2158-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vier Wochen Ferien, aber beim Lohn kein Minimum",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wie lange muss man eigentlich arbeiten, bis man vom Arbeiten leben kann? Frage für alle, die vom Besitzen leben. Ohne Wecker.",
-      "jury": {
-        "witz": true,
-        "anker": false,
-        "neu": true
-      }
+      "text": "Wie kann ein Land vier Wochen Ferien gesetzlich garantieren und beim Lohn sagen, das regle der Markt? Frage an alle, die beides unterschrieben haben. Mit demselben Stift."
     }
   ]
 }
