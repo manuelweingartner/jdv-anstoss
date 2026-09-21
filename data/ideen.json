@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-21-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wahlkommission erleichtert, Jabloko vorher raus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich bin die russische Wahlkommission und bin erleichtert: Die einzige Antikriegspartei haben wir vorher ausgeschlossen. Drei Tage Wahl ohne einen einzigen unangenehmen Moment. Sicherheitsrelevant."
-    },
-    {
       "id": "2026-09-21-0757-04",
       "typ": "politisch-aktuell",
       "stichwort": "Reederei bedankt sich für Fregatten im Roten Meer",
@@ -21,47 +11,87 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Als Reederei finde ich es richtig, dass Italien für unsere Frachter im Roten Meer europäische Kriegsschiffe fordert. Wir sparen zehn Tage Umweg um Afrika, ihr bezahlt die Fregatten. Partnerschaftlich."
+      "text": "Als Reederei finde ich es richtig, dass Italien für unsere Frachter im Roten Meer europäische Kriegsschiffe fordert. Wir sparen zehn Tage Umweg um Afrika, ihr bezahlt die Fregatten. Partnerschaftlich.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-21-0757-08",
-      "typ": "schnittmenge",
-      "stichwort": "Referenzzins gesenkt, Miete gleich",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Steigt der Referenzzins, ist meine Miete in vier Wochen höher. Sinkt er, muss ich das schriftlich beantragen, begründen und höflich bleiben. Mit Frist. Zweimal."
-    },
-    {
-      "id": "2026-09-21-0757-09",
-      "typ": "remix",
-      "stichwort": "KI prüft 2000 km Schienen, Bern steht still",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 2,
-      "text": "Die SBB lässt jetzt eine KI monatlich 2000 Kilometer Schienen kontrollieren. Erkannt hat sie alles. Ausser der Strecke bei Bern, die gestern stundenlang stillstand."
-    },
-    {
-      "id": "2026-09-21-0757-10",
+      "id": "2026-09-21-0757-16",
       "typ": "persönlich",
-      "stichwort": "Totalschaden fährt weiter, Arbeitsmarkt ab 55",
+      "stichwort": "Appenzell, der gern gesehene Ausländeranteil",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Mein Auto ist seit dem Hagel ein Totalschaden und fährt trotzdem jeden Tag. Wertlos heisst nicht kaputt. Das erklärt mal jemand dem Arbeitsmarkt ab 55. Funktioniert einwandfrei, nur nicht zum Listenpreis."
+      "text": "Ich war in Appenzell Innerrhoden, 16'000 Einwohner, der Parkplatz voll mit Mietautos. Der einzige Ausländeranteil, den hier alle gut finden, parkiert und fährt abends wieder heim.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-21-0757-11",
+      "id": "2026-09-21-0757-17",
       "typ": "persönlich",
-      "stichwort": "Faktor 50 für dreissig Jahre, Klima unrealistisch",
+      "stichwort": "21 Frauenhäuser, 2'400 Seilbahnen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Ich creme mich mit Faktor 50 ein, damit ich in dreissig Jahren kein Melanom habe. Beim Klima heisst derselbe Zeitraum unrealistische Planung. Jeden Tag. Auch bei Nebel."
+      "format": 19,
+      "text": "Der Kanton Thurgau hat kein eigenes Frauenhaus. Landesweit gibt es 21, dazu rund 2'400 Seilbahnen. Auf jeden Berg kommt man in diesem Land zuverlässig. Weg von zuhause nicht.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-21-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rheinpegel, zwei Drittel im Regal",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich bin Grosshändler und der Rhein führt so wenig Wasser, dass unsere Schiffe nur ein Drittel laden. Beruhigend: die fehlenden zwei Drittel holen wir im Regal.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-21-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kriegsschiffe fürs Rote Meer, Seenot versichert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Wir schicken europäische Kriegsschiffe ins Rote Meer, weil Italien um seine Lieferketten fürchtet. Endlich nimmt die EU Seenot ernst. Sofern sie versichert ist.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-21-0757-29",
+      "typ": "remix",
+      "stichwort": "Strompreis haengt an Trumps Posts",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Ich dachte, mein Strompreis hängt vom Wetter ab. Schweizer Energiekonzerne begründen ihre Handelsverluste inzwischen mit Trumps Posts. Kein Markt. Eine Kommentarspalte mit Steckdose.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
