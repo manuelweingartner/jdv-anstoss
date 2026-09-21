@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-21-2158-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rüstungsfonds, gespart wird beim Rest",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, der Ständerat spart jetzt überall, damit im Rüstungsfonds genug liegt für den Fall, dass uns jemand etwas wegnimmt?"
+    },
+    {
+      "id": "2026-09-21-2158-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor dem Iran, fremde Länder",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor dem Iran. Am Ende fällt der noch in fremde Länder ein."
+    },
     {
       "id": "2026-09-21-2158-25",
       "typ": "politisch-aktuell",
