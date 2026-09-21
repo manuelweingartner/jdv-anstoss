@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Ich bin heute elf Minuten zu frueh im Buero gewesen, weil der Bus so faehrt. Aufs Jahr sind das zwei Arbeitstage, die ich der Firma schenke. Unbezahlt. Mit Fahrplan. Freiwillig laut Vertrag."
+    },
+    {
+      "id": "2026-09-21-1913-28",
+      "typ": "schnittmenge",
+      "stichwort": "Xhaka-Zertifikat gegen Klimabilanz",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Granit Xhaka soll ein Covid-Zertifikat gefälscht haben und steht seit Tagen in jeder Sportsendung. Wer eine Klimabilanz fälscht, steht im Nachhaltigkeitsbericht."
+    },
+    {
+      "id": "2026-09-21-1913-29",
+      "typ": "remix",
+      "stichwort": "Fangseil zertifiziert, Lärmtest verschoben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Der Lärmtest für den F-35 in Meiringen ist verschoben, weil das Fangseil für den Jet nicht zertifiziert ist. Einmal so ernst genommen werden wie ein Seil."
     }
   ]
 }
