@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
   "fertig": true,
   "ideen": [
     {
@@ -19,33 +19,18 @@
       }
     },
     {
-      "id": "2026-09-21-0757-16",
-      "typ": "persönlich",
-      "stichwort": "Appenzell, der gern gesehene Ausländeranteil",
+      "id": "2026-09-21-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "300 Franken Busse abgesessen, Hafttag 350",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich war in Appenzell Innerrhoden, 16'000 Einwohner, der Parkplatz voll mit Mietautos. Der einzige Ausländeranteil, den hier alle gut finden, parkiert und fährt abends wieder heim.",
+      "format": 19,
+      "text": "Eine unbezahlte Busse von 300 Franken sitzt man in der Schweiz ab. Ein Hafttag kostet den Staat 350. Das rechnet sich nicht. Muss es auch nicht. Es geht ums Prinzip.",
       "jury": {
         "anker": true,
         "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-21-0757-17",
-      "typ": "persönlich",
-      "stichwort": "21 Frauenhäuser, 2'400 Seilbahnen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Der Kanton Thurgau hat kein eigenes Frauenhaus. Landesweit gibt es 21, dazu rund 2'400 Seilbahnen. Auf jeden Berg kommt man in diesem Land zuverlässig. Weg von zuhause nicht.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
+        "neu": false
       }
     },
     {
@@ -57,21 +42,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich bin Grosshändler und der Rhein führt so wenig Wasser, dass unsere Schiffe nur ein Drittel laden. Beruhigend: die fehlenden zwei Drittel holen wir im Regal.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-21-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kriegsschiffe fürs Rote Meer, Seenot versichert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Wir schicken europäische Kriegsschiffe ins Rote Meer, weil Italien um seine Lieferketten fürchtet. Endlich nimmt die EU Seenot ernst. Sofern sie versichert ist.",
       "jury": {
         "anker": true,
         "witz": true,
@@ -91,6 +61,21 @@
         "anker": true,
         "witz": true,
         "neu": true
+      }
+    },
+    {
+      "id": "2026-09-21-0757-30",
+      "typ": "persönlich",
+      "stichwort": "Faktor 50 gegen 120 Staatschefs",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich creme mich mit Faktor 50 ein für zwanzig Minuten Balkon. Diese Woche reden 120 Staatschefs in New York über die Erderwärmung. Einer von uns übertreibt.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
       }
     }
   ]
