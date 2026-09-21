@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Wie kann ein Land vier Wochen Ferien gesetzlich garantieren und beim Lohn sagen, das regle der Markt? Frage an alle, die beides unterschrieben haben. Mit demselben Stift."
+    },
+    {
+      "id": "2026-09-21-2158-30",
+      "typ": "persönlich",
+      "stichwort": "Totalschaden-Auto tankt Rekorddiesel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Mein Auto ist offiziell ein Totalschaden und tankt jetzt Diesel für 2.41 den Liter. Wertlos bleibt hier nur, was auf dem Papier steht. Alles andere steigt."
+    },
+    {
+      "id": "2026-09-21-2158-31",
+      "typ": "persönlich",
+      "stichwort": "Referenzzins und die unsichtbare Mietsenkung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Zwei Jahre Zentralschweiz, und hier eine Liste aller Vermieter, die nach dem Referenzzins-Entscheid von selbst gesenkt haben: - - That's it."
+    },
+    {
+      "id": "2026-09-21-2158-32",
+      "typ": "persönlich",
+      "stichwort": "Beweislast bei den Kranken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer in diesem Land krank wird, muss es erst beweisen, in Formularen, die für Gesunde geschrieben sind. Der Rest des Landes darf einfach müde sein."
     }
   ]
 }
