@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "2 von 6 da, der Rest lädt noch.",
+  "hinweis": "4 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 2,
       "text": "Die SBB lässt jetzt eine KI monatlich 2000 Kilometer Schienen kontrollieren. Erkannt hat sie alles. Ausser der Strecke bei Bern, die gestern stundenlang stillstand."
+    },
+    {
+      "id": "2026-09-21-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Buffett übergibt an den Sohn, Zinsen steigen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Warren Buffett gibt mit 96 den Chefposten ab, Nachfolger wird sein Sohn. In derselben Woche steigen die US-Zinsen, weil Leistung sich lohnen muss. Für die anderen."
+    },
+    {
+      "id": "2026-09-21-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Waffen im Orbit, Mietvertrag bis 2029",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ich habe gerade meinen Mietvertrag bis 2029 verlängert. Die USA haben am selben Tag bestätigt, dass sie Waffen im Orbit stationieren. Einer von uns beiden plant zu optimistisch."
     }
   ]
 }
