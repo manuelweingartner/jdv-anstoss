@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Amerikas Sender fahren die Trump-Kritik zurück. Wer braucht Zensur, wenn es auch Redaktionssitzungen gibt?"
+    },
+    {
+      "id": "2026-09-21-1959-10",
+      "typ": "persönlich",
+      "stichwort": "Puzzle-WM gegen Krankenkassenabrechnung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "An der Puzzle-WM in Valladolid legen 70 Nationen dasselbe unbekannte Bild. Ich mache das jeden Monat mit meiner Krankenkassenabrechnung. Kein Bild auf der Schachtel."
+    },
+    {
+      "id": "2026-09-21-1959-11",
+      "typ": "persönlich",
+      "stichwort": "Platz haben wie ein Auto",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so selbstverständlich einen Platz haben wie ein Auto in der Zentralschweiz."
+    },
+    {
+      "id": "2026-09-21-1959-12",
+      "typ": "persönlich",
+      "stichwort": "Armee über die Mehrwertsteuer, Rüebli rüsten auf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Ständerat will die Armee über die Mehrwertsteuer finanzieren. Künftig rüstet meine Packung Rüebli mit auf. Regional. Saisonal. Verteidigungsfähig."
     },
     {
       "id": "2026-09-21-1959-23",
@@ -72,26 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Hier eine Liste aller Milliardäre, die ihr Vermögen ohne die Arbeitszeit anderer Leute aufgebaut haben:\n-\n-\nThat's it."
-    },
-    {
-      "id": "2026-09-21-1959-28",
-      "typ": "schnittmenge",
-      "stichwort": "Meloni: Sprachkurs fuer Eltern, Englisch fuer Villenbesitzer",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Meloni verpflichtet zugewanderte Eltern zum Italienischkurs. Wer dort eine Villa kauft, darf Englisch bleiben."
-    },
-    {
-      "id": "2026-09-21-1959-29",
-      "typ": "remix",
-      "stichwort": "Klimareserve fuer Wein, Neid auf den Chasselas",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die Weinbranche verlangt vom Bund eine Klimareserve gegen schlechte Jahrgaenge. Einmal so gut gegen das Klima abgesichert sein wie ein Chasselas."
     }
   ]
 }
