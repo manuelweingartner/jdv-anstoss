@@ -4,6 +4,26 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-09-21-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wahlkommission erleichtert, Jabloko vorher raus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Ich bin die russische Wahlkommission und bin erleichtert: Die einzige Antikriegspartei haben wir vorher ausgeschlossen. Drei Tage Wahl ohne einen einzigen unangenehmen Moment. Sicherheitsrelevant."
+    },
+    {
+      "id": "2026-09-21-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reederei bedankt sich für Fregatten im Roten Meer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Als Reederei finde ich es richtig, dass Italien für unsere Frachter im Roten Meer europäische Kriegsschiffe fordert. Wir sparen zehn Tage Umweg um Afrika, ihr bezahlt die Fregatten. Partnerschaftlich."
+    },
+    {
       "id": "2026-09-21-0757-08",
       "typ": "schnittmenge",
       "stichwort": "Referenzzins gesenkt, Miete gleich",
@@ -42,26 +62,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 16,
       "text": "Ich habe gerade meinen Mietvertrag bis 2029 verlängert. Die USA haben am selben Tag bestätigt, dass sie Waffen im Orbit stationieren. Einer von uns beiden plant zu optimistisch."
-    },
-    {
-      "id": "2026-09-21-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Erbe im Treppenhaus, Lohn im Steuerformular",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich habe drei Wochen auf einen Termin beim Steueramt gewartet, wegen 400 Franken Nebenverdienst. Wer eine Villa erbt, füllt ein Feld aus. Freiwillig. Auf Papier. Mit Bleistift."
-    },
-    {
-      "id": "2026-09-21-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vier Wochen Ferien, 1890 eingeführt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Ich habe vier Wochen Ferien im Jahr, das gesetzliche Minimum seit 1984. In derselben Zeit hat sich die Rechenleistung meines Telefons vertausendfacht. Die Erholung nicht."
     }
   ]
 }
