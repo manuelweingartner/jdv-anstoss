@@ -1,60 +1,59 @@
 {
-  "stand": "2026-09-21T08:06:55+02:00",
-  "lauf": "0805",
+  "stand": "2026-09-21T17:01:10+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0805-1",
-      "titel": "Landtagswahlen in Deutschland – Mecklenburg-Vorpommern: CDU fliegt definitiv aus dem Landtag",
-      "was": "CDU-Funktionäre vor der Ergebnistafel, daneben jubelnde AfD-Wahlparty",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Ergebnis, das nach innen als Auftrag zum Weitermachen verbucht wird, gegen die Zahl auf der Tafel.",
+      "id": "1700-1",
+      "titel": "Zwang ist keine Lösung: Obwohl viele besorgt sind über Politikverdrossenheit, bleibt Wählen und Abstimmen in Zürich freiwillig",
+      "was": "Stimmberechtigte werfen Couverts in eine Urne im Kanton Zürich",
+      "richtung": "Mechanik: wörtlich nehmen, was als Freiwilligkeit nur symbolisch gemeint ist. Achse: gefeierte Freiheit, nicht zu wählen, gegen die Klage über zu wenige, die wählen.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "20 Minuten"
+      ],
+      "artikel": "https://www.nzz.ch/zuerich/zwang-ist-keine-loesung-obwohl-viele-besorgt-sind-ueber-politikverdrossenheit-bleibt-waehlen-und-abstimmen-in-zuerich-freiwillig-ld.10024757",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/21/eb58dea3-1035-4428-8ff0-02abf2a91577.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3712,3712,x1856,y0",
+      "zeit": "2026-09-21T16:05+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Vorläufiges Ergebnis: Linke ist klare Gewinnerin der Berlin-Wahl",
+      "was": "Jubelnde Linken-Spitze um Eralp auf der Berliner Wahlparty",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Konfetti-Euphorie über die Verdoppelung gegen die Zahl, die sich da verdoppelt hat.",
       "grund": "breit",
       "raum": "",
-      "quelle": "SRF",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "20 Minuten",
-        "Spiegel",
-        "Tagesschau",
-        "taz"
+        "Spiegel"
       ],
-      "artikel": "https://www.srf.ch/news/international/landtagswahlen-in-deutschland-mecklenburg-vorpommern-cdu-fliegt-definitiv-aus-dem-landtag",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/7dad1e.jpg",
-      "zeit": "2026-09-21T02:17+02:00"
+      "artikel": "https://www.tagesschau.de/inland/landtagswahlen/berlin/2026/vorlaeufiges-ergebnis-berlin-abgeordnetenhaus-2026-100.html",
+      "bild": "https://images.tagesschau.de/image/9f7d724f-93dd-4024-ba29-27c1c0551cb8/AAABoMCjF5A/AAABnSSvrFg/16x9-big/elif-eralp-114.jpg?width=1280",
+      "zeit": "2026-09-21T02:03+02:00"
     },
     {
-      "id": "0805-2",
-      "titel": "UNO-Jahresversammlung New York – Parmelin, Trump und Co. auf der grossen Bühne der Weltpolitik",
-      "was": "Parmelin am UNO-Rednerpult, Handschlag-Choreografie mit Trump im Saal",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: schweizerisches Understatement gegen eine Bühne, auf der Lautstärke die Währung ist.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "SRF",
-      "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/uno-jahresversammlung-new-york-parmelin-trump-und-co-auf-der-grossen-buehne-der-weltpolitik",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/f7aaa5.jpg",
-      "zeit": "2026-09-21T05:35+02:00"
-    },
-    {
-      "id": "0805-3",
-      "titel": "Wer mag nasse Hunde? – Zürcher Badis lassen zum Saisonende noch mal Hunde ins Wasser",
-      "was": "Hunde springen ins Freibadbecken, Besitzer am Beckenrand mit Handys",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: wer das saubere Wasser die ganze Saison bekommt und wer den letzten Tag.",
+      "id": "1700-3",
+      "titel": "Sylvester Stallone lehnte Donald Trumps »Sonderbotschafter«-Idee ab. Trump benannte ihn trotzdem",
+      "was": "Trump am Rednerpult, dahinter Bilder der drei Hollywood-Veteranen",
+      "richtung": "Mechanik: wörtlich nehmen, was als Ehrentitel gemeint ist. Achse: ein Amt, das jemand verliehen bekommt, gegen die Absage, die der Beschenkte vorher erteilt hat.",
       "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/wer-mag-nasse-hunde-zuercher-badis-lassen-zum-saisonende-noch-mal-hunde-ins-wasser",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/4ba46b.jpg",
-      "zeit": "2026-09-20T16:04+02:00"
+      "artikel": "https://www.spiegel.de/kultur/kino/sylvester-stallone-lehnte-donald-trumps-sonderbotschafter-idee-ab-trump-benannte-ihn-trotzdem-a-5b5c1fc6-7636-4cc3-83ff-a09d97382271#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/2cd53505-5485-4eb9-952a-b91b878e249a_w520_r2.08_fpx46.66_fpy50.jpg",
+      "zeit": "2026-09-21T16:32+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute am Vormittag",
-      "was": "CDU-Gremien treten nach der Wahlnacht zusammen, Auftritt vor Mikrofonen mit müden Gesichtern"
+      "wann": "heute ab 17:00",
+      "was": "Bilder aus dem Ratssaal zur Herbstsession in Bern, Ständerat und Nationalrat bei Abstimmung und Fragestunde"
     },
     {
-      "wann": "heute im Tagesverlauf",
-      "was": "Ankünfte und bilaterale Begegnungen am Rand der UNO-Versammlung in New York, Handschläge vor Fahnenwand"
+      "wann": "heute, Tagesverlauf",
+      "was": "Training der Schweizer Nati im Camp in Belek, Mannschaftsbild und Auftritt des Verbandspräsidenten ohne den Captain"
     }
   ],
   "hinweis": ""
