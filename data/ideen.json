@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "hinweis": "2 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich bestätige als Steuerverwaltung: Das reichste Prozent zahlt anteilig am wenigsten, wie eine neue Studie zeigt. Beruhigend, dass unser System endlich jemanden gefunden hat, der es sich leisten kann, wenig zu zahlen."
+    },
+    {
+      "id": "2026-09-21-1913-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Elf Minuten frueher da, Jahresabschluss",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich bin heute elf Minuten zu frueh im Buero gewesen, weil der Bus so faehrt. Aufs Jahr sind das zwei Arbeitstage, die ich der Firma schenke. Unbezahlt. Mit Fahrplan. Freiwillig laut Vertrag."
     }
   ]
 }
