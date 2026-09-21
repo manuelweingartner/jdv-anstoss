@@ -24,6 +24,26 @@
       "text": "Habe Angst vor dem Iran. Am Ende fällt der noch in fremde Länder ein."
     },
     {
+      "id": "2026-09-21-2158-16",
+      "typ": "persönlich",
+      "stichwort": "Appenzell: so günstig angemeldet wie ein Mietauto",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so günstig angemeldet sein wie ein Mietauto im Kanton Appenzell Innerrhoden."
+    },
+    {
+      "id": "2026-09-21-2158-18",
+      "typ": "persönlich",
+      "stichwort": "Zürichsee tiefster Stand, Rösti so",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Zürichsee sinkt auf den tiefsten Stand seit siebzig Jahren, Kursschiffe fallen aus. Rösti so: endlich Platz für eine Strasse. Vier Spuren. Naturnah."
+    },
+    {
       "id": "2026-09-21-2158-21",
       "typ": "politisch-aktuell",
       "stichwort": "Putin wählt online, Windows nicht aktiviert",
@@ -82,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 1,
       "text": "Nimmt die EU zwei Oligarchen von der Sanktionsliste, heisst das «Verhandlungslösung». Zahlst du eine Rechnung zu spät, heisst das «Betreibung»."
-    },
-    {
-      "id": "2026-09-21-2158-29",
-      "typ": "remix",
-      "stichwort": "Shein-Börsengang, selbst nicht haltbar",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 2,
-      "text": "Shein ist an die Börse gegangen und sofort ins Minus gerutscht. Wer Kleider für eine Saison näht, ist eben auch als Aktie nicht haltbar."
-    },
-    {
-      "id": "2026-09-21-2158-30",
-      "typ": "persönlich",
-      "stichwort": "Totalschaden-Auto tankt Rekorddiesel",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Mein Auto ist offiziell ein Totalschaden und tankt jetzt Diesel für 2.41 den Liter. Wertlos bleibt hier nur, was auf dem Papier steht. Alles andere steigt."
     }
   ]
 }
