@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "4 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Amerikas Sender fahren die Trump-Kritik zurück. Wer braucht Zensur, wenn es auch Redaktionssitzungen gibt?"
+    },
+    {
+      "id": "2026-09-21-1959-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mehrwertsteuer fuer die Armee, Studie zum reichsten Prozent",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, für die Armee steigt die Mehrwertsteuer. Gleiche Woche, gleiches Land: das reichste Prozent zahlt anteilig am wenigsten, weiss jetzt auch nicht genau, was hier verteidigt wird."
+    },
+    {
+      "id": "2026-09-21-1959-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor dem Inklusionsgesetz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor dem Inklusionsgesetz. Nachher kommen Menschen im Rollstuhl dorthin, wo ich hinkomme."
     }
   ]
 }
