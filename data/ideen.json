@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-21-1959-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Milliardenfonds bewilligt, Fanganlage ohne Zulassung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Der Ständerat bewilligt den Milliardenfonds für die Armee. In derselben Woche fällt der Lärmtest des F-35 aus, weil die Fanganlage in Meiringen keine Zulassung hat."
-    },
-    {
       "id": "2026-09-21-1959-02",
       "typ": "politisch-aktuell",
       "stichwort": "CNN raus, Sender kürzen selbst",
@@ -21,7 +11,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Amerikas Sender fahren die Trump-Kritik zurück. Wer braucht Zensur, wenn es auch Redaktionssitzungen gibt?"
+      "text": "Amerikas Sender fahren die Trump-Kritik zurück. Wer braucht Zensur, wenn es auch Redaktionssitzungen gibt?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-21-1959-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vermögen reist unbürokratisch ein",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so schnell aufgenommen werden wie ein Vermögen, das aus dem Ausland einreist.",
+      "jury": {
+        "neu": true,
+        "anker": false,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-21-1959-08",
+      "typ": "schnittmenge",
+      "stichwort": "Gastredner ausgeladen vs. CNN aus dem Weissen Haus",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Uni lädt Gastredner aus: «Cancel Culture». Trump sperrt CNN aus dem Weissen Haus: «Hausrecht».",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-21-1959-10",
@@ -31,17 +56,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "An der Puzzle-WM in Valladolid legen 70 Nationen dasselbe unbekannte Bild. Ich mache das jeden Monat mit meiner Krankenkassenabrechnung. Kein Bild auf der Schachtel."
-    },
-    {
-      "id": "2026-09-21-1959-11",
-      "typ": "persönlich",
-      "stichwort": "Platz haben wie ein Auto",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so selbstverständlich einen Platz haben wie ein Auto in der Zentralschweiz."
+      "text": "An der Puzzle-WM in Valladolid legen 70 Nationen dasselbe unbekannte Bild. Ich mache das jeden Monat mit meiner Krankenkassenabrechnung. Kein Bild auf der Schachtel.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-21-1959-12",
@@ -51,7 +71,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Der Ständerat will die Armee über die Mehrwertsteuer finanzieren. Künftig rüstet meine Packung Rüebli mit auf. Regional. Saisonal. Verteidigungsfähig."
+      "text": "Der Ständerat will die Armee über die Mehrwertsteuer finanzieren. Künftig rüstet meine Packung Rüebli mit auf. Regional. Saisonal. Verteidigungsfähig.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-21-1959-16",
@@ -61,37 +86,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "USA und China verhandeln über AI-Risiken. Bei uns ist AI der Kanton, in dem Mietautos angemeldet sind und Frauen erst seit 1990 abstimmen. Gerichtlich verordnet."
-    },
-    {
-      "id": "2026-09-21-1959-17",
-      "typ": "persönlich",
-      "stichwort": "Thurgau, Abendland-Retter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der Kanton Thurgau hat kein Frauenhaus. Frage an die Abendland-Retter: wovor genau?"
-    },
-    {
-      "id": "2026-09-21-1959-18",
-      "typ": "persönlich",
-      "stichwort": "Rösti und der Dieselrekord",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Rekordpreis beim Diesel. Umweltminister Rösti so: gute Gelegenheit, die Autobahnen zu verbreitern. Breiter. Für die Umwelt."
-    },
-    {
-      "id": "2026-09-21-1959-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mehrwertsteuer fuer die Armee, Studie zum reichsten Prozent",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, für die Armee steigt die Mehrwertsteuer. Gleiche Woche, gleiches Land: das reichste Prozent zahlt anteilig am wenigsten, weiss jetzt auch nicht genau, was hier verteidigt wird."
+      "text": "USA und China verhandeln über AI-Risiken. Bei uns ist AI der Kanton, in dem Mietautos angemeldet sind und Frauen erst seit 1990 abstimmen. Gerichtlich verordnet.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-21-1959-24",
@@ -101,7 +101,57 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor dem Inklusionsgesetz. Nachher kommen Menschen im Rollstuhl dorthin, wo ich hinkomme."
+      "text": "Habe Angst vor dem Inklusionsgesetz. Nachher kommen Menschen im Rollstuhl dorthin, wo ich hinkomme.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-21-1959-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wie lange arbeiten, bis man vom Arbeiten leben kann",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie lange muss man eigentlich arbeiten, bis man vom Arbeiten leben kann? Frage für alle, die vom Besitzen leben. Ohne Wecker.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-21-1959-28",
+      "typ": "schnittmenge",
+      "stichwort": "Meloni: Sprachkurs fuer Eltern, Englisch fuer Villenbesitzer",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Meloni verpflichtet zugewanderte Eltern zum Italienischkurs. Wer dort eine Villa kauft, darf Englisch bleiben.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-21-1959-32",
+      "typ": "persönlich",
+      "stichwort": "Armee an der Migros-Kasse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "An der Migros-Kasse bezahle ich jetzt die Armee mit, der Ständerat erhöht dafür die Mehrwertsteuer. Wie viel Kampfjet steckt in einem Kilo Rüebli?",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
