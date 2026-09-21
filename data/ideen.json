@@ -1,8 +1,23 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "6 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-09-21-1913-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "160'000 Demenzkranke, zwei Drittel Frauen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "160'000 Menschen in der Schweiz leben mit Demenz, zwei Drittel davon sind Frauen. Trifft es den Mann, pflegt ihn am Ende auch eine Frau. Unbezahlt. In beiden Fällen.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
     {
       "id": "2026-09-21-1913-02",
       "typ": "politisch-aktuell",
@@ -34,21 +49,6 @@
       }
     },
     {
-      "id": "2026-09-21-1913-11",
-      "typ": "persönlich",
-      "stichwort": "1500 Schweine in zwei Wochen, KI-Draht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Meiner Tochter erkläre ich, warum 1500 kranke Schweine in zwei Wochen getötet werden und die USA und China gleichzeitig bei den KI-Risiken einen Gesprächskanal eröffnen. Beim Aussterben lässt man sich Zeit.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-09-21-1913-23",
       "typ": "politisch-aktuell",
       "stichwort": "Wahlleiter Russland, 87 Prozent und die restlichen 13",
@@ -64,18 +64,33 @@
       }
     },
     {
-      "id": "2026-09-21-1913-29",
-      "typ": "remix",
-      "stichwort": "Fangseil zertifiziert, Lärmtest verschoben",
+      "id": "2026-09-21-1913-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Elf Minuten frueher da, Jahresabschluss",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Der Lärmtest für den F-35 in Meiringen ist verschoben, weil das Fangseil für den Jet nicht zertifiziert ist. Einmal so ernst genommen werden wie ein Seil.",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich bin heute elf Minuten zu frueh im Buero gewesen, weil der Bus so faehrt. Aufs Jahr sind das zwei Arbeitstage, die ich der Firma schenke. Unbezahlt. Mit Fahrplan. Freiwillig laut Vertrag.",
       "jury": {
         "anker": true,
         "witz": true,
-        "neu": true
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-21-1913-28",
+      "typ": "schnittmenge",
+      "stichwort": "Xhaka-Zertifikat gegen Klimabilanz",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Granit Xhaka soll ein Covid-Zertifikat gefälscht haben und steht seit Tagen in jeder Sportsendung. Wer eine Klimabilanz fälscht, steht im Nachhaltigkeitsbericht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
       }
     },
     {
