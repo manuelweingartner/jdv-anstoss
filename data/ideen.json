@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "5 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 13,
       "text": "Ich bestätige als Steuerverwaltung: Das reichste Prozent zahlt anteilig am wenigsten, wie eine neue Studie zeigt. Beruhigend, dass unser System endlich jemanden gefunden hat, der es sich leisten kann, wenig zu zahlen."
+    },
+    {
+      "id": "2026-09-21-1913-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Xhakas Zertifikat gegen den NDB-Bericht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ich weiss seit heute mehr über Xhakas gefälschtes Covid-Zertifikat als der Geheimdienst über den Russland-Verdacht in den eigenen Reihen. Sein Bericht dazu kam am selben Tag."
     },
     {
       "id": "2026-09-21-1913-25",
