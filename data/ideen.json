@@ -44,24 +44,24 @@
       "text": "Die SBB lässt jetzt eine KI monatlich 2000 Kilometer Schienen kontrollieren. Erkannt hat sie alles. Ausser der Strecke bei Bern, die gestern stundenlang stillstand."
     },
     {
-      "id": "2026-09-21-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Buffett übergibt an den Sohn, Zinsen steigen",
+      "id": "2026-09-21-0757-10",
+      "typ": "persönlich",
+      "stichwort": "Totalschaden fährt weiter, Arbeitsmarkt ab 55",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Warren Buffett gibt mit 96 den Chefposten ab, Nachfolger wird sein Sohn. In derselben Woche steigen die US-Zinsen, weil Leistung sich lohnen muss. Für die anderen."
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Mein Auto ist seit dem Hagel ein Totalschaden und fährt trotzdem jeden Tag. Wertlos heisst nicht kaputt. Das erklärt mal jemand dem Arbeitsmarkt ab 55. Funktioniert einwandfrei, nur nicht zum Listenpreis."
     },
     {
-      "id": "2026-09-21-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Waffen im Orbit, Mietvertrag bis 2029",
+      "id": "2026-09-21-0757-11",
+      "typ": "persönlich",
+      "stichwort": "Faktor 50 für dreissig Jahre, Klima unrealistisch",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich habe gerade meinen Mietvertrag bis 2029 verlängert. Die USA haben am selben Tag bestätigt, dass sie Waffen im Orbit stationieren. Einer von uns beiden plant zu optimistisch."
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Ich creme mich mit Faktor 50 ein, damit ich in dreissig Jahren kein Melanom habe. Beim Klima heisst derselbe Zeitraum unrealistische Planung. Jeden Tag. Auch bei Nebel."
     }
   ]
 }
