@@ -520,7 +520,7 @@ const LS_PENDING = 'jdv_pending';
    durch eine dreiaeugige Jury, uebrig bleiben die 6 besten. Von 348 Urteilen
    waren 344 Ablehnungen, davon 234 "nicht lustig" - Manuel arbeitete als
    Filter. Das macht jetzt die Maschine. */
-const SOLL = 6;
+const SOLL = 10;
 /* Knopftext IMMER aus SOLL ableiten. Der Text ist zugleich das
    Protokollwort: die Seite legt ein Issue "MEHR: <SOLL> neue" an, und
    mehr_poll.py liest alles, was nicht "<Zahl> neue" ist, als Fokus-Stichwort.
@@ -534,7 +534,7 @@ const MEHR_LABEL = `${SOLL} neue`;
    steht sie jetzt als Knopfleiste da. Der gesendete Wert MUSS zu _KAT_ALIAS
    in tages_anstoss.py passen, sonst landet er als gewoehnliches Stichwort. */
 const KATEGORIEN = [
-  ['Meta', 'meta'],
+  ['Doof stellen', 'doof stellen'],
   ['Swiss News', 'swiss news'],
   ['Politisch', 'politisch'],
   ['Doppelmoral', 'doppelmoral'],
@@ -785,6 +785,9 @@ const FORMATE = {
   9: 'Kampagne', 10: 'Remix', 11: 'Zwei Listen', 12: 'Mythologie',
   13: 'Meta', 14: 'Korrektur', 15: 'Aufzählung',
   16: 'Alltag', 17: 'Redewendung', 18: 'Zwei News', 19: 'Vergleich',
+  20: 'Meme', 21: 'Doof stellen', 22: 'Übertreibung', 23: 'Streitbild',
+  24: 'Frage', 25: 'Neid auf die Sache', 26: 'Zwei Listen',
+  27: 'Leere Liste', 28: 'X so:',
 };
 const formatName = f => FORMATE[Number(f)] || '';
 

@@ -33,13 +33,15 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
   gibt es keine Konsole, ohne diesen Knopf ist ein Stau dort nicht auflösbar.
   Auslöser war eine „6 neue"-Anforderung, die nach einem Token-Wechsel
   hängenblieb.
-- **Eine Runde sind seit 10.08.2026 nur noch 6 Vorschläge, aber gesiebte.**
+- **Eine Runde sind seit 21.09.2026 zehn Vorschläge, und zwar gesiebte.**
   Nicht weniger Arbeit, sondern mehr: der Laptop zieht jeden Teilauftrag doppelt,
   hängt einen Material-Teilauftrag an und schickt rund 24 Ideen durch eine
   dreiäugige Jury (lustig / konkreter Anker / schon gehabt). Übrig bleiben die 6
   besten. Anlass war die Bilanz von 348 Urteilen: **344 Ablehnungen, davon 234
   «einfach nicht lustig», 4 Annahmen.** Manuel arbeitete als Filter für eine
   Maschine, die fast nur Ausschuss lieferte; das macht jetzt die Maschine.
+  Von 10.08. bis 21.09.2026 blieben 6 übrig, seither 10 (Entscheid Manuel), das
+  Sieb liegt damit bei 4:1 statt 6,7:1.
   `SOLL` in `index.html` und `ANZAHL` im Generator müssen dabei gleich bleiben.
 - **Reihenfolge auf der Seite, Entscheid Manuel 10.08.2026:** zuoberst die
   Textvorschläge, darunter Material, Foto-Radar und Werkstatt. «Zuerst die text
@@ -72,6 +74,14 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
 - **Jeder Vorschlag trägt das fertige Bild.** «Ich kenne nicht alle meme
   templates auswändig»: ein Vorlagenname ohne Bild ist nicht beurteilbar. Gebaut
   wird darum sofort beim Vorschlagen, das kostet keinen Modellaufruf.
+- **Der Vorrat ist am 21.09.2026 fast leer: 15 der 19 Vorlagen stehen auf
+  „Figur nie".** Übrig sind Change My Mind, Left Exit 12, Buff Doge vs. Cheems
+  und Tuxedo Winnie. Der Lauf vom 21.09. lieferte darum **4 statt 10**
+  Vorschläge, sechs weitere flogen als Doppelung raus. Die Rotation hat nichts
+  mehr zu rotieren; das ist kein Fehler, sondern die Summe der
+  `VORLAGE-NIE`-Knopfdrücke, nachzulesen in `_gesperrt` in
+  `metrics/vorlagen_verlauf.json`. Wer wieder zehn Vorschläge will, muss
+  Vorlagen über den Kontaktbogen nachliefern oder einzelne Sperren aufheben.
 - **19 kuratierte Vorlagen, und der Vorrat rotiert.** Ohne Rotation schlägt ein
   Modell zuverlässig Drake, Zwei Knöpfe und den abgelenkten Freund vor, weil die
   am bekanntesten sind. Ein Verlauf merkt sich, wann jede Figur dran war; der
