@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "3 Ideen aussortiert und nicht ersetzt, Liste hat 7 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -19,18 +19,18 @@
       }
     },
     {
-      "id": "2026-09-21-1959-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vermögen reist unbürokratisch ein",
+      "id": "2026-09-21-1959-03",
+      "typ": "schnittmenge",
+      "stichwort": "Inklusion ist teuer, Ausgrenzung gratis",
       "plattform": "Instagram + Threads",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so schnell aufgenommen werden wie ein Vermögen, das aus dem Ausland einreist.",
+      "text": "Stimmt, Inklusion ist teuer. Dass jemand im Rollstuhl draussen bleibt, kostet dagegen nichts.",
       "jury": {
         "neu": true,
-        "anker": false,
-        "witz": true
+        "anker": true,
+        "witz": false
       }
     },
     {
@@ -94,21 +94,6 @@
       }
     },
     {
-      "id": "2026-09-21-1959-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor dem Inklusionsgesetz",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor dem Inklusionsgesetz. Nachher kommen Menschen im Rollstuhl dorthin, wo ich hinkomme.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-09-21-1959-26",
       "typ": "politisch-aktuell",
       "stichwort": "Wie lange arbeiten, bis man vom Arbeiten leben kann",
@@ -120,36 +105,6 @@
       "jury": {
         "witz": true,
         "anker": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-21-1959-28",
-      "typ": "schnittmenge",
-      "stichwort": "Meloni: Sprachkurs fuer Eltern, Englisch fuer Villenbesitzer",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Meloni verpflichtet zugewanderte Eltern zum Italienischkurs. Wer dort eine Villa kauft, darf Englisch bleiben.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-21-1959-32",
-      "typ": "persönlich",
-      "stichwort": "Armee an der Migros-Kasse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "An der Migros-Kasse bezahle ich jetzt die Armee mit, der Ständerat erhöht dafür die Mehrwertsteuer. Wie viel Kampfjet steckt in einem Kilo Rüebli?",
-      "jury": {
-        "anker": true,
-        "witz": true,
         "neu": true
       }
     }
