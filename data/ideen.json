@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "5 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 10,
       "text": "Der Lärmtest für den F-35 in Meiringen ist verschoben, weil das Fangseil für den Jet nicht zertifiziert ist. Einmal so ernst genommen werden wie ein Seil."
+    },
+    {
+      "id": "2026-09-21-1913-36",
+      "typ": "persönlich",
+      "stichwort": "Mietwagen-Irrtum, Appenzell Innerrhoden, 1990",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Ich dachte, auf dieser Autobahn fahren nur Mietwagen. Es war Appenzell Innerrhoden. Der Kanton, der Frauen bis 1990 nicht abstimmen liess. Freiwillig bis heute nicht."
     }
   ]
 }
