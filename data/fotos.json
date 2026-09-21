@@ -1,40 +1,43 @@
 {
-  "stand": "2026-09-20T17:00:58+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-21T08:06:55+02:00",
+  "lauf": "0805",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Kulturnews in Kurzform – Werner Herzog warnt vor Künstlicher Intelligenz",
-      "was": "Werner Herzog mit Ehrenpreis auf der Bühne des Filmfestivals",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: die Trophäe für ein Lebenswerk in der Hand gegen die Warnung, dass die Maschine das Werk demnächst selber macht.",
+      "id": "0805-1",
+      "titel": "Landtagswahlen in Deutschland – Mecklenburg-Vorpommern: CDU fliegt definitiv aus dem Landtag",
+      "was": "CDU-Funktionäre vor der Ergebnistafel, daneben jubelnde AfD-Wahlparty",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Ergebnis, das nach innen als Auftrag zum Weitermachen verbucht wird, gegen die Zahl auf der Tafel.",
       "grund": "breit",
       "raum": "",
       "quelle": "SRF",
       "auch_bei": [
-        "Tagesschau"
+        "20 Minuten",
+        "Spiegel",
+        "Tagesschau",
+        "taz"
       ],
-      "artikel": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-werner-herzog-warnt-vor-kuenstlicher-intelligenz",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf/2058e6.jpg",
-      "zeit": "2026-09-20T16:08+02:00"
+      "artikel": "https://www.srf.ch/news/international/landtagswahlen-in-deutschland-mecklenburg-vorpommern-cdu-fliegt-definitiv-aus-dem-landtag",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/7dad1e.jpg",
+      "zeit": "2026-09-21T02:17+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Donald Trump will aus seinem Triumphbogen plötzlich einen Militärkomplex machen",
-      "was": "Trump vor Modell oder Visualisierung seines geplanten Triumphbogens in Washington",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Denkmal für die Nation gegen Munitionslager mit Scharfschützen, dasselbe Bauwerk je nach Beschriftung.",
-      "grund": "memetauglich",
+      "id": "0805-2",
+      "titel": "UNO-Jahresversammlung New York – Parmelin, Trump und Co. auf der grossen Bühne der Weltpolitik",
+      "was": "Parmelin am UNO-Rednerpult, Handschlag-Choreografie mit Trump im Saal",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: schweizerisches Understatement gegen eine Bühne, auf der Lautstärke die Währung ist.",
+      "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Spiegel",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.spiegel.de/ausland/donald-trump-will-aus-seinem-triumphbogen-ploetzlich-einen-militaerkomplex-machen-a-1d038789-4998-471e-97a3-bd6479ee99f3#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/3e7165d4-9316-4413-b710-632042e6f307_w520_r2.08_fpx70_fpy46.98.jpg",
-      "zeit": "2026-09-20T15:07+02:00"
+      "artikel": "https://www.srf.ch/news/international/uno-jahresversammlung-new-york-parmelin-trump-und-co-auf-der-grossen-buehne-der-weltpolitik",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/f7aaa5.jpg",
+      "zeit": "2026-09-21T05:35+02:00"
     },
     {
-      "id": "1700-3",
+      "id": "0805-3",
       "titel": "Wer mag nasse Hunde? – Zürcher Badis lassen zum Saisonende noch mal Hunde ins Wasser",
-      "was": "Nasse Hunde springen ins Becken einer Zürcher Badi",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: den ganzen Sommer streng verboten gegen am letzten Tag ausdrücklich erwünscht, bei identischem Hund und identischem Wasser.",
+      "was": "Hunde springen ins Freibadbecken, Besitzer am Beckenrand mit Handys",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: wer das saubere Wasser die ganze Saison bekommt und wer den letzten Tag.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "SRF",
@@ -46,12 +49,12 @@
   ],
   "erwartet": [
     {
-      "wann": "heute ab 18:00",
-      "was": "Wahlabend in Berlin und Schwerin: Spitzenkandidaten vor Balkendiagrammen, Applaus bei schlechten Zahlen, Blumensträusse "
+      "wann": "heute am Vormittag",
+      "was": "CDU-Gremien treten nach der Wahlnacht zusammen, Auftritt vor Mikrofonen mit müden Gesichtern"
     },
     {
-      "wann": "heute den ganzen Tag",
-      "was": "Wiesn-Bilder aus München: Masskrüge, Trachten, Festzelt-Prominenz und Sanitäter im Einsatzgewusel am Rand"
+      "wann": "heute im Tagesverlauf",
+      "was": "Ankünfte und bilaterale Begegnungen am Rand der UNO-Versammlung in New York, Handschläge vor Fahnenwand"
     }
   ],
   "hinweis": ""
