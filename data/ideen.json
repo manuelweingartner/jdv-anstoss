@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Habe Angst vor dem Inklusionsgesetz. Nachher kommen Menschen im Rollstuhl dorthin, wo ich hinkomme."
+    },
+    {
+      "id": "2026-09-21-1959-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Falschparken 40 Franken: Busse oder Parkgebühr",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Falschparken kostet 40 Franken. Für die einen ist das eine Busse, für die anderen eine Parkgebühr."
+    },
+    {
+      "id": "2026-09-21-1959-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wie lange arbeiten, bis man vom Arbeiten leben kann",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie lange muss man eigentlich arbeiten, bis man vom Arbeiten leben kann? Frage für alle, die vom Besitzen leben. Ohne Wecker."
+    },
+    {
+      "id": "2026-09-21-1959-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Liste der Milliardäre ohne fremde Arbeitszeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier eine Liste aller Milliardäre, die ihr Vermögen ohne die Arbeitszeit anderer Leute aufgebaut haben:\n-\n-\nThat's it."
     },
     {
       "id": "2026-09-21-1959-28",
