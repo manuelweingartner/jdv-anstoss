@@ -1,112 +1,27 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-21-1913-01",
+      "id": "2026-09-21-1959-01",
       "typ": "politisch-aktuell",
-      "stichwort": "160'000 Demenzkranke, zwei Drittel Frauen",
+      "stichwort": "Milliardenfonds bewilligt, Fanganlage ohne Zulassung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "160'000 Menschen in der Schweiz leben mit Demenz, zwei Drittel davon sind Frauen. Trifft es den Mann, pflegt ihn am Ende auch eine Frau. Unbezahlt. In beiden Fällen.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-21-1913-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nati-Koffer in Zürich, Captain-Zertifikat gefälscht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Die Nati fliegt nach Antalya, die Hälfte der Koffer bleibt in Zürich. In derselben Woche kommt raus: Das Covid-Zertifikat des Captains war gefälscht. Kontrolliert wird hier nur Gepäck.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
+      "text": "Der Ständerat bewilligt den Milliardenfonds für die Armee. In derselben Woche fällt der Lärmtest des F-35 aus, weil die Fanganlage in Meiringen keine Zulassung hat."
     },
     {
-      "id": "2026-09-21-1913-09",
-      "typ": "remix",
-      "stichwort": "Prüfplakette für den Veloanhänger, keine Zulassung fürs Fangnetz",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich brauche für meinen Veloanhänger eine Prüfplakette. In Meiringen fällt der F-35-Lärmtest aus, weil die Fanganlage keine Zulassung hat. 36 Jets sind bestellt. Das Netz kommt später.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-21-1913-23",
+      "id": "2026-09-21-1959-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Wahlleiter Russland, 87 Prozent und die restlichen 13",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Als Wahlleiter in Russland bitte ich um Geduld: Bei 87 Prozent für den Präsidenten dauert das Auszählen etwas länger. Wir schauen noch, wer die restlichen 13 waren.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-21-1913-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Elf Minuten frueher da, Jahresabschluss",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich bin heute elf Minuten zu frueh im Buero gewesen, weil der Bus so faehrt. Aufs Jahr sind das zwei Arbeitstage, die ich der Firma schenke. Unbezahlt. Mit Fahrplan. Freiwillig laut Vertrag.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-21-1913-28",
-      "typ": "schnittmenge",
-      "stichwort": "Xhaka-Zertifikat gegen Klimabilanz",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Granit Xhaka soll ein Covid-Zertifikat gefälscht haben und steht seit Tagen in jeder Sportsendung. Wer eine Klimabilanz fälscht, steht im Nachhaltigkeitsbericht.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-21-1913-32",
-      "typ": "persönlich",
-      "stichwort": "Pensionskasse als Vermieterin: 2350 Miete, 2100 Rente",
+      "stichwort": "CNN raus, Sender kürzen selbst",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Meine Vermieterin ist eine Pensionskasse (echtes Detail einsetzen). Sie nimmt mir 2'350 Franken Miete im Monat und stellt mir 2'100 Rente in Aussicht. Ich spare gerade für meine eigene Miete. Bei ihr.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Amerikas Sender fahren die Trump-Kritik zurück. Wer braucht Zensur, wenn es auch Redaktionssitzungen gibt?"
     }
   ]
 }
