@@ -4,44 +4,64 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-21-1913-04",
+      "id": "2026-09-21-1913-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Steuerbehörde gratuliert dem Top 1 Prozent",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich bestätige als Steuerverwaltung: Das reichste Prozent zahlt anteilig am wenigsten, wie eine neue Studie zeigt. Beruhigend, dass unser System endlich jemanden gefunden hat, der es sich leisten kann, wenig zu zahlen."
-    },
-    {
-      "id": "2026-09-21-1913-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Xhakas Zertifikat gegen den NDB-Bericht",
+      "stichwort": "Nati-Koffer in Zürich, Captain-Zertifikat gefälscht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Ich weiss seit heute mehr über Xhakas gefälschtes Covid-Zertifikat als der Geheimdienst über den Russland-Verdacht in den eigenen Reihen. Sein Bericht dazu kam am selben Tag."
+      "text": "Die Nati fliegt nach Antalya, die Hälfte der Koffer bleibt in Zürich. In derselben Woche kommt raus: Das Covid-Zertifikat des Captains war gefälscht. Kontrolliert wird hier nur Gepäck.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-09-21-1913-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Elf Minuten frueher da, Jahresabschluss",
+      "id": "2026-09-21-1913-09",
+      "typ": "remix",
+      "stichwort": "Prüfplakette für den Veloanhänger, keine Zulassung fürs Fangnetz",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich bin heute elf Minuten zu frueh im Buero gewesen, weil der Bus so faehrt. Aufs Jahr sind das zwei Arbeitstage, die ich der Firma schenke. Unbezahlt. Mit Fahrplan. Freiwillig laut Vertrag."
-    },
-    {
-      "id": "2026-09-21-1913-28",
-      "typ": "schnittmenge",
-      "stichwort": "Xhaka-Zertifikat gegen Klimabilanz",
-      "plattform": "Instagram + Threads",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Granit Xhaka soll ein Covid-Zertifikat gefälscht haben und steht seit Tagen in jeder Sportsendung. Wer eine Klimabilanz fälscht, steht im Nachhaltigkeitsbericht."
+      "format": 16,
+      "text": "Ich brauche für meinen Veloanhänger eine Prüfplakette. In Meiringen fällt der F-35-Lärmtest aus, weil die Fanganlage keine Zulassung hat. 36 Jets sind bestellt. Das Netz kommt später.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-21-1913-11",
+      "typ": "persönlich",
+      "stichwort": "1500 Schweine in zwei Wochen, KI-Draht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Meiner Tochter erkläre ich, warum 1500 kranke Schweine in zwei Wochen getötet werden und die USA und China gleichzeitig bei den KI-Risiken einen Gesprächskanal eröffnen. Beim Aussterben lässt man sich Zeit.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-21-1913-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wahlleiter Russland, 87 Prozent und die restlichen 13",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Als Wahlleiter in Russland bitte ich um Geduld: Bei 87 Prozent für den Präsidenten dauert das Auszählen etwas länger. Wir schauen noch, wer die restlichen 13 waren.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-21-1913-29",
@@ -51,17 +71,27 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 10,
-      "text": "Der Lärmtest für den F-35 in Meiringen ist verschoben, weil das Fangseil für den Jet nicht zertifiziert ist. Einmal so ernst genommen werden wie ein Seil."
+      "text": "Der Lärmtest für den F-35 in Meiringen ist verschoben, weil das Fangseil für den Jet nicht zertifiziert ist. Einmal so ernst genommen werden wie ein Seil.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-21-1913-30",
+      "id": "2026-09-21-1913-32",
       "typ": "persönlich",
-      "stichwort": "1500 Schweine geraeumt, drei Pflegerinnen bleiben",
+      "stichwort": "Pensionskasse als Vermieterin: 2350 Miete, 2100 Rente",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ich habe am selben Tag gelesen: 1500 Schweine werden in 14 Kantonen geräumt, weil sie husten. Und drei Pflegerinnen bleiben trotz allem. Für die Schweine gibt es einen Plan."
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Meine Vermieterin ist eine Pensionskasse (echtes Detail einsetzen). Sie nimmt mir 2'350 Franken Miete im Monat und stellt mir 2'100 Rente in Aussicht. Ich spare gerade für meine eigene Miete. Bei ihr.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
