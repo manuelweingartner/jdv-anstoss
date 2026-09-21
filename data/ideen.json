@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "4 von 6 da, der Rest lädt noch.",
+  "hinweis": "6 von 6 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 16,
       "text": "Ich habe gerade meinen Mietvertrag bis 2029 verlängert. Die USA haben am selben Tag bestätigt, dass sie Waffen im Orbit stationieren. Einer von uns beiden plant zu optimistisch."
+    },
+    {
+      "id": "2026-09-21-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Erbe im Treppenhaus, Lohn im Steuerformular",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe drei Wochen auf einen Termin beim Steueramt gewartet, wegen 400 Franken Nebenverdienst. Wer eine Villa erbt, füllt ein Feld aus. Freiwillig. Auf Papier. Mit Bleistift."
+    },
+    {
+      "id": "2026-09-21-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vier Wochen Ferien, 1890 eingeführt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Ich habe vier Wochen Ferien im Jahr, das gesetzliche Minimum seit 1984. In derselben Zeit hat sich die Rechenleistung meines Telefons vertausendfacht. Die Erholung nicht."
     }
   ]
 }
