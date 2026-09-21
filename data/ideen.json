@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -19,18 +19,18 @@
       }
     },
     {
-      "id": "2026-09-21-2158-04",
+      "id": "2026-09-21-2158-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Angst vor dem Iran, fremde Länder",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor dem Iran. Am Ende fällt der noch in fremde Länder ein.",
+      "stichwort": "Parkbusse wird ab Vermoegen zum Abo",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Habe 40 Franken Parkbusse bezahlt. Ab welchem Vermögen hört das eigentlich auf, eine Strafe zu sein, und wird ein Abo?",
       "jury": {
-        "anker": true,
         "witz": true,
-        "neu": true
+        "neu": false,
+        "anker": true
       }
     },
     {
@@ -79,17 +79,17 @@
       }
     },
     {
-      "id": "2026-09-21-2158-12",
+      "id": "2026-09-21-2158-11",
       "typ": "persönlich",
-      "stichwort": "Östrogen-Studie vs. vergessliche Väter",
+      "stichwort": "Absage schneller als jede Reparatur",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Für «Schwangerschaftsdemenz» gibt es jetzt eine Studie über Östrogen. Väter, die den Namen der Kinderärztin nicht kennen, gelten weiterhin als gesund.",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe eine Mietsenkung verlangt und die Absage war schneller im Briefkasten als jede Reparatur. Frankiert. Mit Kundennummer.",
       "jury": {
         "anker": true,
-        "neu": true,
+        "neu": false,
         "witz": true
       }
     },
@@ -121,36 +121,6 @@
         "witz": true,
         "neu": true,
         "anker": true
-      }
-    },
-    {
-      "id": "2026-09-21-2158-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Liste der Wohnungsbesitzer ohne Erbe",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier eine Liste aller Leute unter vierzig, die sich eine Wohnung gekauft haben, ohne dass jemand gestorben ist oder mitunterschrieben hat:\n-\n-\nThat's it.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-21-2158-37",
-      "typ": "schnittmenge",
-      "stichwort": "Notausgang im Nachbarhaus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der Kanton Thurgau schickt gewaltbetroffene Frauen nach St. Gallen, weil er kein eigenes Frauenhaus hat. Ein Notausgang im Nachbarhaus. Ausgeschildert.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
       }
     }
   ]
