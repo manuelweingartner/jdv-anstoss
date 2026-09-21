@@ -1,82 +1,17 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 5 statt 6.",
-  "fertig": true,
+  "hinweis": "1 von 6 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-21-0757-04",
+      "id": "2026-09-21-1913-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Reederei bedankt sich für Fregatten im Roten Meer",
+      "stichwort": "Steuerbehörde gratuliert dem Top 1 Prozent",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Als Reederei finde ich es richtig, dass Italien für unsere Frachter im Roten Meer europäische Kriegsschiffe fordert. Wir sparen zehn Tage Umweg um Afrika, ihr bezahlt die Fregatten. Partnerschaftlich.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-21-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "300 Franken Busse abgesessen, Hafttag 350",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Eine unbezahlte Busse von 300 Franken sitzt man in der Schweiz ab. Ein Hafttag kostet den Staat 350. Das rechnet sich nicht. Muss es auch nicht. Es geht ums Prinzip.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-21-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rheinpegel, zwei Drittel im Regal",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Ich bin Grosshändler und der Rhein führt so wenig Wasser, dass unsere Schiffe nur ein Drittel laden. Beruhigend: die fehlenden zwei Drittel holen wir im Regal.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-21-0757-29",
-      "typ": "remix",
-      "stichwort": "Strompreis haengt an Trumps Posts",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Ich dachte, mein Strompreis hängt vom Wetter ab. Schweizer Energiekonzerne begründen ihre Handelsverluste inzwischen mit Trumps Posts. Kein Markt. Eine Kommentarspalte mit Steckdose.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-21-0757-30",
-      "typ": "persönlich",
-      "stichwort": "Faktor 50 gegen 120 Staatschefs",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ich creme mich mit Faktor 50 ein für zwanzig Minuten Balkon. Diese Woche reden 120 Staatschefs in New York über die Erderwärmung. Einer von uns übertreibt.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
+      "text": "Ich bestätige als Steuerverwaltung: Das reichste Prozent zahlt anteilig am wenigsten, wie eine neue Studie zeigt. Beruhigend, dass unser System endlich jemanden gefunden hat, der es sich leisten kann, wenig zu zahlen."
     }
   ]
 }
