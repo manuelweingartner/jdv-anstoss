@@ -225,11 +225,17 @@ wenn HTML sich ändert; **neue Vorschläge brauchen keinen**, siehe unten.
   −0,46) und bisher unter „nicht lustig" verschwand.
 - **Nachschub-Feld und Kategorie-Knöpfe.** Das Feld unten nimmt drei Arten von
   Eingabe, der Generator unterscheidet sie selbst: ein **Stichwort** bindet
-  alle 12 Ideen ans Thema, ein **ganzer Satz** (ab 8 Wörtern mit Satzzeichen)
-  gilt als Entwurf und liefert 12 bessere Fassungen statt neuer Ideen, eine
-  **Kategorie** füllt alle 12 aus einem Topf. Die Kategorien stehen seit
-  09.08.2026 als Knopfleiste da (Meta, Swiss News, Politisch, Doppelmoral,
-  Persönlich, Linke Themen), weil man sie vorher auswendig tippen musste. Ein
+  alle Ideen der Runde ans Thema, ein **ganzer Satz** (ab 8 Wörtern mit Satzzeichen)
+  gilt als Entwurf und liefert bessere Fassungen statt neuer Ideen, eine
+  **Kategorie** füllt die ganze Runde aus einem Topf. Die Kategorien stehen seit
+  09.08.2026 als Knopfleiste da (Doof stellen, Swiss News, Politisch,
+  Doppelmoral, Persönlich, Linke Themen), weil man sie vorher auswendig tippen
+  musste. **Der erste Knopf hiess bis 21.09.2026 „Meta"** und löste eine Runde
+  ironischer Rollenrede aus (Format 13). Das Format war gemessen das
+  schwächste von allen (218 Vorschläge, 1 Annahme), darum heisst der Knopf
+  jetzt „Doof stellen" und füllt die Runde mit Format 21. Die alten Tippwörter
+  `meta`, `ironie` und `rollenrede` leiten im Generator auf das neue Mittel um,
+  eine alte Gewohnheit läuft also nicht ins Leere. Ein
   Tap löst die Runde direkt aus; der Doppeldruck-Riegel gilt weiter, und
   während einer laufenden Runde sind die Knöpfe gesperrt.
 - **„3 Varianten anfordern" gibt es seit 09.08.2026 auf beiden Seiten.** Im
