@@ -24,6 +24,26 @@
       "text": "Habe Angst vor dem Iran. Am Ende fällt der noch in fremde Länder ein."
     },
     {
+      "id": "2026-09-21-2158-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Putin wählt online, Windows nicht aktiviert",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Putin wählt online, sein Windows ist nicht aktiviert. Wahlfälschung jetzt auch unlizenziert?"
+    },
+    {
+      "id": "2026-09-21-2158-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nahostkrieg treibt Diesel, Tankstellen tragen das Detailhandels-Plus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Im Nahen Osten wird geschossen, hier steht der Diesel auf Rekord. Gleiche Woche meldet der Detailhandel ein Plus, getragen von den Tankstellen."
+    },
+    {
       "id": "2026-09-21-2158-25",
       "typ": "politisch-aktuell",
       "stichwort": "Liste der Wohnungsbesitzer ohne Erbe",
@@ -82,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 16,
       "text": "Mein Auto ist offiziell ein Totalschaden und tankt jetzt Diesel für 2.41 den Liter. Wertlos bleibt hier nur, was auf dem Papier steht. Alles andere steigt."
-    },
-    {
-      "id": "2026-09-21-2158-31",
-      "typ": "persönlich",
-      "stichwort": "Referenzzins und die unsichtbare Mietsenkung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Zwei Jahre Zentralschweiz, und hier eine Liste aller Vermieter, die nach dem Referenzzins-Entscheid von selbst gesenkt haben: - - That's it."
-    },
-    {
-      "id": "2026-09-21-2158-32",
-      "typ": "persönlich",
-      "stichwort": "Beweislast bei den Kranken",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wer in diesem Land krank wird, muss es erst beweisen, in Formularen, die für Gesunde geschrieben sind. Der Rest des Landes darf einfach müde sein."
     }
   ]
 }
