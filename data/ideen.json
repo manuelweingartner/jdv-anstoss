@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-21",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Wie kann ein Land vier Wochen Ferien gesetzlich garantieren und beim Lohn sagen, das regle der Markt? Frage an alle, die beides unterschrieben haben. Mit demselben Stift."
+    },
+    {
+      "id": "2026-09-21-2158-28",
+      "typ": "schnittmenge",
+      "stichwort": "Sanktionsliste gestrichen, Betreibung eingetragen",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Nimmt die EU zwei Oligarchen von der Sanktionsliste, heisst das «Verhandlungslösung». Zahlst du eine Rechnung zu spät, heisst das «Betreibung»."
+    },
+    {
+      "id": "2026-09-21-2158-29",
+      "typ": "remix",
+      "stichwort": "Shein-Börsengang, selbst nicht haltbar",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 2,
+      "text": "Shein ist an die Börse gegangen und sofort ins Minus gerutscht. Wer Kleider für eine Saison näht, ist eben auch als Aktie nicht haltbar."
     },
     {
       "id": "2026-09-21-2158-30",
