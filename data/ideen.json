@@ -4,14 +4,19 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-21-2158-03",
+      "id": "2026-09-21-2158-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Rüstungsfonds, gespart wird beim Rest",
+      "stichwort": "Reichstes Prozent als Unterschicht",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Seh ich das richtig, der Ständerat spart jetzt überall, damit im Rüstungsfonds genug liegt für den Fall, dass uns jemand etwas wegnimmt?"
+      "text": "Das reichste Prozent zahlt am wenigsten Steuern. Gut, dann ist das ja die Unterschicht.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-21-2158-04",
@@ -21,17 +26,72 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor dem Iran. Am Ende fällt der noch in fremde Länder ein."
+      "text": "Habe Angst vor dem Iran. Am Ende fällt der noch in fremde Länder ein.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-21-2158-16",
-      "typ": "persönlich",
-      "stichwort": "Appenzell: so günstig angemeldet wie ein Mietauto",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
+      "id": "2026-09-21-2158-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste: verarmte Kantone nach Vermoegenssteuer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so günstig angemeldet sein wie ein Mietauto im Kanton Appenzell Innerrhoden."
+      "text": "Hier die vollständige Liste der Kantone, die nach einer höheren Vermögenssteuer verarmt sind:\n-\n-\nThat's it.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-21-2158-09",
+      "typ": "remix",
+      "stichwort": "Shein an der Börse, Lieferung schneller als erwartet",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 17,
+      "text": "Shein startet an der Börse und rutscht sofort ins Minus. Lieferung schneller als erwartet.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-21-2158-10",
+      "typ": "persönlich",
+      "stichwort": "Elternabend, fast nur Mütter",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Am Elternabend waren fast nur Mütter. Über Vereinbarkeit referiert hat dann ein Mann.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-21-2158-12",
+      "typ": "persönlich",
+      "stichwort": "Östrogen-Studie vs. vergessliche Väter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Für «Schwangerschaftsdemenz» gibt es jetzt eine Studie über Östrogen. Väter, die den Namen der Kinderärztin nicht kennen, gelten weiterhin als gesund.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-21-2158-18",
@@ -41,7 +101,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Der Zürichsee sinkt auf den tiefsten Stand seit siebzig Jahren, Kursschiffe fallen aus. Rösti so: endlich Platz für eine Strasse. Vier Spuren. Naturnah."
+      "text": "Der Zürichsee sinkt auf den tiefsten Stand seit siebzig Jahren, Kursschiffe fallen aus. Rösti so: endlich Platz für eine Strasse. Vier Spuren. Naturnah.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-09-21-2158-21",
@@ -51,17 +116,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Putin wählt online, sein Windows ist nicht aktiviert. Wahlfälschung jetzt auch unlizenziert?"
-    },
-    {
-      "id": "2026-09-21-2158-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nahostkrieg treibt Diesel, Tankstellen tragen das Detailhandels-Plus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Im Nahen Osten wird geschossen, hier steht der Diesel auf Rekord. Gleiche Woche meldet der Detailhandel ein Plus, getragen von den Tankstellen."
+      "text": "Putin wählt online, sein Windows ist nicht aktiviert. Wahlfälschung jetzt auch unlizenziert?",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-09-21-2158-25",
@@ -71,37 +131,27 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Hier eine Liste aller Leute unter vierzig, die sich eine Wohnung gekauft haben, ohne dass jemand gestorben ist oder mitunterschrieben hat:\n-\n-\nThat's it."
+      "text": "Hier eine Liste aller Leute unter vierzig, die sich eine Wohnung gekauft haben, ohne dass jemand gestorben ist oder mitunterschrieben hat:\n-\n-\nThat's it.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-21-2158-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Betreuungsstunden in der Steuererklärung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Meine Steuererklärung hat ein Feld für den Wert meines Autos und keines für die Stunden, in denen meine Frau ihre Mutter gewaschen hat. Volkswirtschaftlich ist das eine Null. Steuerlich auch. Sonst nirgends."
-    },
-    {
-      "id": "2026-09-21-2158-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vier Wochen Ferien, aber beim Lohn kein Minimum",
+      "id": "2026-09-21-2158-37",
+      "typ": "schnittmenge",
+      "stichwort": "Notausgang im Nachbarhaus",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wie kann ein Land vier Wochen Ferien gesetzlich garantieren und beim Lohn sagen, das regle der Markt? Frage an alle, die beides unterschrieben haben. Mit demselben Stift."
-    },
-    {
-      "id": "2026-09-21-2158-28",
-      "typ": "schnittmenge",
-      "stichwort": "Sanktionsliste gestrichen, Betreibung eingetragen",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Nimmt die EU zwei Oligarchen von der Sanktionsliste, heisst das «Verhandlungslösung». Zahlst du eine Rechnung zu spät, heisst das «Betreibung»."
+      "text": "Der Kanton Thurgau schickt gewaltbetroffene Frauen nach St. Gallen, weil er kein eigenes Frauenhaus hat. Ein Notausgang im Nachbarhaus. Ausgeschildert.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
