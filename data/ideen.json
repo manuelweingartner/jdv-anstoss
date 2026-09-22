@@ -1,156 +1,27 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-22-1853-02",
+      "id": "2026-09-22-1918-23",
       "typ": "politisch-aktuell",
-      "stichwort": "G7 entdecken den Jemen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Der Jemen interessiert die G7, seit der Krieg dort den Welthandel stört. Umgekehrt nie.",
-      "jury": {
-        "witz": false,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-22-1853-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Benko sitzt, Milliarden offen",
+      "stichwort": "Augenhöhe mit Trump, Macron läuft zu Fuss zum Tower",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, Benko sitzt jetzt. Zweieinhalb Jahre für 360'000 Euro, die Milliarden findet später vielleicht noch jemand.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
+      "text": "Stimmt, Europa muss Trump endlich auf Augenhöhe begegnen. Macron ist gestern schon mal zu Fuss durch Manhattan zum Trump Tower gelaufen."
     },
     {
-      "id": "2026-09-22-1853-04",
+      "id": "2026-09-22-1918-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Tigermücke heisst Plage, Hitze darf bleiben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seh ich das richtig, die Tigermücke ist eingewandert und heisst darum Plage, aber die Hitze, die sie hergebracht hat, darf bleiben?",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-1853-08",
-      "typ": "schnittmenge",
-      "stichwort": "Kokain Treppenhaus gegen Bankenviertel",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Kokain im Treppenhaus ist ein Polizeieinsatz. Kokain im Bankenviertel ist ein langer Abend.",
-      "jury": {
-        "witz": true,
-        "neu": false,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-22-1853-10",
-      "typ": "persönlich",
-      "stichwort": "WC-Tür zu Hause, Verhaftete in Zürich ohne",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Das WC in meiner Wohnung hat eine Tür, und ich bin niemand. Eine Verhaftete musste bei der Stadtpolizei Zürich ohne, das nennt das Bundesgericht jetzt rechtswidrig.",
-      "jury": {
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-22-1853-11",
-      "typ": "persönlich",
-      "stichwort": "Pollensaison seit Februar, Frage an den Bundesrat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wie lange darf eine Pollensaison eigentlich dauern, bis sie als Klimafolge zählt? Frage für den Bundesrat, meine läuft seit Februar.",
-      "jury": {
-        "witz": false,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-22-1853-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zahnrechnung, Einkommen am Lächeln",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Die Zahnrechnung zahlt man selbst, die Hüftoperation nicht. Darum erkennt man in diesem Land das Einkommen am Lächeln. Kein Röntgen nötig.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-1853-31",
-      "typ": "persönlich",
-      "stichwort": "Allergieliste beim Arzt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Beim Arzt musste ich ankreuzen, worauf ich allergisch bin: Gräser, Hausstaub, Katzen. Die SVP stand nicht zur Auswahl. Ganzjährig.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-09-22-1853-32",
-      "typ": "persönlich",
-      "stichwort": "Fragebogen duschen",
+      "stichwort": "Angst vor China, DSM-Firmenich streicht die Stellen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Chronisch Kranke kreuzen auf einem Formular an, wie oft sie noch selber duschen können. Beurteilt wird das von jemandem, der sie nie gesehen hat.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-09-22-1853-37",
-      "typ": "persönlich",
-      "stichwort": "Thurgau: kein Frauenhaus, aber jedes Dorf ein Feuerwehrdepot",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Stimmt, man kann nicht überall alles hinstellen. Der Thurgau hat kein eigenes Frauenhaus, dafür in jedem Dorf ein Feuerwehrdepot. Mit Übungsabend.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "text": "Habe Angst vor China. Die nehmen uns die Stellen weg, die DSM-Firmenich eben streicht."
     }
   ]
 }
