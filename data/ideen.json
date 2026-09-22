@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "4 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Trump droht dem Iran vor der Uno mit Vernichtung. Schweiz so: gern, richten wir in Teheran aus, mit freundlichen Grüssen, Ihre Schutzmacht."
+    },
+    {
+      "id": "2026-09-22-2116-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Russ*innen im Ausland wählen achtmal eher gegen Putin, muss an der Luft liegen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, im Ausland wählen Russ*innen achtmal eher gegen Putins Partei? Muss an der Luft liegen. Oder am Zählen."
+    },
+    {
+      "id": "2026-09-22-2116-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Grönland-Sicherheitsabkommen, Schutz vom Kaufinteressenten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Grönland brauchte dringend Schutz. Jetzt schützt es der, der es kaufen wollte."
     }
   ]
 }
