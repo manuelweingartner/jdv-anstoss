@@ -1,112 +1,27 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "3 Ideen aussortiert und nicht ersetzt, Liste hat 7 statt 10.",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-22-0632-01",
+      "id": "2026-09-22-0757-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Kein Futter auf den Feldern, Rekord in den SAC-Hütten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Die Bauern finden kein Futter für ihre Tiere, die SAC-Hütten melden im selben Sommer einen Rekord. Wer oben sitzt, hat einfach das bessere Wetter.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-0632-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "High Meat gegen Hafermilch-Ideologie",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Männer essen neuerdings verwesendes Fleisch für Testosteron. Frage für alle, die Hafermilch ideologisch finden.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-0632-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schwarzarbeit putzt mittwochs",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Schwarzarbeit ist in diesem Land ein Delikt. Ausser sie putzt mittwochs die Küche von Leuten, die das Delikt beschlossen haben.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-0632-08",
-      "typ": "schnittmenge",
-      "stichwort": "Ohne Befund: Mensch gegen Auto",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Bei einer Krankheit ohne Befund heisst es psychosomatisch. Bei einem Auto ohne Befund heisst es Garantiefall.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-22-0632-09",
-      "typ": "remix",
-      "stichwort": "Ernst genommen wie ein Rappen Diesel",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Einmal so ernst genommen werden wie ein Rappen Aufschlag beim Diesel.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-0632-11",
-      "typ": "persönlich",
-      "stichwort": "Vermieter beruft sich auf den Markt",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Mein Vermieter so: kleine Anpassung an den Markt. Der Markt so: war ich nicht.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-22-0632-18",
-      "typ": "persönlich",
-      "stichwort": "Leere Liste zu den August-Posts",
+      "stichwort": "Zuger Klasse, 18 Stunden Car statt Flug",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier meine Posts vom August zu Mieten und Prämien, bei denen sich seither etwas geändert hat:\n-\n-\nThat's it.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
+      "haltbarkeit": "tagesgebunden",
+      "text": "Stimmt, eine Zuger Klasse fährt 18 Stunden im Car nach Valencia, das ist gefährlich. Fliegen wäre sicherer, bis die Stadt dann unter Wasser steht.",
+      "format": "frei"
+    },
+    {
+      "id": "2026-09-22-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fox News klagt gegen Trump",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Seh ich das richtig, es brauchte Fox News, um zu merken, dass da ein Problem ist?",
+      "format": "frei"
     }
   ]
 }
