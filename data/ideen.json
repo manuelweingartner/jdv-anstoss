@@ -4,14 +4,19 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-22-1853-03",
+      "id": "2026-09-22-1853-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Benko sitzt, Milliarden offen",
+      "stichwort": "G7 entdecken den Jemen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, Benko sitzt jetzt. Zweieinhalb Jahre für 360'000 Euro, die Milliarden findet später vielleicht noch jemand."
+      "text": "Der Jemen interessiert die G7, seit der Krieg dort den Welthandel stört. Umgekehrt nie.",
+      "jury": {
+        "witz": false,
+        "neu": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-09-22-1853-04",
@@ -21,67 +26,86 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Seh ich das richtig, die Tigermücke ist eingewandert und heisst darum Plage, aber die Hitze, die sie hergebracht hat, darf bleiben?"
+      "text": "Seh ich das richtig, die Tigermücke ist eingewandert und heisst darum Plage, aber die Hitze, die sie hergebracht hat, darf bleiben?",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-22-1853-16",
+      "id": "2026-09-22-1853-08",
       "typ": "schnittmenge",
-      "stichwort": "Appenzell-Kennzeichen als Zugehoerigkeitsbeweis",
+      "stichwort": "Kokain Treppenhaus gegen Bankenviertel",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Kokain im Treppenhaus ist ein Polizeieinsatz. Kokain im Bankenviertel ist ein langer Abend.",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-09-22-1853-10",
+      "typ": "persönlich",
+      "stichwort": "WC-Tür zu Hause, Verhaftete in Zürich ohne",
       "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Das WC in meiner Wohnung hat eine Tür, und ich bin niemand. Eine Verhaftete musste bei der Stadtpolizei Zürich ohne, das nennt das Bundesgericht jetzt rechtswidrig.",
+      "jury": {
+        "witz": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-09-22-1853-12",
+      "typ": "persönlich",
+      "stichwort": "Abgeklärt werden wie ein Hagelschaden",
+      "plattform": "Instagram + Threads",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Ein Autokennzeichen aus Appenzell reicht in diesem Land als Heimatnachweis, egal wer am Steuer sitzt. Wie viele Generationen brauchen eigentlich Menschen?"
+      "text": "Einmal so gründlich abgeklärt werden wie ein Hagelschaden am Auto. Innert Tagen, mit Fachperson.",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      }
     },
     {
-      "id": "2026-09-22-1853-17",
+      "id": "2026-09-22-1853-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Thurgau ohne Frauenhaus, Kanton mit Leitbild",
+      "stichwort": "Benko: zweieinhalb Jahre für 360'000 Euro",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Frauenhäuser im Kanton Thurgau, dem fünftgrössten der Schweiz:\n-\n-\nThat's it."
-    },
-    {
-      "id": "2026-09-22-1853-18",
-      "typ": "persönlich",
-      "stichwort": "eigene alte Posts brauchen kein Update",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich wollte meine Posts vom letzten Jahr zu Bildern machen und vorher kurz prüfen, ob noch alles stimmt. Es stimmte alles. Wort für Wort. Leider."
-    },
-    {
-      "id": "2026-09-22-1853-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "600 Hitzetote, ab wann ein Unglück",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "600 Hitzetote diesen Sommer. Ab wie vielen wird daraus ein Unglück? Frage an Bern."
+      "text": "Stimmt, der Rechtsstaat funktioniert: René Benko bekommt zweieinhalb Jahre Haft, weil er Gläubiger um 360'000 Euro geprellt hat. Die Milliarden davor waren offenbar korrekt verbucht.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-09-22-1853-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Dieselrekord und G7-Sorge um den Welthandel",
+      "id": "2026-09-22-1853-24",
+      "typ": "schnittmenge",
+      "stichwort": "Tigermücken-Plage, Angst vor dem Falschen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Der Dieselpreis steht auf Rekord, weil im Jemen Krieg ist. Gleiche Woche fordern die G7 ein Ende der Angriffe, aus Sorge um den Welthandel."
-    },
-    {
-      "id": "2026-09-22-1853-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zahnrechnung, Einkommen am Lächeln",
-      "plattform": "Instagram + Threads",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Die Zahnrechnung zahlt man selbst, die Hüftoperation nicht. Darum erkennt man in diesem Land das Einkommen am Lächeln. Kein Röntgen nötig."
+      "format": "frei",
+      "text": "Habe Angst vor der Tigermücke. Vor der Hitze, die sie herbringt, hat niemand Angst.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-09-22-1853-26",
@@ -91,17 +115,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so grosszügig abgeschrieben werden wie ein Geschäftsauto."
+      "text": "Einmal so grosszügig abgeschrieben werden wie ein Geschäftsauto.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-22-1853-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "patriotisches Vermögen zieht nach Zug",
+      "id": "2026-09-22-1853-30",
+      "typ": "persönlich",
+      "stichwort": "Hagelauto begutachtet",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so schnell und gründlich begutachtet werden wie mein Auto nach dem Hagel.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-22-1853-37",
+      "typ": "persönlich",
+      "stichwort": "Thurgau: kein Frauenhaus, aber jedes Dorf ein Feuerwehrdepot",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wie patriotisch kann ein Vermögen eigentlich sein, das bei jeder Steuerdebatte nach Zug zieht? Frage an alle, die Heimatliebe von anderen verlangen. Die Fahne bleibt am Haus."
+      "text": "Stimmt, man kann nicht überall alles hinstellen. Der Thurgau hat kein eigenes Frauenhaus, dafür in jedem Dorf ein Feuerwehrdepot. Mit Übungsabend.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
