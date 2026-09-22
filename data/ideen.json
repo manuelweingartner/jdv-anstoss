@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-22-2232-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Coop-Kasse so optimistisch wie das VBS bei der F-35-Rechnung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so optimistisch an die Coop-Kasse gehen wie das VBS an die F-35-Rechnung."
-    },
-    {
       "id": "2026-09-22-2232-02",
       "typ": "politisch-aktuell",
       "stichwort": "SRF-Quiz fremde Fötzel und Schwyzer Hornissen-Scouts, bei Hornissen neu",
@@ -21,57 +11,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Gleiche Woche: SRF testet im Quiz das Wissen über «fremde Fötzel», und Schwyz bildet Scouts aus, die Invasive aufspüren und melden. Bei Hornissen ist das neu."
-    },
-    {
-      "id": "2026-09-22-2232-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rund um die Uhr betreut wie ein Depot am Paradeplatz",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so rund um die Uhr betreut werden wie ein Depot am Paradeplatz."
-    },
-    {
-      "id": "2026-09-22-2232-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ab welchem Vermögen Nichtstun Privatier heisst, Frage für die FDP",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ab welchem Vermögen heisst Nichtstun eigentlich nicht mehr Faulheit, sondern Privatier? Frage für die FDP. Mit Seesicht."
-    },
-    {
-      "id": "2026-09-22-2232-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Erst an Bomben, dann am Wiederaufbau: Kreislaufwirtschaft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Erst verdienen Konzerne an den Bomben, dann am Wiederaufbau: Kreislaufwirtschaft. Mit Nachhaltigkeitsbericht. Und Dividende."
-    },
-    {
-      "id": "2026-09-22-2232-08",
-      "typ": "schnittmenge",
-      "stichwort": "Pflegefachfrau kündigt, Novartis schliesst Basel",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Kündigt eine Pflegefachfrau, hat sie «nicht durchgehalten». Schliesst Novartis die letzte Fabrik in Basel, ist es ein «mutiger Schritt»."
-    },
-    {
-      "id": "2026-09-22-2232-09",
-      "typ": "remix",
-      "stichwort": "Arzttermin so schnell wie Revolut-Hacker",
-      "plattform": "Instagram + Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so schnell einen Arzttermin kriegen wie Hacker die Kontodaten bei Revolut."
+      "text": "Gleiche Woche: SRF testet im Quiz das Wissen über «fremde Fötzel», und Schwyz bildet Scouts aus, die Invasive aufspüren und melden. Bei Hornissen ist das neu.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-22-2232-10",
@@ -81,17 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Offiziell ist mein Auto seit dem Hagel ein Totalschaden und fährt jeden Tag, Swiss Life macht mehr Gewinn und streicht fast jeden zwanzigsten Job. Irgendwer hat die Gutachten vertauscht."
-    },
-    {
-      "id": "2026-09-22-2232-11",
-      "typ": "persönlich",
-      "stichwort": "ECO-Programm gegen Privatjet nach Davos",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wie viele Jahre ECO-Programm gleichen eigentlich einen Privatjet nach Davos aus? Fragt meine Abwaschmaschine."
+      "text": "Offiziell ist mein Auto seit dem Hagel ein Totalschaden und fährt jeden Tag, Swiss Life macht mehr Gewinn und streicht fast jeden zwanzigsten Job. Irgendwer hat die Gutachten vertauscht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-22-2232-12",
@@ -101,7 +41,117 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Albert Rösti lässt Wölfe präventiv abschiessen. Unser Herdenschutzhund, gezüchtet für genau diesen Job, findet das übertrieben."
+      "text": "Albert Rösti lässt Wölfe präventiv abschiessen. Unser Herdenschutzhund, gezüchtet für genau diesen Job, findet das übertrieben.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-2232-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schwyz sucht Hornissen-Scouts gegen Einwanderer, Warteliste",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Schwyz sucht Hornissen-Scouts, die invasive Einwanderer melden. Erstes Ehrenamt im Kanton mit Warteliste.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-2232-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Prämien steigen wegen Bobo-Arztbesuchen, lieber warten bis es sich lohnt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, die Prämien steigen, weil alle wegen jedem Bobo zum Arzt rennen. Vernünftig wäre, zu warten, bis es sich lohnt: Notfall, Intensivstation, Rega.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-2232-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor der Woke-Diktatur, Leute beim richtigen Namen nennen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Gefährlich, diese Woke-Diktatur. Am Ende muss man Leute so nennen, wie sie heissen.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-2232-28",
+      "typ": "schnittmenge",
+      "stichwort": "Revolut-Hack, früher fand man in Schweizer Kontodaten noch Steuerhinterzieher",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Hacker erbeuten bei Revolut die Kontodaten vieler Schweizer Kund*innen. Früher fand man in gestohlenen Schweizer Kontodaten wenigstens noch Steuerhinterzieher.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-2232-30",
+      "typ": "persönlich",
+      "stichwort": "Hagel-Totalschaden, dem Auto noch nicht gesagt",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Seit dem Hagel ist mein Auto offiziell Totalschaden. Ich habe es ihm noch nicht gesagt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-2232-31",
+      "typ": "persönlich",
+      "stichwort": "Yu Zidi fast Weltrekord, ich ECO-Programm ohne Rückfall",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die dreizehnjährige Yu Zidi schwimmt an den Asien-Spielen beinahe Weltrekord. Meine grösste Leistung: die Abwaschmaschine seit Jahren nur im ECO-Programm, kein einziger Rückfall.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-2232-36",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautos in Appenzell Innerrhoden sofort willkommen, Frauen erst 1990",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Sixt und Hertz melden ihre Mietautos in Appenzell Innerrhoden an, weil die Steuer dort tief ist. Willkommen waren sie sofort, die Frauen erst 1990 per Bundesgericht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     }
   ]
 }
