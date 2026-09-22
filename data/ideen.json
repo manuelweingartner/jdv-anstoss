@@ -1,8 +1,23 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-09-22-2232-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Coop-Kasse so optimistisch wie das VBS bei der F-35-Rechnung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so optimistisch an die Coop-Kasse gehen wie das VBS an die F-35-Rechnung.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
     {
       "id": "2026-09-22-2232-02",
       "typ": "politisch-aktuell",
@@ -19,47 +34,47 @@
       }
     },
     {
-      "id": "2026-09-22-2232-10",
-      "typ": "persönlich",
-      "stichwort": "Totalschaden fährt, Swiss Life streicht trotz Gewinn",
+      "id": "2026-09-22-2232-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gotthard-Strassentunnel nachts zu, ratlos vor dem Bahntunnel",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Offiziell ist mein Auto seit dem Hagel ein Totalschaden und fährt jeden Tag, Swiss Life macht mehr Gewinn und streicht fast jeden zwanzigsten Job. Irgendwer hat die Gutachten vertauscht.",
+      "text": "Gotthard-Strassentunnel 18 Nächte zu, weiss echt nicht, wie man nachts ins Tessin kommen soll. Ausser durch den längsten Bahntunnel der Welt, gleich daneben.",
       "jury": {
         "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-22-2232-12",
-      "typ": "persönlich",
-      "stichwort": "Rösti schiesst Wölfe, Herdenschutzhund findet es übertrieben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Albert Rösti lässt Wölfe präventiv abschiessen. Unser Herdenschutzhund, gezüchtet für genau diesen Job, findet das übertrieben.",
-      "jury": {
-        "anker": true,
-        "witz": true,
+        "witz": false,
         "neu": true
       }
     },
     {
-      "id": "2026-09-22-2232-22",
+      "id": "2026-09-22-2232-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Schwyz sucht Hornissen-Scouts gegen Einwanderer, Warteliste",
+      "stichwort": "Man darf nichts mehr sagen, wöchentlich auf der Titelseite",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Schwyz sucht Hornissen-Scouts, die invasive Einwanderer melden. Erstes Ehrenamt im Kanton mit Warteliste.",
+      "text": "Stimmt, man darf nichts mehr sagen. Steht jede Woche auf der Titelseite der Weltwoche.",
       "jury": {
         "anker": true,
-        "witz": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-2232-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rund um die Uhr betreut wie ein Depot am Paradeplatz",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so rund um die Uhr betreut werden wie ein Depot am Paradeplatz.",
+      "jury": {
+        "anker": true,
+        "witz": false,
         "neu": true
       }
     },
@@ -79,21 +94,6 @@
       }
     },
     {
-      "id": "2026-09-22-2232-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor der Woke-Diktatur, Leute beim richtigen Namen nennen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Gefährlich, diese Woke-Diktatur. Am Ende muss man Leute so nennen, wie sie heissen.",
-      "jury": {
-        "anker": false,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-09-22-2232-28",
       "typ": "schnittmenge",
       "stichwort": "Revolut-Hack, früher fand man in Schweizer Kontodaten noch Steuerhinterzieher",
@@ -102,21 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Hacker erbeuten bei Revolut die Kontodaten vieler Schweizer Kund*innen. Früher fand man in gestohlenen Schweizer Kontodaten wenigstens noch Steuerhinterzieher.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-2232-30",
-      "typ": "persönlich",
-      "stichwort": "Hagel-Totalschaden, dem Auto noch nicht gesagt",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 5,
-      "text": "Seit dem Hagel ist mein Auto offiziell Totalschaden. Ich habe es ihm noch nicht gesagt.",
       "jury": {
         "anker": true,
         "witz": true,
