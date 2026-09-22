@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -16,21 +16,6 @@
         "anker": true,
         "witz": true,
         "neu": false
-      }
-    },
-    {
-      "id": "2026-09-22-2116-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Libyens Ölfeld steht still, bei den Booten nahm nie jemand ab",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Libyens Ölfeld steht still, Europa ist alarmiert. Bei den Booten nahm nie jemand ab.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
       }
     },
     {
@@ -94,33 +79,48 @@
       }
     },
     {
-      "id": "2026-09-22-2116-08",
-      "typ": "schnittmenge",
-      "stichwort": "Karpfen Oskar befreit, Rückkehrzentrum bewusst unattraktiv",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Karpfen Oskar, dreissig Jahre im Dorfbrunnen: «Tierquälerei, sofort befreien». Eine Familie, fünf Jahre im Rückkehrzentrum: «bewusst unattraktiv».",
+      "id": "2026-09-22-2116-09",
+      "typ": "remix",
+      "stichwort": "Trump droht Iran, Schweiz als Schutzmacht richtet aus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump droht dem Iran vor der Uno mit Vernichtung. Schweiz so: gern, richten wir in Teheran aus, mit freundlichen Grüssen, Ihre Schutzmacht.",
       "jury": {
         "anker": true,
         "neu": true,
-        "witz": true
+        "witz": false
       }
     },
     {
-      "id": "2026-09-22-2116-10",
-      "typ": "persönlich",
-      "stichwort": "Herdenschutzhund aus Rumänien, niemand sagt Sozialtourist",
+      "id": "2026-09-22-2116-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti im Feuer, Laufzeitverlängerung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 5,
-      "text": "Mein Herdenschutzhund ist aus Rumänien eingewandert, arbeitet nicht und kostet jeden Monat ein Vermögen. Sozialtourist nennt ihn im Dorf trotzdem niemand, er hat halt Fell.",
+      "format": "frei",
+      "text": "Albert Rösti steht im Feuer. Als Energieminister prüft er zuerst die Laufzeitverlängerung.",
       "jury": {
         "anker": true,
-        "witz": true,
-        "neu": false
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-2116-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "UNO ohne Preis für Frieden, Tankstelle mit Preis für Krieg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Seh ich das richtig, an der UNO hat diese Woche niemand einen Preis für Frieden, aber jede Tankstelle einen für Krieg? Beim Diesel sogar Rekord.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
       }
     },
     {
@@ -136,21 +136,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-2116-36",
-      "typ": "schnittmenge",
-      "stichwort": "Steuergünstig wohnen wie ein Innerrhoder Mietauto",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so steuergünstig wohnen wie ein Mietauto aus Appenzell Innerrhoden.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
       }
     }
   ]
