@@ -11,17 +11,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "text": "Der Referenzzins bleibt unverändert. Hier alle Vermieter, die trotzdem von sich aus die Miete senken:\n-\n-\nThat's it.",
-      "format": "frei"
+      "format": "frei",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-09-22-1351-08",
-      "typ": "schnittmenge",
-      "stichwort": "Meloni Schleierverbot vs. verschleiertes Vermögen",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
+      "id": "2026-09-22-1351-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gratis-Döner Biel, acht Stunden Schlange",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Meloni verbietet Schülerinnen den Gesichtsschleier. Wer ein Vermögen verschleiert, sitzt bei ihr am Tisch."
+      "format": "frei",
+      "text": "Stimmt, arbeiten will hier niemand mehr. In Biel wartete man acht Stunden auf Gratis-Döner.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-22-1351-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mittagspause auf die Minute, Bonus in Bandbreiten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Wir müssen die Mittagspause auf die Minute erfassen, sonst schreibt die Personalabteilung. Der Bonus der Geschäftsleitung wird in Bandbreiten beschlossen. Ungefähr. Nach oben.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-22-1351-09",
@@ -31,17 +56,27 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Buffett hört mit 96 auf, alle so: was für ein Lebenswerk. Der Gerüstbauer mit 63 so: ich auch, alle so: faul."
+      "text": "Buffett hört mit 96 auf, alle so: was für ein Lebenswerk. Der Gerüstbauer mit 63 so: ich auch, alle so: faul.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-09-22-1351-16",
-      "typ": "schnittmenge",
-      "stichwort": "Kanton wechseln wie ein Mietauto",
-      "plattform": "Instagram + Threads",
+      "id": "2026-09-22-1351-11",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm gegen den trockensten Sommer seit 1864",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so unkompliziert den Kanton wechseln dürfen wie ein Mietauto mit Appenzeller Nummer."
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Seit sieben Jahren wasche ich im ECO-Programm ab, aus Prinzip. Der trockenste Sommer seit 1864 hat es nicht bemerkt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-22-1351-17",
@@ -51,27 +86,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 15,
-      "text": "Der Thurgau leistet sich eine eigene Polizei, eine eigene Steuerverwaltung und eigene Autonummern. Für ein Frauenhaus ist St. Gallen zuständig. Eine Kantonsgrenze weiter. Nachts."
-    },
-    {
-      "id": "2026-09-22-1351-18",
-      "typ": "politisch-aktuell",
-      "stichwort": "Umwelt und Verkehr im selben Departement",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Umwelt und Verkehr liegen in diesem Land im selben Departement. Streiten die beiden, gewinnt zuverlässig der mit den sechs Spuren. Jedes Mal."
-    },
-    {
-      "id": "2026-09-22-1351-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Corona-Regeln, Stadtpolizei, Bundesgericht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor Leuten, die sich nicht an die Corona-Regeln hielten. Am Ende muss die Stadtpolizei Zürich eine Frau traktieren, bis es das Bundesgericht unmenschlich nennt."
+      "text": "Der Thurgau leistet sich eine eigene Polizei, eine eigene Steuerverwaltung und eigene Autonummern. Für ein Frauenhaus ist St. Gallen zuständig. Eine Kantonsgrenze weiter. Nachts.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-22-1351-24",
@@ -81,7 +101,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, bei den Coop-Waffeln fehlen Guetzli in der Schachtel. Nur der Preis ist vollzählig."
+      "text": "Stimmt, bei den Coop-Waffeln fehlen Guetzli in der Schachtel. Nur der Preis ist vollzählig.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-22-1351-25",
@@ -91,17 +116,42 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so grosszügig abgeschrieben werden wie ein Geschäftsauto. Jedes Jahr ein bisschen."
+      "text": "Einmal so grosszügig abgeschrieben werden wie ein Geschäftsauto. Jedes Jahr ein bisschen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-09-22-1351-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Steuererklärung ausfüllen gegen aushandeln",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "id": "2026-09-22-1351-28",
+      "typ": "schnittmenge",
+      "stichwort": "UBS verlangt Eigenkapital, nur nicht von sich",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die Steuererklärung kommt. Angestellte so: ausfüllen, abschicken, hoffen. Reiche Zuzüger so: Grüezi, machen wir wieder pauschal?"
+      "format": 1,
+      "text": "Für eine Hypothek verlangt die UBS Eigenkapital. Für ihre eigene Reserve verlangt sie Verständnis.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-22-1351-30",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm gegen Aletschgletscher",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren im ECO-Programm. Der Aletschgletscher hat in derselben Zeit 350 Meter verloren. Unentschieden.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     }
   ]
 }
