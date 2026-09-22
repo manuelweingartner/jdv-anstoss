@@ -4,24 +4,79 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-22-0757-07",
+      "id": "2026-09-22-0757-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste: Erben, die vom Erben abgeraten haben",
+      "stichwort": "Rüstungsfonds durch, Kursschiffe liegen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Millionenerben, die öffentlich gesagt haben, sie hätten das Geld nicht verdient:\n-\n-\nThat's it."
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Der Ständerat winkt den Rüstungsfonds der Armee durch, gleiche Woche streicht der Zürichsee seine Kurse mangels Wasser. Die einzige Flotte, die dieses Land je brauchte, liegt im Hafen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-22-0757-10",
-      "typ": "persönlich",
-      "stichwort": "Kotfluegel schneller begutachtet als ein Mensch",
+      "id": "2026-09-22-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bardot-Auktion inklusive Urteile",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Fast eine Million für Brigitte Bardots Privatsachen. Die fünf Rassismus-Urteile gibt es gratis dazu.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Carfahrt Valencia, Flugzeug ist später gefährlich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Eine Zuger Klasse fährt fürs Klima 18 Stunden im Car nach Valencia, einer Mutter ist das zu gefährlich für ihre Tochter. Stimmt, im Flugzeug passiert erst in dreissig Jahren etwas. Anderen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fox News verklagt Trump",
       "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, Fox News verklagt Trump, damit sie ihn weiter loben darf?",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-0757-09",
+      "typ": "remix",
+      "stichwort": "Totalschaden faehrt, Mensch arbeitsfaehig",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal von der Versicherung so schnell begutachtet werden wie mein verhagelter Kotflügel."
+      "format": 16,
+      "text": "Mein Auto ist offiziell ein Totalschaden und fährt trotzdem tadellos. Bei Menschen nennt man das arbeitsfähig geschrieben.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-22-0757-11",
@@ -31,57 +86,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 16,
-      "text": "Suche seit zwanzig Minuten den Stream der Frauen-Basketball-WM. Gefunden habe ich in derselben Woche jede Zimmerkategorie des türkischen Palasts, in dem die Nati wohnt. Mit Bildergalerie."
-    },
-    {
-      "id": "2026-09-22-0757-12",
-      "typ": "persönlich",
-      "stichwort": "Tiefe Steuern, letzter Bus aus dem Dorf",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wie tief können die Steuern eigentlich noch sinken, bis der letzte Bus aus meinem Dorf verschwindet? Frage aus der Zentralschweiz, an alle, die genau deswegen hergezogen sind."
-    },
-    {
-      "id": "2026-09-22-0757-16",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wohnsitz für Leasingwagen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Halb Appenzell Innerrhoden besteht aus Mietautos, die nie dort waren. Warum darf ein Leasingwagen den billigsten Kanton als Wohnsitz wählen und eine Familie nicht? Frage an die Motorfahrzeugkontrolle."
-    },
-    {
-      "id": "2026-09-22-0757-17",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hauptort heisst Frauenfeld",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der Kanton Thurgau hat bis heute kein eigenes Frauenhaus. Sein Hauptort heisst Frauenfeld."
-    },
-    {
-      "id": "2026-09-22-0757-18",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste Klimamassnahmen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Massnahmen, mit denen Umweltminister Albert Rösti diesen Sommer das Klima geschützt hat:\n-\n-\nThat's it. Wird geprüft."
-    },
-    {
-      "id": "2026-09-22-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trockenster Sommer seit 1864, Armeemilliarden in derselben Woche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Trockenster Sommer seit 1864, gleiche Woche bewilligt der Ständerat Milliarden fürs Militär. Damals haben wir in Genf geregelt, wie man Kriege führt, ohne dass alles verbrennt."
+      "text": "Suche seit zwanzig Minuten den Stream der Frauen-Basketball-WM. Gefunden habe ich in derselben Woche jede Zimmerkategorie des türkischen Palasts, in dem die Nati wohnt. Mit Bildergalerie.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-22-0757-22",
@@ -91,7 +101,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Brigitte Bardots Erinnerungsstücke sind jetzt versteigert. Ihre Verurteilungen wegen Volksverhetzung wollte niemand ersteigern."
+      "text": "Brigitte Bardots Erinnerungsstücke sind jetzt versteigert. Ihre Verurteilungen wegen Volksverhetzung wollte niemand ersteigern.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-22-0757-23",
@@ -101,7 +116,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "text": "Stimmt, eine Zuger Klasse fährt 18 Stunden im Car nach Valencia, das ist gefährlich. Fliegen wäre sicherer, bis die Stadt dann unter Wasser steht.",
-      "format": "frei"
+      "format": "frei",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-22-0757-29",
+      "typ": "remix",
+      "stichwort": "Messis Abschiedstrikot",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Messi bekommt ein eigenes Abschiedstrikot. Einmal so verabschiedet werden wie ein Stück Stoff.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-22-0757-38",
+      "typ": "persönlich",
+      "stichwort": "Alte Posts, nichts zu aktualisieren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wollte meine fünf letzten Posts zu Bildern machen. Musste keinen Namen ändern. Kein Jahr.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     }
   ]
 }
