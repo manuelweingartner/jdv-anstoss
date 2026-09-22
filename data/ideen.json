@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Ich wollte meine Posts vom letzten Jahr zu Bildern machen und vorher kurz prüfen, ob noch alles stimmt. Es stimmte alles. Wort für Wort. Leider."
+    },
+    {
+      "id": "2026-09-22-1853-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zahnrechnung, Einkommen am Lächeln",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Die Zahnrechnung zahlt man selbst, die Hüftoperation nicht. Darum erkennt man in diesem Land das Einkommen am Lächeln. Kein Röntgen nötig."
+    },
+    {
+      "id": "2026-09-22-1853-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "abgeschrieben wie ein Geschäftsauto",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so grosszügig abgeschrieben werden wie ein Geschäftsauto."
+    },
+    {
+      "id": "2026-09-22-1853-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "patriotisches Vermögen zieht nach Zug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie patriotisch kann ein Vermögen eigentlich sein, das bei jeder Steuerdebatte nach Zug zieht? Frage an alle, die Heimatliebe von anderen verlangen. Die Fahne bleibt am Haus."
     },
     {
       "id": "2026-09-22-1853-29",
