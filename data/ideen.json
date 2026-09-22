@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -82,6 +82,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Stimmt, Grönland brauchte dringend Schutz. Jetzt schützt es der, der es kaufen wollte."
+    },
+    {
+      "id": "2026-09-22-2116-36",
+      "typ": "schnittmenge",
+      "stichwort": "Steuergünstig wohnen wie ein Innerrhoder Mietauto",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so steuergünstig wohnen wie ein Mietauto aus Appenzell Innerrhoden."
+    },
+    {
+      "id": "2026-09-22-2116-37",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne Frauenhaus, Flucht mit Billett nach St. Gallen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Im Kanton Thurgau gibt es kein eigenes Frauenhaus. Wer nachts mit den Kindern flieht, löst zuerst ein Billett nach St. Gallen, einfach."
     }
   ]
 }
