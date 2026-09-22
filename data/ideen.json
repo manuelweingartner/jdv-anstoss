@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "4 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-22-1853-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Benko sitzt, Milliarden offen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Benko sitzt jetzt. Zweieinhalb Jahre für 360'000 Euro, die Milliarden findet später vielleicht noch jemand."
+    },
+    {
+      "id": "2026-09-22-1853-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tigermücke heisst Plage, Hitze darf bleiben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, die Tigermücke ist eingewandert und heisst darum Plage, aber die Hitze, die sie hergebracht hat, darf bleiben?"
+    },
     {
       "id": "2026-09-22-1853-16",
       "typ": "schnittmenge",
