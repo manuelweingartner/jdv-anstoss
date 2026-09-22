@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Habe Angst vor China. Die nehmen uns die Stellen weg, die DSM-Firmenich eben streicht."
+    },
+    {
+      "id": "2026-09-22-1918-28",
+      "typ": "schnittmenge",
+      "stichwort": "Pflege bleibt: Reportage, Roche bleibt: Standortpaket",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer in der Pflege trotz allem bleibt, bekommt eine Reportage. Wer als Pharmakonzern in Basel bleibt, bekommt ein «Standortpaket»."
     }
   ]
 }
