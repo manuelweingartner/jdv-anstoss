@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-21T08:08:40+02:00",
+  "stand": "2026-09-22T08:07:18+02:00",
   "vorschlaege": [
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Waffen im Weltall",
-        "orbitale Sicherheitsarchitektur"
+        "Gefälschtes Impfzertifikat besorgt",
+        "Zertifikatsbeschaffung ausgelagert"
       ],
-      "warum": "weil die Bestaetigung der USA nur durch die vornehme Vokabel ertraeglich wird",
+      "warum": "weil Xhakas Geständnis erst in der Sportlersprache wieder respektabel klingt",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "KI prueft 2000 km Schienen",
-        "mehr Leute aufs Gleis",
-        "SBB Infrastruktur"
+        "Jeden 20. Job streichen",
+        "Vom Gewinn etwas abgeben",
+        "Swiss Life"
       ],
-      "warum": "weil die SBB in letzter Sekunde am naheliegenden Weg vorbeizieht",
+      "warum": "weil Stellenabbau trotz Gewinnanstieg genau der Schlenker in letzter Sekunde ist",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "UNO 1945",
-        "beendet Kriege",
-        "UNO 2026",
-        "120 Reden in vier Tagen"
+        "Warren Buffett, 1965",
+        "Kauft eine Textilfabrik aus Trotz",
+        "Howard Buffett, 2026",
+        "Erbt den Stuhl vom Vater"
       ],
-      "warum": "weil der Anspruch der Institution und ihre heutige Redeliste genau die Vorher-Nachher-Figur sind",
+      "warum": "weil die Nachfolgeregelung den Mythos vom Selfmade-Investor direkt kassiert",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Wahl ohne Jabloko ist eine Umfrage"
+        "Für die Armee findet sich immer ein Fonds"
       ],
-      "warum": "weil die These nach Widerspruch fragt, den das Wahlergebnis selbst schon ausgeschlossen hat",
+      "warum": "weil Pfisters plötzliche Mehrheit die These selbst beweist, bevor jemand widersprechen kann",
       "bild": "vorschlag-4.jpg"
     }
   ]
