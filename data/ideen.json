@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Trump droht dem Iran vor der Uno mit Vernichtung. Schweiz so: gern, richten wir in Teheran aus, mit freundlichen Grüssen, Ihre Schutzmacht."
+    },
+    {
+      "id": "2026-09-22-2116-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "EU streicht zwei Oligarchen, Zug bezieht das Gästebett",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die EU streicht zwei Oligarchen von der Sanktionsliste. Zug bezieht schon mal das Gästebett."
+    },
+    {
+      "id": "2026-09-22-2116-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "UNO ohne Preis für Frieden, Tankstelle mit Preis für Krieg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Seh ich das richtig, an der UNO hat diese Woche niemand einen Preis für Frieden, aber jede Tankstelle einen für Krieg? Beim Diesel sogar Rekord."
     },
     {
       "id": "2026-09-22-2116-23",
