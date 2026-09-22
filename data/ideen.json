@@ -24,6 +24,36 @@
       "text": "Wieso wird nur bei Steuerflüchtlingen die Integration gefördert? Frage für den Kanton Zug."
     },
     {
+      "id": "2026-09-22-1918-10",
+      "typ": "persönlich",
+      "stichwort": "Hagel-Totalschaden fährt wie das Bankgeheimnis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Mein Auto ist seit dem Hagel ein Totalschaden und fährt tadellos. Wie das Bankgeheimnis."
+    },
+    {
+      "id": "2026-09-22-1918-11",
+      "typ": "persönlich",
+      "stichwort": "Hornissen-Scouts in Schwyz, für Allergiker nur die Franchise",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Schwyz bildet jetzt Hornissen-Scouts gegen die Asiatische Hornisse aus. Gegen meine Gräserallergie kam nie eine Pfadi, nur die Franchise."
+    },
+    {
+      "id": "2026-09-22-1918-12",
+      "typ": "persönlich",
+      "stichwort": "Frauen-Basketball-WM im Stream, Schwingfest in jeder Beiz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig: Für die Frauen-Basketball-WM brauchte ich drei Tabs und einen dubiosen Stream (echtes Detail einsetzen), fürs Schwingfest reicht es, an einer Beiz vorbeizulaufen?"
+    },
+    {
       "id": "2026-09-22-1918-16",
       "typ": "persönlich",
       "stichwort": "Innerrhoden: Frauen per Gericht, Mietautos freiwillig",
@@ -72,36 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Schweizer Pass im Europa-Vergleich abgehängt. Kommt man mit Rosinenpicken etwa nicht überall rein?"
-    },
-    {
-      "id": "2026-09-22-1918-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Augenhöhe mit Trump, Macron läuft zu Fuss zum Tower",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, Europa muss Trump endlich auf Augenhöhe begegnen. Macron ist gestern schon mal zu Fuss durch Manhattan zum Trump Tower gelaufen."
-    },
-    {
-      "id": "2026-09-22-1918-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor China, DSM-Firmenich streicht die Stellen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor China. Die nehmen uns die Stellen weg, die DSM-Firmenich eben streicht."
-    },
-    {
-      "id": "2026-09-22-1918-28",
-      "typ": "schnittmenge",
-      "stichwort": "Pflege bleibt: Reportage, Roche bleibt: Standortpaket",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer in der Pflege trotz allem bleibt, bekommt eine Reportage. Wer als Pharmakonzern in Basel bleibt, bekommt ein «Standortpaket»."
     }
   ]
 }
