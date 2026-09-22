@@ -1,59 +1,57 @@
 {
-  "stand": "2026-09-22T08:06:18+02:00",
-  "lauf": "0805",
+  "stand": "2026-09-22T17:01:07+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0805-1",
-      "titel": "Generalversammlung: So will die Uno den nächsten Trump-Eklat auf der Rolltreppe verhindern",
-      "was": "Staatsgäste und Trump auf Rolltreppe und Podium der Uno-Generalversammlung",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Weltordnung als Tagesordnungspunkt gegen Haustechnik als eigentliches Thema.",
+      "id": "1700-1",
+      "titel": "Krieg im Nahen Osten – Trump vor UNO: Müssen Druck auf Iran aufrechterhalten",
+      "was": "Trump am Rednerpult der UNO-Generalversammlung vor grüner Marmorwand",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: die Weltgemeinschaft als Bühne gegen die Weltgemeinschaft als Verpflichtung.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Spiegel",
-      "auch_bei": [
-        "Tagesschau"
-      ],
-      "artikel": "https://www.spiegel.de/ausland/generalversammlung-so-will-die-uno-den-naechsten-trump-eklat-auf-der-rolltreppe-verhindern-a-13a4efa8-2571-4743-821c-3daa4741cca2#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/6582eec3-50ef-4e03-9240-fe58e7fcafc3_w520_r2.08_fpx59.99_fpy50.jpg",
-      "zeit": "2026-09-22T03:30+02:00"
+      "quelle": "SRF",
+      "auch_bei": [],
+      "artikel": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-trump-vor-uno-muessen-druck-auf-iran-aufrechterhalten",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/7ee7436.jpg",
+      "zeit": "2026-09-22T16:47+02:00"
     },
     {
-      "id": "0805-2",
-      "titel": "DIE NEUESTEN ENTWICKLUNGEN - Gescheiterte Investorenpläne der Fifa: Infantino zeigt sich erstmals für Gespräche bereit – und kündigt Wandel an",
-      "was": "Infantino am Fifa-Rednerpult, Hände breit, Verbandslogo im Rücken",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Wandel als Ankündigung gegen Wandel als Kontrollverlust über die eigene Kasse.",
+      "id": "1700-2",
+      "titel": "Nach Sicherheitsvorfällen – Staatschefs fordern strenge Kontrollen für hoch entwickelte KI",
+      "was": "Staats- und Regierungschefs beim Gruppenfoto, alle Richtung Kamera aufgereiht",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Aufsicht über eine Technologie fordern gegen den eigenen Umgang mit ihr.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "NZZ",
+      "raum": "",
+      "quelle": "SRF",
       "auch_bei": [
-        "20 Minuten"
+        "Spiegel"
       ],
-      "artikel": "https://www.nzz.ch/sport/fussball/gescheiterte-investorenplaene-der-fifa-weltverband-stellt-sich-nach-krisentreffen-hinter-praesident-infantino-geruechte-zu-wm-final-2030-in-casablanca-dementiert-ld.10017724",
-      "bild": "https://img-msp-prod.nzz.ch/2026/07/31/5fe81e39-9fd2-4c9d-8c6c-8d3b6d1a4880.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3600,3600,x850,y0",
-      "zeit": "2026-09-22T07:07+02:00"
+      "artikel": "https://www.srf.ch/news/international/nach-sicherheitsvorfaellen-staatschefs-fordern-strenge-kontrollen-fuer-hoch-entwickelte-ki",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/2f616ce.jpg",
+      "zeit": "2026-09-22T16:15+02:00"
     },
     {
-      "id": "0805-3",
-      "titel": "Putin wählt online – ein Detail auf dem Monitor sorgt für Spott",
-      "was": "Putin vor Bildschirm beim Onlinewählen, Systemhinweis sichtbar im Bild",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: souveräne Machtinszenierung gegen die Lizenzbedingungen, die niemand kündigen kann.",
+      "id": "1700-3",
+      "titel": "Innert 2 Stunden gingen 1200 Gratis-Döner weg",
+      "was": "Dichtes Gedränge vor einem Bieler Dönerladen, Handys in der Luft",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: die Mobilisierungskraft von gratis gegen die Mobilisierungskraft von Überzeugungen.",
       "grund": "memetauglich",
-      "raum": "weltweit",
+      "raum": "schweiz",
       "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/russland-putin-waehlt-online-doch-windows-stellt-noch-eine-forderung-103636868",
-      "bild": "https://image.20min.ch/2026/09/21/1952cc9b-12f2-4dc1-ba0c-9eb7ea01e856.png?s=26665a26f609de0ea4f28888bb9a5cb7",
-      "zeit": "2026-09-21T20:43+02:00"
+      "artikel": "https://www.20min.ch/story/alemanya-kebab-verschenkt-in-biel-doener-im-wert-von-20-000-franken-103636532",
+      "bild": "https://image.20min.ch/2026/09/21/2206fd96-9b38-4583-9b87-e88aac4d254e.jpg?s=81fc5eda25f0f5f2b1ac9499c1eef69f",
+      "zeit": "2026-09-22T12:51+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute tagsüber",
-      "was": "Auftritte und Rolltreppen der Staatschefs an der Uno-Generalversammlung in New York"
+      "wann": "heute ab 16:00",
+      "was": "Trump am Pult der UNO-Generalversammlung, Saal und Delegationen im Bild"
     },
     {
-      "wann": "heute, Zeitpunkt offen",
-      "was": "Handschlagbilder rund um den Staatsbesuch von Xi Jinping in den USA"
+      "wann": "heute am Abend",
+      "was": "Ministerinnen und Minister beim Eintreffen zum Krisentreffen im Kanzleramt"
     }
   ],
   "hinweis": ""
