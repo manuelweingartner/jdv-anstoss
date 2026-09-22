@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "4 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-22-2116-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Briefkasten bekommt Steuerrabatt, Putzfrau keinen Pass",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie lange muss ein Briefkasten in der Schweiz wohnen, bis er Steuerrabatt bekommt? Frage für die Putzfrau ohne Pass, die ihn abstaubt."
+    },
+    {
+      "id": "2026-09-22-2116-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leistung muss sich lohnen, gesagt zum Servicepersonal",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "«Leistung muss sich wieder lohnen», sagt der Verwaltungsrat am Apéro. Zum Servicepersonal."
+    },
     {
       "id": "2026-09-22-2116-08",
       "typ": "schnittmenge",
