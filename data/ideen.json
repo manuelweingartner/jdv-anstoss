@@ -4,6 +4,36 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-09-22-2134-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Referenzzins unverändert, leere Liste der Vermieter*innen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Referenzzins unverändert, viele Mieten dürften eigentlich sinken. Hier alle Vermieter*innen, die sich deswegen von selbst gemeldet haben:\n-\n-",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-22-2134-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "USA melden sich an der UNO als Weltpolizei ab, Ölfelder informiert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "An der UNO melden sich die USA als Weltpolizei ab. Die Ölfelder wurden persönlich informiert.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
       "id": "2026-09-22-2134-03",
       "typ": "politisch-aktuell",
       "stichwort": "Angst vor Tempo 30, Kinder im Quartier",
@@ -11,7 +41,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Habe Angst vor Tempo 30 im Quartier. Nachher spielen da wieder Kinder."
+      "text": "Habe Angst vor Tempo 30 im Quartier. Nachher spielen da wieder Kinder.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-22-2134-04",
@@ -21,7 +56,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Vielleicht sollten wir die Zuwanderung doch begrenzen, angefangen bei den Pauschalbesteuerten am Genfersee. Kein Wort Französisch, keinen Kontakt zur Bevölkerung, zahlen nicht mal richtig Steuern."
+      "text": "Vielleicht sollten wir die Zuwanderung doch begrenzen, angefangen bei den Pauschalbesteuerten am Genfersee. Kein Wort Französisch, keinen Kontakt zur Bevölkerung, zahlen nicht mal richtig Steuern.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-22-2134-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Teilzeit gefährdet den Wohlstand, beschlossen von Verwaltungsräten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Teilzeit gefährdet den Wohlstand, warnt der Arbeitgeberverband. Beschlossen von Verwaltungsräten mit sieben Mandaten, an einer Sitzung von zwei Stunden, mit Apéro.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-22-2134-08",
@@ -31,7 +86,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Dorfkarpfen Oskar muss nach 30 Jahren aus dem Brunnen, weil man sich über seine Haltung beschwert hat. Bei Asylunterkünften beschwert man sich auch: über die Bewohner*innen."
+      "text": "Dorfkarpfen Oskar muss nach 30 Jahren aus dem Brunnen, weil man sich über seine Haltung beschwert hat. Bei Asylunterkünften beschwert man sich auch: über die Bewohner*innen.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-22-2134-09",
@@ -41,67 +101,57 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Einmal ein Teams-Meeting so verlassen dürfen wie die iranische Delegation Trumps Uno-Rede."
+      "text": "Einmal ein Teams-Meeting so verlassen dürfen wie die iranische Delegation Trumps Uno-Rede.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-22-2134-21",
+      "id": "2026-09-22-2134-16",
+      "typ": "schnittmenge",
+      "stichwort": "Appenzell Innerrhoden lässt Mietautos zu, Frauen erst per Bundesgericht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Appenzell Innerrhoden lässt jedes Mietauto zu, das Motorfahrzeugsteuer sparen will. Frauen erst, als das Bundesgericht es befohlen hat.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-22-2134-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Referenzzins bleibt, leere Liste der freiwilligen Vermieter*innen",
+      "stichwort": "Grönland braucht Schutz, man weiss ja, wer es will",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Grönland braucht ein Sicherheitsabkommen mit den USA. Weiss ja jeder, wer es will.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-22-2134-29",
+      "typ": "remix",
+      "stichwort": "Dorfkarpfen Oskar ausgesetzt, FDP prüft das für die AHV",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Referenzzins unverändert, Mietsenkung möglich. Hier alle Vermieter*innen, die sie von sich aus anbieten:\n-\n-"
-    },
-    {
-      "id": "2026-09-22-2134-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Teilzeit schadet der Wirtschaft, sagt der Verwaltungsrat mit fünf Mandaten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Teilzeit schadet der Wirtschaft, warnt ein Verwaltungsrat mit fünf Mandaten. Alle in Teilzeit, jedes zum vollen Honorar."
-    },
-    {
-      "id": "2026-09-22-2134-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pauschalbesteuerung: zärtlich besteuert wie ein Milliardär in Gstaad",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so verständnisvoll besteuert werden wie ein Milliardär mit Chalet in Gstaad."
-    },
-    {
-      "id": "2026-09-22-2134-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mieteinnahmen heissen Investor, Sozialhilfe heisst Profiteur, Kontoauszüge nur für einen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Warum heisst, wer von Mieteinnahmen lebt, «Investor», und wer von der Sozialhilfe lebt, «Profiteur»? Nur einer muss jeden Monat Kontoauszüge vorlegen."
-    },
-    {
-      "id": "2026-09-22-2134-30",
-      "typ": "persönlich",
-      "stichwort": "ECO-Programm aus Prinzip, klimapolitisch vor dem Bundesrat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Meine Abwaschmaschine läuft seit sieben Jahren aus Prinzip im ECO-Programm, klimapolitisch bin ich damit weiter als der Bundesrat. Und genauso langsam."
-    },
-    {
-      "id": "2026-09-22-2134-31",
-      "typ": "persönlich",
-      "stichwort": "Flimmerpause als Familien-Event, Tech-Chefs kennen das Produkt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Eine Woche Flimmerpause, bei uns als grosses Familien-Event gefeiert. Die Tech-Chefs im Silicon Valley verordnen das ihren eigenen Kindern ganzjährig, die kennen das Produkt."
+      "text": "Dreissig Jahre gefüttert, jetzt im Rhein ausgesetzt: Dorfkarpfen Oskar. Die FDP prüft das für die AHV.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
