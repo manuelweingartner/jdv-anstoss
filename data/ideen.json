@@ -1,8 +1,23 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "3 Ideen aussortiert und nicht ersetzt, Liste hat 7 statt 10.",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-09-22-0632-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kein Futter auf den Feldern, Rekord in den SAC-Hütten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Die Bauern finden kein Futter für ihre Tiere, die SAC-Hütten melden im selben Sommer einen Rekord. Wer oben sitzt, hat einfach das bessere Wetter.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
     {
       "id": "2026-09-22-0632-02",
       "typ": "politisch-aktuell",
@@ -12,36 +27,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Männer essen neuerdings verwesendes Fleisch für Testosteron. Frage für alle, die Hafermilch ideologisch finden.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-0632-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Super-App Max, Zustimmung selbst geklickt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor Russlands Super-App Max, die jede Nachricht mitliest. Bei uns macht das kein Staat, sondern Meta, und ich habe zugestimmt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-0632-04",
-      "typ": "schnittmenge",
-      "stichwort": "Berghuetten, weniger Wasser weniger Berg",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, der Hitzesommer war top für die Berghütten. Weniger Wasser, weniger Probleme, weniger Berg.",
       "jury": {
         "anker": true,
         "witz": true,
@@ -94,63 +79,33 @@
       }
     },
     {
-      "id": "2026-09-22-0632-10",
+      "id": "2026-09-22-0632-11",
       "typ": "persönlich",
-      "stichwort": "Totalschaden am Auto, Wirtschaftlichkeitsprüfung bei Menschen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Seit dem Hagel gilt mein Auto als wirtschaftlicher Totalschaden, die Reparatur kostet mehr als der Wagen. Bei Menschen heisst dieselbe Rechnung Wirtschaftlichkeitsprüfung.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-22-0632-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "High Meat gegen Impfangst",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Männer essen monatealtes rohes Fleisch für mehr Testosteron. Gefährlich ist aber die Impfung.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-0632-23",
-      "typ": "schnittmenge",
-      "stichwort": "Russlands Super-App Max, aber meine Firma habe ich selbst gewaehlt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor Russlands Super-App Max, die jede Nachricht ihrer Nutzer mitliest. Bei uns macht das zum Glück eine Firma, die ich selbst ausgewählt habe.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-0632-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Buffett hoert mit 96 auf, im Sitzen",
+      "stichwort": "Vermieter beruft sich auf den Markt",
       "plattform": "Instagram + Threads",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Stimmt, alle sollen länger arbeiten. Warren Buffett hört mit 96 auf, im Sitzen.",
+      "text": "Mein Vermieter so: kleine Anpassung an den Markt. Der Markt so: war ich nicht.",
       "jury": {
-        "witz": true,
         "anker": true,
-        "neu": true
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-22-0632-18",
+      "typ": "persönlich",
+      "stichwort": "Leere Liste zu den August-Posts",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier meine Posts vom August zu Mieten und Prämien, bei denen sich seither etwas geändert hat:\n-\n-\nThat's it.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
       }
     }
   ]
