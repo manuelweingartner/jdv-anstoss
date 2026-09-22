@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Hier alle Millionenerben, die öffentlich gesagt haben, sie hätten das Geld nicht verdient:\n-\n-\nThat's it."
+    },
+    {
+      "id": "2026-09-22-0757-10",
+      "typ": "persönlich",
+      "stichwort": "Kotfluegel schneller begutachtet als ein Mensch",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal von der Versicherung so schnell begutachtet werden wie mein verhagelter Kotflügel."
+    },
+    {
+      "id": "2026-09-22-0757-11",
+      "typ": "persönlich",
+      "stichwort": "Stream der Frauen-WM gegen Nati-Zimmerkategorien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Suche seit zwanzig Minuten den Stream der Frauen-Basketball-WM. Gefunden habe ich in derselben Woche jede Zimmerkategorie des türkischen Palasts, in dem die Nati wohnt. Mit Bildergalerie."
+    },
+    {
+      "id": "2026-09-22-0757-12",
+      "typ": "persönlich",
+      "stichwort": "Tiefe Steuern, letzter Bus aus dem Dorf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie tief können die Steuern eigentlich noch sinken, bis der letzte Bus aus meinem Dorf verschwindet? Frage aus der Zentralschweiz, an alle, die genau deswegen hergezogen sind."
     },
     {
       "id": "2026-09-22-0757-23",
