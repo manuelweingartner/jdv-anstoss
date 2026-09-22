@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Wieso wird nur bei Steuerflüchtlingen die Integration gefördert? Frage für den Kanton Zug."
+    },
+    {
+      "id": "2026-09-22-1918-16",
+      "typ": "persönlich",
+      "stichwort": "Innerrhoden: Frauen per Gericht, Mietautos freiwillig",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Frauen musste Appenzell Innerrhoden 1990 per Bundesgericht an die Urne lassen. Mietautos holt der Kanton freiwillig ins Register. Zu Tausenden."
+    },
+    {
+      "id": "2026-09-22-1918-17",
+      "typ": "persönlich",
+      "stichwort": "Thurgau: Äpfel im Kühllager, Frauen nach St. Gallen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Thurgau hat kein eigenes Frauenhaus. Einmal so sicher untergebracht sein wie ein Thurgauer Apfel im Kühllager."
+    },
+    {
+      "id": "2026-09-22-1918-18",
+      "typ": "persönlich",
+      "stichwort": "Anti-KI-Posts von der KI als Slides",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 5,
+      "text": "Ich lasse meine Anti-KI-Posts von einer KI zu Instagram-Slides machen. Klassenkampf im Abo."
     },
     {
       "id": "2026-09-22-1918-21",
