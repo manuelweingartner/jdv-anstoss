@@ -1,59 +1,59 @@
 {
-  "stand": "2026-09-21T17:01:10+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-22T08:06:18+02:00",
+  "lauf": "0805",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Zwang ist keine Lösung: Obwohl viele besorgt sind über Politikverdrossenheit, bleibt Wählen und Abstimmen in Zürich freiwillig",
-      "was": "Stimmberechtigte werfen Couverts in eine Urne im Kanton Zürich",
-      "richtung": "Mechanik: wörtlich nehmen, was als Freiwilligkeit nur symbolisch gemeint ist. Achse: gefeierte Freiheit, nicht zu wählen, gegen die Klage über zu wenige, die wählen.",
+      "id": "0805-1",
+      "titel": "Generalversammlung: So will die Uno den nächsten Trump-Eklat auf der Rolltreppe verhindern",
+      "was": "Staatsgäste und Trump auf Rolltreppe und Podium der Uno-Generalversammlung",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Weltordnung als Tagesordnungspunkt gegen Haustechnik als eigentliches Thema.",
       "grund": "breit",
-      "raum": "schweiz",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
+      "auch_bei": [
+        "Tagesschau"
+      ],
+      "artikel": "https://www.spiegel.de/ausland/generalversammlung-so-will-die-uno-den-naechsten-trump-eklat-auf-der-rolltreppe-verhindern-a-13a4efa8-2571-4743-821c-3daa4741cca2#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/6582eec3-50ef-4e03-9240-fe58e7fcafc3_w520_r2.08_fpx59.99_fpy50.jpg",
+      "zeit": "2026-09-22T03:30+02:00"
+    },
+    {
+      "id": "0805-2",
+      "titel": "DIE NEUESTEN ENTWICKLUNGEN - Gescheiterte Investorenpläne der Fifa: Infantino zeigt sich erstmals für Gespräche bereit – und kündigt Wandel an",
+      "was": "Infantino am Fifa-Rednerpult, Hände breit, Verbandslogo im Rücken",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Wandel als Ankündigung gegen Wandel als Kontrollverlust über die eigene Kasse.",
+      "grund": "breit",
+      "raum": "weltweit",
       "quelle": "NZZ",
       "auch_bei": [
         "20 Minuten"
       ],
-      "artikel": "https://www.nzz.ch/zuerich/zwang-ist-keine-loesung-obwohl-viele-besorgt-sind-ueber-politikverdrossenheit-bleibt-waehlen-und-abstimmen-in-zuerich-freiwillig-ld.10024757",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/21/eb58dea3-1035-4428-8ff0-02abf2a91577.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3712,3712,x1856,y0",
-      "zeit": "2026-09-21T16:05+02:00"
+      "artikel": "https://www.nzz.ch/sport/fussball/gescheiterte-investorenplaene-der-fifa-weltverband-stellt-sich-nach-krisentreffen-hinter-praesident-infantino-geruechte-zu-wm-final-2030-in-casablanca-dementiert-ld.10017724",
+      "bild": "https://img-msp-prod.nzz.ch/2026/07/31/5fe81e39-9fd2-4c9d-8c6c-8d3b6d1a4880.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3600,3600,x850,y0",
+      "zeit": "2026-09-22T07:07+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Vorläufiges Ergebnis: Linke ist klare Gewinnerin der Berlin-Wahl",
-      "was": "Jubelnde Linken-Spitze um Eralp auf der Berliner Wahlparty",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Konfetti-Euphorie über die Verdoppelung gegen die Zahl, die sich da verdoppelt hat.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "Tagesschau",
-      "auch_bei": [
-        "Spiegel"
-      ],
-      "artikel": "https://www.tagesschau.de/inland/landtagswahlen/berlin/2026/vorlaeufiges-ergebnis-berlin-abgeordnetenhaus-2026-100.html",
-      "bild": "https://images.tagesschau.de/image/9f7d724f-93dd-4024-ba29-27c1c0551cb8/AAABoMCjF5A/AAABnSSvrFg/16x9-big/elif-eralp-114.jpg?width=1280",
-      "zeit": "2026-09-21T02:03+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Sylvester Stallone lehnte Donald Trumps »Sonderbotschafter«-Idee ab. Trump benannte ihn trotzdem",
-      "was": "Trump am Rednerpult, dahinter Bilder der drei Hollywood-Veteranen",
-      "richtung": "Mechanik: wörtlich nehmen, was als Ehrentitel gemeint ist. Achse: ein Amt, das jemand verliehen bekommt, gegen die Absage, die der Beschenkte vorher erteilt hat.",
+      "id": "0805-3",
+      "titel": "Putin wählt online – ein Detail auf dem Monitor sorgt für Spott",
+      "was": "Putin vor Bildschirm beim Onlinewählen, Systemhinweis sichtbar im Bild",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: souveräne Machtinszenierung gegen die Lizenzbedingungen, die niemand kündigen kann.",
       "grund": "memetauglich",
       "raum": "weltweit",
-      "quelle": "Spiegel",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.spiegel.de/kultur/kino/sylvester-stallone-lehnte-donald-trumps-sonderbotschafter-idee-ab-trump-benannte-ihn-trotzdem-a-5b5c1fc6-7636-4cc3-83ff-a09d97382271#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/2cd53505-5485-4eb9-952a-b91b878e249a_w520_r2.08_fpx46.66_fpy50.jpg",
-      "zeit": "2026-09-21T16:32+02:00"
+      "artikel": "https://www.20min.ch/story/russland-putin-waehlt-online-doch-windows-stellt-noch-eine-forderung-103636868",
+      "bild": "https://image.20min.ch/2026/09/21/1952cc9b-12f2-4dc1-ba0c-9eb7ea01e856.png?s=26665a26f609de0ea4f28888bb9a5cb7",
+      "zeit": "2026-09-21T20:43+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 17:00",
-      "was": "Bilder aus dem Ratssaal zur Herbstsession in Bern, Ständerat und Nationalrat bei Abstimmung und Fragestunde"
+      "wann": "heute tagsüber",
+      "was": "Auftritte und Rolltreppen der Staatschefs an der Uno-Generalversammlung in New York"
     },
     {
-      "wann": "heute, Tagesverlauf",
-      "was": "Training der Schweizer Nati im Camp in Belek, Mannschaftsbild und Auftritt des Verbandspräsidenten ohne den Captain"
+      "wann": "heute, Zeitpunkt offen",
+      "was": "Handschlagbilder rund um den Staatsbesuch von Xi Jinping in den USA"
     }
   ],
   "hinweis": ""
