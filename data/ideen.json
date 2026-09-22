@@ -4,6 +4,66 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-09-22-2116-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Diesel auf Rekord, EU streicht zwei Oligarchen, Entlastung im Hafen von Monaco",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Diesel so teuer wie nie, am selben Tag streicht die EU zwei Oligarchen von der Sanktionsliste. Die Entlastung kommt also doch: im Hafen von Monaco.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-22-2116-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Libyens Ölfeld steht still, bei den Booten nahm nie jemand ab",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Libyens Ölfeld steht still, Europa ist alarmiert. Bei den Booten nahm nie jemand ab.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-2116-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Russ*innen im Ausland wählen gegen Putin, Propaganda oder Fensterhöhe",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Russ*innen im Ausland wählen achtmal eher gegen Putins Partei. Weiss auch nicht, ob das an der westlichen Propaganda liegt oder am Abstand zum nächsten Fenster.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-2116-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Moskau saniert Luftschutzräume, Oligarchengeld längst in Zürich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Moskau saniert still seine Luftschutzräume. Wozu, das Oligarchengeld liegt doch längst sicher in Zürich.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-09-22-2116-06",
       "typ": "politisch-aktuell",
       "stichwort": "Briefkasten bekommt Steuerrabatt, Putzfrau keinen Pass",
@@ -11,7 +71,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wie lange muss ein Briefkasten in der Schweiz wohnen, bis er Steuerrabatt bekommt? Frage für die Putzfrau ohne Pass, die ihn abstaubt."
+      "text": "Wie lange muss ein Briefkasten in der Schweiz wohnen, bis er Steuerrabatt bekommt? Frage für die Putzfrau ohne Pass, die ihn abstaubt.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-22-2116-07",
@@ -21,7 +86,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 17,
-      "text": "«Leistung muss sich wieder lohnen», sagt der Verwaltungsrat am Apéro. Zum Servicepersonal."
+      "text": "«Leistung muss sich wieder lohnen», sagt der Verwaltungsrat am Apéro. Zum Servicepersonal.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-22-2116-08",
@@ -31,77 +101,57 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Karpfen Oskar, dreissig Jahre im Dorfbrunnen: «Tierquälerei, sofort befreien». Eine Familie, fünf Jahre im Rückkehrzentrum: «bewusst unattraktiv»."
+      "text": "Karpfen Oskar, dreissig Jahre im Dorfbrunnen: «Tierquälerei, sofort befreien». Eine Familie, fünf Jahre im Rückkehrzentrum: «bewusst unattraktiv».",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-22-2116-09",
-      "typ": "remix",
-      "stichwort": "Trump droht Iran, Schweiz als Schutzmacht richtet aus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Trump droht dem Iran vor der Uno mit Vernichtung. Schweiz so: gern, richten wir in Teheran aus, mit freundlichen Grüssen, Ihre Schutzmacht."
-    },
-    {
-      "id": "2026-09-22-2116-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "EU streicht zwei Oligarchen, Zug bezieht das Gästebett",
+      "id": "2026-09-22-2116-10",
+      "typ": "persönlich",
+      "stichwort": "Herdenschutzhund aus Rumänien, niemand sagt Sozialtourist",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die EU streicht zwei Oligarchen von der Sanktionsliste. Zug bezieht schon mal das Gästebett."
-    },
-    {
-      "id": "2026-09-22-2116-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "UNO ohne Preis für Frieden, Tankstelle mit Preis für Krieg",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Seh ich das richtig, an der UNO hat diese Woche niemand einen Preis für Frieden, aber jede Tankstelle einen für Krieg? Beim Diesel sogar Rekord."
-    },
-    {
-      "id": "2026-09-22-2116-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Russ*innen im Ausland wählen achtmal eher gegen Putin, muss an der Luft liegen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seh ich das richtig, im Ausland wählen Russ*innen achtmal eher gegen Putins Partei? Muss an der Luft liegen. Oder am Zählen."
-    },
-    {
-      "id": "2026-09-22-2116-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Grönland-Sicherheitsabkommen, Schutz vom Kaufinteressenten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, Grönland brauchte dringend Schutz. Jetzt schützt es der, der es kaufen wollte."
-    },
-    {
-      "id": "2026-09-22-2116-30",
-      "typ": "persönlich",
-      "stichwort": "Hornissen-Scouts im Nachbarkanton Schwyz",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Mein Nachbarkanton Schwyz sucht Freiwillige, die invasive Einwanderer aufspüren und melden. Gemeint ist die Asiatische Hornisse, muss man dort leider dazusagen."
-    },
-    {
-      "id": "2026-09-22-2116-31",
-      "typ": "persönlich",
-      "stichwort": "ECO-Programm als Klimapolitik des Landes",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Seit sieben Jahren läuft unsere Abwaschmaschine aus Prinzip im ECO-Programm. Das ist die konsequenteste Klimapolitik, die dieses Land je umgesetzt hat. Freiwillig. Ohne Abstimmung."
+      "format": 5,
+      "text": "Mein Herdenschutzhund ist aus Rumänien eingewandert, arbeitet nicht und kostet jeden Monat ein Vermögen. Sozialtourist nennt ihn im Dorf trotzdem niemand, er hat halt Fell.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-22-2116-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rüstungsaktien im Nachhaltigkeitsfonds",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Meine Bank führt Rüstungsaktien jetzt im Nachhaltigkeitsfonds. Stimmt sogar, kaum ein Produkt sorgt so zuverlässig für seine eigene Nachfrage.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-2116-36",
+      "typ": "schnittmenge",
+      "stichwort": "Steuergünstig wohnen wie ein Innerrhoder Mietauto",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so steuergünstig wohnen wie ein Mietauto aus Appenzell Innerrhoden.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     }
   ]
 }
