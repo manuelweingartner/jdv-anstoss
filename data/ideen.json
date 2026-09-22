@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "1 von 10 da, der Rest lädt noch.",
+  "hinweis": "3 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-22-2134-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor Tempo 30, Kinder im Quartier",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe Angst vor Tempo 30 im Quartier. Nachher spielen da wieder Kinder."
+    },
+    {
+      "id": "2026-09-22-2134-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zuwanderung begrenzen, bei den Pauschalbesteuerten anfangen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Vielleicht sollten wir die Zuwanderung doch begrenzen, angefangen bei den Pauschalbesteuerten am Genfersee. Kein Wort Französisch, keinen Kontakt zur Bevölkerung, zahlen nicht mal richtig Steuern."
+    },
     {
       "id": "2026-09-22-2134-21",
       "typ": "politisch-aktuell",
