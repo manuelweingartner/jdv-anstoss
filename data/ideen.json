@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "7 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Männer essen neuerdings verwesendes Fleisch für Testosteron. Frage für alle, die Hafermilch ideologisch finden."
+    },
+    {
+      "id": "2026-09-22-0632-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Super-App Max, Zustimmung selbst geklickt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor Russlands Super-App Max, die jede Nachricht mitliest. Bei uns macht das kein Staat, sondern Meta, und ich habe zugestimmt."
+    },
+    {
+      "id": "2026-09-22-0632-04",
+      "typ": "schnittmenge",
+      "stichwort": "Berghuetten, weniger Wasser weniger Berg",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, der Hitzesommer war top für die Berghütten. Weniger Wasser, weniger Probleme, weniger Berg."
     },
     {
       "id": "2026-09-22-0632-05",
