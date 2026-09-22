@@ -1,8 +1,18 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "3 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-22-1351-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste: Vermieter senken freiwillig",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "text": "Der Referenzzins bleibt unverändert. Hier alle Vermieter, die trotzdem von sich aus die Miete senken:\n-\n-\nThat's it.",
+      "format": "frei"
+    },
     {
       "id": "2026-09-22-1351-23",
       "typ": "politisch-aktuell",
