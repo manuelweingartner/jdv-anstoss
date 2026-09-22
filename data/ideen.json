@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Referenzzins unverändert, Mietsenkung möglich. Hier alle Vermieter*innen, die sie von sich aus anbieten:\n-\n-"
+    },
+    {
+      "id": "2026-09-22-2134-36",
+      "typ": "persönlich",
+      "stichwort": "Mietautos in Innerrhoden willkommen, Frauenstimmrecht per Bundesgericht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Mietautos in Appenzell Innerrhoden: tiefe Steuer, sofort eingelöst, herzlich willkommen. Frauenstimmrecht: 1990, per Bundesgericht. Gegen die Landsgemeinde."
+    },
+    {
+      "id": "2026-09-22-2134-37",
+      "typ": "persönlich",
+      "stichwort": "Thurgau: Hagelnetz für Äpfel, Telefonnummer für Frauen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Im Thurgau hat jede Apfelplantage ein Hagelnetz. Frauen haben eine Nummer in St. Gallen."
+    },
+    {
+      "id": "2026-09-22-2134-38",
+      "typ": "persönlich",
+      "stichwort": "Rösti im Feuer, Herbst ohne Regen, Bundesrat löscht niemand",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Umweltminister Albert Rösti steht im Feuer, und es regnet seit Wochen nicht. Einen Bundesrat löscht in diesem Land eben niemand. Nicht mal das Wetter."
     }
   ]
 }
