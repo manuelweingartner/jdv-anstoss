@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "tagesgebunden",
       "text": "Seh ich das richtig, es brauchte Fox News, um zu merken, dass da ein Problem ist?",
       "format": "frei"
+    },
+    {
+      "id": "2026-09-22-0757-28",
+      "typ": "schnittmenge",
+      "stichwort": "Staats-App Max vs. Anstehen fuers iPhone",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Russlands Staats-App Max liest alles mit, Installation Pflicht. Bei uns stellt man sich fürs neue iPhone sogar an."
+    },
+    {
+      "id": "2026-09-22-0757-29",
+      "typ": "remix",
+      "stichwort": "Messis Abschiedstrikot",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Messi bekommt ein eigenes Abschiedstrikot. Einmal so verabschiedet werden wie ein Stück Stoff."
     }
   ]
 }
