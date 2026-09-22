@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Stimmt, bei den Coop-Waffeln fehlen Guetzli in der Schachtel. Nur der Preis ist vollzählig."
+    },
+    {
+      "id": "2026-09-22-1351-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Abgeschrieben wie ein Geschäftsauto",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so grosszügig abgeschrieben werden wie ein Geschäftsauto. Jedes Jahr ein bisschen."
+    },
+    {
+      "id": "2026-09-22-1351-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuererklärung ausfüllen gegen aushandeln",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die Steuererklärung kommt. Angestellte so: ausfüllen, abschicken, hoffen. Reiche Zuzüger so: Grüezi, machen wir wieder pauschal?"
+    },
+    {
+      "id": "2026-09-22-1351-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wegzugsdrohung, die nie eintritt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie oft darf man eigentlich mit Wegzug drohen, bevor man einfach geht? Frage an alle, die seit den Neunzigern drohen und immer noch am Zürichsee wohnen."
     }
   ]
 }
