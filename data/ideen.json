@@ -1,127 +1,37 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
-  "fertig": true,
+  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-22-1351-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gratis-Döner Biel, acht Stunden Schlange",
+      "id": "2026-09-22-1853-16",
+      "typ": "schnittmenge",
+      "stichwort": "Appenzell-Kennzeichen als Zugehoerigkeitsbeweis",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Stimmt, arbeiten will hier niemand mehr. In Biel wartete man acht Stunden auf Gratis-Döner.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "text": "Ein Autokennzeichen aus Appenzell reicht in diesem Land als Heimatnachweis, egal wer am Steuer sitzt. Wie viele Generationen brauchen eigentlich Menschen?"
     },
     {
-      "id": "2026-09-22-1351-08",
-      "typ": "schnittmenge",
-      "stichwort": "Meloni Schleierverbot vs. verschleiertes Vermögen",
-      "plattform": "Instagram + Threads",
+      "id": "2026-09-22-1853-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Thurgau ohne Frauenhaus, Kanton mit Leitbild",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Meloni verbietet Schülerinnen den Gesichtsschleier. Wer ein Vermögen verschleiert, sitzt bei ihr am Tisch.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-1351-09",
-      "typ": "remix",
-      "stichwort": "Buffett hört mit 96 auf, Gerüstbauer mit 63",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Buffett hört mit 96 auf, alle so: was für ein Lebenswerk. Der Gerüstbauer mit 63 so: ich auch, alle so: faul.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
+      "text": "Hier alle Frauenhäuser im Kanton Thurgau, dem fünftgrössten der Schweiz:\n-\n-\nThat's it."
     },
     {
-      "id": "2026-09-22-1351-10",
+      "id": "2026-09-22-1853-18",
       "typ": "persönlich",
-      "stichwort": "Leere Liste: Sender fürs Frauen-Basketball-Finale",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Sender, auf denen ich das Basketball-WM-Finale der Frauen gefunden habe:\n-\n-\nThat's it.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-1351-18",
-      "typ": "politisch-aktuell",
-      "stichwort": "Umwelt und Verkehr im selben Departement",
+      "stichwort": "eigene alte Posts brauchen kein Update",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Umwelt und Verkehr liegen in diesem Land im selben Departement. Streiten die beiden, gewinnt zuverlässig der mit den sechs Spuren. Jedes Mal.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-09-22-1351-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Coop-Waffeln, Luft in der Schachtel",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, bei den Coop-Waffeln fehlen Guetzli in der Schachtel. Nur der Preis ist vollzählig.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-1351-28",
-      "typ": "schnittmenge",
-      "stichwort": "UBS verlangt Eigenkapital, nur nicht von sich",
-      "plattform": "Instagram + Threads",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Für eine Hypothek verlangt die UBS Eigenkapital. Für ihre eigene Reserve verlangt sie Verständnis.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-22-1351-38",
-      "typ": "persönlich",
-      "stichwort": "Sätze werden Bilder, Sudan hat keine",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Meine eigenen Sätze mache ich zu Bildern, weil Text allein niemand mehr anschaut. Aus dem Sudan habe ich seit Monaten keins gesehen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
+      "format": 16,
+      "text": "Ich wollte meine Posts vom letzten Jahr zu Bildern machen und vorher kurz prüfen, ob noch alles stimmt. Es stimmte alles. Wort für Wort. Leider."
     }
   ]
 }
