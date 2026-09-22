@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "4 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Männer essen neuerdings verwesendes Fleisch für Testosteron. Frage für alle, die Hafermilch ideologisch finden."
+    },
+    {
+      "id": "2026-09-22-0632-08",
+      "typ": "schnittmenge",
+      "stichwort": "Ohne Befund: Mensch gegen Auto",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Bei einer Krankheit ohne Befund heisst es psychosomatisch. Bei einem Auto ohne Befund heisst es Garantiefall."
+    },
+    {
+      "id": "2026-09-22-0632-09",
+      "typ": "remix",
+      "stichwort": "Ernst genommen wie ein Rappen Diesel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Einmal so ernst genommen werden wie ein Rappen Aufschlag beim Diesel."
     }
   ]
 }
