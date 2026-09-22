@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Wie tief können die Steuern eigentlich noch sinken, bis der letzte Bus aus meinem Dorf verschwindet? Frage aus der Zentralschweiz, an alle, die genau deswegen hergezogen sind."
+    },
+    {
+      "id": "2026-09-22-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trockenster Sommer seit 1864, Armeemilliarden in derselben Woche",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Trockenster Sommer seit 1864, gleiche Woche bewilligt der Ständerat Milliarden fürs Militär. Damals haben wir in Genf geregelt, wie man Kriege führt, ohne dass alles verbrennt."
+    },
+    {
+      "id": "2026-09-22-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bardot-Versteigerung ohne die Verurteilungen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Brigitte Bardots Erinnerungsstücke sind jetzt versteigert. Ihre Verurteilungen wegen Volksverhetzung wollte niemand ersteigern."
     },
     {
       "id": "2026-09-22-0757-23",
