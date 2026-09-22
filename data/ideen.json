@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Einmal so ernst genommen werden wie ein Rappen Aufschlag beim Diesel."
+    },
+    {
+      "id": "2026-09-22-0632-30",
+      "typ": "persönlich",
+      "stichwort": "Supercard fragt, Krankenkasse nie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Die Supercard will jede Woche wissen, wie zufrieden ich mit meinem Einkauf war. Meine Krankenkasse hat noch nie gefragt. Nicht einmal nach der Prämienrunde."
     }
   ]
 }
