@@ -1,157 +1,27 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-22-1918-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "600 Hitzetote, leere Massnahmenliste",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "600 Menschen sind diesen Sommer in der Schweiz vorzeitig an der Hitze gestorben. Hier die Sofortmassnahmen des Bundesrats dazu:\n-\n-",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-09-22-1918-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizer Pass öffnet jede Grenze ausser die zu ihm",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 2,
-      "text": "Der Schweizer Pass öffnet laut neuem Ranking fast jede Grenze der Welt. Ausser die zu ihm.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-22-1918-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor China, Kündigungen von DSM-Firmenich",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor China: wegen dem Druck von dort streicht DSM-Firmenich jetzt 50 Stellen im Aargau. Weiss auch nicht, warum dann DSM-Firmenich die Kündigungen unterschreibt.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-1918-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Integration nur für Steuerflüchtlinge, Frage an Zug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wieso wird nur bei Steuerflüchtlingen die Integration gefördert? Frage für den Kanton Zug.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-09-22-1918-08",
+      "id": "2026-09-22-2116-08",
       "typ": "schnittmenge",
-      "stichwort": "UBS-Blasenindex: bezahlbare Wohnung als Risiko",
-      "plattform": "Threads + Bluesky + Instagram",
+      "stichwort": "Karpfen Oskar befreit, Rückkehrzentrum bewusst unattraktiv",
+      "plattform": "Threads + Instagram",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Unbezahlbare Wohnungen in Zürich nennt die UBS «Markt». Wieder bezahlbare nennt sie «weltweit höchstes Blasenrisiko».",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
+      "text": "Karpfen Oskar, dreissig Jahre im Dorfbrunnen: «Tierquälerei, sofort befreien». Eine Familie, fünf Jahre im Rückkehrzentrum: «bewusst unattraktiv»."
     },
     {
-      "id": "2026-09-22-1918-10",
-      "typ": "persönlich",
-      "stichwort": "Hagel-Totalschaden fährt wie das Bankgeheimnis",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Mein Auto ist seit dem Hagel ein Totalschaden und fährt tadellos. Wie das Bankgeheimnis.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-1918-12",
-      "typ": "persönlich",
-      "stichwort": "Frauen-Basketball-WM im Stream, Schwingfest in jeder Beiz",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seh ich das richtig: Für die Frauen-Basketball-WM brauchte ich drei Tabs und einen dubiosen Stream (echtes Detail einsetzen), fürs Schwingfest reicht es, an einer Beiz vorbeizulaufen?",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-1918-18",
-      "typ": "persönlich",
-      "stichwort": "Anti-KI-Posts von der KI als Slides",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 5,
-      "text": "Ich lasse meine Anti-KI-Posts von einer KI zu Instagram-Slides machen. Klassenkampf im Abo.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-22-1918-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizer Pass im Europa-Vergleich hinten, Rosinenpicken",
+      "id": "2026-09-22-2116-09",
+      "typ": "remix",
+      "stichwort": "Trump droht Iran, Schweiz als Schutzmacht richtet aus",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Schweizer Pass im Europa-Vergleich abgehängt. Kommt man mit Rosinenpicken etwa nicht überall rein?",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-09-22-1918-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Augenhöhe mit Trump, Macron läuft zu Fuss zum Tower",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, Europa muss Trump endlich auf Augenhöhe begegnen. Macron ist gestern schon mal zu Fuss durch Manhattan zum Trump Tower gelaufen.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
+      "text": "Trump droht dem Iran vor der Uno mit Vernichtung. Schweiz so: gern, richten wir in Teheran aus, mit freundlichen Grüssen, Ihre Schutzmacht."
     }
   ]
 }
