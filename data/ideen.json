@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Buffett hört mit 96 auf, alle so: was für ein Lebenswerk. Der Gerüstbauer mit 63 so: ich auch, alle so: faul."
+    },
+    {
+      "id": "2026-09-22-1351-16",
+      "typ": "schnittmenge",
+      "stichwort": "Kanton wechseln wie ein Mietauto",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so unkompliziert den Kanton wechseln dürfen wie ein Mietauto mit Appenzeller Nummer."
+    },
+    {
+      "id": "2026-09-22-1351-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Thurgau: alles eigen, nur kein Frauenhaus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 15,
+      "text": "Der Thurgau leistet sich eine eigene Polizei, eine eigene Steuerverwaltung und eigene Autonummern. Für ein Frauenhaus ist St. Gallen zuständig. Eine Kantonsgrenze weiter. Nachts."
+    },
+    {
+      "id": "2026-09-22-1351-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Umwelt und Verkehr im selben Departement",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Umwelt und Verkehr liegen in diesem Land im selben Departement. Streiten die beiden, gewinnt zuverlässig der mit den sechs Spuren. Jedes Mal."
     },
     {
       "id": "2026-09-22-1351-23",
@@ -72,16 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Die Steuererklärung kommt. Angestellte so: ausfüllen, abschicken, hoffen. Reiche Zuzüger so: Grüezi, machen wir wieder pauschal?"
-    },
-    {
-      "id": "2026-09-22-1351-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wegzugsdrohung, die nie eintritt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wie oft darf man eigentlich mit Wegzug drohen, bevor man einfach geht? Frage an alle, die seit den Neunzigern drohen und immer noch am Zürichsee wohnen."
     }
   ]
 }
