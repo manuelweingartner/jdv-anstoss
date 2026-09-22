@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-22-0632-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kein Futter auf den Feldern, Rekord in den SAC-Hütten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Die Bauern finden kein Futter für ihre Tiere, die SAC-Hütten melden im selben Sommer einen Rekord. Wer oben sitzt, hat einfach das bessere Wetter."
-    },
-    {
       "id": "2026-09-22-0632-02",
       "typ": "politisch-aktuell",
       "stichwort": "High Meat gegen Hafermilch-Ideologie",
@@ -21,7 +11,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Männer essen neuerdings verwesendes Fleisch für Testosteron. Frage für alle, die Hafermilch ideologisch finden."
+      "text": "Männer essen neuerdings verwesendes Fleisch für Testosteron. Frage für alle, die Hafermilch ideologisch finden.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-22-0632-03",
@@ -31,7 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor Russlands Super-App Max, die jede Nachricht mitliest. Bei uns macht das kein Staat, sondern Meta, und ich habe zugestimmt."
+      "text": "Habe Angst vor Russlands Super-App Max, die jede Nachricht mitliest. Bei uns macht das kein Staat, sondern Meta, und ich habe zugestimmt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-22-0632-04",
@@ -41,27 +41,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, der Hitzesommer war top für die Berghütten. Weniger Wasser, weniger Probleme, weniger Berg."
-    },
-    {
-      "id": "2026-09-22-0632-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zähne gehören nicht zum Körper",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Zähne sind das einzige Organ, das in diesem Land offiziell nicht zum Körper gehört."
-    },
-    {
-      "id": "2026-09-22-0632-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste unbezahlte Praktika",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle, die ein unbezahltes Praktikum gemacht haben, ohne dass zuhause jemand die Rechnungen zahlte:\n-\n-\nThat's it."
+      "text": "Stimmt, der Hitzesommer war top für die Berghütten. Weniger Wasser, weniger Probleme, weniger Berg.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-22-0632-07",
@@ -71,7 +56,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Schwarzarbeit ist in diesem Land ein Delikt. Ausser sie putzt mittwochs die Küche von Leuten, die das Delikt beschlossen haben."
+      "text": "Schwarzarbeit ist in diesem Land ein Delikt. Ausser sie putzt mittwochs die Küche von Leuten, die das Delikt beschlossen haben.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-22-0632-08",
@@ -81,7 +71,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Bei einer Krankheit ohne Befund heisst es psychosomatisch. Bei einem Auto ohne Befund heisst es Garantiefall."
+      "text": "Bei einer Krankheit ohne Befund heisst es psychosomatisch. Bei einem Auto ohne Befund heisst es Garantiefall.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-22-0632-09",
@@ -91,17 +86,72 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Einmal so ernst genommen werden wie ein Rappen Aufschlag beim Diesel."
+      "text": "Einmal so ernst genommen werden wie ein Rappen Aufschlag beim Diesel.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-22-0632-30",
+      "id": "2026-09-22-0632-10",
       "typ": "persönlich",
-      "stichwort": "Supercard fragt, Krankenkasse nie",
+      "stichwort": "Totalschaden am Auto, Wirtschaftlichkeitsprüfung bei Menschen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Die Supercard will jede Woche wissen, wie zufrieden ich mit meinem Einkauf war. Meine Krankenkasse hat noch nie gefragt. Nicht einmal nach der Prämienrunde."
+      "text": "Seit dem Hagel gilt mein Auto als wirtschaftlicher Totalschaden, die Reparatur kostet mehr als der Wagen. Bei Menschen heisst dieselbe Rechnung Wirtschaftlichkeitsprüfung.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-22-0632-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "High Meat gegen Impfangst",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Männer essen monatealtes rohes Fleisch für mehr Testosteron. Gefährlich ist aber die Impfung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-0632-23",
+      "typ": "schnittmenge",
+      "stichwort": "Russlands Super-App Max, aber meine Firma habe ich selbst gewaehlt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor Russlands Super-App Max, die jede Nachricht ihrer Nutzer mitliest. Bei uns macht das zum Glück eine Firma, die ich selbst ausgewählt habe.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-22-0632-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Buffett hoert mit 96 auf, im Sitzen",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, alle sollen länger arbeiten. Warren Buffett hört mit 96 auf, im Sitzen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
