@@ -1,142 +1,17 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "hinweis": "1 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-22-2116-01",
+      "id": "2026-09-22-2134-21",
       "typ": "politisch-aktuell",
-      "stichwort": "Diesel auf Rekord, EU streicht zwei Oligarchen, Entlastung im Hafen von Monaco",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Diesel so teuer wie nie, am selben Tag streicht die EU zwei Oligarchen von der Sanktionsliste. Die Entlastung kommt also doch: im Hafen von Monaco.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-22-2116-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Russ*innen im Ausland wählen gegen Putin, Propaganda oder Fensterhöhe",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Russ*innen im Ausland wählen achtmal eher gegen Putins Partei. Weiss auch nicht, ob das an der westlichen Propaganda liegt oder am Abstand zum nächsten Fenster.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-2116-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Moskau saniert Luftschutzräume, Oligarchengeld längst in Zürich",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Moskau saniert still seine Luftschutzräume. Wozu, das Oligarchengeld liegt doch längst sicher in Zürich.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-2116-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Briefkasten bekommt Steuerrabatt, Putzfrau keinen Pass",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wie lange muss ein Briefkasten in der Schweiz wohnen, bis er Steuerrabatt bekommt? Frage für die Putzfrau ohne Pass, die ihn abstaubt.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-22-2116-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leistung muss sich lohnen, gesagt zum Servicepersonal",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "«Leistung muss sich wieder lohnen», sagt der Verwaltungsrat am Apéro. Zum Servicepersonal.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-22-2116-09",
-      "typ": "remix",
-      "stichwort": "Trump droht Iran, Schweiz als Schutzmacht richtet aus",
+      "stichwort": "Referenzzins bleibt, leere Liste der freiwilligen Vermieter*innen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Trump droht dem Iran vor der Uno mit Vernichtung. Schweiz so: gern, richten wir in Teheran aus, mit freundlichen Grüssen, Ihre Schutzmacht.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-09-22-2116-18",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rösti im Feuer, Laufzeitverlängerung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Albert Rösti steht im Feuer. Als Energieminister prüft er zuerst die Laufzeitverlängerung.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-2116-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "UNO ohne Preis für Frieden, Tankstelle mit Preis für Krieg",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Seh ich das richtig, an der UNO hat diese Woche niemand einen Preis für Frieden, aber jede Tankstelle einen für Krieg? Beim Diesel sogar Rekord.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-09-22-2116-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rüstungsaktien im Nachhaltigkeitsfonds",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Meine Bank führt Rüstungsaktien jetzt im Nachhaltigkeitsfonds. Stimmt sogar, kaum ein Produkt sorgt so zuverlässig für seine eigene Nachfrage.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Referenzzins unverändert, Mietsenkung möglich. Hier alle Vermieter*innen, die sie von sich aus anbieten:\n-\n-"
     }
   ]
 }
