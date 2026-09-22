@@ -1,23 +1,8 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
-    {
-      "id": "2026-09-22-1351-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste: Vermieter senken freiwillig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Der Referenzzins bleibt unverändert. Hier alle Vermieter, die trotzdem von sich aus die Miete senken:\n-\n-\nThat's it.",
-      "format": "frei",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
     {
       "id": "2026-09-22-1351-03",
       "typ": "politisch-aktuell",
@@ -34,18 +19,18 @@
       }
     },
     {
-      "id": "2026-09-22-1351-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mittagspause auf die Minute, Bonus in Bandbreiten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Wir müssen die Mittagspause auf die Minute erfassen, sonst schreibt die Personalabteilung. Der Bonus der Geschäftsleitung wird in Bandbreiten beschlossen. Ungefähr. Nach oben.",
+      "id": "2026-09-22-1351-08",
+      "typ": "schnittmenge",
+      "stichwort": "Meloni Schleierverbot vs. verschleiertes Vermögen",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Meloni verbietet Schülerinnen den Gesichtsschleier. Wer ein Vermögen verschleiert, sitzt bei ihr am Tisch.",
       "jury": {
+        "witz": false,
         "anker": true,
-        "neu": true,
-        "witz": true
+        "neu": true
       }
     },
     {
@@ -64,33 +49,33 @@
       }
     },
     {
-      "id": "2026-09-22-1351-11",
+      "id": "2026-09-22-1351-10",
       "typ": "persönlich",
-      "stichwort": "ECO-Programm gegen den trockensten Sommer seit 1864",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Seit sieben Jahren wasche ich im ECO-Programm ab, aus Prinzip. Der trockenste Sommer seit 1864 hat es nicht bemerkt.",
+      "stichwort": "Leere Liste: Sender fürs Frauen-Basketball-Finale",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Sender, auf denen ich das Basketball-WM-Finale der Frauen gefunden habe:\n-\n-\nThat's it.",
       "jury": {
         "anker": true,
-        "witz": true,
-        "neu": false
+        "witz": false,
+        "neu": true
       }
     },
     {
-      "id": "2026-09-22-1351-17",
+      "id": "2026-09-22-1351-18",
       "typ": "politisch-aktuell",
-      "stichwort": "Thurgau: alles eigen, nur kein Frauenhaus",
+      "stichwort": "Umwelt und Verkehr im selben Departement",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 15,
-      "text": "Der Thurgau leistet sich eine eigene Polizei, eine eigene Steuerverwaltung und eigene Autonummern. Für ein Frauenhaus ist St. Gallen zuständig. Eine Kantonsgrenze weiter. Nachts.",
+      "format": "frei",
+      "text": "Umwelt und Verkehr liegen in diesem Land im selben Departement. Streiten die beiden, gewinnt zuverlässig der mit den sechs Spuren. Jedes Mal.",
       "jury": {
         "anker": true,
         "neu": true,
-        "witz": true
+        "witz": false
       }
     },
     {
@@ -109,21 +94,6 @@
       }
     },
     {
-      "id": "2026-09-22-1351-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Abgeschrieben wie ein Geschäftsauto",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so grosszügig abgeschrieben werden wie ein Geschäftsauto. Jedes Jahr ein bisschen.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
       "id": "2026-09-22-1351-28",
       "typ": "schnittmenge",
       "stichwort": "UBS verlangt Eigenkapital, nur nicht von sich",
@@ -139,18 +109,18 @@
       }
     },
     {
-      "id": "2026-09-22-1351-30",
+      "id": "2026-09-22-1351-38",
       "typ": "persönlich",
-      "stichwort": "ECO-Programm gegen Aletschgletscher",
+      "stichwort": "Sätze werden Bilder, Sudan hat keine",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ich fahre die Abwaschmaschine seit sieben Jahren im ECO-Programm. Der Aletschgletscher hat in derselben Zeit 350 Meter verloren. Unentschieden.",
+      "format": "frei",
+      "text": "Meine eigenen Sätze mache ich zu Bildern, weil Text allein niemand mehr anschaut. Aus dem Sudan habe ich seit Monaten keins gesehen.",
       "jury": {
         "anker": true,
-        "neu": false,
-        "witz": true
+        "witz": true,
+        "neu": false
       }
     }
   ]
