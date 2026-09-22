@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "4 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Wieso wird nur bei Steuerflüchtlingen die Integration gefördert? Frage für den Kanton Zug."
+    },
+    {
+      "id": "2026-09-22-1918-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ständerat will zurückhaltende Massnahmen, Hitze hat es schon getestet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Lehre aus Corona: Der Ständerat will künftig möglichst zurückhaltende staatliche Massnahmen. Getestet wurde das diesen Sommer schon, an der Hitze, mit 600 Toten."
+    },
+    {
+      "id": "2026-09-22-1918-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizer Pass im Europa-Vergleich hinten, Rosinenpicken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Schweizer Pass im Europa-Vergleich abgehängt. Kommt man mit Rosinenpicken etwa nicht überall rein?"
     },
     {
       "id": "2026-09-22-1918-23",
