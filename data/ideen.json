@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Vielleicht sollten wir die Zuwanderung doch begrenzen, angefangen bei den Pauschalbesteuerten am Genfersee. Kein Wort Französisch, keinen Kontakt zur Bevölkerung, zahlen nicht mal richtig Steuern."
+    },
+    {
+      "id": "2026-09-22-2134-08",
+      "typ": "schnittmenge",
+      "stichwort": "Karpfen Oskar raus wegen Haltung, Beschwerden bei Asylunterkünften über die Bewohner*innen",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Dorfkarpfen Oskar muss nach 30 Jahren aus dem Brunnen, weil man sich über seine Haltung beschwert hat. Bei Asylunterkünften beschwert man sich auch: über die Bewohner*innen."
+    },
+    {
+      "id": "2026-09-22-2134-09",
+      "typ": "remix",
+      "stichwort": "Teams-Meeting verlassen wie die iranische Delegation Trumps Uno-Rede",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Einmal ein Teams-Meeting so verlassen dürfen wie die iranische Delegation Trumps Uno-Rede."
     },
     {
       "id": "2026-09-22-2134-21",
