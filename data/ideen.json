@@ -1,8 +1,18 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "3 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-22-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste: Erben, die vom Erben abgeraten haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Millionenerben, die öffentlich gesagt haben, sie hätten das Geld nicht verdient:\n-\n-\nThat's it."
+    },
     {
       "id": "2026-09-22-0757-23",
       "typ": "politisch-aktuell",
