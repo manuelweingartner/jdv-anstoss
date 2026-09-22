@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -49,18 +49,18 @@
       }
     },
     {
-      "id": "2026-09-22-1918-06",
+      "id": "2026-09-22-1918-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Angst vor Teilzeit-Mentalität, arbeiten wie der Vermieter",
+      "stichwort": "Integration nur für Steuerflüchtlinge, Frage an Zug",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Habe Angst vor der Teilzeit-Mentalität. Am Ende arbeiten alle nur noch so wenig wie ihr Vermieter.",
+      "text": "Wieso wird nur bei Steuerflüchtlingen die Integration gefördert? Frage für den Kanton Zug.",
       "jury": {
-        "anker": false,
+        "anker": true,
         "neu": true,
-        "witz": true
+        "witz": false
       }
     },
     {
@@ -94,18 +94,18 @@
       }
     },
     {
-      "id": "2026-09-22-1918-17",
+      "id": "2026-09-22-1918-12",
       "typ": "persönlich",
-      "stichwort": "Thurgau: Äpfel im Kühllager, Frauen nach St. Gallen",
+      "stichwort": "Frauen-Basketball-WM im Stream, Schwingfest in jeder Beiz",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Thurgau hat kein eigenes Frauenhaus. Einmal so sicher untergebracht sein wie ein Thurgauer Apfel im Kühllager.",
+      "text": "Seh ich das richtig: Für die Frauen-Basketball-WM brauchte ich drei Tabs und einen dubiosen Stream (echtes Detail einsetzen), fürs Schwingfest reicht es, an einer Beiz vorbeizulaufen?",
       "jury": {
+        "witz": false,
         "anker": true,
-        "neu": false,
-        "witz": true
+        "neu": true
       }
     },
     {
@@ -124,33 +124,33 @@
       }
     },
     {
-      "id": "2026-09-22-1918-27",
+      "id": "2026-09-22-1918-22",
       "typ": "politisch-aktuell",
-      "stichwort": "Pauschalbesteuerung und Arbeitsverbot: dieselbe Regel",
+      "stichwort": "Schweizer Pass im Europa-Vergleich hinten, Rosinenpicken",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Reiche Ausländer*innen kriegen in der Schweiz den Steuerrabatt nur, solange sie nicht arbeiten. Asylsuchende halten sich an dieselbe Regel und gelten dafür als faul.",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Schweizer Pass im Europa-Vergleich abgehängt. Kommt man mit Rosinenpicken etwa nicht überall rein?",
       "jury": {
         "anker": true,
-        "neu": false,
-        "witz": true
+        "neu": true,
+        "witz": false
       }
     },
     {
-      "id": "2026-09-22-1918-37",
-      "typ": "persönlich",
-      "stichwort": "Leere Liste: Frauenhäuser im Thurgau, Auskunft erteilt St. Gallen",
+      "id": "2026-09-22-1918-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Augenhöhe mit Trump, Macron läuft zu Fuss zum Tower",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Alle Frauenhäuser im Kanton Thurgau, alphabetisch nach Gemeinde:\n-\n-\nWeitere Auskünfte erteilt St. Gallen.",
+      "text": "Stimmt, Europa muss Trump endlich auf Augenhöhe begegnen. Macron ist gestern schon mal zu Fuss durch Manhattan zum Trump Tower gelaufen.",
       "jury": {
         "anker": true,
-        "neu": false,
-        "witz": true
+        "neu": true,
+        "witz": false
       }
     }
   ]
