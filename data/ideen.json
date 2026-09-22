@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -12,6 +12,26 @@
       "haltbarkeit": "tagesgebunden",
       "text": "Der Referenzzins bleibt unverändert. Hier alle Vermieter, die trotzdem von sich aus die Miete senken:\n-\n-\nThat's it.",
       "format": "frei"
+    },
+    {
+      "id": "2026-09-22-1351-08",
+      "typ": "schnittmenge",
+      "stichwort": "Meloni Schleierverbot vs. verschleiertes Vermögen",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Meloni verbietet Schülerinnen den Gesichtsschleier. Wer ein Vermögen verschleiert, sitzt bei ihr am Tisch."
+    },
+    {
+      "id": "2026-09-22-1351-09",
+      "typ": "remix",
+      "stichwort": "Buffett hört mit 96 auf, Gerüstbauer mit 63",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Buffett hört mit 96 auf, alle so: was für ein Lebenswerk. Der Gerüstbauer mit 63 so: ich auch, alle so: faul."
     },
     {
       "id": "2026-09-22-1351-23",
