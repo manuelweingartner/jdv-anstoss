@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Gleiche Woche: SRF testet im Quiz das Wissen über «fremde Fötzel», und Schwyz bildet Scouts aus, die Invasive aufspüren und melden. Bei Hornissen ist das neu."
+    },
+    {
+      "id": "2026-09-22-2232-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rund um die Uhr betreut wie ein Depot am Paradeplatz",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so rund um die Uhr betreut werden wie ein Depot am Paradeplatz."
+    },
+    {
+      "id": "2026-09-22-2232-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ab welchem Vermögen Nichtstun Privatier heisst, Frage für die FDP",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ab welchem Vermögen heisst Nichtstun eigentlich nicht mehr Faulheit, sondern Privatier? Frage für die FDP. Mit Seesicht."
+    },
+    {
+      "id": "2026-09-22-2232-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Erst an Bomben, dann am Wiederaufbau: Kreislaufwirtschaft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Erst verdienen Konzerne an den Bomben, dann am Wiederaufbau: Kreislaufwirtschaft. Mit Nachhaltigkeitsbericht. Und Dividende."
     },
     {
       "id": "2026-09-22-2232-08",
@@ -72,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Trumps Posts bewegen den Schweizer Strompreis. Meine schaffen es knapp auf eine Slide. Mit Emoji."
-    },
-    {
-      "id": "2026-09-22-2232-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Prämien steigen wegen Bobo-Arztbesuchen, lieber warten bis es sich lohnt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Stimmt, die Prämien steigen, weil alle wegen jedem Bobo zum Arzt rennen. Vernünftig wäre, zu warten, bis es sich lohnt: Notfall, Intensivstation, Rega."
-    },
-    {
-      "id": "2026-09-22-2232-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor der Woke-Diktatur, Leute beim richtigen Namen nennen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Gefährlich, diese Woke-Diktatur. Am Ende muss man Leute so nennen, wie sie heissen."
     }
   ]
 }
