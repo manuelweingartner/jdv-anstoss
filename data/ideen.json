@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -16,6 +16,21 @@
         "witz": false,
         "neu": true,
         "anker": true
+      }
+    },
+    {
+      "id": "2026-09-22-1853-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Benko sitzt, Milliarden offen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Benko sitzt jetzt. Zweieinhalb Jahre für 360'000 Euro, die Milliarden findet später vielleicht noch jemand.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
       }
     },
     {
@@ -63,78 +78,63 @@
       }
     },
     {
-      "id": "2026-09-22-1853-12",
+      "id": "2026-09-22-1853-11",
       "typ": "persönlich",
-      "stichwort": "Abgeklärt werden wie ein Hagelschaden",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so gründlich abgeklärt werden wie ein Hagelschaden am Auto. Innert Tagen, mit Fachperson.",
-      "jury": {
-        "witz": true,
-        "neu": false,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-22-1853-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Benko: zweieinhalb Jahre für 360'000 Euro",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, der Rechtsstaat funktioniert: René Benko bekommt zweieinhalb Jahre Haft, weil er Gläubiger um 360'000 Euro geprellt hat. Die Milliarden davor waren offenbar korrekt verbucht.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-22-1853-24",
-      "typ": "schnittmenge",
-      "stichwort": "Tigermücken-Plage, Angst vor dem Falschen",
+      "stichwort": "Pollensaison seit Februar, Frage an den Bundesrat",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Habe Angst vor der Tigermücke. Vor der Hitze, die sie herbringt, hat niemand Angst.",
+      "text": "Wie lange darf eine Pollensaison eigentlich dauern, bis sie als Klimafolge zählt? Frage für den Bundesrat, meine läuft seit Februar.",
       "jury": {
-        "witz": true,
+        "witz": false,
         "neu": true,
         "anker": true
       }
     },
     {
-      "id": "2026-09-22-1853-26",
+      "id": "2026-09-22-1853-25",
       "typ": "politisch-aktuell",
-      "stichwort": "abgeschrieben wie ein Geschäftsauto",
+      "stichwort": "Zahnrechnung, Einkommen am Lächeln",
       "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so grosszügig abgeschrieben werden wie ein Geschäftsauto.",
+      "format": 16,
+      "text": "Die Zahnrechnung zahlt man selbst, die Hüftoperation nicht. Darum erkennt man in diesem Land das Einkommen am Lächeln. Kein Röntgen nötig.",
       "jury": {
         "anker": true,
-        "witz": true,
+        "witz": false,
         "neu": true
       }
     },
     {
-      "id": "2026-09-22-1853-30",
+      "id": "2026-09-22-1853-31",
       "typ": "persönlich",
-      "stichwort": "Hagelauto begutachtet",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
+      "stichwort": "Allergieliste beim Arzt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so schnell und gründlich begutachtet werden wie mein Auto nach dem Hagel.",
+      "format": 16,
+      "text": "Beim Arzt musste ich ankreuzen, worauf ich allergisch bin: Gräser, Hausstaub, Katzen. Die SVP stand nicht zur Auswahl. Ganzjährig.",
       "jury": {
         "anker": true,
-        "neu": false,
-        "witz": true
+        "neu": true,
+        "witz": false
+      }
+    },
+    {
+      "id": "2026-09-22-1853-32",
+      "typ": "persönlich",
+      "stichwort": "Fragebogen duschen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Chronisch Kranke kreuzen auf einem Formular an, wie oft sie noch selber duschen können. Beurteilt wird das von jemandem, der sie nie gesehen hat.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
       }
     },
     {
