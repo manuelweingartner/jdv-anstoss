@@ -1,8 +1,28 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "4 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-22-1918-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor Teilzeit-Mentalität, arbeiten wie der Vermieter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe Angst vor der Teilzeit-Mentalität. Am Ende arbeiten alle nur noch so wenig wie ihr Vermieter."
+    },
+    {
+      "id": "2026-09-22-1918-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Integration nur für Steuerflüchtlinge, Frage an Zug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wieso wird nur bei Steuerflüchtlingen die Integration gefördert? Frage für den Kanton Zug."
+    },
     {
       "id": "2026-09-22-1918-23",
       "typ": "politisch-aktuell",
