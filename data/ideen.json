@@ -74,34 +74,34 @@
       "text": "Einmal so schnell einen Arzttermin kriegen wie Hacker die Kontodaten bei Revolut."
     },
     {
-      "id": "2026-09-22-2232-16",
+      "id": "2026-09-22-2232-10",
       "typ": "persönlich",
-      "stichwort": "Innerrhoden löst jedes Mietauto ein, Frauenstimmrecht erst per Bundesgericht",
+      "stichwort": "Totalschaden fährt, Swiss Life streicht trotz Gewinn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Offiziell ist mein Auto seit dem Hagel ein Totalschaden und fährt jeden Tag, Swiss Life macht mehr Gewinn und streicht fast jeden zwanzigsten Job. Irgendwer hat die Gutachten vertauscht."
+    },
+    {
+      "id": "2026-09-22-2232-11",
+      "typ": "persönlich",
+      "stichwort": "ECO-Programm gegen Privatjet nach Davos",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie viele Jahre ECO-Programm gleichen eigentlich einen Privatjet nach Davos aus? Fragt meine Abwaschmaschine."
+    },
+    {
+      "id": "2026-09-22-2232-12",
+      "typ": "persönlich",
+      "stichwort": "Rösti schiesst Wölfe, Herdenschutzhund findet es übertrieben",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wie kann ein Kanton, der anstandslos jedes Mietauto der Schweiz einlöst, für das Frauenstimmrecht bis 1990 und ein Bundesgericht gebraucht haben? Frage für Appenzell Innerrhoden."
-    },
-    {
-      "id": "2026-09-22-2232-17",
-      "typ": "persönlich",
-      "stichwort": "Thurgau ohne Frauenhaus: wer flieht, muss auch noch den Kanton verlassen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Frauen im Thurgau, die vor ihrem Mann fliehen, müssen auch noch den Kanton verlassen. Ein eigenes Frauenhaus hat der Thurgau nicht."
-    },
-    {
-      "id": "2026-09-22-2232-18",
-      "typ": "persönlich",
-      "stichwort": "Trumps Posts bewegen den Strompreis, meine schaffen es auf eine Slide",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Trumps Posts bewegen den Schweizer Strompreis. Meine schaffen es knapp auf eine Slide. Mit Emoji."
+      "text": "Albert Rösti lässt Wölfe präventiv abschiessen. Unser Herdenschutzhund, gezüchtet für genau diesen Job, findet das übertrieben."
     }
   ]
 }
