@@ -1,127 +1,27 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-22-2134-01",
+      "id": "2026-09-22-2232-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Referenzzins unverändert, leere Liste der Vermieter*innen",
+      "stichwort": "Coop-Kasse so optimistisch wie das VBS bei der F-35-Rechnung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Referenzzins unverändert, viele Mieten dürften eigentlich sinken. Hier alle Vermieter*innen, die sich deswegen von selbst gemeldet haben:\n-\n-",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
+      "text": "Einmal so optimistisch an die Coop-Kasse gehen wie das VBS an die F-35-Rechnung."
     },
     {
-      "id": "2026-09-22-2134-02",
+      "id": "2026-09-22-2232-02",
       "typ": "politisch-aktuell",
-      "stichwort": "USA melden sich an der UNO als Weltpolizei ab, Ölfelder informiert",
+      "stichwort": "SRF-Quiz fremde Fötzel und Schwyzer Hornissen-Scouts, bei Hornissen neu",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "An der UNO melden sich die USA als Weltpolizei ab. Die Ölfelder wurden persönlich informiert.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-22-2134-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zuwanderung begrenzen, bei den Pauschalbesteuerten anfangen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Vielleicht sollten wir die Zuwanderung doch begrenzen, angefangen bei den Pauschalbesteuerten am Genfersee. Kein Wort Französisch, keinen Kontakt zur Bevölkerung, zahlen nicht mal richtig Steuern.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-22-2134-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Teilzeit gefährdet den Wohlstand, beschlossen von Verwaltungsräten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Teilzeit gefährdet den Wohlstand, warnt der Arbeitgeberverband. Beschlossen von Verwaltungsräten mit sieben Mandaten, an einer Sitzung von zwei Stunden, mit Apéro.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-22-2134-08",
-      "typ": "schnittmenge",
-      "stichwort": "Karpfen Oskar raus wegen Haltung, Beschwerden bei Asylunterkünften über die Bewohner*innen",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Dorfkarpfen Oskar muss nach 30 Jahren aus dem Brunnen, weil man sich über seine Haltung beschwert hat. Bei Asylunterkünften beschwert man sich auch: über die Bewohner*innen.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-2134-12",
-      "typ": "persönlich",
-      "stichwort": "Familie eine Woche ohne Bildschirm, Bundesrat keinen Tag ohne Washington",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Unsere Familie hielt eine Woche ohne Bildschirm durch. Der Bundesrat keinen Tag ohne Washington.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-22-2134-23",
-      "typ": "schnittmenge",
-      "stichwort": "Nagellack ist Ideologie, Sturmgewehr im Schrank macht Männer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seh ich das richtig: Nagellack macht Buben zu Opfern einer Ideologie, das Sturmgewehr im Kleiderschrank macht sie zu Männern? Weiss auch nicht, was gefährlicher ist.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-09-22-2134-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Grönland braucht Schutz, man weiss ja, wer es will",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, Grönland braucht ein Sicherheitsabkommen mit den USA. Weiss ja jeder, wer es will.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "format": 18,
+      "text": "Gleiche Woche: SRF testet im Quiz das Wissen über «fremde Fötzel», und Schwyz bildet Scouts aus, die Invasive aufspüren und melden. Bei Hornissen ist das neu."
     }
   ]
 }
