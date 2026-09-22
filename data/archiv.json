@@ -13955,6 +13955,134 @@
         "neu": true
       },
       "datum": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-2158-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reichstes Prozent als Unterschicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Das reichste Prozent zahlt am wenigsten Steuern. Gut, dann ist das ja die Unterschicht.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      },
+      "datum": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-2158-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Parkbusse wird ab Vermoegen zum Abo",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Habe 40 Franken Parkbusse bezahlt. Ab welchem Vermögen hört das eigentlich auf, eine Strafe zu sein, und wird ein Abo?",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      },
+      "datum": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-2158-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste: verarmte Kantone nach Vermoegenssteuer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier die vollständige Liste der Kantone, die nach einer höheren Vermögenssteuer verarmt sind:\n-\n-\nThat's it.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-2158-09",
+      "typ": "remix",
+      "stichwort": "Shein an der Börse, Lieferung schneller als erwartet",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 17,
+      "text": "Shein startet an der Börse und rutscht sofort ins Minus. Lieferung schneller als erwartet.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-2158-10",
+      "typ": "persönlich",
+      "stichwort": "Elternabend, fast nur Mütter",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Am Elternabend waren fast nur Mütter. Über Vereinbarkeit referiert hat dann ein Mann.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-2158-11",
+      "typ": "persönlich",
+      "stichwort": "Absage schneller als jede Reparatur",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Ich habe eine Mietsenkung verlangt und die Absage war schneller im Briefkasten als jede Reparatur. Frankiert. Mit Kundennummer.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      },
+      "datum": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-2158-18",
+      "typ": "persönlich",
+      "stichwort": "Zürichsee tiefster Stand, Rösti so",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Zürichsee sinkt auf den tiefsten Stand seit siebzig Jahren, Kursschiffe fallen aus. Rösti so: endlich Platz für eine Strasse. Vier Spuren. Naturnah.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      },
+      "datum": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-2158-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Putin wählt online, Windows nicht aktiviert",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Putin wählt online, sein Windows ist nicht aktiviert. Wahlfälschung jetzt auch unlizenziert?",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      },
+      "datum": "2026-09-21"
     }
   ]
 }
