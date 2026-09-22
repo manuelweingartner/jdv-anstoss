@@ -44,6 +44,36 @@
       "text": "Wie tief können die Steuern eigentlich noch sinken, bis der letzte Bus aus meinem Dorf verschwindet? Frage aus der Zentralschweiz, an alle, die genau deswegen hergezogen sind."
     },
     {
+      "id": "2026-09-22-0757-16",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohnsitz für Leasingwagen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Halb Appenzell Innerrhoden besteht aus Mietautos, die nie dort waren. Warum darf ein Leasingwagen den billigsten Kanton als Wohnsitz wählen und eine Familie nicht? Frage an die Motorfahrzeugkontrolle."
+    },
+    {
+      "id": "2026-09-22-0757-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hauptort heisst Frauenfeld",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Der Kanton Thurgau hat bis heute kein eigenes Frauenhaus. Sein Hauptort heisst Frauenfeld."
+    },
+    {
+      "id": "2026-09-22-0757-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste Klimamassnahmen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Massnahmen, mit denen Umweltminister Albert Rösti diesen Sommer das Klima geschützt hat:\n-\n-\nThat's it. Wird geprüft."
+    },
+    {
       "id": "2026-09-22-0757-21",
       "typ": "politisch-aktuell",
       "stichwort": "Trockenster Sommer seit 1864, Armeemilliarden in derselben Woche",
@@ -72,36 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "text": "Stimmt, eine Zuger Klasse fährt 18 Stunden im Car nach Valencia, das ist gefährlich. Fliegen wäre sicherer, bis die Stadt dann unter Wasser steht.",
       "format": "frei"
-    },
-    {
-      "id": "2026-09-22-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fox News klagt gegen Trump",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "text": "Seh ich das richtig, es brauchte Fox News, um zu merken, dass da ein Problem ist?",
-      "format": "frei"
-    },
-    {
-      "id": "2026-09-22-0757-28",
-      "typ": "schnittmenge",
-      "stichwort": "Staats-App Max vs. Anstehen fuers iPhone",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Russlands Staats-App Max liest alles mit, Installation Pflicht. Bei uns stellt man sich fürs neue iPhone sogar an."
-    },
-    {
-      "id": "2026-09-22-0757-29",
-      "typ": "remix",
-      "stichwort": "Messis Abschiedstrikot",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Messi bekommt ein eigenes Abschiedstrikot. Einmal so verabschiedet werden wie ein Stück Stoff."
     }
   ]
 }
