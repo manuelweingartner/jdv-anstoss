@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Einmal so schnell einen Arzttermin kriegen wie Hacker die Kontodaten bei Revolut."
+    },
+    {
+      "id": "2026-09-22-2232-16",
+      "typ": "persönlich",
+      "stichwort": "Innerrhoden löst jedes Mietauto ein, Frauenstimmrecht erst per Bundesgericht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie kann ein Kanton, der anstandslos jedes Mietauto der Schweiz einlöst, für das Frauenstimmrecht bis 1990 und ein Bundesgericht gebraucht haben? Frage für Appenzell Innerrhoden."
+    },
+    {
+      "id": "2026-09-22-2232-17",
+      "typ": "persönlich",
+      "stichwort": "Thurgau ohne Frauenhaus: wer flieht, muss auch noch den Kanton verlassen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Frauen im Thurgau, die vor ihrem Mann fliehen, müssen auch noch den Kanton verlassen. Ein eigenes Frauenhaus hat der Thurgau nicht."
+    },
+    {
+      "id": "2026-09-22-2232-18",
+      "typ": "persönlich",
+      "stichwort": "Trumps Posts bewegen den Strompreis, meine schaffen es auf eine Slide",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trumps Posts bewegen den Schweizer Strompreis. Meine schaffen es knapp auf eine Slide. Mit Emoji."
     },
     {
       "id": "2026-09-22-2232-23",
