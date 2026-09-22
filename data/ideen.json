@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "4 von 10 da, der Rest lädt noch.",
+  "hinweis": "7 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Männer essen neuerdings verwesendes Fleisch für Testosteron. Frage für alle, die Hafermilch ideologisch finden."
+    },
+    {
+      "id": "2026-09-22-0632-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zähne gehören nicht zum Körper",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Zähne sind das einzige Organ, das in diesem Land offiziell nicht zum Körper gehört."
+    },
+    {
+      "id": "2026-09-22-0632-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste unbezahlte Praktika",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle, die ein unbezahltes Praktikum gemacht haben, ohne dass zuhause jemand die Rechnungen zahlte:\n-\n-\nThat's it."
+    },
+    {
+      "id": "2026-09-22-0632-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schwarzarbeit putzt mittwochs",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Schwarzarbeit ist in diesem Land ein Delikt. Ausser sie putzt mittwochs die Küche von Leuten, die das Delikt beschlossen haben."
     },
     {
       "id": "2026-09-22-0632-08",
