@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "4 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Einmal so schnell einen Arzttermin kriegen wie Hacker die Kontodaten bei Revolut."
+    },
+    {
+      "id": "2026-09-22-2232-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Prämien steigen wegen Bobo-Arztbesuchen, lieber warten bis es sich lohnt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, die Prämien steigen, weil alle wegen jedem Bobo zum Arzt rennen. Vernünftig wäre, zu warten, bis es sich lohnt: Notfall, Intensivstation, Rega."
+    },
+    {
+      "id": "2026-09-22-2232-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor der Woke-Diktatur, Leute beim richtigen Namen nennen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Gefährlich, diese Woke-Diktatur. Am Ende muss man Leute so nennen, wie sie heissen."
     }
   ]
 }
