@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -54,6 +54,26 @@
       "text": "Ich wollte meine Posts vom letzten Jahr zu Bildern machen und vorher kurz prüfen, ob noch alles stimmt. Es stimmte alles. Wort für Wort. Leider."
     },
     {
+      "id": "2026-09-22-1853-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "600 Hitzetote, ab wann ein Unglück",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "600 Hitzetote diesen Sommer. Ab wie vielen wird daraus ein Unglück? Frage an Bern."
+    },
+    {
+      "id": "2026-09-22-1853-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Dieselrekord und G7-Sorge um den Welthandel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Der Dieselpreis steht auf Rekord, weil im Jemen Krieg ist. Gleiche Woche fordern die G7 ein Ende der Angriffe, aus Sorge um den Welthandel."
+    },
+    {
       "id": "2026-09-22-1853-25",
       "typ": "politisch-aktuell",
       "stichwort": "Zahnrechnung, Einkommen am Lächeln",
@@ -82,16 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Wie patriotisch kann ein Vermögen eigentlich sein, das bei jeder Steuerdebatte nach Zug zieht? Frage an alle, die Heimatliebe von anderen verlangen. Die Fahne bleibt am Haus."
-    },
-    {
-      "id": "2026-09-22-1853-29",
-      "typ": "remix",
-      "stichwort": "Leere Liste zum tiefen Rheinpegel",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Der Rhein führt so wenig Wasser, dass unsere Einkäufe teurer werden. Hier alle, die deswegen ihre Klimapolitik anpassen:\n-\n-\nThat's it."
     }
   ]
 }
