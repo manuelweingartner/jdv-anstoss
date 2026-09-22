@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "4 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Gleiche Woche: SRF testet im Quiz das Wissen über «fremde Fötzel», und Schwyz bildet Scouts aus, die Invasive aufspüren und melden. Bei Hornissen ist das neu."
+    },
+    {
+      "id": "2026-09-22-2232-08",
+      "typ": "schnittmenge",
+      "stichwort": "Pflegefachfrau kündigt, Novartis schliesst Basel",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Kündigt eine Pflegefachfrau, hat sie «nicht durchgehalten». Schliesst Novartis die letzte Fabrik in Basel, ist es ein «mutiger Schritt»."
+    },
+    {
+      "id": "2026-09-22-2232-09",
+      "typ": "remix",
+      "stichwort": "Arzttermin so schnell wie Revolut-Hacker",
+      "plattform": "Instagram + Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so schnell einen Arzttermin kriegen wie Hacker die Kontodaten bei Revolut."
     }
   ]
 }
