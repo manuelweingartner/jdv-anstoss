@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -54,6 +54,36 @@
       "text": "Referenzzins unverändert, Mietsenkung möglich. Hier alle Vermieter*innen, die sie von sich aus anbieten:\n-\n-"
     },
     {
+      "id": "2026-09-22-2134-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Teilzeit schadet der Wirtschaft, sagt der Verwaltungsrat mit fünf Mandaten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Teilzeit schadet der Wirtschaft, warnt ein Verwaltungsrat mit fünf Mandaten. Alle in Teilzeit, jedes zum vollen Honorar."
+    },
+    {
+      "id": "2026-09-22-2134-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pauschalbesteuerung: zärtlich besteuert wie ein Milliardär in Gstaad",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so verständnisvoll besteuert werden wie ein Milliardär mit Chalet in Gstaad."
+    },
+    {
+      "id": "2026-09-22-2134-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mieteinnahmen heissen Investor, Sozialhilfe heisst Profiteur, Kontoauszüge nur für einen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Warum heisst, wer von Mieteinnahmen lebt, «Investor», und wer von der Sozialhilfe lebt, «Profiteur»? Nur einer muss jeden Monat Kontoauszüge vorlegen."
+    },
+    {
       "id": "2026-09-22-2134-36",
       "typ": "persönlich",
       "stichwort": "Mietautos in Innerrhoden willkommen, Frauenstimmrecht per Bundesgericht",
@@ -72,16 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Im Thurgau hat jede Apfelplantage ein Hagelnetz. Frauen haben eine Nummer in St. Gallen."
-    },
-    {
-      "id": "2026-09-22-2134-38",
-      "typ": "persönlich",
-      "stichwort": "Rösti im Feuer, Herbst ohne Regen, Bundesrat löscht niemand",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Umweltminister Albert Rösti steht im Feuer, und es regnet seit Wochen nicht. Einen Bundesrat löscht in diesem Land eben niemand. Nicht mal das Wetter."
     }
   ]
 }
