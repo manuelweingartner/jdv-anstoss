@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-22",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -31,21 +31,6 @@
         "anker": true,
         "witz": true,
         "neu": false
-      }
-    },
-    {
-      "id": "2026-09-22-2134-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor Tempo 30, Kinder im Quartier",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Habe Angst vor Tempo 30 im Quartier. Nachher spielen da wieder Kinder.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
       }
     },
     {
@@ -94,33 +79,33 @@
       }
     },
     {
-      "id": "2026-09-22-2134-09",
-      "typ": "remix",
-      "stichwort": "Teams-Meeting verlassen wie die iranische Delegation Trumps Uno-Rede",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Einmal ein Teams-Meeting so verlassen dürfen wie die iranische Delegation Trumps Uno-Rede.",
+      "id": "2026-09-22-2134-12",
+      "typ": "persönlich",
+      "stichwort": "Familie eine Woche ohne Bildschirm, Bundesrat keinen Tag ohne Washington",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Unsere Familie hielt eine Woche ohne Bildschirm durch. Der Bundesrat keinen Tag ohne Washington.",
       "jury": {
-        "anker": true,
         "witz": false,
+        "anker": true,
         "neu": true
       }
     },
     {
-      "id": "2026-09-22-2134-16",
+      "id": "2026-09-22-2134-23",
       "typ": "schnittmenge",
-      "stichwort": "Appenzell Innerrhoden lässt Mietautos zu, Frauen erst per Bundesgericht",
+      "stichwort": "Nagellack ist Ideologie, Sturmgewehr im Schrank macht Männer",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Appenzell Innerrhoden lässt jedes Mietauto zu, das Motorfahrzeugsteuer sparen will. Frauen erst, als das Bundesgericht es befohlen hat.",
+      "text": "Seh ich das richtig: Nagellack macht Buben zu Opfern einer Ideologie, das Sturmgewehr im Kleiderschrank macht sie zu Männern? Weiss auch nicht, was gefährlicher ist.",
       "jury": {
         "anker": true,
-        "neu": false,
-        "witz": true
+        "neu": true,
+        "witz": false
       }
     },
     {
@@ -132,21 +117,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Stimmt, Grönland braucht ein Sicherheitsabkommen mit den USA. Weiss ja jeder, wer es will.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-22-2134-29",
-      "typ": "remix",
-      "stichwort": "Dorfkarpfen Oskar ausgesetzt, FDP prüft das für die AHV",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Dreissig Jahre gefüttert, jetzt im Rhein ausgesetzt: Dorfkarpfen Oskar. Die FDP prüft das für die AHV.",
       "jury": {
         "anker": true,
         "neu": true,
