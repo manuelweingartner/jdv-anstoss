@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-23",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -64,14 +64,14 @@
       }
     },
     {
-      "id": "2026-09-23-0757-16",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau ohne Frauenhaus, Apfelbaum unter dem Hagelnetz",
+      "id": "2026-09-23-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Missgunst gegen Erfolgreiche, Swiss Life erntet Arbeitsplätze",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Thurgau, kein eigenes Frauenhaus. Einmal so beschützt werden wie ein Thurgauer Apfelbaum unter dem Hagelnetz.",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gleiche Woche: Ein Firmenchef klagt, wer in der Schweiz Erfolg habe, ernte nur Missgunst. Swiss Life steigert den Gewinn und erntet jeden zwanzigsten Arbeitsplatz.",
       "jury": {
         "anker": true,
         "witz": true,
@@ -102,21 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Stimmt, Herkunft darf keine Rolle spielen. Warren Buffetts Nachfolger heisst Howard Buffett.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-23-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor grünem Waldverbot, Trockenheit bricht die Äste vorher ab",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst, dass die Grünen mir den Waldspaziergang verbieten. Zum Glück brechen wegen der Trockenheit jetzt schon vorher die Äste ab.",
       "jury": {
         "anker": true,
         "witz": true,
