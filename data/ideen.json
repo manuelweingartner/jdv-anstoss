@@ -4,26 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-23-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Weinbranche will Staatshilfe wegen sinkendem Konsum",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so umsorgt werden wie ein Schweizer Wein, den keiner mehr trinken will."
-    },
-    {
-      "id": "2026-09-23-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Swiss Life streicht Stellen trotz Gewinnplus, Switcher-Chef beklagt Missgunst",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Swiss Life streicht trotz Gewinnplus Stellen, am selben Tag beklagt der Switcher-Chef, erfolgreiche Unternehmer ernteten hier nur Missgunst. Die Gekündigten ernten Taggeld, mit Wartefrist."
-    },
-    {
       "id": "2026-09-23-0757-03",
       "typ": "politisch-aktuell",
       "stichwort": "SVP will Geschlechtsänderung im Pass erschweren, Marzili-Eklat",
@@ -31,7 +11,87 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Eine trans Frau badet im Marzili, SVP so: Alarm, Vorstoss, Geschlechtsänderung im Pass erschweren! Bademeister so: welcher Pass, hier zeigt man das Saisonabo."
+      "text": "Eine trans Frau badet im Marzili, SVP so: Alarm, Vorstoss, Geschlechtsänderung im Pass erschweren! Bademeister so: welcher Pass, hier zeigt man das Saisonabo.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-23-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Geld arbeiten lassen, RAV verlangt Arbeitsbemühungen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Warum heisst es «das Geld arbeiten lassen», wenn es noch nie jemand bei der Arbeit gesehen hat? Frage fürs RAV, das sonst von allen Arbeitsbemühungen verlangt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-23-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Waffenstillstand drückt Rüstungsaktien, Pensionskasse seufzt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Jede Meldung über einen Waffenstillstand drückt die Rüstungsaktien, und irgendwo in Zürich seufzt deine Pensionskasse. Leise, diskret, gegen Verwaltungsgebühr.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-23-0757-12",
+      "typ": "remix",
+      "stichwort": "Kerosin wird teurer, Mallorca kostet bald so viel wie Bahnfahren nach Chur",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Kerosin wird teurer. Horror, bald kostet Mallorca so viel wie Bahnfahren nach Chur.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-23-0757-16",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne Frauenhaus, Apfelbaum unter dem Hagelnetz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Thurgau, kein eigenes Frauenhaus. Einmal so beschützt werden wie ein Thurgauer Apfelbaum unter dem Hagelnetz.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-23-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Grönland-Deal als Handtuch auf dem Liegestuhl",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Grönland wird nicht übernommen, die USA kriegen bloss freie Hand. Handtuch auf dem Liegestuhl.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-23-0757-24",
@@ -41,17 +101,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, Herkunft darf keine Rolle spielen. Warren Buffetts Nachfolger heisst Howard Buffett."
-    },
-    {
-      "id": "2026-09-23-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Klimaschutz zu teuer, ausgetrockneter Rhein verteuert den Coop-Einkauf",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Klimaschutz ist zu teuer, sagen die Bürgerlichen, und jetzt verteuert der ausgetrocknete Rhein den Coop-Einkauf. Schwer zu sagen, was billiger gewesen wäre."
+      "text": "Stimmt, Herkunft darf keine Rolle spielen. Warren Buffetts Nachfolger heisst Howard Buffett.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-23-0757-26",
@@ -61,17 +116,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst, dass die Grünen mir den Waldspaziergang verbieten. Zum Glück brechen wegen der Trockenheit jetzt schon vorher die Äste ab."
-    },
-    {
-      "id": "2026-09-23-0757-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neid auf die Miete: steigt ohne Leistung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so zuverlässig steigen wie die Miete. Ohne Leistung, ohne Verhandlung, mit amtlichem Formular."
+      "text": "Habe Angst, dass die Grünen mir den Waldspaziergang verbieten. Zum Glück brechen wegen der Trockenheit jetzt schon vorher die Äste ab.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-23-0757-28",
@@ -81,27 +131,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wer das Bankgeheimnis mit dem Schutz der Privatsphäre begründet, lobt am Fluchtwagen den tiefen Verbrauch."
+      "text": "Wer das Bankgeheimnis mit dem Schutz der Privatsphäre begründet, lobt am Fluchtwagen den tiefen Verbrauch.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-23-0757-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zurück ins Büro wegen Mietvertrag, angekündigt aus Gstaad",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Zurück ins Büro, weil dort die Produktivität steigt oder weil der Mietvertrag noch läuft? Angekündigt hat es die Konzernleitung per Teams, aus Gstaad."
-    },
-    {
-      "id": "2026-09-23-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Friedensgespräche, Rüstungsaktien beten fürs Scheitern",
+      "id": "2026-09-23-0757-37",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne Frauenhaus, Flucht als Pendlerabzug",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Friedensgespräche angekündigt. Rüstungsaktien so: minus zehn Prozent, Krisenstab, alle beten für ein Scheitern in Genf."
+      "text": "Der Thurgau hat kein Frauenhaus, gewaltbetroffene Frauen fliehen in andere Kantone. Ab wie vielen Kilometern gilt das eigentlich als Pendlerabzug, liebe Regierung in Frauenfeld?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
