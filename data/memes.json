@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-22T08:07:18+02:00",
+  "stand": "2026-09-23T08:04:02+02:00",
   "vorschlaege": [
     {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "Gefälschtes Impfzertifikat besorgt",
-        "Zertifikatsbeschaffung ausgelagert"
+        "Die UBS schreibt ihre Regeln selbst"
       ],
-      "warum": "weil Xhakas Geständnis erst in der Sportlersprache wieder respektabel klingt",
+      "warum": "die These stimmt, sobald die Grossbank ihre Eigenkapitalregeln im Ständerat mitverhandelt",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Jeden 20. Job streichen",
-        "Vom Gewinn etwas abgeben",
-        "Swiss Life"
+        "Einfach davon ausgehen",
+        "Den Vertrag lesen",
+        "VBS"
       ],
-      "warum": "weil Stellenabbau trotz Gewinnanstieg genau der Schlenker in letzter Sekunde ist",
+      "warum": "Pfister reisst beim F-35-Preis das Steuer zum Hoffen herum, statt nachzurechnen",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Warren Buffett, 1965",
-        "Kauft eine Textilfabrik aus Trotz",
-        "Howard Buffett, 2026",
-        "Erbt den Stuhl vom Vater"
+        "Value Investing",
+        "Leistung zählt",
+        "Nachfolger Howard",
+        "Weil Sohn"
       ],
-      "warum": "weil die Nachfolgeregelung den Mythos vom Selfmade-Investor direkt kassiert",
+      "warum": "Buffetts Rückzug stellt den Kult um Leistung neben das Erben, das am Ende gewinnt",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Für die Armee findet sich immer ein Fonds"
+        "230 Kündigungen",
+        "Anpassung an den Marktdruck"
       ],
-      "warum": "weil Pfisters plötzliche Mehrheit die These selbst beweist, bevor jemand widersprechen kann",
+      "warum": "DSM-Firmenich packt den Stellenabbau in Konzernsprache, und der Euphemismus liefert die Pointe gleich mit",
       "bild": "vorschlag-4.jpg"
     }
   ]
