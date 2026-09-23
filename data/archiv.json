@@ -15041,6 +15041,150 @@
         "witz": true
       },
       "datum": "2026-09-22"
+    },
+    {
+      "id": "2026-09-22-2232-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Coop-Kasse so optimistisch wie das VBS bei der F-35-Rechnung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so optimistisch an die Coop-Kasse gehen wie das VBS an die F-35-Rechnung.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-09-22"
+    },
+    {
+      "id": "2026-09-22-2232-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "SRF-Quiz fremde Fötzel und Schwyzer Hornissen-Scouts, bei Hornissen neu",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gleiche Woche: SRF testet im Quiz das Wissen über «fremde Fötzel», und Schwyz bildet Scouts aus, die Invasive aufspüren und melden. Bei Hornissen ist das neu.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-22"
+    },
+    {
+      "id": "2026-09-22-2232-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gotthard-Strassentunnel nachts zu, ratlos vor dem Bahntunnel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Gotthard-Strassentunnel 18 Nächte zu, weiss echt nicht, wie man nachts ins Tessin kommen soll. Ausser durch den längsten Bahntunnel der Welt, gleich daneben.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-09-22"
+    },
+    {
+      "id": "2026-09-22-2232-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Man darf nichts mehr sagen, wöchentlich auf der Titelseite",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, man darf nichts mehr sagen. Steht jede Woche auf der Titelseite der Weltwoche.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-09-22"
+    },
+    {
+      "id": "2026-09-22-2232-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rund um die Uhr betreut wie ein Depot am Paradeplatz",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so rund um die Uhr betreut werden wie ein Depot am Paradeplatz.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-09-22"
+    },
+    {
+      "id": "2026-09-22-2232-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Prämien steigen wegen Bobo-Arztbesuchen, lieber warten bis es sich lohnt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, die Prämien steigen, weil alle wegen jedem Bobo zum Arzt rennen. Vernünftig wäre, zu warten, bis es sich lohnt: Notfall, Intensivstation, Rega.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-22"
+    },
+    {
+      "id": "2026-09-22-2232-28",
+      "typ": "schnittmenge",
+      "stichwort": "Revolut-Hack, früher fand man in Schweizer Kontodaten noch Steuerhinterzieher",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Hacker erbeuten bei Revolut die Kontodaten vieler Schweizer Kund*innen. Früher fand man in gestohlenen Schweizer Kontodaten wenigstens noch Steuerhinterzieher.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-22"
+    },
+    {
+      "id": "2026-09-22-2232-31",
+      "typ": "persönlich",
+      "stichwort": "Yu Zidi fast Weltrekord, ich ECO-Programm ohne Rückfall",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die dreizehnjährige Yu Zidi schwimmt an den Asien-Spielen beinahe Weltrekord. Meine grösste Leistung: die Abwaschmaschine seit Jahren nur im ECO-Programm, kein einziger Rückfall.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-22"
+    },
+    {
+      "id": "2026-09-22-2232-36",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautos in Appenzell Innerrhoden sofort willkommen, Frauen erst 1990",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Sixt und Hertz melden ihre Mietautos in Appenzell Innerrhoden an, weil die Steuer dort tief ist. Willkommen waren sie sofort, die Frauen erst 1990 per Bundesgericht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-09-22"
     }
   ]
 }
