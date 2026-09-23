@@ -1,57 +1,60 @@
 {
-  "stand": "2026-09-22T17:01:07+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-23T08:03:19+02:00",
+  "lauf": "0802",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Krieg im Nahen Osten – Trump vor UNO: Müssen Druck auf Iran aufrechterhalten",
-      "was": "Trump am Rednerpult der UNO-Generalversammlung vor grüner Marmorwand",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: die Weltgemeinschaft als Bühne gegen die Weltgemeinschaft als Verpflichtung.",
+      "id": "0802-1",
+      "titel": "Von Trump gestarteter Streit: Grönland, Dänemark und USA unterzeichnen Abkommen",
+      "was": "Trump, Frederiksen und Nielsen unterschreiben lächelnd das Grönland-Abkommen in New York",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Vor Monaten eine Drohung mit Annexion, jetzt als freundschaftliche Vertragsunterzeichnung gefeiert.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "SRF",
-      "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-trump-vor-uno-muessen-druck-auf-iran-aufrechterhalten",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/7ee7436.jpg",
-      "zeit": "2026-09-22T16:47+02:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Nach Sicherheitsvorfällen – Staatschefs fordern strenge Kontrollen für hoch entwickelte KI",
-      "was": "Staats- und Regierungschefs beim Gruppenfoto, alle Richtung Kamera aufgereiht",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Aufsicht über eine Technologie fordern gegen den eigenen Umgang mit ihr.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "SRF",
+      "quelle": "taz",
       "auch_bei": [
-        "Spiegel"
+        "SRF",
+        "Tagesschau"
       ],
-      "artikel": "https://www.srf.ch/news/international/nach-sicherheitsvorfaellen-staatschefs-fordern-strenge-kontrollen-fuer-hoch-entwickelte-ki",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/2f616ce.jpg",
-      "zeit": "2026-09-22T16:15+02:00"
+      "artikel": "https://taz.de/Von-Trump-gestarteter-Streit/!6215533/",
+      "bild": "https://taz.de/picture/8756381/948/42135267.jpeg",
+      "zeit": "2026-09-22T18:40+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Innert 2 Stunden gingen 1200 Gratis-Döner weg",
-      "was": "Dichtes Gedränge vor einem Bieler Dönerladen, Handys in der Luft",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: die Mobilisierungskraft von gratis gegen die Mobilisierungskraft von Überzeugungen.",
-      "grund": "memetauglich",
+      "id": "0802-2",
+      "titel": "Fast jeder dritte Schweizer schläft zu wenig – du auch?",
+      "was": "Pendler schläft erschöpft im vollen Zug oder am Bürotisch",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Das Land ist stolz auf Pünktlichkeit und Effizienz, und ein Drittel der Leute ist dabei ständig übermüdet.",
+      "grund": "breit",
       "raum": "schweiz",
       "quelle": "20 Minuten",
+      "auch_bei": [
+        "SRF"
+      ],
+      "artikel": "https://www.20min.ch/story/schlafmangel-schweiz-29-schlafen-werktags-weniger-als-sechs-stunden-103636768",
+      "bild": "https://image.20min.ch/2026/09/22/ae225fd9-5a42-4f98-a6a0-0ec08c5a428a.jpg?s=114ded7bc80de7b7879f318207598257",
+      "zeit": "2026-09-23T04:48+02:00"
+    },
+    {
+      "id": "0802-3",
+      "titel": "UNO-Generalversammlung – Guy Parmelin: «Die Schweiz kann einen Impuls geben»",
+      "was": "Guy Parmelin am Rednerpult der UNO-Generalversammlung vor fast leerem Saal",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Die Schweiz will der Welt einen Impuls geben und fängt dafür bei den eigenen Bergen an.",
+      "grund": "memetauglich",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/alemanya-kebab-verschenkt-in-biel-doener-im-wert-von-20-000-franken-103636532",
-      "bild": "https://image.20min.ch/2026/09/21/2206fd96-9b38-4583-9b87-e88aac4d254e.jpg?s=81fc5eda25f0f5f2b1ac9499c1eef69f",
-      "zeit": "2026-09-22T12:51+02:00"
+      "artikel": "https://www.srf.ch/news/international/uno-generalversammlung-guy-parmelin-die-schweiz-kann-einen-impuls-geben",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/21233b.jpg",
+      "zeit": "2026-09-23T05:47+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 16:00",
-      "was": "Trump am Pult der UNO-Generalversammlung, Saal und Delegationen im Bild"
+      "wann": "heute",
+      "was": "Trump empfängt Xi Jinping in Washington, Handschlag vor dem Weissen Haus"
     },
     {
-      "wann": "heute am Abend",
-      "was": "Ministerinnen und Minister beim Eintreffen zum Krisentreffen im Kanzleramt"
+      "wann": "heute im Laufe des Tages",
+      "was": "Ständerat stimmt über die Eigenkapitalregeln für die UBS ab, Abstimmungsbild aus dem Saal"
     }
   ],
   "hinweis": ""
