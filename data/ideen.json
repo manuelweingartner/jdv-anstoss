@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-23",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "7 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -62,6 +62,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Habe Angst, dass die Grünen mir den Waldspaziergang verbieten. Zum Glück brechen wegen der Trockenheit jetzt schon vorher die Äste ab."
+    },
+    {
+      "id": "2026-09-23-0757-32",
+      "typ": "remix",
+      "stichwort": "Stromhandel-Verluste wegen Trump-Posts, eigener Handelsraum zuletzt geprüft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Schweizer Energiekonzerne erklären ihre Verluste im Stromhandel neu mit Trumps Posts. Ebenfalls geprüft werden Vollmond, Sonnenstürme, Heuschrecken und ganz am Schluss der eigene Handelsraum."
     }
   ]
 }
