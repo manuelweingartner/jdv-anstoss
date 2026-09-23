@@ -1,60 +1,59 @@
 {
-  "stand": "2026-09-23T08:03:19+02:00",
-  "lauf": "0802",
+  "stand": "2026-09-23T17:00:40+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0802-1",
-      "titel": "Von Trump gestarteter Streit: Grönland, Dänemark und USA unterzeichnen Abkommen",
-      "was": "Trump, Frederiksen und Nielsen unterschreiben lächelnd das Grönland-Abkommen in New York",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Vor Monaten eine Drohung mit Annexion, jetzt als freundschaftliche Vertragsunterzeichnung gefeiert.",
+      "id": "1700-1",
+      "titel": "Xi in den USA: Trump und Chinas Staatschef vor schwierigen Gesprächen",
+      "was": "Trump empfängt Xi vor dem Weissen Haus, langer Handschlag, Ehrengarde",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Beide spielen den Starken, aber nur einer hat sichtbar weniger in der Hand.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "taz",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "SRF",
-        "Tagesschau"
+        "taz"
       ],
-      "artikel": "https://taz.de/Von-Trump-gestarteter-Streit/!6215533/",
-      "bild": "https://taz.de/picture/8756381/948/42135267.jpeg",
-      "zeit": "2026-09-22T18:40+02:00"
+      "artikel": "https://www.tagesschau.de/ausland/asien/usa-xi-jinping-treffen-trump-washington-100.html",
+      "bild": "https://images.tagesschau.de/image/3a784f19-4e26-4ec2-ad75-fa82a6f8962e/AAABoM1gHPc/AAABnSSvrFg/16x9-big/xi-224.jpg?width=1280",
+      "zeit": "2026-09-23T15:35+02:00"
     },
     {
-      "id": "0802-2",
-      "titel": "Fast jeder dritte Schweizer schläft zu wenig – du auch?",
-      "was": "Pendler schläft erschöpft im vollen Zug oder am Bürotisch",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Das Land ist stolz auf Pünktlichkeit und Effizienz, und ein Drittel der Leute ist dabei ständig übermüdet.",
+      "id": "1700-2",
+      "titel": "Emmanuel Macron teilt bei seiner letzten Uno-Rede gegen Israel und Donald Trump aus",
+      "was": "Macron am Rednerpult der UN-Generalversammlung, energische Geste, halbleerer Saal",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Abschiedsrede mit grosser Weltbühnengeste gegen ein Publikum, das schon mit dem Nachfolger rechnet.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "SRF"
+        "NZZ"
       ],
-      "artikel": "https://www.20min.ch/story/schlafmangel-schweiz-29-schlafen-werktags-weniger-als-sechs-stunden-103636768",
-      "bild": "https://image.20min.ch/2026/09/22/ae225fd9-5a42-4f98-a6a0-0ec08c5a428a.jpg?s=114ded7bc80de7b7879f318207598257",
-      "zeit": "2026-09-23T04:48+02:00"
+      "artikel": "https://www.spiegel.de/ausland/emmanuel-macron-teilt-bei-seiner-letzten-uno-rede-gegen-israel-und-donald-trump-aus-a-581794cd-7600-45a3-817e-af70d9b2a62b#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/bce30244-c048-46d7-8738-094e97b51560_w520_r2.08_fpx54.48_fpy44.97.jpg",
+      "zeit": "2026-09-23T14:25+02:00"
     },
     {
-      "id": "0802-3",
-      "titel": "UNO-Generalversammlung – Guy Parmelin: «Die Schweiz kann einen Impuls geben»",
-      "was": "Guy Parmelin am Rednerpult der UNO-Generalversammlung vor fast leerem Saal",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Die Schweiz will der Welt einen Impuls geben und fängt dafür bei den eigenen Bergen an.",
+      "id": "1700-3",
+      "titel": "Tierischer Wettbewerb – «Fat Bear Week»: Welcher Bär hat am meisten Winterspeck?",
+      "was": "Massiver Braunbär am Fluss in Alaska, Bauch fast am Boden",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Das Polster, das der Bär für den Winter anfrisst, gegen das Eigenkapitalpolster, das die UBS partout nicht will.",
       "grund": "memetauglich",
-      "raum": "schweiz",
+      "raum": "",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/uno-generalversammlung-guy-parmelin-die-schweiz-kann-einen-impuls-geben",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/21233b.jpg",
-      "zeit": "2026-09-23T05:47+02:00"
+      "artikel": "https://www.srf.ch/news/international/tierischer-wettbewerb-fat-bear-week-welcher-baer-hat-am-meisten-winterspeck",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/15eef6.jpg",
+      "zeit": "2026-09-23T14:32+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute",
-      "was": "Trump empfängt Xi Jinping in Washington, Handschlag vor dem Weissen Haus"
+      "wann": "heute Abend (Ortszeit Washington)",
+      "was": "Empfangszeremonie und Handschlag Trump und Xi im Weissen Haus"
     },
     {
-      "wann": "heute im Laufe des Tages",
-      "was": "Ständerat stimmt über die Eigenkapitalregeln für die UBS ab, Abstimmungsbild aus dem Saal"
+      "wann": "heute ab 15:00",
+      "was": "Staatschefs am UN-Rednerpult, zweiter Tag der Generaldebatte in New York"
     }
   ],
   "hinweis": ""
