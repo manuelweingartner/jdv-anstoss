@@ -64,44 +64,44 @@
       "text": "Habe Angst, dass die Grünen mir den Waldspaziergang verbieten. Zum Glück brechen wegen der Trockenheit jetzt schon vorher die Äste ab."
     },
     {
-      "id": "2026-09-23-0757-32",
-      "typ": "remix",
-      "stichwort": "Stromhandel-Verluste wegen Trump-Posts, eigener Handelsraum zuletzt geprüft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Schweizer Energiekonzerne erklären ihre Verluste im Stromhandel neu mit Trumps Posts. Ebenfalls geprüft werden Vollmond, Sonnenstürme, Heuschrecken und ganz am Schluss der eigene Handelsraum."
-    },
-    {
-      "id": "2026-09-23-0757-36",
-      "typ": "schnittmenge",
-      "stichwort": "Mietautos in Innerrhoden gemeldet wie Konzerne in Zug",
+      "id": "2026-09-23-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf die Miete: steigt ohne Leistung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Mietautos aus der ganzen Schweiz sind in Appenzell Innerrhoden gemeldet, weil die Motorfahrzeugsteuer dort tief ist. Wie Konzerne in Zug, nur öfter vor Ort."
+      "text": "Einmal so zuverlässig steigen wie die Miete. Ohne Leistung, ohne Verhandlung, mit amtlichem Formular."
     },
     {
-      "id": "2026-09-23-0757-37",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau ohne Frauenhaus, Flucht als Pendlerabzug",
+      "id": "2026-09-23-0757-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bankgeheimnis als Privatsphäre, Fluchtwagen mit tiefem Verbrauch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer das Bankgeheimnis mit dem Schutz der Privatsphäre begründet, lobt am Fluchtwagen den tiefen Verbrauch."
+    },
+    {
+      "id": "2026-09-23-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zurück ins Büro wegen Mietvertrag, angekündigt aus Gstaad",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Zurück ins Büro, weil dort die Produktivität steigt oder weil der Mietvertrag noch läuft? Angekündigt hat es die Konzernleitung per Teams, aus Gstaad."
+    },
+    {
+      "id": "2026-09-23-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Friedensgespräche, Rüstungsaktien beten fürs Scheitern",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Der Thurgau hat kein Frauenhaus, gewaltbetroffene Frauen fliehen in andere Kantone. Ab wie vielen Kilometern gilt das eigentlich als Pendlerabzug, liebe Regierung in Frauenfeld?"
-    },
-    {
-      "id": "2026-09-23-0757-38",
-      "typ": "schnittmenge",
-      "stichwort": "Rösti im Feuer, Rauch ist Meinung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Bundesrat Rösti im Feuer. Rösti so: Hitze Wetter, Rauch Meinung, Löschen Ideologie."
+      "text": "Friedensgespräche angekündigt. Rüstungsaktien so: minus zehn Prozent, Krisenstab, alle beten für ein Scheitern in Genf."
     }
   ]
 }
