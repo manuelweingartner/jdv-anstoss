@@ -1,142 +1,37 @@
 {
-  "datum": "2026-09-23",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "datum": "2026-09-25",
+  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-23-0757-03",
+      "id": "2026-09-25-0758-04",
       "typ": "politisch-aktuell",
-      "stichwort": "SVP will Geschlechtsänderung im Pass erschweren, Marzili-Eklat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Eine trans Frau badet im Marzili, SVP so: Alarm, Vorstoss, Geschlechtsänderung im Pass erschweren! Bademeister so: welcher Pass, hier zeigt man das Saisonabo.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-23-0757-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Geld arbeiten lassen, RAV verlangt Arbeitsbemühungen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Warum heisst es «das Geld arbeiten lassen», wenn es noch nie jemand bei der Arbeit gesehen hat? Frage fürs RAV, das sonst von allen Arbeitsbemühungen verlangt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-23-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Waffenstillstand drückt Rüstungsaktien, Pensionskasse seufzt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Jede Meldung über einen Waffenstillstand drückt die Rüstungsaktien, und irgendwo in Zürich seufzt deine Pensionskasse. Leise, diskret, gegen Verwaltungsgebühr.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-23-0757-12",
-      "typ": "remix",
-      "stichwort": "Kerosin wird teurer, Mallorca kostet bald so viel wie Bahnfahren nach Chur",
-      "plattform": "Threads + Bluesky, IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kerosin wird teurer. Horror, bald kostet Mallorca so viel wie Bahnfahren nach Chur.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-23-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Missgunst gegen Erfolgreiche, Swiss Life erntet Arbeitsplätze",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Gleiche Woche: Ein Firmenchef klagt, wer in der Schweiz Erfolg habe, ernte nur Missgunst. Swiss Life steigert den Gewinn und erntet jeden zwanzigsten Arbeitsplatz.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-23-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Grönland-Deal als Handtuch auf dem Liegestuhl",
+      "stichwort": "Klimademos hysterisch, Coop nimmt Stressbälle vorsorglich aus dem Regal",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Grönland wird nicht übernommen, die USA kriegen bloss freie Hand. Handtuch auf dem Liegestuhl.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Stimmt, die Klimademos gegen 50-Grad-Sommer sind hysterisch. Am selben Tag nimmt Coop nach einem Vorfall in Frankreich vorsorglich Stressbälle aus dem Regal, das nennt man Augenmass."
     },
     {
-      "id": "2026-09-23-0757-24",
+      "id": "2026-09-25-0758-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Herkunft darf keine Rolle spielen, Buffetts Nachfolger heisst Howard Buffett",
+      "stichwort": "Trump sperrt Reporter wegen Fake News aus, er selbst bleibt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, Herkunft darf keine Rolle spielen. Warren Buffetts Nachfolger heisst Howard Buffett.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Trump sperrt Reporter wegen Fake News aus dem Weissen Haus aus. Seh ich das richtig, er darf bleiben?"
     },
     {
-      "id": "2026-09-23-0757-28",
+      "id": "2026-09-25-0758-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Bankgeheimnis als Privatsphäre, Fluchtwagen mit tiefem Verbrauch",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wer das Bankgeheimnis mit dem Schutz der Privatsphäre begründet, lobt am Fluchtwagen den tiefen Verbrauch.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-23-0757-37",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau ohne Frauenhaus, Flucht als Pendlerabzug",
+      "stichwort": "Israel muss sich schützen, Hirten tragen Milch nachts auf Eseln durch den Graben",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Der Thurgau hat kein Frauenhaus, gewaltbetroffene Frauen fliehen in andere Kantone. Ab wie vielen Kilometern gilt das eigentlich als Pendlerabzug, liebe Regierung in Frauenfeld?",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
+      "text": "Klar, Israel muss sich schützen. Im Westjordanland bringen Hirten ihre Milch nachts auf Eseln durch einen Graben, man weiss ja nie, was so ein Esel vorhat."
     }
   ]
 }
