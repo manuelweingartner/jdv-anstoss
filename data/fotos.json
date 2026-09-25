@@ -1,59 +1,63 @@
 {
-  "stand": "2026-09-23T17:00:40+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-25T08:03:27+02:00",
+  "lauf": "0758",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Xi in den USA: Trump und Chinas Staatschef vor schwierigen Gesprächen",
-      "was": "Trump empfängt Xi vor dem Weissen Haus, langer Handschlag, Ehrengarde",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Beide spielen den Starken, aber nur einer hat sichtbar weniger in der Hand.",
+      "id": "0758-1",
+      "titel": "Treffen im Weissen Haus – Trump empfängt Xi zum prunkvollen Staatsbankett",
+      "was": "Trump und Xi beim Staatsbankett, Fanfaren, Spalier, goldene Weisskopfadlerstatue",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: maximaler Prunk mit Adlerstatue und Wolfsbarsch gegen null Ergebnisse bei Taiwan, KI und Iran.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Tagesschau",
+      "quelle": "SRF",
       "auch_bei": [
-        "taz"
+        "NZZ",
+        "Spiegel",
+        "Tagesschau"
       ],
-      "artikel": "https://www.tagesschau.de/ausland/asien/usa-xi-jinping-treffen-trump-washington-100.html",
-      "bild": "https://images.tagesschau.de/image/3a784f19-4e26-4ec2-ad75-fa82a6f8962e/AAABoM1gHPc/AAABnSSvrFg/16x9-big/xi-224.jpg?width=1280",
-      "zeit": "2026-09-23T15:35+02:00"
+      "artikel": "https://www.srf.ch/news/international/treffen-im-weissen-haus-trump-empfaengt-xi-zum-prunkvollen-staatsbankett",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/09a3b54.jpg",
+      "zeit": "2026-09-25T05:47+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Emmanuel Macron teilt bei seiner letzten Uno-Rede gegen Israel und Donald Trump aus",
-      "was": "Macron am Rednerpult der UN-Generalversammlung, energische Geste, halbleerer Saal",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Abschiedsrede mit grosser Weltbühnengeste gegen ein Publikum, das schon mit dem Nachfolger rechnet.",
+      "id": "0758-2",
+      "titel": "Papstbesuch in Frankreich: «Die älteste Tochter der Kirche» empfängt Leo XIV. – und Präsident Macron schmollt",
+      "was": "Papst Leo XIV. landet in Paris, Macron steht daneben mit verkniffener Miene",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: der Präsident der laizistischen Republik empfängt den Papst, schmollt aber, weil diesmal nicht er die Hauptfigur ist.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Spiegel",
+      "quelle": "NZZ",
       "auch_bei": [
-        "NZZ"
+        "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/ausland/emmanuel-macron-teilt-bei-seiner-letzten-uno-rede-gegen-israel-und-donald-trump-aus-a-581794cd-7600-45a3-817e-af70d9b2a62b#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/bce30244-c048-46d7-8738-094e97b51560_w520_r2.08_fpx54.48_fpy44.97.jpg",
-      "zeit": "2026-09-23T14:25+02:00"
+      "artikel": "https://www.nzz.ch/international/papstbesuch-in-frankreich-die-aelteste-tochter-der-kirche-empfaengt-leo-xiv-und-praesident-macron-schmollt-ld.10025235",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/24/af6b3f16-9417-470a-8b7d-9503b593ffc3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3905,3905,x1439,y76",
+      "zeit": "2026-09-25T06:08+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Tierischer Wettbewerb – «Fat Bear Week»: Welcher Bär hat am meisten Winterspeck?",
-      "was": "Massiver Braunbär am Fluss in Alaska, Bauch fast am Boden",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Das Polster, das der Bär für den Winter anfrisst, gegen das Eigenkapitalpolster, das die UBS partout nicht will.",
+      "id": "0758-3",
+      "titel": "Nations League: Deutschland remis gegen Niederlande bei Debüt von Jürgen Klopp",
+      "was": "Jürgen Klopp gestikuliert wild an der Seitenlinie beim DFB-Debüt",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Emotionen wie bei einem Champions-League-Finale gegen ein 1:1 in der Nations League.",
       "grund": "memetauglich",
       "raum": "",
-      "quelle": "SRF",
-      "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/tierischer-wettbewerb-fat-bear-week-welcher-baer-hat-am-meisten-winterspeck",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/15eef6.jpg",
-      "zeit": "2026-09-23T14:32+02:00"
+      "quelle": "Spiegel",
+      "auch_bei": [
+        "20 Minuten"
+      ],
+      "artikel": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-remis-gegen-niederlande-bei-debuet-von-juergen-klopp-a-0616fce9-7540-4017-9f4f-d2345446e019#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/f53e20dd-56c0-42ee-8ae9-09f6ac746a21_w520_r2.08_fpx50_fpy54.99.jpg",
+      "zeit": "2026-09-24T23:45+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Abend (Ortszeit Washington)",
-      "was": "Empfangszeremonie und Handschlag Trump und Xi im Weissen Haus"
+      "wann": "heute im Lauf des Tages",
+      "was": "Papst Leo XIV. zum Auftakt seines Frankreich-Besuchs, Begrüssung durch Macron"
     },
     {
-      "wann": "heute ab 15:00",
-      "was": "Staatschefs am UN-Rednerpult, zweiter Tag der Generaldebatte in New York"
+      "wann": "heute ab Nachmittag",
+      "was": "Auftritte von Staatschefs an der UN-Vollversammlung in New York"
     }
   ],
   "hinweis": ""
