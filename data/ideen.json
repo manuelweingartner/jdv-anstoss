@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-25",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -62,6 +62,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Wieso mussten eigentlich die Bomben nie auf Spenden warten? Frage für Trumps «Friedensrat», der Gaza mit Geld wiederaufbauen will, das erst noch gespendet werden muss."
+    },
+    {
+      "id": "2026-09-25-0758-31",
+      "typ": "schnittmenge",
+      "stichwort": "Arzt ohne obligatorische Haftpflicht, Patientin zahlt die misslungene OP",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Ohne Haftpflicht Auto fahren kostet den Ausweis. Ohne Haftpflicht operieren kostet die Patientin."
+    },
+    {
+      "id": "2026-09-25-0758-32",
+      "typ": "remix",
+      "stichwort": "Trump empfängt Xi pompös, leere Liste der so empfangenen Bundesrät*innen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump rollt Xi den roten Teppich aus: «Wir haben uns nie besser verstanden.» Hier alle Bundesrät*innen, die er je so empfangen hat:\n-\n-"
     }
   ]
 }
