@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-25",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -64,24 +64,44 @@
       "text": "Wieso mussten eigentlich die Bomben nie auf Spenden warten? Frage für Trumps «Friedensrat», der Gaza mit Geld wiederaufbauen will, das erst noch gespendet werden muss."
     },
     {
-      "id": "2026-09-25-0758-31",
-      "typ": "schnittmenge",
-      "stichwort": "Arzt ohne obligatorische Haftpflicht, Patientin zahlt die misslungene OP",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Ohne Haftpflicht Auto fahren kostet den Ausweis. Ohne Haftpflicht operieren kostet die Patientin."
-    },
-    {
-      "id": "2026-09-25-0758-32",
-      "typ": "remix",
-      "stichwort": "Trump empfängt Xi pompös, leere Liste der so empfangenen Bundesrät*innen",
+      "id": "2026-09-25-0758-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste: Verwaltungsrät*innen geben Bonus nach Stellenabbau zurück",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Trump rollt Xi den roten Teppich aus: «Wir haben uns nie besser verstanden.» Hier alle Bundesrät*innen, die er je so empfangen hat:\n-\n-"
+      "text": "Hier alle Verwaltungsrät*innen, die ihren Bonus zurückgegeben haben, weil die Firma im selben Jahr Stellen gestrichen hat:\n-\n-"
+    },
+    {
+      "id": "2026-09-25-0758-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ruhetage wie eine Zweitwohnung im Engadin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so viele Ruhetage haben wie eine Zweitwohnung im Engadin."
+    },
+    {
+      "id": "2026-09-25-0758-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Care-Arbeit heisst in der Rente Erwerbslücke",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seit wann heisst es eigentlich Erwerbslücke, wenn eine Mutter zehn Jahre rund um die Uhr gearbeitet hat? Frage für die Pensionskasse."
+    },
+    {
+      "id": "2026-09-25-0758-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kriegsgewinnler heissen heute Standortfaktor",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Kriegsgewinnler hiessen früher so. Heute heissen sie Standortfaktor und bekommen zum Firmenjubiläum einen Bundesrat, als Festredner."
     }
   ]
 }
