@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-25",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Klar, Israel muss sich schützen. Im Westjordanland bringen Hirten ihre Milch nachts auf Eseln durch einen Graben, man weiss ja nie, was so ein Esel vorhat."
+    },
+    {
+      "id": "2026-09-25-0758-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Swisscom feuert nach 38 Jahren wegen Tonfall, Trump zweimal gewählt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Swisscom feuert Verkäufer nach 38 Jahren wegen seines Tons. Trump wurde dafür zweimal gewählt."
+    },
+    {
+      "id": "2026-09-25-0758-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Russland verwaltet Nestlé-Fabriken zwangsweise, Nestlé und das Grundrecht aufs Wasser",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Russland stellt die Nestlé-Fabriken unter Zwangsverwaltung, Nestlé so: Enteignung, Angriff aufs Grundrecht! Nestlé beim Trinkwasser so: Grundrecht, ach was, Ware mit Preisschild."
+    },
+    {
+      "id": "2026-09-25-0758-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gaza-Wiederaufbau auf Spendenbasis, Bomben nie per Crowdfunding",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Wieso mussten eigentlich die Bomben nie auf Spenden warten? Frage für Trumps «Friedensrat», der Gaza mit Geld wiederaufbauen will, das erst noch gespendet werden muss."
     }
   ]
 }
