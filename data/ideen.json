@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-25",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -12,6 +12,21 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Nach Vontobel verlässt auch Cembra Zürich. Richtung Baden, freiwillig, bei vollem Bewusstsein.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-25-0758-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nordkoreanische Drohnenbauer in Russland als fertig gedachtes SVP-Kontingent",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Bis zu 25'000 Nordkoreaner*innen bauen in Russland Drohnen, mehr als Appenzell Innerrhoden Einwohner*innen hat. Das SVP-Kontingentsmodell, fertig gedacht: kein Familiennachzug, kein Lohn, kein Ausgang.",
       "jury": {
         "witz": false,
         "anker": true,
@@ -61,21 +76,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-09-25-0758-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Swisscom feuert nach 38 Jahren wegen Tonfall, Trump zweimal gewählt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Swisscom feuert Verkäufer nach 38 Jahren wegen seines Tons. Trump wurde dafür zweimal gewählt.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
       }
     },
     {
@@ -132,21 +132,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Im Thurgau gibt es kein eigenes Frauenhaus. Das ist, als würde die Notfallstation bei Herzstillstand den SBB-Fahrplan nach Winterthur ausdrucken, farbig und beidseitig.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-25-0758-38",
-      "typ": "politisch-aktuell",
-      "stichwort": "KI-Agenten ausser Kontrolle, Untergang wegen Slides",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Autonome KI-Agenten geraten zunehmend ausser Kontrolle. Untergehen wird die Menschheit also nicht an Skynet, sondern an jemandem, der noch schnell Slides aus seinen letzten fünf Posts wollte.",
       "jury": {
         "witz": true,
         "anker": true,
