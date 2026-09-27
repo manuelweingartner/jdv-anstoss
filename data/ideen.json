@@ -11,37 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Ignazio Cassis nach dem Nein zur Neutralitätsinitiative: «Wir waren neutral, wir sind neutral und wir bleiben neutral.» Blinzeln Sie zweimal, wenn Blocher mit im Raum ist."
-    },
-    {
-      "id": "2026-09-27-2020-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "E-Auto-Boom ohne Subventionen ist Blase, Landwirtschaft ohne Subventionen ist Tradition",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Gleiche Woche: Ein E-Auto-Boom, der ohne Subventionen einbricht, gilt als Blase. Eine Landwirtschaft, die ohne Subventionen einbricht, gilt als Tradition und versenkt die Ernährungsinitiative."
-    },
-    {
-      "id": "2026-09-27-2020-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Waffenruhe in Gaza bröckelt, vor allem die Häuser",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Die Waffenruhe in Gaza bröckelt, heisst es. Bröckeln tun dort vor allem die Häuser."
-    },
-    {
-      "id": "2026-09-27-2020-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor Mietsenkung trotz unverändertem Referenzzins",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor Mieter*innen, die trotz unverändertem Referenzzins eine Mietsenkung verlangen. Wo soll das hinführen, am Ende wohnt noch jemand bezahlbar, einfach so, ohne Erbschaft."
+      "text": "Ignazio Cassis nach dem Nein zur Neutralitätsinitiative: «Wir waren neutral, wir sind neutral und wir bleiben neutral.» Blinzeln Sie zweimal, wenn Blocher mit im Raum ist.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-27-2020-05",
@@ -51,17 +26,42 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Stimmt, super, dass Laien jetzt Erste Hilfe für die Psyche lernen. Irgendwer muss ja die Wartezeit auf einen Therapieplatz überbrücken, ungefähr eine Schwangerschaft lang."
+      "text": "Stimmt, super, dass Laien jetzt Erste Hilfe für die Psyche lernen. Irgendwer muss ja die Wartezeit auf einen Therapieplatz überbrücken, ungefähr eine Schwangerschaft lang.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-27-2020-06",
+      "id": "2026-09-27-2020-08",
       "typ": "politisch-aktuell",
-      "stichwort": "Griechenland: beide Seiten hören, Hochwasser und Weltwoche",
+      "stichwort": "Wohnungsmarkt als Versteigerung der Titanic-Rettungsboote, mit Betreibungsauszug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wohnungen dem freien Markt zu überlassen heisst, auf der Titanic die Rettungsboote zu versteigern. Mit Besichtigung, Warteliste und Betreibungsauszug.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-27-2020-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Grosse Vermögen regulieren wie den Wolf, proaktiv und ohne Schaden",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Erst Waldbrände, jetzt Erdrutsche in Griechenland. Muss man beide Seiten hören: Hochwasser und Weltwoche."
+      "text": "Vielleicht sollten wir grosse Vermögen behandeln wie den Wolf: Ab einem bestimmten Bestand wird reguliert, proaktiv, auch ohne nachgewiesenen Schaden.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-27-2020-16",
@@ -71,7 +71,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Mietautos lösen ihre Nummern in Appenzell Innerrhoden ein, weil die Autosteuer dort so tief ist. Selbst ein Opel Corsa hat in diesem Land einen Steuerberater."
+      "text": "Mietautos lösen ihre Nummern in Appenzell Innerrhoden ein, weil die Autosteuer dort so tief ist. Selbst ein Opel Corsa hat in diesem Land einen Steuerberater.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-27-2020-17",
@@ -81,27 +86,72 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Im Thurgau gibt es kein Frauenhaus. Einmal so geschützt untergebracht sein wie eine Thurgauer Milchkuh, mit gesetzlich vorgeschriebenem Liegeplatz."
+      "text": "Im Thurgau gibt es kein Frauenhaus. Einmal so geschützt untergebracht sein wie eine Thurgauer Milchkuh, mit gesetzlich vorgeschriebenem Liegeplatz.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-09-27-2020-18",
+      "id": "2026-09-27-2020-21",
       "typ": "politisch-aktuell",
-      "stichwort": "Rösti steht im Feuer, der Umweltminister nennt es Klimaanpassung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Albert Rösti steht im Feuer, schreiben die Zeitungen. Der Umweltminister nennt das Klimaanpassung."
-    },
-    {
-      "id": "2026-09-27-2020-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Parkbusse gleich teuer, halber Aldi-Einkauf gegen Parkgebühr vor dem Globus",
+      "stichwort": "Cassis sagt dreimal neutral, Spiegel-Beschwörung ruft Blocher",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Cassis sagt nach dem Neutralitäts-Nein dreimal «neutral». Vor dem Badezimmerspiegel ruft man so Blocher.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-27-2020-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nothelferkurs für die Psyche, zu zweit auf den Therapieplatz warten",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Nothelferkurse für die Psyche, sehr gut. Zu zweit wartet man leichter auf den Therapieplatz.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-27-2020-32",
+      "typ": "remix",
+      "stichwort": "Blocher sieht nach dem Neutralitäts-Nein mehr Kriegsgefahr, leere Liste der Angreifer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Blocher sieht nach dem Neutralitäts-Nein mehr Kriegsgefahr. Hier alle Länder, die deshalb angreifen wollen:\n-\n-",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-27-2020-37",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne eigenes Frauenhaus, sie muss weg, er behält den Parkplatz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Parkbussen kosten für alle gleich viel. Für die einen ist das ein halber Wocheneinkauf bei Aldi, für die anderen die Parkgebühr vor dem Globus."
+      "text": "Im Thurgau gibt es kein eigenes Frauenhaus. Sie muss weg, er behält den Parkplatz.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     }
   ]
 }
