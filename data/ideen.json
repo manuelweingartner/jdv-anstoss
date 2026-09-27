@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-27",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "3 Ideen aussortiert und nicht ersetzt, Liste hat 7 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -16,6 +16,21 @@
         "neu": false,
         "anker": true,
         "witz": true
+      }
+    },
+    {
+      "id": "2026-09-27-1620-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bundesrat garantiert für die UBS, nicht für die Wasserstoffleitung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Für die UBS garantiert der Bundesrat Milliarden, für eine Wasserstoffleitung nicht. Klar, die Leitung könnte ja funktionieren. Ohne Boni.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": false
       }
     },
     {
@@ -49,51 +64,6 @@
       }
     },
     {
-      "id": "2026-09-27-1620-16",
-      "typ": "schnittmenge",
-      "stichwort": "Innerrhoden nimmt Zugezogene ohne Einbürgerungsgespräch auf, sofern sie vier Räder haben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Appenzell Innerrhoden nimmt jedes Jahr Tausende Zugezogene auf, ohne Einbürgerungsgespräch und ohne Dialekttest. Voraussetzung: vier Räder und ein Sixt-Kleber.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-27-1620-18",
-      "typ": "schnittmenge",
-      "stichwort": "Rösti im Feuer, Umweltminister sieht darin normales Wetter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Albert Rösti steht wieder einmal im Feuer. Für den Umweltminister kein Grund zur Sorge, sowas gab es früher auch schon. Wetter halt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-27-1620-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Blocher verliert Neutralität, Papst zieht 800'000 nach Paris, zwei Unfehlbare",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Blocher verliert die Neutralitätsinitiative, am selben Wochenende zieht der Papst 800'000 Menschen nach Paris. Zwei unfehlbare alte Männer, nur einer mit Publikum.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-09-27-1620-25",
       "typ": "politisch-aktuell",
       "stichwort": "Bellinzona lehnt Burgen-Kredit ab, einfach beim VBS einreichen",
@@ -102,21 +72,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Bellinzona lehnt 19 Millionen Franken für seine Burgen ab. Vielleicht einfach nochmal beim VBS einreichen, sind ja Verteidigungsanlagen, mit Zinnen und allem.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-27-1620-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wohnen wie ein Picasso im Genfer Zollfreilager",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so klimatisiert, steuerfrei und bewacht wohnen wie ein Picasso im Genfer Zollfreilager.",
       "jury": {
         "neu": true,
         "anker": true,
@@ -139,18 +94,18 @@
       }
     },
     {
-      "id": "2026-09-27-1620-37",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau ohne Frauenhaus, aber mit Feuerbrand-Schutz für Apfelbäume",
+      "id": "2026-09-27-1620-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "Cat Bonds auf Waldbrände, Röstis Klimapolitik als Wachstumsfonds",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Kein eigenes Frauenhaus im Thurgau. Dafür einen kantonalen Pflanzenschutzdienst, der ausrückt, sobald ein Apfelbaum vom Feuerbrand bedroht ist. Mit Hotline.",
+      "text": "Versicherer verkaufen das Risiko von Waldbränden und Überschwemmungen jetzt als «Cat Bonds» an Anleger. Läuft Albert Röstis Klimapolitik dann eigentlich unter Wachstumsfonds?",
       "jury": {
-        "neu": false,
+        "neu": true,
         "anker": true,
-        "witz": true
+        "witz": false
       }
     }
   ]
