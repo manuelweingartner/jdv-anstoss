@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-27",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "evergreen",
       "format": 3,
       "text": "Albert Rösti steht wieder einmal im Feuer. Für den Umweltminister kein Grund zur Sorge, sowas gab es früher auch schon. Wetter halt."
+    },
+    {
+      "id": "2026-09-27-1620-31",
+      "typ": "schnittmenge",
+      "stichwort": "Vegan-Zwang gegen staatlich mitbezahlte Fleischwerbung",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Staatlich geförderte Pflanzenkost ist «Vegan-Zwang». Staatlich geförderte Fleischwerbung ist seit Jahren «Absatzförderung»."
+    },
+    {
+      "id": "2026-09-27-1620-32",
+      "typ": "remix",
+      "stichwort": "Waadt senkt Steuern, leere Liste der Kantone mit gesunkenen Mieten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Im Kanton Waadt sinken die Steuern bald deutlich, so hat das Volk entschieden. Hier alle Kantone, in denen eine Steuersenkung je die Mieten gesenkt hat:\n-\n-"
     }
   ]
 }
