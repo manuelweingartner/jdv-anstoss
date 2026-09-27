@@ -4,6 +4,36 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-09-27-1620-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Blochers Neutralität zu starr, bei Raubgold und Oligarchenkonten erstaunlich gelenkig",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Neutralitätsinitiative ist abgelehnt, Blochers Auslegung war dem Volk zu starr. Ist das dieselbe Neutralität, die bei Raubgold, Apartheid und Oligarchenkonten immer so gelenkig war?"
+    },
+    {
+      "id": "2026-09-27-1620-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kein Staatsmenü, aber in Paris stehen 800'000 für eine Oblate an",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Kein Staatsmenü, sagt die Schweiz und lehnt die Ernährungsinitiative ab. Am selben Wochenende stehen in Paris 800'000 Menschen beim Papst für eine Oblate an, Einheitsmenü, ohne Abstimmung."
+    },
+    {
+      "id": "2026-09-27-1620-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Basel will keine Extraregeln für Demo-Schäden, Bankenregeln für alle",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Basel will keine Extraregeln für Sachschäden an Demos. Endlich Bankenregeln für alle, ohne Bonus."
+    },
+    {
       "id": "2026-09-27-1620-07",
       "typ": "politisch-aktuell",
       "stichwort": "Leere Liste: CEOs, die beim Sparprogramm zuerst auf den Bonus verzichtet haben",
@@ -72,36 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": 3,
       "text": "Albert Rösti steht wieder einmal im Feuer. Für den Umweltminister kein Grund zur Sorge, sowas gab es früher auch schon. Wetter halt."
-    },
-    {
-      "id": "2026-09-27-1620-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Keine Garantie für die Wasserstoffleitung, bei der CS ging es an einem Sonntag",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, der Bundesrat kann für eine Wasserstoffleitung keine Garantie übernehmen, viel zu riskant. Bei der Credit Suisse ging das an einem Sonntag, zwischen Mittagessen und Tagesschau."
-    },
-    {
-      "id": "2026-09-27-1620-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bellinzona lehnt Burgen-Kredit ab, einfach beim VBS einreichen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Bellinzona lehnt 19 Millionen Franken für seine Burgen ab. Vielleicht einfach nochmal beim VBS einreichen, sind ja Verteidigungsanlagen, mit Zinnen und allem."
-    },
-    {
-      "id": "2026-09-27-1620-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor Mieter*innen, die das Mietrecht lesen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Habe Angst vor Mieter*innen. Die lesen neuerdings das Mietrecht."
     }
   ]
 }
