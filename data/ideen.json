@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-27",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -79,6 +79,36 @@
       }
     },
     {
+      "id": "2026-09-27-1431-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Graubünden: mit 16 zu jung zum Abstimmen, alt genug zum Ausbaden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, mit 16 ist man zu jung zum Abstimmen, findet Graubünden. Zum Ausbaden reicht es dann schon.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-27-1431-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zürichberg liest das Strafgesetzbuch als Preisliste",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Am Zürichberg liest man das Strafgesetzbuch nicht als Verbotskatalog. Sondern als Preisliste, mit Mengenrabatt.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-09-27-1431-12",
       "typ": "remix",
       "stichwort": "WEF-Tourismus-Index Top 10, Davos stellt für WEF-Gäste Scharfschützen aufs Dach",
@@ -91,66 +121,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-09-27-1431-17",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau ohne Frauenhaus, der Thurbo fährt ja",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der Thurgau hat kein eigenes Frauenhaus. Regierung so: St. Gallen hat doch eins, der Thurbo fährt ja, halbstündlich.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-27-1431-18",
-      "typ": "schnittmenge",
-      "stichwort": "Innerrhoder Mietautos als SVP-Wunschzuwanderung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "In Appenzell Innerrhoden sind Tausende Mietautos gemeldet, die nie dort waren. Endlich Zuwanderung, wie die SVP sie will: zahlt Steuern, braucht keinen Platz, kommt nie.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-27-1431-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Graubünden sagt Nein zu Stimmrechtsalter 16, Klima 2080",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Graubünden lehnt Stimmrechtsalter 16 deutlich ab, verständlich. Sonst entscheiden über das Klima von 2080 noch Leute, die das dann tatsächlich erleben.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-27-1431-37",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau ohne Frauenhaus, aber mit Napoleonmuseum auf Schloss Arenenberg",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kein eigenes Frauenhaus, aber ein Napoleonmuseum auf Schloss Arenenberg: Im Thurgau findet Zuflucht, wer Kaiser ist. Seesicht inklusive.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
       }
     }
   ]
