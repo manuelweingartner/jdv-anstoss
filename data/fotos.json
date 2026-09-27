@@ -1,63 +1,60 @@
 {
-  "stand": "2026-09-25T08:03:27+02:00",
-  "lauf": "0758",
+  "stand": "2026-09-27T14:38:57+02:00",
+  "lauf": "1436",
   "fotos": [
     {
-      "id": "0758-1",
-      "titel": "Treffen im Weissen Haus – Trump empfängt Xi zum prunkvollen Staatsbankett",
-      "was": "Trump und Xi beim Staatsbankett, Fanfaren, Spalier, goldene Weisskopfadlerstatue",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: maximaler Prunk mit Adlerstatue und Wolfsbarsch gegen null Ergebnisse bei Taiwan, KI und Iran.",
+      "id": "1436-1",
+      "titel": "Abstimmungen live – Neutralitäts- und Ernährungsinitiative scheitern am Ständemehr",
+      "was": "Enttäuschte Initianten der Neutralitätsinitiative am Abstimmungssonntag vor Resultattafel",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Neutralität als heiliges Prinzip gegen ein Stimmvolk, das sich ausgerechnet dabei in allen Kantonen glasklar festlegt.",
       "grund": "breit",
-      "raum": "weltweit",
+      "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
-        "NZZ",
-        "Spiegel",
-        "Tagesschau"
+        "20 Minuten",
+        "NZZ"
       ],
-      "artikel": "https://www.srf.ch/news/international/treffen-im-weissen-haus-trump-empfaengt-xi-zum-prunkvollen-staatsbankett",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/09a3b54.jpg",
-      "zeit": "2026-09-25T05:47+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/abstimmungen-live-neutralitaets-und-ernaehrungsinitiative-scheitern-am-staendemehr",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/2ed3fc.jpg",
+      "zeit": "2026-09-27T14:35+02:00"
     },
     {
-      "id": "0758-2",
-      "titel": "Papstbesuch in Frankreich: «Die älteste Tochter der Kirche» empfängt Leo XIV. – und Präsident Macron schmollt",
-      "was": "Papst Leo XIV. landet in Paris, Macron steht daneben mit verkniffener Miene",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: der Präsident der laizistischen Republik empfängt den Papst, schmollt aber, weil diesmal nicht er die Hauptfigur ist.",
+      "id": "1436-2",
+      "titel": "Papst wird in Paris gefeiert – Macron bleibt Messe fern",
+      "was": "Papst Leo XIV. im Papamobil vor riesiger Menge auf der Place de la Concorde",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein Gast, der die halbe Stadt füllt, gegen einen Präsidenten, der in seiner eigenen Hauptstadt fehlt.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "NZZ",
+      "quelle": "20 Minuten",
       "auch_bei": [
         "Tagesschau"
       ],
-      "artikel": "https://www.nzz.ch/international/papstbesuch-in-frankreich-die-aelteste-tochter-der-kirche-empfaengt-leo-xiv-und-praesident-macron-schmollt-ld.10025235",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/24/af6b3f16-9417-470a-8b7d-9503b593ffc3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3905,3905,x1439,y76",
-      "zeit": "2026-09-25T06:08+02:00"
+      "artikel": "https://www.20min.ch/story/paris-gefeiert-wie-ein-rockstar-papst-predigt-vor-800-000-menschen-103639934",
+      "bild": "https://image.20min.ch/2026/09/27/bf172785-e4f1-4406-ab77-a80423f05001.jpg?s=da5b7bc2c9dd4f769220a8cc2496209b",
+      "zeit": "2026-09-27T13:23+02:00"
     },
     {
-      "id": "0758-3",
-      "titel": "Nations League: Deutschland remis gegen Niederlande bei Debüt von Jürgen Klopp",
-      "was": "Jürgen Klopp gestikuliert wild an der Seitenlinie beim DFB-Debüt",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Emotionen wie bei einem Champions-League-Finale gegen ein 1:1 in der Nations League.",
+      "id": "1436-3",
+      "titel": "Die Schweiz als Vorreiterin: Wie sich ein Binnenland zur Surfnation mausert",
+      "was": "Surfer auf künstlicher Welle in Ebikon, Schweizer Kulisse statt Meer",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Binnenland ohne einen Meter Küste gegen den Anspruch, europäische Surfnation zu sein.",
       "grund": "memetauglich",
-      "raum": "",
-      "quelle": "Spiegel",
-      "auch_bei": [
-        "20 Minuten"
-      ],
-      "artikel": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-remis-gegen-niederlande-bei-debuet-von-juergen-klopp-a-0616fce9-7540-4017-9f4f-d2345446e019#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/f53e20dd-56c0-42ee-8ae9-09f6ac746a21_w520_r2.08_fpx50_fpy54.99.jpg",
-      "zeit": "2026-09-24T23:45+02:00"
+      "raum": "schweiz",
+      "quelle": "NZZ",
+      "auch_bei": [],
+      "artikel": "https://www.nzz.ch/sport/die-schweiz-als-vorreiterin-wie-sich-ein-binnenland-zur-surfnation-mausert-ld.10024526",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/26/1d9b0029-fbe8-4fe9-8fd4-82e535ea0721.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3301,3301,x142,y341",
+      "zeit": "2026-09-27T11:55+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute im Lauf des Tages",
-      "was": "Papst Leo XIV. zum Auftakt seines Frankreich-Besuchs, Begrüssung durch Macron"
+      "wann": "heute am späten Nachmittag",
+      "was": "Bundesrat vor den Medien zu den Abstimmungsresultaten, Siegerpose am Rednerpult"
     },
     {
-      "wann": "heute ab Nachmittag",
-      "was": "Auftritte von Staatschefs an der UN-Vollversammlung in New York"
+      "wann": "heute Abend",
+      "was": "Jürgen Klopp an der Seitenlinie bei seiner Heimpremiere gegen Griechenland, Jubel oder Verzweiflung"
     }
   ],
   "hinweis": ""
