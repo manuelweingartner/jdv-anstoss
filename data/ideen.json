@@ -1,8 +1,38 @@
 {
   "datum": "2026-09-27",
-  "hinweis": "4 von 10 da, der Rest lädt noch.",
+  "hinweis": "7 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-27-1431-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Coop nimmt Stressbälle vorsorglich raus, Prämienrechnung kommt trotzdem",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, Coop nimmt nach einem Vorfall in Frankreich die Stressbälle aus dem Verkauf, und die Prämienrechnung kommt trotzdem? Ohne irgendwas zum Drücken."
+    },
+    {
+      "id": "2026-09-27-1431-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Graubünden sagt Nein zu Stimmrechtsalter 16, Klima 2080",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Graubünden lehnt Stimmrechtsalter 16 deutlich ab, verständlich. Sonst entscheiden über das Klima von 2080 noch Leute, die das dann tatsächlich erleben."
+    },
+    {
+      "id": "2026-09-27-1431-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Genf Gratis-Verhütung, Gegner warnen vor Mehrkosten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Gratis-Verhütung in Genf bringt Mehrkosten. Kinder sind ja bekanntlich gratis, Kita inklusive."
+    },
     {
       "id": "2026-09-27-1431-27",
       "typ": "politisch-aktuell",
