@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 17,
-      "text": "Shein-Aktie rutscht am ersten Börsentag ins Minus. Hält also genau, was man erwartet."
+      "text": "Shein-Aktie rutscht am ersten Börsentag ins Minus. Hält also genau, was man erwartet.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
     },
     {
       "id": "2026-09-27-1431-02",
@@ -21,7 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Gleiche Woche: Elektroautos überholen in Europa die Verbrenner, und VW ruft Millionen Autos zurück in die Garage. Als Zwischenhalt auf dem Weg ins Museum."
+      "text": "Gleiche Woche: Elektroautos überholen in Europa die Verbrenner, und VW ruft Millionen Autos zurück in die Garage. Als Zwischenhalt auf dem Weg ins Museum.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
     },
     {
       "id": "2026-09-27-1431-03",
@@ -31,17 +41,87 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Kaum ist die Neutralitätsinitiative abgelehnt, heisst es, das sei kein Nein zur Neutralität. Klingt wie jeder Typ im Ausgang um halb drei."
+      "text": "Kaum ist die Neutralitätsinitiative abgelehnt, heisst es, das sei kein Nein zur Neutralität. Klingt wie jeder Typ im Ausgang um halb drei.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-27-1431-24",
+      "id": "2026-09-27-1431-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Coop nimmt Stressbälle vorsorglich raus, Prämienrechnung kommt trotzdem",
+      "stichwort": "Genf sagt Ja zu Gratis-Verhütung, Gegner warnen vor Mehrkosten, Kinder waren ja gratis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Genf sagt Ja zu Gratis-Verhütung, die Gegner warnen vor Mehrkosten. Berechtigter Punkt, Kinder waren ja bisher immer gratis.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-27-1431-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Coop nimmt Stressbälle aus dem Regal, Mieten und Prämien bleiben im Sortiment",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Seh ich das richtig, Coop nimmt nach einem Vorfall in Frankreich die Stressbälle aus dem Verkauf, und die Prämienrechnung kommt trotzdem? Ohne irgendwas zum Drücken."
+      "text": "Vernünftig, dass Coop nach einem Vorfall in Frankreich die Stressbälle aus dem Regal nimmt. Mieten, Prämien und Nachrichten bleiben im Sortiment, die haben sich bewährt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-27-1431-12",
+      "typ": "remix",
+      "stichwort": "WEF-Tourismus-Index Top 10, Davos stellt für WEF-Gäste Scharfschützen aufs Dach",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Laut WEF gehört die Schweiz zu den zehn besten Ländern für Gäste. Das WEF muss es wissen: Für seine Gäste stellt Davos Scharfschützen aufs Hoteldach.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-27-1431-17",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne Frauenhaus, der Thurbo fährt ja",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Der Thurgau hat kein eigenes Frauenhaus. Regierung so: St. Gallen hat doch eins, der Thurbo fährt ja, halbstündlich.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-27-1431-18",
+      "typ": "schnittmenge",
+      "stichwort": "Innerrhoder Mietautos als SVP-Wunschzuwanderung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "In Appenzell Innerrhoden sind Tausende Mietautos gemeldet, die nie dort waren. Endlich Zuwanderung, wie die SVP sie will: zahlt Steuern, braucht keinen Platz, kommt nie.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-27-1431-25",
@@ -51,57 +131,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Graubünden lehnt Stimmrechtsalter 16 deutlich ab, verständlich. Sonst entscheiden über das Klima von 2080 noch Leute, die das dann tatsächlich erleben."
+      "text": "Graubünden lehnt Stimmrechtsalter 16 deutlich ab, verständlich. Sonst entscheiden über das Klima von 2080 noch Leute, die das dann tatsächlich erleben.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-27-1431-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Genf Gratis-Verhütung, Gegner warnen vor Mehrkosten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, Gratis-Verhütung in Genf bringt Mehrkosten. Kinder sind ja bekanntlich gratis, Kita inklusive."
-    },
-    {
-      "id": "2026-09-27-1431-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Einmal so zuverlässig erhöht werden wie die Dividende",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so zuverlässig erhöht werden wie die Dividende, gerade im Jahr der Massenentlassung."
-    },
-    {
-      "id": "2026-09-27-1431-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste: Manager*innen, die nach dem Verlustjahr den Bonus zurückgeben",
+      "id": "2026-09-27-1431-37",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne Frauenhaus, aber mit Napoleonmuseum auf Schloss Arenenberg",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Hier eine vollständige Liste aller Manager*innen, die nach einem Verlustjahr ihren Bonus freiwillig zurückgegeben haben: - - Recherchiert von einer unbezahlten Praktikantin."
-    },
-    {
-      "id": "2026-09-27-1431-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Parkbusse: Pflegefachfrau gegen Cayenne-Fahrer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Parkbusse, Pflegefachfrau so: da geht der Wocheneinkauf. Cayenne-Fahrer so: günstigster Parkplatz an der Bahnhofstrasse."
-    },
-    {
-      "id": "2026-09-27-1431-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wie viele Tote braucht Rheinmetall für ein solides Quartal",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ab wie vielen Toten spricht man bei Rheinmetall eigentlich von einem soliden Quartal? Frage für die Abteilung Investor Relations."
+      "text": "Kein eigenes Frauenhaus, aber ein Napoleonmuseum auf Schloss Arenenberg: Im Thurgau findet Zuflucht, wer Kaiser ist. Seesicht inklusive.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     }
   ]
 }
