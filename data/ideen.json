@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-27",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -74,24 +74,34 @@
       "text": "Albert Rösti steht wieder einmal im Feuer. Für den Umweltminister kein Grund zur Sorge, sowas gab es früher auch schon. Wetter halt."
     },
     {
-      "id": "2026-09-27-1620-31",
-      "typ": "schnittmenge",
-      "stichwort": "Vegan-Zwang gegen staatlich mitbezahlte Fleischwerbung",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Staatlich geförderte Pflanzenkost ist «Vegan-Zwang». Staatlich geförderte Fleischwerbung ist seit Jahren «Absatzförderung»."
-    },
-    {
-      "id": "2026-09-27-1620-32",
-      "typ": "remix",
-      "stichwort": "Waadt senkt Steuern, leere Liste der Kantone mit gesunkenen Mieten",
+      "id": "2026-09-27-1620-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Keine Garantie für die Wasserstoffleitung, bei der CS ging es an einem Sonntag",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Im Kanton Waadt sinken die Steuern bald deutlich, so hat das Volk entschieden. Hier alle Kantone, in denen eine Steuersenkung je die Mieten gesenkt hat:\n-\n-"
+      "text": "Stimmt, der Bundesrat kann für eine Wasserstoffleitung keine Garantie übernehmen, viel zu riskant. Bei der Credit Suisse ging das an einem Sonntag, zwischen Mittagessen und Tagesschau."
+    },
+    {
+      "id": "2026-09-27-1620-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bellinzona lehnt Burgen-Kredit ab, einfach beim VBS einreichen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Bellinzona lehnt 19 Millionen Franken für seine Burgen ab. Vielleicht einfach nochmal beim VBS einreichen, sind ja Verteidigungsanlagen, mit Zinnen und allem."
+    },
+    {
+      "id": "2026-09-27-1620-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor Mieter*innen, die das Mietrecht lesen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe Angst vor Mieter*innen. Die lesen neuerdings das Mietrecht."
     }
   ]
 }
