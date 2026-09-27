@@ -1,8 +1,48 @@
 {
   "datum": "2026-09-27",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-27-1620-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste: CEOs, die beim Sparprogramm zuerst auf den Bonus verzichtet haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Eine Übersicht aller CEOs, die beim letzten Sparprogramm als Erste auf ihren Bonus verzichtet haben:\n-\n-\nThat's it."
+    },
+    {
+      "id": "2026-09-27-1620-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf die Dividende im Jahr des Stellenabbaus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so zuverlässig ausbezahlt werden wie die Dividende im Jahr des Stellenabbaus."
+    },
+    {
+      "id": "2026-09-27-1620-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vier-Tage-Woche ist faul, Mieteinnahmen sind Leistung, Frage für die Goldküste",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Warum gilt eigentlich als faul, wer vier Tage die Woche arbeiten will, aber als Leistungsträger, wer von Mieteinnahmen lebt? Frage für die Goldküste."
+    },
+    {
+      "id": "2026-09-27-1620-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pflegende wollen Lohn, Grossbank will Rettung, Parlament so",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Pflegende wollen mehr Lohn, Parlament so: schwierig, kein Geld, Eigenverantwortung. Grossbank braucht Rettung, Parlament so: wie viel, bis wann, Bonus inklusive?"
+    },
     {
       "id": "2026-09-27-1620-16",
       "typ": "schnittmenge",
