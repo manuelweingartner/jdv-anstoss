@@ -4,6 +4,36 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-09-27-2020-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Cassis nach dem Nein: dreimal neutral, blinzeln wenn Blocher im Raum ist",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ignazio Cassis nach dem Nein zur Neutralitätsinitiative: «Wir waren neutral, wir sind neutral und wir bleiben neutral.» Blinzeln Sie zweimal, wenn Blocher mit im Raum ist."
+    },
+    {
+      "id": "2026-09-27-2020-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "E-Auto-Boom ohne Subventionen ist Blase, Landwirtschaft ohne Subventionen ist Tradition",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gleiche Woche: Ein E-Auto-Boom, der ohne Subventionen einbricht, gilt als Blase. Eine Landwirtschaft, die ohne Subventionen einbricht, gilt als Tradition und versenkt die Ernährungsinitiative."
+    },
+    {
+      "id": "2026-09-27-2020-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Waffenruhe in Gaza bröckelt, vor allem die Häuser",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Die Waffenruhe in Gaza bröckelt, heisst es. Bröckeln tun dort vor allem die Häuser."
+    },
+    {
       "id": "2026-09-27-2020-04",
       "typ": "politisch-aktuell",
       "stichwort": "Angst vor Mietsenkung trotz unverändertem Referenzzins",
@@ -72,36 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": 1,
       "text": "Parkbussen kosten für alle gleich viel. Für die einen ist das ein halber Wocheneinkauf bei Aldi, für die anderen die Parkgebühr vor dem Globus."
-    },
-    {
-      "id": "2026-09-27-2020-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neid auf die Sache: Mitgefühl wie eine Grossbank in Schieflage",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so viel Mitgefühl bekommen wie eine Grossbank in Schieflage."
-    },
-    {
-      "id": "2026-09-27-2020-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste: Rüstungskonzerne, die Kriegsgewinne in den Wiederaufbau stecken",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Rüstungskonzerne, die ihre Kriegsgewinne freiwillig in den Wiederaufbau gesteckt haben:\n-\n-\nDie Dividende kommt pünktlich."
-    },
-    {
-      "id": "2026-09-27-2020-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Enteignung beim Milliardär, Eigenbedarf bei der Rentnerin, Frage an den Hauseigentümerverband",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Warum heisst es Enteignung, wenn ein Milliardär etwas abgeben muss, aber Eigenbedarf, wenn eine Rentnerin ausziehen muss? Frage für den Hauseigentümerverband."
     }
   ]
 }
