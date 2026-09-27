@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-27-1620-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Blochers Neutralität zu starr, bei Raubgold und Oligarchenkonten erstaunlich gelenkig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die Neutralitätsinitiative ist abgelehnt, Blochers Auslegung war dem Volk zu starr. Ist das dieselbe Neutralität, die bei Raubgold, Apartheid und Oligarchenkonten immer so gelenkig war?"
-    },
-    {
       "id": "2026-09-27-1620-02",
       "typ": "politisch-aktuell",
       "stichwort": "Kein Staatsmenü, aber in Paris stehen 800'000 für eine Oblate an",
@@ -21,57 +11,42 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Kein Staatsmenü, sagt die Schweiz und lehnt die Ernährungsinitiative ab. Am selben Wochenende stehen in Paris 800'000 Menschen beim Papst für eine Oblate an, Einheitsmenü, ohne Abstimmung."
+      "text": "Kein Staatsmenü, sagt die Schweiz und lehnt die Ernährungsinitiative ab. Am selben Wochenende stehen in Paris 800'000 Menschen beim Papst für eine Oblate an, Einheitsmenü, ohne Abstimmung.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-27-1620-03",
+      "id": "2026-09-27-1620-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Basel will keine Extraregeln für Demo-Schäden, Bankenregeln für alle",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Basel will keine Extraregeln für Sachschäden an Demos. Endlich Bankenregeln für alle, ohne Bonus."
-    },
-    {
-      "id": "2026-09-27-1620-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste: CEOs, die beim Sparprogramm zuerst auf den Bonus verzichtet haben",
+      "stichwort": "Nach dem Neutralitäts-Nein droht Hilfe im Ernstfall",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Eine Übersicht aller CEOs, die beim letzten Sparprogramm als Erste auf ihren Bonus verzichtet haben:\n-\n-\nThat's it."
+      "text": "Stimmt, nach dem Nein zur Neutralitätsinitiative droht der Schweiz das Schlimmste. Im Ernstfall hilft ihr womöglich jemand. Ungefragt. Aus Europa.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-27-1620-08",
+      "id": "2026-09-27-1620-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Neid auf die Dividende im Jahr des Stellenabbaus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so zuverlässig ausbezahlt werden wie die Dividende im Jahr des Stellenabbaus."
-    },
-    {
-      "id": "2026-09-27-1620-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vier-Tage-Woche ist faul, Mieteinnahmen sind Leistung, Frage für die Goldküste",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Warum gilt eigentlich als faul, wer vier Tage die Woche arbeiten will, aber als Leistungsträger, wer von Mieteinnahmen lebt? Frage für die Goldküste."
-    },
-    {
-      "id": "2026-09-27-1620-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pflegende wollen Lohn, Grossbank will Rettung, Parlament so",
+      "stichwort": "Frontex stärken, das Mittelmeer als Partner",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Pflegende wollen mehr Lohn, Parlament so: schwierig, kein Geld, Eigenverantwortung. Grossbank braucht Rettung, Parlament so: wie viel, bis wann, Bonus inklusive?"
+      "text": "Europa will Frontex stärken. Weiss auch nicht, ob das Mittelmeer das allein noch schafft.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-27-1620-16",
@@ -81,17 +56,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Appenzell Innerrhoden nimmt jedes Jahr Tausende Zugezogene auf, ohne Einbürgerungsgespräch und ohne Dialekttest. Voraussetzung: vier Räder und ein Sixt-Kleber."
-    },
-    {
-      "id": "2026-09-27-1620-17",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau ohne Frauenhaus, Mostapfel sicherer gelagert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der Thurgau hat kein Frauenhaus. Einmal so sicher gelagert werden wie ein Thurgauer Mostapfel."
+      "text": "Appenzell Innerrhoden nimmt jedes Jahr Tausende Zugezogene auf, ohne Einbürgerungsgespräch und ohne Dialekttest. Voraussetzung: vier Räder und ein Sixt-Kleber.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-27-1620-18",
@@ -101,7 +71,87 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 3,
-      "text": "Albert Rösti steht wieder einmal im Feuer. Für den Umweltminister kein Grund zur Sorge, sowas gab es früher auch schon. Wetter halt."
+      "text": "Albert Rösti steht wieder einmal im Feuer. Für den Umweltminister kein Grund zur Sorge, sowas gab es früher auch schon. Wetter halt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-27-1620-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Blocher verliert Neutralität, Papst zieht 800'000 nach Paris, zwei Unfehlbare",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Blocher verliert die Neutralitätsinitiative, am selben Wochenende zieht der Papst 800'000 Menschen nach Paris. Zwei unfehlbare alte Männer, nur einer mit Publikum.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-27-1620-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bellinzona lehnt Burgen-Kredit ab, einfach beim VBS einreichen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Bellinzona lehnt 19 Millionen Franken für seine Burgen ab. Vielleicht einfach nochmal beim VBS einreichen, sind ja Verteidigungsanlagen, mit Zinnen und allem.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-27-1620-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohnen wie ein Picasso im Genfer Zollfreilager",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so klimatisiert, steuerfrei und bewacht wohnen wie ein Picasso im Genfer Zollfreilager.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-27-1620-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Büropflicht für Bankangestellte, Geld arbeitet remote aus der Karibik",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Grossbanken holen ihre Angestellten zurück ins Büro, der Kultur zuliebe. Das Geld darf weiter von den Cayman Islands aus arbeiten, remote, seit Jahrzehnten, ohne Präsenzpflicht.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": false
+      }
+    },
+    {
+      "id": "2026-09-27-1620-37",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne Frauenhaus, aber mit Feuerbrand-Schutz für Apfelbäume",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Kein eigenes Frauenhaus im Thurgau. Dafür einen kantonalen Pflanzenschutzdienst, der ausrückt, sobald ein Apfelbaum vom Feuerbrand bedroht ist. Mit Hotline.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
