@@ -1,28 +1,28 @@
 {
-  "stand": "2026-09-27T14:38:57+02:00",
-  "lauf": "1436",
+  "stand": "2026-09-27T14:41:41+02:00",
+  "lauf": "1441",
   "fotos": [
     {
-      "id": "1436-1",
-      "titel": "Abstimmungen live – Neutralitäts- und Ernährungsinitiative scheitern am Ständemehr",
-      "was": "Enttäuschte Initianten der Neutralitätsinitiative am Abstimmungssonntag vor Resultattafel",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Neutralität als heiliges Prinzip gegen ein Stimmvolk, das sich ausgerechnet dabei in allen Kantonen glasklar festlegt.",
+      "id": "1441-1",
+      "titel": "Jetzt ist es definitiv: Beide Initiativen scheitern am Ständemehr",
+      "was": "Enttäuschtes Initiativkomitee der Neutralitätsinitiative am Abstimmungssonntag vor Resultatanzeige",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Sich aus allem heraushalten als Prinzip gegen die Mehrheit, die sich nun aus der eigenen Initiative heraushält.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "20 Minuten",
       "auch_bei": [
-        "20 Minuten",
-        "NZZ"
+        "NZZ",
+        "SRF"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/abstimmungen-live-neutralitaets-und-ernaehrungsinitiative-scheitern-am-staendemehr",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/2ed3fc.jpg",
-      "zeit": "2026-09-27T14:35+02:00"
+      "artikel": "https://www.20min.ch/story/abstimmungen-live-resultate-neutralitaetsinitiative-ernaehrungsinitiative-103629591",
+      "bild": "https://image.20min.ch/2026/09/27/19262efd-c5f8-47e4-96ec-6757a0203dfb.jpg?s=277bf46ea2be168f9b23d969bfceb5f6",
+      "zeit": "2026-09-27T09:55+02:00"
     },
     {
-      "id": "1436-2",
+      "id": "1441-2",
       "titel": "Papst wird in Paris gefeiert – Macron bleibt Messe fern",
-      "was": "Papst Leo XIV. im Papamobil vor riesiger Menge auf der Place de la Concorde",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein Gast, der die halbe Stadt füllt, gegen einen Präsidenten, der in seiner eigenen Hauptstadt fehlt.",
+      "was": "Papst Leo XIV. im Papamobil vor der Menge auf der Place de la Concorde",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Ein laizistischer Präsident bleibt demonstrativ fern, während sein halbes Land auf dem grössten Platz der Republik Schlange steht.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "20 Minuten",
@@ -34,10 +34,10 @@
       "zeit": "2026-09-27T13:23+02:00"
     },
     {
-      "id": "1436-3",
+      "id": "1441-3",
       "titel": "Die Schweiz als Vorreiterin: Wie sich ein Binnenland zur Surfnation mausert",
-      "was": "Surfer auf künstlicher Welle in Ebikon, Schweizer Kulisse statt Meer",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Binnenland ohne einen Meter Küste gegen den Anspruch, europäische Surfnation zu sein.",
+      "was": "Surfer auf künstlicher Welle in einer Halle in Ebikon",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Ein Binnenland ohne Meer beansprucht Pioniergeist in einer Disziplin, die man eigentlich nur an der Küste lernt.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "NZZ",
@@ -50,11 +50,11 @@
   "erwartet": [
     {
       "wann": "heute am späten Nachmittag",
-      "was": "Bundesrat vor den Medien zu den Abstimmungsresultaten, Siegerpose am Rednerpult"
+      "was": "Medienkonferenz des Bundesrats zu den Abstimmungsresultaten im Bundeshaus"
     },
     {
       "wann": "heute Abend",
-      "was": "Jürgen Klopp an der Seitenlinie bei seiner Heimpremiere gegen Griechenland, Jubel oder Verzweiflung"
+      "was": "Jürgen Klopp an der Seitenlinie bei seiner Heimpremiere gegen Griechenland"
     }
   ],
   "hinweis": ""
