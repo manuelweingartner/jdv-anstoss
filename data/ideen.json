@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-27",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Erst Waldbrände, jetzt Erdrutsche in Griechenland. Muss man beide Seiten hören: Hochwasser und Weltwoche."
+    },
+    {
+      "id": "2026-09-27-2020-16",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautos mit AI-Nummer wegen tiefer Autosteuer, der Opel Corsa mit Steuerberater",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Mietautos lösen ihre Nummern in Appenzell Innerrhoden ein, weil die Autosteuer dort so tief ist. Selbst ein Opel Corsa hat in diesem Land einen Steuerberater."
+    },
+    {
+      "id": "2026-09-27-2020-17",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne Frauenhaus, Neid auf den gesetzlichen Liegeplatz der Milchkuh",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Im Thurgau gibt es kein Frauenhaus. Einmal so geschützt untergebracht sein wie eine Thurgauer Milchkuh, mit gesetzlich vorgeschriebenem Liegeplatz."
+    },
+    {
+      "id": "2026-09-27-2020-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti steht im Feuer, der Umweltminister nennt es Klimaanpassung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Albert Rösti steht im Feuer, schreiben die Zeitungen. Der Umweltminister nennt das Klimaanpassung."
     },
     {
       "id": "2026-09-27-2020-31",
