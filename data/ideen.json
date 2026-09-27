@@ -1,8 +1,38 @@
 {
   "datum": "2026-09-27",
-  "hinweis": "7 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-27-1431-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Shein-Aktie rutscht am ersten Börsentag ab, hält was man erwartet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 17,
+      "text": "Shein-Aktie rutscht am ersten Börsentag ins Minus. Hält also genau, was man erwartet."
+    },
+    {
+      "id": "2026-09-27-1431-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "E-Autos überholen Verbrenner, gleiche Woche VW-Rückruf in die Garage als Zwischenhalt zum Museum",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gleiche Woche: Elektroautos überholen in Europa die Verbrenner, und VW ruft Millionen Autos zurück in die Garage. Als Zwischenhalt auf dem Weg ins Museum."
+    },
+    {
+      "id": "2026-09-27-1431-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neutralitätsinitiative abgelehnt, «kein Nein» wie der Typ im Ausgang",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Kaum ist die Neutralitätsinitiative abgelehnt, heisst es, das sei kein Nein zur Neutralität. Klingt wie jeder Typ im Ausgang um halb drei."
+    },
     {
       "id": "2026-09-27-1431-24",
       "typ": "politisch-aktuell",
