@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-27",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -19,6 +19,21 @@
       }
     },
     {
+      "id": "2026-09-27-2020-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Waffenruhe in Gaza bröckelt, vor allem die Häuser",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Die Waffenruhe in Gaza bröckelt, heisst es. Bröckeln tun dort vor allem die Häuser.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-09-27-2020-05",
       "typ": "politisch-aktuell",
       "stichwort": "Nothelferkurs für die Psyche überbrückt die Wartezeit auf den Therapieplatz",
@@ -30,6 +45,21 @@
       "jury": {
         "anker": true,
         "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-27-2020-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Griechenland: beide Seiten hören, Hochwasser und Weltwoche",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Erst Waldbrände, jetzt Erdrutsche in Griechenland. Muss man beide Seiten hören: Hochwasser und Weltwoche.",
+      "jury": {
+        "anker": true,
+        "witz": false,
         "neu": true
       }
     },
@@ -72,51 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Mietautos lösen ihre Nummern in Appenzell Innerrhoden ein, weil die Autosteuer dort so tief ist. Selbst ein Opel Corsa hat in diesem Land einen Steuerberater.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-27-2020-17",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau ohne Frauenhaus, Neid auf den gesetzlichen Liegeplatz der Milchkuh",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Im Thurgau gibt es kein Frauenhaus. Einmal so geschützt untergebracht sein wie eine Thurgauer Milchkuh, mit gesetzlich vorgeschriebenem Liegeplatz.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-27-2020-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Cassis sagt dreimal neutral, Spiegel-Beschwörung ruft Blocher",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Cassis sagt nach dem Neutralitäts-Nein dreimal «neutral». Vor dem Badezimmerspiegel ruft man so Blocher.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-27-2020-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nothelferkurs für die Psyche, zu zweit auf den Therapieplatz warten",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Nothelferkurse für die Psyche, sehr gut. Zu zweit wartet man leichter auf den Therapieplatz.",
       "jury": {
         "anker": true,
         "witz": true,
