@@ -1,60 +1,59 @@
 {
-  "stand": "2026-09-27T14:41:41+02:00",
-  "lauf": "1441",
+  "stand": "2026-09-27T17:00:36+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "1441-1",
-      "titel": "Jetzt ist es definitiv: Beide Initiativen scheitern am Ständemehr",
-      "was": "Enttäuschtes Initiativkomitee der Neutralitätsinitiative am Abstimmungssonntag vor Resultatanzeige",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Sich aus allem heraushalten als Prinzip gegen die Mehrheit, die sich nun aus der eigenen Initiative heraushält.",
+      "id": "1700-1",
+      "titel": "KOMMENTAR - Debakel für Blocher: Das wuchtige Nein zu einer starren Neutralität stärkt dem Bundesrat den Rücken",
+      "was": "Christoph Blocher mit ernster Miene am Abstimmungssonntag vor Mikrofonen",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: der Mann, der seit Jahrzehnten weiss, was das Volk will, gegen das Volk, das mit 70 Prozent anderer Meinung ist.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
-      "auch_bei": [
-        "NZZ",
-        "SRF"
-      ],
-      "artikel": "https://www.20min.ch/story/abstimmungen-live-resultate-neutralitaetsinitiative-ernaehrungsinitiative-103629591",
-      "bild": "https://image.20min.ch/2026/09/27/19262efd-c5f8-47e4-96ec-6757a0203dfb.jpg?s=277bf46ea2be168f9b23d969bfceb5f6",
-      "zeit": "2026-09-27T09:55+02:00"
-    },
-    {
-      "id": "1441-2",
-      "titel": "Papst wird in Paris gefeiert – Macron bleibt Messe fern",
-      "was": "Papst Leo XIV. im Papamobil vor der Menge auf der Place de la Concorde",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Ein laizistischer Präsident bleibt demonstrativ fern, während sein halbes Land auf dem grössten Platz der Republik Schlange steht.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "20 Minuten",
-      "auch_bei": [
-        "Tagesschau"
-      ],
-      "artikel": "https://www.20min.ch/story/paris-gefeiert-wie-ein-rockstar-papst-predigt-vor-800-000-menschen-103639934",
-      "bild": "https://image.20min.ch/2026/09/27/bf172785-e4f1-4406-ab77-a80423f05001.jpg?s=da5b7bc2c9dd4f769220a8cc2496209b",
-      "zeit": "2026-09-27T13:23+02:00"
-    },
-    {
-      "id": "1441-3",
-      "titel": "Die Schweiz als Vorreiterin: Wie sich ein Binnenland zur Surfnation mausert",
-      "was": "Surfer auf künstlicher Welle in einer Halle in Ebikon",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Ein Binnenland ohne Meer beansprucht Pioniergeist in einer Disziplin, die man eigentlich nur an der Küste lernt.",
-      "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "NZZ",
+      "auch_bei": [
+        "20 Minuten"
+      ],
+      "artikel": "https://www.nzz.ch/meinung/debakel-fuer-blocher-das-wuchtige-nein-zu-einer-starren-neutralitaet-staerkt-dem-bundesrat-den-ruecken-ld.10025507",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/03/973d0187-27de-45cf-a715-746fd23676b5.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4196,4196,x0,y792",
+      "zeit": "2026-09-27T13:11+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Abstimmung vom 27. September – Ernährungsinitiative scheitert mit 72.5 Prozent Nein-Stimmen",
+      "was": "Nein-Lager feiert mit Cervelat und Spiegelei, Bauernverband in Festlaune",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: eine Verfassungsfrage über die Landwirtschaft, entschieden von einer Wurst.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "SRF",
+      "auch_bei": [
+        "NZZ"
+      ],
+      "artikel": "https://www.srf.ch/news/schweiz/abstimmung-vom-27-september-ernaehrungsinitiative-scheitert-mit-72-5-prozent-nein-stimmen",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/575798.jpg",
+      "zeit": "2026-09-27T16:10+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Nigerias Präsident schwänzt die UNO: Regieren „per Fernbedienung“ – geht das?",
+      "was": "Nigerias Präsident Tinubu entspannt im Ausland statt am UNO-Rednerpult",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Ferien machen gegen Regieren im Homeoffice, das bei Staatschefs plötzlich Führungsstil heisst.",
+      "grund": "memetauglich",
+      "raum": "weltweit",
+      "quelle": "taz",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/sport/die-schweiz-als-vorreiterin-wie-sich-ein-binnenland-zur-surfnation-mausert-ld.10024526",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/26/1d9b0029-fbe8-4fe9-8fd4-82e535ea0721.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3301,3301,x142,y341",
-      "zeit": "2026-09-27T11:55+02:00"
+      "artikel": "https://taz.de/Nigerias-Praesident-schwaenzt-die-UNO/!6216668/",
+      "bild": "https://taz.de/picture/8764526/948/0767.jpeg",
+      "zeit": "2026-09-27T14:11+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute am späten Nachmittag",
-      "was": "Medienkonferenz des Bundesrats zu den Abstimmungsresultaten im Bundeshaus"
+      "wann": "heute Abend",
+      "was": "Andy Burnham winkt zum Auftakt des Labour-Parteitags in Liverpool"
     },
     {
-      "wann": "heute Abend",
-      "was": "Jürgen Klopp an der Seitenlinie bei seiner Heimpremiere gegen Griechenland"
+      "wann": "heute",
+      "was": "Papst Leo XIV. in Lourdes zwischen Pilgermassen und Grotte"
     }
   ],
   "hinweis": ""
