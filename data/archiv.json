@@ -15601,6 +15601,118 @@
         "neu": true
       },
       "datum": "2026-09-27"
+    },
+    {
+      "id": "2026-09-27-1620-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kein Staatsmenü, aber in Paris stehen 800'000 für eine Oblate an",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Kein Staatsmenü, sagt die Schweiz und lehnt die Ernährungsinitiative ab. Am selben Wochenende stehen in Paris 800'000 Menschen beim Papst für eine Oblate an, Einheitsmenü, ohne Abstimmung.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-09-27"
+    },
+    {
+      "id": "2026-09-27-1620-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bundesrat garantiert für die UBS, nicht für die Wasserstoffleitung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Für die UBS garantiert der Bundesrat Milliarden, für eine Wasserstoffleitung nicht. Klar, die Leitung könnte ja funktionieren. Ohne Boni.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-09-27"
+    },
+    {
+      "id": "2026-09-27-1620-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nach dem Neutralitäts-Nein droht Hilfe im Ernstfall",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, nach dem Nein zur Neutralitätsinitiative droht der Schweiz das Schlimmste. Im Ernstfall hilft ihr womöglich jemand. Ungefragt. Aus Europa.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      },
+      "datum": "2026-09-27"
+    },
+    {
+      "id": "2026-09-27-1620-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Frontex stärken, das Mittelmeer als Partner",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Europa will Frontex stärken. Weiss auch nicht, ob das Mittelmeer das allein noch schafft.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-27"
+    },
+    {
+      "id": "2026-09-27-1620-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bellinzona lehnt Burgen-Kredit ab, einfach beim VBS einreichen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Bellinzona lehnt 19 Millionen Franken für seine Burgen ab. Vielleicht einfach nochmal beim VBS einreichen, sind ja Verteidigungsanlagen, mit Zinnen und allem.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-09-27"
+    },
+    {
+      "id": "2026-09-27-1620-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Büropflicht für Bankangestellte, Geld arbeitet remote aus der Karibik",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Grossbanken holen ihre Angestellten zurück ins Büro, der Kultur zuliebe. Das Geld darf weiter von den Cayman Islands aus arbeiten, remote, seit Jahrzehnten, ohne Präsenzpflicht.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": false
+      },
+      "datum": "2026-09-27"
+    },
+    {
+      "id": "2026-09-27-1620-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "Cat Bonds auf Waldbrände, Röstis Klimapolitik als Wachstumsfonds",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Versicherer verkaufen das Risiko von Waldbränden und Überschwemmungen jetzt als «Cat Bonds» an Anleger. Läuft Albert Röstis Klimapolitik dann eigentlich unter Wachstumsfonds?",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": false
+      },
+      "datum": "2026-09-27"
     }
   ]
 }
