@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-23T08:04:02+02:00",
+  "stand": "2026-09-27T14:42:28+02:00",
   "vorschlaege": [
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Die UBS schreibt ihre Regeln selbst"
+        "Too big to fail ist ein Geschäftsmodell"
       ],
-      "warum": "die These stimmt, sobald die Grossbank ihre Eigenkapitalregeln im Ständerat mitverhandelt",
+      "warum": "Ermottis Angriff auf Schlegel beweist die These, die niemand widerlegen kann",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Einfach davon ausgehen",
-        "Den Vertrag lesen",
-        "VBS"
+        "Burgen verfallen lassen",
+        "19 Millionen fürs Weltkulturerbe",
+        "Stimmvolk Bellinzona"
       ],
-      "warum": "Pfister reisst beim F-35-Preis das Steuer zum Hoffen herum, statt nachzurechnen",
+      "warum": "das Nein kurz vor dem Ziel ist genau der Kurswechsel in letzter Sekunde",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Value Investing",
-        "Leistung zählt",
-        "Nachfolger Howard",
-        "Weil Sohn"
+        "Nestlé in 186 Ländern",
+        "Wasserrechte weltweit",
+        "6 Fabriken zwangsverwaltet",
+        "Moskau führt die Bücher"
       ],
-      "warum": "Buffetts Rückzug stellt den Kult um Leistung neben das Erben, das am Ende gewinnt",
+      "warum": "der Weltkonzern von früher gegen den enteigneten Bittsteller von heute",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "230 Kündigungen",
-        "Anpassung an den Marktdruck"
+        "Risiko an Anleger abschieben",
+        "Cat Bonds"
       ],
-      "warum": "DSM-Firmenich packt den Stellenabbau in Konzernsprache, und der Euphemismus liefert die Pointe gleich mit",
+      "warum": "der englische Finanzbegriff ist die vornehme Verpackung für dasselbe Abwälzen",
       "bild": "vorschlag-4.jpg"
     }
   ]
