@@ -15329,6 +15329,150 @@
         "neu": true
       },
       "datum": "2026-09-23"
+    },
+    {
+      "id": "2026-09-25-0758-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Cembra zieht nach Vontobel aus Zürich weg, nach Baden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Nach Vontobel verlässt auch Cembra Zürich. Richtung Baden, freiwillig, bei vollem Bewusstsein.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-0758-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nordkoreanische Drohnenbauer in Russland als fertig gedachtes SVP-Kontingent",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Bis zu 25'000 Nordkoreaner*innen bauen in Russland Drohnen, mehr als Appenzell Innerrhoden Einwohner*innen hat. Das SVP-Kontingentsmodell, fertig gedacht: kein Familiennachzug, kein Lohn, kein Ausgang.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-0758-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump sperrt Reporter wegen Fake News aus, er selbst bleibt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump sperrt Reporter wegen Fake News aus dem Weissen Haus aus. Seh ich das richtig, er darf bleiben?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-0758-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Israel muss sich schützen, Hirten tragen Milch nachts auf Eseln durch den Graben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Klar, Israel muss sich schützen. Im Westjordanland bringen Hirten ihre Milch nachts auf Eseln durch einen Graben, man weiss ja nie, was so ein Esel vorhat.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-0758-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Unbezahlte Arbeit, ausbezahlt in Muttertagskarten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Unbezahlte Arbeit ist in der Schweiz laut Bundesamt für Statistik 434 Milliarden Franken wert. Ausbezahlt wird sie in Muttertagskarten, jährlich, ohne Teuerungsausgleich.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-0758-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Klimademos «Keine 50-Grad-Sommer», die Mitte als Kompromiss bei 45",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, die Klimademos fordern radikal «keine 50-Grad-Sommer». Die Mitte schlägt 45 vor.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-0758-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ruhetage wie eine Zweitwohnung im Engadin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so viele Ruhetage haben wie eine Zweitwohnung im Engadin.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-0758-32",
+      "typ": "remix",
+      "stichwort": "Trump empfängt Xi pompös, leere Liste der so empfangenen Bundesrät*innen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump rollt Xi den roten Teppich aus: «Wir haben uns nie besser verstanden.» Hier alle Bundesrät*innen, die er je so empfangen hat:\n-\n-",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-0758-37",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne Frauenhaus, Notfallstation druckt den SBB-Fahrplan",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Im Thurgau gibt es kein eigenes Frauenhaus. Das ist, als würde die Notfallstation bei Herzstillstand den SBB-Fahrplan nach Winterthur ausdrucken, farbig und beidseitig.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-25"
     }
   ]
 }
