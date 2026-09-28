@@ -1,142 +1,27 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-28-2056-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "FDP gegen mehr Geld für die AHV, gleicher Tag Swiss Life streicht trotz Gewinn Stellen, vorsorglich",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Die FDP kämpft gegen mehr Geld für die AHV, man soll privat vorsorgen. Am selben Tag streicht Swiss Life trotz Gewinnanstieg fast jeden zwanzigsten Job, rein vorsorglich.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-28-2056-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "SP-Prämieninitiative, Bürgerliche warnen vor Umverteilung, dabei zahlen Pflegerin und Ermotti dieselbe Prämie",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Umverteilung, warnen die Bürgerlichen vor der SP-Prämieninitiative. Stimmt, heute zahlen die Pflegerin und Sergio Ermotti dieselbe Prämie, da gibt es nichts mehr zu verteilen.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-2056-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Klimawandel als Panikmache, Versicherer verkaufen ihre Unwetter per Cat Bonds an die Börse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Stimmt, der Klimawandel ist Panikmache. Darum verkaufen die Versicherer ihre Unwetter jetzt an der Börse.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-28-2056-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ab 55 auf dem Arbeitsmarkt abgeschrieben, ein Firmenwagen gäbe wenigstens einen Steuerabzug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ab 55 gilt man auf dem Arbeitsmarkt als abgeschrieben. Ein Firmenwagen bringt in dem Fall wenigstens noch einen Steuerabzug.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-2056-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Goldküsten-Villen gegen Zuwanderung stellen Sans-Papiers ohne Vertrag ein, wegen der Bürokratie",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Niemand stellt so gern Sans-Papiers ein wie die Villen an der Goldküste, die gegen Zuwanderung stimmen. Ohne Vertrag, wegen der Bürokratie.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-2056-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Brillenfassungen kosten 10 bis 1000 Franken, die Grundversicherung zahlt an beide gleich viel",
-      "plattform": "Threads + Bluesky",
+      "id": "2026-09-28-2116-31",
+      "typ": "schnittmenge",
+      "stichwort": "Referenzzins erhöht die Miete, 32 Grad im Schlafzimmer ergeben nur einen Lüftungstipp",
+      "plattform": "Threads + Instagram",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Brillenfassungen kosten 10 bis 1000 Franken. Die Grundversicherung zahlt Erwachsenen an beide gleich viel.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
+      "format": 1,
+      "text": "Steigt der Referenzzins, steigt die Miete. Steigt es im Schlafzimmer auf 32 Grad, heisst es «Lüften Sie halt nachts»."
     },
     {
-      "id": "2026-09-28-2056-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizer Männer bauen aus Kriegsangst Bunker in Thailand, Integration in den Bunker",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Schweizer Männer fliehen vor einem Krieg, der noch gar nicht angefangen hat, nach Thailand. Integrieren wollen sie sich dort in einen Bunker.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-2056-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Starship im Orbit als Musks Plan B, erst gründlich testen, mit ihm an Bord",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Starship hat erstmals den Orbit erreicht, Musks Plan B für die Menschheit. Vielleicht sollten wir das erst gründlich testen, mit ihm an Bord.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-2056-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der CEOs, die nach einem Verlustjahr ihren Bonus freiwillig zurückgezahlt haben",
+      "id": "2026-09-28-2116-32",
+      "typ": "remix",
+      "stichwort": "Felssturz in Uri wegen schmelzendem Eis im Fels, wartet die SVP aufs Rütli",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Hier eine Liste aller CEOs, die nach einem Verlustjahr ihren Bonus freiwillig zurückgezahlt haben:\n-\n-\nWird laufend ergänzt.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
+      "text": "In Uri bröckeln die Berge, weil ihr Eis schmilzt. Wartet die SVP aufs Rütli?"
     }
   ]
 }
