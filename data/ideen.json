@@ -1,172 +1,27 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-28-213723-v1",
-      "typ": "remix",
-      "stichwort": "Variante zu: Kerosin wird teurer, Mallorca kostet bald so viel wie Bahnfahren nach Chur",
-      "plattform": "Threads + Bluesky, IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kerosin wird teurer. Bald kostet Mallorca so viel wie Chur."
-    },
-    {
-      "id": "2026-09-28-213723-v2",
-      "typ": "remix",
-      "stichwort": "Variante zu: Kerosin wird teurer, Mallorca kostet bald so viel wie Bahnfahren nach Chur",
-      "plattform": "Threads + Bluesky, IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kerosin wird teurer. Die Airlines warnen vor Zuständen wie bei der SBB."
-    },
-    {
-      "id": "2026-09-28-213723-v3",
-      "typ": "remix",
-      "stichwort": "Variante zu: Kerosin wird teurer, Mallorca kostet bald so viel wie Bahnfahren nach Chur",
-      "plattform": "Threads + Bluesky, IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Benzin wird teurer. Horror, bald kostet der Arbeitsweg mit dem Auto so viel wie mit dem Zug."
-    },
-    {
-      "id": "2026-09-28-2116-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Tessin sagt nur hauchdünn Nein zur Neutralitätsinitiative, strikt neutral ist dort schon der Morgenstau in Chiasso",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Das Tessin wäre fast strikt neutral geworden. Wie jeden Morgen der Stau in Chiasso.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-09-28-2116-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Sheep Drive in London, Schafe frei über die Brücke, auch schwarze",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Moment, in London laufen Schafe einfach frei über die Brücke? Auch die schwarzen?",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-2116-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kapitalgewinne steuerfrei, Lohn nicht, Einkommen ist nur, wofür der Wecker klingelt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kapitalgewinne sind in der Schweiz steuerfrei, Lohn nicht. Als Einkommen gilt offenbar nur, wofür man um halb sechs den Wecker stellen musste.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-28-2116-17",
-      "typ": "politisch-aktuell",
-      "stichwort": "Griechenland lockt Fachkräfte mit Steuerrabatt, Schweizer Pauschalbesteuerung verlangt das Gegenteil von Arbeit",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Griechenland lockt seine ausgewanderten Fachkräfte mit Steuerrabatt zurück. Die Schweiz hat dasselbe Modell, bloss für reiche Ausländer*innen, die hier ausdrücklich nicht arbeiten dürfen.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-2116-18",
-      "typ": "politisch-aktuell",
-      "stichwort": "Paare streiten über die Kosten der Hormonspirale, er entdeckt die Selbstbestimmung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Paare streiten, wer die Hormonspirale bezahlt. Er so: Dein Körper, deine Entscheidung. Endlich Feminist, exakt bei der Rechnung.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-2116-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Shein-Aktie fällt zum Börsenstart, erstmals verliert jemand, der nicht näht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Shein-Aktie rutscht zum Börsenstart ab. Endlich verliert dort mal jemand, der nicht näht.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-28-2116-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ermottis Jahreslohn als Pflegekarriere seit Gründung des Bundesstaats, erste Nachtschicht bei Kerzenlicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Für den Jahreslohn von Sergio Ermotti müsste eine Pflegefachfrau seit der Gründung des Bundesstaats arbeiten. Die erste Nachtschicht hätte sie bei Kerzenlicht gemacht.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-2116-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rüstungskonzerne haben nichts gegen Frieden, er soll nur nicht ausbrechen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Rüstungskonzerne haben grundsätzlich nichts gegen den Frieden. Er sollte halt einfach nicht ausbrechen.",
-      "jury": {
-        "anker": false,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-2116-36",
+      "id": "2026-09-28-2139-11",
       "typ": "schnittmenge",
-      "stichwort": "Appenzell Innerrhoden voller Mietautos, zum Glück heben Autos an der Landsgemeinde keine Hand",
-      "plattform": "Threads + Bluesky",
+      "stichwort": "Robotaxi ohne Fahrer ist Innovation, Pflegeheim ohne Personal ist Nachtschicht",
+      "plattform": "Instagram + Threads",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Ein Robotaxi ohne Fahrer heisst Innovation. Ein Pflegeheim ohne Personal heisst Nachtschicht."
+    },
+    {
+      "id": "2026-09-28-2139-12",
+      "typ": "remix",
+      "stichwort": "FDP gegen Mehrwertsteuer für die 13. AHV-Rente, Erbschaftssteuer trifft die Falschen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Appenzell Innerrhoden ist voll mit Mietautos, die offiziell wohnen. Zum Glück heben Autos an der Landsgemeinde keine Hand, sonst regierte Sixt, mit Europcar in der Opposition.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "text": "Die 13. AHV-Rente soll über die Mehrwertsteuer kommen. FDP so: nein, trifft alle, und Erbschaftssteuer auch nein, trifft die Falschen."
     }
   ]
 }
