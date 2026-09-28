@@ -1,8 +1,38 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-28-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump lehnt Irans Hormus-Plan ab, am selben Tag EU-Winterwarnung: zieht euch warm an",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Iran so: Friedensplan, Strasse von Hormus wieder offen. Trump so: nö, Ölpreis rauf, und am selben Tag der EU-Energiechef so: Leute, zieht euch warm an."
+    },
+    {
+      "id": "2026-09-28-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nestlé blieb humanitär in Russland, Putin übernimmt die Fabriken, fragt die Ukraine",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Nestlé blieb aus humanitären Gründen in Russland, jetzt übernimmt Putin sechs Fabriken. Völlig überraschend, der Mann nimmt nie, was ihm nicht gehört, fragt die Ukraine."
+    },
+    {
+      "id": "2026-09-28-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bolsonaro sitzt, der Sohn kandidiert, wie bei Blochers nur mit Urteil",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Bolsonaro sitzt wegen Putschversuch, nun kandidiert der Sohn. Wie bei Blochers, nur mit Urteil."
+    },
     {
       "id": "2026-09-28-0757-11",
       "typ": "schnittmenge",
@@ -72,16 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Warum geht nach dem Kurssturz immer die Frau am Empfang und nie der Mann, der ihn verursacht hat? Frage an den Verwaltungsrat."
-    },
-    {
-      "id": "2026-09-28-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gewerkschaften sollen für mehr Lohn halt eine Bank versenken",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Verstehe die Gewerkschaften nicht. Wer mehr Lohn will, soll halt eine Bank versenken."
     }
   ]
 }
