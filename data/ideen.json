@@ -1,8 +1,48 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-28-2116-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kapitalgewinne steuerfrei, Lohn nicht, Einkommen ist nur, wofür der Wecker klingelt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Kapitalgewinne sind in der Schweiz steuerfrei, Lohn nicht. Als Einkommen gilt offenbar nur, wofür man um halb sechs den Wecker stellen musste."
+    },
+    {
+      "id": "2026-09-28-2116-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bordeaux im Genfer Zollfreilager altert besser betreut als Menschen im Pflegeheim",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so steuerfrei, klimatisiert und bewacht altern dürfen wie ein Bordeaux im Genfer Zollfreilager."
+    },
+    {
+      "id": "2026-09-28-2116-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Papizeit bringt Beförderung, Schwangerschaft bringt Nachruf vom Chef",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Mann nimmt Papizeit, Chef so: Respekt, moderner Vater, bald Teamleiter. Frau wird schwanger, Chef so: schade, war eine gute."
+    },
+    {
+      "id": "2026-09-28-2116-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rüstungsindustrie warnt vor Jobverlust ohne Waffenexporte, anderswo gehen Städte verloren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ohne Waffenexporte gehen in der Schweiz Arbeitsplätze verloren, warnt die Industrie. Anderswo gehen mit ihnen nur Städte verloren, samt Spitälern."
+    },
     {
       "id": "2026-09-28-2116-16",
       "typ": "schnittmenge",
@@ -62,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Wie kann man gegenüber Putin neutral sein wollen, aber nicht gegenüber Pendler*innen aus Como? Frage an die Lega, deren Tessin die Neutralitätsinitiative nur hauchdünn abgelehnt hat."
-    },
-    {
-      "id": "2026-09-28-2116-31",
-      "typ": "schnittmenge",
-      "stichwort": "Referenzzins erhöht die Miete, 32 Grad im Schlafzimmer ergeben nur einen Lüftungstipp",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Steigt der Referenzzins, steigt die Miete. Steigt es im Schlafzimmer auf 32 Grad, heisst es «Lüften Sie halt nachts»."
-    },
-    {
-      "id": "2026-09-28-2116-32",
-      "typ": "remix",
-      "stichwort": "Felssturz in Uri wegen schmelzendem Eis im Fels, wartet die SVP aufs Rütli",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "In Uri bröckeln die Berge, weil ihr Eis schmilzt. Wartet die SVP aufs Rütli?"
     }
   ]
 }
