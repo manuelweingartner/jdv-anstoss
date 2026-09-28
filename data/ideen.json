@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -34,18 +34,18 @@
       }
     },
     {
-      "id": "2026-09-28-2139-09",
+      "id": "2026-09-28-2139-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Neid auf das leere Ferienchalet in Verbier",
+      "stichwort": "Ukraine soll aufgeben für den Frieden, im besetzten Oleschky ist schon Frieden",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Einmal so gut wohnen wie ein leeres Ferienchalet in Verbier.",
+      "text": "Vielleicht sollte die Ukraine einfach aufgeben, dann ist Frieden. Im besetzten Oleschky ist schon Frieden, dort verhungern gerade 2000 Menschen ohne jeden Schusswechsel.",
       "jury": {
         "anker": true,
-        "witz": true,
-        "neu": false
+        "neu": true,
+        "witz": false
       }
     },
     {
@@ -61,36 +61,6 @@
         "anker": true,
         "neu": true,
         "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-2139-16",
-      "typ": "schnittmenge",
-      "stichwort": "Einbürgerung so schnell wie ein Sixt-Kombi in Appenzell Innerrhoden",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so schnell eingebürgert werden wie ein Sixt-Kombi in Appenzell Innerrhoden.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-2139-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Postfinance-App stundenlang weg, am selben Tag will die UBS weniger Eigenkapital, Generalprobe gelungen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Heute Morgen kam bei Postfinance stundenlang niemand an sein Geld. Am selben Tag verlangt die UBS weniger Eigenkapital: Generalprobe gelungen, Premiere folgt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
       }
     },
     {
@@ -139,18 +109,18 @@
       }
     },
     {
-      "id": "2026-09-28-2139-37",
+      "id": "2026-09-28-2139-36",
       "typ": "schnittmenge",
-      "stichwort": "Mietautos in Innerrhoden eingelöst, nie dort, Briefkastenfirmen mit Scheibenwischern",
+      "stichwort": "Appenzell Innerrhoden löst Mietautos schneller ein als es Menschen einbürgert, grüssen muss keins",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Mietautos sind in Appenzell Innerrhoden eingelöst und fahren nie hin. Briefkastenfirmen mit Scheibenwischern.",
+      "text": "In Appenzell Innerrhoden wird ein Mietauto schneller eingelöst als ein Mensch eingebürgert. Und keins muss vorher beweisen, dass es im Dorf grüsst.",
       "jury": {
         "anker": true,
-        "neu": true,
-        "witz": true
+        "witz": true,
+        "neu": false
       }
     }
   ]
