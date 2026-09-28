@@ -4,6 +4,36 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-09-28-2116-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor dem Wegzug der Superreichen, dann wohnen in Zug Leute, die dort arbeiten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe Angst, dass Superreiche wegziehen, wenn sie Steuern zahlen müssen. Dann wohnen in Zug plötzlich Leute, die dort arbeiten. Kaum auszuhalten.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-28-2116-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sheep Drive in London, Schafe frei über die Brücke, auch schwarze",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Moment, in London laufen Schafe einfach frei über die Brücke? Auch die schwarzen?",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
       "id": "2026-09-28-2116-07",
       "typ": "politisch-aktuell",
       "stichwort": "Kapitalgewinne steuerfrei, Lohn nicht, Einkommen ist nur, wofür der Wecker klingelt",
@@ -11,7 +41,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Kapitalgewinne sind in der Schweiz steuerfrei, Lohn nicht. Als Einkommen gilt offenbar nur, wofür man um halb sechs den Wecker stellen musste."
+      "text": "Kapitalgewinne sind in der Schweiz steuerfrei, Lohn nicht. Als Einkommen gilt offenbar nur, wofür man um halb sechs den Wecker stellen musste.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-09-28-2116-08",
@@ -21,67 +56,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so steuerfrei, klimatisiert und bewacht altern dürfen wie ein Bordeaux im Genfer Zollfreilager."
-    },
-    {
-      "id": "2026-09-28-2116-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Papizeit bringt Beförderung, Schwangerschaft bringt Nachruf vom Chef",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Mann nimmt Papizeit, Chef so: Respekt, moderner Vater, bald Teamleiter. Frau wird schwanger, Chef so: schade, war eine gute."
-    },
-    {
-      "id": "2026-09-28-2116-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rüstungsindustrie warnt vor Jobverlust ohne Waffenexporte, anderswo gehen Städte verloren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ohne Waffenexporte gehen in der Schweiz Arbeitsplätze verloren, warnt die Industrie. Anderswo gehen mit ihnen nur Städte verloren, samt Spitälern."
-    },
-    {
-      "id": "2026-09-28-2116-16",
-      "typ": "schnittmenge",
-      "stichwort": "Mietautos in Innerrhoden gemeldet, Neid auf die Steuerrechnung eines Sixt-Kombis",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so steuergünstig wohnen wie ein Mietauto in Appenzell Innerrhoden."
-    },
-    {
-      "id": "2026-09-28-2116-17",
-      "typ": "politisch-aktuell",
-      "stichwort": "Griechenland lockt Fachkräfte mit Steuerrabatt, Schweizer Pauschalbesteuerung verlangt das Gegenteil von Arbeit",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Griechenland lockt seine ausgewanderten Fachkräfte mit Steuerrabatt zurück. Die Schweiz hat dasselbe Modell, bloss für reiche Ausländer*innen, die hier ausdrücklich nicht arbeiten dürfen."
-    },
-    {
-      "id": "2026-09-28-2116-18",
-      "typ": "politisch-aktuell",
-      "stichwort": "Paare streiten über die Kosten der Hormonspirale, er entdeckt die Selbstbestimmung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Paare streiten, wer die Hormonspirale bezahlt. Er so: Dein Körper, deine Entscheidung. Endlich Feminist, exakt bei der Rechnung."
-    },
-    {
-      "id": "2026-09-28-2116-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "WEF-Tourismus-Index Top 10, am selben Tag streitet der Ständerat über Verträge mit den Gästen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Laut WEF gehört die Schweiz zu den zehn besten Tourismusländern der Welt. Am selben Tag streitet der Ständerat, ob man mit den Gästen auch Verträge haben darf."
+      "text": "Einmal so steuerfrei, klimatisiert und bewacht altern dürfen wie ein Bordeaux im Genfer Zollfreilager.",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      }
     },
     {
       "id": "2026-09-28-2116-22",
@@ -91,17 +71,87 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Shein-Aktie rutscht zum Börsenstart ab. Endlich verliert dort mal jemand, der nicht näht."
+      "text": "Shein-Aktie rutscht zum Börsenstart ab. Endlich verliert dort mal jemand, der nicht näht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-09-28-2116-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Tessin lehnt Neutralitätsinitiative hauchdünn ab, neutral zu Putin, nicht zu Pendler*innen aus Como",
+      "id": "2026-09-28-2116-24",
+      "typ": "schnittmenge",
+      "stichwort": "Angst vor Ausländer*innen, die operieren einen dann einfach, ohne Deutschtest",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wie kann man gegenüber Putin neutral sein wollen, aber nicht gegenüber Pendler*innen aus Como? Frage an die Lega, deren Tessin die Neutralitätsinitiative nur hauchdünn abgelehnt hat."
+      "text": "Habe Angst vor Ausländer*innen. Die operieren einen dann einfach. Mit Narkose, ohne Deutschtest.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-09-28-2116-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ermottis Jahreslohn als Pflegekarriere seit Gründung des Bundesstaats, erste Nachtschicht bei Kerzenlicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Für den Jahreslohn von Sergio Ermotti müsste eine Pflegefachfrau seit der Gründung des Bundesstaats arbeiten. Die erste Nachtschicht hätte sie bei Kerzenlicht gemacht.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-28-2116-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rüstungskonzerne haben nichts gegen Frieden, er soll nur nicht ausbrechen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Rüstungskonzerne haben grundsätzlich nichts gegen den Frieden. Er sollte halt einfach nicht ausbrechen.",
+      "jury": {
+        "anker": false,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-28-2116-36",
+      "typ": "schnittmenge",
+      "stichwort": "Appenzell Innerrhoden voller Mietautos, zum Glück heben Autos an der Landsgemeinde keine Hand",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Appenzell Innerrhoden ist voll mit Mietautos, die offiziell wohnen. Zum Glück heben Autos an der Landsgemeinde keine Hand, sonst regierte Sixt, mit Europcar in der Opposition.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-28-2116-37",
+      "typ": "politisch-aktuell",
+      "stichwort": "Freund will die Hälfte der Hormonspirale nicht zahlen, die Grundversicherung auch nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Sie bittet ihn, die Hälfte der Hormonspirale zu zahlen, er so: deine Sache. Die Grundversicherung so: sehen wir seit Jahrzehnten genauso.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
