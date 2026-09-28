@@ -1,8 +1,38 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-28-2056-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "SP-Prämieninitiative, Bürgerliche warnen vor Umverteilung, dabei zahlen Pflegerin und Ermotti dieselbe Prämie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Umverteilung, warnen die Bürgerlichen vor der SP-Prämieninitiative. Stimmt, heute zahlen die Pflegerin und Sergio Ermotti dieselbe Prämie, da gibt es nichts mehr zu verteilen."
+    },
+    {
+      "id": "2026-09-28-2056-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Starship erstmals im Erdorbit, gleiche Woche steigende Prämien, die sind längst dort oben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Starship hat diese Woche erstmals den Erdorbit erreicht, alle staunen. Weiss ehrlich nicht, warum, die Krankenkassenprämien sind seit Jahren dort, und die kommen nie wieder runter."
+    },
+    {
+      "id": "2026-09-28-2056-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Klimawandel als Panikmache, Versicherer verkaufen ihre Unwetter per Cat Bonds an die Börse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, der Klimawandel ist Panikmache. Darum verkaufen die Versicherer ihre Unwetter jetzt an der Börse."
+    },
     {
       "id": "2026-09-28-2056-11",
       "typ": "schnittmenge",
@@ -72,26 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Ab wann heisst ein unbezahltes Praktikum eigentlich nicht mehr Einstiegschance, sondern Aufnahmeprüfung fürs Elternhaus? Frage für die Kanzlei mit dem Diversity-Award."
-    },
-    {
-      "id": "2026-09-28-2056-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Einmal so zuverlässig erhöht werden wie die Dividende der eigenen Firma",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so zuverlässig jedes Jahr erhöht werden wie die Dividende der eigenen Firma."
-    },
-    {
-      "id": "2026-09-28-2056-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Blick nach oben ist Neiddebatte, Blick nach unten Missbrauchsdebatte",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer nach oben schaut, führt eine Neiddebatte. Wer nach unten schaut, eine Missbrauchsdebatte."
     }
   ]
 }
