@@ -4,14 +4,19 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-28-2043-04",
+      "id": "2026-09-28-2043-03",
       "typ": "politisch-aktuell",
-      "stichwort": "SP-Prämieninitiative mit Geld von Reichen, Gstaad zittert vor dem Briefkasten",
+      "stichwort": "Ständerat berät EU-Verträge, SVP ruft Unterwerfung, beim Trump-Zolldeal nur die Frage nach dem Geschenkpapier für die Rolex",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, die SP will die Prämien mit Geld von Reichen senken, das geht zu weit. Am Ende zittert auch Gstaad im Herbst vor dem Briefkasten."
+      "text": "Ständerat berät die EU-Verträge, SVP so: Unterwerfung, Kolonie, nie im Leben. Trump verlangt Zölle, SVP so: Soll die Rolex in Geschenkpapier?",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-28-2043-05",
@@ -21,17 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Habe Angst vor dem Gendersternchen. Einmal nicht aufgepasst, und schon sind Frauen mitgemeint."
-    },
-    {
-      "id": "2026-09-28-2043-06",
-      "typ": "schnittmenge",
-      "stichwort": "FDP: Leistung muss sich lohnen, schonend den Erb*innen beibringen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Leistung muss sich wieder lohnen, fordert die FDP. Hoffentlich bringt es jemand den Erb*innen am Zürichberg schonend bei."
+      "text": "Habe Angst vor dem Gendersternchen. Einmal nicht aufgepasst, und schon sind Frauen mitgemeint.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-28-2043-07",
@@ -41,37 +41,57 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 17,
-      "text": "Vom Tellerwäscher zum Millionär gibt es hier noch. Heisst jetzt: Tellerwäscher beim Millionär."
+      "text": "Vom Tellerwäscher zum Millionär gibt es hier noch. Heisst jetzt: Tellerwäscher beim Millionär.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-28-2043-08",
+      "id": "2026-09-28-2043-12",
+      "typ": "remix",
+      "stichwort": "Musk-Doku am ZFF ohne Tiefgang, nichts geliefert, das nennt man Werktreue",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Verstehe die Kritik an der Musk-Doku am Zurich Film Festival nicht. Vier Stunden ohne Tiefgang, nichts geliefert, was angekündigt war: Das nennt man Werktreue.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-28-2043-16",
       "typ": "politisch-aktuell",
-      "stichwort": "Teuerungsausgleich und Bonus, beide Male schwieriges Umfeld",
+      "stichwort": "UBS beschimpft die Nationalbank wegen Eigenkapital, Chill-Dialog aus Innerrhoden, Geisterfahrer bestimmt die Leitplanke",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Angestellte wollen Teuerungsausgleich, Chef so: nein, schwieriges Umfeld. Chef will Bonus, Verwaltungsrat so: klar, schwieriges Umfeld."
+      "text": "«Die UBS beschimpft die Nationalbank, weil die mehr Eigenkapital will?» «Chill, du bist in der Schweiz, hier bestimmt der Geisterfahrer die Leitplanke.»",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-28-2043-09",
+      "id": "2026-09-28-2043-17",
       "typ": "politisch-aktuell",
-      "stichwort": "Ab welchem Vermögen die Parkbusse zur Parkgebühr wird, Frage an den Cayenne",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ab welchem Vermögen wird aus einer Parkbusse eigentlich eine Parkgebühr? Frage für den Porsche Cayenne, der seit Montag auf dem Veloweg steht."
-    },
-    {
-      "id": "2026-09-28-2043-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Banker-Boni als Meilen für den Piloten nach der Bruchlandung",
+      "stichwort": "Russland leert die Zellen an die Front und plant sieben Supergefängnisse, für die Heimkehrer",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Banker-Boni nach Verlustjahren mit Talentbindung zu begründen ist, wie dem Piloten nach der Bruchlandung Meilen gutzuschreiben, damit er der Airline treu bleibt. Business Class. Auf Staatskosten."
+      "text": "Russland hat so viele Häftlinge an die Front geschickt, dass die Zellen leer stehen, und plant jetzt sieben neue Supergefängnisse. Für die Heimkehrer.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-28-2043-21",
@@ -81,27 +101,57 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Shein geht an die Börse, und am selben Tag soll man den Sommerflieder ausreissen, weil Schmetterlinge ihn lieben, obwohl er ihnen schadet. Beim Strauch klappt das."
+      "text": "Shein geht an die Börse, und am selben Tag soll man den Sommerflieder ausreissen, weil Schmetterlinge ihn lieben, obwohl er ihnen schadet. Beim Strauch klappt das.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-28-2043-22",
+      "id": "2026-09-28-2043-29",
       "typ": "politisch-aktuell",
-      "stichwort": "FDP-Kampagne gegen die Mehrwertsteuer für die 13. AHV-Rente, lieber Rentenalter rauf",
+      "stichwort": "Parkbusse gleich teuer im Porsche und im Panda, günstigster Parkplatz an der Bahnhofstrasse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Eine Parkbusse kostet im Porsche gleich viel wie im Fiat Panda. Im Panda ist sie eine Strafe, im Porsche der günstigste Parkplatz an der Bahnhofstrasse.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-28-2043-36",
+      "typ": "politisch-aktuell",
+      "stichwort": "Russland baut sieben Supergefängnisse, obwohl die Häftlinge an der Front sind",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Das Volk hat die 13. AHV-Rente beschlossen. FDP so: Mehrwertsteuer rauf, niemals, Kampagne, Plakate, lieber Rentenalter rauf, trifft ja nur die anderen."
+      "text": "Russlands Häftlinge kämpfen inzwischen an der Front, trotzdem baut Putin sieben neue Gefängnisse. Irgendwo müssen ja die hin, die das seltsam finden.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-28-2043-23",
+      "id": "2026-09-28-2043-38",
       "typ": "politisch-aktuell",
-      "stichwort": "SVP nennt die EU-Verträge Unterwerfung, den Goldbarren fürs Oval Office Diplomatie",
+      "stichwort": "UBS braucht angeblich kein zusätzliches Eigenkapital, gleicher Tag Postfinance-App-Störung",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die SVP nennt die EU-Verträge Unterwerfung. Den Goldbarren fürs Oval Office nannte sie Diplomatie."
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gleicher Tag: Die UBS braucht angeblich nicht mehr Eigenkapital, die Postfinance-App fällt aus. Behoben wurde nur eine der beiden Störungen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     }
   ]
 }
