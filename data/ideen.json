@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -79,18 +79,18 @@
       }
     },
     {
-      "id": "2026-09-28-2056-11",
-      "typ": "schnittmenge",
-      "stichwort": "König Haakon vorm Früchteregal heisst bodenständig, die Rentnerin, die die Mangos zurücklegt, heisst Eigenverantwortung",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Steht ein König vorm Früchteregal, heisst das «bodenständig». Steht eine Rentnerin davor und legt die Mangos zurück, heisst das «Eigenverantwortung».",
+      "id": "2026-09-28-2056-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Brillenfassungen kosten 10 bis 1000 Franken, die Grundversicherung zahlt an beide gleich viel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Brillenfassungen kosten 10 bis 1000 Franken. Die Grundversicherung zahlt Erwachsenen an beide gleich viel.",
       "jury": {
+        "witz": false,
         "anker": true,
-        "witz": true,
-        "neu": false
+        "neu": true
       }
     },
     {
@@ -109,48 +109,33 @@
       }
     },
     {
-      "id": "2026-09-28-2056-32",
-      "typ": "remix",
-      "stichwort": "Bodensee trocken, gleiche Woche erntet die Chemie Wasser aus Wüstenluft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Gleiche Woche, in der der Bodensee auf Rekordtief fällt, zeigt die Chemie, wie man Wasser aus Wüstenluft erntet. Erstes Einsatzgebiet: Altenrhein, hundert Meter vom Ufer.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-2056-37",
-      "typ": "schnittmenge",
-      "stichwort": "Hormonspirale, leere Liste der Männer, die von sich aus die Hälfte zahlen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier eine Liste aller Männer, die bei der Hormonspirale von sich aus die Hälfte überwiesen haben:\n-\n-\nTwint wäre offen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-2056-38",
+      "id": "2026-09-28-2056-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Ständerat sagt Ja zu EU-Verträgen, SVP warnt per WhatsApp vor fremden Mächten",
+      "stichwort": "Starship im Orbit als Musks Plan B, erst gründlich testen, mit ihm an Bord",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Ständerat sagt Ja zur EU, die SVP warnt per WhatsApp vor fremden Mächten.",
+      "text": "Starship hat erstmals den Orbit erreicht, Musks Plan B für die Menschheit. Vielleicht sollten wir das erst gründlich testen, mit ihm an Bord.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-28-2056-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der CEOs, die nach einem Verlustjahr ihren Bonus freiwillig zurückgezahlt haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier eine Liste aller CEOs, die nach einem Verlustjahr ihren Bonus freiwillig zurückgezahlt haben:\n-\n-\nWird laufend ergänzt.",
       "jury": {
         "anker": true,
-        "witz": true,
-        "neu": false
+        "witz": false,
+        "neu": true
       }
     }
   ]
