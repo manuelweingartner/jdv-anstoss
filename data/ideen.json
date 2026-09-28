@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-28-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump lehnt Irans Hormus-Plan ab, am selben Tag EU-Winterwarnung: zieht euch warm an",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Iran so: Friedensplan, Strasse von Hormus wieder offen. Trump so: nö, Ölpreis rauf, und am selben Tag der EU-Energiechef so: Leute, zieht euch warm an."
-    },
-    {
       "id": "2026-09-28-0757-02",
       "typ": "politisch-aktuell",
       "stichwort": "Nestlé blieb humanitär in Russland, Putin übernimmt die Fabriken, fragt die Ukraine",
@@ -21,7 +11,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Nestlé blieb aus humanitären Gründen in Russland, jetzt übernimmt Putin sechs Fabriken. Völlig überraschend, der Mann nimmt nie, was ihm nicht gehört, fragt die Ukraine."
+      "text": "Nestlé blieb aus humanitären Gründen in Russland, jetzt übernimmt Putin sechs Fabriken. Völlig überraschend, der Mann nimmt nie, was ihm nicht gehört, fragt die Ukraine.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
     },
     {
       "id": "2026-09-28-0757-03",
@@ -31,27 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Bolsonaro sitzt wegen Putschversuch, nun kandidiert der Sohn. Wie bei Blochers, nur mit Urteil."
-    },
-    {
-      "id": "2026-09-28-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ernährungsinitiative abgelehnt, sonst bestimmt noch wer anderes als Coop und Migros",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Zum Glück ist die Ernährungsinitiative abgelehnt. Sonst bestimmt noch wer anderes als Coop und Migros, was auf den Teller kommt, und das ohne Cumulus-Punkte."
-    },
-    {
-      "id": "2026-09-28-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kaffee plötzlich gesund: eine Studie reicht, beim Klima reichen vierzig Jahre nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kaffee ist laut neuen Studien plötzlich gesund. Seh ich das richtig, beim Kaffee reicht eine Studie, beim Klima reichen vierzig Jahre nicht?"
+      "text": "Bolsonaro sitzt wegen Putschversuch, nun kandidiert der Sohn. Wie bei Blochers, nur mit Urteil.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-28-0757-06",
@@ -61,17 +41,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Der Papst betet in Lourdes für die Kranken. Endlich eine Therapie ohne Vertrauensarzt."
+      "text": "Der Papst betet in Lourdes für die Kranken. Endlich eine Therapie ohne Vertrauensarzt.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-28-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "Kinder zu teuer ist Egoismus, Stellen zu teuer ist Verantwortung",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
+      "id": "2026-09-28-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kriegsgewinnler steht jetzt in der Anlageberatung unter defensiv",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Bekommen Paare keine Kinder, weil sie zu teuer sind, heisst das «Egoismus». Verlagert ein Konzern Stellen, weil sie zu teuer sind, heisst das «Verantwortung»."
+      "format": 3,
+      "text": "Kriegsgewinnler war mal ein Schimpfwort. Heute steht es im Anlagevorschlag der Hausbank, unter «defensiv».",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-28-0757-12",
@@ -81,27 +71,86 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Ermotti kritisiert die Nationalbank scharf. Alle Rettungen der Schweiz durch die UBS, eine Übersicht:\n-\n-"
+      "text": "Ermotti kritisiert die Nationalbank scharf. Alle Rettungen der Schweiz durch die UBS, eine Übersicht:\n-\n-",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-09-28-0757-16",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau hat Strassenverkehrsamt, Staatsarchiv und Fischereiverwaltung, aber kein Frauenhaus",
+      "id": "2026-09-28-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Brasilien: Lula gleichauf mit dem Sohn des verurteilten Putschisten, Erbrecht schlägt Strafrecht",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 15,
-      "text": "Der Kanton Thurgau hat ein Strassenverkehrsamt, ein Staatsarchiv und eine Jagd- und Fischereiverwaltung. Ein eigenes Frauenhaus hat er nicht."
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "In Brasilien liegen Lula und der Sohn eines verurteilten Putschisten gleichauf. Erbrecht schlägt Strafrecht.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-28-0757-17",
-      "typ": "schnittmenge",
-      "stichwort": "Einmal so günstig in Innerrhoden gemeldet sein wie ein Mietauto",
+      "id": "2026-09-28-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump hat recht mit Kuba, dreimal mehr Ärzt*innen pro Kopf als die USA",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so günstig in Appenzell Innerrhoden gemeldet sein wie ein Mietauto. Nie dort gewesen, steuerlich trotzdem daheim."
+      "text": "Trump hat recht, Kuba ist gefährlich. Dreimal mehr Ärzt*innen pro Kopf als die USA.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-28-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gewerkschaften sollen für mehr Lohn halt eine Bank versenken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Verstehe die Gewerkschaften nicht. Wer mehr Lohn will, soll halt eine Bank versenken.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-28-0757-31",
+      "typ": "schnittmenge",
+      "stichwort": "Kinder als finanzielles Risiko, die UBS laut Ermotti nicht",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Kinder gelten inzwischen als zu grosses finanzielles Risiko. Die UBS laut Sergio Ermotti nicht.",
+      "jury": {
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-28-0757-36",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neutralität abgelehnt, der Thurgau lebt sie ohne Frauenhaus weiter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Neutralitätsinitiative ist abgelehnt, der Thurgau lebt sie trotzdem: kein eigenes Frauenhaus, in fremde Konflikte mischt man sich nicht ein. Auch nicht in der Küche.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
