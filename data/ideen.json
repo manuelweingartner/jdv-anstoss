@@ -1,8 +1,38 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-28-2116-16",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautos in Innerrhoden gemeldet, Neid auf die Steuerrechnung eines Sixt-Kombis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so steuergünstig wohnen wie ein Mietauto in Appenzell Innerrhoden."
+    },
+    {
+      "id": "2026-09-28-2116-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Griechenland lockt Fachkräfte mit Steuerrabatt, Schweizer Pauschalbesteuerung verlangt das Gegenteil von Arbeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Griechenland lockt seine ausgewanderten Fachkräfte mit Steuerrabatt zurück. Die Schweiz hat dasselbe Modell, bloss für reiche Ausländer*innen, die hier ausdrücklich nicht arbeiten dürfen."
+    },
+    {
+      "id": "2026-09-28-2116-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Paare streiten über die Kosten der Hormonspirale, er entdeckt die Selbstbestimmung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Paare streiten, wer die Hormonspirale bezahlt. Er so: Dein Körper, deine Entscheidung. Endlich Feminist, exakt bei der Rechnung."
+    },
     {
       "id": "2026-09-28-2116-21",
       "typ": "politisch-aktuell",
