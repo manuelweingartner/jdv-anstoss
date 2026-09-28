@@ -1,142 +1,27 @@
 {
-  "datum": "2026-09-27",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "datum": "2026-09-28",
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-27-2020-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Cassis nach dem Nein: dreimal neutral, blinzeln wenn Blocher im Raum ist",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ignazio Cassis nach dem Nein zur Neutralitätsinitiative: «Wir waren neutral, wir sind neutral und wir bleiben neutral.» Blinzeln Sie zweimal, wenn Blocher mit im Raum ist.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-27-2020-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Waffenruhe in Gaza bröckelt, vor allem die Häuser",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Die Waffenruhe in Gaza bröckelt, heisst es. Bröckeln tun dort vor allem die Häuser.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-27-2020-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nothelferkurs für die Psyche überbrückt die Wartezeit auf den Therapieplatz",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Stimmt, super, dass Laien jetzt Erste Hilfe für die Psyche lernen. Irgendwer muss ja die Wartezeit auf einen Therapieplatz überbrücken, ungefähr eine Schwangerschaft lang.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-27-2020-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Griechenland: beide Seiten hören, Hochwasser und Weltwoche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Erst Waldbrände, jetzt Erdrutsche in Griechenland. Muss man beide Seiten hören: Hochwasser und Weltwoche.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-27-2020-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wohnungsmarkt als Versteigerung der Titanic-Rettungsboote, mit Betreibungsauszug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wohnungen dem freien Markt zu überlassen heisst, auf der Titanic die Rettungsboote zu versteigern. Mit Besichtigung, Warteliste und Betreibungsauszug.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-27-2020-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Grosse Vermögen regulieren wie den Wolf, proaktiv und ohne Schaden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Vielleicht sollten wir grosse Vermögen behandeln wie den Wolf: Ab einem bestimmten Bestand wird reguliert, proaktiv, auch ohne nachgewiesenen Schaden.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-27-2020-16",
+      "id": "2026-09-28-0757-11",
       "typ": "schnittmenge",
-      "stichwort": "Mietautos mit AI-Nummer wegen tiefer Autosteuer, der Opel Corsa mit Steuerberater",
-      "plattform": "Threads + Bluesky",
+      "stichwort": "Kinder zu teuer ist Egoismus, Stellen zu teuer ist Verantwortung",
+      "plattform": "Threads + Bluesky + Instagram",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Mietautos lösen ihre Nummern in Appenzell Innerrhoden ein, weil die Autosteuer dort so tief ist. Selbst ein Opel Corsa hat in diesem Land einen Steuerberater.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-27-2020-32",
-      "typ": "remix",
-      "stichwort": "Blocher sieht nach dem Neutralitäts-Nein mehr Kriegsgefahr, leere Liste der Angreifer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Blocher sieht nach dem Neutralitäts-Nein mehr Kriegsgefahr. Hier alle Länder, die deshalb angreifen wollen:\n-\n-",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-27-2020-37",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau ohne eigenes Frauenhaus, sie muss weg, er behält den Parkplatz",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Im Thurgau gibt es kein eigenes Frauenhaus. Sie muss weg, er behält den Parkplatz.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
+      "text": "Bekommen Paare keine Kinder, weil sie zu teuer sind, heisst das «Egoismus». Verlagert ein Konzern Stellen, weil sie zu teuer sind, heisst das «Verantwortung»."
+    },
+    {
+      "id": "2026-09-28-0757-12",
+      "typ": "remix",
+      "stichwort": "Ermotti kritisiert die Nationalbank, leere Liste der Rettungen der Schweiz durch die UBS",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ermotti kritisiert die Nationalbank scharf. Alle Rettungen der Schweiz durch die UBS, eine Übersicht:\n-\n-"
     }
   ]
 }
