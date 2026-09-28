@@ -1,8 +1,38 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-28-2043-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "SP-Prämieninitiative mit Geld von Reichen, Gstaad zittert vor dem Briefkasten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, die SP will die Prämien mit Geld von Reichen senken, das geht zu weit. Am Ende zittert auch Gstaad im Herbst vor dem Briefkasten."
+    },
+    {
+      "id": "2026-09-28-2043-05",
+      "typ": "schnittmenge",
+      "stichwort": "Angst vor dem Gendersternchen, plötzlich Frauen mitgemeint",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe Angst vor dem Gendersternchen. Einmal nicht aufgepasst, und schon sind Frauen mitgemeint."
+    },
+    {
+      "id": "2026-09-28-2043-06",
+      "typ": "schnittmenge",
+      "stichwort": "FDP: Leistung muss sich lohnen, schonend den Erb*innen beibringen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Leistung muss sich wieder lohnen, fordert die FDP. Hoffentlich bringt es jemand den Erb*innen am Zürichberg schonend bei."
+    },
     {
       "id": "2026-09-28-2043-21",
       "typ": "politisch-aktuell",
