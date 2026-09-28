@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,46 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Trotz gleichem Referenzzins könnten viele eine Mietsenkung verlangen. Tut man aber nicht, am Ende muss die Vermieterin noch das Chalet in Verbier verkaufen, das dritte."
+    },
+    {
+      "id": "2026-09-28-1150-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kündigungsschutz wie ein Verwaltungsratsmandat nach dem Milliardenverlust",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so gut vor Kündigung geschützt sein wie ein Verwaltungsratsmandat nach einem Milliardenverlust."
+    },
+    {
+      "id": "2026-09-28-1150-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Nationalrät*innen, die vom Mindestlohn gelebt haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Nationalrät*innen, die gegen den Mindestlohn gestimmt und selbst einmal einen Monat lang davon gelebt haben:\n-\n-"
+    },
+    {
+      "id": "2026-09-28-1150-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Konzernchef braucht Bonus als Anreiz, Reinigungskraft einen Wecker",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Warum braucht ein Konzernchef einen Bonus, damit er sich anstrengt, und die Reinigungskraft um fünf Uhr früh nur einen Wecker? Frage für den Arbeitgeberverband."
+    },
+    {
+      "id": "2026-09-28-1150-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Arme spielen Lotto, Reiche kaufen Bitcoin, NZZ so",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Arme spielen Lotto, NZZ so: irrational, Bildungsferne, traurig. Reiche kaufen Bitcoin, NZZ so: Risikobereitschaft, genau das fehlt der Schweiz."
     },
     {
       "id": "2026-09-28-1150-11",
