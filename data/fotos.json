@@ -1,55 +1,56 @@
 {
-  "stand": "2026-09-28T08:06:09+02:00",
-  "lauf": "0805",
+  "stand": "2026-09-28T17:00:34+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0805-1",
-      "titel": "Zuschlag für München: Olympia ist kein Allheilmittel",
-      "was": "Münchner Delegation jubelt mit Olympiaringen und Konfetti nach dem Zuschlag",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, die Jubelpose neben die Kosten gestellt. Achse: eine Stadt feiert, dass sie sich dem IOC unterwerfen darf, und nennt es Sieg.",
+      "id": "1700-1",
+      "titel": "LIVE-TICKER - «Unterwerfung» oder «Abschottung»? Im Ständerat läuft die grosse Debatte über die neuen EU-Verträge",
+      "was": "Ständeräte im Saal, Marco Chiesa am Rednerpult, dicke Aktenstapel zu den Verträgen",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, die 2000 Seiten gegen die Aufmerksamkeitsspanne im Saal. Achse: Schicksalsdebatte über Souveränität gegen gähnende Routine einer Marathonsitzung.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "taz",
+      "raum": "schweiz",
+      "quelle": "NZZ",
       "auch_bei": [
-        "NZZ"
+        "20 Minuten",
+        "SRF"
       ],
-      "artikel": "https://taz.de/Zuschlag-fuer-Muenchen/!6211775/",
-      "bild": "https://taz.de/picture/8765426/948/621660898.jpeg",
-      "zeit": "2026-09-27T17:49+02:00"
+      "artikel": "https://www.nzz.ch/schweiz/unterwerfung-oder-abschottung-im-staenderat-beginnt-die-grosse-debatte-ueber-die-neuen-eu-vertraege-ld.10025773",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/28/2105041e-feaa-4c7a-bdc5-b470952dab21.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4727,4727,x1182,y0",
+      "zeit": "2026-09-28T13:55+02:00"
     },
     {
-      "id": "0805-2",
-      "titel": "China-USA: Pandas Ping Ping und Fu Shuang sind in Atlanta gelandet",
-      "was": "Zwei Riesenpandas in Transportkisten vor einer Fedex-Boeing in Atlanta",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Pandas als eingeflogene Diplomaten. Achse: Supermächte, die nicht miteinander reden können, schicken Tiere per Express, die das für sie erledigen sollen.",
+      "id": "1700-2",
+      "titel": "Nach Aufregung im Netz: Amthor verzichtet auf Strandkorb im Kanzleramt",
+      "was": "Philipp Amthor mit Strandkorb auf dem Balkon im Kanzleramt",
+      "richtung": "Mechanik: umetikettieren derselben Handlung, das Möbel als Regierungsprogramm lesen. Achse: Ostsee-Gemütlichkeit im Büro gegen den Sparappell an alle anderen.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Spiegel",
+      "quelle": "taz",
       "auch_bei": [
-        "20 Minuten"
+        "Spiegel"
       ],
-      "artikel": "https://www.spiegel.de/ausland/china-usa-pandas-ping-ping-und-fu-shuang-sind-in-atlanta-gelandet-a-241c520c-b4c7-4266-9fd9-a1fda9154327#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/c90f68fc-7cfe-4520-aafa-0974c4c42c2c_w520_r2.08_fpx59_fpy41.jpg",
-      "zeit": "2026-09-28T02:56+02:00"
+      "artikel": "https://taz.de/Nach-Aufregung-im-Netz/!6217060/",
+      "bild": "https://taz.de/picture/8766783/948/42190265.jpeg",
+      "zeit": "2026-09-28T14:15+02:00"
     },
     {
-      "id": "0805-3",
-      "titel": "Zwei Initiativen versenkt – Doppeltes Nein und dreifache Freude in der Präsidentenrunde",
-      "was": "Parteipräsidenten in der TV-Runde, lächelnde Gesichter neben einem geknickten Dettling",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Nein des Abstimmungssonntags wird als Neutralität der Stimmbevölkerung gegenüber der SVP gelesen. Achse: eine Partei will die Schweiz neutral halten, u",
+      "id": "1700-3",
+      "titel": "Nein zu Neutralitätsinitiative – Ist die Ära Blocher jetzt definitiv vorbei?",
+      "was": "Christoph Blocher mit ernster Miene am Abstimmungssonntag vor Mikrofonen",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Übervater, der sich als Stimme des Volkes versteht, gegen ein Volk, das ihm gerade widersprochen hat.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/zwei-initiativen-versenkt-doppeltes-nein-und-dreifache-freude-in-der-praesidentenrunde",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/efd4b5.jpg",
-      "zeit": "2026-09-27T20:28+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/nein-zu-neutralitaetsinitiative-ist-die-aera-blocher-jetzt-definitiv-vorbei",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/cad019a.jpg",
+      "zeit": "2026-09-28T16:47+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute im Tagesverlauf",
-      "was": "Hendrik Wüst auf Türkeireise bei Terminen mit Handschlag und Gastgebern"
+      "wann": "heute bis in den Abend",
+      "was": "Ständerat in der EU-Debatte, Redner am Pult und leere Sitzreihen"
     }
   ],
   "hinweis": ""
