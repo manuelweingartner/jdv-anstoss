@@ -16304,6 +16304,134 @@
         "neu": false
       },
       "datum": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-2043-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sommerflieder schadet Schmetterlingen und ist darum im Verkauf verboten, Frage an die Bauernlobby wegen der Pestizide",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Sommerflieder schadet Schmetterlingen, darum ist er im Verkauf verboten. Und Pestizide, liebe Bauernlobby?",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      },
+      "datum": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-2043-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ständerat berät EU-Verträge, SVP ruft Unterwerfung, beim Trump-Zolldeal nur die Frage nach dem Geschenkpapier für die Rolex",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ständerat berät die EU-Verträge, SVP so: Unterwerfung, Kolonie, nie im Leben. Trump verlangt Zölle, SVP so: Soll die Rolex in Geschenkpapier?",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      },
+      "datum": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-2043-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vom Tellerwäscher zum Millionär, heute als Tellerwäscher beim Millionär",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Vom Tellerwäscher zum Millionär gibt es hier noch. Heisst jetzt: Tellerwäscher beim Millionär.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-2043-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ab welchem Vermögen die Parkbusse zur Parkgebühr wird, Frage an den Cayenne",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ab welchem Vermögen wird aus einer Parkbusse eigentlich eine Parkgebühr? Frage für den Porsche Cayenne, der seit Montag auf dem Veloweg steht.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-2043-12",
+      "typ": "remix",
+      "stichwort": "Musk-Doku am ZFF ohne Tiefgang, nichts geliefert, das nennt man Werktreue",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Verstehe die Kritik an der Musk-Doku am Zurich Film Festival nicht. Vier Stunden ohne Tiefgang, nichts geliefert, was angekündigt war: Das nennt man Werktreue.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-2043-16",
+      "typ": "politisch-aktuell",
+      "stichwort": "UBS beschimpft die Nationalbank wegen Eigenkapital, Chill-Dialog aus Innerrhoden, Geisterfahrer bestimmt die Leitplanke",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "«Die UBS beschimpft die Nationalbank, weil die mehr Eigenkapital will?» «Chill, du bist in der Schweiz, hier bestimmt der Geisterfahrer die Leitplanke.»",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-2043-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Russland leert die Zellen an die Front und plant sieben Supergefängnisse, für die Heimkehrer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Russland hat so viele Häftlinge an die Front geschickt, dass die Zellen leer stehen, und plant jetzt sieben neue Supergefängnisse. Für die Heimkehrer.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-2043-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Le Pen feiert ein paar Senatssitze als historisch, bei der SVP wäre das eine Wahlschlappe",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Marine Le Pen feiert ein paar Senatssitze als historischen Sieg. Die SVP nennt das Wahlschlappe.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-09-28"
     }
   ]
 }
