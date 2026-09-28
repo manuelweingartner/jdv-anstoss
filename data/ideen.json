@@ -1,8 +1,23 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-09-28-2043-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sommerflieder schadet Schmetterlingen und ist darum im Verkauf verboten, Frage an die Bauernlobby wegen der Pestizide",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Sommerflieder schadet Schmetterlingen, darum ist er im Verkauf verboten. Und Pestizide, liebe Bauernlobby?",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
+    },
     {
       "id": "2026-09-28-2043-03",
       "typ": "politisch-aktuell",
@@ -19,21 +34,6 @@
       }
     },
     {
-      "id": "2026-09-28-2043-05",
-      "typ": "schnittmenge",
-      "stichwort": "Angst vor dem Gendersternchen, plötzlich Frauen mitgemeint",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Habe Angst vor dem Gendersternchen. Einmal nicht aufgepasst, und schon sind Frauen mitgemeint.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-09-28-2043-07",
       "typ": "politisch-aktuell",
       "stichwort": "Vom Tellerwäscher zum Millionär, heute als Tellerwäscher beim Millionär",
@@ -45,6 +45,21 @@
       "jury": {
         "anker": false,
         "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-28-2043-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ab welchem Vermögen die Parkbusse zur Parkgebühr wird, Frage an den Cayenne",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ab welchem Vermögen wird aus einer Parkbusse eigentlich eine Parkgebühr? Frage für den Porsche Cayenne, der seit Montag auf dem Veloweg steht.",
+      "jury": {
+        "anker": true,
+        "witz": false,
         "neu": true
       }
     },
@@ -94,63 +109,18 @@
       }
     },
     {
-      "id": "2026-09-28-2043-21",
+      "id": "2026-09-28-2043-18",
       "typ": "politisch-aktuell",
-      "stichwort": "Shein geht an die Börse, am selben Tag soll der Sommerflieder raus, beim Strauch klappt das",
+      "stichwort": "Le Pen feiert ein paar Senatssitze als historisch, bei der SVP wäre das eine Wahlschlappe",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Shein geht an die Börse, und am selben Tag soll man den Sommerflieder ausreissen, weil Schmetterlinge ihn lieben, obwohl er ihnen schadet. Beim Strauch klappt das.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-2043-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Parkbusse gleich teuer im Porsche und im Panda, günstigster Parkplatz an der Bahnhofstrasse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Eine Parkbusse kostet im Porsche gleich viel wie im Fiat Panda. Im Panda ist sie eine Strafe, im Porsche der günstigste Parkplatz an der Bahnhofstrasse.",
+      "text": "Marine Le Pen feiert ein paar Senatssitze als historischen Sieg. Die SVP nennt das Wahlschlappe.",
       "jury": {
         "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-28-2043-36",
-      "typ": "politisch-aktuell",
-      "stichwort": "Russland baut sieben Supergefängnisse, obwohl die Häftlinge an der Front sind",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Russlands Häftlinge kämpfen inzwischen an der Front, trotzdem baut Putin sieben neue Gefängnisse. Irgendwo müssen ja die hin, die das seltsam finden.",
-      "jury": {
-        "anker": true,
-        "witz": true,
+        "witz": false,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-2043-38",
-      "typ": "politisch-aktuell",
-      "stichwort": "UBS braucht angeblich kein zusätzliches Eigenkapital, gleicher Tag Postfinance-App-Störung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Gleicher Tag: Die UBS braucht angeblich nicht mehr Eigenkapital, die Postfinance-App fällt aus. Behoben wurde nur eine der beiden Störungen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
       }
     }
   ]
