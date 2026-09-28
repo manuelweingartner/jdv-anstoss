@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -136,21 +136,6 @@
         "anker": true,
         "neu": true,
         "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-1150-38",
-      "typ": "politisch-aktuell",
-      "stichwort": "SRG-Hack mit 340 SRF-Mitarbeitenden, Rösti will die Liste",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Hacker haben bei der SRG die Daten von 340 SRF-Mitarbeitenden erbeutet. Albert Rösti so: oh nein, ganz schlimm. Schickt ihr mir die Liste?",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
       }
     }
   ]
