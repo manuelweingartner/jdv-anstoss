@@ -1,8 +1,38 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-28-2043-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Shein geht an die Börse, am selben Tag soll der Sommerflieder raus, beim Strauch klappt das",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Shein geht an die Börse, und am selben Tag soll man den Sommerflieder ausreissen, weil Schmetterlinge ihn lieben, obwohl er ihnen schadet. Beim Strauch klappt das."
+    },
+    {
+      "id": "2026-09-28-2043-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "FDP-Kampagne gegen die Mehrwertsteuer für die 13. AHV-Rente, lieber Rentenalter rauf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Das Volk hat die 13. AHV-Rente beschlossen. FDP so: Mehrwertsteuer rauf, niemals, Kampagne, Plakate, lieber Rentenalter rauf, trifft ja nur die anderen."
+    },
+    {
+      "id": "2026-09-28-2043-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "SVP nennt die EU-Verträge Unterwerfung, den Goldbarren fürs Oval Office Diplomatie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die SVP nennt die EU-Verträge Unterwerfung. Den Goldbarren fürs Oval Office nannte sie Diplomatie."
+    },
     {
       "id": "2026-09-28-2043-31",
       "typ": "schnittmenge",
