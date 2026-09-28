@@ -1,142 +1,27 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-28-1150-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "KI bedroht die Menschheit, darum darf sie vorerst nur über Kredite und Wohnungen entscheiden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Stimmt, die KI ist eine Bedrohung für die Menschheit, finden in einer Umfrage 79 Prozent. Darum entscheidet sie vorerst nur über Kredite, Bewerbungen und Wohnungen, zum Üben.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": false
-      }
-    },
-    {
-      "id": "2026-09-28-1150-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mietsenkung trotz gleichem Referenzzins, aus Rücksicht auf das dritte Chalet der Vermieterin",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Trotz gleichem Referenzzins könnten viele eine Mietsenkung verlangen. Tut man aber nicht, am Ende muss die Vermieterin noch das Chalet in Verbier verkaufen, das dritte.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-28-1150-12",
-      "typ": "remix",
-      "stichwort": "Zollpause für China, die Schweiz hätte Seltene Erden statt Goldbarren schenken sollen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Trump verlängert Chinas Zollpause. Die Schweiz hätte halt Seltene Erden statt Goldbarren schenken sollen.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-28-1150-18",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hacker stehlen SRF-Mitarbeitendendaten, Rösti will die Stellen gleich ganz löschen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Hacker stehlen bei der SRG die Daten von 340 SRF-Mitarbeitenden. Albert Rösti so: Amateure. Ich lösch gleich die ganzen Stellen.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-28-1150-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neue Prämien, illegale Vermittleranrufe als einziger Teil des Gesundheitswesens ohne Wartezeit",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Kaum sind die neuen Prämien da, ruft trotz Verbot der Krankenkassenvermittler an. Endlich etwas im Gesundheitswesen ohne Wartezeit und ohne Überweisung.",
-      "jury": {
-        "neu": false,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-09-28-1150-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Iran kapert US-Drohne, unverschämt, Sachen vor der eigenen Haustür einzusammeln",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Iran kapert schon wieder eine US-Drohne im Golf von Hormus. Unverschämt, einfach Sachen einzusammeln, die jemand vor die eigene Haustür gestellt hat.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-1150-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Die Jugend will nicht mehr arbeiten, holt nur zwölf Medaillen an der Berufs-WM",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Junge wollen halt nicht mehr arbeiten. Holen an der Berufs-WM nur zwölf Medaillen.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-1150-31",
+      "id": "2026-09-28-1238-31",
       "typ": "schnittmenge",
-      "stichwort": "Madrid räumt eine 87-Jährige, leere Wohnungen bewacht die Polizei",
-      "plattform": "Threads + Bluesky + Instagram",
+      "stichwort": "Tourist aus Singapur in Giswil, Rolex in Luzern gibt Champagner, Motorradpanne gibt Schlitzaugen-Geste",
+      "plattform": "Instagram + Threads",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Wohnt eine 87-Jährige in Madrid zu lange in ihrer Wohnung, räumt die Polizei. Wohnt niemand drin, schiebt sie Wache.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
+      "text": "Kauft ein Tourist aus Singapur in Luzern eine Rolex, bekommt er Champagner. Bittet er in Giswil um Hilfe mit dem Motorrad, gibt es gratis die Schlitzaugen-Geste."
     },
     {
-      "id": "2026-09-28-1150-32",
+      "id": "2026-09-28-1238-32",
       "typ": "remix",
-      "stichwort": "Vučić tritt zurück, um Premier zu werden, Opposition nebenher",
+      "stichwort": "Putin schliesst fast jede zweite Dorfschule, leere Liste der geschlossenen Rüstungsfabriken",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Serbiens Vučić tritt zurück, um Premier zu werden. Die Opposition macht er nebenher.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "text": "Putin hat fast jede zweite Dorfschule geschlossen. Hier alle Rüstungsfabriken, die dafür zumachen mussten:\n-\n-"
     }
   ]
 }
