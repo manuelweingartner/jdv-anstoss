@@ -4,46 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-28-1150-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Illegale Krankenkassenanrufe nach den neuen Prämien, der Vermittler macht als Einziger noch Hausbesuche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seit die neuen Prämien bekannt sind, klingelt jeden Abend ein Krankenkassen-Vermittler. Der Einzige im Gesundheitswesen, der noch Hausbesuche macht, ohne Wartezeit, auch sonntags."
-    },
-    {
-      "id": "2026-09-28-1150-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Swiss Life baut trotz Gewinnanstieg Stellen ab, Neid auf die Dividende",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Swiss Life baut trotz Gewinnanstieg Stellen ab. Einmal so sicher sein wie die Dividende."
-    },
-    {
-      "id": "2026-09-28-1150-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Icardi nennt Fahrverbot bis 2099 Schikane, Shein an der Börse, bei den Näher*innen heisst Schikane Schichtplan",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Mauro Icardi kriegt für ein Video Fahrverbot bis 2099 und nennt das Schikane. Gleiche Woche geht Shein an die Börse, bei den Näher*innen heisst Schikane Schichtplan."
-    },
-    {
-      "id": "2026-09-28-1150-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor den Kosten des Klimaschutzes, belegt mit den Milliarden des Hitzesommers",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor den Kosten vom Klimaschutz. Allein der Hitzesommer hat Milliarden gekostet."
-    },
-    {
       "id": "2026-09-28-1150-05",
       "typ": "politisch-aktuell",
       "stichwort": "KI bedroht die Menschheit, darum darf sie vorerst nur über Kredite und Wohnungen entscheiden",
@@ -51,7 +11,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Stimmt, die KI ist eine Bedrohung für die Menschheit, finden in einer Umfrage 79 Prozent. Darum entscheidet sie vorerst nur über Kredite, Bewerbungen und Wohnungen, zum Üben."
+      "text": "Stimmt, die KI ist eine Bedrohung für die Menschheit, finden in einer Umfrage 79 Prozent. Darum entscheidet sie vorerst nur über Kredite, Bewerbungen und Wohnungen, zum Üben.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": false
+      }
     },
     {
       "id": "2026-09-28-1150-06",
@@ -61,47 +26,132 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Trotz gleichem Referenzzins könnten viele eine Mietsenkung verlangen. Tut man aber nicht, am Ende muss die Vermieterin noch das Chalet in Verbier verkaufen, das dritte."
+      "text": "Trotz gleichem Referenzzins könnten viele eine Mietsenkung verlangen. Tut man aber nicht, am Ende muss die Vermieterin noch das Chalet in Verbier verkaufen, das dritte.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-09-28-1150-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kündigungsschutz wie ein Verwaltungsratsmandat nach dem Milliardenverlust",
+      "id": "2026-09-28-1150-12",
+      "typ": "remix",
+      "stichwort": "Zollpause für China, die Schweiz hätte Seltene Erden statt Goldbarren schenken sollen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so gut vor Kündigung geschützt sein wie ein Verwaltungsratsmandat nach einem Milliardenverlust."
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Trump verlängert Chinas Zollpause. Die Schweiz hätte halt Seltene Erden statt Goldbarren schenken sollen.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-09-28-1150-08",
+      "id": "2026-09-28-1150-18",
       "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Nationalrät*innen, die vom Mindestlohn gelebt haben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Nationalrät*innen, die gegen den Mindestlohn gestimmt und selbst einmal einen Monat lang davon gelebt haben:\n-\n-"
-    },
-    {
-      "id": "2026-09-28-1150-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Konzernchef braucht Bonus als Anreiz, Reinigungskraft einen Wecker",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Warum braucht ein Konzernchef einen Bonus, damit er sich anstrengt, und die Reinigungskraft um fünf Uhr früh nur einen Wecker? Frage für den Arbeitgeberverband."
-    },
-    {
-      "id": "2026-09-28-1150-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Arme spielen Lotto, Reiche kaufen Bitcoin, NZZ so",
+      "stichwort": "Hacker stehlen SRF-Mitarbeitendendaten, Rösti will die Stellen gleich ganz löschen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Arme spielen Lotto, NZZ so: irrational, Bildungsferne, traurig. Reiche kaufen Bitcoin, NZZ so: Risikobereitschaft, genau das fehlt der Schweiz."
+      "text": "Hacker stehlen bei der SRG die Daten von 340 SRF-Mitarbeitenden. Albert Rösti so: Amateure. Ich lösch gleich die ganzen Stellen.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-09-28-1150-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neue Prämien, illegale Vermittleranrufe als einziger Teil des Gesundheitswesens ohne Wartezeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Kaum sind die neuen Prämien da, ruft trotz Verbot der Krankenkassenvermittler an. Endlich etwas im Gesundheitswesen ohne Wartezeit und ohne Überweisung.",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-09-28-1150-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Iran kapert US-Drohne, unverschämt, Sachen vor der eigenen Haustür einzusammeln",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Iran kapert schon wieder eine US-Drohne im Golf von Hormus. Unverschämt, einfach Sachen einzusammeln, die jemand vor die eigene Haustür gestellt hat.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-28-1150-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Die Jugend will nicht mehr arbeiten, holt nur zwölf Medaillen an der Berufs-WM",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Junge wollen halt nicht mehr arbeiten. Holen an der Berufs-WM nur zwölf Medaillen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-28-1150-31",
+      "typ": "schnittmenge",
+      "stichwort": "Madrid räumt eine 87-Jährige, leere Wohnungen bewacht die Polizei",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Wohnt eine 87-Jährige in Madrid zu lange in ihrer Wohnung, räumt die Polizei. Wohnt niemand drin, schiebt sie Wache.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-28-1150-32",
+      "typ": "remix",
+      "stichwort": "Vučić tritt zurück, um Premier zu werden, Opposition nebenher",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Serbiens Vučić tritt zurück, um Premier zu werden. Die Opposition macht er nebenher.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-28-1150-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "SRG-Hack mit 340 SRF-Mitarbeitenden, Rösti will die Liste",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Hacker haben bei der SRG die Daten von 340 SRF-Mitarbeitenden erbeutet. Albert Rösti so: oh nein, ganz schlimm. Schickt ihr mir die Liste?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
