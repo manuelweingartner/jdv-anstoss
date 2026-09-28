@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -31,6 +31,21 @@
         "anker": true,
         "neu": true,
         "witz": true
+      }
+    },
+    {
+      "id": "2026-09-28-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ernährungsinitiative abgelehnt, sonst bestimmt noch wer anderes als Coop und Migros",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Zum Glück ist die Ernährungsinitiative abgelehnt. Sonst bestimmt noch wer anderes als Coop und Migros, was auf den Teller kommt, und das ohne Cumulus-Punkte.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
       }
     },
     {
@@ -76,21 +91,6 @@
         "anker": true,
         "witz": true,
         "neu": false
-      }
-    },
-    {
-      "id": "2026-09-28-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Brasilien: Lula gleichauf mit dem Sohn des verurteilten Putschisten, Erbrecht schlägt Strafrecht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "In Brasilien liegen Lula und der Sohn eines verurteilten Putschisten gleichauf. Erbrecht schlägt Strafrecht.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
       }
     },
     {
