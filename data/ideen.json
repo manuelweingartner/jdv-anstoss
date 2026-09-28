@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -19,18 +19,18 @@
       }
     },
     {
-      "id": "2026-09-28-1238-04",
+      "id": "2026-09-28-1238-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Wohnungsabgabe, Angst vor Mieterschutz, Vermieterin entkalkt selbst",
+      "stichwort": "Doku Naza, israelische Soldaten über Gaza im Schweizer Kino, Bundesrat wartet auf Quelle",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor mehr Mieterschutz. Am Ende muss die Vermieterin beim Auszug ihren Boiler selbst entkalken, wie ein ganz normaler Mensch.",
+      "text": "Im Schweizer Kino erzählen israelische Soldaten, wie ihre Armee in Gaza vorging. Der Bundesrat wartet auf eine unabhängige Quelle, am liebsten die Pressestelle der Armee.",
       "jury": {
-        "witz": true,
+        "witz": false,
         "anker": true,
-        "neu": false
+        "neu": true
       }
     },
     {
@@ -132,21 +132,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 1,
       "text": "Kauft ein Tourist aus Singapur in Luzern eine Rolex, bekommt er Champagner. Bittet er in Giswil um Hilfe mit dem Motorrad, gibt es gratis die Schlitzaugen-Geste.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-28-1238-32",
-      "typ": "remix",
-      "stichwort": "Putin schliesst fast jede zweite Dorfschule, leere Liste der geschlossenen Rüstungsfabriken",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Putin hat fast jede zweite Dorfschule geschlossen. Hier alle Rüstungsfabriken, die dafür zumachen mussten:\n-\n-",
       "jury": {
         "anker": true,
         "witz": true,
