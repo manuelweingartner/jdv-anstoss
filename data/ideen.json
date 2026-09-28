@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -34,6 +34,46 @@
       "text": "Leistung muss sich wieder lohnen, fordert die FDP. Hoffentlich bringt es jemand den Erb*innen am Zürichberg schonend bei."
     },
     {
+      "id": "2026-09-28-2043-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vom Tellerwäscher zum Millionär, heute als Tellerwäscher beim Millionär",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Vom Tellerwäscher zum Millionär gibt es hier noch. Heisst jetzt: Tellerwäscher beim Millionär."
+    },
+    {
+      "id": "2026-09-28-2043-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Teuerungsausgleich und Bonus, beide Male schwieriges Umfeld",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Angestellte wollen Teuerungsausgleich, Chef so: nein, schwieriges Umfeld. Chef will Bonus, Verwaltungsrat so: klar, schwieriges Umfeld."
+    },
+    {
+      "id": "2026-09-28-2043-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ab welchem Vermögen die Parkbusse zur Parkgebühr wird, Frage an den Cayenne",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ab welchem Vermögen wird aus einer Parkbusse eigentlich eine Parkgebühr? Frage für den Porsche Cayenne, der seit Montag auf dem Veloweg steht."
+    },
+    {
+      "id": "2026-09-28-2043-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Banker-Boni als Meilen für den Piloten nach der Bruchlandung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Banker-Boni nach Verlustjahren mit Talentbindung zu begründen ist, wie dem Piloten nach der Bruchlandung Meilen gutzuschreiben, damit er der Airline treu bleibt. Business Class. Auf Staatskosten."
+    },
+    {
       "id": "2026-09-28-2043-21",
       "typ": "politisch-aktuell",
       "stichwort": "Shein geht an die Börse, am selben Tag soll der Sommerflieder raus, beim Strauch klappt das",
@@ -62,26 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Die SVP nennt die EU-Verträge Unterwerfung. Den Goldbarren fürs Oval Office nannte sie Diplomatie."
-    },
-    {
-      "id": "2026-09-28-2043-31",
-      "typ": "schnittmenge",
-      "stichwort": "Hälfte der Hormonspirale zahlen: plötzlich «ihr Körper, ihre Entscheidung», bei Abtreibung plötzlich eine Meinung",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Soll er die Hälfte der Hormonspirale zahlen, heisst es «ihr Körper, ihre Entscheidung». Geht es um Abtreibung, hat er plötzlich eine Meinung."
-    },
-    {
-      "id": "2026-09-28-2043-32",
-      "typ": "remix",
-      "stichwort": "Vier Stunden Musk-Doku am Zurich Film Festival, leere Liste der neuen Erkenntnisse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Vier Stunden Elon-Musk-Doku am Zurich Film Festival. Hier alle neuen Erkenntnisse, die man danach hat:\n-\n-"
     }
   ]
 }
