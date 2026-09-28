@@ -1,8 +1,38 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-28-2116-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "WEF-Tourismus-Index Top 10, am selben Tag streitet der Ständerat über Verträge mit den Gästen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Laut WEF gehört die Schweiz zu den zehn besten Tourismusländern der Welt. Am selben Tag streitet der Ständerat, ob man mit den Gästen auch Verträge haben darf."
+    },
+    {
+      "id": "2026-09-28-2116-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Shein-Aktie fällt zum Börsenstart, erstmals verliert jemand, der nicht näht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Shein-Aktie rutscht zum Börsenstart ab. Endlich verliert dort mal jemand, der nicht näht."
+    },
+    {
+      "id": "2026-09-28-2116-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tessin lehnt Neutralitätsinitiative hauchdünn ab, neutral zu Putin, nicht zu Pendler*innen aus Como",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Wie kann man gegenüber Putin neutral sein wollen, aber nicht gegenüber Pendler*innen aus Como? Frage an die Lega, deren Tessin die Neutralitätsinitiative nur hauchdünn abgelehnt hat."
+    },
     {
       "id": "2026-09-28-2116-31",
       "typ": "schnittmenge",
