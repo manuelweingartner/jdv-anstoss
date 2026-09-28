@@ -4,6 +4,36 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-09-28-2056-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Marathondebatte im Ständerat zu den EU-Verträgen, die SVP läuft rückwärts Richtung Rütli",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Marathondebatte im Ständerat über die EU-Verträge. Die SVP läuft die Strecke rückwärts, Richtung Rütli."
+    },
+    {
+      "id": "2026-09-28-2056-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizer Männer bauen wegen Europa einen Bunker in Thailand und fragen Flüchtende nach dem nächsten sicheren Land",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stürmische Zeiten in Europa, Schweizer Männer so: Haus in Thailand, bald ein Bunker. Flüchtende so: Europa, und dieselben Männer so: Wieso nicht ins nächste sichere Land?"
+    },
+    {
+      "id": "2026-09-28-2056-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "FDP gegen mehr Geld für die AHV, gleicher Tag Swiss Life streicht trotz Gewinn Stellen, vorsorglich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Die FDP kämpft gegen mehr Geld für die AHV, man soll privat vorsorgen. Am selben Tag streicht Swiss Life trotz Gewinnanstieg fast jeden zwanzigsten Job, rein vorsorglich."
+    },
+    {
       "id": "2026-09-28-2056-04",
       "typ": "politisch-aktuell",
       "stichwort": "SP-Prämieninitiative, Bürgerliche warnen vor Umverteilung, dabei zahlen Pflegerin und Ermotti dieselbe Prämie",
@@ -72,36 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Mietautos mit Innerrhoder Nummer sind Zuger Briefkastenfirmen mit Rädern. Sitzheizung inklusive."
-    },
-    {
-      "id": "2026-09-28-2056-18",
-      "typ": "schnittmenge",
-      "stichwort": "Zürich steht im Stau, die Autosteuer kassiert Appenzell Innerrhoden, von Autos, die den Säntis nur aus dem Navi kennen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seh ich das richtig, Zürich steht im Stau, und die Autosteuer dafür kassiert Appenzell Innerrhoden? Von Autos, die den Säntis nur aus dem Navi kennen."
-    },
-    {
-      "id": "2026-09-28-2056-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der CEOs, die nach einem Verlustjahr ihren Bonus freiwillig zurückgezahlt haben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier eine Liste aller CEOs, die nach einem Verlustjahr ihren Bonus freiwillig zurückgezahlt haben:\n-\n-\nWird laufend ergänzt."
-    },
-    {
-      "id": "2026-09-28-2056-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Unbezahltes Praktikum als Aufnahmeprüfung fürs Elternhaus, Frage an die Kanzlei mit Diversity-Award",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ab wann heisst ein unbezahltes Praktikum eigentlich nicht mehr Einstiegschance, sondern Aufnahmeprüfung fürs Elternhaus? Frage für die Kanzlei mit dem Diversity-Award."
     }
   ]
 }
