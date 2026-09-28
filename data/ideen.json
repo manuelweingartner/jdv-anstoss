@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Israelische Ex-Soldaten erzählen im Kinofilm «Naza», was ihre Armee in Gaza getan hat. Reicht das dem Bundesrat für «besorgt», oder wartet er aufs Streaming?"
+    },
+    {
+      "id": "2026-09-28-1238-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor fremden Richtern, Trumps Botschafterin in Athen stürzt Regierungen ohne Gericht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe echt Angst vor fremden Richtern aus Brüssel. Trumps Botschafterin in Athen soll gesagt haben, Regierungen stürzen könne man «überall», immerhin ohne Gerichtsverfahren."
+    },
+    {
+      "id": "2026-09-28-1238-25",
+      "typ": "schnittmenge",
+      "stichwort": "Sportwetten als Private Equity für Leute ohne Equity",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Sportwetten ruinieren Existenzen? Ach was, das ist Private Equity für Leute ohne Equity."
+    },
+    {
+      "id": "2026-09-28-1238-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neutral bleiben, während Drohnen Schulen in Kyjiw und Odessa treffen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, die Schweiz muss neutral bleiben. Russische Drohnen treffen in Kyjiw und Odessa Schulen und Kliniken, und irgendwer muss ja unparteiisch zuschauen."
     },
     {
       "id": "2026-09-28-1238-31",
