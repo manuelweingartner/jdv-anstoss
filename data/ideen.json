@@ -4,6 +4,36 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-09-28-1150-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Illegale Krankenkassenanrufe nach den neuen Prämien, der Vermittler macht als Einziger noch Hausbesuche",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seit die neuen Prämien bekannt sind, klingelt jeden Abend ein Krankenkassen-Vermittler. Der Einzige im Gesundheitswesen, der noch Hausbesuche macht, ohne Wartezeit, auch sonntags."
+    },
+    {
+      "id": "2026-09-28-1150-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Swiss Life baut trotz Gewinnanstieg Stellen ab, Neid auf die Dividende",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Swiss Life baut trotz Gewinnanstieg Stellen ab. Einmal so sicher sein wie die Dividende."
+    },
+    {
+      "id": "2026-09-28-1150-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Icardi nennt Fahrverbot bis 2099 Schikane, Shein an der Börse, bei den Näher*innen heisst Schikane Schichtplan",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Mauro Icardi kriegt für ein Video Fahrverbot bis 2099 und nennt das Schikane. Gleiche Woche geht Shein an die Börse, bei den Näher*innen heisst Schikane Schichtplan."
+    },
+    {
       "id": "2026-09-28-1150-04",
       "typ": "politisch-aktuell",
       "stichwort": "Angst vor den Kosten des Klimaschutzes, belegt mit den Milliarden des Hitzesommers",
@@ -72,36 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Arme spielen Lotto, NZZ so: irrational, Bildungsferne, traurig. Reiche kaufen Bitcoin, NZZ so: Risikobereitschaft, genau das fehlt der Schweiz."
-    },
-    {
-      "id": "2026-09-28-1150-11",
-      "typ": "schnittmenge",
-      "stichwort": "Madrid räumt 87-Jährige, beim Fonds hiesse dasselbe Enteignung",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Nimmt man in Madrid einer 87-Jährigen die Wohnung, heisst das «Räumung». Nimmt man einem Immobilienfonds die Mieterhöhung, heisst das «Enteignung»."
-    },
-    {
-      "id": "2026-09-28-1150-12",
-      "typ": "remix",
-      "stichwort": "Zollpause für China, die Schweiz hätte Seltene Erden statt Goldbarren schenken sollen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Trump verlängert Chinas Zollpause. Die Schweiz hätte halt Seltene Erden statt Goldbarren schenken sollen."
-    },
-    {
-      "id": "2026-09-28-1150-36",
-      "typ": "politisch-aktuell",
-      "stichwort": "Griechenland lockt Fachkräfte mit Steuervorteilen, Innerrhoden lockt so Mietautos",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Griechenland lockt diese Woche seine Fachkräfte mit Steuervorteilen zurück. Appenzell Innerrhoden macht das seit Jahren mit Mietautos, einziehen muss keins."
     }
   ]
 }
