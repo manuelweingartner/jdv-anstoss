@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "4 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Die 13. AHV-Rente soll über die Mehrwertsteuer kommen. FDP so: nein, trifft alle, und Erbschaftssteuer auch nein, trifft die Falschen."
+    },
+    {
+      "id": "2026-09-28-2139-16",
+      "typ": "schnittmenge",
+      "stichwort": "Einbürgerung so schnell wie ein Sixt-Kombi in Appenzell Innerrhoden",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so schnell eingebürgert werden wie ein Sixt-Kombi in Appenzell Innerrhoden."
+    },
+    {
+      "id": "2026-09-28-2139-17",
+      "typ": "schnittmenge",
+      "stichwort": "Tiefste Prämien der Schweiz in Innerrhoden, weil dort Mietautos wohnen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Nirgends sind die Krankenkassenprämien so tief wie in Appenzell Innerrhoden. Klar, dort wohnen vor allem Mietautos, und die gehen höchstens in den Service, ohne Franchise."
     }
   ]
 }
