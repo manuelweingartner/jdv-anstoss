@@ -4,6 +4,21 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-09-28-2139-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Swiss Life streicht trotz Gewinn Jobs, am selben Tag wirft Starship die untere Stufe ab",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Swiss Life streicht trotz Gewinnanstieg fast jeden zwanzigsten Job. Am selben Tag erreicht Starship den Orbit, ebenfalls nach planmässigem Abwurf der unteren Stufe.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
       "id": "2026-09-28-2139-04",
       "typ": "politisch-aktuell",
       "stichwort": "Felssturz am Gross Ruchen wegen tauendem Eis, die Angst vor den Kosten des Klimaschutzes",
@@ -11,47 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst, dass uns der Klimaschutz ruiniert. Am Gross Ruchen taut das Eis im Berg einfach so, und der Felssturz kostet keinen Rappen Lenkungsabgabe."
-    },
-    {
-      "id": "2026-09-28-2139-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ukraine soll aufgeben für den Frieden, im besetzten Oleschky ist schon Frieden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Vielleicht sollte die Ukraine einfach aufgeben, dann ist Frieden. Im besetzten Oleschky ist schon Frieden, dort verhungern gerade 2000 Menschen ohne jeden Schusswechsel."
-    },
-    {
-      "id": "2026-09-28-2139-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ära Blocher nach dem Neutralitäts-Nein vorbei, jetzt kommt die Ära Blocher",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, nach dem Neutralitäts-Nein ist die Ära Blocher vorbei. Jetzt kommt die Ära Blocher."
-    },
-    {
-      "id": "2026-09-28-2139-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trickle-down als leere Liste, die Löhne sickern seit der Steuersenkung nicht durch",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Löhne, die seit der letzten Unternehmenssteuersenkung nach unten durchgesickert sind:\n-\n-\nWir warten weiter. Mit Kübel."
-    },
-    {
-      "id": "2026-09-28-2139-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pflegende wollen Lohn, Rohstoffhändler will Briefkasten in Zug, Nespresso oder Champagner",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Pflegende wollen mehr Lohn, Schweiz so: wer soll das bezahlen? Ein Rohstoffhändler will einen Briefkasten in Zug, Schweiz so: Nespresso oder Champagner?"
+      "text": "Habe Angst, dass uns der Klimaschutz ruiniert. Am Gross Ruchen taut das Eis im Berg einfach so, und der Felssturz kostet keinen Rappen Lenkungsabgabe.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-28-2139-09",
@@ -61,27 +41,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so gut wohnen wie ein leeres Ferienchalet in Verbier."
-    },
-    {
-      "id": "2026-09-28-2139-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Banken verkaufen Rüstung als grüne Anlage, wegen der Tarnfarbe",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seit wann gilt eine Granate eigentlich als nachhaltig? Frage an die Banken, die Rüstung als grüne Anlage verkaufen, wegen der Tarnfarbe vermutlich."
-    },
-    {
-      "id": "2026-09-28-2139-11",
-      "typ": "schnittmenge",
-      "stichwort": "Robotaxi ohne Fahrer ist Innovation, Pflegeheim ohne Personal ist Nachtschicht",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Ein Robotaxi ohne Fahrer heisst Innovation. Ein Pflegeheim ohne Personal heisst Nachtschicht."
+      "text": "Einmal so gut wohnen wie ein leeres Ferienchalet in Verbier.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-28-2139-12",
@@ -91,7 +56,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Die 13. AHV-Rente soll über die Mehrwertsteuer kommen. FDP so: nein, trifft alle, und Erbschaftssteuer auch nein, trifft die Falschen."
+      "text": "Die 13. AHV-Rente soll über die Mehrwertsteuer kommen. FDP so: nein, trifft alle, und Erbschaftssteuer auch nein, trifft die Falschen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-28-2139-16",
@@ -101,7 +71,87 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so schnell eingebürgert werden wie ein Sixt-Kombi in Appenzell Innerrhoden."
+      "text": "Einmal so schnell eingebürgert werden wie ein Sixt-Kombi in Appenzell Innerrhoden.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-28-2139-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Postfinance-App stundenlang weg, am selben Tag will die UBS weniger Eigenkapital, Generalprobe gelungen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Heute Morgen kam bei Postfinance stundenlang niemand an sein Geld. Am selben Tag verlangt die UBS weniger Eigenkapital: Generalprobe gelungen, Premiere folgt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-28-2139-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neue Automarken fordern die alten Konzerne heraus, unfair, die bauen einfach, was man kaufen will",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, die neuen Automarken sind eine unfaire Konkurrenz. Die bauen einfach Autos, die Leute kaufen wollen, bei VW musste man dafür noch die Messwerte anpassen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-28-2139-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ära Blocher nach dem Nein vorbei, wer sagt mir jetzt, wovor ich Angst haben muss",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Blocher verliert, seine Ära sei vorbei. Wer sagt mir, wovor ich Angst haben muss?",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-28-2139-32",
+      "typ": "remix",
+      "stichwort": "Erstes Robotaxi der Schweiz im Furttal, niemand am Steuer, Testbetrieb bei der Credit Suisse",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Erstes Robotaxi der Schweiz, niemand am Steuer. Testbetrieb lief jahrelang bei der Credit Suisse.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-28-2139-37",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautos in Innerrhoden eingelöst, nie dort, Briefkastenfirmen mit Scheibenwischern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Mietautos sind in Appenzell Innerrhoden eingelöst und fahren nie hin. Briefkastenfirmen mit Scheibenwischern.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
