@@ -1,21 +1,21 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-28-2116-05",
+      "id": "2026-09-28-2116-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Angst vor dem Wegzug der Superreichen, dann wohnen in Zug Leute, die dort arbeiten",
+      "stichwort": "Tessin sagt nur hauchdünn Nein zur Neutralitätsinitiative, strikt neutral ist dort schon der Morgenstau in Chiasso",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst, dass Superreiche wegziehen, wenn sie Steuern zahlen müssen. Dann wohnen in Zug plötzlich Leute, die dort arbeiten. Kaum auszuhalten.",
+      "text": "Das Tessin wäre fast strikt neutral geworden. Wie jeden Morgen der Stau in Chiasso.",
       "jury": {
         "anker": true,
         "neu": true,
-        "witz": true
+        "witz": false
       }
     },
     {
@@ -49,18 +49,33 @@
       }
     },
     {
-      "id": "2026-09-28-2116-08",
+      "id": "2026-09-28-2116-17",
       "typ": "politisch-aktuell",
-      "stichwort": "Bordeaux im Genfer Zollfreilager altert besser betreut als Menschen im Pflegeheim",
+      "stichwort": "Griechenland lockt Fachkräfte mit Steuerrabatt, Schweizer Pauschalbesteuerung verlangt das Gegenteil von Arbeit",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Griechenland lockt seine ausgewanderten Fachkräfte mit Steuerrabatt zurück. Die Schweiz hat dasselbe Modell, bloss für reiche Ausländer*innen, die hier ausdrücklich nicht arbeiten dürfen.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-28-2116-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Paare streiten über die Kosten der Hormonspirale, er entdeckt die Selbstbestimmung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so steuerfrei, klimatisiert und bewacht altern dürfen wie ein Bordeaux im Genfer Zollfreilager.",
+      "text": "Paare streiten, wer die Hormonspirale bezahlt. Er so: Dein Körper, deine Entscheidung. Endlich Feminist, exakt bei der Rechnung.",
       "jury": {
-        "witz": true,
-        "neu": false,
-        "anker": true
+        "anker": true,
+        "witz": false,
+        "neu": true
       }
     },
     {
@@ -76,21 +91,6 @@
         "anker": true,
         "witz": true,
         "neu": false
-      }
-    },
-    {
-      "id": "2026-09-28-2116-24",
-      "typ": "schnittmenge",
-      "stichwort": "Angst vor Ausländer*innen, die operieren einen dann einfach, ohne Deutschtest",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Habe Angst vor Ausländer*innen. Die operieren einen dann einfach. Mit Narkose, ohne Deutschtest.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
       }
     },
     {
@@ -132,21 +132,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Appenzell Innerrhoden ist voll mit Mietautos, die offiziell wohnen. Zum Glück heben Autos an der Landsgemeinde keine Hand, sonst regierte Sixt, mit Europcar in der Opposition.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-2116-37",
-      "typ": "politisch-aktuell",
-      "stichwort": "Freund will die Hälfte der Hormonspirale nicht zahlen, die Grundversicherung auch nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Sie bittet ihn, die Hälfte der Hormonspirale zu zahlen, er so: deine Sache. Die Grundversicherung so: sehen wir seit Jahrzehnten genauso.",
       "jury": {
         "anker": true,
         "neu": true,
