@@ -1,142 +1,27 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-28-1238-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ständerat berät EU-Vertrag, gleichzeitig Bahnstrecke bei Bern unterbrochen, SVP-Probelauf",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Am selben Tag, an dem der Ständerat den EU-Vertrag berät, ist die Bahnstrecke bei Bern stundenlang unterbrochen. Die SVP spricht von einem gelungenen Probelauf.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-1238-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Doku Naza, israelische Soldaten über Gaza im Schweizer Kino, Bundesrat wartet auf Quelle",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Im Schweizer Kino erzählen israelische Soldaten, wie ihre Armee in Gaza vorging. Der Bundesrat wartet auf eine unabhängige Quelle, am liebsten die Pressestelle der Armee.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-1238-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rentenalter 67 für Dachdecker*innen, gefordert am Stehpult",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Bis wann sollen Dachdecker*innen eigentlich noch aufs Dach? Frage für alle, die Rentenalter 67 fordern, am Stehpult, wegen dem Rücken.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-1238-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vermögenssteuer vertreibt die Reichen wie ein Hotel seine Zechpreller",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die Angst, eine Vermögenssteuer vertreibe die Reichen, ist die Angst eines Hotels, die Zechpreller könnten abreisen. Mit der Minibar.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-1238-12",
-      "typ": "remix",
-      "stichwort": "Putin schliesst fast jede zweite Schule, leere Liste der geschlossenen Kasernen",
-      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Putin hat fast jede zweite Schule Russlands geschlossen. Hier alle Kasernen, die zugemacht haben:\n-\n-",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-28-1238-16",
+      "id": "2026-09-28-2043-31",
       "typ": "schnittmenge",
-      "stichwort": "Tiefsteuerkanton findet die perfekten Einwohner*innen, mit Nummernschild und Sixt-Kleber",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die perfekten Einwohner*innen für einen Tiefsteuerkanton brauchen keine Schule, kein Spital und keine Rente. Appenzell Innerrhoden hat sie längst, mit Nummernschild und Sixt-Kleber.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-1238-18",
-      "typ": "schnittmenge",
-      "stichwort": "Mietauto bekommt in Appenzell sofort einen Wohnsitz, ohne Betreibungsauszug",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ein Mietauto bekommt in Appenzell Innerrhoden sofort einen Wohnsitz. Ohne Betreibungsauszug, ohne Besichtigung.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-1238-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor fremden Richtern, Trumps Botschafterin in Athen stürzt Regierungen ohne Gericht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe echt Angst vor fremden Richtern aus Brüssel. Trumps Botschafterin in Athen soll gesagt haben, Regierungen stürzen könne man «überall», immerhin ohne Gerichtsverfahren.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-1238-31",
-      "typ": "schnittmenge",
-      "stichwort": "Tourist aus Singapur in Giswil, Rolex in Luzern gibt Champagner, Motorradpanne gibt Schlitzaugen-Geste",
+      "stichwort": "Hälfte der Hormonspirale zahlen: plötzlich «ihr Körper, ihre Entscheidung», bei Abtreibung plötzlich eine Meinung",
       "plattform": "Instagram + Threads",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Kauft ein Tourist aus Singapur in Luzern eine Rolex, bekommt er Champagner. Bittet er in Giswil um Hilfe mit dem Motorrad, gibt es gratis die Schlitzaugen-Geste.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
+      "text": "Soll er die Hälfte der Hormonspirale zahlen, heisst es «ihr Körper, ihre Entscheidung». Geht es um Abtreibung, hat er plötzlich eine Meinung."
+    },
+    {
+      "id": "2026-09-28-2043-32",
+      "typ": "remix",
+      "stichwort": "Vier Stunden Musk-Doku am Zurich Film Festival, leere Liste der neuen Erkenntnisse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Vier Stunden Elon-Musk-Doku am Zurich Film Festival. Hier alle neuen Erkenntnisse, die man danach hat:\n-\n-"
     }
   ]
 }
