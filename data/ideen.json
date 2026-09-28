@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": 10,
       "text": "Trump verlängert Chinas Zollpause. Die Schweiz hätte halt Seltene Erden statt Goldbarren schenken sollen."
+    },
+    {
+      "id": "2026-09-28-1150-36",
+      "typ": "politisch-aktuell",
+      "stichwort": "Griechenland lockt Fachkräfte mit Steuervorteilen, Innerrhoden lockt so Mietautos",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Griechenland lockt diese Woche seine Fachkräfte mit Steuervorteilen zurück. Appenzell Innerrhoden macht das seit Jahren mit Mietautos, einziehen muss keins."
     }
   ]
 }
