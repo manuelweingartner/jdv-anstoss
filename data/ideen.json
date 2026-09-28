@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,46 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Ermotti kritisiert die Nationalbank scharf. Alle Rettungen der Schweiz durch die UBS, eine Übersicht:\n-\n-"
+    },
+    {
+      "id": "2026-09-28-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Konzernchef*innen mit Bonusverzicht nach Stellenabbau",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier eine Liste aller Konzernchef*innen, die nach einem Stellenabbau freiwillig auf ihren Bonus verzichtet haben:\n-\n-\nWird laufend aktualisiert."
+    },
+    {
+      "id": "2026-09-28-0757-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Boni nach Rekordverlust als Goldmedaille fürs schnellste Ins-Netz-Fahren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Boni nach einem Rekordverlust sind wie eine Goldmedaille für den, der am schnellsten ins Netz fährt. Mit Hymne, jedes Jahr."
+    },
+    {
+      "id": "2026-09-28-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nach dem Kurssturz geht die Frau am Empfang, nie der Verursacher",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Warum geht nach dem Kurssturz immer die Frau am Empfang und nie der Mann, der ihn verursacht hat? Frage an den Verwaltungsrat."
+    },
+    {
+      "id": "2026-09-28-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gewerkschaften sollen für mehr Lohn halt eine Bank versenken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Verstehe die Gewerkschaften nicht. Wer mehr Lohn will, soll halt eine Bank versenken."
     }
   ]
 }
