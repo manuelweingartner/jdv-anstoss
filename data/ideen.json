@@ -4,26 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-28-2056-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Marathondebatte im Ständerat zu den EU-Verträgen, die SVP läuft rückwärts Richtung Rütli",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Marathondebatte im Ständerat über die EU-Verträge. Die SVP läuft die Strecke rückwärts, Richtung Rütli."
-    },
-    {
-      "id": "2026-09-28-2056-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizer Männer bauen wegen Europa einen Bunker in Thailand und fragen Flüchtende nach dem nächsten sicheren Land",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stürmische Zeiten in Europa, Schweizer Männer so: Haus in Thailand, bald ein Bunker. Flüchtende so: Europa, und dieselben Männer so: Wieso nicht ins nächste sichere Land?"
-    },
-    {
       "id": "2026-09-28-2056-03",
       "typ": "politisch-aktuell",
       "stichwort": "FDP gegen mehr Geld für die AHV, gleicher Tag Swiss Life streicht trotz Gewinn Stellen, vorsorglich",
@@ -31,7 +11,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Die FDP kämpft gegen mehr Geld für die AHV, man soll privat vorsorgen. Am selben Tag streicht Swiss Life trotz Gewinnanstieg fast jeden zwanzigsten Job, rein vorsorglich."
+      "text": "Die FDP kämpft gegen mehr Geld für die AHV, man soll privat vorsorgen. Am selben Tag streicht Swiss Life trotz Gewinnanstieg fast jeden zwanzigsten Job, rein vorsorglich.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-28-2056-04",
@@ -41,17 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Umverteilung, warnen die Bürgerlichen vor der SP-Prämieninitiative. Stimmt, heute zahlen die Pflegerin und Sergio Ermotti dieselbe Prämie, da gibt es nichts mehr zu verteilen."
-    },
-    {
-      "id": "2026-09-28-2056-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Starship erstmals im Erdorbit, gleiche Woche steigende Prämien, die sind längst dort oben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Starship hat diese Woche erstmals den Erdorbit erreicht, alle staunen. Weiss ehrlich nicht, warum, die Krankenkassenprämien sind seit Jahren dort, und die kommen nie wieder runter."
+      "text": "Umverteilung, warnen die Bürgerlichen vor der SP-Prämieninitiative. Stimmt, heute zahlen die Pflegerin und Sergio Ermotti dieselbe Prämie, da gibt es nichts mehr zu verteilen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-28-2056-06",
@@ -61,7 +41,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Stimmt, der Klimawandel ist Panikmache. Darum verkaufen die Versicherer ihre Unwetter jetzt an der Börse."
+      "text": "Stimmt, der Klimawandel ist Panikmache. Darum verkaufen die Versicherer ihre Unwetter jetzt an der Börse.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-28-2056-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ab 55 auf dem Arbeitsmarkt abgeschrieben, ein Firmenwagen gäbe wenigstens einen Steuerabzug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ab 55 gilt man auf dem Arbeitsmarkt als abgeschrieben. Ein Firmenwagen bringt in dem Fall wenigstens noch einen Steuerabzug.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-28-2056-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Goldküsten-Villen gegen Zuwanderung stellen Sans-Papiers ohne Vertrag ein, wegen der Bürokratie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Niemand stellt so gern Sans-Papiers ein wie die Villen an der Goldküste, die gegen Zuwanderung stimmen. Ohne Vertrag, wegen der Bürokratie.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-28-2056-11",
@@ -71,37 +86,72 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Steht ein König vorm Früchteregal, heisst das «bodenständig». Steht eine Rentnerin davor und legt die Mangos zurück, heisst das «Eigenverantwortung»."
+      "text": "Steht ein König vorm Früchteregal, heisst das «bodenständig». Steht eine Rentnerin davor und legt die Mangos zurück, heisst das «Eigenverantwortung».",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-09-28-2056-12",
+      "id": "2026-09-28-2056-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizer Männer bauen aus Kriegsangst Bunker in Thailand, Integration in den Bunker",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Schweizer Männer fliehen vor einem Krieg, der noch gar nicht angefangen hat, nach Thailand. Integrieren wollen sie sich dort in einen Bunker.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-28-2056-32",
       "typ": "remix",
-      "stichwort": "Bodensee auf Rekordtief, als Grossbank wäre er übers Wochenende nachgefüllt worden",
+      "stichwort": "Bodensee trocken, gleiche Woche erntet die Chemie Wasser aus Wüstenluft",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Bodensee-Pegel auf Rekordtief. Wäre er eine Grossbank, hätte der Bundesrat übers Wochenende nachgefüllt."
+      "format": 18,
+      "text": "Gleiche Woche, in der der Bodensee auf Rekordtief fällt, zeigt die Chemie, wie man Wasser aus Wüstenluft erntet. Erstes Einsatzgebiet: Altenrhein, hundert Meter vom Ufer.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-28-2056-16",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ermotti droht mit UBS-Wegzug wegen Eigenkapital, soll es machen wie die Mietautos: Sitz in Innerrhoden, nie dort gewesen",
+      "id": "2026-09-28-2056-37",
+      "typ": "schnittmenge",
+      "stichwort": "Hormonspirale, leere Liste der Männer, die von sich aus die Hälfte zahlen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ermotti droht mit dem Wegzug der UBS, falls sie mehr Eigenkapital braucht. Einfach machen wie die Mietautos: Sitz in Innerrhoden, nie dort gewesen."
-    },
-    {
-      "id": "2026-09-28-2056-17",
-      "typ": "schnittmenge",
-      "stichwort": "Mietautos mit Innerrhoder Nummer als Zuger Briefkastenfirmen mit Rädern",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Mietautos mit Innerrhoder Nummer sind Zuger Briefkastenfirmen mit Rädern. Sitzheizung inklusive."
+      "text": "Hier eine Liste aller Männer, die bei der Hormonspirale von sich aus die Hälfte überwiesen haben:\n-\n-\nTwint wäre offen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-28-2056-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ständerat sagt Ja zu EU-Verträgen, SVP warnt per WhatsApp vor fremden Mächten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ständerat sagt Ja zur EU, die SVP warnt per WhatsApp vor fremden Mächten.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     }
   ]
 }
