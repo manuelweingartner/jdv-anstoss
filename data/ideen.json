@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,46 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Seh ich das richtig, Zürich steht im Stau, und die Autosteuer dafür kassiert Appenzell Innerrhoden? Von Autos, die den Säntis nur aus dem Navi kennen."
+    },
+    {
+      "id": "2026-09-28-2056-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der CEOs, die nach einem Verlustjahr ihren Bonus freiwillig zurückgezahlt haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier eine Liste aller CEOs, die nach einem Verlustjahr ihren Bonus freiwillig zurückgezahlt haben:\n-\n-\nWird laufend ergänzt."
+    },
+    {
+      "id": "2026-09-28-2056-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Unbezahltes Praktikum als Aufnahmeprüfung fürs Elternhaus, Frage an die Kanzlei mit Diversity-Award",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ab wann heisst ein unbezahltes Praktikum eigentlich nicht mehr Einstiegschance, sondern Aufnahmeprüfung fürs Elternhaus? Frage für die Kanzlei mit dem Diversity-Award."
+    },
+    {
+      "id": "2026-09-28-2056-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Einmal so zuverlässig erhöht werden wie die Dividende der eigenen Firma",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so zuverlässig jedes Jahr erhöht werden wie die Dividende der eigenen Firma."
+    },
+    {
+      "id": "2026-09-28-2056-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Blick nach oben ist Neiddebatte, Blick nach unten Missbrauchsdebatte",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer nach oben schaut, führt eine Neiddebatte. Wer nach unten schaut, eine Missbrauchsdebatte."
     }
   ]
 }
