@@ -1,156 +1,27 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-28-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nestlé blieb humanitär in Russland, Putin übernimmt die Fabriken, fragt die Ukraine",
-      "plattform": "Threads + Bluesky",
+      "id": "2026-09-28-1150-11",
+      "typ": "schnittmenge",
+      "stichwort": "Madrid räumt 87-Jährige, beim Fonds hiesse dasselbe Enteignung",
+      "plattform": "Threads + Bluesky + Instagram",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Nestlé blieb aus humanitären Gründen in Russland, jetzt übernimmt Putin sechs Fabriken. Völlig überraschend, der Mann nimmt nie, was ihm nicht gehört, fragt die Ukraine.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
+      "format": 1,
+      "text": "Nimmt man in Madrid einer 87-Jährigen die Wohnung, heisst das «Räumung». Nimmt man einem Immobilienfonds die Mieterhöhung, heisst das «Enteignung»."
     },
     {
-      "id": "2026-09-28-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bolsonaro sitzt, der Sohn kandidiert, wie bei Blochers nur mit Urteil",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Bolsonaro sitzt wegen Putschversuch, nun kandidiert der Sohn. Wie bei Blochers, nur mit Urteil.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ernährungsinitiative abgelehnt, sonst bestimmt noch wer anderes als Coop und Migros",
+      "id": "2026-09-28-1150-12",
+      "typ": "remix",
+      "stichwort": "Zollpause für China, die Schweiz hätte Seltene Erden statt Goldbarren schenken sollen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Zum Glück ist die Ernährungsinitiative abgelehnt. Sonst bestimmt noch wer anderes als Coop und Migros, was auf den Teller kommt, und das ohne Cumulus-Punkte.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-09-28-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Papst betet in Lourdes für Kranke, Therapie ohne Vertrauensarzt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Der Papst betet in Lourdes für die Kranken. Endlich eine Therapie ohne Vertrauensarzt.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kriegsgewinnler steht jetzt in der Anlageberatung unter defensiv",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Kriegsgewinnler war mal ein Schimpfwort. Heute steht es im Anlagevorschlag der Hausbank, unter «defensiv».",
-      "jury": {
-        "neu": false,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-0757-12",
-      "typ": "remix",
-      "stichwort": "Ermotti kritisiert die Nationalbank, leere Liste der Rettungen der Schweiz durch die UBS",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ermotti kritisiert die Nationalbank scharf. Alle Rettungen der Schweiz durch die UBS, eine Übersicht:\n-\n-",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-09-28-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump hat recht mit Kuba, dreimal mehr Ärzt*innen pro Kopf als die USA",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Trump hat recht, Kuba ist gefährlich. Dreimal mehr Ärzt*innen pro Kopf als die USA.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gewerkschaften sollen für mehr Lohn halt eine Bank versenken",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Verstehe die Gewerkschaften nicht. Wer mehr Lohn will, soll halt eine Bank versenken.",
-      "jury": {
-        "anker": false,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "Kinder als finanzielles Risiko, die UBS laut Ermotti nicht",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Kinder gelten inzwischen als zu grosses finanzielles Risiko. Die UBS laut Sergio Ermotti nicht.",
-      "jury": {
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-0757-36",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neutralität abgelehnt, der Thurgau lebt sie ohne Frauenhaus weiter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die Neutralitätsinitiative ist abgelehnt, der Thurgau lebt sie trotzdem: kein eigenes Frauenhaus, in fremde Konflikte mischt man sich nicht ein. Auch nicht in der Küche.",
-      "jury": {
-        "neu": false,
-        "anker": true,
-        "witz": true
-      }
+      "format": 10,
+      "text": "Trump verlängert Chinas Zollpause. Die Schweiz hätte halt Seltene Erden statt Goldbarren schenken sollen."
     }
   ]
 }
