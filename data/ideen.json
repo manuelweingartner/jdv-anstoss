@@ -4,14 +4,34 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-09-28-1238-07",
+      "id": "2026-09-28-1238-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Unbezahlte UNO-Praktika in Genf als Vermögensnachweis der Eltern",
+      "stichwort": "Ständerat berät EU-Vertrag, gleichzeitig Bahnstrecke bei Bern unterbrochen, SVP-Probelauf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Am selben Tag, an dem der Ständerat den EU-Vertrag berät, ist die Bahnstrecke bei Bern stundenlang unterbrochen. Die SVP spricht von einem gelungenen Probelauf.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-28-1238-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohnungsabgabe, Angst vor Mieterschutz, Vermieterin entkalkt selbst",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Unbezahlte Praktika bei der UNO in Genf sind Stellenausschreibungen mit eingebautem Vermögensnachweis der Eltern."
+      "format": "frei",
+      "text": "Habe Angst vor mehr Mieterschutz. Am Ende muss die Vermieterin beim Auszug ihren Boiler selbst entkalken, wie ein ganz normaler Mensch.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-28-1238-08",
@@ -21,17 +41,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Bis wann sollen Dachdecker*innen eigentlich noch aufs Dach? Frage für alle, die Rentenalter 67 fordern, am Stehpult, wegen dem Rücken."
-    },
-    {
-      "id": "2026-09-28-1238-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lohntransparenz ist Datenschutz, ausser beim CEO mit Foto im Geschäftsbericht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Löhne offenlegen, Arbeitgeber so: puh, Datenschutz, Betriebsfrieden, ganz schwierig. Ausser beim CEO, der kommt mit Foto in den Geschäftsbericht."
+      "text": "Bis wann sollen Dachdecker*innen eigentlich noch aufs Dach? Frage für alle, die Rentenalter 67 fordern, am Stehpult, wegen dem Rücken.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     },
     {
       "id": "2026-09-28-1238-10",
@@ -41,37 +56,57 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Die Angst, eine Vermögenssteuer vertreibe die Reichen, ist die Angst eines Hotels, die Zechpreller könnten abreisen. Mit der Minibar."
+      "text": "Die Angst, eine Vermögenssteuer vertreibe die Reichen, ist die Angst eines Hotels, die Zechpreller könnten abreisen. Mit der Minibar.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-09-28-1238-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Oakberry-Schlange für Açaí zu 20 Franken als Training für die Wohnungsbesichtigung",
-      "plattform": "Threads + Bluesky",
+      "id": "2026-09-28-1238-12",
+      "typ": "remix",
+      "stichwort": "Putin schliesst fast jede zweite Schule, leere Liste der geschlossenen Kasernen",
+      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Junge stehen bei Oakberry Schlange für 20-Franken-Açaí. Üben für die Wohnungsbesichtigung, mit Happy End."
+      "text": "Putin hat fast jede zweite Schule Russlands geschlossen. Hier alle Kasernen, die zugemacht haben:\n-\n-",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-09-28-1238-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ständerat schützt Jobs vor der EU, Swiss Life streicht trotz Gewinn ohne fremde Richter",
+      "id": "2026-09-28-1238-16",
+      "typ": "schnittmenge",
+      "stichwort": "Tiefsteuerkanton findet die perfekten Einwohner*innen, mit Nummernschild und Sixt-Kleber",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Der Ständerat debattiert tagelang, wie man Schweizer Jobs vor der EU schützt. Gleiche Woche streicht Swiss Life trotz Gewinnanstieg Stellen, ganz ohne fremde Richter."
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die perfekten Einwohner*innen für einen Tiefsteuerkanton brauchen keine Schule, kein Spital und keine Rente. Appenzell Innerrhoden hat sie längst, mit Nummernschild und Sixt-Kleber.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-28-1238-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Doku «Naza» über Gaza, reicht dem Bundesrat das für «besorgt» oder wartet er aufs Streaming",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "id": "2026-09-28-1238-18",
+      "typ": "schnittmenge",
+      "stichwort": "Mietauto bekommt in Appenzell sofort einen Wohnsitz, ohne Betreibungsauszug",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Israelische Ex-Soldaten erzählen im Kinofilm «Naza», was ihre Armee in Gaza getan hat. Reicht das dem Bundesrat für «besorgt», oder wartet er aufs Streaming?"
+      "text": "Ein Mietauto bekommt in Appenzell Innerrhoden sofort einen Wohnsitz. Ohne Betreibungsauszug, ohne Besichtigung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-28-1238-24",
@@ -81,27 +116,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe echt Angst vor fremden Richtern aus Brüssel. Trumps Botschafterin in Athen soll gesagt haben, Regierungen stürzen könne man «überall», immerhin ohne Gerichtsverfahren."
+      "text": "Habe echt Angst vor fremden Richtern aus Brüssel. Trumps Botschafterin in Athen soll gesagt haben, Regierungen stürzen könne man «überall», immerhin ohne Gerichtsverfahren.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-28-1238-25",
+      "id": "2026-09-28-1238-31",
       "typ": "schnittmenge",
-      "stichwort": "Sportwetten als Private Equity für Leute ohne Equity",
+      "stichwort": "Tourist aus Singapur in Giswil, Rolex in Luzern gibt Champagner, Motorradpanne gibt Schlitzaugen-Geste",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Kauft ein Tourist aus Singapur in Luzern eine Rolex, bekommt er Champagner. Bittet er in Giswil um Hilfe mit dem Motorrad, gibt es gratis die Schlitzaugen-Geste.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-09-28-1238-32",
+      "typ": "remix",
+      "stichwort": "Putin schliesst fast jede zweite Dorfschule, leere Liste der geschlossenen Rüstungsfabriken",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Sportwetten ruinieren Existenzen? Ach was, das ist Private Equity für Leute ohne Equity."
-    },
-    {
-      "id": "2026-09-28-1238-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neutral bleiben, während Drohnen Schulen in Kyjiw und Odessa treffen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, die Schweiz muss neutral bleiben. Russische Drohnen treffen in Kyjiw und Odessa Schulen und Kliniken, und irgendwer muss ja unparteiisch zuschauen."
+      "text": "Putin hat fast jede zweite Dorfschule geschlossen. Hier alle Rüstungsfabriken, die dafür zumachen mussten:\n-\n-",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     }
   ]
 }
