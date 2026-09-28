@@ -1,8 +1,38 @@
 {
   "datum": "2026-09-28",
-  "hinweis": "4 von 10 da, der Rest lädt noch.",
+  "hinweis": "7 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-28-2139-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Felssturz am Gross Ruchen wegen tauendem Eis, die Angst vor den Kosten des Klimaschutzes",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst, dass uns der Klimaschutz ruiniert. Am Gross Ruchen taut das Eis im Berg einfach so, und der Felssturz kostet keinen Rappen Lenkungsabgabe."
+    },
+    {
+      "id": "2026-09-28-2139-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ukraine soll aufgeben für den Frieden, im besetzten Oleschky ist schon Frieden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Vielleicht sollte die Ukraine einfach aufgeben, dann ist Frieden. Im besetzten Oleschky ist schon Frieden, dort verhungern gerade 2000 Menschen ohne jeden Schusswechsel."
+    },
+    {
+      "id": "2026-09-28-2139-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ära Blocher nach dem Neutralitäts-Nein vorbei, jetzt kommt die Ära Blocher",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, nach dem Neutralitäts-Nein ist die Ära Blocher vorbei. Jetzt kommt die Ära Blocher."
+    },
     {
       "id": "2026-09-28-2139-11",
       "typ": "schnittmenge",
