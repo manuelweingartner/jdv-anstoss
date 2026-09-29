@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-29",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Die Rotkreuz-Präsidentin fordert Taten statt Lippenbekenntnisse zum Völkerrecht. Hier die Taten des Gastlands Schweiz:\n-\n-"
+    },
+    {
+      "id": "2026-09-29-0826-36",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautos mit Innerrhoder Nummer wegen tiefer Autosteuer, das erste Steuerschlupfloch, das man überholen kann",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Tausende Mietautos fahren mit Innerrhoder Nummer, weil die Autosteuer dort so tief ist. Endlich ein Steuerschlupfloch, das man auf der Autobahn überholen kann, rechts natürlich."
+    },
+    {
+      "id": "2026-09-29-0826-37",
+      "typ": "schnittmenge",
+      "stichwort": "Innerrhoden meldet Mietautos per Formular an, das Frauenstimmrecht brauchte das Bundesgericht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Innerrhoden meldet Tausende Mietautos an, per Formular. Frauen brauchten fürs Stimmrecht noch das Bundesgericht."
+    },
+    {
+      "id": "2026-09-29-0826-38",
+      "typ": "schnittmenge",
+      "stichwort": "Tourist staunt über die Mietautos in Appenzell, Einheimischer verweist auf die Briefkästen in Zug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Tourist in Appenzell so: Whoa, alles voller Mietautos. Einheimischer so: chill, warte, bis du die Briefkästen in Zug siehst."
     }
   ]
 }
