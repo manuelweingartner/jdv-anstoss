@@ -1,127 +1,37 @@
 {
-  "datum": "2026-09-28",
-  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
-  "fertig": true,
+  "datum": "2026-09-29",
+  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-09-28-2139-02",
+      "id": "2026-09-29-0826-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Swiss Life streicht trotz Gewinn Jobs, am selben Tag wirft Starship die untere Stufe ab",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Swiss Life streicht trotz Gewinnanstieg fast jeden zwanzigsten Job. Am selben Tag erreicht Starship den Orbit, ebenfalls nach planmässigem Abwurf der unteren Stufe.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-2139-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Felssturz am Gross Ruchen wegen tauendem Eis, die Angst vor den Kosten des Klimaschutzes",
+      "stichwort": "Zürich bremst Hochhäuser, Angst, dass die Pflegefachfrau dort wohnt, wo sie Nachtschicht hat",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst, dass uns der Klimaschutz ruiniert. Am Gross Ruchen taut das Eis im Berg einfach so, und der Felssturz kostet keinen Rappen Lenkungsabgabe.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "text": "Habe Angst vor Hochhäusern in Zürich. Am Ende wohnt die Pflegefachfrau plötzlich in der Stadt, in der sie Nachtschicht hat. Mit Seesicht."
     },
     {
-      "id": "2026-09-28-2139-05",
+      "id": "2026-09-29-0826-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Ukraine soll aufgeben für den Frieden, im besetzten Oleschky ist schon Frieden",
+      "stichwort": "Bund zieht sich aus Tansania zurück, Hilfe vor Ort jetzt am Paradeplatz",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Vielleicht sollte die Ukraine einfach aufgeben, dann ist Frieden. Im besetzten Oleschky ist schon Frieden, dort verhungern gerade 2000 Menschen ohne jeden Schusswechsel.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
+      "text": "Stimmt, man muss den Menschen vor Ort helfen, damit sie nicht fliehen. Darum zieht sich der Bund aus Tansania zurück und hilft jetzt vor Ort am Paradeplatz."
     },
     {
-      "id": "2026-09-28-2139-12",
-      "typ": "remix",
-      "stichwort": "FDP gegen Mehrwertsteuer für die 13. AHV-Rente, Erbschaftssteuer trifft die Falschen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die 13. AHV-Rente soll über die Mehrwertsteuer kommen. FDP so: nein, trifft alle, und Erbschaftssteuer auch nein, trifft die Falschen.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-2139-24",
+      "id": "2026-09-29-0826-26",
       "typ": "politisch-aktuell",
-      "stichwort": "Neue Automarken fordern die alten Konzerne heraus, unfair, die bauen einfach, was man kaufen will",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Stimmt, die neuen Automarken sind eine unfaire Konkurrenz. Die bauen einfach Autos, die Leute kaufen wollen, bei VW musste man dafür noch die Messwerte anpassen.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-2139-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ära Blocher nach dem Nein vorbei, wer sagt mir jetzt, wovor ich Angst haben muss",
+      "stichwort": "Schweizer Raser mit 312 km/h in Frankreich geblitzt, Mitleid mit der Verbotsschweiz",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Blocher verliert, seine Ära sei vorbei. Wer sagt mir, wovor ich Angst haben muss?",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-28-2139-32",
-      "typ": "remix",
-      "stichwort": "Erstes Robotaxi der Schweiz im Furttal, niemand am Steuer, Testbetrieb bei der Credit Suisse",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 10,
-      "text": "Erstes Robotaxi der Schweiz, niemand am Steuer. Testbetrieb lief jahrelang bei der Credit Suisse.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-09-28-2139-36",
-      "typ": "schnittmenge",
-      "stichwort": "Appenzell Innerrhoden löst Mietautos schneller ein als es Menschen einbürgert, grüssen muss keins",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "In Appenzell Innerrhoden wird ein Mietauto schneller eingelöst als ein Mensch eingebürgert. Und keins muss vorher beweisen, dass es im Dorf grüsst.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
+      "text": "Schlimm, diese Verbotsschweiz. Für seine 312 km/h musste ein Schweizer extra nach Frankreich."
     }
   ]
 }
