@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-29",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Schlimm, diese Verbotsschweiz. Für seine 312 km/h musste ein Schweizer extra nach Frankreich."
+    },
+    {
+      "id": "2026-09-29-0826-31",
+      "typ": "schnittmenge",
+      "stichwort": "Bodensee auf Rekordtief, Bank auf Rekordtief bekommt Notrecht, der See soll halt Regen abwarten",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Fällt eine Bank auf ein Rekordtief, gibt's Notrecht übers Wochenende. Fällt der Bodensee, soll es halt regnen."
+    },
+    {
+      "id": "2026-09-29-0826-32",
+      "typ": "remix",
+      "stichwort": "Rotkreuz-Präsidentin fordert Taten fürs Völkerrecht, leere Liste der Taten des Gastlands Schweiz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die Rotkreuz-Präsidentin fordert Taten statt Lippenbekenntnisse zum Völkerrecht. Hier die Taten des Gastlands Schweiz:\n-\n-"
     }
   ]
 }
