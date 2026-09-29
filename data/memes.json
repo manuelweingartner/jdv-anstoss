@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-28T08:06:41+02:00",
+  "stand": "2026-09-29T08:35:23+02:00",
   "vorschlaege": [
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Die UBS ist zu gross zum Jammern"
+        "Too big to fail heisst too big to regulate"
       ],
-      "warum": "Ermottis Kritik an Schlegel und die Banken, die sich gegen die UBS stellen, machen die These unwiderlegbar",
+      "warum": "die UBS wehrt sich gegen die Eigenkapitalvorgaben, und die These trägt keinen Widerspruch, weil die Lex UBS sie gerade bestätigt",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Sofort gegen EU-Vertragspaket",
-        "Nein erst mal verdauen",
-        "Marcel Dettling"
+        "Vollzeit bis 65",
+        "Teilzeit wie gewünscht",
+        "Schweizer Mann mit Hypothek"
       ],
-      "warum": "die SVP reisst nach der verlorenen Neutralitätsinitiative ohne einen Tag Pause das Steuer zum nächsten Kampf herum",
+      "warum": "die UZH-Studie zeigt genau diesen Kurswechsel, denn der Wunsch bleibt als Ausfahrt ungenutzt",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Trump im Januar",
-        "Cuba is next",
-        "Trump im September",
-        "Kuba eher nicht"
+        "Nestlé 2022",
+        "Wir bleiben in Russland",
+        "Nestlé 2026",
+        "Sechs Fabriken beim Kreml"
       ],
-      "warum": "die laute Drohung von früher und die gemässigten Töne von heute sind genau das Gefälle zwischen Muskelhund und Cheems",
+      "warum": "auf die behauptete Standhaftigkeit folgt die Zwangsverwaltung, das ist das Früher-Heute-Gefälle",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Klimarisiko an Anleger abschieben",
-        "Cat Bonds"
+        "Rückzug aus Tansania",
+        "Neuer geografischer Fokus"
       ],
-      "warum": "die Versicherer verpacken das Weiterreichen ihres Risikos in ein vornehmes Finanzprodukt, und der Euphemismus ist die Pointe",
+      "warum": "der Bund verpackt den Ausstieg aus einer langjährigen Partnerschaft als Strategie, der Euphemismus ist die ganze Meldung",
       "bild": "vorschlag-4.jpg"
     }
   ]
