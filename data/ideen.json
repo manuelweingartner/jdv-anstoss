@@ -4,6 +4,81 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-09-29-0826-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zürich bremst Hochhäuser, sonst sieht der Zürichberg nur noch Menschen mit Wohnung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Zürich muss Hochhäuser bremsen, sonst sieht man vom Zürichberg die Alpen nicht mehr. Nur noch Menschen, die eine Wohnung haben.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-29-0826-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor Tempo 30, Schweizer Raser flüchtet mit 312 km/h nach Frankreich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor Tempo 30. Die ersten Schweizer flüchten schon nach Frankreich, einer mit 312 km/h.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-29-0826-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bund zieht sich nach Jahrzehnten aus Tansania zurück, bevor er eingebürgert wird",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Klar zieht der Bund aus Tansania ab. Nach Jahrzehnten wird man sonst noch eingebürgert.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-29-0826-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bewerberin fragt nach Kollegenlöhnen, Firma findet das indiskret und fragt nach Kinderplänen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Bewerberin fragt, was die Kollegen verdienen. Firma so: sowas fragt man nicht, und wann planen Sie eigentlich Kinder?",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-29-0826-12",
+      "typ": "remix",
+      "stichwort": "Ständerat berät die EU-Verträge, einziger Schweizer mit Eile nach Europa ist der 312-km/h-Raser",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Ständerat berät seit gestern die EU-Verträge. Hier alle Schweizer*innen, die es mit Europa eilig haben:\n- ein Automobilist, in Frankreich mit 312 km/h geblitzt",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-09-29-0826-21",
       "typ": "politisch-aktuell",
       "stichwort": "Postfinance-App stundenlang gestört, am selben Tag Monsterdebatte des Ständerats zu den EU-Verträgen",
@@ -11,27 +86,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Am selben Tag, an dem die Postfinance-App stundenlang hing, führte der Ständerat seine Monsterdebatte zu den EU-Verträgen. Kein Zusammenhang, gleiches Nutzererlebnis."
-    },
-    {
-      "id": "2026-09-29-0826-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Heizen deutlich teurer, Vermieter*innen reichen es über die Nebenkosten weiter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Heizen ist deutlich teurer geworden. Vermieter*innen so: oh nein, schlimm, egal, Nebenkostenabrechnung."
-    },
-    {
-      "id": "2026-09-29-0826-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gratisverhütung nach Genf schweizweit, Kosten bisher vorbildlich privat getragen, von Frauen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Nach Genf soll die Gratisverhütung in die ganze Schweiz, und prompt geht es um Kosten, die bisher so vorbildlich privat getragen wurden. Von Frauen."
+      "text": "Am selben Tag, an dem die Postfinance-App stundenlang hing, führte der Ständerat seine Monsterdebatte zu den EU-Verträgen. Kein Zusammenhang, gleiches Nutzererlebnis.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-29-0826-24",
@@ -41,7 +101,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor Hochhäusern in Zürich. Am Ende wohnt die Pflegefachfrau plötzlich in der Stadt, in der sie Nachtschicht hat. Mit Seesicht."
+      "text": "Habe Angst vor Hochhäusern in Zürich. Am Ende wohnt die Pflegefachfrau plötzlich in der Stadt, in der sie Nachtschicht hat. Mit Seesicht.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-09-29-0826-25",
@@ -51,17 +116,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, man muss den Menschen vor Ort helfen, damit sie nicht fliehen. Darum zieht sich der Bund aus Tansania zurück und hilft jetzt vor Ort am Paradeplatz."
-    },
-    {
-      "id": "2026-09-29-0826-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizer Raser mit 312 km/h in Frankreich geblitzt, Mitleid mit der Verbotsschweiz",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Schlimm, diese Verbotsschweiz. Für seine 312 km/h musste ein Schweizer extra nach Frankreich."
+      "text": "Stimmt, man muss den Menschen vor Ort helfen, damit sie nicht fliehen. Darum zieht sich der Bund aus Tansania zurück und hilft jetzt vor Ort am Paradeplatz.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-29-0826-27",
@@ -71,37 +131,27 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 17,
-      "text": "Vor dem Gesetz sind alle gleich. Nach dem Gesetz kommt die Honorarnote, pro angebrochene Viertelstunde, mit Seesicht."
+      "text": "Vor dem Gesetz sind alle gleich. Nach dem Gesetz kommt die Honorarnote, pro angebrochene Viertelstunde, mit Seesicht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-29-0826-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lohntransparenz, Firma als Familie, geerbt wird trotzdem nur vom Chefsohn",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Angestellte fragen nach den Löhnen. Firma so: Über Geld redet man nicht, wir sind eine Familie, erben tut trotzdem nur der Sohn vom Chef."
-    },
-    {
-      "id": "2026-09-29-0826-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Unbezahlte Überstunden sind Engagement, einmal früher gehen ist Arbeitszeitbetrug",
+      "id": "2026-09-29-0826-37",
+      "typ": "schnittmenge",
+      "stichwort": "Innerrhoden meldet Mietautos per Formular an, das Frauenstimmrecht brauchte das Bundesgericht",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Bleibt eine Angestellte unbezahlt bis in die Nacht, heisst das Engagement. Geht sie dafür einmal früher, heisst es Arbeitszeitbetrug."
-    },
-    {
-      "id": "2026-09-29-0826-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rabenmutter oder Sozialfall, arbeitende Väter heissen einfach Väter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 15,
-      "text": "Arbeitende Mütter heissen Rabenmütter, nicht arbeitende heissen Sozialfall. Arbeitende Väter heissen einfach Väter."
+      "text": "Innerrhoden meldet Tausende Mietautos an, per Formular. Frauen brauchten fürs Stimmrecht noch das Bundesgericht.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     }
   ]
 }
