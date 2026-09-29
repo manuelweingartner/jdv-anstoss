@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-29",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -34,6 +34,46 @@
       "text": "Schlimm, diese Verbotsschweiz. Für seine 312 km/h musste ein Schweizer extra nach Frankreich."
     },
     {
+      "id": "2026-09-29-0826-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vor dem Gesetz sind alle gleich, danach kommt die Honorarnote mit Seesicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Vor dem Gesetz sind alle gleich. Nach dem Gesetz kommt die Honorarnote, pro angebrochene Viertelstunde, mit Seesicht."
+    },
+    {
+      "id": "2026-09-29-0826-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lohntransparenz, Firma als Familie, geerbt wird trotzdem nur vom Chefsohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Angestellte fragen nach den Löhnen. Firma so: Über Geld redet man nicht, wir sind eine Familie, erben tut trotzdem nur der Sohn vom Chef."
+    },
+    {
+      "id": "2026-09-29-0826-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Unbezahlte Überstunden sind Engagement, einmal früher gehen ist Arbeitszeitbetrug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Bleibt eine Angestellte unbezahlt bis in die Nacht, heisst das Engagement. Geht sie dafür einmal früher, heisst es Arbeitszeitbetrug."
+    },
+    {
+      "id": "2026-09-29-0826-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rabenmutter oder Sozialfall, arbeitende Väter heissen einfach Väter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 15,
+      "text": "Arbeitende Mütter heissen Rabenmütter, nicht arbeitende heissen Sozialfall. Arbeitende Väter heissen einfach Väter."
+    },
+    {
       "id": "2026-09-29-0826-31",
       "typ": "schnittmenge",
       "stichwort": "Bodensee auf Rekordtief, Bank auf Rekordtief bekommt Notrecht, der See soll halt Regen abwarten",
@@ -62,26 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Tausende Mietautos fahren mit Innerrhoder Nummer, weil die Autosteuer dort so tief ist. Endlich ein Steuerschlupfloch, das man auf der Autobahn überholen kann, rechts natürlich."
-    },
-    {
-      "id": "2026-09-29-0826-37",
-      "typ": "schnittmenge",
-      "stichwort": "Innerrhoden meldet Mietautos per Formular an, das Frauenstimmrecht brauchte das Bundesgericht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Innerrhoden meldet Tausende Mietautos an, per Formular. Frauen brauchten fürs Stimmrecht noch das Bundesgericht."
-    },
-    {
-      "id": "2026-09-29-0826-38",
-      "typ": "schnittmenge",
-      "stichwort": "Tourist staunt über die Mietautos in Appenzell, Einheimischer verweist auf die Briefkästen in Zug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Tourist in Appenzell so: Whoa, alles voller Mietautos. Einheimischer so: chill, warte, bis du die Briefkästen in Zug siehst."
     }
   ]
 }
