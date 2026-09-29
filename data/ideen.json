@@ -4,6 +4,36 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-09-29-0826-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Postfinance-App stundenlang gestört, am selben Tag Monsterdebatte des Ständerats zu den EU-Verträgen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Am selben Tag, an dem die Postfinance-App stundenlang hing, führte der Ständerat seine Monsterdebatte zu den EU-Verträgen. Kein Zusammenhang, gleiches Nutzererlebnis."
+    },
+    {
+      "id": "2026-09-29-0826-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Heizen deutlich teurer, Vermieter*innen reichen es über die Nebenkosten weiter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Heizen ist deutlich teurer geworden. Vermieter*innen so: oh nein, schlimm, egal, Nebenkostenabrechnung."
+    },
+    {
+      "id": "2026-09-29-0826-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gratisverhütung nach Genf schweizweit, Kosten bisher vorbildlich privat getragen, von Frauen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Nach Genf soll die Gratisverhütung in die ganze Schweiz, und prompt geht es um Kosten, die bisher so vorbildlich privat getragen wurden. Von Frauen."
+    },
+    {
       "id": "2026-09-29-0826-24",
       "typ": "politisch-aktuell",
       "stichwort": "Zürich bremst Hochhäuser, Angst, dass die Pflegefachfrau dort wohnt, wo sie Nachtschicht hat",
@@ -72,36 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": 15,
       "text": "Arbeitende Mütter heissen Rabenmütter, nicht arbeitende heissen Sozialfall. Arbeitende Väter heissen einfach Väter."
-    },
-    {
-      "id": "2026-09-29-0826-31",
-      "typ": "schnittmenge",
-      "stichwort": "Bodensee auf Rekordtief, Bank auf Rekordtief bekommt Notrecht, der See soll halt Regen abwarten",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Fällt eine Bank auf ein Rekordtief, gibt's Notrecht übers Wochenende. Fällt der Bodensee, soll es halt regnen."
-    },
-    {
-      "id": "2026-09-29-0826-32",
-      "typ": "remix",
-      "stichwort": "Rotkreuz-Präsidentin fordert Taten fürs Völkerrecht, leere Liste der Taten des Gastlands Schweiz",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die Rotkreuz-Präsidentin fordert Taten statt Lippenbekenntnisse zum Völkerrecht. Hier die Taten des Gastlands Schweiz:\n-\n-"
-    },
-    {
-      "id": "2026-09-29-0826-36",
-      "typ": "schnittmenge",
-      "stichwort": "Mietautos mit Innerrhoder Nummer wegen tiefer Autosteuer, das erste Steuerschlupfloch, das man überholen kann",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Tausende Mietautos fahren mit Innerrhoder Nummer, weil die Autosteuer dort so tief ist. Endlich ein Steuerschlupfloch, das man auf der Autobahn überholen kann, rechts natürlich."
     }
   ]
 }
