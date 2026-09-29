@@ -1,56 +1,55 @@
 {
-  "stand": "2026-09-28T17:00:34+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-29T08:34:44+02:00",
+  "lauf": "0834",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "LIVE-TICKER - «Unterwerfung» oder «Abschottung»? Im Ständerat läuft die grosse Debatte über die neuen EU-Verträge",
-      "was": "Ständeräte im Saal, Marco Chiesa am Rednerpult, dicke Aktenstapel zu den Verträgen",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, die 2000 Seiten gegen die Aufmerksamkeitsspanne im Saal. Achse: Schicksalsdebatte über Souveränität gegen gähnende Routine einer Marathonsitzung.",
+      "id": "0834-1",
+      "titel": "Reliquien als Mittel im Krieg – Warum schickt Putin Knochen eines Heiligen an die Ukraine-Front?",
+      "was": "Putin mit orthodoxen Geistlichen, Ikonen und Reliquienschrein in feierlicher Pose",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Heiligenknochen als Wunderwaffe gegen moderne Kriegsführung mit Drohnen und Artillerie.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "20 Minuten",
-        "SRF"
-      ],
-      "artikel": "https://www.nzz.ch/schweiz/unterwerfung-oder-abschottung-im-staenderat-beginnt-die-grosse-debatte-ueber-die-neuen-eu-vertraege-ld.10025773",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/28/2105041e-feaa-4c7a-bdc5-b470952dab21.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4727,4727,x1182,y0",
-      "zeit": "2026-09-28T13:55+02:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Nach Aufregung im Netz: Amthor verzichtet auf Strandkorb im Kanzleramt",
-      "was": "Philipp Amthor mit Strandkorb auf dem Balkon im Kanzleramt",
-      "richtung": "Mechanik: umetikettieren derselben Handlung, das Möbel als Regierungsprogramm lesen. Achse: Ostsee-Gemütlichkeit im Büro gegen den Sparappell an alle anderen.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "taz",
+      "raum": "weltweit",
+      "quelle": "SRF",
       "auch_bei": [
         "Spiegel"
       ],
-      "artikel": "https://taz.de/Nach-Aufregung-im-Netz/!6217060/",
-      "bild": "https://taz.de/picture/8766783/948/42190265.jpeg",
-      "zeit": "2026-09-28T14:15+02:00"
+      "artikel": "https://www.srf.ch/news/international/reliquien-als-mittel-im-krieg-warum-schickt-putin-knochen-eines-heiligen-an-die-ukraine-front",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/90ffb2.jpg",
+      "zeit": "2026-09-29T07:53+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Nein zu Neutralitätsinitiative – Ist die Ära Blocher jetzt definitiv vorbei?",
-      "was": "Christoph Blocher mit ernster Miene am Abstimmungssonntag vor Mikrofonen",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Übervater, der sich als Stimme des Volkes versteht, gegen ein Volk, das ihm gerade widersprochen hat.",
-      "grund": "memetauglich",
+      "id": "0834-2",
+      "titel": "Rekord: Schweizer Raser wird mit 312 km/h geblitzt",
+      "was": "Sportwagen am Strassenrand, französische Gendarmen, Radaranzeige mit Rekordwert",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein Schweizer mit Rekordtempo auf der Autobahn gegen das Schneckentempo der Schweizer Politik in Bern.",
+      "grund": "breit",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "20 Minuten",
+      "auch_bei": [
+        "SRF"
+      ],
+      "artikel": "https://www.20min.ch/story/frankreich-rekord-raser-schweizer-wird-mit-312-kmh-erwischt-103640849",
+      "bild": "https://image.20min.ch/2026/09/28/3a0b7e76-7275-4710-a17f-d00fc7a37ce7.jpg?s=eb3def5bb1ef77894a7467b343ac883a",
+      "zeit": "2026-09-29T04:59+02:00"
+    },
+    {
+      "id": "0834-3",
+      "titel": "Plötzlich steht König Haakon vor dem Früchteregal",
+      "was": "König Haakon im Supermarkt vor dem Früchteregal mit Einkaufskorb",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Monarch mit Krone und Staatsapparat gegen den ganz normalen Kampf mit den Preisen im Früchteregal.",
+      "grund": "memetauglich",
+      "raum": "weltweit",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/nein-zu-neutralitaetsinitiative-ist-die-aera-blocher-jetzt-definitiv-vorbei",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/cad019a.jpg",
-      "zeit": "2026-09-28T16:47+02:00"
+      "artikel": "https://www.20min.ch/story/norwegen-ploetzlich-steht-koenig-haakon-vor-dem-fruechteregal-103640732",
+      "bild": "https://image.20min.ch/2026/09/28/59b8adad-7d38-42f5-8f20-d5224bcd6894.jpg?s=a9a7959629dbd5c997d884dba52ac508",
+      "zeit": "2026-09-28T19:42+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute bis in den Abend",
-      "was": "Ständerat in der EU-Debatte, Redner am Pult und leere Sitzreihen"
+      "wann": "heute ab Vormittag",
+      "was": "Ständerat in Bern bei der Detailberatung zum EU-Vertragspaket, Redner am Pult und leere Ratsbänke"
     }
   ],
   "hinweis": ""
