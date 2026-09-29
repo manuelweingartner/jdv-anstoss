@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-29",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -64,48 +64,63 @@
       }
     },
     {
-      "id": "2026-09-29-0826-12",
-      "typ": "remix",
-      "stichwort": "Ständerat berät die EU-Verträge, einziger Schweizer mit Eile nach Europa ist der 312-km/h-Raser",
+      "id": "2026-09-29-0826-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neiddebatte, Coop-Kassiererin und der UBS-Chef, der ihren Jahreslohn an einem Dienstag verdient",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Der Ständerat berät seit gestern die EU-Verträge. Hier alle Schweizer*innen, die es mit Europa eilig haben:\n- ein Automobilist, in Frankreich mit 312 km/h geblitzt",
+      "text": "Ist das eigentlich schon Neid, wenn die Kassiererin im Coop wissen will, warum der UBS-Chef ihren Jahreslohn an einem Dienstag verdient? Frage für die FDP.",
       "jury": {
         "anker": true,
-        "witz": true,
+        "witz": false,
         "neu": true
       }
     },
     {
-      "id": "2026-09-29-0826-21",
+      "id": "2026-09-29-0826-10",
       "typ": "politisch-aktuell",
-      "stichwort": "Postfinance-App stundenlang gestört, am selben Tag Monsterdebatte des Ständerats zu den EU-Verträgen",
+      "stichwort": "Milliardär stiftet nach gesparten Steuern dem Kinderspital einen Flügel mit Namensschild",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Am selben Tag, an dem die Postfinance-App stundenlang hing, führte der Ständerat seine Monsterdebatte zu den EU-Verträgen. Kein Zusammenhang, gleiches Nutzererlebnis.",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Kaum hat ein Milliardär genug Steuern gespart, stiftet er dem Kinderspital einen Flügel. Mit Namensschild, damit man weiss, wem man danken soll.",
       "jury": {
         "anker": true,
-        "witz": true,
-        "neu": false
+        "witz": false,
+        "neu": true
       }
     },
     {
-      "id": "2026-09-29-0826-24",
+      "id": "2026-09-29-0826-17",
       "typ": "politisch-aktuell",
-      "stichwort": "Zürich bremst Hochhäuser, Angst, dass die Pflegefachfrau dort wohnt, wo sie Nachtschicht hat",
+      "stichwort": "Sogar andere Banken verlangen von der UBS mehr Eigenkapital, die Guggenmusik bittet um Ruhe",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor Hochhäusern in Zürich. Am Ende wohnt die Pflegefachfrau plötzlich in der Stadt, in der sie Nachtschicht hat. Mit Seesicht.",
+      "text": "Sogar Banken verlangen von der UBS mehr Eigenkapital. Als bäte die Guggenmusik um Ruhe.",
       "jury": {
-        "witz": true,
         "anker": true,
-        "neu": false
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-29-0826-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Papst beschwört in Metz Europas Einheit, gleichzeitig Ständerat über fremde Richter, Schweizergarde schwört seit 1506 einem fremden Monarchen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Papst Leo beschwört in Metz die Einheit Europas, gleichzeitig streitet der Ständerat über fremde Richter. Einem fremden Monarchen schwört die Schweizergarde seit 1506 die Treue. Mit Hellebarde.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
       }
     },
     {
