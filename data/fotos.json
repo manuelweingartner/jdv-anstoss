@@ -1,55 +1,60 @@
 {
-  "stand": "2026-09-29T08:34:44+02:00",
-  "lauf": "0834",
+  "stand": "2026-09-29T17:00:40+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0834-1",
-      "titel": "Reliquien als Mittel im Krieg – Warum schickt Putin Knochen eines Heiligen an die Ukraine-Front?",
-      "was": "Putin mit orthodoxen Geistlichen, Ikonen und Reliquienschrein in feierlicher Pose",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Heiligenknochen als Wunderwaffe gegen moderne Kriegsführung mit Drohnen und Artillerie.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "SRF",
-      "auch_bei": [
-        "Spiegel"
-      ],
-      "artikel": "https://www.srf.ch/news/international/reliquien-als-mittel-im-krieg-warum-schickt-putin-knochen-eines-heiligen-an-die-ukraine-front",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/90ffb2.jpg",
-      "zeit": "2026-09-29T07:53+02:00"
-    },
-    {
-      "id": "0834-2",
-      "titel": "Rekord: Schweizer Raser wird mit 312 km/h geblitzt",
-      "was": "Sportwagen am Strassenrand, französische Gendarmen, Radaranzeige mit Rekordwert",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein Schweizer mit Rekordtempo auf der Autobahn gegen das Schneckentempo der Schweizer Politik in Bern.",
+      "id": "1700-1",
+      "titel": "Erneuter Anstieg – Krankenkassenprämien steigen 2027 um 5 Prozent",
+      "was": "Bundesrätin am Rednerpult vor Prämienkurve an der Medienkonferenz in Bern",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: das jährlich gleiche Bedauern am Pult gegen die jährlich gleiche steigende Kurve im Hintergrund.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "SRF",
       "auch_bei": [
-        "SRF"
+        "20 Minuten",
+        "NZZ"
       ],
-      "artikel": "https://www.20min.ch/story/frankreich-rekord-raser-schweizer-wird-mit-312-kmh-erwischt-103640849",
-      "bild": "https://image.20min.ch/2026/09/28/3a0b7e76-7275-4710-a17f-d00fc7a37ce7.jpg?s=eb3def5bb1ef77894a7467b343ac883a",
-      "zeit": "2026-09-29T04:59+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/erneuter-anstieg-krankenkassenpraemien-steigen-2027-um-5-prozent",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/f9a87c.jpg",
+      "zeit": "2026-09-29T15:21+02:00"
     },
     {
-      "id": "0834-3",
-      "titel": "Plötzlich steht König Haakon vor dem Früchteregal",
-      "was": "König Haakon im Supermarkt vor dem Früchteregal mit Einkaufskorb",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Monarch mit Krone und Staatsapparat gegen den ganz normalen Kampf mit den Preisen im Früchteregal.",
+      "id": "1700-2",
+      "titel": "«Das ist Geschwätz»: David Degen erklärt seinen FC Basel – und findet, der neue Trainer mache «einen rechten Eindruck»",
+      "was": "David Degen und neuer Trainer Jokanovic posieren mit FCB-Schal",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: die feierliche Trainervorstellung als Neuanfang gegen das Ritual, das beim FCB so oft stattfindet, dass es zur Routine geworden ist.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "20 Minuten"
+      ],
+      "artikel": "https://www.nzz.ch/sport/fussball/fc-basel-praesident-degen-erklaert-trainerwechsel-und-shaqiri-plaene-ld.10025904",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/29/3959a5e1-c5d3-4f15-a9a9-7b6f033ec5d8.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4130,4130,x377,y0",
+      "zeit": "2026-09-29T16:10+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Häggenschwils Abstimmungskrimi – 336 Nein, 335 Ja: Ein Dorf zwischen Staunen und Enttäuschung",
+      "was": "Alte Turnhalle in Häggenschwil, Dorfbewohner und Gemeindepräsident davor",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: im Dorf entscheidet eine einzige Stimme über ein ganzes Gebäude, während in Bern Tausende Stimmen und Milliarden bei den Prämien nichts bew",
       "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "20 Minuten",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/norwegen-ploetzlich-steht-koenig-haakon-vor-dem-fruechteregal-103640732",
-      "bild": "https://image.20min.ch/2026/09/28/59b8adad-7d38-42f5-8f20-d5224bcd6894.jpg?s=a9a7959629dbd5c997d884dba52ac508",
-      "zeit": "2026-09-28T19:42+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/haeggenschwils-abstimmungskrimi-336-nein-335-ja-ein-dorf-zwischen-staunen-und-enttaeuschung",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/1c8f3e.jpg",
+      "zeit": "2026-09-29T15:37+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab Vormittag",
-      "was": "Ständerat in Bern bei der Detailberatung zum EU-Vertragspaket, Redner am Pult und leere Ratsbänke"
+      "wann": "heute Nachmittag",
+      "was": "Ständerat im Saal bei der EU-Debatte, Abstimmung über die Zuwanderungsabgabe"
+    },
+    {
+      "wann": "heute",
+      "was": "Andy Burnham am Rednerpult beim Labour-Parteitag vor Parteikulisse"
     }
   ],
   "hinweis": ""
