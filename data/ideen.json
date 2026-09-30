@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-30",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -46,6 +46,21 @@
         "anker": true,
         "witz": true,
         "neu": true
+      }
+    },
+    {
+      "id": "2026-09-30-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hitze war jahrelang Panikmache, zur Krise wird sie erst, wenn Lindt keine Lindor-Kugeln mehr loswird",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, die Hitze war jahrelang Panikmache, und erst jetzt, wo Lindt keine Lindor-Kugeln mehr loswird, ist es eine Krise? Mit Gewinnwarnung.",
+      "jury": {
+        "neu": true,
+        "witz": false,
+        "anker": true
       }
     },
     {
@@ -109,47 +124,17 @@
       }
     },
     {
-      "id": "2026-09-30-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nati schlägt Schottland in Überzahl, stark gegen Gegner am Boden, siehe Sozialhilfe",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Mit einem Mann mehr schlägt die Nati Schottland 3:0. Gegen Gegner, die schon am Boden liegen, war die Schweiz immer stark. Siehe Sozialhilfe.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-30-0757-32",
-      "typ": "remix",
-      "stichwort": "Batman stellt einen Handtaschendieb, die Finma stellt bei Julius Bär Verstösse fest",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Gleichentags stellt ein Mann im Batman-Kostüm einen Handtaschendieb und die Finma bei Julius Bär Verstösse in der Signa-Pleite fest. Nur einer bringt die Tasche zurück.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-09-30-0757-38",
+      "id": "2026-09-30-0757-36",
       "typ": "schnittmenge",
-      "stichwort": "Autovermieter sparen Steuern in Innerrhoden, ich melde mich dort auch an, als Mietauto",
+      "stichwort": "Innerrhoden ist wegen der Mietautos ein Autokanton, so wie Zug ein Bergbaukanton",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Autovermieter lösen ihre Flotten wegen der tiefen Steuer in Innerrhoden ein. Habe mich heute auch dort angemeldet. Als Mietauto.",
+      "text": "Appenzell Innerrhoden ist wegen der Mietautos ein Autokanton. Ungefähr so wie Zug ein Bergbaukanton.",
       "jury": {
         "anker": true,
-        "neu": true,
+        "neu": false,
         "witz": true
       }
     }
