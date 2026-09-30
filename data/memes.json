@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-29T08:35:23+02:00",
+  "stand": "2026-09-30T08:13:12+02:00",
   "vorschlaege": [
+    {
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
+      "zeilen": [
+        "Prämien 5 Prozent teurer",
+        "Moderates Prämienwachstum 2027"
+      ],
+      "warum": "die jährliche Erhöhung klingt im Amtsdeutsch des Pflichttermins fast wie eine gute Nachricht",
+      "bild": "vorschlag-1.jpg"
+    },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Too big to fail heisst too big to regulate"
+        "Die UBS braucht mehr Eigenkapital"
       ],
-      "warum": "die UBS wehrt sich gegen die Eigenkapitalvorgaben, und die These trägt keinen Widerspruch, weil die Lex UBS sie gerade bestätigt",
-      "bild": "vorschlag-1.jpg"
+      "warum": "Nationalbank und Konkurrenzbanken sehen es gleich, nur Ermotti widerspricht noch",
+      "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Vollzeit bis 65",
-        "Teilzeit wie gewünscht",
-        "Schweizer Mann mit Hypothek"
+        "Aluminiumkapsel",
+        "Kompostierbare Papierkapsel",
+        "Nespresso-Kundschaft"
       ],
-      "warum": "die UZH-Studie zeigt genau diesen Kurswechsel, denn der Wunsch bleibt als Ausfahrt ungenutzt",
-      "bild": "vorschlag-2.jpg"
+      "warum": "die umweltfreundliche Variante lag bereit und wurde im letzten Moment links liegen gelassen",
+      "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Nestlé 2022",
-        "Wir bleiben in Russland",
-        "Nestlé 2026",
-        "Sechs Fabriken beim Kreml"
+        "Diskrete Privatbank",
+        "Tradition seit 1890",
+        "Kredite an Benko",
+        "Finma stellt Verstösse fest"
       ],
-      "warum": "auf die behauptete Standhaftigkeit folgt die Zwangsverwaltung, das ist das Früher-Heute-Gefälle",
-      "bild": "vorschlag-3.jpg"
-    },
-    {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
-      "zeilen": [
-        "Rückzug aus Tansania",
-        "Neuer geografischer Fokus"
-      ],
-      "warum": "der Bund verpackt den Ausstieg aus einer langjährigen Partnerschaft als Strategie, der Euphemismus ist die ganze Meldung",
+      "warum": "der behauptete Glanz des Schweizer Private Banking trifft auf die Signa-Wirklichkeit",
       "bild": "vorschlag-4.jpg"
     }
   ]
