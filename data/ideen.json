@@ -1,8 +1,38 @@
 {
   "datum": "2026-09-30",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-09-30-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sonne und Wind schlagen Atomkraft beim Preis, der Markt entscheidet, die FDP geht in Rekurs",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 17,
+      "text": "Ein neuer Bericht zeigt, Sonne und Wind wachsen weltweit schneller als Atomkraft, weil sie billiger sind. Der Markt hat entschieden, die FDP geht in Rekurs, mit Subventionsgesuch."
+    },
+    {
+      "id": "2026-09-30-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Experten: Welt geht nicht wegen KI unter, am selben Tag Hurrikan Polo, die Stelle ist besetzt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Zwei Schweizer Experten beruhigen, die Welt gehe nicht wegen KI unter. Am selben Tag evakuiert Mexiko vor Hurrikan Polo die Küste, die Stelle ist also besetzt."
+    },
+    {
+      "id": "2026-09-30-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nati schlägt zehn Schotten, so deutlich siegt die Schweiz sonst nur im Asylverfahren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Nati schlägt zehn Schotten 3:0. Sonst siegt die Schweiz so deutlich nur im Asylverfahren."
+    },
     {
       "id": "2026-09-30-0757-24",
       "typ": "politisch-aktuell",
