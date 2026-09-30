@@ -1,60 +1,56 @@
 {
-  "stand": "2026-09-29T17:00:40+02:00",
-  "lauf": "1700",
+  "stand": "2026-09-30T08:12:28+02:00",
+  "lauf": "0811",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Erneuter Anstieg – Krankenkassenprämien steigen 2027 um 5 Prozent",
-      "was": "Bundesrätin am Rednerpult vor Prämienkurve an der Medienkonferenz in Bern",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: das jährlich gleiche Bedauern am Pult gegen die jährlich gleiche steigende Kurve im Hintergrund.",
+      "id": "0811-1",
+      "titel": "Bis zu 6,6 Prozent: So stark steigen die Prämien in deinem Kanton",
+      "was": "Gesundheitsministerin mit ernster Miene am Podium vor Prämiengrafik",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, die jährliche Medienkonferenz als festes Brauchtum wie Fasnacht oder Chlausabend. Achse: Jedes Jahr dieselbe betroffene Miene, aber an der Politik ändert s",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
+      "auch_bei": [
+        "SRF"
+      ],
+      "artikel": "https://www.20min.ch/story/krankenkassenpraemien-2027-so-stark-steigt-deine-praemie-je-nach-kanton-103637165",
+      "bild": "https://image.20min.ch/2026/09/29/e086f916-820f-4c84-ad70-32bdb00d0da4.jpg?s=1a743c8952812d589e2a4255da262609",
+      "zeit": "2026-09-29T13:59+02:00"
+    },
+    {
+      "id": "0811-2",
+      "titel": "Dezimierte Schotten chancenlos – Dank Rodriguez & Elvedi: Schweiz legt in der Nations League nach",
+      "was": "Nati-Spieler jubeln nach Tor in Glasgow, Elvedi im Zentrum",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, der Sieg gegen dezimierte Schotten wird wie ein WM-Titel gefeiert. Achse: Grosser Jubel, obwohl der Gegner lange nur zu zehnt war.",
       "grund": "breit",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
-        "20 Minuten",
-        "NZZ"
+        "NZZ",
+        "Spiegel"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/erneuter-anstieg-krankenkassenpraemien-steigen-2027-um-5-prozent",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/f9a87c.jpg",
-      "zeit": "2026-09-29T15:21+02:00"
+      "artikel": "https://www.srf.ch/sport/fussball/nationalmannschaft/dezimierte-schotten-chancenlos-dank-rodriguez-elvedi-schweiz-legt-in-der-nations-league-nach",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/c76600.jpg",
+      "zeit": "2026-09-29T22:50+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "«Das ist Geschwätz»: David Degen erklärt seinen FC Basel – und findet, der neue Trainer mache «einen rechten Eindruck»",
-      "was": "David Degen und neuer Trainer Jokanovic posieren mit FCB-Schal",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: die feierliche Trainervorstellung als Neuanfang gegen das Ritual, das beim FCB so oft stattfindet, dass es zur Routine geworden ist.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "20 Minuten"
-      ],
-      "artikel": "https://www.nzz.ch/sport/fussball/fc-basel-praesident-degen-erklaert-trainerwechsel-und-shaqiri-plaene-ld.10025904",
-      "bild": "https://img-msp-prod.nzz.ch/2026/09/29/3959a5e1-c5d3-4f15-a9a9-7b6f033ec5d8.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4130,4130,x377,y0",
-      "zeit": "2026-09-29T16:10+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Häggenschwils Abstimmungskrimi – 336 Nein, 335 Ja: Ein Dorf zwischen Staunen und Enttäuschung",
-      "was": "Alte Turnhalle in Häggenschwil, Dorfbewohner und Gemeindepräsident davor",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: im Dorf entscheidet eine einzige Stimme über ein ganzes Gebäude, während in Bern Tausende Stimmen und Milliarden bei den Prämien nichts bew",
+      "id": "0811-3",
+      "titel": "Zerreissprobe für die G20 – Trump lädt Putin zu G20 ein – und bringt Europäer in Bredouille",
+      "was": "Trump und Putin beim Handschlag, beide lächeln in die Kamera",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Europäer, die hinten im Gruppenfoto stehen und mitlächeln müssen. Achse: Ein Gipfel, der Regeln verteidigen will, lädt genau den Gast ein, der sie bricht.",
       "grund": "memetauglich",
-      "raum": "schweiz",
+      "raum": "weltweit",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/haeggenschwils-abstimmungskrimi-336-nein-335-ja-ein-dorf-zwischen-staunen-und-enttaeuschung",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/1c8f3e.jpg",
-      "zeit": "2026-09-29T15:37+02:00"
+      "artikel": "https://www.srf.ch/news/international/zerreissprobe-fuer-die-g20-trump-laedt-putin-zu-g20-ein-und-bringt-europaeer-in-bredouille",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/e515ab.jpg",
+      "zeit": "2026-09-29T20:10+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Nachmittag",
-      "was": "Ständerat im Saal bei der EU-Debatte, Abstimmung über die Zuwanderungsabgabe"
-    },
-    {
-      "wann": "heute",
-      "was": "Andy Burnham am Rednerpult beim Labour-Parteitag vor Parteikulisse"
+      "wann": "heute während der Sitzung",
+      "was": "Herbstsession im Bundeshaus, Ratsmitglieder im Saal oder in der Wandelhalle"
     }
   ],
   "hinweis": ""
