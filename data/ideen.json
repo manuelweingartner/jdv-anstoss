@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 17,
-      "text": "Ein neuer Bericht zeigt, Sonne und Wind wachsen weltweit schneller als Atomkraft, weil sie billiger sind. Der Markt hat entschieden, die FDP geht in Rekurs, mit Subventionsgesuch."
+      "text": "Ein neuer Bericht zeigt, Sonne und Wind wachsen weltweit schneller als Atomkraft, weil sie billiger sind. Der Markt hat entschieden, die FDP geht in Rekurs, mit Subventionsgesuch.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-30-0757-02",
@@ -21,7 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Zwei Schweizer Experten beruhigen, die Welt gehe nicht wegen KI unter. Am selben Tag evakuiert Mexiko vor Hurrikan Polo die Küste, die Stelle ist also besetzt."
+      "text": "Zwei Schweizer Experten beruhigen, die Welt gehe nicht wegen KI unter. Am selben Tag evakuiert Mexiko vor Hurrikan Polo die Küste, die Stelle ist also besetzt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-09-30-0757-03",
@@ -31,7 +41,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Die Nati schlägt zehn Schotten 3:0. Sonst siegt die Schweiz so deutlich nur im Asylverfahren."
+      "text": "Die Nati schlägt zehn Schotten 3:0. Sonst siegt die Schweiz so deutlich nur im Asylverfahren.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-09-30-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Freiwillige KI-Sicherheitsregeln der Tech-Konzerne, Banküberfälle per Absichtserklärung regeln",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Tech-Konzerne unterschreiben freiwillige Sicherheitsregeln für ihre KI. Klingt vernünftig, so könnte man auch Banküberfälle regeln: Absichtserklärung, unterschrieben vor der Filiale, mit laufendem Motor.",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-09-30-0757-11",
@@ -41,7 +71,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Zahlen Steuerzahler*innen für drei Zimmer im Zürcher Sugus-Haus 3600 Franken, ist das ein «Skandal». Zahlt eine Familie denselben Preis, ist das «Zürich»."
+      "text": "Zahlen Steuerzahler*innen für drei Zimmer im Zürcher Sugus-Haus 3600 Franken, ist das ein «Skandal». Zahlt eine Familie denselben Preis, ist das «Zürich».",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-09-30-0757-12",
@@ -51,7 +86,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Finma findet Verstösse bei Julius Bär. Hier alle Bussen, die sie verhängen darf:\n-\n-"
+      "text": "Finma findet Verstösse bei Julius Bär. Hier alle Bussen, die sie verhängen darf:\n-\n-",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-09-30-0757-16",
@@ -61,47 +101,57 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Appenzell Innerrhoden hat eine Masseneinwanderung, die niemanden stört. Sie fährt Sixt. Vollkasko."
+      "text": "Appenzell Innerrhoden hat eine Masseneinwanderung, die niemanden stört. Sie fährt Sixt. Vollkasko.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-09-30-0757-18",
+      "id": "2026-09-30-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nati schlägt Schottland in Überzahl, stark gegen Gegner am Boden, siehe Sozialhilfe",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Mit einem Mann mehr schlägt die Nati Schottland 3:0. Gegen Gegner, die schon am Boden liegen, war die Schweiz immer stark. Siehe Sozialhilfe.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-30-0757-32",
+      "typ": "remix",
+      "stichwort": "Batman stellt einen Handtaschendieb, die Finma stellt bei Julius Bär Verstösse fest",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gleichentags stellt ein Mann im Batman-Kostüm einen Handtaschendieb und die Finma bei Julius Bär Verstösse in der Signa-Pleite fest. Nur einer bringt die Tasche zurück.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-09-30-0757-38",
       "typ": "schnittmenge",
-      "stichwort": "Mietauto kriegt in Innerrhoden einen Wohnsitz, Frau auf der Flucht im Thurgau kein Frauenhaus",
+      "stichwort": "Autovermieter sparen Steuern in Innerrhoden, ich melde mich dort auch an, als Mietauto",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "In Appenzell Innerrhoden kriegt jedes Mietauto einen Wohnsitz. Im Thurgau kriegt eine Frau auf der Flucht kein Frauenhaus."
-    },
-    {
-      "id": "2026-09-30-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "KI-Konzerne unterschreiben freiwillige Sicherheitsregeln, beim Kebabstand kommt das Lebensmittelinspektorat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Tech-Konzerne unterschreiben in den USA freiwillige KI-Sicherheitsregeln. Seh ich das richtig, beim Kebabstand kommt das Lebensmittelinspektorat, bei der Superintelligenz reicht ein Ehrenwort?"
-    },
-    {
-      "id": "2026-09-30-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lindt kappt wegen Hitzewelle das Umsatzziel, zum Glück spart die Schweiz beim Klimaschutz",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Lindt kappt wegen der Hitzewelle das Umsatzziel, niemand will mehr Pralinen. Zum Glück spart die Schweiz beim Klimaschutz, der wäre schlecht für die Wirtschaft."
-    },
-    {
-      "id": "2026-09-30-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Referenzzins gleich, Mietsenkung trotzdem möglich, klingt nach Kommunismus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Der Referenzzins bleibt gleich, trotzdem dürften viele Mieter*innen eine Senkung verlangen. Klingt nach Kommunismus."
+      "text": "Autovermieter lösen ihre Flotten wegen der tiefen Steuer in Innerrhoden ein. Habe mich heute auch dort angemeldet. Als Mietauto.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
