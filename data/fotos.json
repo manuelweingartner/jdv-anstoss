@@ -1,56 +1,59 @@
 {
-  "stand": "2026-09-30T08:12:28+02:00",
-  "lauf": "0811",
+  "stand": "2026-09-30T17:00:40+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0811-1",
-      "titel": "Bis zu 6,6 Prozent: So stark steigen die Prämien in deinem Kanton",
-      "was": "Gesundheitsministerin mit ernster Miene am Podium vor Prämiengrafik",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, die jährliche Medienkonferenz als festes Brauchtum wie Fasnacht oder Chlausabend. Achse: Jedes Jahr dieselbe betroffene Miene, aber an der Politik ändert s",
+      "id": "1700-1",
+      "titel": "Deutsche Wirtschaft: Warum die Initiative »Made for Germany« ihr Versprechen verfehlt",
+      "was": "Bundeskanzler posiert im Gruppenbild mit Konzernchefs vor Initiativen-Logo",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Aufbruch wird für die Kamera inszeniert, während dieselben Konzerne Tarifverträge kündigen und Abfindungsprogramme wieder hochfahren.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "SRF"
+        "NZZ"
       ],
-      "artikel": "https://www.20min.ch/story/krankenkassenpraemien-2027-so-stark-steigt-deine-praemie-je-nach-kanton-103637165",
-      "bild": "https://image.20min.ch/2026/09/29/e086f916-820f-4c84-ad70-32bdb00d0da4.jpg?s=1a743c8952812d589e2a4255da262609",
-      "zeit": "2026-09-29T13:59+02:00"
+      "artikel": "https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-warum-die-initiative-made-for-germany-ihr-versprechen-verfehlt-a-fb3af4e3-a54b-47b7-849b-efb6958a0324#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/edfc4519-ba21-4c98-910c-63beff2fc1fa_w520_r2.08_fpx51.29_fpy44.98.jpg",
+      "zeit": "2026-09-30T15:16+02:00"
     },
     {
-      "id": "0811-2",
-      "titel": "Dezimierte Schotten chancenlos – Dank Rodriguez & Elvedi: Schweiz legt in der Nations League nach",
-      "was": "Nati-Spieler jubeln nach Tor in Glasgow, Elvedi im Zentrum",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, der Sieg gegen dezimierte Schotten wird wie ein WM-Titel gefeiert. Achse: Grosser Jubel, obwohl der Gegner lange nur zu zehnt war.",
+      "id": "1700-2",
+      "titel": "Kleine Pfoten, grosser Einsatz – Chihuahua-Rekrut Comando erobert Herzen und Mexikos Nationalgarde",
+      "was": "Chihuahua in Mini-Uniform zwischen salutierenden Soldaten der Nationalgarde",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: militärisches Pathos und feierliche Vereidigung gegen einen Rekruten, der in eine Handtasche passt.",
       "grund": "breit",
-      "raum": "schweiz",
+      "raum": "",
       "quelle": "SRF",
       "auch_bei": [
-        "NZZ",
-        "Spiegel"
+        "NZZ"
       ],
-      "artikel": "https://www.srf.ch/sport/fussball/nationalmannschaft/dezimierte-schotten-chancenlos-dank-rodriguez-elvedi-schweiz-legt-in-der-nations-league-nach",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/c76600.jpg",
-      "zeit": "2026-09-29T22:50+02:00"
+      "artikel": "https://www.srf.ch/news/international/kleine-pfoten-grosser-einsatz-chihuahua-rekrut-comando-erobert-herzen-und-mexikos-nationalgarde",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/4ff97b.jpg",
+      "zeit": "2026-09-30T16:32+02:00"
     },
     {
-      "id": "0811-3",
-      "titel": "Zerreissprobe für die G20 – Trump lädt Putin zu G20 ein – und bringt Europäer in Bredouille",
-      "was": "Trump und Putin beim Handschlag, beide lächeln in die Kamera",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Europäer, die hinten im Gruppenfoto stehen und mitlächeln müssen. Achse: Ein Gipfel, der Regeln verteidigen will, lädt genau den Gast ein, der sie bricht.",
+      "id": "1700-3",
+      "titel": "Zurich Film Festival – «Long Shot»: Vier Schweizer und ihr philippinisches Wintermärchen",
+      "was": "Vier Schweizer Curler in philippinischen Nationaltrikots auf dem Eis",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: In der Schweiz dauert die Einbürgerung Jahre mit Gemeindegespräch, für Olympia wechseln Schweizer die Nation so leicht wie das Trikot.",
       "grund": "memetauglich",
-      "raum": "weltweit",
+      "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/zerreissprobe-fuer-die-g20-trump-laedt-putin-zu-g20-ein-und-bringt-europaeer-in-bredouille",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/e515ab.jpg",
-      "zeit": "2026-09-29T20:10+02:00"
+      "artikel": "https://www.srf.ch/kultur/film-serien/zurich-film-festival-long-shot-vier-schweizer-und-ihr-philippinisches-wintermaerchen",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf/d3271b.jpg",
+      "zeit": "2026-09-30T14:37+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute während der Sitzung",
-      "was": "Herbstsession im Bundeshaus, Ratsmitglieder im Saal oder in der Wandelhalle"
+      "wann": "heute bis Sitzungsende",
+      "was": "Ständerat in der Debatte über das Ständemehr bei den EU-Verträgen, Redner am Pult und Abstimmungsanzeige"
+    },
+    {
+      "wann": "heute",
+      "was": "Andy Burnham auf der Bühne des Labour-Parteitags, emotionale Gesten vor Parteifahnen"
     }
   ],
   "hinweis": ""
