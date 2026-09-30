@@ -16881,6 +16881,182 @@
         "neu": false
       },
       "datum": "2026-09-28"
+    },
+    {
+      "id": "2026-09-29-0826-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zürich bremst Hochhäuser, sonst sieht der Zürichberg nur noch Menschen mit Wohnung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Zürich muss Hochhäuser bremsen, sonst sieht man vom Zürichberg die Alpen nicht mehr. Nur noch Menschen, die eine Wohnung haben.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-29"
+    },
+    {
+      "id": "2026-09-29-0826-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor Tempo 30, Schweizer Raser flüchtet mit 312 km/h nach Frankreich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor Tempo 30. Die ersten Schweizer flüchten schon nach Frankreich, einer mit 312 km/h.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-09-29"
+    },
+    {
+      "id": "2026-09-29-0826-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bund zieht sich nach Jahrzehnten aus Tansania zurück, bevor er eingebürgert wird",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Klar zieht der Bund aus Tansania ab. Nach Jahrzehnten wird man sonst noch eingebürgert.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-29"
+    },
+    {
+      "id": "2026-09-29-0826-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bewerberin fragt nach Kollegenlöhnen, Firma findet das indiskret und fragt nach Kinderplänen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Bewerberin fragt, was die Kollegen verdienen. Firma so: sowas fragt man nicht, und wann planen Sie eigentlich Kinder?",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-29"
+    },
+    {
+      "id": "2026-09-29-0826-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neiddebatte, Coop-Kassiererin und der UBS-Chef, der ihren Jahreslohn an einem Dienstag verdient",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ist das eigentlich schon Neid, wenn die Kassiererin im Coop wissen will, warum der UBS-Chef ihren Jahreslohn an einem Dienstag verdient? Frage für die FDP.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-09-29"
+    },
+    {
+      "id": "2026-09-29-0826-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Milliardär stiftet nach gesparten Steuern dem Kinderspital einen Flügel mit Namensschild",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Kaum hat ein Milliardär genug Steuern gespart, stiftet er dem Kinderspital einen Flügel. Mit Namensschild, damit man weiss, wem man danken soll.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-09-29"
+    },
+    {
+      "id": "2026-09-29-0826-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sogar andere Banken verlangen von der UBS mehr Eigenkapital, die Guggenmusik bittet um Ruhe",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Sogar Banken verlangen von der UBS mehr Eigenkapital. Als bäte die Guggenmusik um Ruhe.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-09-29"
+    },
+    {
+      "id": "2026-09-29-0826-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Papst beschwört in Metz Europas Einheit, gleichzeitig Ständerat über fremde Richter, Schweizergarde schwört seit 1506 einem fremden Monarchen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Papst Leo beschwört in Metz die Einheit Europas, gleichzeitig streitet der Ständerat über fremde Richter. Einem fremden Monarchen schwört die Schweizergarde seit 1506 die Treue. Mit Hellebarde.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-09-29"
+    },
+    {
+      "id": "2026-09-29-0826-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bund zieht sich aus Tansania zurück, Hilfe vor Ort jetzt am Paradeplatz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, man muss den Menschen vor Ort helfen, damit sie nicht fliehen. Darum zieht sich der Bund aus Tansania zurück und hilft jetzt vor Ort am Paradeplatz.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-09-29"
+    },
+    {
+      "id": "2026-09-29-0826-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vor dem Gesetz sind alle gleich, danach kommt die Honorarnote mit Seesicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Vor dem Gesetz sind alle gleich. Nach dem Gesetz kommt die Honorarnote, pro angebrochene Viertelstunde, mit Seesicht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-29"
+    },
+    {
+      "id": "2026-09-29-0826-37",
+      "typ": "schnittmenge",
+      "stichwort": "Innerrhoden meldet Mietautos per Formular an, das Frauenstimmrecht brauchte das Bundesgericht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Innerrhoden meldet Tausende Mietautos an, per Formular. Frauen brauchten fürs Stimmrecht noch das Bundesgericht.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-09-29"
     }
   ]
 }
