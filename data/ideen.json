@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-30",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Die Nati schlägt zehn Schotten 3:0. Sonst siegt die Schweiz so deutlich nur im Asylverfahren."
+    },
+    {
+      "id": "2026-09-30-0757-16",
+      "typ": "schnittmenge",
+      "stichwort": "Appenzell Innerrhoden voller Mietautos, die einzige Masseneinwanderung, die niemanden stört",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Appenzell Innerrhoden hat eine Masseneinwanderung, die niemanden stört. Sie fährt Sixt. Vollkasko."
+    },
+    {
+      "id": "2026-09-30-0757-18",
+      "typ": "schnittmenge",
+      "stichwort": "Mietauto kriegt in Innerrhoden einen Wohnsitz, Frau auf der Flucht im Thurgau kein Frauenhaus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "In Appenzell Innerrhoden kriegt jedes Mietauto einen Wohnsitz. Im Thurgau kriegt eine Frau auf der Flucht kein Frauenhaus."
     },
     {
       "id": "2026-09-30-0757-24",
