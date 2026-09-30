@@ -1,6 +1,6 @@
 {
   "datum": "2026-09-30",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Die Nati schlägt zehn Schotten 3:0. Sonst siegt die Schweiz so deutlich nur im Asylverfahren."
+    },
+    {
+      "id": "2026-09-30-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Sugus-Häuser, 3600 Franken für drei Zimmer sind nur ein Skandal, wenn der Staat zahlt",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Zahlen Steuerzahler*innen für drei Zimmer im Zürcher Sugus-Haus 3600 Franken, ist das ein «Skandal». Zahlt eine Familie denselben Preis, ist das «Zürich»."
+    },
+    {
+      "id": "2026-09-30-0757-12",
+      "typ": "remix",
+      "stichwort": "Finma findet Verstösse bei Julius Bär, leere Liste der Bussen",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Finma findet Verstösse bei Julius Bär. Hier alle Bussen, die sie verhängen darf:\n-\n-"
     },
     {
       "id": "2026-09-30-0757-16",
