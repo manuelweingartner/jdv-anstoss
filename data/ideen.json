@@ -74,6 +74,26 @@
       "text": "Dysons neue Zahnbürste kostet 479 Franken und ist undicht. Mehr als eine mittlere Krankenkassenprämie, und den Zahnarzt zahlt man trotzdem selbst."
     },
     {
+      "id": "2026-10-01-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "SP will die US-Kampfjets weiterverkaufen, Ricardo-Inserat mit Fixpreis nach oben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "SP will die US-Kampfjets weiterverkaufen. Ricardo-Inserat: ungeflogen, Fixpreis verhandelbar, aber nur nach oben."
+    },
+    {
+      "id": "2026-10-01-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pro Senectute meldet Einsamkeit über 60, gleichentags Hitzedebatte im Nationalrat, Besuch kommt mit Blaulicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Laut Pro Senectute ist jede dritte Person über 60 einsam, gleichentags debattiert der Nationalrat den Hitzesommer. Immerhin kommt bei Hitze jemand vorbei, mit Blaulicht."
+    },
+    {
       "id": "2026-10-01-0757-24",
       "typ": "politisch-aktuell",
       "stichwort": "Schweiz hat eine der höchsten Roboterdichten, die nehmen wirklich Arbeit weg und niemand will sie ausschaffen",
@@ -82,26 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Kaum ein Land hat so viele Industrieroboter wie die Schweiz. Komisch, die nehmen den Leuten tatsächlich die Arbeit weg, und niemand will sie ausschaffen."
-    },
-    {
-      "id": "2026-10-01-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump blockiert kanadische Waren, verständlich bei Ahornsirup, Entschuldigungen und Krankenversicherung für alle",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ab heute blockiert Trump kanadische Waren im Milliardenwert. Verständlich, so ein Nachbar ist gefährlich: Ahornsirup, ständige Entschuldigungen und eine Krankenversicherung für alle."
-    },
-    {
-      "id": "2026-10-01-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor grüner Verbotspolitik, das Rasensprengen verbietet jetzt die Dürre",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor grüner Verbotspolitik. Das Rasensprengen verbietet jetzt aber schon die Dürre."
     }
   ]
 }
