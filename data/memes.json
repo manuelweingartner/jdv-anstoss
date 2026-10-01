@@ -1,46 +1,46 @@
 {
-  "stand": "2026-09-30T08:13:12+02:00",
+  "stand": "2026-10-01T08:04:20+02:00",
   "vorschlaege": [
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Prämien 5 Prozent teurer",
-        "Moderates Prämienwachstum 2027"
+        "Swiss Life entlässt Leute",
+        "Swiss Life optimiert Strukturen"
       ],
-      "warum": "die jährliche Erhöhung klingt im Amtsdeutsch des Pflichttermins fast wie eine gute Nachricht",
+      "warum": "Stellenabbau bei steigendem Gewinn klingt erst in der Sprache der Konzernkommunikation vertretbar",
       "bild": "vorschlag-1.jpg"
-    },
-    {
-      "vorlage": "schild",
-      "name": "Change My Mind",
-      "zeilen": [
-        "Die UBS braucht mehr Eigenkapital"
-      ],
-      "warum": "Nationalbank und Konkurrenzbanken sehen es gleich, nur Ermotti widerspricht noch",
-      "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Aluminiumkapsel",
+        "Alukapsel für immer",
         "Kompostierbare Papierkapsel",
         "Nespresso-Kundschaft"
       ],
-      "warum": "die umweltfreundliche Variante lag bereit und wurde im letzten Moment links liegen gelassen",
-      "bild": "vorschlag-3.jpg"
+      "warum": "die Kundschaft hatte die vernünftige Spur vor sich und ist in letzter Sekunde zurück zum Alu abgebogen",
+      "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Diskrete Privatbank",
-        "Tradition seit 1890",
-        "Kredite an Benko",
-        "Finma stellt Verstösse fest"
+        "Rhonegletscher 1856",
+        "Eis bis ins Tal",
+        "Rhonegletscher 2026",
+        "Unter weissem Vlies"
       ],
-      "warum": "der behauptete Glanz des Schweizer Private Banking trifft auf die Signa-Wirklichkeit",
+      "warum": "vom mächtigen Gletscher zum Patienten unter der Wärmedecke ist genau der Abstieg von früher zu heute",
+      "bild": "vorschlag-3.jpg"
+    },
+    {
+      "vorlage": "schild",
+      "name": "Change My Mind",
+      "zeilen": [
+        "Eine Finma-Rüge kostet null Franken"
+      ],
+      "warum": "der Satz stimmt, weil die Finma keine Bussen verhängen kann, und widerlegen lässt er sich deshalb auch nicht",
       "bild": "vorschlag-4.jpg"
     }
   ]
