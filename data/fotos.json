@@ -1,59 +1,59 @@
 {
-  "stand": "2026-09-30T17:00:40+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-01T08:03:26+02:00",
+  "lauf": "0802",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Deutsche Wirtschaft: Warum die Initiative »Made for Germany« ihr Versprechen verfehlt",
-      "was": "Bundeskanzler posiert im Gruppenbild mit Konzernchefs vor Initiativen-Logo",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Aufbruch wird für die Kamera inszeniert, während dieselben Konzerne Tarifverträge kündigen und Abfindungsprogramme wieder hochfahren.",
+      "id": "0802-1",
+      "titel": "Berggipfel in Grau statt in Weiss: Die Schweizer Gletscher verlieren erneut 5 Prozent ihres Volumens",
+      "was": "Graue Berggipfel, Reste einer Gletscherzunge, Glaziologen mit Messstangen",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: jedes Jahr ein neuer Schmelzrekord, jedes Jahr dieselbe politische Untätigkeit.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "Spiegel",
+      "quelle": "NZZ",
       "auch_bei": [
-        "NZZ"
+        "Spiegel"
       ],
-      "artikel": "https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-warum-die-initiative-made-for-germany-ihr-versprechen-verfehlt-a-fb3af4e3-a54b-47b7-849b-efb6958a0324#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/edfc4519-ba21-4c98-910c-63beff2fc1fa_w520_r2.08_fpx51.29_fpy44.98.jpg",
-      "zeit": "2026-09-30T15:16+02:00"
+      "artikel": "https://www.nzz.ch/wissenschaft/berggipfel-in-grau-statt-in-weiss-die-schweizer-gletscher-verlieren-erneut-fuenf-prozent-ihres-volumens-ld.10026100",
+      "bild": "https://img-msp-prod.nzz.ch/2026/09/30/96c6a875-bc50-40ee-b2a3-23a59baf3a76.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1069,1069,x284,y0",
+      "zeit": "2026-10-01T05:30+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Kleine Pfoten, grosser Einsatz – Chihuahua-Rekrut Comando erobert Herzen und Mexikos Nationalgarde",
-      "was": "Chihuahua in Mini-Uniform zwischen salutierenden Soldaten der Nationalgarde",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: militärisches Pathos und feierliche Vereidigung gegen einen Rekruten, der in eine Handtasche passt.",
+      "id": "0802-2",
+      "titel": "Tankrabatt: Start bringt spürbaren Rückgang der Spritpreise",
+      "was": "Preistafel an einer Tankstelle, Autofahrer an der Zapfsäule, Warteschlange",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Am selben Tag gibt es Rabatt fürs Auto und einen Aufschlag fürs Deutschlandticket.",
       "grund": "breit",
       "raum": "",
-      "quelle": "SRF",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "NZZ"
+        "Tagesschau"
       ],
-      "artikel": "https://www.srf.ch/news/international/kleine-pfoten-grosser-einsatz-chihuahua-rekrut-comando-erobert-herzen-und-mexikos-nationalgarde",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/4ff97b.jpg",
-      "zeit": "2026-09-30T16:32+02:00"
+      "artikel": "https://www.spiegel.de/wirtschaft/service/tankrabatt-start-bringt-spuerbaren-rueckgang-der-spritpreise-a-8f36c371-f735-48b9-8388-8786dae75db1#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/cb1a35ac-866e-47a9-a917-da32ddceacdc_w520_r2.08_fpx34_fpy7.jpg",
+      "zeit": "2026-10-01T06:51+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Zurich Film Festival – «Long Shot»: Vier Schweizer und ihr philippinisches Wintermärchen",
-      "was": "Vier Schweizer Curler in philippinischen Nationaltrikots auf dem Eis",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: In der Schweiz dauert die Einbürgerung Jahre mit Gemeindegespräch, für Olympia wechseln Schweizer die Nation so leicht wie das Trikot.",
+      "id": "0802-3",
+      "titel": "Coop eröffnet 1000. Filiale: «Das trifft vor allem die Migros»",
+      "was": "Coop-CEO durchschneidet ein Band vor der tausendsten Filiale in Emmenbrücke",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: eine feierliche Eröffnung wie bei einem Staatsakt für die tausendste identische Filiale.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/kultur/film-serien/zurich-film-festival-long-shot-vier-schweizer-und-ihr-philippinisches-wintermaerchen",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf/d3271b.jpg",
-      "zeit": "2026-09-30T14:37+02:00"
+      "artikel": "https://www.20min.ch/story/detailhandels-experte-coop-eroeffnet-1000-filiale-das-trifft-vor-allem-die-migros-103641979",
+      "bild": "https://image.20min.ch/2026/09/30/ac4d4a5e-bc66-4b44-8f7c-3014a2fac47b.jpg?s=3a306a194f7bfb2af90ff0bbb9a7a48a",
+      "zeit": "2026-10-01T07:12+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute bis Sitzungsende",
-      "was": "Ständerat in der Debatte über das Ständemehr bei den EU-Verträgen, Redner am Pult und Abstimmungsanzeige"
+      "wann": "heute im Laufe des Tages",
+      "was": "Herbstsession im Bundeshaus, Ratsmitglieder im Saal und in der Wandelhalle"
     },
     {
-      "wann": "heute",
-      "was": "Andy Burnham auf der Bühne des Labour-Parteitags, emotionale Gesten vor Parteifahnen"
+      "wann": "heute ab Mittag",
+      "was": "Familienfoto der EU-Innenminister in Luxemburg"
     }
   ],
   "hinweis": ""
