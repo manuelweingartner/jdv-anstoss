@@ -1,8 +1,48 @@
 {
   "datum": "2026-10-01",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-01-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Einmal so sicher wohnen wie ein Goldbarren im Zollfreilager",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so sicher wohnen wie ein Goldbarren im Zollfreilager."
+    },
+    {
+      "id": "2026-10-01-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Lohnabrechnungen für unbezahlte Care-Arbeit, ausbezahlt in Blumen am Muttertag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Lohnabrechnungen für Wäsche, Elternabende, Zahnarzttermine und das Geschenk für die Schwiegermutter:\n-\n-\nAusbezahlt wird in Blumen. Einmal im Jahr, am Muttertag."
+    },
+    {
+      "id": "2026-10-01-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Miete steigt heisst Anpassung, Lohn steigt heisst Forderung, Frage an den Hauseigentümerverband",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Warum heisst es eigentlich «Anpassung», wenn die Miete steigt, und «Forderung», wenn der Lohn steigt? Frage für den Hauseigentümerverband."
+    },
+    {
+      "id": "2026-10-01-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuerflüchtlinge als einzige Flüchtlinge mit Willkommenskultur, Pauschale und Seesicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Steuerflüchtlinge sind die einzigen Flüchtlinge, die in der Schweiz eine Willkommenskultur erleben. Mit Pauschale. Und Seesicht."
+    },
     {
       "id": "2026-10-01-0757-24",
       "typ": "politisch-aktuell",
