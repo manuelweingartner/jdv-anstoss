@@ -1,8 +1,23 @@
 {
   "datum": "2026-10-01",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-10-01-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "SP will die F-35 weiterverkaufen, Inserat auf Ricardo mit Fixpreis, der leider nicht fix ist",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die SP will, dass die Schweiz ihre F-35 an andere Länder weiterverkauft. Inserat auf Ricardo: neuwertig, Fixpreis leider nicht fix, keine Garantie.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
     {
       "id": "2026-10-01-0757-02",
       "typ": "politisch-aktuell",
@@ -34,18 +49,18 @@
       }
     },
     {
-      "id": "2026-10-01-0757-04",
+      "id": "2026-10-01-0757-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Wasserknappheit, Gemeinden verteilen Bussen fürs Rasensprengen, Klimaschutz wäre zu teuer gewesen",
+      "stichwort": "Trump blockiert kanadische Waren und will den Friedensnobelpreis, bei uns reicht das für den Friedensrichter",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, Klimaschutz wäre teuer gewesen. Dafür bringen jetzt die Bussen fürs Rasensprengen etwas ein.",
+      "text": "Seh ich das richtig, Trump blockiert ab heute kanadische Waren und will den Friedensnobelpreis? Hierzulande reicht so was knapp für den Friedensrichter.",
       "jury": {
         "neu": true,
         "anker": true,
-        "witz": true
+        "witz": false
       }
     },
     {
@@ -59,21 +74,6 @@
       "text": "In Indonesien fliegt ein Luxusapartment für Häftlinge auf. Am Genfersee heisst sowas Oligarch.",
       "jury": {
         "neu": false,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-10-01-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "SP will die US-Kampfjets weiterverkaufen, Ricardo-Inserat mit Fixpreis nach oben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "SP will die US-Kampfjets weiterverkaufen. Ricardo-Inserat: ungeflogen, Fixpreis verhandelbar, aber nur nach oben.",
-      "jury": {
-        "neu": true,
         "witz": true,
         "anker": true
       }
@@ -134,21 +134,6 @@
       "text": "SVP fürchtet in den EU-Verträgen fremde Richter. Bei jedem Nati-Spiel pfeift einer, ohne Referendum.",
       "jury": {
         "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-01-0757-36",
-      "typ": "schnittmenge",
-      "stichwort": "Schweizer KI-Souveränität fährt längst Autobahn, mit AI-Nummer, versteuert in Innerrhoden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Alle reden von Schweizer KI-Souveränität. Dabei fährt längst auf jeder Autobahn eine AI herum: gemietet in Kloten, versteuert in Appenzell Innerrhoden.",
-      "jury": {
-        "neu": false,
         "anker": true,
         "witz": true
       }
