@@ -4,74 +4,64 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-10-01-0757-07",
+      "id": "2026-10-01-0757-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Einmal so sicher wohnen wie ein Goldbarren im Zollfreilager",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so sicher wohnen wie ein Goldbarren im Zollfreilager."
-    },
-    {
-      "id": "2026-10-01-0757-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Lohnabrechnungen für unbezahlte Care-Arbeit, ausbezahlt in Blumen am Muttertag",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Lohnabrechnungen für Wäsche, Elternabende, Zahnarzttermine und das Geschenk für die Schwiegermutter:\n-\n-\nAusbezahlt wird in Blumen. Einmal im Jahr, am Muttertag."
-    },
-    {
-      "id": "2026-10-01-0757-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Miete steigt heisst Anpassung, Lohn steigt heisst Forderung, Frage an den Hauseigentümerverband",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Warum heisst es eigentlich «Anpassung», wenn die Miete steigt, und «Forderung», wenn der Lohn steigt? Frage für den Hauseigentümerverband."
-    },
-    {
-      "id": "2026-10-01-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Steuerflüchtlinge als einzige Flüchtlinge mit Willkommenskultur, Pauschale und Seesicht",
+      "stichwort": "Hinrichtung von Christa Pike scheitert an der Giftspritze, beim Insulinpreis klappt es zuverlässig",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Steuerflüchtlinge sind die einzigen Flüchtlinge, die in der Schweiz eine Willkommenskultur erleben. Mit Pauschale. Und Seesicht."
+      "text": "Tennessee kriegt Christa Pike mit der Giftspritze nicht hingerichtet. Beim Insulinpreis klappt das zuverlässig.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-10-01-0757-16",
-      "typ": "schnittmenge",
-      "stichwort": "Endlich eine AI, vor der niemand Angst hat: Innerrhoden auf jedem Mietauto-Kennzeichen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Endlich eine AI, vor der niemand Angst hat. Appenzell Innerrhoden, auf jedem Mietauto-Kennzeichen."
-    },
-    {
-      "id": "2026-10-01-0757-17",
+      "id": "2026-10-01-0757-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Gletscher schmelzen historisch, am selben Tag stellt Nespresso die Papierkapsel mangels Nachfrage ein, What else",
+      "stichwort": "Nationalrat fragt Rösti nach Hitze, Rösti will AKWs, Beznau findet die Aare zu warm",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Gletscher schmelzen so stark wie nie, am selben Tag stellt Nespresso die kompostierbare Kapsel aus Papier ein, mangels Nachfrage. What else?"
+      "format": "frei",
+      "text": "Der Nationalrat fragt Albert Rösti, was er gegen Hitze und Dürre tut. Rösti so: neue AKWs, Beznau so: sorry, die Aare ist zu warm zum Kühlen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-01-0757-18",
+      "id": "2026-10-01-0757-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Undichte Dyson-Zahnbürste für 479 Franken kostet mehr als eine Monatsprämie, den Zahnarzt zahlt man trotzdem selbst",
+      "stichwort": "Wasserknappheit, Gemeinden verteilen Bussen fürs Rasensprengen, Klimaschutz wäre zu teuer gewesen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Dysons neue Zahnbürste kostet 479 Franken und ist undicht. Mehr als eine mittlere Krankenkassenprämie, und den Zahnarzt zahlt man trotzdem selbst."
+      "format": "frei",
+      "text": "Stimmt, Klimaschutz wäre teuer gewesen. Dafür bringen jetzt die Bussen fürs Rasensprengen etwas ein.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-01-0757-12",
+      "typ": "remix",
+      "stichwort": "Luxusapartment für Häftlinge in Indonesien aufgeflogen, am Genfersee heisst sowas Oligarch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "In Indonesien fliegt ein Luxusapartment für Häftlinge auf. Am Genfersee heisst sowas Oligarch.",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-10-01-0757-21",
@@ -81,7 +71,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "SP will die US-Kampfjets weiterverkaufen. Ricardo-Inserat: ungeflogen, Fixpreis verhandelbar, aber nur nach oben."
+      "text": "SP will die US-Kampfjets weiterverkaufen. Ricardo-Inserat: ungeflogen, Fixpreis verhandelbar, aber nur nach oben.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-10-01-0757-22",
@@ -91,7 +86,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Laut Pro Senectute ist jede dritte Person über 60 einsam, gleichentags debattiert der Nationalrat den Hitzesommer. Immerhin kommt bei Hitze jemand vorbei, mit Blaulicht."
+      "text": "Laut Pro Senectute ist jede dritte Person über 60 einsam, gleichentags debattiert der Nationalrat den Hitzesommer. Immerhin kommt bei Hitze jemand vorbei, mit Blaulicht.",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-10-01-0757-24",
@@ -101,7 +101,57 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Kaum ein Land hat so viele Industrieroboter wie die Schweiz. Komisch, die nehmen den Leuten tatsächlich die Arbeit weg, und niemand will sie ausschaffen."
+      "text": "Kaum ein Land hat so viele Industrieroboter wie die Schweiz. Komisch, die nehmen den Leuten tatsächlich die Arbeit weg, und niemand will sie ausschaffen.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-01-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump blockiert kanadische Waren, verständlich bei Ahornsirup, Entschuldigungen und Krankenversicherung für alle",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ab heute blockiert Trump kanadische Waren im Milliardenwert. Verständlich, so ein Nachbar ist gefährlich: Ahornsirup, ständige Entschuldigungen und eine Krankenversicherung für alle.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-01-0757-32",
+      "typ": "remix",
+      "stichwort": "SVP fürchtet in den EU-Verträgen fremde Richter, bei jedem Nati-Spiel pfeift einer, ohne Referendum",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "SVP fürchtet in den EU-Verträgen fremde Richter. Bei jedem Nati-Spiel pfeift einer, ohne Referendum.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-01-0757-36",
+      "typ": "schnittmenge",
+      "stichwort": "Schweizer KI-Souveränität fährt längst Autobahn, mit AI-Nummer, versteuert in Innerrhoden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Alle reden von Schweizer KI-Souveränität. Dabei fährt längst auf jeder Autobahn eine AI herum: gemietet in Kloten, versteuert in Appenzell Innerrhoden.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
