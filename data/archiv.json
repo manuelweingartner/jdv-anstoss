@@ -17057,6 +17057,150 @@
         "neu": false
       },
       "datum": "2026-09-29"
+    },
+    {
+      "id": "2026-09-30-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sonne und Wind schlagen Atomkraft beim Preis, der Markt entscheidet, die FDP geht in Rekurs",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 17,
+      "text": "Ein neuer Bericht zeigt, Sonne und Wind wachsen weltweit schneller als Atomkraft, weil sie billiger sind. Der Markt hat entschieden, die FDP geht in Rekurs, mit Subventionsgesuch.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Experten: Welt geht nicht wegen KI unter, am selben Tag Hurrikan Polo, die Stelle ist besetzt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Zwei Schweizer Experten beruhigen, die Welt gehe nicht wegen KI unter. Am selben Tag evakuiert Mexiko vor Hurrikan Polo die Küste, die Stelle ist also besetzt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nati schlägt zehn Schotten, so deutlich siegt die Schweiz sonst nur im Asylverfahren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Nati schlägt zehn Schotten 3:0. Sonst siegt die Schweiz so deutlich nur im Asylverfahren.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hitze war jahrelang Panikmache, zur Krise wird sie erst, wenn Lindt keine Lindor-Kugeln mehr loswird",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, die Hitze war jahrelang Panikmache, und erst jetzt, wo Lindt keine Lindor-Kugeln mehr loswird, ist es eine Krise? Mit Gewinnwarnung.",
+      "jury": {
+        "neu": true,
+        "witz": false,
+        "anker": true
+      },
+      "datum": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Freiwillige KI-Sicherheitsregeln der Tech-Konzerne, Banküberfälle per Absichtserklärung regeln",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Tech-Konzerne unterschreiben freiwillige Sicherheitsregeln für ihre KI. Klingt vernünftig, so könnte man auch Banküberfälle regeln: Absichtserklärung, unterschrieben vor der Filiale, mit laufendem Motor.",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Sugus-Häuser, 3600 Franken für drei Zimmer sind nur ein Skandal, wenn der Staat zahlt",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Zahlen Steuerzahler*innen für drei Zimmer im Zürcher Sugus-Haus 3600 Franken, ist das ein «Skandal». Zahlt eine Familie denselben Preis, ist das «Zürich».",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-0757-12",
+      "typ": "remix",
+      "stichwort": "Finma findet Verstösse bei Julius Bär, leere Liste der Bussen",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Finma findet Verstösse bei Julius Bär. Hier alle Bussen, die sie verhängen darf:\n-\n-",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-0757-16",
+      "typ": "schnittmenge",
+      "stichwort": "Appenzell Innerrhoden voller Mietautos, die einzige Masseneinwanderung, die niemanden stört",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Appenzell Innerrhoden hat eine Masseneinwanderung, die niemanden stört. Sie fährt Sixt. Vollkasko.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-0757-36",
+      "typ": "schnittmenge",
+      "stichwort": "Innerrhoden ist wegen der Mietautos ein Autokanton, so wie Zug ein Bergbaukanton",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Appenzell Innerrhoden ist wegen der Mietautos ein Autokanton. Ungefähr so wie Zug ein Bergbaukanton.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      },
+      "datum": "2026-09-30"
     }
   ]
 }
