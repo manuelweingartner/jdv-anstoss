@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-01",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -44,6 +44,36 @@
       "text": "Steuerflüchtlinge sind die einzigen Flüchtlinge, die in der Schweiz eine Willkommenskultur erleben. Mit Pauschale. Und Seesicht."
     },
     {
+      "id": "2026-10-01-0757-16",
+      "typ": "schnittmenge",
+      "stichwort": "Endlich eine AI, vor der niemand Angst hat: Innerrhoden auf jedem Mietauto-Kennzeichen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Endlich eine AI, vor der niemand Angst hat. Appenzell Innerrhoden, auf jedem Mietauto-Kennzeichen."
+    },
+    {
+      "id": "2026-10-01-0757-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gletscher schmelzen historisch, am selben Tag stellt Nespresso die Papierkapsel mangels Nachfrage ein, What else",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gletscher schmelzen so stark wie nie, am selben Tag stellt Nespresso die kompostierbare Kapsel aus Papier ein, mangels Nachfrage. What else?"
+    },
+    {
+      "id": "2026-10-01-0757-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Undichte Dyson-Zahnbürste für 479 Franken kostet mehr als eine Monatsprämie, den Zahnarzt zahlt man trotzdem selbst",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Dysons neue Zahnbürste kostet 479 Franken und ist undicht. Mehr als eine mittlere Krankenkassenprämie, und den Zahnarzt zahlt man trotzdem selbst."
+    },
+    {
       "id": "2026-10-01-0757-24",
       "typ": "politisch-aktuell",
       "stichwort": "Schweiz hat eine der höchsten Roboterdichten, die nehmen wirklich Arbeit weg und niemand will sie ausschaffen",
@@ -72,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Habe Angst vor grüner Verbotspolitik. Das Rasensprengen verbietet jetzt aber schon die Dürre."
-    },
-    {
-      "id": "2026-10-01-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "Pensionskasse verliert fünf Prozent: Krisenstab, Gletscher verlieren fünf Prozent: Bildstrecke mit Drohnenflug",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Verliert ein Pensionskassenfonds in einem Jahr fünf Prozent, tagt der Krisenstab. Verlieren die Gletscher fünf Prozent ihres Eises, gibt es eine Bildstrecke, mit Drohnenflug."
-    },
-    {
-      "id": "2026-10-01-0757-32",
-      "typ": "remix",
-      "stichwort": "SVP fürchtet in den EU-Verträgen fremde Richter, bei jedem Nati-Spiel pfeift einer, ohne Referendum",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "SVP fürchtet in den EU-Verträgen fremde Richter. Bei jedem Nati-Spiel pfeift einer, ohne Referendum."
     }
   ]
 }
