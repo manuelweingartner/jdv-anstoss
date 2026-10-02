@@ -1,59 +1,61 @@
 {
-  "stand": "2026-10-01T17:00:41+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-02T08:06:02+02:00",
+  "lauf": "0805",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Cristiano Ronaldo: Portugals Nummer 7 wird nach Abreise von CR7 neu vergeben",
-      "was": "Ronaldo steigt mit ernster Miene in einen Privatjet",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, aus der beleidigten Abreise wird ein ganz normaler Personalwechsel. Achse: der Star, der sich für unersetzlich hält, gegen die Trikotnummer, die schon nach",
+      "id": "0805-1",
+      "titel": "DIE NEUESTEN ENTWICKLUNGEN - Zollverhandlungen Schweiz – USA: Donald Trump greift erneut die Schweiz an und sagt: «Ich will nicht 40 Milliarden Dollar im Jahr verlieren für eure Uhren»",
+      "was": "Trump am Rednerpult, gestikulierend, daneben Schweizer Uhren oder Delegation",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein Handelsdefizit in Milliarden gegen ein Stück Schmuck am Handgelenk.",
       "grund": "breit",
-      "raum": "",
+      "raum": "schweiz",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "SRF",
+        "Spiegel"
+      ],
+      "artikel": "https://www.nzz.ch/wirtschaft/zollschock-fuer-die-schweiz-antworten-auf-die-wichtigsten-fragen-ld.1896220",
+      "bild": "https://img-msp-prod.nzz.ch/2025/11/09/1fc81f5b-f05f-4ee1-b2e2-78893137b484.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1067,1067,x267,y0",
+      "zeit": "2026-10-02T08:03+02:00"
+    },
+    {
+      "id": "0805-2",
+      "titel": "ISS: Astronauten erreichen Raumstation in Rekordzeit von acht Stunden",
+      "was": "Vier Astronauten in Raumanzügen winken vor der Dragon-Kapsel",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Amerikaner und Russe vertragen sich in der Kapsel bestens, unten auf der Erde reden ihre Regierungen nur noch in Drohungen.",
+      "grund": "breit",
+      "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
-        "20 Minuten"
+        "SRF",
+        "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/sport/fussball/nations-league-cristiano-ronaldo-reist-ab-portugals-nummer-7-ist-neu-vergeben-a-aa5e3c37-804c-4a83-a12a-74cdf49e8b9d#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/62bc2d35-1dae-4474-b1a5-8ba83edcfb5e_w520_r2.08_fpx38.67_fpy49.99.jpg",
-      "zeit": "2026-10-01T14:28+02:00"
+      "artikel": "https://www.spiegel.de/wissenschaft/iss-astronauten-erreichen-raumstation-in-rekordzeit-von-acht-stunden-a-5a73eebc-7a2f-4c94-a58b-683f5f35e309#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/eb2192bd-3141-4844-a4eb-5d65f3a04f93_w520_r2.08_fpx76.95_fpy54.99.jpg",
+      "zeit": "2026-10-02T04:15+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Zürich unter Druck – Verliert Zürich als Wirtschaftsstandort den Anschluss?",
-      "was": "Bankhochhaus am Zürcher Paradeplatz, Logo wird abmontiert oder Umzugskisten",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, der Wegzug von Grossbanken wird wie ein gewöhnlicher WG-Auszug behandelt. Achse: Zürichs Selbstbild als Weltfinanzplatz gegen die Banken, die ganz",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [
-        "taz"
-      ],
-      "artikel": "https://www.srf.ch/news/schweiz/zuerich-unter-druck-verliert-zuerich-als-wirtschaftsstandort-den-anschluss",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/af6824.jpg",
-      "zeit": "2026-10-01T14:11+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Bilaterale Verträge mit der EU – Mit Wilhelm Tell auf dem neuen bilateralen Weg",
-      "was": "Ständeräte im Saal, Wilhelm-Tell-Wandbild oder Tell-Requisit im Blick",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten, Tell sieht vom Bild herab zu, wie über die EU verhandelt wird. Achse: der Freiheitsmythos gegen fremde Vögte und ein Rat, der sich mit Brüssel zusammen",
+      "id": "0805-3",
+      "titel": "2200 Seiten EU-Vertrag: Haben Sie alles gelesen, Herr Ständerat?",
+      "was": "Ständeräte im Saal hinter einem Stapel EU-Vertragsakten",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Jahrhundertvertrag fürs Land gegen das AGB-Häkchen, das jeder setzt, ohne zu lesen.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/bilaterale-vertraege-mit-der-eu-mit-wilhelm-tell-auf-dem-neuen-bilateralen-weg",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/4892e1.jpg",
-      "zeit": "2026-10-01T15:02+02:00"
+      "artikel": "https://www.20min.ch/story/bilanz-der-monsterdebatte-2200-seiten-eu-vertrag-haben-sie-alles-gelesen-herr-staenderat-103641795",
+      "bild": "https://image.20min.ch/2026/10/01/9ca81322-e3ec-4009-89a8-587089dea355.jpg?s=dc9f5f7dd1e53b17ae19417ec94743e7",
+      "zeit": "2026-10-01T17:04+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Abend",
-      "was": "Länderspiel Deutschland gegen Serbien, Klopp an der Seitenlinie, Jubel oder Verzweiflung"
+      "wann": "heute im Lauf des Tages",
+      "was": "Gruppenfoto der EU-Innenminister beim Treffen zum Asylrecht"
     },
     {
-      "wann": "heute während der Herbstsession",
-      "was": "Ratsmitglieder im Bundeshaus nach EU- und Olympia-Entscheiden, Händeschütteln und Pressepulk"
+      "wann": "heute Abend (US-Zeit)",
+      "was": "Trump auf Wahlkampfbühne vor den Zwischenwahlen"
     }
   ],
   "hinweis": ""
