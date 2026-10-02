@@ -4,14 +4,34 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-10-02-0757-07",
+      "id": "2026-10-02-0757-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Briefkastenfirmen in Zug, Dutzende Konzerne an einer Adresse, bei Familien heisst das Überbelegung",
+      "stichwort": "Dänisches Asylmodell als Vorbild, wie eine Notaufnahme, die abschliesst, damit weniger Verletzte kommen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "In Zug teilen sich Dutzende Konzerne einen Briefkasten. Bei Familien heisst das Überbelegung."
+      "format": "frei",
+      "text": "Wer das dänische Asylmodell als Vorbild lobt, weil weniger Gesuche kommen, lobt auch die Notaufnahme, die abschliesst, damit weniger Verletzte kommen. Wartezeiten auf Rekordtief.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-02-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor Windrädern in den Alpen, die Gletscher gehen wenigstens freiwillig",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe Angst vor Windrädern in den Alpen. Die Gletscher gehen wenigstens freiwillig.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-02-0757-08",
@@ -21,17 +41,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal im Pflegeheim so viel Zuwendung bekommen wie ein Porsche bei der Handwäsche. Mit Wachs und ohne Stoppuhr."
-    },
-    {
-      "id": "2026-10-02-0757-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Kinder von Rüstungsmanager*innen an der Front, die Dividende ist überall",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier eine Liste aller Kinder von Rüstungsmanager*innen, die gerade an einer Front kämpfen:\n-\n-\nDie Dividende dafür ist an allen Fronten gleichzeitig."
+      "text": "Einmal im Pflegeheim so viel Zuwendung bekommen wie ein Porsche bei der Handwäsche. Mit Wachs und ohne Stoppuhr.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-02-0757-10",
@@ -41,27 +56,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wie nennt man jemanden, der jahrelang ohne Lohn und ohne Feierabend Kinder grosszieht und Eltern pflegt? Die Pensionskasse hat ein Wort dafür: Beitragslücke."
+      "text": "Wie nennt man jemanden, der jahrelang ohne Lohn und ohne Feierabend Kinder grosszieht und Eltern pflegt? Die Pensionskasse hat ein Wort dafür: Beitragslücke.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-02-0757-11",
+      "id": "2026-10-02-0757-16",
       "typ": "schnittmenge",
-      "stichwort": "Mehrwertsteuer für Armee, AHV und Bahn: Reichensteuer ist «Standortgift», die Migros-Kasse ist «breit abgestützt»",
-      "plattform": "Threads + Bluesky, IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Eine Steuer, die Millionär*innen trifft, ist «Standortgift». Eine Mehrwertsteuer für Armee, AHV, Bahn, bezahlt an der Migros-Kasse, ist «breit abgestützt»."
-    },
-    {
-      "id": "2026-10-02-0757-12",
-      "typ": "remix",
-      "stichwort": "Neue ISS-Crew in Rekordzeit eingezogen, leere Liste der Zürcher Wohnungen, die genauso schnell gingen",
+      "stichwort": "Appenzell Innerrhoden lehnt Zukunft ab, ist aber Spitze in der Sharing Economy mit Mietauto-Nummernschildern",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Vier Menschen haben in knapp acht Stunden eine Bleibe auf der ISS gefunden, Rekord. Hier alle Zürcher Wohnungen, bei denen das genauso schnell ging:\n-\n-\nThat's it."
+      "text": "Appenzell Innerrhoden lehnt fast alles ab, was nach Zukunft riecht. Nur bei der Sharing Economy ist es Spitze: Seine Nummernschilder fahren auf Mietautos durchs ganze Land.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-02-0757-21",
@@ -71,7 +86,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 19,
-      "text": "Manchester City werden 115 Verstösse gegen die Finanzregeln vorgeworfen, mehr als die 100 Punkte ihrer Rekordsaison. Endlich ein Vereinsrekord, der ehrlich zustande kam."
+      "text": "Manchester City werden 115 Verstösse gegen die Finanzregeln vorgeworfen, mehr als die 100 Punkte ihrer Rekordsaison. Endlich ein Vereinsrekord, der ehrlich zustande kam.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-02-0757-22",
@@ -81,7 +101,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "China baut ein Zahlungssystem am Dollar vorbei. Zuger Rohstoffhändler so: endlich Sanktionen ohne Papierkram."
+      "text": "China baut ein Zahlungssystem am Dollar vorbei. Zuger Rohstoffhändler so: endlich Sanktionen ohne Papierkram.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-02-0757-23",
@@ -91,17 +116,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Island verbietet die Jagd auf Wale, weil sie keine Chance haben. Gleiche Woche nennt halb Europa Dänemarks Asylsystem ein Vorbild, aus genau demselben Grund."
+      "text": "Island verbietet die Jagd auf Wale, weil sie keine Chance haben. Gleiche Woche nennt halb Europa Dänemarks Asylsystem ein Vorbild, aus genau demselben Grund.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     },
     {
-      "id": "2026-10-02-0757-24",
+      "id": "2026-10-02-0757-28",
       "typ": "politisch-aktuell",
-      "stichwort": "Reiche haben es schwer, Neiddebatte, und im Südpazifik versenkt ein Pottwal ihre Yacht",
+      "stichwort": "«Lass dein Geld für dich arbeiten», bei den meisten arbeitet es für den Vermieter",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "«Lass dein Geld für dich arbeiten», rät die UBS. Bei den meisten arbeitet es schon, für den Vermieter, pünktlich am Ersten.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-02-0757-36",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau besteht auf Eigenständigkeit, nur ein eigenes Frauenhaus wäre zu viel Souveränität",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Stimmt, Reiche haben es heute schwer: überall Neiddebatte, und im Südpazifik versenkt ein Pottwal ihre Yacht. Ganz ohne Volksabstimmung."
+      "text": "Der Thurgau hat eine eigene Polizei, eine eigene Steuer und ein eigenes Kantonslied. Ein eigenes Frauenhaus wäre dann zu viel Souveränität, dafür hat man Nachbarn.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     }
   ]
 }
