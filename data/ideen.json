@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-02",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Island verbietet die Jagd auf Wale, weil sie keine Chance haben. Gleiche Woche nennt halb Europa Dänemarks Asylsystem ein Vorbild, aus genau demselben Grund."
+    },
+    {
+      "id": "2026-10-02-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reiche haben es schwer, Neiddebatte, und im Südpazifik versenkt ein Pottwal ihre Yacht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Reiche haben es heute schwer: überall Neiddebatte, und im Südpazifik versenkt ein Pottwal ihre Yacht. Ganz ohne Volksabstimmung."
+    },
+    {
+      "id": "2026-10-02-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gasbranche fürchtet den Winter, gleiche Woche schmelzen die Gletscher, weil es keinen gab",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig: Die Gasbranche fürchtet den Winter, und in derselben Woche schmelzen die Gletscher, weil es letztes Jahr kaum einen gab?"
+    },
+    {
+      "id": "2026-10-02-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Markt bestraft Versagen, Swissair gegroundet, UBS gerettet, zweimal, mit Boni",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Klar, der Markt bestraft Versagen: Swissair gegroundet, UBS gerettet. Zweimal, mit Boni."
     }
   ]
 }
