@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-02",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -82,6 +82,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Klar, der Markt bestraft Versagen: Swissair gegroundet, UBS gerettet. Zweimal, mit Boni."
+    },
+    {
+      "id": "2026-10-02-0757-36",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau besteht auf Eigenständigkeit, nur ein eigenes Frauenhaus wäre zu viel Souveränität",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Der Thurgau hat eine eigene Polizei, eine eigene Steuer und ein eigenes Kantonslied. Ein eigenes Frauenhaus wäre dann zu viel Souveränität, dafür hat man Nachbarn."
+    },
+    {
+      "id": "2026-10-02-0757-37",
+      "typ": "schnittmenge",
+      "stichwort": "Innerrhoden dank Mietautos auf jeder Autobahn in der Mehrheit, beim Ständemehr auch ohne",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Appenzell Innerrhoden ist der kleinste Kanton, aber dank der Mietautos auf jeder Autobahn in der Mehrheit. Beim Ständemehr schafft er das auch ohne Autos, seit 1848."
     }
   ]
 }
