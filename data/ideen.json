@@ -4,6 +4,46 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-10-02-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Briefkastenfirmen in Zug, Dutzende Konzerne an einer Adresse, bei Familien heisst das Überbelegung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "In Zug teilen sich Dutzende Konzerne einen Briefkasten. Bei Familien heisst das Überbelegung."
+    },
+    {
+      "id": "2026-10-02-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pflege im Minutentakt, Neid auf den Porsche bei der Handwäsche",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal im Pflegeheim so viel Zuwendung bekommen wie ein Porsche bei der Handwäsche. Mit Wachs und ohne Stoppuhr."
+    },
+    {
+      "id": "2026-10-02-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Kinder von Rüstungsmanager*innen an der Front, die Dividende ist überall",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier eine Liste aller Kinder von Rüstungsmanager*innen, die gerade an einer Front kämpfen:\n-\n-\nDie Dividende dafür ist an allen Fronten gleichzeitig."
+    },
+    {
+      "id": "2026-10-02-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Unbezahlte Care-Arbeit über Jahre, die Pensionskasse nennt es Beitragslücke",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie nennt man jemanden, der jahrelang ohne Lohn und ohne Feierabend Kinder grosszieht und Eltern pflegt? Die Pensionskasse hat ein Wort dafür: Beitragslücke."
+    },
+    {
       "id": "2026-10-02-0757-11",
       "typ": "schnittmenge",
       "stichwort": "Mehrwertsteuer für Armee, AHV und Bahn: Reichensteuer ist «Standortgift», die Migros-Kasse ist «breit abgestützt»",
@@ -62,46 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Stimmt, Reiche haben es heute schwer: überall Neiddebatte, und im Südpazifik versenkt ein Pottwal ihre Yacht. Ganz ohne Volksabstimmung."
-    },
-    {
-      "id": "2026-10-02-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gasbranche fürchtet den Winter, gleiche Woche schmelzen die Gletscher, weil es keinen gab",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seh ich das richtig: Die Gasbranche fürchtet den Winter, und in derselben Woche schmelzen die Gletscher, weil es letztes Jahr kaum einen gab?"
-    },
-    {
-      "id": "2026-10-02-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Markt bestraft Versagen, Swissair gegroundet, UBS gerettet, zweimal, mit Boni",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Klar, der Markt bestraft Versagen: Swissair gegroundet, UBS gerettet. Zweimal, mit Boni."
-    },
-    {
-      "id": "2026-10-02-0757-36",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau besteht auf Eigenständigkeit, nur ein eigenes Frauenhaus wäre zu viel Souveränität",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der Thurgau hat eine eigene Polizei, eine eigene Steuer und ein eigenes Kantonslied. Ein eigenes Frauenhaus wäre dann zu viel Souveränität, dafür hat man Nachbarn."
-    },
-    {
-      "id": "2026-10-02-0757-37",
-      "typ": "schnittmenge",
-      "stichwort": "Innerrhoden dank Mietautos auf jeder Autobahn in der Mehrheit, beim Ständemehr auch ohne",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Appenzell Innerrhoden ist der kleinste Kanton, aber dank der Mietautos auf jeder Autobahn in der Mehrheit. Beim Ständemehr schafft er das auch ohne Autos, seit 1848."
     }
   ]
 }
