@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-02",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -15,36 +15,6 @@
       "jury": {
         "anker": true,
         "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-02-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor Windrädern in den Alpen, die Gletscher gehen wenigstens freiwillig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Habe Angst vor Windrädern in den Alpen. Die Gletscher gehen wenigstens freiwillig.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-02-0757-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pflege im Minutentakt, Neid auf den Porsche bei der Handwäsche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal im Pflegeheim so viel Zuwendung bekommen wie ein Porsche bei der Handwäsche. Mit Wachs und ohne Stoppuhr.",
-      "jury": {
-        "anker": true,
-        "witz": false,
         "neu": true
       }
     },
@@ -64,17 +34,32 @@
       }
     },
     {
-      "id": "2026-10-02-0757-16",
-      "typ": "schnittmenge",
-      "stichwort": "Appenzell Innerrhoden lehnt Zukunft ab, ist aber Spitze in der Sharing Economy mit Mietauto-Nummernschildern",
+      "id": "2026-10-02-0757-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rekordschmelze der Gletscher, Umweltminister Rösti war früher Swissoil-Präsident, endlich ein Fachmann",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Appenzell Innerrhoden lehnt fast alles ab, was nach Zukunft riecht. Nur bei der Sharing Economy ist es Spitze: Seine Nummernschilder fahren auf Mietautos durchs ganze Land.",
+      "text": "Rekordschmelze bei den Schweizer Gletschern. Zuständig ist Umweltminister Albert Rösti, früher Präsident von Swissoil, also endlich mal ein Fachmann am richtigen Ort.",
       "jury": {
         "anker": true,
-        "witz": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-02-0757-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Post verteuert Abstimmungscouverts, endlich eine Lenkungsabgabe, die der SVP passt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Die Post verteuert das Abstimmungscouvert. Endlich eine Lenkungsabgabe, gegen die die SVP nichts hat.",
+      "jury": {
+        "anker": true,
+        "witz": false,
         "neu": true
       }
     },
@@ -109,18 +94,18 @@
       }
     },
     {
-      "id": "2026-10-02-0757-23",
+      "id": "2026-10-02-0757-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Island verbietet Walfang, weil die Tiere keine Chance haben, gleiche Woche gilt Dänemarks Asyl als Vorbild aus demselben Grund",
+      "stichwort": "Gasbranche fürchtet den Winter, gleiche Woche schmelzen die Gletscher, weil es keinen gab",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Island verbietet die Jagd auf Wale, weil sie keine Chance haben. Gleiche Woche nennt halb Europa Dänemarks Asylsystem ein Vorbild, aus genau demselben Grund.",
+      "format": "frei",
+      "text": "Seh ich das richtig: Die Gasbranche fürchtet den Winter, und in derselben Woche schmelzen die Gletscher, weil es letztes Jahr kaum einen gab?",
       "jury": {
         "anker": true,
-        "neu": false,
-        "witz": true
+        "neu": true,
+        "witz": false
       }
     },
     {
@@ -139,18 +124,18 @@
       }
     },
     {
-      "id": "2026-10-02-0757-36",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau besteht auf Eigenständigkeit, nur ein eigenes Frauenhaus wäre zu viel Souveränität",
+      "id": "2026-10-02-0757-32",
+      "typ": "remix",
+      "stichwort": "Mehrwertsteuer für Armee, AHV und Bahn, der Picasso im Genfer Zollfreilager zahlt null Prozent",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der Thurgau hat eine eigene Polizei, eine eigene Steuer und ein eigenes Kantonslied. Ein eigenes Frauenhaus wäre dann zu viel Souveränität, dafür hat man Nachbarn.",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Bundesbern will Armee, AHV und Bahn über die Mehrwertsteuer finanzieren, also übers Brot im Denner. Der Picasso im Genfer Zollfreilager zahlt solidarisch mit: null Prozent.",
       "jury": {
         "anker": true,
-        "witz": true,
-        "neu": false
+        "witz": false,
+        "neu": true
       }
     }
   ]
