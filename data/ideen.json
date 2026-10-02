@@ -1,142 +1,27 @@
 {
-  "datum": "2026-10-01",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "datum": "2026-10-02",
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-10-01-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "SP will die F-35 weiterverkaufen, Inserat auf Ricardo mit Fixpreis, der leider nicht fix ist",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die SP will, dass die Schweiz ihre F-35 an andere Länder weiterverkauft. Inserat auf Ricardo: neuwertig, Fixpreis leider nicht fix, keine Garantie.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-01-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hinrichtung von Christa Pike scheitert an der Giftspritze, beim Insulinpreis klappt es zuverlässig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Tennessee kriegt Christa Pike mit der Giftspritze nicht hingerichtet. Beim Insulinpreis klappt das zuverlässig.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-10-01-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nationalrat fragt Rösti nach Hitze, Rösti will AKWs, Beznau findet die Aare zu warm",
-      "plattform": "Threads + Bluesky",
+      "id": "2026-10-02-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Mehrwertsteuer für Armee, AHV und Bahn: Reichensteuer ist «Standortgift», die Migros-Kasse ist «breit abgestützt»",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Der Nationalrat fragt Albert Rösti, was er gegen Hitze und Dürre tut. Rösti so: neue AKWs, Beznau so: sorry, die Aare ist zu warm zum Kühlen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-01-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump blockiert kanadische Waren und will den Friedensnobelpreis, bei uns reicht das für den Friedensrichter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seh ich das richtig, Trump blockiert ab heute kanadische Waren und will den Friedensnobelpreis? Hierzulande reicht so was knapp für den Friedensrichter.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-10-01-0757-12",
-      "typ": "remix",
-      "stichwort": "Luxusapartment für Häftlinge in Indonesien aufgeflogen, am Genfersee heisst sowas Oligarch",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "In Indonesien fliegt ein Luxusapartment für Häftlinge auf. Am Genfersee heisst sowas Oligarch.",
-      "jury": {
-        "neu": false,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-10-01-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pro Senectute meldet Einsamkeit über 60, gleichentags Hitzedebatte im Nationalrat, Besuch kommt mit Blaulicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Laut Pro Senectute ist jede dritte Person über 60 einsam, gleichentags debattiert der Nationalrat den Hitzesommer. Immerhin kommt bei Hitze jemand vorbei, mit Blaulicht.",
-      "jury": {
-        "neu": false,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-10-01-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweiz hat eine der höchsten Roboterdichten, die nehmen wirklich Arbeit weg und niemand will sie ausschaffen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kaum ein Land hat so viele Industrieroboter wie die Schweiz. Komisch, die nehmen den Leuten tatsächlich die Arbeit weg, und niemand will sie ausschaffen.",
-      "jury": {
-        "neu": false,
-        "anker": true,
-        "witz": true
-      }
+      "format": 1,
+      "text": "Eine Steuer, die Millionär*innen trifft, ist «Standortgift». Eine Mehrwertsteuer für Armee, AHV, Bahn, bezahlt an der Migros-Kasse, ist «breit abgestützt»."
     },
     {
-      "id": "2026-10-01-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump blockiert kanadische Waren, verständlich bei Ahornsirup, Entschuldigungen und Krankenversicherung für alle",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ab heute blockiert Trump kanadische Waren im Milliardenwert. Verständlich, so ein Nachbar ist gefährlich: Ahornsirup, ständige Entschuldigungen und eine Krankenversicherung für alle.",
-      "jury": {
-        "neu": false,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-01-0757-32",
+      "id": "2026-10-02-0757-12",
       "typ": "remix",
-      "stichwort": "SVP fürchtet in den EU-Verträgen fremde Richter, bei jedem Nati-Spiel pfeift einer, ohne Referendum",
+      "stichwort": "Neue ISS-Crew in Rekordzeit eingezogen, leere Liste der Zürcher Wohnungen, die genauso schnell gingen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "SVP fürchtet in den EU-Verträgen fremde Richter. Bei jedem Nati-Spiel pfeift einer, ohne Referendum.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
+      "format": "frei",
+      "text": "Vier Menschen haben in knapp acht Stunden eine Bleibe auf der ISS gefunden, Rekord. Hier alle Zürcher Wohnungen, bei denen das genauso schnell ging:\n-\n-\nThat's it."
     }
   ]
 }
