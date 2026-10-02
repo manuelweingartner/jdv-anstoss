@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-02",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Vier Menschen haben in knapp acht Stunden eine Bleibe auf der ISS gefunden, Rekord. Hier alle Zürcher Wohnungen, bei denen das genauso schnell ging:\n-\n-\nThat's it."
+    },
+    {
+      "id": "2026-10-02-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "ManCity soll Bücher frisiert haben, 115 Vorwürfe gegen 100 Punkte der Rekordsaison, endlich ein ehrlicher Vereinsrekord",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Manchester City werden 115 Verstösse gegen die Finanzregeln vorgeworfen, mehr als die 100 Punkte ihrer Rekordsaison. Endlich ein Vereinsrekord, der ehrlich zustande kam."
+    },
+    {
+      "id": "2026-10-02-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "China baut Zahlungssystem am Dollar vorbei, Zuger Rohstoffhändler freuen sich über Sanktionen ohne Papierkram",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "China baut ein Zahlungssystem am Dollar vorbei. Zuger Rohstoffhändler so: endlich Sanktionen ohne Papierkram."
+    },
+    {
+      "id": "2026-10-02-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Island verbietet Walfang, weil die Tiere keine Chance haben, gleiche Woche gilt Dänemarks Asyl als Vorbild aus demselben Grund",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Island verbietet die Jagd auf Wale, weil sie keine Chance haben. Gleiche Woche nennt halb Europa Dänemarks Asylsystem ein Vorbild, aus genau demselben Grund."
     }
   ]
 }
