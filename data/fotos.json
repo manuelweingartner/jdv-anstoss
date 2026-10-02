@@ -1,62 +1,51 @@
 {
-  "stand": "2026-10-02T08:06:02+02:00",
-  "lauf": "0805",
+  "stand": "2026-10-02T17:00:37+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0805-1",
-      "titel": "DIE NEUESTEN ENTWICKLUNGEN - Zollverhandlungen Schweiz – USA: Donald Trump greift erneut die Schweiz an und sagt: «Ich will nicht 40 Milliarden Dollar im Jahr verlieren für eure Uhren»",
-      "was": "Trump am Rednerpult, gestikulierend, daneben Schweizer Uhren oder Delegation",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein Handelsdefizit in Milliarden gegen ein Stück Schmuck am Handgelenk.",
+      "id": "1700-1",
+      "titel": "Rücktritt aus dem Bundesrat – Guy Parmelin: «Niemand ist unersetzlich»",
+      "was": "Guy Parmelin am Rednerpult im Medienzentrum, mit ernster Abschiedsmiene",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: bescheidener Rückzug für frische Kräfte gegen das Nachfolgekarussell, das schon dreht, bevor er den Saal verlassen hat.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "NZZ",
+      "quelle": "SRF",
       "auch_bei": [
-        "SRF",
-        "Spiegel"
+        "NZZ"
       ],
-      "artikel": "https://www.nzz.ch/wirtschaft/zollschock-fuer-die-schweiz-antworten-auf-die-wichtigsten-fragen-ld.1896220",
-      "bild": "https://img-msp-prod.nzz.ch/2025/11/09/1fc81f5b-f05f-4ee1-b2e2-78893137b484.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1067,1067,x267,y0",
-      "zeit": "2026-10-02T08:03+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/ruecktritt-aus-dem-bundesrat-guy-parmelin-niemand-ist-unersetzlich",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/d519085.jpg",
+      "zeit": "2026-10-02T12:02+02:00"
     },
     {
-      "id": "0805-2",
-      "titel": "ISS: Astronauten erreichen Raumstation in Rekordzeit von acht Stunden",
-      "was": "Vier Astronauten in Raumanzügen winken vor der Dragon-Kapsel",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Amerikaner und Russe vertragen sich in der Kapsel bestens, unten auf der Erde reden ihre Regierungen nur noch in Drohungen.",
+      "id": "1700-2",
+      "titel": "Angespannte Energiemärkte – G7 geben bis zu 100 Millionen Barrel Ölreserven frei",
+      "was": "Gruppenfoto der G7-Energieminister vor Flaggen, dazu Öltanks oder Fässer",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: eine Freigabe, die nach Rettung klingt, gegen die paar Tage Weltverbrauch, die sie tatsächlich deckt.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Spiegel",
+      "quelle": "SRF",
       "auch_bei": [
-        "SRF",
-        "Tagesschau"
+        "Spiegel"
       ],
-      "artikel": "https://www.spiegel.de/wissenschaft/iss-astronauten-erreichen-raumstation-in-rekordzeit-von-acht-stunden-a-5a73eebc-7a2f-4c94-a58b-683f5f35e309#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/eb2192bd-3141-4844-a4eb-5d65f3a04f93_w520_r2.08_fpx76.95_fpy54.99.jpg",
-      "zeit": "2026-10-02T04:15+02:00"
+      "artikel": "https://www.srf.ch/news/international/angespannte-energiemaerkte-g7-geben-bis-zu-100-millionen-barrel-oelreserven-frei",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/3225c2c.jpg",
+      "zeit": "2026-10-02T16:55+02:00"
     },
     {
-      "id": "0805-3",
-      "titel": "2200 Seiten EU-Vertrag: Haben Sie alles gelesen, Herr Ständerat?",
-      "was": "Ständeräte im Saal hinter einem Stapel EU-Vertragsakten",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Jahrhundertvertrag fürs Land gegen das AGB-Häkchen, das jeder setzt, ohne zu lesen.",
+      "id": "1700-3",
+      "titel": "Haariger WM-Spass – Fussballstar Erling Haaland verklagt Fluggesellschaft",
+      "was": "Erling Haaland mit grimmigem Blick, eventuell neben Flugzeug-Werbung",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: ein Gesicht, das jede Plakatwand füllt, gegen den Anspruch, dass niemand es ungefragt zeigen darf.",
       "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "raum": "weltweit",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/bilanz-der-monsterdebatte-2200-seiten-eu-vertrag-haben-sie-alles-gelesen-herr-staenderat-103641795",
-      "bild": "https://image.20min.ch/2026/10/01/9ca81322-e3ec-4009-89a8-587089dea355.jpg?s=dc9f5f7dd1e53b17ae19417ec94743e7",
-      "zeit": "2026-10-01T17:04+02:00"
+      "artikel": "https://www.srf.ch/news/gesellschaft/haariger-wm-spass-fussballstar-erling-haaland-verklagt-fluggesellschaft",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/ca659b.jpg",
+      "zeit": "2026-10-02T16:25+02:00"
     }
   ],
-  "erwartet": [
-    {
-      "wann": "heute im Lauf des Tages",
-      "was": "Gruppenfoto der EU-Innenminister beim Treffen zum Asylrecht"
-    },
-    {
-      "wann": "heute Abend (US-Zeit)",
-      "was": "Trump auf Wahlkampfbühne vor den Zwischenwahlen"
-    }
-  ],
+  "erwartet": [],
   "hinweis": ""
 }
