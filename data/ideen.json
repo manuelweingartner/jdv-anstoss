@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-03",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Der Guide Michelin meldet: Luxusreisen werden vielfältiger. Hier alle, die ein Pflegelohn hergibt:\n-\n-"
+    },
+    {
+      "id": "2026-10-03-1453-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwei Banken verlassen Zürich, die Standortangst ernst genommen: am Ende wohnt dort noch jemand",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Zwei Banken verlassen Zürich. Schlimm, am Ende wohnt dort noch jemand."
+    },
+    {
+      "id": "2026-10-03-1453-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mietsenkung trotz unverändertem Referenzzins, Gier als Vorrecht der Eigentümer*innen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Mieter*innen, die trotz gleichem Referenzzins eine Mietsenkung verlangen, sind gierig. Gier ist in diesem Land Eigentümersache, mit Grundbucheintrag."
+    },
+    {
+      "id": "2026-10-03-1453-26",
+      "typ": "schnittmenge",
+      "stichwort": "Hunde mit Pulli und Pyjama als Familienmitglieder, Familiennachzug für Geflüchtete zu teuer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, Hunde gelten mit Pulli und Pyjama längst als Familienmitglieder, und beim Familiennachzug für Geflüchtete wird es plötzlich zu teuer?"
     }
   ]
 }
