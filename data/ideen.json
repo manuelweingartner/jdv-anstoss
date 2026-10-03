@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-03",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-03-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Rüstungskonzerne, deren Gewinn seit Kriegsbeginn gesunken ist, wird laufend ergänzt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Rüstungskonzerne, deren Gewinn seit Kriegsbeginn gesunken ist:\n-\n-\nWird laufend ergänzt."
+    },
+    {
+      "id": "2026-10-03-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Viertagewoche gilt als unbezahlbar, Aktionär*innen leben seit jeher von der Nulltagewoche",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wieso gilt die Viertagewoche eigentlich als unbezahlbar, wenn Aktionär*innen seit Generationen problemlos von einer Nulltagewoche leben?"
+    },
+    {
+      "id": "2026-10-03-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuerflucht als einzige Flucht ohne Frage nach dem sicheren Drittstaat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Steuerflucht ist die einzige Flucht, bei der die Schweiz nie fragt, warum man nicht im sicheren Drittstaat geblieben ist. Empfang mit Seesicht."
+    },
     {
       "id": "2026-10-03-0757-11",
       "typ": "schnittmenge",
