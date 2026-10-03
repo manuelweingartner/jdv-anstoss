@@ -1,12 +1,12 @@
 {
-  "stand": "2026-10-03T08:05:16+02:00",
-  "lauf": "0804",
+  "stand": "2026-10-03T17:00:41+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0804-1",
+      "id": "1700-1",
       "titel": "Nachfolge von Parmelin – Das sind mögliche Kandidierende für den Bundesrat",
-      "was": "Guy Parmelin am Rednerpult in Bern, daneben Porträts möglicher Nachfolger",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: würdevolle Konkordanz-Nachfolge gegen offenes Gerangel um einen frei gewordenen Sessel.",
+      "was": "Porträts von Rickli, Friedli und Grüter vor dem Bundeshaus",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: die gespielte Bescheidenheit vor der Wahl gegen den Ehrgeiz, der seit Jahren fertig gepackt im Koffer liegt.",
       "grund": "breit",
       "raum": "schweiz",
       "quelle": "SRF",
@@ -15,42 +15,38 @@
       ],
       "artikel": "https://www.srf.ch/news/schweiz/nachfolge-von-parmelin-das-sind-moegliche-kandidierende-fuer-den-bundesrat",
       "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/d62fe9.jpg",
-      "zeit": "2026-10-02T12:14+02:00"
+      "zeit": "2026-10-03T09:38+02:00"
     },
     {
-      "id": "0804-2",
-      "titel": "Feierlichkeiten zu Tag der Deutschen Einheit in Bremen begonnen",
-      "was": "Bremer Bürgermeister und Ehrengäste beim symbolischen Raketenstart am Einheitsfest",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: feierlicher Raketenstart in die Zukunft gegen ein Land, dessen Bahnstrecken und Warenhäuser am selben Tag stillstehen.",
+      "id": "1700-2",
+      "titel": "Spanien: Zehntausende Menschen protestieren gegen Wohnungsnot",
+      "was": "Dichte Menschenmenge mit Transparenten für bezahlbare Mieten in Madrid",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: in Spanien gehen Zehntausende wegen der Mieten auf die Strasse, in der Schweiz stehen sie brav mit Dossier und Betreibungsauszug in der Besichtigung",
       "grund": "breit",
       "raum": "",
-      "quelle": "Tagesschau",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "taz"
+        "SRF",
+        "Tagesschau"
       ],
-      "artikel": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html",
-      "bild": "https://images.tagesschau.de/image/745a26fb-9311-44c9-953c-93991464d0e9/AAABoP2tt2c/AAABnSSvrFg/16x9-big/merz-bremen-102.jpg?width=1280",
-      "zeit": "2026-10-02T21:28+02:00"
+      "artikel": "https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot-a-d0aa2b52-268b-46f1-8018-8736827e4d2f#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/01b2ff25-8560-4f75-835e-d52ca0329c91_w520_r2.08_fpx66.65_fpy50.jpg",
+      "zeit": "2026-10-03T16:19+02:00"
     },
     {
-      "id": "0804-3",
-      "titel": "Diesel für sagenhafte 1.31 Franken: Autofahrer stehen Schlange",
-      "was": "Lange Autoschlange vor einer Tankstelle in Sursee, Preistafel mit 1.31",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Stunden im Stau für ein paar Franken Ersparnis gegen G7-Staaten, die gleichzeitig ganze Ölreserven freigeben.",
+      "id": "1700-3",
+      "titel": "Urs-Treffen in Schwyz – Treffen sich 30 Männer namens Urs in einer Beiz",
+      "was": "Rund dreissig Männer namens Urs gemeinsam am Stammtisch einer Schwyzer Beiz",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Stammtisch aus lauter gleichnamigen Männern gegen die Gremien, die sich Vielfalt auf die Fahne schreiben und genauso aussehen.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/sursee-dieselpreis-1-31-franken-agrola-tankstelle-panne-103642812",
-      "bild": "https://image.20min.ch/2026/10/02/3a37df2a-3536-4091-a7a6-9b17d558680c.png?s=47069b1c0d3de54b97814f9dd437a291",
-      "zeit": "2026-10-02T18:14+02:00"
+      "artikel": "https://www.srf.ch/radio-srf-1/urs-treffen-in-schwyz-treffen-sich-30-maenner-namens-urs-in-einer-beiz",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf/4e9f28.jpg",
+      "zeit": "2026-10-03T09:00+02:00"
     }
   ],
-  "erwartet": [
-    {
-      "wann": "heute ab Mittag",
-      "was": "Festakt zum Tag der Deutschen Einheit in Bremen, Staatsspitze in Reihe und Bürgerfest-Rundgang"
-    }
-  ],
+  "erwartet": [],
   "hinweis": ""
 }
