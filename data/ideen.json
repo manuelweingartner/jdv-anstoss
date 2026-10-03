@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-03",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-03-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Coop eröffnet den 1000. Laden, am selben Tag die Recherche zur Handvoll Agrarkonzerne: tausend Eingänge, ein Ausgang",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Coop eröffnet in Emmen den 1000. Laden, am selben Tag zeigt eine Recherche: Saatgut, Pestizide und Traktoren liefert eine Handvoll Konzerne. Tausend Eingänge, ein Ausgang."
+    },
+    {
+      "id": "2026-10-03-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Grenzpolizist am Flughafen Zürich entlarvt falsche Pässe in Sekunden, Einbürgerungsgesuche wären neidisch, wenn sie jemand geöffnet hätte",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Am Flughafen Zürich entlarvt ein Grenzpolizist falsche Pässe in Sekunden. Einbürgerungsgesuche wären neidisch, wenn sie schon jemand geöffnet hätte."
+    },
+    {
+      "id": "2026-10-03-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Parmelins Nachfolge erbt die Wohnungsnot, leere Liste seiner Massnahmen, Übergabe in der Kaffeepause",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Parmelins Nachfolge erbt die Wohnungsnot. Hier seine Massnahmen dagegen:\n-\n-\nÜbergabe in der Kaffeepause."
+    },
     {
       "id": "2026-10-03-0757-07",
       "typ": "politisch-aktuell",
