@@ -17489,6 +17489,134 @@
         "neu": true
       },
       "datum": "2026-10-02"
+    },
+    {
+      "id": "2026-10-03-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Coop eröffnet den 1000. Laden, am selben Tag die Recherche zur Handvoll Agrarkonzerne: tausend Eingänge, ein Ausgang",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Coop eröffnet in Emmen den 1000. Laden, am selben Tag zeigt eine Recherche: Saatgut, Pestizide und Traktoren liefert eine Handvoll Konzerne. Tausend Eingänge, ein Ausgang.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-10-03"
+    },
+    {
+      "id": "2026-10-03-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Grenzpolizist am Flughafen Zürich entlarvt falsche Pässe in Sekunden, Einbürgerungsgesuche wären neidisch, wenn sie jemand geöffnet hätte",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Am Flughafen Zürich entlarvt ein Grenzpolizist falsche Pässe in Sekunden. Einbürgerungsgesuche wären neidisch, wenn sie schon jemand geöffnet hätte.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-03"
+    },
+    {
+      "id": "2026-10-03-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Parmelin nennt es zum Rücktritt einen Vorteil, unterschätzt zu werden, Frauen verdienen trotz so viel Vorteil weniger",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Guy Parmelin sagt zum Rücktritt, unterschätzt zu werden sei ein Vorteil. Komisch, dass Frauen bei so viel Vorteil immer noch weniger verdienen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-03"
+    },
+    {
+      "id": "2026-10-03-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuerflucht als einzige Flucht ohne Frage nach dem sicheren Drittstaat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Steuerflucht ist die einzige Flucht, bei der die Schweiz nie fragt, warum man nicht im sicheren Drittstaat geblieben ist. Empfang mit Seesicht.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      },
+      "datum": "2026-10-03"
+    },
+    {
+      "id": "2026-10-03-0757-12",
+      "typ": "remix",
+      "stichwort": "Madrid protestiert mit Töpfen gegen die Mieten, die Dellen gehen von der Kaution ab",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Madrid trommelt mit Kochtöpfen gegen die Mieten. Mutig, die Dellen gehen von der Kaution ab.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-03"
+    },
+    {
+      "id": "2026-10-03-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Handvoll Agrarkonzerne beherrscht Saatgut und Pestizide, die SVP schützt die Bauern vor Brüssel, das Saatgut gehört Syngenta, also Peking",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die SVP schützt die Bauern vor Brüssel. Ihr Saatgut gehört Syngenta, also Peking.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-10-03"
+    },
+    {
+      "id": "2026-10-03-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Höchstes Windrad der Welt in der Lausitz, Windkraftgegner*innen-Sorge ums Landschaftsbild ernst genommen: es verschandelt den Braunkohletagebau",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Höchstes Windrad der Welt in der Lausitz. Schlimm, wie das die Aussicht auf den Braunkohletagebau verschandelt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-10-03"
+    },
+    {
+      "id": "2026-10-03-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Beförderung fällt beim Feierabendbier, dort sitzen nur Männer, deren Kinder jemand anders von der Kita holt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Befördert wird in Schweizer Firmen beim Feierabendbier. Dort sitzen nur Männer, deren Kinder gerade jemand anders von der Kita abholt.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-03"
     }
   ]
 }
