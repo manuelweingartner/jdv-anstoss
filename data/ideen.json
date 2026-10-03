@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-03",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Parmelins Nachfolge erbt die Wohnungsnot. Hier seine Massnahmen dagegen:\n-\n-\nÜbergabe in der Kaffeepause."
+    },
+    {
+      "id": "2026-10-03-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Parmelin nennt es zum Rücktritt einen Vorteil, unterschätzt zu werden, Frauen verdienen trotz so viel Vorteil weniger",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Guy Parmelin sagt zum Rücktritt, unterschätzt zu werden sei ein Vorteil. Komisch, dass Frauen bei so viel Vorteil immer noch weniger verdienen."
+    },
+    {
+      "id": "2026-10-03-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Referenzzins unverändert, trotzdem schulden viele Vermieter eine Mietsenkung, als hätten sie die letzte behalten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, der Referenzzins bleibt gleich und trotzdem schulden viele Vermieter eine Mietsenkung? Als hätten sie die letzte einfach behalten, aus Versehen, jahrelang."
+    },
+    {
+      "id": "2026-10-03-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Jugend angeblich unpolitisch, in Frankreich legt sie Hunderte Schulen lahm",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, die Jugend ist unpolitisch. In Frankreich legt sie nur Hunderte Schulen lahm."
     },
     {
       "id": "2026-10-03-0757-07",
@@ -72,16 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 1,
       "text": "Wer behauptet, bei einem Nein zu den EU-Verträgen passiere nichts, «der lügt», sagt Economiesuisse. Beim Klimagesetz hiess dieselbe Behauptung noch «Augenmass»."
-    },
-    {
-      "id": "2026-10-03-0757-12",
-      "typ": "remix",
-      "stichwort": "Madrid protestiert mit Töpfen gegen die Mieten, die Dellen gehen von der Kaution ab",
-      "plattform": "Threads + Bluesky, IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 10,
-      "text": "Madrid trommelt mit Kochtöpfen gegen die Mieten. Mutig, die Dellen gehen von der Kaution ab."
     }
   ]
 }
