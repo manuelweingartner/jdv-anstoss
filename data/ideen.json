@@ -1,8 +1,23 @@
 {
   "datum": "2026-10-03",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-10-03-1453-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zehn Kilo Fett werden als 28 Kilo CO2 ausgeatmet, ein Privatjet nach Davos schafft das beim Rollen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Wer zehn Kilo Fett verliert, atmet laut Forschern rund 28 Kilo CO2 aus. Ein Privatjet nach Davos schafft das vor dem Abheben, im Leerlauf, auf dem Rollfeld.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
     {
       "id": "2026-10-03-1453-02",
       "typ": "politisch-aktuell",
@@ -19,17 +34,32 @@
       }
     },
     {
-      "id": "2026-10-03-1453-04",
+      "id": "2026-10-03-1453-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Banken ziehen aus Zürich weg, Angst, dass dort am Ende Menschen wohnen",
+      "stichwort": "Parmelin geht, weil seine Frau Ordnung wollte, endlich hört Bern auf eine Frau",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Banken ziehen aus Zürich weg. Habe Angst, dass dort am Ende Menschen wohnen.",
+      "text": "Parmelin geht, seine Frau wollte Ordnung. Endlich hört Bern auf eine Frau, die eigene.",
       "jury": {
         "anker": true,
-        "witz": true,
+        "neu": false,
+        "witz": false
+      }
+    },
+    {
+      "id": "2026-10-03-1453-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Referenzzins bleibt, trotzdem Mietsenkung möglich, Frechheit, das Geld ist schon in Verbier",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Referenzzins bleibt gleich, und trotzdem dürfen viele eine Mietsenkung verlangen. Frechheit, das Geld ist doch längst ausgegeben, für die Ferienwohnung in Verbier.",
+      "jury": {
+        "anker": true,
+        "witz": false,
         "neu": true
       }
     },
@@ -49,18 +79,18 @@
       }
     },
     {
-      "id": "2026-10-03-1453-07",
+      "id": "2026-10-03-1453-09",
       "typ": "politisch-aktuell",
-      "stichwort": "Neid auf die leere Ferienwohnung in Verbier im November",
+      "stichwort": "Vierzig Leute an der Besichtigung in Zürich, das dunkle Chalet in Klosters gehört dem Vermieter",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so ungestört wohnen wie eine Ferienwohnung in Verbier im November.",
+      "format": 16,
+      "text": "Zur Besichtigung einer Zweizimmerwohnung in Zürich kommen vierzig Leute. Das Chalet in Klosters steht derweil dunkel. Gehört dem Vermieter.",
       "jury": {
-        "neu": true,
+        "neu": false,
         "anker": true,
-        "witz": true
+        "witz": false
       }
     },
     {
@@ -94,21 +124,6 @@
       }
     },
     {
-      "id": "2026-10-03-1453-18",
-      "typ": "schnittmenge",
-      "stichwort": "Mietautos ziehen wegen tiefer Steuer nach Innerrhoden, bei Menschen heisst derselbe Umzug Wirtschaftsflüchtling",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Mietautos ziehen wegen der tiefen Steuer nach Innerrhoden. Bei Menschen heisst das Wirtschaftsflüchtling.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
       "id": "2026-10-03-1453-23",
       "typ": "politisch-aktuell",
       "stichwort": "Bolsonaro wegen Putschversuch verurteilt, Sohn im Wahlkampf gegen das Oberste Gericht: nächstes Mal zuerst das Gericht",
@@ -117,36 +132,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Bolsonaro ist wegen Putschversuchs verurteilt. Sein Sohn im Wahlkampf so: nächstes Mal zuerst das Gericht.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-03-1453-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwei Banken verlassen Zürich, die Standortangst ernst genommen: am Ende wohnt dort noch jemand",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Zwei Banken verlassen Zürich. Schlimm, am Ende wohnt dort noch jemand.",
-      "jury": {
-        "neu": true,
-        "anker": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-03-1453-31",
-      "typ": "schnittmenge",
-      "stichwort": "Erstes Urs-Treffen in Schwyz: dreissig gleiche Männer in einer Beiz sind eine Kuriosität mit Zeitungsartikel, im Verwaltungsrat heisst dasselbe «breit abgestützt»",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "In Schwyz treffen sich 30 Männer namens Urs in einer Beiz, und die Zeitung findet das kurios. In jedem Verwaltungsrat heisst dasselbe «breit abgestützt».",
       "jury": {
         "anker": true,
         "neu": true,
