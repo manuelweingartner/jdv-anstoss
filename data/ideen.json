@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-10-03-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Coop eröffnet den 1000. Laden, am selben Tag die Recherche zur Handvoll Agrarkonzerne: tausend Eingänge, ein Ausgang",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Coop eröffnet in Emmen den 1000. Laden, am selben Tag zeigt eine Recherche: Saatgut, Pestizide und Traktoren liefert eine Handvoll Konzerne. Tausend Eingänge, ein Ausgang."
-    },
-    {
       "id": "2026-10-03-0757-02",
       "typ": "politisch-aktuell",
       "stichwort": "Grenzpolizist am Flughafen Zürich entlarvt falsche Pässe in Sekunden, Einbürgerungsgesuche wären neidisch, wenn sie jemand geöffnet hätte",
@@ -21,17 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Am Flughafen Zürich entlarvt ein Grenzpolizist falsche Pässe in Sekunden. Einbürgerungsgesuche wären neidisch, wenn sie schon jemand geöffnet hätte."
-    },
-    {
-      "id": "2026-10-03-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Parmelins Nachfolge erbt die Wohnungsnot, leere Liste seiner Massnahmen, Übergabe in der Kaffeepause",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Parmelins Nachfolge erbt die Wohnungsnot. Hier seine Massnahmen dagegen:\n-\n-\nÜbergabe in der Kaffeepause."
+      "text": "Am Flughafen Zürich entlarvt ein Grenzpolizist falsche Pässe in Sekunden. Einbürgerungsgesuche wären neidisch, wenn sie schon jemand geöffnet hätte.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-03-0757-04",
@@ -41,47 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Guy Parmelin sagt zum Rücktritt, unterschätzt zu werden sei ein Vorteil. Komisch, dass Frauen bei so viel Vorteil immer noch weniger verdienen."
-    },
-    {
-      "id": "2026-10-03-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Referenzzins unverändert, trotzdem schulden viele Vermieter eine Mietsenkung, als hätten sie die letzte behalten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seh ich das richtig, der Referenzzins bleibt gleich und trotzdem schulden viele Vermieter eine Mietsenkung? Als hätten sie die letzte einfach behalten, aus Versehen, jahrelang."
-    },
-    {
-      "id": "2026-10-03-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Jugend angeblich unpolitisch, in Frankreich legt sie Hunderte Schulen lahm",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, die Jugend ist unpolitisch. In Frankreich legt sie nur Hunderte Schulen lahm."
-    },
-    {
-      "id": "2026-10-03-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Rüstungskonzerne, deren Gewinn seit Kriegsbeginn gesunken ist, wird laufend ergänzt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Rüstungskonzerne, deren Gewinn seit Kriegsbeginn gesunken ist:\n-\n-\nWird laufend ergänzt."
-    },
-    {
-      "id": "2026-10-03-0757-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Viertagewoche gilt als unbezahlbar, Aktionär*innen leben seit jeher von der Nulltagewoche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wieso gilt die Viertagewoche eigentlich als unbezahlbar, wenn Aktionär*innen seit Generationen problemlos von einer Nulltagewoche leben?"
+      "text": "Guy Parmelin sagt zum Rücktritt, unterschätzt zu werden sei ein Vorteil. Komisch, dass Frauen bei so viel Vorteil immer noch weniger verdienen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-03-0757-10",
@@ -91,17 +41,117 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Steuerflucht ist die einzige Flucht, bei der die Schweiz nie fragt, warum man nicht im sicheren Drittstaat geblieben ist. Empfang mit Seesicht."
+      "text": "Steuerflucht ist die einzige Flucht, bei der die Schweiz nie fragt, warum man nicht im sicheren Drittstaat geblieben ist. Empfang mit Seesicht.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-03-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "Economiesuisse: wer sagt, bei einem Nein zu den EU-Verträgen passiere nichts, lügt; beim Klimagesetz hiess dieselbe Behauptung Augenmass",
+      "id": "2026-10-03-0757-12",
+      "typ": "remix",
+      "stichwort": "Madrid protestiert mit Töpfen gegen die Mieten, die Dellen gehen von der Kaution ab",
       "plattform": "Threads + Bluesky, IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Madrid trommelt mit Kochtöpfen gegen die Mieten. Mutig, die Dellen gehen von der Kaution ab.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-03-0757-18",
+      "typ": "schnittmenge",
+      "stichwort": "Neid auf den Sixt-Kombi, der in Innerrhoden willkommener ist als ein Mensch",
+      "plattform": "Threads + Bluesky + Instagram",
       "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so willkommen sein in Appenzell Innerrhoden wie ein Sixt-Kombi aus Kloten.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-10-03-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Handvoll Agrarkonzerne beherrscht Saatgut und Pestizide, die SVP schützt die Bauern vor Brüssel, das Saatgut gehört Syngenta, also Peking",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die SVP schützt die Bauern vor Brüssel. Ihr Saatgut gehört Syngenta, also Peking.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-10-03-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bundesgericht erlaubt Familiennachzug der Tochter aus Gambia, gespielte Angst der Zuwanderungsgegner*innen: am Ende hat jedes Kind einen Vater",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Wer behauptet, bei einem Nein zu den EU-Verträgen passiere nichts, «der lügt», sagt Economiesuisse. Beim Klimagesetz hiess dieselbe Behauptung noch «Augenmass»."
+      "format": "frei",
+      "text": "Das Bundesgericht lässt einen Schweizer seine Tochter aus Gambia nachholen. Habe Angst, wo das hinführt: am Ende hat jedes Kind einen Vater, sogar mit Papieren.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-03-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Höchstes Windrad der Welt in der Lausitz, Windkraftgegner*innen-Sorge ums Landschaftsbild ernst genommen: es verschandelt den Braunkohletagebau",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Höchstes Windrad der Welt in der Lausitz. Schlimm, wie das die Aussicht auf den Braunkohletagebau verschandelt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-03-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bei der Steuerflucht bildet die Schweiz die Schlepper selbst aus, an der HSG",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Bei der Steuerflucht bildet die Schweiz die Schlepper selbst aus. An der HSG.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-03-0757-32",
+      "typ": "remix",
+      "stichwort": "Madrid protestiert mit Töpfen gegen die Wohnungsnot, Pfannen haben sie, die Küche fehlt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "In Madrid schlagen junge Leute aus Protest gegen die Wohnungsnot auf Töpfe. Pfannen haben sie, es fehlt nur die Küche drumherum.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
