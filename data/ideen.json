@@ -1,8 +1,23 @@
 {
   "datum": "2026-10-03",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-10-03-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Coop eröffnet den 1000. Laden, am selben Tag die Recherche zur Handvoll Agrarkonzerne: tausend Eingänge, ein Ausgang",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Coop eröffnet in Emmen den 1000. Laden, am selben Tag zeigt eine Recherche: Saatgut, Pestizide und Traktoren liefert eine Handvoll Konzerne. Tausend Eingänge, ein Ausgang.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": false
+      }
+    },
     {
       "id": "2026-10-03-0757-02",
       "typ": "politisch-aktuell",
@@ -64,21 +79,6 @@
       }
     },
     {
-      "id": "2026-10-03-0757-18",
-      "typ": "schnittmenge",
-      "stichwort": "Neid auf den Sixt-Kombi, der in Innerrhoden willkommener ist als ein Mensch",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so willkommen sein in Appenzell Innerrhoden wie ein Sixt-Kombi aus Kloten.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
       "id": "2026-10-03-0757-22",
       "typ": "politisch-aktuell",
       "stichwort": "Handvoll Agrarkonzerne beherrscht Saatgut und Pestizide, die SVP schützt die Bauern vor Brüssel, das Saatgut gehört Syngenta, also Peking",
@@ -91,21 +91,6 @@
         "witz": true,
         "anker": true,
         "neu": false
-      }
-    },
-    {
-      "id": "2026-10-03-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bundesgericht erlaubt Familiennachzug der Tochter aus Gambia, gespielte Angst der Zuwanderungsgegner*innen: am Ende hat jedes Kind einen Vater",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Das Bundesgericht lässt einen Schweizer seine Tochter aus Gambia nachholen. Habe Angst, wo das hinführt: am Ende hat jedes Kind einen Vater, sogar mit Papieren.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
       }
     },
     {
@@ -124,32 +109,17 @@
       }
     },
     {
-      "id": "2026-10-03-0757-30",
+      "id": "2026-10-03-0757-29",
       "typ": "politisch-aktuell",
-      "stichwort": "Bei der Steuerflucht bildet die Schweiz die Schlepper selbst aus, an der HSG",
+      "stichwort": "Beförderung fällt beim Feierabendbier, dort sitzen nur Männer, deren Kinder jemand anders von der Kita holt",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Bei der Steuerflucht bildet die Schweiz die Schlepper selbst aus. An der HSG.",
+      "text": "Befördert wird in Schweizer Firmen beim Feierabendbier. Dort sitzen nur Männer, deren Kinder gerade jemand anders von der Kita abholt.",
       "jury": {
-        "witz": true,
+        "witz": false,
         "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-03-0757-32",
-      "typ": "remix",
-      "stichwort": "Madrid protestiert mit Töpfen gegen die Wohnungsnot, Pfannen haben sie, die Küche fehlt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "In Madrid schlagen junge Leute aus Protest gegen die Wohnungsnot auf Töpfe. Pfannen haben sie, es fehlt nur die Küche drumherum.",
-      "jury": {
-        "anker": true,
-        "witz": true,
         "neu": true
       }
     }
