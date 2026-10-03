@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-03",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-03-1453-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf die leere Ferienwohnung in Verbier im November",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so ungestört wohnen wie eine Ferienwohnung in Verbier im November."
+    },
+    {
+      "id": "2026-10-03-1453-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vierzig Leute an der Besichtigung in Zürich, das dunkle Chalet in Klosters gehört dem Vermieter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Zur Besichtigung einer Zweizimmerwohnung in Zürich kommen vierzig Leute. Das Chalet in Klosters steht derweil dunkel. Gehört dem Vermieter."
+    },
+    {
+      "id": "2026-10-03-1453-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kein Licht in Gstaad im November, Frage an die SVP zur Zuwanderung als Wohnungsdieb",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie kann in Gstaad im November kein einziges Licht brennen, wenn uns doch die Zuwanderung die Wohnungen wegnimmt? Frage für die SVP."
+    },
     {
       "id": "2026-10-03-1453-11",
       "typ": "schnittmenge",
