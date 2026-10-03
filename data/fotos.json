@@ -1,51 +1,56 @@
 {
-  "stand": "2026-10-02T17:00:37+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-03T08:05:16+02:00",
+  "lauf": "0804",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Rücktritt aus dem Bundesrat – Guy Parmelin: «Niemand ist unersetzlich»",
-      "was": "Guy Parmelin am Rednerpult im Medienzentrum, mit ernster Abschiedsmiene",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: bescheidener Rückzug für frische Kräfte gegen das Nachfolgekarussell, das schon dreht, bevor er den Saal verlassen hat.",
+      "id": "0804-1",
+      "titel": "Nachfolge von Parmelin – Das sind mögliche Kandidierende für den Bundesrat",
+      "was": "Guy Parmelin am Rednerpult in Bern, daneben Porträts möglicher Nachfolger",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: würdevolle Konkordanz-Nachfolge gegen offenes Gerangel um einen frei gewordenen Sessel.",
       "grund": "breit",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
         "NZZ"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/ruecktritt-aus-dem-bundesrat-guy-parmelin-niemand-ist-unersetzlich",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/d519085.jpg",
-      "zeit": "2026-10-02T12:02+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/nachfolge-von-parmelin-das-sind-moegliche-kandidierende-fuer-den-bundesrat",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/d62fe9.jpg",
+      "zeit": "2026-10-02T12:14+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Angespannte Energiemärkte – G7 geben bis zu 100 Millionen Barrel Ölreserven frei",
-      "was": "Gruppenfoto der G7-Energieminister vor Flaggen, dazu Öltanks oder Fässer",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: eine Freigabe, die nach Rettung klingt, gegen die paar Tage Weltverbrauch, die sie tatsächlich deckt.",
+      "id": "0804-2",
+      "titel": "Feierlichkeiten zu Tag der Deutschen Einheit in Bremen begonnen",
+      "was": "Bremer Bürgermeister und Ehrengäste beim symbolischen Raketenstart am Einheitsfest",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: feierlicher Raketenstart in die Zukunft gegen ein Land, dessen Bahnstrecken und Warenhäuser am selben Tag stillstehen.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "SRF",
+      "raum": "",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "Spiegel"
+        "taz"
       ],
-      "artikel": "https://www.srf.ch/news/international/angespannte-energiemaerkte-g7-geben-bis-zu-100-millionen-barrel-oelreserven-frei",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/3225c2c.jpg",
-      "zeit": "2026-10-02T16:55+02:00"
+      "artikel": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html",
+      "bild": "https://images.tagesschau.de/image/745a26fb-9311-44c9-953c-93991464d0e9/AAABoP2tt2c/AAABnSSvrFg/16x9-big/merz-bremen-102.jpg?width=1280",
+      "zeit": "2026-10-02T21:28+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Haariger WM-Spass – Fussballstar Erling Haaland verklagt Fluggesellschaft",
-      "was": "Erling Haaland mit grimmigem Blick, eventuell neben Flugzeug-Werbung",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: ein Gesicht, das jede Plakatwand füllt, gegen den Anspruch, dass niemand es ungefragt zeigen darf.",
+      "id": "0804-3",
+      "titel": "Diesel für sagenhafte 1.31 Franken: Autofahrer stehen Schlange",
+      "was": "Lange Autoschlange vor einer Tankstelle in Sursee, Preistafel mit 1.31",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Stunden im Stau für ein paar Franken Ersparnis gegen G7-Staaten, die gleichzeitig ganze Ölreserven freigeben.",
       "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "SRF",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/gesellschaft/haariger-wm-spass-fussballstar-erling-haaland-verklagt-fluggesellschaft",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/ca659b.jpg",
-      "zeit": "2026-10-02T16:25+02:00"
+      "artikel": "https://www.20min.ch/story/sursee-dieselpreis-1-31-franken-agrola-tankstelle-panne-103642812",
+      "bild": "https://image.20min.ch/2026/10/02/3a37df2a-3536-4091-a7a6-9b17d558680c.png?s=47069b1c0d3de54b97814f9dd437a291",
+      "zeit": "2026-10-02T18:14+02:00"
     }
   ],
-  "erwartet": [],
+  "erwartet": [
+    {
+      "wann": "heute ab Mittag",
+      "was": "Festakt zum Tag der Deutschen Einheit in Bremen, Staatsspitze in Reihe und Bürgerfest-Rundgang"
+    }
+  ],
   "hinweis": ""
 }
