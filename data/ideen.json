@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-03",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -54,6 +54,36 @@
       "text": "Der Guide Michelin meldet: Luxusreisen werden vielfältiger. Hier alle, die ein Pflegelohn hergibt:\n-\n-"
     },
     {
+      "id": "2026-10-03-1453-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reddit gesteht den Vier-Stunden-Bürotag, gleichentags streicht Nike Stellen, zwei Jobs in acht Stunden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Auf Reddit gestehen Tausende, den Achtstundentag in vier Stunden zu schaffen. Gleichentags streicht Nike Stellen: zwei Jobs in acht Stunden, just do it."
+    },
+    {
+      "id": "2026-10-03-1453-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Economiesuisse nennt Nein zu EU-Verträgen folgenlos eine Lüge, leere Liste derselben Warnung zur Klimakrise",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Economiesuisse: Wer behauptet, bei einem Nein zu den EU-Verträgen passiere nichts, lügt. Hier alle Male, als sie das über die Klimakrise sagte:\n-\n-\nThat's it."
+    },
+    {
+      "id": "2026-10-03-1453-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bolsonaro wegen Putschversuch verurteilt, Sohn im Wahlkampf gegen das Oberste Gericht: nächstes Mal zuerst das Gericht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Bolsonaro ist wegen Putschversuchs verurteilt. Sein Sohn im Wahlkampf so: nächstes Mal zuerst das Gericht."
+    },
+    {
       "id": "2026-10-03-1453-24",
       "typ": "politisch-aktuell",
       "stichwort": "Zwei Banken verlassen Zürich, die Standortangst ernst genommen: am Ende wohnt dort noch jemand",
@@ -72,16 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Stimmt, Mieter*innen, die trotz gleichem Referenzzins eine Mietsenkung verlangen, sind gierig. Gier ist in diesem Land Eigentümersache, mit Grundbucheintrag."
-    },
-    {
-      "id": "2026-10-03-1453-26",
-      "typ": "schnittmenge",
-      "stichwort": "Hunde mit Pulli und Pyjama als Familienmitglieder, Familiennachzug für Geflüchtete zu teuer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seh ich das richtig, Hunde gelten mit Pulli und Pyjama längst als Familienmitglieder, und beim Familiennachzug für Geflüchtete wird es plötzlich zu teuer?"
     }
   ]
 }
