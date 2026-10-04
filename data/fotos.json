@@ -1,52 +1,60 @@
 {
-  "stand": "2026-10-03T17:00:41+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-04T20:27:57+02:00",
+  "lauf": "2026",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Nachfolge von Parmelin – Das sind mögliche Kandidierende für den Bundesrat",
-      "was": "Porträts von Rickli, Friedli und Grüter vor dem Bundeshaus",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: die gespielte Bescheidenheit vor der Wahl gegen den Ehrgeiz, der seit Jahren fertig gepackt im Koffer liegt.",
+      "id": "2026-1",
+      "titel": "Parlamentswahlen Kanton Zug – SVP wird neu stärkste Kraft im Zuger Kantonsrat",
+      "was": "SVP-Exponenten jubeln an der Wahlfeier in Zug mit Weisswein",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Partei gegen Zuwanderung und Eliten feiert ausgerechnet im Kanton, der von zugezogenen Konzernen und Pauschalbesteuerten lebt.",
       "grund": "breit",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
-        "NZZ"
+        "20 Minuten"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/nachfolge-von-parmelin-das-sind-moegliche-kandidierende-fuer-den-bundesrat",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/d62fe9.jpg",
-      "zeit": "2026-10-03T09:38+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/parlamentswahlen-kanton-zug-svp-wird-neu-staerkste-kraft-im-zuger-kantonsrat",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/b16b71.jpg",
+      "zeit": "2026-10-04T18:22+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Spanien: Zehntausende Menschen protestieren gegen Wohnungsnot",
-      "was": "Dichte Menschenmenge mit Transparenten für bezahlbare Mieten in Madrid",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: in Spanien gehen Zehntausende wegen der Mieten auf die Strasse, in der Schweiz stehen sie brav mit Dossier und Betreibungsauszug in der Besichtigung",
+      "id": "2026-2",
+      "titel": "Oktoberfest 2026: München meldet Rekord mit 7,4 Millionen Wiesn-Besuchern",
+      "was": "Volles Bierzelt, Masskrüge in der Luft, Trachten und Gedränge",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Ein Land in der Rezession meldet Rekordwachstum nur noch beim Bierkonsum im Zelt.",
       "grund": "breit",
       "raum": "",
       "quelle": "Spiegel",
       "auch_bei": [
-        "SRF",
-        "Tagesschau"
+        "SRF"
       ],
-      "artikel": "https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot-a-d0aa2b52-268b-46f1-8018-8736827e4d2f#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/01b2ff25-8560-4f75-835e-d52ca0329c91_w520_r2.08_fpx66.65_fpy50.jpg",
-      "zeit": "2026-10-03T16:19+02:00"
+      "artikel": "https://www.spiegel.de/panorama/oktoberfest-2026-muenchen-meldet-rekord-mit-7-4-millionen-wiesn-besuchern-a-094f4712-dece-4772-8220-6725a4b71df9#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/74e02bda-65b2-4490-9e63-38754ab7f3a4_w520_r2.08_fpx36_fpy50.jpg",
+      "zeit": "2026-10-04T13:49+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Urs-Treffen in Schwyz – Treffen sich 30 Männer namens Urs in einer Beiz",
-      "was": "Rund dreissig Männer namens Urs gemeinsam am Stammtisch einer Schwyzer Beiz",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Stammtisch aus lauter gleichnamigen Männern gegen die Gremien, die sich Vielfalt auf die Fahne schreiben und genauso aussehen.",
+      "id": "2026-3",
+      "titel": "Letzte Klappe für Roger – Federer-Aus bei Schweiz Tourismus: Die besten Clips im Rückblick",
+      "was": "Roger Federer posiert in Alpenkulisse für einen Schweiz-Tourismus-Clip",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Werbegesicht für Ferien in der Schweiz gegen Hotel- und Bergbahnpreise, die sich nur ein Tennismillionär leisten kann.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/radio-srf-1/urs-treffen-in-schwyz-treffen-sich-30-maenner-namens-urs-in-einer-beiz",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf/4e9f28.jpg",
-      "zeit": "2026-10-03T09:00+02:00"
+      "artikel": "https://www.srf.ch/news/dialog/letzte-klappe-fuer-roger-federer-aus-bei-schweiz-tourismus-die-besten-clips-im-rueckblick",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/3ca8b0.jpg",
+      "zeit": "2026-10-04T12:01+02:00"
     }
   ],
-  "erwartet": [],
+  "erwartet": [
+    {
+      "wann": "heute ab 22:00",
+      "was": "Lula und Flávio Bolsonaro bei Stimmabgabe oder Wahlparty in Brasilien"
+    },
+    {
+      "wann": "heute Abend",
+      "was": "DFB-Team in Thessaloniki, Jubel oder Frust nach dem Nations-League-Spiel"
+    }
+  ],
   "hinweis": ""
 }
