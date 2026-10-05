@@ -1,55 +1,57 @@
 {
-  "stand": "2026-10-05T08:03:10+02:00",
-  "lauf": "0802",
+  "stand": "2026-10-05T17:00:51+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0802-1",
-      "titel": "Wahlen in Brasilien: Der Bolsonaro-Clan triumphiert – Lula muss in Stichwahl",
-      "was": "Flávio Bolsonaro jubelt mit Familie, Lula winkt Anhängern zu",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Familienbetrieb mit geregelter Nachfolge gegen demokratische Wahl.",
+      "id": "1700-1",
+      "titel": "AHV-Abstimmung – Baume-Schneider verteidigt Erhöhung der Mehrwertsteuer",
+      "was": "Bundesrätin Baume-Schneider am Rednerpult der Medienkonferenz, ernster Blick",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Die 13. AHV-Rente wollten alle, die Rechnung über die Mehrwertsteuer will niemand.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "SRF",
+      "auch_bei": [
+        "NZZ"
+      ],
+      "artikel": "https://www.srf.ch/news/schweiz/ahv-abstimmung-baume-schneider-verteidigt-erhoehung-der-mehrwertsteuer",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/956ac8.jpg",
+      "zeit": "2026-10-05T12:23+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Nobelpreis 2026 – Der Nobelpreis für Medizin geht an Optogenetik-Forscher",
+      "was": "Drei Nobelpreisträger mit Sektglas oder Blumen vor ihrem Institut",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Nervenzellen lassen sich jetzt per Lichtschalter steuern, Regierungen und Parlamente weiterhin nicht.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Spiegel",
+      "quelle": "SRF",
       "auch_bei": [
-        "20 Minuten",
-        "SRF",
-        "Tagesschau"
+        "NZZ",
+        "Tagesschau",
+        "taz"
       ],
-      "artikel": "https://www.spiegel.de/ausland/wahlen-in-brasilien-der-bolsonaro-clan-triumphiert-lula-muss-in-stichwahl-a-c1edecab-3c26-4cce-a27c-ed1e989c43e4#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/e411c21a-9b7c-467e-b4d1-e18deccd4791_w520_r2.08_fpx62.65_fpy49.99.jpg",
-      "zeit": "2026-10-05T07:01+02:00"
+      "artikel": "https://www.srf.ch/wissen/nobelpreise/nobelpreis-2026-der-nobelpreis-fuer-medizin-geht-an-optogenetik-forscher",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf/7fd886.jpg",
+      "zeit": "2026-10-05T16:58+02:00"
     },
     {
-      "id": "0802-2",
-      "titel": "USA: Weißes Haus verteidigt neue Sprecherin, die mit Gewehr und »Fuck Joe Biden«-Shirt auftrat",
-      "was": "Junge Sprecherin am Pult im Weissen Haus, daneben altes Foto mit Gewehr",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Gewehr und Fluch-Shirt gelten als Bewerbungsmappe, während man anderen schon einen falschen Tonfall als Disqualifikation anrechnet.",
-      "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
-      "auch_bei": [],
-      "artikel": "https://www.spiegel.de/ausland/usa-weisses-haus-verteidigt-neue-sprecherin-die-mit-gewehr-und-fuck-joe-biden-shirt-auftrat-a-705e5dd6-3416-418f-ae2d-c8309532aab6#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/447e3a09-dee7-4a58-a301-9eda9c936cea_w520_r2.08_fpx30_fpy54.85.jpg",
-      "zeit": "2026-10-05T07:13+02:00"
-    },
-    {
-      "id": "0802-3",
-      "titel": "Wassermangel im Herbst: 2000 Franken Busse für Auto waschen",
-      "was": "Mann mit Schlauch und Schaum wäscht Auto vor dem Einfamilienhaus",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: 2000 Franken Busse für den Privatmann am Gartenschlauch gegen das, was Golfplätze, Schneekanonen und Industrie ungestraft an Wasser verbrau",
+      "id": "1700-3",
+      "titel": "Schweizer Spitzengastronomie – Dominik Hartmann ist Koch des Jahres 2027",
+      "was": "Koch Dominik Hartmann posiert in Kochjacke mit Gemüse in der Küche",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Die Spitzengastronomie krönt den vegetarischen Koch, während die Schweiz so viel Poulet isst wie noch nie.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/trockenheit-in-mellingen-nachbar-waessert-golfrasen-beim-naechsten-mal-melde-ich-ihn-103643966",
-      "bild": "https://image.20min.ch/2026/10/04/c94787e4-415d-4aff-83e5-a0e3361d0591.jpg?s=de8debff6dca6d2db2b30150e7cea98a",
-      "zeit": "2026-10-04T18:43+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/schweizer-spitzengastronomie-dominik-hartmann-ist-koch-des-jahres-2027",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/ff5b90.jpg",
+      "zeit": "2026-10-05T14:33+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 11:30",
-      "was": "Nobelpreiskomitee in Stockholm verkündet den Medizin-Nobelpreis vor Porträt-Leinwand"
+      "wann": "heute Nachmittag und Abend",
+      "was": "Feiernde Medizin-Nobelpreisträger bei Pressetermin an den Unis Berlin und Würzburg"
     }
   ],
   "hinweis": ""
