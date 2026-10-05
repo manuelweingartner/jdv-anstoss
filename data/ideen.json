@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-05",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "evergreen",
       "format": 3,
       "text": "Apertus, die Schweizer KI, ist vollkommen souverän. Unabhängig von allen, auch von Nutzer*innen."
+    },
+    {
+      "id": "2026-10-05-0757-16",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautofirmen melden Flotten in Innerrhoden an, Briefkastenfirmen jetzt mit Rädern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Mietautofirmen melden ihre Flotten in Appenzell Innerrhoden an. Briefkastenfirmen gibt es jetzt auch mit Rädern."
+    },
+    {
+      "id": "2026-10-05-0757-17",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne eigenes Frauenhaus, Schutz vor Gewalt wie eine Herztransplantation im Nachbarkanton",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Der Kanton Thurgau hat kein eigenes Frauenhaus. Schutz vor Gewalt gibt es dort wie eine Herztransplantation: im Nachbarkanton, mit Überweisung."
+    },
+    {
+      "id": "2026-10-05-0757-18",
+      "typ": "schnittmenge",
+      "stichwort": "Albert Rösti im Feuer, Bundesrat klärt ab, ob das Feuer menschengemacht ist",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Albert Rösti steht im Feuer, und der Bundesrat klärt erst mal ab, ob das Feuer menschengemacht ist. Ergebnis frühestens 2050."
     }
   ]
 }
