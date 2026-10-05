@@ -34,6 +34,46 @@
       "text": "Russland rätselt über den Tod einer Laborantin im Pestinstitut. Das Fenster war nämlich zu."
     },
     {
+      "id": "2026-10-05-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid aufs Netflix-Abo, das öfter eine Erhöhung bekommt als der Lohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so oft eine Erhöhung bekommen wie das Netflix-Abo."
+    },
+    {
+      "id": "2026-10-05-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Verwaltungsrät*innen gegen den Mindestlohn, die je einen Monat davon gelebt haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier eine Liste aller Verwaltungsrät*innen, die gegen den Mindestlohn lobbyieren und selber schon einmal einen Monat davon gelebt haben:\n-\n-\nWird laufend ergänzt."
+    },
+    {
+      "id": "2026-10-05-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gratisversand bei Amazon, bezahlt wird mit der WC-Pause des Fahrers",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Gratisversand bei Amazon heisst nicht, dass niemand bezahlt. Sondern dass der Fahrer mit seiner WC-Pause bezahlt, in eine Flasche."
+    },
+    {
+      "id": "2026-10-05-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Firma überlebt nur dank Sozialhilfe für ihre Angestellten, wer ist der Sozialfall",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wenn eine Firma nur überlebt, weil der Staat ihren Angestellten den Lohn mit Sozialhilfe aufstockt, wer ist hier eigentlich der Sozialfall? Frage für den Gewerbeverband."
+    },
+    {
       "id": "2026-10-05-0757-11",
       "typ": "schnittmenge",
       "stichwort": "Mellingen büsst Autowaschen mit bis zu 2000 Franken wegen Trockenheit, gilt das auch für den Golfplatz",
@@ -62,46 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Mietautofirmen melden ihre Flotten in Appenzell Innerrhoden an. Briefkastenfirmen gibt es jetzt auch mit Rädern."
-    },
-    {
-      "id": "2026-10-05-0757-17",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau ohne eigenes Frauenhaus, Schutz vor Gewalt wie eine Herztransplantation im Nachbarkanton",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der Kanton Thurgau hat kein eigenes Frauenhaus. Schutz vor Gewalt gibt es dort wie eine Herztransplantation: im Nachbarkanton, mit Überweisung."
-    },
-    {
-      "id": "2026-10-05-0757-18",
-      "typ": "schnittmenge",
-      "stichwort": "Albert Rösti im Feuer, Bundesrat klärt ab, ob das Feuer menschengemacht ist",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Albert Rösti steht im Feuer, und der Bundesrat klärt erst mal ab, ob das Feuer menschengemacht ist. Ergebnis frühestens 2050."
-    },
-    {
-      "id": "2026-10-05-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gläubige Eltern, queerer Sohn: laut Bibel Sünde, gleich neben Zinsen, verstossen wurde noch nie ein Sohn wegen der UBS",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Queer sein ist laut Bibel Sünde, finden gläubige Eltern. Stimmt, gleich neben Zinsen, und verstossen wurde nie ein Sohn, der zur UBS ging. Mit Bonus."
-    },
-    {
-      "id": "2026-10-05-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Europa stagniert, Polen boomt, hoffentlich nehmen Schweizer den Polen nicht die Jobs weg",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Europa stagniert, Polen boomt. Hoffentlich nehmen Schweizer den Polen nicht die Jobs weg."
     }
   ]
 }
