@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-05",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-05-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "UNO meldet tiefste Pegel seit Jahrzehnten, Nestlé verkauft den Bodensee in PET-Flaschen zurück",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Flüsse und Seen sind laut UNO so leer wie seit Jahrzehnten nicht. Wann verkauft uns Nestlé den Bodensee in PET-Flaschen zurück, mit Pfand?"
+    },
+    {
+      "id": "2026-10-05-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Swiss Steel streicht wegen Verlust, Swiss Life wegen Gewinn, am selben Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Swiss Steel streicht Stellen, weil es 310 Millionen Euro Verlust gemacht hat, Swiss Life am selben Tag, weil der Gewinn gestiegen ist. Die Kündigung, endlich konjunkturunabhängig."
+    },
+    {
+      "id": "2026-10-05-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tote Laborantin im russischen Pestinstitut, das Fenster war zu",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Russland rätselt über den Tod einer Laborantin im Pestinstitut. Das Fenster war nämlich zu."
+    },
     {
       "id": "2026-10-05-0757-11",
       "typ": "schnittmenge",
