@@ -1,142 +1,27 @@
 {
-  "datum": "2026-10-03",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "datum": "2026-10-05",
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-10-03-1453-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zehn Kilo Fett werden als 28 Kilo CO2 ausgeatmet, ein Privatjet nach Davos schafft das beim Rollen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Wer zehn Kilo Fett verliert, atmet laut Forschern rund 28 Kilo CO2 aus. Ein Privatjet nach Davos schafft das vor dem Abheben, im Leerlauf, auf dem Rollfeld.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-03-1453-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Economiesuisse: bei einem EU-Nein passiert sehr wohl etwas, am selben Tag stürzt auf Hawaii ein Felsbogen ins Meer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Economiesuisse warnt: Wer sagt, bei einem EU-Nein passiere nichts, lügt. Am selben Tag stürzt auf Hawaii ein Felsbogen ins Meer, der das jahrhundertelang auch gesagt hat.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-10-03-1453-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Parmelin geht, weil seine Frau Ordnung wollte, endlich hört Bern auf eine Frau",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Parmelin geht, seine Frau wollte Ordnung. Endlich hört Bern auf eine Frau, die eigene.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-10-03-1453-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Referenzzins bleibt, trotzdem Mietsenkung möglich, Frechheit, das Geld ist schon in Verbier",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Der Referenzzins bleibt gleich, und trotzdem dürfen viele eine Mietsenkung verlangen. Frechheit, das Geld ist doch längst ausgegeben, für die Ferienwohnung in Verbier.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-03-1453-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ein Drittel der Neuwagen elektrisch, wer kauft jetzt Putin und den Saudis das Öl ab",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, E-Autos gefährden die Freiheit. Schon ein Drittel der Neuwagen fährt elektrisch, wer kauft denn jetzt Putin und den Saudis das Öl ab?",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-10-03-1453-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vierzig Leute an der Besichtigung in Zürich, das dunkle Chalet in Klosters gehört dem Vermieter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Zur Besichtigung einer Zweizimmerwohnung in Zürich kommen vierzig Leute. Das Chalet in Klosters steht derweil dunkel. Gehört dem Vermieter.",
-      "jury": {
-        "neu": false,
-        "anker": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-10-03-1453-11",
+      "id": "2026-10-05-0757-11",
       "typ": "schnittmenge",
-      "stichwort": "Urs-Treffen in Schwyz: dreissig Männer namens Urs gelten als Witz, im Verwaltungsrat als Kompetenz",
+      "stichwort": "Mellingen büsst Autowaschen mit bis zu 2000 Franken wegen Trockenheit, gilt das auch für den Golfplatz",
       "plattform": "Threads + Bluesky + IG-Textgrafik",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Treffen sich in Schwyz dreissig Männer namens Urs in einer Beiz, schreibt die Zeitung «Beginn eines Witzes». Im Verwaltungsrat heisst dieselbe Runde «Kompetenz».",
-      "jury": {
-        "neu": false,
-        "anker": true,
-        "witz": true
-      }
+      "format": "frei",
+      "text": "In Mellingen kostet Autowaschen wegen der Trockenheit jetzt bis zu 2000 Franken Busse. Gilt das auch für den Golfplatz, oder ist Rasen ab 18 Löchern systemrelevant?"
     },
     {
-      "id": "2026-10-03-1453-16",
-      "typ": "politisch-aktuell",
-      "stichwort": "UBS droht im Eigenkapital-Streit mit Wegzug, die Mietautos aus Innerrhoden zeigen, wie das geht: Unfall in Zürich, abschleppen tut der Staat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die UBS droht wegen der Eigenkapitalregeln mit Wegzug. Macht doch wie die Mietautos: Nummernschild aus Innerrhoden, Unfall in Zürich, abschleppen tut der Staat.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-03-1453-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bolsonaro wegen Putschversuch verurteilt, Sohn im Wahlkampf gegen das Oberste Gericht: nächstes Mal zuerst das Gericht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Bolsonaro ist wegen Putschversuchs verurteilt. Sein Sohn im Wahlkampf so: nächstes Mal zuerst das Gericht.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "id": "2026-10-05-0757-12",
+      "typ": "remix",
+      "stichwort": "Schweizer KI Apertus ist vollkommen souverän, unabhängig von allen, auch von den Nutzer*innen",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Apertus, die Schweizer KI, ist vollkommen souverän. Unabhängig von allen, auch von Nutzer*innen."
     }
   ]
 }
