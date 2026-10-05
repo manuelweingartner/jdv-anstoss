@@ -1,59 +1,55 @@
 {
-  "stand": "2026-10-04T20:27:57+02:00",
-  "lauf": "2026",
+  "stand": "2026-10-05T08:03:10+02:00",
+  "lauf": "0802",
   "fotos": [
     {
-      "id": "2026-1",
-      "titel": "Parlamentswahlen Kanton Zug – SVP wird neu stärkste Kraft im Zuger Kantonsrat",
-      "was": "SVP-Exponenten jubeln an der Wahlfeier in Zug mit Weisswein",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Partei gegen Zuwanderung und Eliten feiert ausgerechnet im Kanton, der von zugezogenen Konzernen und Pauschalbesteuerten lebt.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [
-        "20 Minuten"
-      ],
-      "artikel": "https://www.srf.ch/news/schweiz/parlamentswahlen-kanton-zug-svp-wird-neu-staerkste-kraft-im-zuger-kantonsrat",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/b16b71.jpg",
-      "zeit": "2026-10-04T18:22+02:00"
-    },
-    {
-      "id": "2026-2",
-      "titel": "Oktoberfest 2026: München meldet Rekord mit 7,4 Millionen Wiesn-Besuchern",
-      "was": "Volles Bierzelt, Masskrüge in der Luft, Trachten und Gedränge",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Ein Land in der Rezession meldet Rekordwachstum nur noch beim Bierkonsum im Zelt.",
+      "id": "0802-1",
+      "titel": "Wahlen in Brasilien: Der Bolsonaro-Clan triumphiert – Lula muss in Stichwahl",
+      "was": "Flávio Bolsonaro jubelt mit Familie, Lula winkt Anhängern zu",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Familienbetrieb mit geregelter Nachfolge gegen demokratische Wahl.",
       "grund": "breit",
       "raum": "",
       "quelle": "Spiegel",
       "auch_bei": [
-        "SRF"
+        "20 Minuten",
+        "SRF",
+        "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/panorama/oktoberfest-2026-muenchen-meldet-rekord-mit-7-4-millionen-wiesn-besuchern-a-094f4712-dece-4772-8220-6725a4b71df9#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/74e02bda-65b2-4490-9e63-38754ab7f3a4_w520_r2.08_fpx36_fpy50.jpg",
-      "zeit": "2026-10-04T13:49+02:00"
+      "artikel": "https://www.spiegel.de/ausland/wahlen-in-brasilien-der-bolsonaro-clan-triumphiert-lula-muss-in-stichwahl-a-c1edecab-3c26-4cce-a27c-ed1e989c43e4#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/e411c21a-9b7c-467e-b4d1-e18deccd4791_w520_r2.08_fpx62.65_fpy49.99.jpg",
+      "zeit": "2026-10-05T07:01+02:00"
     },
     {
-      "id": "2026-3",
-      "titel": "Letzte Klappe für Roger – Federer-Aus bei Schweiz Tourismus: Die besten Clips im Rückblick",
-      "was": "Roger Federer posiert in Alpenkulisse für einen Schweiz-Tourismus-Clip",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Werbegesicht für Ferien in der Schweiz gegen Hotel- und Bergbahnpreise, die sich nur ein Tennismillionär leisten kann.",
+      "id": "0802-2",
+      "titel": "USA: Weißes Haus verteidigt neue Sprecherin, die mit Gewehr und »Fuck Joe Biden«-Shirt auftrat",
+      "was": "Junge Sprecherin am Pult im Weissen Haus, daneben altes Foto mit Gewehr",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Gewehr und Fluch-Shirt gelten als Bewerbungsmappe, während man anderen schon einen falschen Tonfall als Disqualifikation anrechnet.",
+      "grund": "memetauglich",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
+      "auch_bei": [],
+      "artikel": "https://www.spiegel.de/ausland/usa-weisses-haus-verteidigt-neue-sprecherin-die-mit-gewehr-und-fuck-joe-biden-shirt-auftrat-a-705e5dd6-3416-418f-ae2d-c8309532aab6#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/447e3a09-dee7-4a58-a301-9eda9c936cea_w520_r2.08_fpx30_fpy54.85.jpg",
+      "zeit": "2026-10-05T07:13+02:00"
+    },
+    {
+      "id": "0802-3",
+      "titel": "Wassermangel im Herbst: 2000 Franken Busse für Auto waschen",
+      "was": "Mann mit Schlauch und Schaum wäscht Auto vor dem Einfamilienhaus",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: 2000 Franken Busse für den Privatmann am Gartenschlauch gegen das, was Golfplätze, Schneekanonen und Industrie ungestraft an Wasser verbrau",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/dialog/letzte-klappe-fuer-roger-federer-aus-bei-schweiz-tourismus-die-besten-clips-im-rueckblick",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/3ca8b0.jpg",
-      "zeit": "2026-10-04T12:01+02:00"
+      "artikel": "https://www.20min.ch/story/trockenheit-in-mellingen-nachbar-waessert-golfrasen-beim-naechsten-mal-melde-ich-ihn-103643966",
+      "bild": "https://image.20min.ch/2026/10/04/c94787e4-415d-4aff-83e5-a0e3361d0591.jpg?s=de8debff6dca6d2db2b30150e7cea98a",
+      "zeit": "2026-10-04T18:43+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 22:00",
-      "was": "Lula und Flávio Bolsonaro bei Stimmabgabe oder Wahlparty in Brasilien"
-    },
-    {
-      "wann": "heute Abend",
-      "was": "DFB-Team in Thessaloniki, Jubel oder Frust nach dem Nations-League-Spiel"
+      "wann": "heute ab 11:30",
+      "was": "Nobelpreiskomitee in Stockholm verkündet den Medizin-Nobelpreis vor Porträt-Leinwand"
     }
   ],
   "hinweis": ""
