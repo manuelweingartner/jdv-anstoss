@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-05",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -82,6 +82,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Albert Rösti steht im Feuer, und der Bundesrat klärt erst mal ab, ob das Feuer menschengemacht ist. Ergebnis frühestens 2050."
+    },
+    {
+      "id": "2026-10-05-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gläubige Eltern, queerer Sohn: laut Bibel Sünde, gleich neben Zinsen, verstossen wurde noch nie ein Sohn wegen der UBS",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Queer sein ist laut Bibel Sünde, finden gläubige Eltern. Stimmt, gleich neben Zinsen, und verstossen wurde nie ein Sohn, der zur UBS ging. Mit Bonus."
+    },
+    {
+      "id": "2026-10-05-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Europa stagniert, Polen boomt, hoffentlich nehmen Schweizer den Polen nicht die Jobs weg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Europa stagniert, Polen boomt. Hoffentlich nehmen Schweizer den Polen nicht die Jobs weg."
     }
   ]
 }
