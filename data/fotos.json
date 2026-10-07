@@ -1,58 +1,51 @@
 {
-  "stand": "2026-10-05T17:00:51+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-07T20:08:32+02:00",
+  "lauf": "2007",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "AHV-Abstimmung – Baume-Schneider verteidigt Erhöhung der Mehrwertsteuer",
-      "was": "Bundesrätin Baume-Schneider am Rednerpult der Medienkonferenz, ernster Blick",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Die 13. AHV-Rente wollten alle, die Rechnung über die Mehrwertsteuer will niemand.",
+      "id": "2007-1",
+      "titel": "Papst Leo XIV.: Nicht wählen gegangen – trotzdem entgeht er Geldstrafe",
+      "was": "Papst Leo XIV. winkt lächelnd aus dem Papamobil oder vom Balkon",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Der Papst bleibt der Urne fern und muss nichts zahlen, der gewöhnliche Peruaner zahlt dafür eine Busse.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
+      "auch_bei": [
+        "SRF"
+      ],
+      "artikel": "https://www.spiegel.de/panorama/leute/papst-leo-xiv-nicht-waehlen-gegangen-trotzdem-entgeht-er-geldstrafe-a-1b4dd018-8c6e-4d38-85fd-02fea3d9d644#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/eb4a9f52-5409-456c-80c1-6fabc9070842_w520_r2.08_fpx31.32_fpy44.98.jpg",
+      "zeit": "2026-10-07T18:11+02:00"
+    },
+    {
+      "id": "2007-2",
+      "titel": "Rad-EM in Slowenien – Reusser zum 5. Mal Zeitfahr-Europameisterin",
+      "was": "Marlen Reusser jubelt auf dem Podest mit EM-Goldmedaille",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Eine Schweizerin liefert zum fünften Mal pünktlich Gold, Bundesbern kommt seit Jahren nicht vom Fleck.",
       "grund": "breit",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
-        "NZZ"
+        "Watson"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/ahv-abstimmung-baume-schneider-verteidigt-erhoehung-der-mehrwertsteuer",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/956ac8.jpg",
-      "zeit": "2026-10-05T12:23+02:00"
+      "artikel": "https://www.srf.ch/sport/rad/rad-em-in-slowenien-reusser-zum-5-mal-zeitfahr-europameisterin",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/73a4aa.jpg",
+      "zeit": "2026-10-07T17:29+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Nobelpreis 2026 – Der Nobelpreis für Medizin geht an Optogenetik-Forscher",
-      "was": "Drei Nobelpreisträger mit Sektglas oder Blumen vor ihrem Institut",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Nervenzellen lassen sich jetzt per Lichtschalter steuern, Regierungen und Parlamente weiterhin nicht.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "SRF",
-      "auch_bei": [
-        "NZZ",
-        "Tagesschau",
-        "taz"
-      ],
-      "artikel": "https://www.srf.ch/wissen/nobelpreise/nobelpreis-2026-der-nobelpreis-fuer-medizin-geht-an-optogenetik-forscher",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf/7fd886.jpg",
-      "zeit": "2026-10-05T16:58+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Schweizer Spitzengastronomie – Dominik Hartmann ist Koch des Jahres 2027",
-      "was": "Koch Dominik Hartmann posiert in Kochjacke mit Gemüse in der Küche",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Die Spitzengastronomie krönt den vegetarischen Koch, während die Schweiz so viel Poulet isst wie noch nie.",
+      "id": "2007-3",
+      "titel": "Gerhard Schröder besucht Moskauer Hyperglobus-Filiale - Mitarbeiter applaudieren",
+      "was": "Gerhard Schröder im Moskauer Supermarkt, Angestellte applaudieren ihm",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Ein Altkanzler sucht Würde und bekommt bestellten Applaus zwischen den Regalen.",
       "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "",
+      "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/schweizer-spitzengastronomie-dominik-hartmann-ist-koch-des-jahres-2027",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/ff5b90.jpg",
-      "zeit": "2026-10-05T14:33+02:00"
+      "artikel": "https://www.spiegel.de/ausland/gerhard-schroeder-besucht-moskauer-hyperglobus-filiale-mitarbeiter-applaudieren-a-5aa9307a-7884-47f8-8cc0-b6cdaa3d50fe#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/6b35b886-d0af-4881-ab86-afb3b08d75c0_w520_r2.08_fpx57_fpy41.jpg",
+      "zeit": "2026-10-07T18:20+02:00"
     }
   ],
-  "erwartet": [
-    {
-      "wann": "heute Nachmittag und Abend",
-      "was": "Feiernde Medizin-Nobelpreisträger bei Pressetermin an den Unis Berlin und Würzburg"
-    }
-  ],
+  "erwartet": [],
   "hinweis": ""
 }
