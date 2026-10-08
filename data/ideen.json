@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-08",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-08-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Armee bekommt 700 neue Stellen, Tamedia streicht in derselben Woche 34 bei denen, die nach dem Wofür fragen würden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, die Armee bekommt 700 neue Stellen, und Tamedia streicht in derselben Woche 34 bei den Leuten, die fragen würden, wofür?"
+    },
+    {
+      "id": "2026-10-08-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bundesstatistik: Diebstahl fast nur von Ausländern, Schweizer verwalten bloss, was Diktatoren gestohlen haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, laut Bundesstatistik stehlen fast nur Ausländer. Schweizer stehlen nicht, sie verwalten bloss, was Diktatoren zu Hause gestohlen haben, diskret und gegen Gebühr."
+    },
+    {
+      "id": "2026-10-08-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Spitäler trainieren Kritik am Chefarzt im Simulator, echt wäre es lebensgefährlich für die Assistenzärztin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Spitäler trainieren Kritik am Chefarzt im Simulator. Echt wäre das lebensgefährlich, für die Assistenzärztin."
+    },
     {
       "id": "2026-10-08-0757-31",
       "typ": "schnittmenge",
