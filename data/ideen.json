@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-08",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -16,6 +16,51 @@
         "anker": true,
         "neu": false,
         "witz": true
+      }
+    },
+    {
+      "id": "2026-10-08-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Maricarmen, über siebzig Jahre in der Wohnung, länger als Spanien Demokratie ist, die Räumung überlebt nur die Rendite",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Maricarmen hat über siebzig Jahre in derselben Wohnung gelebt, länger als Spanien eine Demokratie ist. Die Zwangsräumung hat sie nicht lange überlebt, die Rendite schon.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
+    },
+    {
+      "id": "2026-10-08-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Notfallsimulation im Spital, Kritik am Chefarzt erwünscht, im Ernstfall erst nach seiner Pensionierung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "In der Notfallsimulation der Spitäler ist Kritik am Chefarzt ausdrücklich erwünscht. Vielleicht sollten wir das irgendwann auch bei echten Patient*innen wagen, sobald der Chefarzt pensioniert ist.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-08-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fixe Bussen schrecken Superreiche ab wie Preisschilder bei Hermès",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Fixe Bussen schrecken Superreiche ungefähr so ab wie Preisschilder bei Hermès.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
       }
     },
     {
@@ -49,36 +94,6 @@
       }
     },
     {
-      "id": "2026-10-08-0757-18",
-      "typ": "politisch-aktuell",
-      "stichwort": "Seniorin nach Zwangsräumung gestorben, die Wohnung ist wieder frei",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "In Spanien wurde die Seniorin Maricarmen Abascal aus ihrer Wohnung geräumt, kurz darauf ist sie gestorben. Die Wohnung ist inzwischen wieder frei.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-08-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Würth bekam vom Vater nie Lob, am selben Tag kriegt David Ellison von Papa Warner Brothers",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Reinhold Würth bekam vom Vater nie Lob und baute ein Schraubenimperium. Am selben Tag kriegt David Ellison von Papa Warner Brothers, zum Üben gab es Paramount.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
       "id": "2026-10-08-0757-23",
       "typ": "politisch-aktuell",
       "stichwort": "Spanien wählt neu wegen einer geräumten 87-Jährigen, in Zürich heisst das Portfoliobereinigung",
@@ -104,51 +119,6 @@
       "text": "Stimmt, laut Bundesstatistik stehlen fast nur Ausländer. Schweizer stehlen nicht, sie verwalten bloss, was Diktatoren zu Hause gestohlen haben, diskret und gegen Gebühr.",
       "jury": {
         "anker": false,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-08-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Spitäler trainieren Kritik am Chefarzt im Simulator, echt wäre es lebensgefährlich für die Assistenzärztin",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Spitäler trainieren Kritik am Chefarzt im Simulator. Echt wäre das lebensgefährlich, für die Assistenzärztin.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-08-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Einmal so viele Ferien haben wie eine Zweitwohnung im Engadin",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so viele Ferien haben wie eine Zweitwohnung im Engadin.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-08-0757-32",
-      "typ": "remix",
-      "stichwort": "Iran will auspeitschen, wer mit Auslandssendern spricht, verständlich bei Fussball und offenen Haaren (Mechanik USA-Kanada)",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Iran will auspeitschen, wer mit Auslandssendern spricht. Verständlich, dort laufen Fussball und offene Haare.",
-      "jury": {
-        "anker": true,
         "neu": true,
         "witz": true
       }
