@@ -1,46 +1,46 @@
 {
-  "stand": "2026-10-05T08:03:38+02:00",
+  "stand": "2026-10-08T08:05:48+02:00",
   "vorschlaege": [
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Die UBS ist grösser als die Schweiz"
+        "Das Eigenkapital der UBS heisst Bund"
       ],
-      "warum": "die Banken, die sich beim Eigenkapital gegen die UBS stellen, sagen laut, was ohnehin stimmt, und widersprechen kann niemand",
+      "warum": "eine These, der die anderen Banken im Stillen längst zustimmen",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Zurück zur Alukapsel",
-        "Papierkapsel",
-        "Nespresso"
+        "Wirtschaftsdepartement",
+        "Justizdepartement aufräumen",
+        "Beat Jans"
       ],
-      "warum": "Nespresso reisst kurz vor dem Ziel das Steuer herum und lässt die nachhaltige Verpackung auf der Strasse stehen",
+      "warum": "der Wechsel ins Wirtschaftsdepartement ist die Ausfahrt vor der liegengebliebenen Arbeit",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Swissair",
-        "Die fliegende Bank",
-        "Swiss",
-        "Lufthansa-Filiale mit Kreuz"
+        "Von Roll Stahl",
+        "Schweizer Industriestolz",
+        "Swiss Steel 2025",
+        "310 Millionen Verlust"
       ],
-      "warum": "25 Jahre nach dem Grounding steht dem verklärten Früher ein Heute gegenüber, das einem Konzern in Frankfurt gehört",
+      "warum": "der behauptete Industrieglanz von früher steht gegen die nächste Sanierung",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Schweizer KI, die niemand nutzt",
-        "Digitale Souveränität"
+        "93 Millionen Subvention",
+        "Wie ein Schwimmbad"
       ],
-      "warum": "Apertus kommt im Alltag kaum zum Einsatz, und das vornehme Etikett verpackt genau diesen Zustand",
+      "warum": "der Vergleich des Intendanten ist schon der vornehme Euphemismus",
       "bild": "vorschlag-4.jpg"
     }
   ]
