@@ -4,6 +4,36 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-10-08-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Publica-Daten abgeflossen, am selben Tag steht die Bahn bei Bern still, wenigstens etwas kommt aus Bern pünktlich weg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Daten der Bundespensionskasse sind zu Hackern abgeflossen, am selben Tag stand die Bahn bei Bern stundenlang still. Wenigstens etwas kommt aus Bern pünktlich weg.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-08-0757-12",
+      "typ": "remix",
+      "stichwort": "Iran will auspeitschen, wer mit Auslandssendern redet, dort moderieren Frauen das Wetter",
+      "plattform": "Threads + Bluesky + Instagram-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Iran will auspeitschen, wer mit Auslandssendern redet. Verständlich, dort moderieren Frauen das Wetter.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-10-08-0757-16",
       "typ": "schnittmenge",
       "stichwort": "Mietautos mit Steuerwohnsitz in Innerrhoden, wo bleiben die Sozialdetektive",
@@ -11,17 +41,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Tausende Mietautos haben ihren Steuerwohnsitz in Appenzell Innerrhoden. Wo bleiben eigentlich die Sozialdetektive?"
-    },
-    {
-      "id": "2026-10-08-0757-17",
-      "typ": "politisch-aktuell",
-      "stichwort": "Opernhaus 93 Millionen muss man sich leisten wollen, gleiche Woche Unterschriften für den Mindestlohn",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Das Opernhaus Zürich kostet 93 Millionen jährlich, das müsse man sich leisten wollen. Gleiche Woche: 100'000 Unterschriften, damit die Garderobiere ihren Mindestlohn behalten darf."
+      "text": "Tausende Mietautos haben ihren Steuerwohnsitz in Appenzell Innerrhoden. Wo bleiben eigentlich die Sozialdetektive?",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-08-0757-18",
@@ -31,17 +56,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "In Spanien wurde die Seniorin Maricarmen Abascal aus ihrer Wohnung geräumt, kurz darauf ist sie gestorben. Die Wohnung ist inzwischen wieder frei."
-    },
-    {
-      "id": "2026-10-08-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wer soll die Abnehmspritzen bezahlen, sicher nicht die Krankenkassen, die waren es noch nie",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wer soll die Abnehmspritzen bezahlen? Sicher nicht die Krankenkassen, die waren es noch nie."
+      "text": "In Spanien wurde die Seniorin Maricarmen Abascal aus ihrer Wohnung geräumt, kurz darauf ist sie gestorben. Die Wohnung ist inzwischen wieder frei.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-08-0757-22",
@@ -51,7 +71,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Reinhold Würth bekam vom Vater nie Lob und baute ein Schraubenimperium. Am selben Tag kriegt David Ellison von Papa Warner Brothers, zum Üben gab es Paramount."
+      "text": "Reinhold Würth bekam vom Vater nie Lob und baute ein Schraubenimperium. Am selben Tag kriegt David Ellison von Papa Warner Brothers, zum Üben gab es Paramount.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-08-0757-23",
@@ -61,17 +86,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 3,
-      "text": "Eine 87-Jährige wird nach siebzig Jahren aus ihrer Wohnung geräumt, und Spanien protestiert, bis es Neuwahlen gibt. In Zürich nennt man so etwas Portfoliobereinigung."
-    },
-    {
-      "id": "2026-10-08-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Armee bekommt 700 neue Stellen, Tamedia streicht in derselben Woche 34 bei denen, die nach dem Wofür fragen würden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seh ich das richtig, die Armee bekommt 700 neue Stellen, und Tamedia streicht in derselben Woche 34 bei den Leuten, die fragen würden, wofür?"
+      "text": "Eine 87-Jährige wird nach siebzig Jahren aus ihrer Wohnung geräumt, und Spanien protestiert, bis es Neuwahlen gibt. In Zürich nennt man so etwas Portfoliobereinigung.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-08-0757-25",
@@ -81,7 +101,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Stimmt, laut Bundesstatistik stehlen fast nur Ausländer. Schweizer stehlen nicht, sie verwalten bloss, was Diktatoren zu Hause gestohlen haben, diskret und gegen Gebühr."
+      "text": "Stimmt, laut Bundesstatistik stehlen fast nur Ausländer. Schweizer stehlen nicht, sie verwalten bloss, was Diktatoren zu Hause gestohlen haben, diskret und gegen Gebühr.",
+      "jury": {
+        "anker": false,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-08-0757-26",
@@ -91,17 +116,42 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Spitäler trainieren Kritik am Chefarzt im Simulator. Echt wäre das lebensgefährlich, für die Assistenzärztin."
+      "text": "Spitäler trainieren Kritik am Chefarzt im Simulator. Echt wäre das lebensgefährlich, für die Assistenzärztin.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-10-08-0757-27",
+      "id": "2026-10-08-0757-30",
       "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Coop-Kassierer*innen, bei denen die Steuersenkungen für Reiche durchgesickert sind, laufend aktualisiert seit Reagan",
+      "stichwort": "Einmal so viele Ferien haben wie eine Zweitwohnung im Engadin",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Hier eine vollständige Liste aller Coop-Kassierer*innen, bei denen die Steuersenkungen für Reiche inzwischen durchgesickert sind:\n-\n-\nWird laufend aktualisiert, seit Reagan."
+      "text": "Einmal so viele Ferien haben wie eine Zweitwohnung im Engadin.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-08-0757-32",
+      "typ": "remix",
+      "stichwort": "Iran will auspeitschen, wer mit Auslandssendern spricht, verständlich bei Fussball und offenen Haaren (Mechanik USA-Kanada)",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Iran will auspeitschen, wer mit Auslandssendern spricht. Verständlich, dort laufen Fussball und offene Haare.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
