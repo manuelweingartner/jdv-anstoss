@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-08",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-08-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wer soll die Abnehmspritzen bezahlen, sicher nicht die Krankenkassen, die waren es noch nie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer soll die Abnehmspritzen bezahlen? Sicher nicht die Krankenkassen, die waren es noch nie."
+    },
+    {
+      "id": "2026-10-08-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Würth bekam vom Vater nie Lob, am selben Tag kriegt David Ellison von Papa Warner Brothers",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Reinhold Würth bekam vom Vater nie Lob und baute ein Schraubenimperium. Am selben Tag kriegt David Ellison von Papa Warner Brothers, zum Üben gab es Paramount."
+    },
+    {
+      "id": "2026-10-08-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Spanien wählt neu wegen einer geräumten 87-Jährigen, in Zürich heisst das Portfoliobereinigung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Eine 87-Jährige wird nach siebzig Jahren aus ihrer Wohnung geräumt, und Spanien protestiert, bis es Neuwahlen gibt. In Zürich nennt man so etwas Portfoliobereinigung."
+    },
     {
       "id": "2026-10-08-0757-24",
       "typ": "politisch-aktuell",
@@ -72,26 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Einmal so viele Ferien haben wie eine Zweitwohnung im Engadin."
-    },
-    {
-      "id": "2026-10-08-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "Fast 8000 Verurteilungen wegen Diebstahls, das Coop-Sandwich landet in der Statistik, die versenkte Bank im nächsten Verwaltungsrat",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Fast 8000 Verurteilte wegen Diebstahls letztes Jahr. Seh ich das richtig: wer ein Coop-Sandwich klaut, steht in der Statistik, wer eine Bank in den Sand setzt, im nächsten Verwaltungsrat?"
-    },
-    {
-      "id": "2026-10-08-0757-32",
-      "typ": "remix",
-      "stichwort": "Iran will auspeitschen, wer mit Auslandssendern spricht, verständlich bei Fussball und offenen Haaren (Mechanik USA-Kanada)",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 10,
-      "text": "Iran will auspeitschen, wer mit Auslandssendern spricht. Verständlich, dort laufen Fussball und offene Haare."
     }
   ]
 }
