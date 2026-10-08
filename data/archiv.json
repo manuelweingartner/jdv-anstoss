@@ -17761,6 +17761,134 @@
         "witz": true
       },
       "datum": "2026-10-03"
+    },
+    {
+      "id": "2026-10-05-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "UNO meldet tiefste Pegel seit Jahrzehnten, Nestlé verkauft den Bodensee in PET-Flaschen zurück",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Flüsse und Seen sind laut UNO so leer wie seit Jahrzehnten nicht. Wann verkauft uns Nestlé den Bodensee in PET-Flaschen zurück, mit Pfand?",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-05"
+    },
+    {
+      "id": "2026-10-05-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Swiss Steel streicht wegen Verlust, Swiss Life wegen Gewinn, am selben Tag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Swiss Steel streicht Stellen, weil es 310 Millionen Euro Verlust gemacht hat, Swiss Life am selben Tag, weil der Gewinn gestiegen ist. Die Kündigung, endlich konjunkturunabhängig.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-10-05"
+    },
+    {
+      "id": "2026-10-05-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tote Laborantin im russischen Pestinstitut, das Fenster war zu",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Russland rätselt über den Tod einer Laborantin im Pestinstitut. Das Fenster war nämlich zu.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-05"
+    },
+    {
+      "id": "2026-10-05-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Polen boomt, die Pflegerinnen bleiben daheim, endlich nimmt uns niemand mehr die Arbeit weg",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Polen boomt, die Pflegerinnen bleiben daheim. Endlich nimmt uns niemand mehr die Arbeit weg.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-05"
+    },
+    {
+      "id": "2026-10-05-0757-05",
+      "typ": "schnittmenge",
+      "stichwort": "Laut Bibel ist Schwulsein Sünde, Zinsen nehmen auch, gleiches Buch, wer sagt es der UBS",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, laut Bibel ist Schwulsein eine Sünde, Zinsen nehmen übrigens auch, steht im selben Buch. Weiss jetzt auch nicht, wer das der UBS beibringt.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-10-05"
+    },
+    {
+      "id": "2026-10-05-0757-12",
+      "typ": "remix",
+      "stichwort": "Schweizer KI Apertus ist vollkommen souverän, unabhängig von allen, auch von den Nutzer*innen",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Apertus, die Schweizer KI, ist vollkommen souverän. Unabhängig von allen, auch von Nutzer*innen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-05"
+    },
+    {
+      "id": "2026-10-05-0757-26",
+      "typ": "schnittmenge",
+      "stichwort": "Graue Haare werden salonfähig, im Nestlé-Verwaltungsrat sind sie seit jeher Pflicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Graue Haare sind jetzt salonfähig, melden die Coiffeure. Weiss auch nicht, was die bisher dachten, im Nestlé-Verwaltungsrat ist das Pflicht. Seit 1866.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-10-05"
+    },
+    {
+      "id": "2026-10-05-0757-38",
+      "typ": "schnittmenge",
+      "stichwort": "Innerrhoden so: für Mietwagenfirmen alles offen, für Geflüchtete leider voll, mit Mietautos",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Mietwagenfirmen suchen tiefe Autosteuern, Appenzell Innerrhoden so: hier, nehmt alle. Geflüchtete suchen ein Dach, Innerrhoden so: sorry, voll, mit Mietautos.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-10-05"
     }
   ]
 }
