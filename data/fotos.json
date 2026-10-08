@@ -1,55 +1,61 @@
 {
-  "stand": "2026-10-08T08:05:09+02:00",
-  "lauf": "0804",
+  "stand": "2026-10-08T17:00:33+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0804-1",
-      "titel": "Donald Trump: Trump-Golfclub in Florida soll Rückzugsort für US-Präsidenten werden",
-      "was": "Donald Trump auf dem Golfplatz in West Palm Beach, Golfwagen, Schläger",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, Golfen als Amtsgeschäft und Staatsbesuch. Achse: Rückzugsort für ehemalige Präsidenten gegen einen Präsidenten, der Privatclub und Staat nie getrennt hat.",
+      "id": "1700-1",
+      "titel": "Stimmungstest für Meloni – Italiens Parlament segnet Wahlrechtsreform ab",
+      "was": "Meloni lächelnd im Parlament, Applaus der Koalition nach der Abstimmung",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Die Spielregeln werden zum eigenen Vorteil geändert und das Ganze heisst Stabilität für das Land.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
-      "auch_bei": [
-        "NZZ"
-      ],
-      "artikel": "https://www.spiegel.de/ausland/donald-trump-trump-golfclub-in-florida-soll-rueckzugsort-fuer-us-praesidenten-werden-a-2f32700e-eef0-425a-ac85-0f66135b8c77#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/21f5c5fb-94e3-4e80-aec2-49bee347b46b_w520_r2.08_fpx65.31_fpy49.99.jpg",
-      "zeit": "2026-10-08T00:35+02:00"
-    },
-    {
-      "id": "0804-2",
-      "titel": "Chemie mit Brezeln erklärt: ARD-Reporter über die Arbeit der zwei Nobelpreisträger",
-      "was": "ARD-Reporter erklärt Nobelpreis-Chemie vor der Kamera mit Brezeln",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, Spitzenforschung im Bäckerei-Massstab. Achse: Weltwissenschaft auf Laugengebäck heruntergebrochen gegen Politik, die man nicht einmal so erklären ",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "Tagesschau",
-      "auch_bei": [
-        "SRF"
-      ],
-      "artikel": "https://www.tagesschau.de/video/video-1662014.html",
-      "bild": "https://images.tagesschau.de/image/95d81ca4-4510-4d5a-9b5c-2fc1b9069396/AAABoRbkzvo/AAABnSSvrFg/16x9-big/stichler-122.jpg?width=1280",
-      "zeit": "2026-10-07T14:36+02:00"
-    },
-    {
-      "id": "0804-3",
-      "titel": "Zootiere müssen weg – Die Tage der Trampeltiere im Zoo Zürich sind gezählt",
-      "was": "Trampeltiere im Gehege des Zoo Zürich, kauend, gelangweilt in die Kamera",
-      "richtung": "Mechanik: wörtlich nehmen, was als Tierbestandsplanung gemeint ist, gelesen als Personalentscheid. Achse: Der Zoo behält nur bedrohte Arten, Bundesbern behält nach dem Parmelin-Rücktritt die Trampelti",
-      "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "SRF",
+      "auch_bei": [
+        "NZZ",
+        "Tagesschau",
+        "taz"
+      ],
+      "artikel": "https://www.srf.ch/news/international/stimmungstest-fuer-meloni-italiens-parlament-segnet-wahlrechtsreform-ab",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/f54c24.jpg",
+      "zeit": "2026-10-08T13:41+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Kein Machtkampf mit Infantino: Ceferin will Uefa-Wiederwahl",
+      "was": "Ceferin am UEFA-Rednerpult oder im Handschlag mit Infantino",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Der Verzicht auf den Machtkampf wird als Grösse verkauft, ist aber eine Absprache unter Funktionären, die einander die Posten sichern.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
+      "auch_bei": [
+        "Watson"
+      ],
+      "artikel": "https://www.20min.ch/story/fussball-kein-machtkampf-mit-infantino-ceferin-will-uefa-wiederwahl-103646498",
+      "bild": "https://media.20min.ch/6/image/2023/12/22/65193e14-03cc-4a77-b1ee-f5a5ad3da793.jpeg?s=75c6d43f2c581a9f06651036111ebce9",
+      "zeit": "2026-10-08T16:25+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "VIDEO - Bundespräsident Parmelin eröffnet mit Säuli Vivienne die Olma",
+      "was": "Bundespräsident Parmelin mit Säuli Vivienne bei der Olma-Eröffnung",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten, hier des Säulis. Achse: Das Tier ist heute Ehrengast neben dem Bundesrat und morgen das Produkt, für das die Messe wirbt.",
+      "grund": "memetauglich",
+      "raum": "schweiz",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/zootiere-muessen-weg-die-tage-der-trampeltiere-im-zoo-zuerich-sind-gezaehlt",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/81bae8.jpg",
-      "zeit": "2026-10-07T16:10+02:00"
+      "artikel": "https://www.nzz.ch/shorts/bundespra-sident-parmelin-ero-ffnet-mit-saeuli-vivienne-die-olma-ld.10028252",
+      "bild": "https://img-msp-prod.nzz.ch/2026/10/08/3f4fff92-3d7f-43ac-9875-49c8c0775434.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4096,4096,x1024,y0",
+      "zeit": "2026-10-08T14:22+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, Tagesverlauf",
-      "was": "Giorgia Meloni in der Abgeordnetenkammer bei der Schlussabstimmung zum neuen Wahlgesetz"
+      "wann": "heute, laufend",
+      "was": "Olma St. Gallen: Bundesräte und Gastkanton Schwyz am Degustationsstand und im Stall"
+    },
+    {
+      "wann": "heute",
+      "was": "Antrittsbesuch von Premier Burnham bei Merz in Berlin: Handschlag und Ehrenformation vor dem Kanzleramt"
     }
   ],
   "hinweis": ""
