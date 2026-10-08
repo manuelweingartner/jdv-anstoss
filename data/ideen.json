@@ -4,6 +4,36 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-10-08-0757-16",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautos mit Steuerwohnsitz in Innerrhoden, wo bleiben die Sozialdetektive",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Tausende Mietautos haben ihren Steuerwohnsitz in Appenzell Innerrhoden. Wo bleiben eigentlich die Sozialdetektive?"
+    },
+    {
+      "id": "2026-10-08-0757-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Opernhaus 93 Millionen muss man sich leisten wollen, gleiche Woche Unterschriften für den Mindestlohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Das Opernhaus Zürich kostet 93 Millionen jährlich, das müsse man sich leisten wollen. Gleiche Woche: 100'000 Unterschriften, damit die Garderobiere ihren Mindestlohn behalten darf."
+    },
+    {
+      "id": "2026-10-08-0757-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Seniorin nach Zwangsräumung gestorben, die Wohnung ist wieder frei",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "In Spanien wurde die Seniorin Maricarmen Abascal aus ihrer Wohnung geräumt, kurz darauf ist sie gestorben. Die Wohnung ist inzwischen wieder frei."
+    },
+    {
       "id": "2026-10-08-0757-21",
       "typ": "politisch-aktuell",
       "stichwort": "Wer soll die Abnehmspritzen bezahlen, sicher nicht die Krankenkassen, die waren es noch nie",
@@ -72,36 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Hier eine vollständige Liste aller Coop-Kassierer*innen, bei denen die Steuersenkungen für Reiche inzwischen durchgesickert sind:\n-\n-\nWird laufend aktualisiert, seit Reagan."
-    },
-    {
-      "id": "2026-10-08-0757-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rheinmetall im Nachhaltigkeitsfonds wie ein Bestatter im Verwaltungsrat vom Kantonsspital, denkt halt langfristig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Rheinmetall-Aktien im Nachhaltigkeitsfonds sind wie ein Bestatter im Verwaltungsrat vom Kantonsspital. Er denkt halt langfristig."
-    },
-    {
-      "id": "2026-10-08-0757-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ab welchem Vermögen wird eine Busse zur Parkgebühr, Frage für den Lamborghini im Halteverbot an der Bahnhofstrasse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ab welchem Vermögen wird aus einer Busse eigentlich eine Parkgebühr? Frage für den Lamborghini im Halteverbot an der Zürcher Bahnhofstrasse."
-    },
-    {
-      "id": "2026-10-08-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Einmal so viele Ferien haben wie eine Zweitwohnung im Engadin",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so viele Ferien haben wie eine Zweitwohnung im Engadin."
     }
   ]
 }
