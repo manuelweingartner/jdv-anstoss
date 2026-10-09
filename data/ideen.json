@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-09",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-09-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rüstungs-CEOs, die sich freiwillig an die Front gemeldet haben, leere Liste, alle an der Generalversammlung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Rüstungs-CEOs, die sich seit Kriegsbeginn freiwillig an die Front gemeldet haben:\n-\n-\nSind alle an der Generalversammlung."
+    },
+    {
+      "id": "2026-10-09-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wie viel Ferien macht faul, Frage für Leute mit Chalet in Gstaad",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie viel Ferien macht eigentlich faul? Frage für Leute mit Chalet in Gstaad."
+    },
+    {
+      "id": "2026-10-09-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "FDP warnt, Superreiche wandern bei Besteuerung aus, Drohung als Wahlversprechen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Superreiche wandern aus, wenn man sie besteuert, warnt die FDP. Klingt wie eine Drohung, ist aber das beste Wahlversprechen seit Jahren."
+    },
     {
       "id": "2026-10-09-0757-31",
       "typ": "schnittmenge",
