@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-09",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-09-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Abnehmspritzen treiben angeblich die Krankenkassenprämien, zugenommen hat nur der Hersteller",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, die Krankenkassenprämien steigen wegen Ozempic und Co.? Weiss jetzt auch nicht, warum dann nur Novo Nordisk so zugenommen hat."
+    },
+    {
+      "id": "2026-10-09-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Paramount schluckt Warner, Pentagon streamt eine Erschiessung, welches Abo kündigen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Gleiche Woche: Paramount schluckt Warner, das Pentagon plant eine Erschiessung im Livestream. Weiss jetzt auch nicht, welches Abo man da kündigen soll."
+    },
+    {
+      "id": "2026-10-09-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mehrwertsteuer für die 13. AHV-Rente unzumutbar, Kaffee fast zwei Rappen teurer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Mehrwertsteuer für die AHV ist unzumutbar. Kaffee wird fast zwei Rappen teurer."
+    },
     {
       "id": "2026-10-09-0757-27",
       "typ": "politisch-aktuell",
