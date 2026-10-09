@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-09",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -64,6 +64,21 @@
       }
     },
     {
+      "id": "2026-10-09-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Betreibungsauszug für die Mieterin, aber niemand erfährt, wem die Wohnung gehört",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wieso verlangt jede Verwaltung einen Betreibungsauszug, aber noch nie durfte eine Mieterin erfahren, wem ihre Wohnung eigentlich gehört?",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-10-09-0757-10",
       "typ": "politisch-aktuell",
       "stichwort": "Nachhaltige Fonds nehmen Rüstungskonzerne auf, Artillerie als Energiesparmassnahme",
@@ -76,21 +91,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-10-09-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "Pentagon überträgt die Hinrichtung des Fort-Hood-Schützen live, eine nackte Brust beim Super Bowl war ein nationaler Skandal",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Nackte Brust beim Super Bowl, USA so: Skandal, nie wieder live. Hinrichtung eines Amokschützen, Pentagon so: am 3. Dezember um 13 Uhr, jugendfrei.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
       }
     },
     {
@@ -121,36 +121,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-10-09-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Paramount schluckt Warner, Pentagon streamt eine Erschiessung, welches Abo kündigen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Gleiche Woche: Paramount schluckt Warner, das Pentagon plant eine Erschiessung im Livestream. Weiss jetzt auch nicht, welches Abo man da kündigen soll.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-10-09-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "Pentagon überträgt eine Hinrichtung live, Florida nimmt das Pinguin-Kinderbuch mit zwei Vätern aus der Schule",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Zwei Pinguin-Väter im Kinderbuch, Florida so: zu verstörend, raus aus der Schule. Hinrichtung im Livestream, Pentagon so: 13 Uhr, gern mit der ganzen Familie.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
       }
     }
   ]
