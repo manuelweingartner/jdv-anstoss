@@ -1,59 +1,57 @@
 {
-  "stand": "2026-10-09T08:02:18+02:00",
-  "lauf": "0801",
+  "stand": "2026-10-09T17:00:35+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0801-1",
-      "titel": "Geringe Chancen: Donald Trump will den Friedensnobelpreis",
-      "was": "Donald Trump mit verschränkten Armen vor Mikrofonen im Weissen Haus",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: einen Angriff nur aufschieben gegen sich dafür als Friedensstifter feiern lassen.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Tagesschau",
-      "auch_bei": [
-        "Spiegel"
-      ],
-      "artikel": "https://www.tagesschau.de/ausland/trump-friedensnobelpreis-100.html",
-      "bild": "https://images.tagesschau.de/image/7b4fb075-224f-4f70-a284-c90454f027db/AAABoQGi9MU/AAABnSSvrFg/16x9-big/trump-5308.jpg?width=1280",
-      "zeit": "2026-10-09T03:41+02:00"
-    },
-    {
-      "id": "0801-2",
-      "titel": "Triumphbogen von Donald Trump: Arlington County klagt gegen geplantes Denkmal",
-      "was": "Visualisierung des geplanten Triumphbogens vor Washingtoner Kulisse",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Triumph als Bauprojekt bestellt gegen einen Triumph, den es zuerst geben müsste.",
+      "id": "1700-1",
+      "titel": "Navi Pillay: Friedensnobelpreisträgerin scherzt über Preisteilung mit Donald Trump",
+      "was": "Navi Pillay lacht an der Pressekonferenz, Publikum applaudiert stehend",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: ein Preis für Jahrzehnte gegen Straflosigkeit gegen einen Anspruchsteller, der ihn sich am liebsten selbst verleihen würde.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
+        "20 Minuten",
+        "SRF",
         "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/ausland/triumphbogen-von-donald-trump-arlington-county-klagt-gegen-geplantes-denkmal-a-323e0071-8c81-4c10-a6fe-4e07f53fa469#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/ffad0b4e-981d-4796-bd90-e844316bac04_w520_r2.08_fpx50_fpy54.jpg",
-      "zeit": "2026-10-09T07:15+02:00"
+      "artikel": "https://www.spiegel.de/ausland/friedensnobelpreistraegerin-navi-pillay-scherzt-ueber-preisteilung-mit-donald-trump-a-c6a10bad-c741-49a9-b3e1-6a67e4ab043e#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/c907e1b8-2f56-4146-9abf-4646226f8a9e_w520_r2.08_fpx35.71_fpy45.jpg",
+      "zeit": "2026-10-09T15:31+02:00"
     },
     {
-      "id": "0801-3",
-      "titel": "«Federer schmiss eine Grillparty zum Abschluss der Bauarbeiten»",
-      "was": "Federer-Anwesen am Zürichsee, Bauarbeiter beim Grillieren im Garten",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: eine Bratwurst als Dank gegen die Baukosten einer Seevilla.",
+      "id": "1700-2",
+      "titel": "Gestohlene Renoir-Gemälde in Südfrankreich wieder aufgetaucht",
+      "was": "Polizei präsentiert die zwei wiedergefundenen Renoir-Gemälde",
+      "richtung": "Mechanik: dieselbe Handlung umetikettieren. Achse: Kunstdiebstahl gegen die Frage, wie Europas Museen selbst zu ihren Sammlungen kamen.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "SRF"
+      ],
+      "artikel": "https://www.nzz.ch/panorama/gestohlene-renoir-gemaelde-in-suedfrankreich-wieder-aufgetaucht-ld.10029293",
+      "bild": "https://img-msp-prod.nzz.ch/2026/10/09/c9cba9da-5b43-4f28-bd8d-948cb6a4e23a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1967,1967,x0,y0",
+      "zeit": "2026-10-09T14:49+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Thailands Königin Suthida absolviert ersten Soloflug mit Kampfjet",
+      "was": "Königin Suthida im Fliegeranzug vor oder im Gripen-Cockpit",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein Kampfjet als Lebenstraum einer Monarchin gegen den Gripen, zu dem das Schweizer Stimmvolk Nein gesagt hat.",
       "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/rapperswil-jona-sg-federer-schmiss-eine-grillparty-zum-abschluss-der-bauarbeiten-103646475",
-      "bild": "https://image.20min.ch/2026/10/08/7baf85a9-716d-4b12-bd36-eb6a40aec87f.jpg?s=3d1f659c7ed8ebfcf9a23e3f7e9f55f2",
-      "zeit": "2026-10-09T06:04+02:00"
+      "artikel": "https://www.spiegel.de/panorama/leute/thailands-koenigin-suthida-absolviert-ersten-soloflug-mit-kampfjet-a-b7f8ae05-616d-41de-9831-8f0bd538eb7b#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/2596b917-a408-474c-9d5e-81521ab0d335_w520_r2.08_fpx45.32_fpy49.99.jpg",
+      "zeit": "2026-10-09T16:12+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 11:00",
-      "was": "Verkündung des Friedensnobelpreises in Oslo, danach Reaktionen aus Washington"
-    },
-    {
       "wann": "heute Abend",
-      "was": "Jubel oder Frust der Schweizer Frauen-Nati im WM-Qualifikationsspiel"
+      "was": "Jubel- oder Frustbilder der Frauen-Nati nach dem WM-Quali-Playoff"
     }
   ],
   "hinweis": ""
