@@ -4,6 +4,36 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-10-09-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Basler Gentherapie gibt Blinden erste Seheindrücke, wann ist der Nachrichtendienst mit dem rechten Auge dran",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Basler Gentherapie gibt Blinden erste Seheindrücke. Wann ist der Nachrichtendienst dran, rechtes Auge?"
+    },
+    {
+      "id": "2026-10-09-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Opernhaus Zürich ist laut Intendant wie ein Schwimmbad, gleiche Woche Referendum gegen ausgehebelte Mindestlöhne",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Das Opernhaus Zürich sei wie ein Schwimmbad, sagt der Intendant zu 93 Millionen Subventionen. Gleiche Woche will Bern Mindestlöhne aushebeln, Wasser bis zum Hals gibts gratis, auch ohne Abo."
+    },
+    {
+      "id": "2026-10-09-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Junge Fussballer duschen aus Grössensorge in Unterhosen, die UBS hält ihr Eigenkapital für ausreichend und will nicht nachmessen lassen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Junge Fussballer duschen neuerdings in Unterhosen, aus Sorge, ihrer reiche nicht. Die UBS findet ihr Eigenkapital völlig ausreichend und will trotzdem nicht, dass jemand nachmisst."
+    },
+    {
       "id": "2026-10-09-0757-16",
       "typ": "schnittmenge",
       "stichwort": "Mietautos lösen in Innerrhoden ein wegen der tiefen Steuer, die Schlaglöcher fahren sie in Zürich",
@@ -72,36 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Hier alle Rüstungs-CEOs, die sich seit Kriegsbeginn freiwillig an die Front gemeldet haben:\n-\n-\nSind alle an der Generalversammlung."
-    },
-    {
-      "id": "2026-10-09-0757-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wie viel Ferien macht faul, Frage für Leute mit Chalet in Gstaad",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wie viel Ferien macht eigentlich faul? Frage für Leute mit Chalet in Gstaad."
-    },
-    {
-      "id": "2026-10-09-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "FDP warnt, Superreiche wandern bei Besteuerung aus, Drohung als Wahlversprechen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Superreiche wandern aus, wenn man sie besteuert, warnt die FDP. Klingt wie eine Drohung, ist aber das beste Wahlversprechen seit Jahren."
-    },
-    {
-      "id": "2026-10-09-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "Pentagon überträgt eine Hinrichtung live, Florida nimmt das Pinguin-Kinderbuch mit zwei Vätern aus der Schule",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Zwei Pinguin-Väter im Kinderbuch, Florida so: zu verstörend, raus aus der Schule. Hinrichtung im Livestream, Pentagon so: 13 Uhr, gern mit der ganzen Familie."
     }
   ]
 }
