@@ -1,61 +1,59 @@
 {
-  "stand": "2026-10-08T17:00:33+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-09T08:02:18+02:00",
+  "lauf": "0801",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Stimmungstest für Meloni – Italiens Parlament segnet Wahlrechtsreform ab",
-      "was": "Meloni lächelnd im Parlament, Applaus der Koalition nach der Abstimmung",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Die Spielregeln werden zum eigenen Vorteil geändert und das Ganze heisst Stabilität für das Land.",
+      "id": "0801-1",
+      "titel": "Geringe Chancen: Donald Trump will den Friedensnobelpreis",
+      "was": "Donald Trump mit verschränkten Armen vor Mikrofonen im Weissen Haus",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: einen Angriff nur aufschieben gegen sich dafür als Friedensstifter feiern lassen.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "weltweit",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "NZZ",
-        "Tagesschau",
-        "taz"
+        "Spiegel"
       ],
-      "artikel": "https://www.srf.ch/news/international/stimmungstest-fuer-meloni-italiens-parlament-segnet-wahlrechtsreform-ab",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/f54c24.jpg",
-      "zeit": "2026-10-08T13:41+02:00"
+      "artikel": "https://www.tagesschau.de/ausland/trump-friedensnobelpreis-100.html",
+      "bild": "https://images.tagesschau.de/image/7b4fb075-224f-4f70-a284-c90454f027db/AAABoQGi9MU/AAABnSSvrFg/16x9-big/trump-5308.jpg?width=1280",
+      "zeit": "2026-10-09T03:41+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Kein Machtkampf mit Infantino: Ceferin will Uefa-Wiederwahl",
-      "was": "Ceferin am UEFA-Rednerpult oder im Handschlag mit Infantino",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Der Verzicht auf den Machtkampf wird als Grösse verkauft, ist aber eine Absprache unter Funktionären, die einander die Posten sichern.",
+      "id": "0801-2",
+      "titel": "Triumphbogen von Donald Trump: Arlington County klagt gegen geplantes Denkmal",
+      "was": "Visualisierung des geplanten Triumphbogens vor Washingtoner Kulisse",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Triumph als Bauprojekt bestellt gegen einen Triumph, den es zuerst geben müsste.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "Watson"
+        "Tagesschau"
       ],
-      "artikel": "https://www.20min.ch/story/fussball-kein-machtkampf-mit-infantino-ceferin-will-uefa-wiederwahl-103646498",
-      "bild": "https://media.20min.ch/6/image/2023/12/22/65193e14-03cc-4a77-b1ee-f5a5ad3da793.jpeg?s=75c6d43f2c581a9f06651036111ebce9",
-      "zeit": "2026-10-08T16:25+02:00"
+      "artikel": "https://www.spiegel.de/ausland/triumphbogen-von-donald-trump-arlington-county-klagt-gegen-geplantes-denkmal-a-323e0071-8c81-4c10-a6fe-4e07f53fa469#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/ffad0b4e-981d-4796-bd90-e844316bac04_w520_r2.08_fpx50_fpy54.jpg",
+      "zeit": "2026-10-09T07:15+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "VIDEO - Bundespräsident Parmelin eröffnet mit Säuli Vivienne die Olma",
-      "was": "Bundespräsident Parmelin mit Säuli Vivienne bei der Olma-Eröffnung",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten, hier des Säulis. Achse: Das Tier ist heute Ehrengast neben dem Bundesrat und morgen das Produkt, für das die Messe wirbt.",
+      "id": "0801-3",
+      "titel": "«Federer schmiss eine Grillparty zum Abschluss der Bauarbeiten»",
+      "was": "Federer-Anwesen am Zürichsee, Bauarbeiter beim Grillieren im Garten",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: eine Bratwurst als Dank gegen die Baukosten einer Seevilla.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "NZZ",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/shorts/bundespra-sident-parmelin-ero-ffnet-mit-saeuli-vivienne-die-olma-ld.10028252",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/08/3f4fff92-3d7f-43ac-9875-49c8c0775434.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4096,4096,x1024,y0",
-      "zeit": "2026-10-08T14:22+02:00"
+      "artikel": "https://www.20min.ch/story/rapperswil-jona-sg-federer-schmiss-eine-grillparty-zum-abschluss-der-bauarbeiten-103646475",
+      "bild": "https://image.20min.ch/2026/10/08/7baf85a9-716d-4b12-bd36-eb6a40aec87f.jpg?s=3d1f659c7ed8ebfcf9a23e3f7e9f55f2",
+      "zeit": "2026-10-09T06:04+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, laufend",
-      "was": "Olma St. Gallen: Bundesräte und Gastkanton Schwyz am Degustationsstand und im Stall"
+      "wann": "heute ab 11:00",
+      "was": "Verkündung des Friedensnobelpreises in Oslo, danach Reaktionen aus Washington"
     },
     {
-      "wann": "heute",
-      "was": "Antrittsbesuch von Premier Burnham bei Merz in Berlin: Handschlag und Ehrenformation vor dem Kanzleramt"
+      "wann": "heute Abend",
+      "was": "Jubel oder Frust der Schweizer Frauen-Nati im WM-Qualifikationsspiel"
     }
   ],
   "hinweis": ""
