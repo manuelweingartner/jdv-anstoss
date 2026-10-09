@@ -17889,6 +17889,134 @@
         "neu": false
       },
       "datum": "2026-10-05"
+    },
+    {
+      "id": "2026-10-08-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Publica-Daten abgeflossen, am selben Tag steht die Bahn bei Bern still, wenigstens etwas kommt aus Bern pünktlich weg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Daten der Bundespensionskasse sind zu Hackern abgeflossen, am selben Tag stand die Bahn bei Bern stundenlang still. Wenigstens etwas kommt aus Bern pünktlich weg.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      },
+      "datum": "2026-10-08"
+    },
+    {
+      "id": "2026-10-08-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Maricarmen, über siebzig Jahre in der Wohnung, länger als Spanien Demokratie ist, die Räumung überlebt nur die Rendite",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Maricarmen hat über siebzig Jahre in derselben Wohnung gelebt, länger als Spanien eine Demokratie ist. Die Zwangsräumung hat sie nicht lange überlebt, die Rendite schon.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      },
+      "datum": "2026-10-08"
+    },
+    {
+      "id": "2026-10-08-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Notfallsimulation im Spital, Kritik am Chefarzt erwünscht, im Ernstfall erst nach seiner Pensionierung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "In der Notfallsimulation der Spitäler ist Kritik am Chefarzt ausdrücklich erwünscht. Vielleicht sollten wir das irgendwann auch bei echten Patient*innen wagen, sobald der Chefarzt pensioniert ist.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-08"
+    },
+    {
+      "id": "2026-10-08-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fixe Bussen schrecken Superreiche ab wie Preisschilder bei Hermès",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Fixe Bussen schrecken Superreiche ungefähr so ab wie Preisschilder bei Hermès.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-08"
+    },
+    {
+      "id": "2026-10-08-0757-12",
+      "typ": "remix",
+      "stichwort": "Iran will auspeitschen, wer mit Auslandssendern redet, dort moderieren Frauen das Wetter",
+      "plattform": "Threads + Bluesky + Instagram-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Iran will auspeitschen, wer mit Auslandssendern redet. Verständlich, dort moderieren Frauen das Wetter.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-08"
+    },
+    {
+      "id": "2026-10-08-0757-16",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautos mit Steuerwohnsitz in Innerrhoden, wo bleiben die Sozialdetektive",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Tausende Mietautos haben ihren Steuerwohnsitz in Appenzell Innerrhoden. Wo bleiben eigentlich die Sozialdetektive?",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      },
+      "datum": "2026-10-08"
+    },
+    {
+      "id": "2026-10-08-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Spanien wählt neu wegen einer geräumten 87-Jährigen, in Zürich heisst das Portfoliobereinigung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Eine 87-Jährige wird nach siebzig Jahren aus ihrer Wohnung geräumt, und Spanien protestiert, bis es Neuwahlen gibt. In Zürich nennt man so etwas Portfoliobereinigung.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-10-08"
+    },
+    {
+      "id": "2026-10-08-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bundesstatistik: Diebstahl fast nur von Ausländern, Schweizer verwalten bloss, was Diktatoren gestohlen haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, laut Bundesstatistik stehlen fast nur Ausländer. Schweizer stehlen nicht, sie verwalten bloss, was Diktatoren zu Hause gestohlen haben, diskret und gegen Gebühr.",
+      "jury": {
+        "anker": false,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-10-08"
     }
   ]
 }
