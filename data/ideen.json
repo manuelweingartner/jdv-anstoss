@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-09",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-09-0757-16",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautos lösen in Innerrhoden ein wegen der tiefen Steuer, die Schlaglöcher fahren sie in Zürich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Mietautos lösen ihre Nummer in Appenzell Innerrhoden ein, weil die Verkehrssteuer dort tiefer ist. Die Schlaglöcher fahren sie in Zürich."
+    },
+    {
+      "id": "2026-10-09-0757-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Uber-Fahrer mit 70 Franken für neun Stunden, als Mietauto hätten sie es besser: der Konzern sucht ihnen eigens Innerrhoden aus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Uber-Fahrer bekommen in der Schweiz 70 Franken für neun Stunden. Als Mietauto hätten sie es besser, dem sucht der Konzern wegen der tiefen Steuern extra Appenzell Innerrhoden aus."
+    },
+    {
+      "id": "2026-10-09-0757-18",
+      "typ": "schnittmenge",
+      "stichwort": "Zürich fragt nach den Innerrhoder Nummern, Innerrhoden antwortet: chill, Standortförderung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Zürich so: wieso fahren hier alle mit Innerrhoder Nummer? Innerrhoden so: chill, Standortförderung."
+    },
     {
       "id": "2026-10-09-0757-24",
       "typ": "politisch-aktuell",
@@ -72,16 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Zwei Pinguin-Väter im Kinderbuch, Florida so: zu verstörend, raus aus der Schule. Hinrichtung im Livestream, Pentagon so: 13 Uhr, gern mit der ganzen Familie."
-    },
-    {
-      "id": "2026-10-09-0757-32",
-      "typ": "remix",
-      "stichwort": "Referendum gegen den Malaysia-Deal, Nachhaltigkeitslabel auf Palmöl als Brandstifter, der den Rauchmelder prüft",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Referendum gegen den Malaysia-Deal. Palmöl mit Nachhaltigkeitslabel heisst: Der Brandstifter prüft den Rauchmelder."
     }
   ]
 }
