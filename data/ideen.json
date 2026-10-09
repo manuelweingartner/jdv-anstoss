@@ -11,17 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Basler Gentherapie gibt Blinden erste Seheindrücke. Wann ist der Nachrichtendienst dran, rechtes Auge?"
-    },
-    {
-      "id": "2026-10-09-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Opernhaus Zürich ist laut Intendant wie ein Schwimmbad, gleiche Woche Referendum gegen ausgehebelte Mindestlöhne",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Das Opernhaus Zürich sei wie ein Schwimmbad, sagt der Intendant zu 93 Millionen Subventionen. Gleiche Woche will Bern Mindestlöhne aushebeln, Wasser bis zum Hals gibts gratis, auch ohne Abo."
+      "text": "Basler Gentherapie gibt Blinden erste Seheindrücke. Wann ist der Nachrichtendienst dran, rechtes Auge?",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-09-0757-03",
@@ -31,47 +26,102 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Junge Fussballer duschen neuerdings in Unterhosen, aus Sorge, ihrer reiche nicht. Die UBS findet ihr Eigenkapital völlig ausreichend und will trotzdem nicht, dass jemand nachmisst."
+      "text": "Junge Fussballer duschen neuerdings in Unterhosen, aus Sorge, ihrer reiche nicht. Die UBS findet ihr Eigenkapital völlig ausreichend und will trotzdem nicht, dass jemand nachmisst.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-10-09-0757-16",
-      "typ": "schnittmenge",
-      "stichwort": "Mietautos lösen in Innerrhoden ein wegen der tiefen Steuer, die Schlaglöcher fahren sie in Zürich",
+      "id": "2026-10-09-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ozempic auf Krankenkassenkosten, wer abnehmen will, soll sich mehr bewegen, die Prämien schaffen das ohne Spritze",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Mietautos lösen ihre Nummer in Appenzell Innerrhoden ein, weil die Verkehrssteuer dort tiefer ist. Die Schlaglöcher fahren sie in Zürich."
+      "text": "Stimmt, wer Ozempic auf Krankenkassenkosten will, soll sich halt mehr bewegen. Die Krankenkassenprämien schaffen das auch, jedes Jahr, ganz ohne Spritze.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-09-0757-17",
+      "id": "2026-10-09-0757-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Uber-Fahrer mit 70 Franken für neun Stunden, als Mietauto hätten sie es besser: der Konzern sucht ihnen eigens Innerrhoden aus",
+      "stichwort": "Pentagon streamt eine Hinrichtung live, Instagram sperrt Brustwarzen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, das Pentagon streamt eine Hinrichtung live, und Instagram sperrt Brustwarzen?",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-09-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nachhaltige Fonds nehmen Rüstungskonzerne auf, Artillerie als Energiesparmassnahme",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Nachhaltige Anlagefonds dürfen jetzt auch Rüstungskonzerne enthalten. Konsequent, nichts senkt den Energieverbrauch einer Stadt so zuverlässig wie Artilleriebeschuss.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-09-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Pentagon überträgt die Hinrichtung des Fort-Hood-Schützen live, eine nackte Brust beim Super Bowl war ein nationaler Skandal",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Nackte Brust beim Super Bowl, USA so: Skandal, nie wieder live. Hinrichtung eines Amokschützen, Pentagon so: am 3. Dezember um 13 Uhr, jugendfrei.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-10-09-0757-12",
+      "typ": "remix",
+      "stichwort": "Boxlegende Pacquiao leitet die Armutsbekämpfung der Philippinen, Gegner noch offen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Uber-Fahrer bekommen in der Schweiz 70 Franken für neun Stunden. Als Mietauto hätten sie es besser, dem sucht der Konzern wegen der tiefen Steuern extra Appenzell Innerrhoden aus."
+      "format": 10,
+      "text": "Boxlegende Pacquiao leitet die Armutsbekämpfung der Philippinen. Gegner noch offen, getippt wird auf die Armen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-09-0757-18",
-      "typ": "schnittmenge",
-      "stichwort": "Zürich fragt nach den Innerrhoder Nummern, Innerrhoden antwortet: chill, Standortförderung",
+      "id": "2026-10-09-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Intendant vergleicht das Opernhaus Zürich mit 93 Millionen Subventionen mit einem Schwimmbad, am Ende ertrinkt immer jemand und alle klatschen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Zürich so: wieso fahren hier alle mit Innerrhoder Nummer? Innerrhoden so: chill, Standortförderung."
-    },
-    {
-      "id": "2026-10-09-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Abnehmspritzen treiben angeblich die Krankenkassenprämien, zugenommen hat nur der Hersteller",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seh ich das richtig, die Krankenkassenprämien steigen wegen Ozempic und Co.? Weiss jetzt auch nicht, warum dann nur Novo Nordisk so zugenommen hat."
+      "text": "Das Opernhaus Zürich sei wie ein Schwimmbad, sagt der Intendant zu seinen 93 Millionen Subventionen. Stimmt, am Ende ertrinkt immer jemand, und alle klatschen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-09-0757-25",
@@ -81,27 +131,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Gleiche Woche: Paramount schluckt Warner, das Pentagon plant eine Erschiessung im Livestream. Weiss jetzt auch nicht, welches Abo man da kündigen soll."
+      "text": "Gleiche Woche: Paramount schluckt Warner, das Pentagon plant eine Erschiessung im Livestream. Weiss jetzt auch nicht, welches Abo man da kündigen soll.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-10-09-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mehrwertsteuer für die 13. AHV-Rente unzumutbar, Kaffee fast zwei Rappen teurer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "id": "2026-10-09-0757-31",
+      "typ": "schnittmenge",
+      "stichwort": "Pentagon überträgt eine Hinrichtung live, Florida nimmt das Pinguin-Kinderbuch mit zwei Vätern aus der Schule",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, Mehrwertsteuer für die AHV ist unzumutbar. Kaffee wird fast zwei Rappen teurer."
-    },
-    {
-      "id": "2026-10-09-0757-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rüstungs-CEOs, die sich freiwillig an die Front gemeldet haben, leere Liste, alle an der Generalversammlung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Rüstungs-CEOs, die sich seit Kriegsbeginn freiwillig an die Front gemeldet haben:\n-\n-\nSind alle an der Generalversammlung."
+      "text": "Zwei Pinguin-Väter im Kinderbuch, Florida so: zu verstörend, raus aus der Schule. Hinrichtung im Livestream, Pentagon so: 13 Uhr, gern mit der ganzen Familie.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     }
   ]
 }
