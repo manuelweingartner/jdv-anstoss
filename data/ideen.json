@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-10",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -16,6 +16,21 @@
         "anker": true,
         "witz": true,
         "neu": false
+      }
+    },
+    {
+      "id": "2026-10-10-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "WWF: ein Drittel der Schweizer Arten bedroht, die einzige, die zum Abschuss freigegeben wird, ist der Wolf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, laut WWF ist ein Drittel aller Arten in der Schweiz vom Aussterben bedroht, und die einzige, die wir zum Abschuss freigeben, ist der Wolf?",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
       }
     },
     {
@@ -79,36 +94,6 @@
       }
     },
     {
-      "id": "2026-10-10-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump beleidigt über Friedensnobelpreis für Navi Pillay, schliesst am selben Tag Frieden mit Putin wegen Diesel",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Trump ist beleidigt, weil der Friedensnobelpreis an die Menschenrechtlerin Navi Pillay geht. Am selben Tag schliesst er Frieden. Mit Putin, wegen Diesel.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-10-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor Friedensnobelpreisträgerin Pillay, die Kriegsverbrecher lieber vor Gericht sieht als am WEF",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor Friedensnobelpreisträgerin Pillay. Die will Kriegsverbrecher vor Gericht sehen statt am WEF.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-10-10-0757-29",
       "typ": "politisch-aktuell",
       "stichwort": "Velokurier liefert Sushi auf den Zürichberg, Sozialversicherung ohne Tracking",
@@ -139,18 +124,18 @@
       }
     },
     {
-      "id": "2026-10-10-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "USA sanktionieren den Strafgerichtshof und kaufen in derselben Woche russischen Diesel, Tipp an die Richter*innen: Angriffskrieg",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "id": "2026-10-10-0757-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mietautos mit Innerrhoder Nummer wegen tiefer Steuer, Briefkastenfirmen mit Allradantrieb",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Washington sanktioniert den Internationalen Strafgerichtshof und kauft in derselben Woche wieder russischen Diesel. Haben es die Richter*innen schon mal mit einem Angriffskrieg probiert?",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Halb Zürich fährt Mietautos aus Appenzell Innerrhoden, wegen der tiefen Steuer. Briefkastenfirmen mit Allradantrieb.",
       "jury": {
         "witz": true,
         "anker": true,
-        "neu": true
+        "neu": false
       }
     }
   ]
