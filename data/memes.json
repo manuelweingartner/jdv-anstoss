@@ -1,46 +1,46 @@
 {
-  "stand": "2026-10-09T08:02:48+02:00",
+  "stand": "2026-10-10T08:02:48+02:00",
   "vorschlaege": [
-    {
-      "vorlage": "schild",
-      "name": "Change My Mind",
-      "zeilen": [
-        "SpaceX ist ein Sozialfall mit Raketen"
-      ],
-      "warum": "Eine Billionenfirma, die 40 Milliarden braucht, weil sie keinen Gewinn macht: Dagegen kann man kaum etwas einwenden.",
-      "bild": "vorschlag-1.jpg"
-    },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Zurück zur Alukapsel",
-        "Papierkapsel",
-        "Nespresso"
+        "Diesel von Putin",
+        "Sanktionen durchziehen",
+        "Trump"
       ],
-      "warum": "Nespresso reisst das Steuer im letzten Moment herum und lässt die nachhaltige Spur liegen.",
-      "bild": "vorschlag-2.jpg"
-    },
-    {
-      "vorlage": "doge",
-      "name": "Buff Doge vs. Cheems",
-      "zeilen": [
-        "Tamedia früher",
-        "Korrespondent in Washington",
-        "Tamedia heute",
-        "Edi Estermann erklärt Qualität"
-      ],
-      "warum": "Der starke Journalismus von früher steht neben dem Sprecher, der nach 34 Entlassungen sagt, die Qualität leide nicht.",
-      "bild": "vorschlag-3.jpg"
+      "warum": "Kurswechsel in letzter Sekunde, weg vom vernünftigen Weg, der liegen bleibt",
+      "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "70 Franken für neun Stunden",
-        "Flexible Selbstständigkeit bei Uber"
+        "34 Stellen gestrichen",
+        "Ohne Einfluss auf Qualität"
       ],
-      "warum": "Derselbe Hungerlohn, einmal schlicht benannt und einmal so verpackt, wie die Plattform es tut.",
+      "warum": "die Sprecherformel ist die vornehme Verpackung derselben Entlassung",
+      "bild": "vorschlag-2.jpg"
+    },
+    {
+      "vorlage": "schild",
+      "name": "Change My Mind",
+      "zeilen": [
+        "SpaceX ist ein Start-up"
+      ],
+      "warum": "Billionen wert, kein Gewinn, braucht Geld: die These stimmt und niemand kann widersprechen",
+      "bild": "vorschlag-3.jpg"
+    },
+    {
+      "vorlage": "doge",
+      "name": "Buff Doge vs. Cheems",
+      "zeilen": [
+        "Warner Brothers",
+        "Casablanca gedreht",
+        "Warner bei Paramount",
+        "Milliardenschulden geerbt"
+      ],
+      "warum": "starkes Hollywood früher gegen den verschuldeten Fusionsrest von heute",
       "bild": "vorschlag-4.jpg"
     }
   ]
