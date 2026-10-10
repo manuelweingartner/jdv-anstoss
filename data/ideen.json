@@ -4,14 +4,19 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-10-10-0757-04",
+      "id": "2026-10-10-0757-01",
       "typ": "politisch-aktuell",
-      "stichwort": "WWF: ein Drittel der Schweizer Arten bedroht, die einzige, die zum Abschuss freigegeben wird, ist der Wolf",
+      "stichwort": "Trump erlaubt russischen Diesel, Sanktionen hart, an der Tankstelle Kumpel",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Seh ich das richtig, laut WWF ist ein Drittel aller Arten in der Schweiz vom Aussterben bedroht, und die einzige, die wir zum Abschuss freigeben, ist der Wolf?"
+      "text": "Russland bombardiert die Ukraine, Trump so: Sanktionen, ganz hart. Diesel wird an der Tankstelle teurer, Trump so: Wladimir, Kumpel, einmal volltanken bitte.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-10-10-0757-05",
@@ -21,7 +26,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Verkehrsminister Rösti will gegen den Stau mehr Spuren. Leuchtet ein. Nebeneinander staut man geselliger."
+      "text": "Verkehrsminister Rösti will gegen den Stau mehr Spuren. Leuchtet ein. Nebeneinander staut man geselliger.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-10-10-0757-06",
@@ -31,17 +41,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Der Friedensnobelpreis geht an Navi Pillay, für ihren jahrzehntelangen Kampf gegen Straflosigkeit. Hat das eigentlich jemand mit den Arbeitsplätzen in Zug und Genf abgesprochen?"
+      "text": "Der Friedensnobelpreis geht an Navi Pillay, für ihren jahrzehntelangen Kampf gegen Straflosigkeit. Hat das eigentlich jemand mit den Arbeitsplätzen in Zug und Genf abgesprochen?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-10-10-0757-21",
+      "id": "2026-10-10-0757-09",
       "typ": "politisch-aktuell",
-      "stichwort": "Shein-Aktie rutscht am ersten Börsentag ins Minus, reisst ein wie alles von Shein",
+      "stichwort": "Leere Liste der Gemeinden, die einem Milliardär den Steuerdeal wegen mangelnder Integration verweigert haben",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Kaum an der Börse, reisst die Shein-Aktie schon ein. Wie alles von Shein."
+      "text": "Hier eine Liste aller Gemeinden, die einem Milliardär den Steuerdeal verweigert haben, weil er sich zu wenig integriert hatte:\n-\n-\nDas wäre dann alles.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-10-0757-17",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne eigenes Frauenhaus, die Flucht braucht einen Fahrplan",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Im Kanton Thurgau gibt es kein eigenes Frauenhaus. Wer nachts mit zwei Kindern flieht, muss unterwegs auch noch umsteigen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-10-0757-22",
@@ -51,37 +86,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Trump ist beleidigt, weil der Friedensnobelpreis an die Menschenrechtlerin Navi Pillay geht. Am selben Tag schliesst er Frieden. Mit Putin, wegen Diesel."
+      "text": "Trump ist beleidigt, weil der Friedensnobelpreis an die Menschenrechtlerin Navi Pillay geht. Am selben Tag schliesst er Frieden. Mit Putin, wegen Diesel.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     },
     {
-      "id": "2026-10-10-0757-23",
+      "id": "2026-10-10-0757-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Lohnangriff-Referendum, Kantone wollen Mindestlohn, Bern entdeckt Föderalismus nur bei Steuersenkungen",
+      "stichwort": "Angst vor Friedensnobelpreisträgerin Pillay, die Kriegsverbrecher lieber vor Gericht sieht als am WEF",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Genf und Neuenburg so: Mindestlohn, damit Vollzeit zum Leben reicht. Das Parlament so: Moment, Föderalismus gilt nur für Steuersenkungen."
-    },
-    {
-      "id": "2026-10-10-0757-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Private Kapitalgewinne in der Schweiz steuerfrei, Neid auf das Aktiendepot",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so steuerfrei reicher werden dürfen wie ein Schweizer Aktiendepot im Schlaf."
-    },
-    {
-      "id": "2026-10-10-0757-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rüstungsaktie fürchtet den Frieden, Rheinmetall so",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Waffenruhe in Sicht, Rheinmetall-Aktie so: oh nein, Kurssturz, schlimm. Krieg geht doch weiter, Rheinmetall-Aktie so: puh, Glück gehabt, Dividende gerettet."
+      "text": "Habe Angst vor Friedensnobelpreisträgerin Pillay. Die will Kriegsverbrecher vor Gericht sehen statt am WEF.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-10-0757-29",
@@ -91,7 +116,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Der Velokurier bringt das Sushi bei Regen pünktlich auf den Zürichberg. Nur seine Sozialversicherungen sind noch unterwegs, seit der Gründung der Plattform, ohne Tracking."
+      "text": "Der Velokurier bringt das Sushi bei Regen pünktlich auf den Zürichberg. Nur seine Sozialversicherungen sind noch unterwegs, seit der Gründung der Plattform, ohne Tracking.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-10-0757-30",
@@ -101,7 +131,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wer Milliardäre für nötig hält, damit Arbeit entsteht, hält auch Zecken für nötig, damit der Hund Blut hat."
+      "text": "Wer Milliardäre für nötig hält, damit Arbeit entsteht, hält auch Zecken für nötig, damit der Hund Blut hat.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-10-0757-31",
+      "typ": "schnittmenge",
+      "stichwort": "USA sanktionieren den Strafgerichtshof und kaufen in derselben Woche russischen Diesel, Tipp an die Richter*innen: Angriffskrieg",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Washington sanktioniert den Internationalen Strafgerichtshof und kauft in derselben Woche wieder russischen Diesel. Haben es die Richter*innen schon mal mit einem Angriffskrieg probiert?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
