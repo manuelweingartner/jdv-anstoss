@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-10",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "evergreen",
       "format": 10,
       "text": "SVP warnt vor den EU-Verträgen. Zu Recht, drüben lauern Elternzeit, Gratis-Roaming und Mindestlöhne."
+    },
+    {
+      "id": "2026-10-10-0757-36",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gen Alpha sagt «so AI» zu allem, was fake und billig wirkt, auf Schweizer Mietautos steht es längst hinten drauf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "«Das ist so AI», sagt Gen Alpha jetzt zu allem, was fake und billig wirkt. Auf Schweizer Autobahnen steht es längst hinten drauf, auf jedem Mietauto."
+    },
+    {
+      "id": "2026-10-10-0757-37",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti will neue AKWs, Süddeutschland wütend über das Schweizer Endlager an der Grenze, Souveränität beim Strahlen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Albert Rösti will neue AKWs, und Süddeutschland tobt über das Schweizer Atom-Endlager direkt an der Grenze. Souveränität heisst: Wir entscheiden, strahlen dürfen alle."
+    },
+    {
+      "id": "2026-10-10-0757-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mietautos mit Innerrhoder Nummer wegen tiefer Steuer, Briefkastenfirmen mit Allradantrieb",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Halb Zürich fährt Mietautos aus Appenzell Innerrhoden, wegen der tiefen Steuer. Briefkastenfirmen mit Allradantrieb."
     }
   ]
 }
