@@ -18017,6 +18017,134 @@
         "witz": true
       },
       "datum": "2026-10-08"
+    },
+    {
+      "id": "2026-10-09-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Basler Gentherapie gibt Blinden erste Seheindrücke, wann ist der Nachrichtendienst mit dem rechten Auge dran",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Basler Gentherapie gibt Blinden erste Seheindrücke. Wann ist der Nachrichtendienst dran, rechtes Auge?",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-09"
+    },
+    {
+      "id": "2026-10-09-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Junge Fussballer duschen aus Grössensorge in Unterhosen, die UBS hält ihr Eigenkapital für ausreichend und will nicht nachmessen lassen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Junge Fussballer duschen neuerdings in Unterhosen, aus Sorge, ihrer reiche nicht. Die UBS findet ihr Eigenkapital völlig ausreichend und will trotzdem nicht, dass jemand nachmisst.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-10-09"
+    },
+    {
+      "id": "2026-10-09-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ozempic auf Krankenkassenkosten, wer abnehmen will, soll sich mehr bewegen, die Prämien schaffen das ohne Spritze",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, wer Ozempic auf Krankenkassenkosten will, soll sich halt mehr bewegen. Die Krankenkassenprämien schaffen das auch, jedes Jahr, ganz ohne Spritze.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-09"
+    },
+    {
+      "id": "2026-10-09-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pentagon streamt eine Hinrichtung live, Instagram sperrt Brustwarzen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, das Pentagon streamt eine Hinrichtung live, und Instagram sperrt Brustwarzen?",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-09"
+    },
+    {
+      "id": "2026-10-09-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Betreibungsauszug für die Mieterin, aber niemand erfährt, wem die Wohnung gehört",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wieso verlangt jede Verwaltung einen Betreibungsauszug, aber noch nie durfte eine Mieterin erfahren, wem ihre Wohnung eigentlich gehört?",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-09"
+    },
+    {
+      "id": "2026-10-09-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nachhaltige Fonds nehmen Rüstungskonzerne auf, Artillerie als Energiesparmassnahme",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Nachhaltige Anlagefonds dürfen jetzt auch Rüstungskonzerne enthalten. Konsequent, nichts senkt den Energieverbrauch einer Stadt so zuverlässig wie Artilleriebeschuss.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-09"
+    },
+    {
+      "id": "2026-10-09-0757-12",
+      "typ": "remix",
+      "stichwort": "Boxlegende Pacquiao leitet die Armutsbekämpfung der Philippinen, Gegner noch offen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 10,
+      "text": "Boxlegende Pacquiao leitet die Armutsbekämpfung der Philippinen. Gegner noch offen, getippt wird auf die Armen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-09"
+    },
+    {
+      "id": "2026-10-09-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Intendant vergleicht das Opernhaus Zürich mit 93 Millionen Subventionen mit einem Schwimmbad, am Ende ertrinkt immer jemand und alle klatschen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Das Opernhaus Zürich sei wie ein Schwimmbad, sagt der Intendant zu seinen 93 Millionen Subventionen. Stimmt, am Ende ertrinkt immer jemand, und alle klatschen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-09"
     }
   ]
 }
