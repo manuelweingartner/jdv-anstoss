@@ -34,6 +34,36 @@
       "text": "Der Friedensnobelpreis geht an Navi Pillay, für ihren jahrzehntelangen Kampf gegen Straflosigkeit. Hat das eigentlich jemand mit den Arbeitsplätzen in Zug und Genf abgesprochen?"
     },
     {
+      "id": "2026-10-10-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Shein-Aktie rutscht am ersten Börsentag ins Minus, reisst ein wie alles von Shein",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Kaum an der Börse, reisst die Shein-Aktie schon ein. Wie alles von Shein."
+    },
+    {
+      "id": "2026-10-10-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump beleidigt über Friedensnobelpreis für Navi Pillay, schliesst am selben Tag Frieden mit Putin wegen Diesel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Trump ist beleidigt, weil der Friedensnobelpreis an die Menschenrechtlerin Navi Pillay geht. Am selben Tag schliesst er Frieden. Mit Putin, wegen Diesel."
+    },
+    {
+      "id": "2026-10-10-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lohnangriff-Referendum, Kantone wollen Mindestlohn, Bern entdeckt Föderalismus nur bei Steuersenkungen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Genf und Neuenburg so: Mindestlohn, damit Vollzeit zum Leben reicht. Das Parlament so: Moment, Föderalismus gilt nur für Steuersenkungen."
+    },
+    {
       "id": "2026-10-10-0757-27",
       "typ": "politisch-aktuell",
       "stichwort": "Private Kapitalgewinne in der Schweiz steuerfrei, Neid auf das Aktiendepot",
@@ -72,36 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Wer Milliardäre für nötig hält, damit Arbeit entsteht, hält auch Zecken für nötig, damit der Hund Blut hat."
-    },
-    {
-      "id": "2026-10-10-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "USA sanktionieren den Strafgerichtshof und kaufen in derselben Woche russischen Diesel, Tipp an die Richter*innen: Angriffskrieg",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Washington sanktioniert den Internationalen Strafgerichtshof und kauft in derselben Woche wieder russischen Diesel. Haben es die Richter*innen schon mal mit einem Angriffskrieg probiert?"
-    },
-    {
-      "id": "2026-10-10-0757-32",
-      "typ": "remix",
-      "stichwort": "SVP warnt vor den EU-Verträgen, drüben lauern Elternzeit, Gratis-Roaming und Mindestlöhne",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 10,
-      "text": "SVP warnt vor den EU-Verträgen. Zu Recht, drüben lauern Elternzeit, Gratis-Roaming und Mindestlöhne."
-    },
-    {
-      "id": "2026-10-10-0757-36",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gen Alpha sagt «so AI» zu allem, was fake und billig wirkt, auf Schweizer Mietautos steht es längst hinten drauf",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "«Das ist so AI», sagt Gen Alpha jetzt zu allem, was fake und billig wirkt. Auf Schweizer Autobahnen steht es längst hinten drauf, auf jedem Mietauto."
     }
   ]
 }
