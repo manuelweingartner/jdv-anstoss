@@ -1,56 +1,61 @@
 {
-  "stand": "2026-10-10T08:02:05+02:00",
-  "lauf": "0801",
+  "stand": "2026-10-10T17:00:36+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0801-1",
-      "titel": "Telefonat mit Wladimir Putin: Donald Trump kündigt große Diesellieferungen aus Russland an",
-      "was": "Trump und Putin beim Handschlag, oder Trump am Rednerpult vor Flaggen",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Sanktionen gegen Russland gelten für Europa, aber nicht für Trump, wenn bei ihm daheim der Sprit teuer wird.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
-      "auch_bei": [
-        "20 Minuten",
-        "Tagesschau"
-      ],
-      "artikel": "https://www.spiegel.de/ausland/telefonat-mit-wladimir-putin-donald-trump-kuendigt-grosse-diesellieferungen-aus-russland-an-a-541e5758-9f7b-4a7d-bd98-5efe9ac9ca55#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/d0d72879-9d7c-49cc-aa05-c782eb69388b_w520_r2.08_fpx52.55_fpy48.93.jpg",
-      "zeit": "2026-10-09T21:20+02:00"
-    },
-    {
-      "id": "0801-2",
-      "titel": "Esther Friedli kandidiert nicht für Parmelin-Nachfolge",
-      "was": "Esther Friedli vor Mikrofonen im Bundeshaus, ernste Miene",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Alle reden vom Nachfolgekarussell, und wer klug ist, steigt gar nicht erst ein.",
+      "id": "1700-1",
+      "titel": "Esther Friedli will nicht Bundesrätin werden – sie hätte die Wahl gewonnen",
+      "was": "Esther Friedli im Gasthaus Sonne im Toggenburg, Schürze statt Bundeshaus",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein sicherer Sitz im Bundesrat zählt weniger als die eigene Dorfbeiz.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "NZZ",
       "auch_bei": [
         "SRF"
       ],
-      "artikel": "https://www.20min.ch/story/scheidender-svp-bundesrat-esther-friedli-kandidiert-nicht-fuer-parmelin-nachfolge-103647327",
-      "bild": "https://image.20min.ch/2026/10/02/e987ba39-5431-4e2a-9dda-2a236dc74e72.jpg?s=d1245d3dfe2216a10699e23a8c457fa1",
-      "zeit": "2026-10-09T22:51+02:00"
+      "artikel": "https://www.nzz.ch/schweiz/esther-friedli-will-nicht-bundesraetin-werden-sie-haette-die-wahl-gewonnen-ld.10030054",
+      "bild": "https://img-msp-prod.nzz.ch/2026/10/03/78dd6d31-bfcd-4d8f-be0d-5c27ce2db2cb.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5504,5504,x1376,y0",
+      "zeit": "2026-10-10T09:40+02:00"
     },
     {
-      "id": "0801-3",
-      "titel": "St. Galler Traditionsmesse – Christine Bolt: «Olma ist mehr als nur St. Gallen und Bratwürste»",
-      "was": "Prominenz und Politik mit Bratwurst neben Preiskühen in der Olma-Halle",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Kuh neben der Prominenz. Achse: Wer hier eigentlich wen begutachtet, das Publikum das Preisvieh oder umgekehrt.",
+      "id": "1700-2",
+      "titel": "Erst droht er Käufern mit Zöllen, jetzt kauft Trump Putins Diesel",
+      "was": "Trump und Putin beim Handschlag, daneben Tankstelle oder Dieselfass",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Wer russisches Öl kauft, wird mit Zöllen bestraft, ausser er kauft es selbst und nennt es einen Deal.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "20 Minuten",
+      "auch_bei": [
+        "NZZ",
+        "Tagesschau",
+        "taz"
+      ],
+      "artikel": "https://www.20min.ch/story/usa-diesel-deal-mit-putin-trump-genehmigt-umstrittene-sonderregel-103647395",
+      "bild": "https://image.20min.ch/2026/10/10/9fe721a5-f4ed-44e3-8d25-3498766bcd39.jpg?s=21e0b71d4ddd1fd789ee3f01dc319e57",
+      "zeit": "2026-10-10T12:47+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Fußball-Bundesliga: Manuel Neuer verschuldet Rekord-Gegentor gegen FC Augsburg",
+      "was": "Manuel Neuer kniet im Strafraum, Ball im Netz hinter ihm",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Weltmeister und Torwartlegende gegen den Angstgegner nach wenigen Sekunden.",
       "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "",
+      "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/st-galler-traditionsmesse-christine-bolt-olma-ist-mehr-als-nur-st-gallen-und-bratwuerste",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/ce552d.jpg",
-      "zeit": "2026-10-10T07:25+02:00"
+      "artikel": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-neuer-verschuldet-rekord-gegentor-gegen-fc-augsburg-a-3254d171-6b97-4fb1-b40f-353bd0b72610#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/8bff4dff-cb5d-40bc-bd27-917a1d33a962_w520_r2.08_fpx30_fpy45.jpg",
+      "zeit": "2026-10-10T16:17+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ganztags",
-      "was": "Olma St. Gallen: Politik und Prominenz beim Rundgang, mit Bratwurst und Kühen"
+      "wann": "heute am späten Nachmittag",
+      "was": "Zieleinlauf der Lombardei-Rundfahrt nach dem Startprotest der Radprofis, Jubel und Erschöpfung"
+    },
+    {
+      "wann": "heute ab 18:30",
+      "was": "Bundesliga-Topspiel am Samstagabend, Torjubel und Verzweiflung an der Seitenlinie"
     }
   ],
   "hinweis": ""
