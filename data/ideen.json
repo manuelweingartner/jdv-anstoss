@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-10",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -34,6 +34,46 @@
       "text": "Der Friedensnobelpreis geht an Navi Pillay, für ihren jahrzehntelangen Kampf gegen Straflosigkeit. Hat das eigentlich jemand mit den Arbeitsplätzen in Zug und Genf abgesprochen?"
     },
     {
+      "id": "2026-10-10-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Private Kapitalgewinne in der Schweiz steuerfrei, Neid auf das Aktiendepot",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so steuerfrei reicher werden dürfen wie ein Schweizer Aktiendepot im Schlaf."
+    },
+    {
+      "id": "2026-10-10-0757-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rüstungsaktie fürchtet den Frieden, Rheinmetall so",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Waffenruhe in Sicht, Rheinmetall-Aktie so: oh nein, Kurssturz, schlimm. Krieg geht doch weiter, Rheinmetall-Aktie so: puh, Glück gehabt, Dividende gerettet."
+    },
+    {
+      "id": "2026-10-10-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Velokurier liefert Sushi auf den Zürichberg, Sozialversicherung ohne Tracking",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Der Velokurier bringt das Sushi bei Regen pünktlich auf den Zürichberg. Nur seine Sozialversicherungen sind noch unterwegs, seit der Gründung der Plattform, ohne Tracking."
+    },
+    {
+      "id": "2026-10-10-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Milliardäre als Jobschaffer, Streitbild Zecke und Hund",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer Milliardäre für nötig hält, damit Arbeit entsteht, hält auch Zecken für nötig, damit der Hund Blut hat."
+    },
+    {
       "id": "2026-10-10-0757-31",
       "typ": "schnittmenge",
       "stichwort": "USA sanktionieren den Strafgerichtshof und kaufen in derselben Woche russischen Diesel, Tipp an die Richter*innen: Angriffskrieg",
@@ -62,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "«Das ist so AI», sagt Gen Alpha jetzt zu allem, was fake und billig wirkt. Auf Schweizer Autobahnen steht es längst hinten drauf, auf jedem Mietauto."
-    },
-    {
-      "id": "2026-10-10-0757-37",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rösti will neue AKWs, Süddeutschland wütend über das Schweizer Endlager an der Grenze, Souveränität beim Strahlen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Albert Rösti will neue AKWs, und Süddeutschland tobt über das Schweizer Atom-Endlager direkt an der Grenze. Souveränität heisst: Wir entscheiden, strahlen dürfen alle."
-    },
-    {
-      "id": "2026-10-10-0757-38",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mietautos mit Innerrhoder Nummer wegen tiefer Steuer, Briefkastenfirmen mit Allradantrieb",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Halb Zürich fährt Mietautos aus Appenzell Innerrhoden, wegen der tiefen Steuer. Briefkastenfirmen mit Allradantrieb."
     }
   ]
 }
