@@ -1,57 +1,56 @@
 {
-  "stand": "2026-10-09T17:00:35+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-10T08:02:05+02:00",
+  "lauf": "0801",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Navi Pillay: Friedensnobelpreisträgerin scherzt über Preisteilung mit Donald Trump",
-      "was": "Navi Pillay lacht an der Pressekonferenz, Publikum applaudiert stehend",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: ein Preis für Jahrzehnte gegen Straflosigkeit gegen einen Anspruchsteller, der ihn sich am liebsten selbst verleihen würde.",
+      "id": "0801-1",
+      "titel": "Telefonat mit Wladimir Putin: Donald Trump kündigt große Diesellieferungen aus Russland an",
+      "was": "Trump und Putin beim Handschlag, oder Trump am Rednerpult vor Flaggen",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Sanktionen gegen Russland gelten für Europa, aber nicht für Trump, wenn bei ihm daheim der Sprit teuer wird.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
         "20 Minuten",
-        "SRF",
         "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/ausland/friedensnobelpreistraegerin-navi-pillay-scherzt-ueber-preisteilung-mit-donald-trump-a-c6a10bad-c741-49a9-b3e1-6a67e4ab043e#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/c907e1b8-2f56-4146-9abf-4646226f8a9e_w520_r2.08_fpx35.71_fpy45.jpg",
-      "zeit": "2026-10-09T15:31+02:00"
+      "artikel": "https://www.spiegel.de/ausland/telefonat-mit-wladimir-putin-donald-trump-kuendigt-grosse-diesellieferungen-aus-russland-an-a-541e5758-9f7b-4a7d-bd98-5efe9ac9ca55#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/d0d72879-9d7c-49cc-aa05-c782eb69388b_w520_r2.08_fpx52.55_fpy48.93.jpg",
+      "zeit": "2026-10-09T21:20+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Gestohlene Renoir-Gemälde in Südfrankreich wieder aufgetaucht",
-      "was": "Polizei präsentiert die zwei wiedergefundenen Renoir-Gemälde",
-      "richtung": "Mechanik: dieselbe Handlung umetikettieren. Achse: Kunstdiebstahl gegen die Frage, wie Europas Museen selbst zu ihren Sammlungen kamen.",
+      "id": "0801-2",
+      "titel": "Esther Friedli kandidiert nicht für Parmelin-Nachfolge",
+      "was": "Esther Friedli vor Mikrofonen im Bundeshaus, ernste Miene",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Alle reden vom Nachfolgekarussell, und wer klug ist, steigt gar nicht erst ein.",
       "grund": "breit",
-      "raum": "",
-      "quelle": "NZZ",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
       "auch_bei": [
         "SRF"
       ],
-      "artikel": "https://www.nzz.ch/panorama/gestohlene-renoir-gemaelde-in-suedfrankreich-wieder-aufgetaucht-ld.10029293",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/09/c9cba9da-5b43-4f28-bd8d-948cb6a4e23a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1967,1967,x0,y0",
-      "zeit": "2026-10-09T14:49+02:00"
+      "artikel": "https://www.20min.ch/story/scheidender-svp-bundesrat-esther-friedli-kandidiert-nicht-fuer-parmelin-nachfolge-103647327",
+      "bild": "https://image.20min.ch/2026/10/02/e987ba39-5431-4e2a-9dda-2a236dc74e72.jpg?s=d1245d3dfe2216a10699e23a8c457fa1",
+      "zeit": "2026-10-09T22:51+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Thailands Königin Suthida absolviert ersten Soloflug mit Kampfjet",
-      "was": "Königin Suthida im Fliegeranzug vor oder im Gripen-Cockpit",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein Kampfjet als Lebenstraum einer Monarchin gegen den Gripen, zu dem das Schweizer Stimmvolk Nein gesagt hat.",
+      "id": "0801-3",
+      "titel": "St. Galler Traditionsmesse – Christine Bolt: «Olma ist mehr als nur St. Gallen und Bratwürste»",
+      "was": "Prominenz und Politik mit Bratwurst neben Preiskühen in der Olma-Halle",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Kuh neben der Prominenz. Achse: Wer hier eigentlich wen begutachtet, das Publikum das Preisvieh oder umgekehrt.",
       "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.spiegel.de/panorama/leute/thailands-koenigin-suthida-absolviert-ersten-soloflug-mit-kampfjet-a-b7f8ae05-616d-41de-9831-8f0bd538eb7b#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/2596b917-a408-474c-9d5e-81521ab0d335_w520_r2.08_fpx45.32_fpy49.99.jpg",
-      "zeit": "2026-10-09T16:12+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/st-galler-traditionsmesse-christine-bolt-olma-ist-mehr-als-nur-st-gallen-und-bratwuerste",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/ce552d.jpg",
+      "zeit": "2026-10-10T07:25+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Abend",
-      "was": "Jubel- oder Frustbilder der Frauen-Nati nach dem WM-Quali-Playoff"
+      "wann": "heute ganztags",
+      "was": "Olma St. Gallen: Politik und Prominenz beim Rundgang, mit Bratwurst und Kühen"
     }
   ],
   "hinweis": ""
