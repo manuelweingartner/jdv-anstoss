@@ -4,34 +4,79 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-10-11-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "Tamedia streicht Redaktionsstellen, am selben Tag wird Ragebait Jugendwort, die Nachfolge ist geregelt",
-      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Tamedia streicht 34 Redaktionsstellen, am selben Tag wird «Ragebait» Jugendwort des Jahres. Die Nachfolge ist geregelt."
-    },
-    {
-      "id": "2026-10-11-0757-12",
-      "typ": "remix",
-      "stichwort": "Ricardo-Datenleck, leere Liste der Entschädigungen für die Betroffenen",
+      "id": "2026-10-11-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Polarlichter über der Schweiz, aus Skandinavien kommt das Falsche an",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Ricardo verliert Namen, Adressen und Telefonnummern seiner Kund*innen. Hier die Entschädigung, die Betroffene dafür bekommen:\n-\n-\nThat's it."
+      "text": "Polarlichter über der Schweiz. Endlich schafft es etwas aus Skandinavien bis zu uns, und natürlich ist es nicht der Sozialstaat.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-10-11-0757-16",
-      "typ": "schnittmenge",
-      "stichwort": "Mietautos in Innerrhoden, Wohnsitz frei wählen wie ein Auto statt wie ein Mensch",
+      "id": "2026-10-11-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Über 100'000 Unterschriften gegen tiefere Mindestlöhne, Arbeitgeber sorgen sich um Augenhöhe in der Sozialpartnerschaft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Über 100'000 unterschreiben gegen tiefere Mindestlöhne, die Arbeitgeber sorgen sich um die Sozialpartnerschaft. Stimmt, Verhandeln auf Augenhöhe wird schwierig, wenn beide Seiten vom Lohn leben können.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-11-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reiche nicht höher besteuern, sonst nehmen sie ihre Schlupflöcher mit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Reiche bloss nicht höher besteuern. Sonst ziehen sie weg und nehmen ihre Schlupflöcher mit.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-11-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Morgenstund hat Gold im Mund, die Reinigungskraft putzt um fünf, das Gold kommt um halb zehn im Range Rover",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Morgenstund hat Gold im Mund. Darum putzt die Reinigungskraft um fünf die Büros, in die das Gold um halb zehn im Range Rover einfährt.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-10-11-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ab wie vielen Kriegen ist eine Rüstungsaktie konservative Altersvorsorge, Frage für deine Pensionskasse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal den Wohnsitz so frei wählen dürfen wie ein Mietauto aus Appenzell Innerrhoden."
+      "text": "Wie viele Kriege braucht es eigentlich, bis eine Rüstungsaktie als konservative Altersvorsorge gilt? Frage für deine Pensionskasse, sie hat schon gekauft.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-10-11-0757-17",
@@ -41,37 +86,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Albert Rösti steht wieder im Feuer. Rösti so: Feuer ist auch eine Energiequelle. Technologieoffen bleiben. Löschen frühestens 2050."
-    },
-    {
-      "id": "2026-10-11-0757-18",
-      "typ": "schnittmenge",
-      "stichwort": "Innerrhoden bleibt bei den Mietautos gelassen, Steuerflucht verkehrstauglich gemacht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Überall Mietautos mit AI-Nummer, und die Einheimischen bleiben gelassen: Appenzell Innerrhoden hat die Steuerflucht bloss verkehrstauglich gemacht. Mit Navi. Und Vollkasko."
-    },
-    {
-      "id": "2026-10-11-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Shein-Aktie rutscht am ersten Börsentag ins Minus, eingegangen wie nach der ersten Wäsche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Shein startet an der Börse und rutscht sofort ins Minus. Erste Wäsche. Eingegangen."
-    },
-    {
-      "id": "2026-10-11-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "SpaceX ohne Gewinn holt Milliarden für Chips, gleiche Woche Schweizer Mittelstand im Überlebensmodus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Elon Musks SpaceX macht keinen Gewinn und kriegt trotzdem Milliarden für Chips. Gleiche Woche fällt der Schweizer Mittelstand in den Überlebensmodus. Falsche Branche. Zu wenig Mars."
+      "text": "Albert Rösti steht wieder im Feuer. Rösti so: Feuer ist auch eine Energiequelle. Technologieoffen bleiben. Löschen frühestens 2050.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-11-0757-23",
@@ -81,17 +101,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Swiss Life macht mehr Gewinn und streicht fast jeden zwanzigsten Job. FDP so: Leistung muss sich wieder lohnen, Swiss Life so: tut sie, danke."
-    },
-    {
-      "id": "2026-10-11-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mindestlöhne in Genf und Neuenburg aushebeln, kann ja nicht sein, dass Vollzeit zum Leben reicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Verständlich, dass das Parlament die Mindestlöhne in Genf und Neuenburg aushebeln will. Kann ja nicht sein, dass jemand Vollzeit arbeitet und davon leben kann."
+      "text": "Swiss Life macht mehr Gewinn und streicht fast jeden zwanzigsten Job. FDP so: Leistung muss sich wieder lohnen, Swiss Life so: tut sie, danke.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-11-0757-25",
@@ -101,7 +116,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Seh ich das richtig, Trump will für die Ukraine einen neuen Präsidenten, und Putin will das schon lange? Endlich Einigkeit im Friedensprozess."
+      "text": "Seh ich das richtig, Trump will für die Ukraine einen neuen Präsidenten, und Putin will das schon lange? Endlich Einigkeit im Friedensprozess.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-11-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angriff auf Flughafen Riad, die Sorge gilt dem WM-Stadion",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Angriff auf den Flughafen Riad, Hunderte Verletzte. Hoffentlich steht wenigstens das WM-Stadion noch.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-11-0757-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump kennt Nobelpreisträgerin Pillay nicht, dabei kämpft sie gegen Straflosigkeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump sagt über die Friedensnobelpreisträgerin Navi Pillay: «Niemand kennt sie.» Komisch, sie kämpft seit Jahrzehnten gegen Straflosigkeit, da müssten sich die zwei doch beruflich begegnet sein.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
