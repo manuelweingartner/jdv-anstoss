@@ -1,57 +1,55 @@
 {
-  "stand": "2026-10-11T08:02:22+02:00",
-  "lauf": "0801",
+  "stand": "2026-10-11T17:00:43+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0801-1",
-      "titel": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
-      "was": "Trump vor Mikrofonen im Weissen Haus, Finger erhoben, Reporter davor",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Regimewechsel fordern, den man bei anderen Ländern Einmischung nennt, gegen billigen Diesel vom Aggressor.",
+      "id": "1700-1",
+      "titel": "Trumps Ukraine-Politik: US-Präsident spricht von „Energie-Waffenruhe“",
+      "was": "Trump am Rednerpult verkündet Energie-Waffenruhe, Daumen hoch",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Pose des Friedensstifters gegen Dieselgeschäft mit dem Angreifer.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Tagesschau",
+      "quelle": "taz",
       "auch_bei": [
         "NZZ",
         "SRF",
-        "taz"
+        "Tagesschau"
       ],
-      "artikel": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
-      "bild": "https://images.tagesschau.de/image/b780b014-d654-44f9-ae2e-ab85a7928960/AAABoSbjyVc/AAABnSSvrFg/16x9-big/trump-5328.jpg?width=1280",
-      "zeit": "2026-10-10T20:26+02:00"
+      "artikel": "https://taz.de/Diesel-Deal-mit-Putin/!6220524/",
+      "bild": "https://taz.de/picture/8793316/948/42274727.jpeg",
+      "zeit": "2026-10-11T09:57+02:00"
     },
     {
-      "id": "0801-2",
-      "titel": "Jugendwort 2026: „Ragebait“ macht das Rennen",
-      "was": "Jury oder Jugendliche mit Smartphone vor Jugendwort-Logo, Schriftzug Ragebait",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: was Jugendliche als Ragebait erkennen, nennen Politiker Regierungserklärung oder Wahlkampf.",
+      "id": "1700-2",
+      "titel": "Bilder der Woche – Parmelins Olma-Säuli und weitere Fotos der Woche",
+      "was": "Bundesrat Parmelin an der Olma mit meckerndem Säuli",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten, hier das Säuli. Achse: letzte Runde Volksnähe vor dem Abgang gegen ein Tier, das als Einziges laut widerspricht.",
       "grund": "breit",
       "raum": "",
-      "quelle": "taz",
-      "auch_bei": [
-        "SRF"
-      ],
-      "artikel": "https://taz.de/Jugendwort-2026/!6220514/",
-      "bild": "https://taz.de/picture/8793228/948/42027830.jpeg",
-      "zeit": "2026-10-10T15:25+02:00"
+      "quelle": "SRF",
+      "auch_bei": [],
+      "artikel": "https://www.srf.ch/news/gesellschaft/bilder-der-woche-parmelins-olma-saeuli-und-weitere-fotos-der-woche",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/836c52.jpg",
+      "zeit": "2026-10-11T07:01+02:00"
     },
     {
-      "id": "0801-3",
-      "titel": "Von der Schweiz schwärmen und dafür bezahlt werden: Nina Chuba übernimmt das Privileg von Roger Federer",
-      "was": "Nina Chuba posiert lächelnd vor Bergpanorama im Schweiz-Tourismus-Look",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: bezahlte Begeisterung für die Schweiz gegen Schweizer, die sich ihre eigenen Herbstferien nicht mehr leisten können.",
+      "id": "1700-3",
+      "titel": "Gerhard Schröder: SPD-Bezirk Oberpfalz beantragt Parteiausschluss",
+      "was": "Schröder und Putin beim Geburtstagstreffen, Händedruck vor Kremlkulisse",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Altkanzler feiert Männerfreundschaft gegen eine Partei, die gleichzeitig die Kündigung schreibt.",
       "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "NZZ",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/wirtschaft/von-der-schweiz-schwaermen-und-dafuer-bezahlt-werden-nina-chuba-uebernimmt-das-privileg-von-roger-federer-ld.10029268",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/09/07dc1514-941a-4d26-a560-dfe4ef91cd67.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=827,827,x1837,y168",
-      "zeit": "2026-10-11T05:30+02:00"
+      "artikel": "https://www.spiegel.de/politik/gerhard-schroeder-spd-bezirk-oberpfalz-beantragt-parteiausschluss-a-e4951c95-ebae-4066-a60a-6aafea5bbae8#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/eff8447c-58b7-4663-a5fd-da65cfc54f44_w520_r2.08_fpx50.96_fpy44.96.jpg",
+      "zeit": "2026-10-11T13:39+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute im Lauf des Tages",
-      "was": "Merz und CDU-Präsidium bei der Ankunft zur Klausur, ernste Mienen vor Kameras"
+      "wann": "heute Nachmittag",
+      "was": "Merz beim Pressestatement nach der CDU-Präsidiumsklausur"
     }
   ],
   "hinweis": ""
