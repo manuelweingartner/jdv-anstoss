@@ -1,15 +1,15 @@
 {
-  "stand": "2026-10-10T08:02:48+02:00",
+  "stand": "2026-10-11T08:02:51+02:00",
   "vorschlaege": [
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Diesel von Putin",
-        "Sanktionen durchziehen",
+        "Selenski absetzen",
+        "Putin stoppen",
         "Trump"
       ],
-      "warum": "Kurswechsel in letzter Sekunde, weg vom vernünftigen Weg, der liegen bleibt",
+      "warum": "Trump reisst das Steuer in letzter Sekunde zum Angegriffenen statt zum Angreifer herum",
       "bild": "vorschlag-1.jpg"
     },
     {
@@ -17,30 +17,30 @@
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
         "34 Stellen gestrichen",
-        "Ohne Einfluss auf Qualität"
+        "ohne Einfluss auf Qualität"
       ],
-      "warum": "die Sprecherformel ist die vornehme Verpackung derselben Entlassung",
+      "warum": "Tamedias Pressesprecher liefert den Euphemismus schon wörtlich mit, das Bild muss ihn nur danebenstellen",
       "bild": "vorschlag-2.jpg"
-    },
-    {
-      "vorlage": "schild",
-      "name": "Change My Mind",
-      "zeilen": [
-        "SpaceX ist ein Start-up"
-      ],
-      "warum": "Billionen wert, kein Gewinn, braucht Geld: die These stimmt und niemand kann widersprechen",
-      "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Warner Brothers",
-        "Casablanca gedreht",
-        "Warner bei Paramount",
-        "Milliardenschulden geerbt"
+        "Mittelstand 1995",
+        "Haus, Auto, Tessin",
+        "Mittelstand 2026",
+        "Überlebensmodus"
       ],
-      "warum": "starkes Hollywood früher gegen den verschuldeten Fusionsrest von heute",
+      "warum": "der Abstieg vom behaupteten Wohlstand zum Krisenvokabular ist genau der Vergleich zwischen einem starken Früher und einem jämmerlichen Heute",
+      "bild": "vorschlag-3.jpg"
+    },
+    {
+      "vorlage": "schild",
+      "name": "Change My Mind",
+      "zeilen": [
+        "Billionenfirma ohne Gewinn"
+      ],
+      "warum": "SpaceX ist eine Billion wert und muss trotzdem 40 Milliarden borgen, die These stimmt und lässt sich nicht widerlegen",
       "bild": "vorschlag-4.jpg"
     }
   ]
