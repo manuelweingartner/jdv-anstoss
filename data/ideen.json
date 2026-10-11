@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-11",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Ricardo verliert Namen, Adressen und Telefonnummern seiner Kund*innen. Hier die Entschädigung, die Betroffene dafür bekommen:\n-\n-\nThat's it."
+    },
+    {
+      "id": "2026-10-11-0757-16",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautos in Innerrhoden, Wohnsitz frei wählen wie ein Auto statt wie ein Mensch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal den Wohnsitz so frei wählen dürfen wie ein Mietauto aus Appenzell Innerrhoden."
+    },
+    {
+      "id": "2026-10-11-0757-17",
+      "typ": "schnittmenge",
+      "stichwort": "Albert Rösti im Feuer, technologieoffen löschen ab 2050",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Albert Rösti steht wieder im Feuer. Rösti so: Feuer ist auch eine Energiequelle. Technologieoffen bleiben. Löschen frühestens 2050."
+    },
+    {
+      "id": "2026-10-11-0757-18",
+      "typ": "schnittmenge",
+      "stichwort": "Innerrhoden bleibt bei den Mietautos gelassen, Steuerflucht verkehrstauglich gemacht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Überall Mietautos mit AI-Nummer, und die Einheimischen bleiben gelassen: Appenzell Innerrhoden hat die Steuerflucht bloss verkehrstauglich gemacht. Mit Navi. Und Vollkasko."
     },
     {
       "id": "2026-10-11-0757-21",
@@ -72,16 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Unbezahlte Überstunden als Engagement zu loben, ist wie ein Taschendieb, der sich für die Spende bedankt. Mit Quittung."
-    },
-    {
-      "id": "2026-10-11-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Den Feierabend hat kein Arbeitgeberverband erfunden, sondern Streikende, auf die Soldaten schossen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Den Feierabend hat kein Arbeitgeberverband erfunden. Sondern Streikende, auf die Soldaten schossen."
     }
   ]
 }
