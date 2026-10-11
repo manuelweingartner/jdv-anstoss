@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-11",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -49,21 +49,6 @@
       }
     },
     {
-      "id": "2026-10-11-0757-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Morgenstund hat Gold im Mund, die Reinigungskraft putzt um fünf, das Gold kommt um halb zehn im Range Rover",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Morgenstund hat Gold im Mund. Darum putzt die Reinigungskraft um fünf die Büros, in die das Gold um halb zehn im Range Rover einfährt.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
       "id": "2026-10-11-0757-10",
       "typ": "politisch-aktuell",
       "stichwort": "Ab wie vielen Kriegen ist eine Rüstungsaktie konservative Altersvorsorge, Frage für deine Pensionskasse",
@@ -76,6 +61,21 @@
         "neu": true,
         "witz": true,
         "anker": true
+      }
+    },
+    {
+      "id": "2026-10-11-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Tamedia streicht Redaktionsstellen, am selben Tag wird Ragebait Jugendwort, die Nachfolge ist geregelt",
+      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Tamedia streicht 34 Redaktionsstellen, am selben Tag wird «Ragebait» Jugendwort des Jahres. Die Nachfolge ist geregelt.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
       }
     },
     {
