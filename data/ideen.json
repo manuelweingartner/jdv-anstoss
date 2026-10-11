@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-11",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Ricardo verliert Namen, Adressen und Telefonnummern seiner Kund*innen. Hier die Entschädigung, die Betroffene dafür bekommen:\n-\n-\nThat's it."
+    },
+    {
+      "id": "2026-10-11-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Firmen, die nach einem Rekordgewinn freiwillig die Arbeitszeit gesenkt haben, die Dividende kam pünktlich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier eine Liste aller Firmen, die nach einem Rekordgewinn freiwillig die Arbeitszeit gesenkt haben:\n-\n-\nDie Dividende kam pünktlich."
+    },
+    {
+      "id": "2026-10-11-0757-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Unbezahlte Überstunden als Engagement loben, Taschendieb bedankt sich für die Spende, mit Quittung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Unbezahlte Überstunden als Engagement zu loben, ist wie ein Taschendieb, der sich für die Spende bedankt. Mit Quittung."
+    },
+    {
+      "id": "2026-10-11-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Den Feierabend hat kein Arbeitgeberverband erfunden, sondern Streikende, auf die Soldaten schossen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Den Feierabend hat kein Arbeitgeberverband erfunden. Sondern Streikende, auf die Soldaten schossen."
     }
   ]
 }
