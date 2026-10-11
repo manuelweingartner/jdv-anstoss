@@ -1,61 +1,57 @@
 {
-  "stand": "2026-10-10T17:00:36+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-11T08:02:22+02:00",
+  "lauf": "0801",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Esther Friedli will nicht Bundesrätin werden – sie hätte die Wahl gewonnen",
-      "was": "Esther Friedli im Gasthaus Sonne im Toggenburg, Schürze statt Bundeshaus",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein sicherer Sitz im Bundesrat zählt weniger als die eigene Dorfbeiz.",
+      "id": "0801-1",
+      "titel": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
+      "was": "Trump vor Mikrofonen im Weissen Haus, Finger erhoben, Reporter davor",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Regimewechsel fordern, den man bei anderen Ländern Einmischung nennt, gegen billigen Diesel vom Aggressor.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "NZZ",
+      "raum": "weltweit",
+      "quelle": "Tagesschau",
+      "auch_bei": [
+        "NZZ",
+        "SRF",
+        "taz"
+      ],
+      "artikel": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
+      "bild": "https://images.tagesschau.de/image/b780b014-d654-44f9-ae2e-ab85a7928960/AAABoSbjyVc/AAABnSSvrFg/16x9-big/trump-5328.jpg?width=1280",
+      "zeit": "2026-10-10T20:26+02:00"
+    },
+    {
+      "id": "0801-2",
+      "titel": "Jugendwort 2026: „Ragebait“ macht das Rennen",
+      "was": "Jury oder Jugendliche mit Smartphone vor Jugendwort-Logo, Schriftzug Ragebait",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: was Jugendliche als Ragebait erkennen, nennen Politiker Regierungserklärung oder Wahlkampf.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "taz",
       "auch_bei": [
         "SRF"
       ],
-      "artikel": "https://www.nzz.ch/schweiz/esther-friedli-will-nicht-bundesraetin-werden-sie-haette-die-wahl-gewonnen-ld.10030054",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/03/78dd6d31-bfcd-4d8f-be0d-5c27ce2db2cb.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5504,5504,x1376,y0",
-      "zeit": "2026-10-10T09:40+02:00"
+      "artikel": "https://taz.de/Jugendwort-2026/!6220514/",
+      "bild": "https://taz.de/picture/8793228/948/42027830.jpeg",
+      "zeit": "2026-10-10T15:25+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Erst droht er Käufern mit Zöllen, jetzt kauft Trump Putins Diesel",
-      "was": "Trump und Putin beim Handschlag, daneben Tankstelle oder Dieselfass",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Wer russisches Öl kauft, wird mit Zöllen bestraft, ausser er kauft es selbst und nennt es einen Deal.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "20 Minuten",
-      "auch_bei": [
-        "NZZ",
-        "Tagesschau",
-        "taz"
-      ],
-      "artikel": "https://www.20min.ch/story/usa-diesel-deal-mit-putin-trump-genehmigt-umstrittene-sonderregel-103647395",
-      "bild": "https://image.20min.ch/2026/10/10/9fe721a5-f4ed-44e3-8d25-3498766bcd39.jpg?s=21e0b71d4ddd1fd789ee3f01dc319e57",
-      "zeit": "2026-10-10T12:47+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Fußball-Bundesliga: Manuel Neuer verschuldet Rekord-Gegentor gegen FC Augsburg",
-      "was": "Manuel Neuer kniet im Strafraum, Ball im Netz hinter ihm",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Weltmeister und Torwartlegende gegen den Angstgegner nach wenigen Sekunden.",
+      "id": "0801-3",
+      "titel": "Von der Schweiz schwärmen und dafür bezahlt werden: Nina Chuba übernimmt das Privileg von Roger Federer",
+      "was": "Nina Chuba posiert lächelnd vor Bergpanorama im Schweiz-Tourismus-Look",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: bezahlte Begeisterung für die Schweiz gegen Schweizer, die sich ihre eigenen Herbstferien nicht mehr leisten können.",
       "grund": "memetauglich",
-      "raum": "",
-      "quelle": "Spiegel",
+      "raum": "schweiz",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-manuel-neuer-verschuldet-rekord-gegentor-gegen-fc-augsburg-a-3254d171-6b97-4fb1-b40f-353bd0b72610#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/8bff4dff-cb5d-40bc-bd27-917a1d33a962_w520_r2.08_fpx30_fpy45.jpg",
-      "zeit": "2026-10-10T16:17+02:00"
+      "artikel": "https://www.nzz.ch/wirtschaft/von-der-schweiz-schwaermen-und-dafuer-bezahlt-werden-nina-chuba-uebernimmt-das-privileg-von-roger-federer-ld.10029268",
+      "bild": "https://img-msp-prod.nzz.ch/2026/10/09/07dc1514-941a-4d26-a560-dfe4ef91cd67.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=827,827,x1837,y168",
+      "zeit": "2026-10-11T05:30+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute am späten Nachmittag",
-      "was": "Zieleinlauf der Lombardei-Rundfahrt nach dem Startprotest der Radprofis, Jubel und Erschöpfung"
-    },
-    {
-      "wann": "heute ab 18:30",
-      "was": "Bundesliga-Topspiel am Samstagabend, Torjubel und Verzweiflung an der Seitenlinie"
+      "wann": "heute im Lauf des Tages",
+      "was": "Merz und CDU-Präsidium bei der Ankunft zur Klausur, ernste Mienen vor Kameras"
     }
   ],
   "hinweis": ""
