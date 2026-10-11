@@ -18145,6 +18145,150 @@
         "neu": true
       },
       "datum": "2026-10-09"
+    },
+    {
+      "id": "2026-10-10-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump erlaubt russischen Diesel, Sanktionen hart, an der Tankstelle Kumpel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Russland bombardiert die Ukraine, Trump so: Sanktionen, ganz hart. Diesel wird an der Tankstelle teurer, Trump so: Wladimir, Kumpel, einmal volltanken bitte.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-10-10"
+    },
+    {
+      "id": "2026-10-10-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "WWF: ein Drittel der Schweizer Arten bedroht, die einzige, die zum Abschuss freigegeben wird, ist der Wolf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, laut WWF ist ein Drittel aller Arten in der Schweiz vom Aussterben bedroht, und die einzige, die wir zum Abschuss freigeben, ist der Wolf?",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-10"
+    },
+    {
+      "id": "2026-10-10-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti will mehr Spuren gegen den Stau, nebeneinander staut es sich geselliger",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Verkehrsminister Rösti will gegen den Stau mehr Spuren. Leuchtet ein. Nebeneinander staut man geselliger.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-10-10"
+    },
+    {
+      "id": "2026-10-10-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Friedensnobelpreis für Navi Pillay gegen Straflosigkeit, mit den Arbeitsplätzen in Zug und Genf abgesprochen?",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Friedensnobelpreis geht an Navi Pillay, für ihren jahrzehntelangen Kampf gegen Straflosigkeit. Hat das eigentlich jemand mit den Arbeitsplätzen in Zug und Genf abgesprochen?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-10-10"
+    },
+    {
+      "id": "2026-10-10-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Gemeinden, die einem Milliardär den Steuerdeal wegen mangelnder Integration verweigert haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier eine Liste aller Gemeinden, die einem Milliardär den Steuerdeal verweigert haben, weil er sich zu wenig integriert hatte:\n-\n-\nDas wäre dann alles.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-10"
+    },
+    {
+      "id": "2026-10-10-0757-17",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne eigenes Frauenhaus, die Flucht braucht einen Fahrplan",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Im Kanton Thurgau gibt es kein eigenes Frauenhaus. Wer nachts mit zwei Kindern flieht, muss unterwegs auch noch umsteigen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-10"
+    },
+    {
+      "id": "2026-10-10-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Velokurier liefert Sushi auf den Zürichberg, Sozialversicherung ohne Tracking",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Der Velokurier bringt das Sushi bei Regen pünktlich auf den Zürichberg. Nur seine Sozialversicherungen sind noch unterwegs, seit der Gründung der Plattform, ohne Tracking.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-10-10"
+    },
+    {
+      "id": "2026-10-10-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Milliardäre als Jobschaffer, Streitbild Zecke und Hund",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer Milliardäre für nötig hält, damit Arbeit entsteht, hält auch Zecken für nötig, damit der Hund Blut hat.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-10-10"
+    },
+    {
+      "id": "2026-10-10-0757-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mietautos mit Innerrhoder Nummer wegen tiefer Steuer, Briefkastenfirmen mit Allradantrieb",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Halb Zürich fährt Mietautos aus Appenzell Innerrhoden, wegen der tiefen Steuer. Briefkastenfirmen mit Allradantrieb.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-10-10"
     }
   ]
 }
