@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-11",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Ricardo verliert Namen, Adressen und Telefonnummern seiner Kund*innen. Hier die Entschädigung, die Betroffene dafür bekommen:\n-\n-\nThat's it."
+    },
+    {
+      "id": "2026-10-11-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Shein-Aktie rutscht am ersten Börsentag ins Minus, eingegangen wie nach der ersten Wäsche",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Shein startet an der Börse und rutscht sofort ins Minus. Erste Wäsche. Eingegangen."
+    },
+    {
+      "id": "2026-10-11-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "SpaceX ohne Gewinn holt Milliarden für Chips, gleiche Woche Schweizer Mittelstand im Überlebensmodus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Elon Musks SpaceX macht keinen Gewinn und kriegt trotzdem Milliarden für Chips. Gleiche Woche fällt der Schweizer Mittelstand in den Überlebensmodus. Falsche Branche. Zu wenig Mars."
+    },
+    {
+      "id": "2026-10-11-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Swiss Life streicht trotz Gewinnanstieg Stellen, FDP-Leistung lohnt sich wieder",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Swiss Life macht mehr Gewinn und streicht fast jeden zwanzigsten Job. FDP so: Leistung muss sich wieder lohnen, Swiss Life so: tut sie, danke."
     },
     {
       "id": "2026-10-11-0757-27",
