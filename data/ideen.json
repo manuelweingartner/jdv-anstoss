@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-12",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-12-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Shein-Aktie bricht beim Börsenstart ein, hält wie alles von Shein nicht bis zur Wäsche",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Shein-Aktie bricht direkt beim Börsenstart ein. Wie alles von Shein: hält nicht bis zur Wäsche."
+    },
+    {
+      "id": "2026-10-12-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Feuerwehr rettet Kalb Konrad vom Dach, gleichentags ein Drittel der Schweizer Arten bedroht, ohne Namen keine Rettung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Feuerwehr rettet Kalb Konrad vom Hausdach, am selben Tag sieht der WWF ein Drittel der Schweizer Arten bedroht. Hatten halt keinen Namen."
+    },
+    {
+      "id": "2026-10-12-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Paramount schluckt Warner samt CNN mit Ellison-Geld, Trump lobt unabhängigen Journalismus mit Batman",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Paramount übernimmt Warner Brothers und damit CNN, bezahlt von der Familie des Trump-Freunds Larry Ellison. Trump so: endlich unabhängiger Journalismus, wie Fox, aber mit Batman."
+    },
     {
       "id": "2026-10-12-0757-04",
       "typ": "politisch-aktuell",
