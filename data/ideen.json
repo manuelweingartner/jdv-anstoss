@@ -1,8 +1,23 @@
 {
   "datum": "2026-10-12",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-10-12-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Shein-Aktie bricht beim Börsenstart ein, hält wie alles von Shein nicht bis zur Wäsche",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Shein-Aktie bricht direkt beim Börsenstart ein. Wie alles von Shein: hält nicht bis zur Wäsche.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
+    },
     {
       "id": "2026-10-12-0757-02",
       "typ": "politisch-aktuell",
@@ -16,6 +31,21 @@
         "witz": true,
         "anker": true,
         "neu": false
+      }
+    },
+    {
+      "id": "2026-10-12-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Paramount schluckt Warner samt CNN mit Ellison-Geld, Trump lobt unabhängigen Journalismus mit Batman",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Paramount übernimmt Warner Brothers und damit CNN, bezahlt von der Familie des Trump-Freunds Larry Ellison. Trump so: endlich unabhängiger Journalismus, wie Fox, aber mit Batman.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
       }
     },
     {
@@ -94,21 +124,6 @@
       }
     },
     {
-      "id": "2026-10-12-0757-17",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau ohne eigenes Frauenhaus, wer flieht, wandert aus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Im Thurgau gibt es kein eigenes Frauenhaus. Wer vor dem eigenen Mann flieht, wandert aus.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
       "id": "2026-10-12-0757-18",
       "typ": "politisch-aktuell",
       "stichwort": "Rösti im Feuer prüft Ersatz durch Ölheizung",
@@ -136,21 +151,6 @@
         "witz": true,
         "neu": true,
         "anker": true
-      }
-    },
-    {
-      "id": "2026-10-12-0757-37",
-      "typ": "politisch-aktuell",
-      "stichwort": "Winzer Parmelin schützt die Winzer, Thurgau weiter ohne eigenes Frauenhaus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Guy Parmelin, selbst Winzer, will diese Woche die Schweizer Winzer schützen. Der Thurgau hat bis heute kein eigenes Frauenhaus, die Frauen hätten halt Winzer werden sollen.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
       }
     }
   ]
