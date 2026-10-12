@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-12",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -64,24 +64,44 @@
       "text": "Stimmt, Bücher sind gefährlich. Russland schickt Drohnen auf ukrainische Verlage, Florida schickt Mütter."
     },
     {
-      "id": "2026-10-12-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "SpaceX macht keinen Gewinn und kriegt trotzdem Milliarden, Neid auf das Verlustgeschäft",
-      "plattform": "Instagram-Textgrafik + Threads",
+      "id": "2026-10-12-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Private Kapitalgewinne sind in der Schweiz steuerfrei, Neid auf den Kursgewinn",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so kreditwürdig sein wie ein Verlustgeschäft von Elon Musk."
+      "text": "Einmal vom Steueramt so in Ruhe gelassen werden wie ein Kursgewinn mit Nestlé-Aktien."
     },
     {
-      "id": "2026-10-12-0757-32",
-      "typ": "remix",
-      "stichwort": "Orang-Utans aus den Waldbränden in Indonesien gerettet, leere Liste der Palmöl-Konzerne, die die Tierarztrechnung zahlen",
+      "id": "2026-10-12-0757-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vaterschaftsurlaub zehn Tage gegen den üblichen Umzugstag, ein Neugeborenes zählt wie zehn Umzüge",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Für einen Umzug gibt's meist einen freien Tag. Ein Neugeborenes ist für Schweizer Väter gesetzlich so viel Arbeit wie zehn Umzüge, nur ohne Kartons."
+    },
+    {
+      "id": "2026-10-12-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Managerlöhne wegen Verantwortung, Pilot mit dem einzigen Fallschirm an Bord, einem goldenen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "NGOs retten in Indonesien Dutzende Orang-Utans aus brennenden Wäldern. Hier alle Palmöl-Konzerne, die sich an der Tierarztrechnung beteiligen:\n-\n-"
+      "text": "Managerlöhne seien so hoch wegen der Verantwortung, heisst es. Wie beim Piloten, der als Einziger an Bord einen Fallschirm hat, einen goldenen."
+    },
+    {
+      "id": "2026-10-12-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wer putzt die Villen der lautesten Gegner*innen illegaler Einwanderung, und wer fragt dort nach Papieren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer putzt eigentlich die Villen derer, die am lautesten gegen illegale Einwanderung wettern? Und wer fragt dort nach Papieren?"
     }
   ]
 }
