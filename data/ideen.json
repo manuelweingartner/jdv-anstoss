@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-12",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-12-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor der E-ID, weil der Staat die Adresse kennen könnte, die liegt nach dem Ricardo-Leck längst bei Hackern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor der E-ID, der Staat könnte meine Adresse kennen. Zum Glück liegt sie seit dem Ricardo-Datenleck bei Hackern. Ohne Abstimmung."
+    },
+    {
+      "id": "2026-10-12-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fachkräftemangel und Rentenalter 67, der entlassene IT-Projektleiter mit 63 backt Pizza mit Gantt-Diagramm",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Fachkräftemangel, Rentenalter 67 für alle, und ein entlassener IT-Projektleiter mit 63 backt jetzt Pizza? Immerhin bis 67. Mit Gantt-Diagramm."
+    },
+    {
+      "id": "2026-10-12-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bücher sind gefährlich, Russland schickt Drohnen auf ukrainische Verlage, Florida schickt Mütter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Bücher sind gefährlich. Russland schickt Drohnen auf ukrainische Verlage, Florida schickt Mütter."
+    },
     {
       "id": "2026-10-12-0757-31",
       "typ": "schnittmenge",
