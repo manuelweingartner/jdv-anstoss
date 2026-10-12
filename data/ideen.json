@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-10-12-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Shein-Aktie bricht beim Börsenstart ein, hält wie alles von Shein nicht bis zur Wäsche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Shein-Aktie bricht direkt beim Börsenstart ein. Wie alles von Shein: hält nicht bis zur Wäsche."
-    },
-    {
       "id": "2026-10-12-0757-02",
       "typ": "politisch-aktuell",
       "stichwort": "Feuerwehr rettet Kalb Konrad vom Dach, gleichentags ein Drittel der Schweizer Arten bedroht, ohne Namen keine Rettung",
@@ -21,17 +11,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Feuerwehr rettet Kalb Konrad vom Hausdach, am selben Tag sieht der WWF ein Drittel der Schweizer Arten bedroht. Hatten halt keinen Namen."
-    },
-    {
-      "id": "2026-10-12-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Paramount schluckt Warner samt CNN mit Ellison-Geld, Trump lobt unabhängigen Journalismus mit Batman",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Paramount übernimmt Warner Brothers und damit CNN, bezahlt von der Familie des Trump-Freunds Larry Ellison. Trump so: endlich unabhängiger Journalismus, wie Fox, aber mit Batman."
+      "text": "Feuerwehr rettet Kalb Konrad vom Hausdach, am selben Tag sieht der WWF ein Drittel der Schweizer Arten bedroht. Hatten halt keinen Namen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-10-12-0757-04",
@@ -41,17 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor der E-ID, der Staat könnte meine Adresse kennen. Zum Glück liegt sie seit dem Ricardo-Datenleck bei Hackern. Ohne Abstimmung."
-    },
-    {
-      "id": "2026-10-12-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fachkräftemangel und Rentenalter 67, der entlassene IT-Projektleiter mit 63 backt Pizza mit Gantt-Diagramm",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Fachkräftemangel, Rentenalter 67 für alle, und ein entlassener IT-Projektleiter mit 63 backt jetzt Pizza? Immerhin bis 67. Mit Gantt-Diagramm."
+      "text": "Habe Angst vor der E-ID, der Staat könnte meine Adresse kennen. Zum Glück liegt sie seit dem Ricardo-Datenleck bei Hackern. Ohne Abstimmung.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-12-0757-06",
@@ -61,7 +41,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, Bücher sind gefährlich. Russland schickt Drohnen auf ukrainische Verlage, Florida schickt Mütter."
+      "text": "Stimmt, Bücher sind gefährlich. Russland schickt Drohnen auf ukrainische Verlage, Florida schickt Mütter.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-12-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Firma überwacht das Teams-Lämpchen im Homeoffice und ist selbst nur ein Briefkasten in Zug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Im Homeoffice überwacht die Firma, ob das Teams-Lämpchen grün leuchtet. Ihre eigene Anwesenheit beschränkt sich auf einen Briefkasten in Zug, Status: dauerhaft abwesend.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-12-0757-12",
+      "typ": "remix",
+      "stichwort": "Leere Liste der Regeln aus dem Crash von 1929, die die Banken nicht wieder weglobbyiert haben (Remix der unterausgespielten Hitzetote-Liste)",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Wie vor dem Crash von 1929 treiben Schulden und FOMO die Börsen, warnen Ökonom*innen. Hier alle Regeln von damals, die Banken nicht weglobbyiert haben:\n-\n-",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      }
     },
     {
       "id": "2026-10-12-0757-16",
@@ -71,7 +86,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Tausende Mietautos sind in Appenzell Innerrhoden eingelöst, abstimmen dürfen sie an der Landsgemeinde trotzdem nicht. Kennt man dort. Von den Frauen. Bis 1990."
+      "text": "Tausende Mietautos sind in Appenzell Innerrhoden eingelöst, abstimmen dürfen sie an der Landsgemeinde trotzdem nicht. Kennt man dort. Von den Frauen. Bis 1990.",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-10-12-0757-17",
@@ -81,7 +101,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Im Thurgau gibt es kein eigenes Frauenhaus. Wer vor dem eigenen Mann flieht, wandert aus."
+      "text": "Im Thurgau gibt es kein eigenes Frauenhaus. Wer vor dem eigenen Mann flieht, wandert aus.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-10-12-0757-18",
@@ -91,17 +116,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Albert Rösti steht im Feuer. Er prüft jetzt, ob man es durch eine Ölheizung ersetzen kann. Bewährte Technik."
+      "text": "Albert Rösti steht im Feuer. Er prüft jetzt, ob man es durch eine Ölheizung ersetzen kann. Bewährte Technik.",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-10-12-0757-27",
+      "id": "2026-10-12-0757-22",
       "typ": "politisch-aktuell",
-      "stichwort": "Private Kapitalgewinne sind in der Schweiz steuerfrei, Neid auf den Kursgewinn",
+      "stichwort": "Shein-Aktie rutscht am ersten Börsentag ins Minus, Aktionär*innen verdienen wie Näher*innen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Einmal vom Steueramt so in Ruhe gelassen werden wie ein Kursgewinn mit Nestlé-Aktien."
+      "text": "Shein-Aktie rutscht am ersten Börsentag ins Minus. Erstmals verdienen Aktionär*innen so wenig wie Näher*innen.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-10-12-0757-37",
+      "typ": "politisch-aktuell",
+      "stichwort": "Winzer Parmelin schützt die Winzer, Thurgau weiter ohne eigenes Frauenhaus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Guy Parmelin, selbst Winzer, will diese Woche die Schweizer Winzer schützen. Der Thurgau hat bis heute kein eigenes Frauenhaus, die Frauen hätten halt Winzer werden sollen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
