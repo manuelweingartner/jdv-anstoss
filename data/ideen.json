@@ -64,6 +64,36 @@
       "text": "Stimmt, Bücher sind gefährlich. Russland schickt Drohnen auf ukrainische Verlage, Florida schickt Mütter."
     },
     {
+      "id": "2026-10-12-0757-16",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautos in Innerrhoden dürfen an der Landsgemeinde nicht abstimmen, kennt man dort von den Frauen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Tausende Mietautos sind in Appenzell Innerrhoden eingelöst, abstimmen dürfen sie an der Landsgemeinde trotzdem nicht. Kennt man dort. Von den Frauen. Bis 1990."
+    },
+    {
+      "id": "2026-10-12-0757-17",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne eigenes Frauenhaus, wer flieht, wandert aus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Im Thurgau gibt es kein eigenes Frauenhaus. Wer vor dem eigenen Mann flieht, wandert aus."
+    },
+    {
+      "id": "2026-10-12-0757-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti im Feuer prüft Ersatz durch Ölheizung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Albert Rösti steht im Feuer. Er prüft jetzt, ob man es durch eine Ölheizung ersetzen kann. Bewährte Technik."
+    },
+    {
       "id": "2026-10-12-0757-27",
       "typ": "politisch-aktuell",
       "stichwort": "Private Kapitalgewinne sind in der Schweiz steuerfrei, Neid auf den Kursgewinn",
@@ -72,36 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Einmal vom Steueramt so in Ruhe gelassen werden wie ein Kursgewinn mit Nestlé-Aktien."
-    },
-    {
-      "id": "2026-10-12-0757-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vaterschaftsurlaub zehn Tage gegen den üblichen Umzugstag, ein Neugeborenes zählt wie zehn Umzüge",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Für einen Umzug gibt's meist einen freien Tag. Ein Neugeborenes ist für Schweizer Väter gesetzlich so viel Arbeit wie zehn Umzüge, nur ohne Kartons."
-    },
-    {
-      "id": "2026-10-12-0757-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Managerlöhne wegen Verantwortung, Pilot mit dem einzigen Fallschirm an Bord, einem goldenen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Managerlöhne seien so hoch wegen der Verantwortung, heisst es. Wie beim Piloten, der als Einziger an Bord einen Fallschirm hat, einen goldenen."
-    },
-    {
-      "id": "2026-10-12-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wer putzt die Villen der lautesten Gegner*innen illegaler Einwanderung, und wer fragt dort nach Papieren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wer putzt eigentlich die Villen derer, die am lautesten gegen illegale Einwanderung wettern? Und wer fragt dort nach Papieren?"
     }
   ]
 }
