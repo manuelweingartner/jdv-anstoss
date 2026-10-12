@@ -18289,6 +18289,166 @@
         "neu": false
       },
       "datum": "2026-10-10"
+    },
+    {
+      "id": "2026-10-11-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Polarlichter über der Schweiz, aus Skandinavien kommt das Falsche an",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Polarlichter über der Schweiz. Endlich schafft es etwas aus Skandinavien bis zu uns, und natürlich ist es nicht der Sozialstaat.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-10-11"
+    },
+    {
+      "id": "2026-10-11-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Über 100'000 Unterschriften gegen tiefere Mindestlöhne, Arbeitgeber sorgen sich um Augenhöhe in der Sozialpartnerschaft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Über 100'000 unterschreiben gegen tiefere Mindestlöhne, die Arbeitgeber sorgen sich um die Sozialpartnerschaft. Stimmt, Verhandeln auf Augenhöhe wird schwierig, wenn beide Seiten vom Lohn leben können.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-11"
+    },
+    {
+      "id": "2026-10-11-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reiche nicht höher besteuern, sonst nehmen sie ihre Schlupflöcher mit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Reiche bloss nicht höher besteuern. Sonst ziehen sie weg und nehmen ihre Schlupflöcher mit.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-11"
+    },
+    {
+      "id": "2026-10-11-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ab wie vielen Kriegen ist eine Rüstungsaktie konservative Altersvorsorge, Frage für deine Pensionskasse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie viele Kriege braucht es eigentlich, bis eine Rüstungsaktie als konservative Altersvorsorge gilt? Frage für deine Pensionskasse, sie hat schon gekauft.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-10-11"
+    },
+    {
+      "id": "2026-10-11-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Tamedia streicht Redaktionsstellen, am selben Tag wird Ragebait Jugendwort, die Nachfolge ist geregelt",
+      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Tamedia streicht 34 Redaktionsstellen, am selben Tag wird «Ragebait» Jugendwort des Jahres. Die Nachfolge ist geregelt.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-10-11"
+    },
+    {
+      "id": "2026-10-11-0757-17",
+      "typ": "schnittmenge",
+      "stichwort": "Albert Rösti im Feuer, technologieoffen löschen ab 2050",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Albert Rösti steht wieder im Feuer. Rösti so: Feuer ist auch eine Energiequelle. Technologieoffen bleiben. Löschen frühestens 2050.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-10-11"
+    },
+    {
+      "id": "2026-10-11-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Swiss Life streicht trotz Gewinnanstieg Stellen, FDP-Leistung lohnt sich wieder",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Swiss Life macht mehr Gewinn und streicht fast jeden zwanzigsten Job. FDP so: Leistung muss sich wieder lohnen, Swiss Life so: tut sie, danke.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-10-11"
+    },
+    {
+      "id": "2026-10-11-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump und Putin wollen beide einen neuen Präsidenten für die Ukraine, endlich Einigkeit im Friedensprozess",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, Trump will für die Ukraine einen neuen Präsidenten, und Putin will das schon lange? Endlich Einigkeit im Friedensprozess.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-10-11"
+    },
+    {
+      "id": "2026-10-11-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angriff auf Flughafen Riad, die Sorge gilt dem WM-Stadion",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Angriff auf den Flughafen Riad, Hunderte Verletzte. Hoffentlich steht wenigstens das WM-Stadion noch.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-10-11"
+    },
+    {
+      "id": "2026-10-11-0757-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump kennt Nobelpreisträgerin Pillay nicht, dabei kämpft sie gegen Straflosigkeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump sagt über die Friedensnobelpreisträgerin Navi Pillay: «Niemand kennt sie.» Komisch, sie kämpft seit Jahrzehnten gegen Straflosigkeit, da müssten sich die zwei doch beruflich begegnet sein.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-11"
     }
   ]
 }
