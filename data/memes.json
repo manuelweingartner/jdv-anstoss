@@ -1,46 +1,46 @@
 {
-  "stand": "2026-10-11T08:02:51+02:00",
+  "stand": "2026-10-12T08:07:42+02:00",
   "vorschlaege": [
+    {
+      "vorlage": "schild",
+      "name": "Change My Mind",
+      "zeilen": [
+        "Tamedia-Qualität ist kündigungsresistent"
+      ],
+      "warum": "der Verlag sagt selbst, dass 34 Stellen weniger der Qualität nicht schaden, und dagegen lässt sich schwer etwas sagen",
+      "bild": "vorschlag-1.jpg"
+    },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Selenski absetzen",
-        "Putin stoppen",
-        "Trump"
+        "Weinimporte per Auktion verteuern",
+        "Schweizer Wein exportieren",
+        "Parmelin"
       ],
-      "warum": "Trump reisst das Steuer in letzter Sekunde zum Angegriffenen statt zum Angreifer herum",
-      "bild": "vorschlag-1.jpg"
-    },
-    {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
-      "zeilen": [
-        "34 Stellen gestrichen",
-        "ohne Einfluss auf Qualität"
-      ],
-      "warum": "Tamedias Pressesprecher liefert den Euphemismus schon wörtlich mit, das Bild muss ihn nur danebenstellen",
+      "warum": "der Bundesrat reisst das Steuer zur Schnapsidee herum, während der naheliegende Weg liegen bleibt",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Mittelstand 1995",
-        "Haus, Auto, Tessin",
-        "Mittelstand 2026",
-        "Überlebensmodus"
+        "NASA 1969",
+        "Mond mit Rechenschieber",
+        "SpaceX 2026",
+        "40 Mrd. für Chips, null Gewinn"
       ],
-      "warum": "der Abstieg vom behaupteten Wohlstand zum Krisenvokabular ist genau der Vergleich zwischen einem starken Früher und einem jämmerlichen Heute",
+      "warum": "das Billionenunternehmen schrumpft neben dem behaupteten Früher zum Bittsteller",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Billionenfirma ohne Gewinn"
+        "Datenleck bei 890'000 Konten",
+        "Passwörter blieben geschützt"
       ],
-      "warum": "SpaceX ist eine Billion wert und muss trotzdem 40 Milliarden borgen, die These stimmt und lässt sich nicht widerlegen",
+      "warum": "Ricardo verkauft dasselbe Leck in der vornehmen Fassung als Erfolgsmeldung",
       "bild": "vorschlag-4.jpg"
     }
   ]
