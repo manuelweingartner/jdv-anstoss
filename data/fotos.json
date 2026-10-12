@@ -1,55 +1,55 @@
 {
-  "stand": "2026-10-11T17:00:43+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-12T08:07:14+02:00",
+  "lauf": "0806",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Trumps Ukraine-Politik: US-Präsident spricht von „Energie-Waffenruhe“",
-      "was": "Trump am Rednerpult verkündet Energie-Waffenruhe, Daumen hoch",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Pose des Friedensstifters gegen Dieselgeschäft mit dem Angreifer.",
+      "id": "0806-1",
+      "titel": "US-Senatoren kritisieren Trumps Diesel-Pläne als rechtswidrig",
+      "was": "Trump am Rednerpult oder vor Zapfsäulen, dazu russische Tanker",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Sanktionen gegen Russland für alle anderen, Tanken beim Kreml kurz vor den Midterms für sich selbst.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "taz",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "NZZ",
-        "SRF",
-        "Tagesschau"
+        "taz"
       ],
-      "artikel": "https://taz.de/Diesel-Deal-mit-Putin/!6220524/",
-      "bild": "https://taz.de/picture/8793316/948/42274727.jpeg",
-      "zeit": "2026-10-11T09:57+02:00"
+      "artikel": "https://www.tagesschau.de/ausland/amerika/kritik-diesellieferung-russland-trump-100.html",
+      "bild": "https://images.tagesschau.de/image/4064ddf5-03d5-4087-ac48-e7217bf7916e/AAABm5QNp7c/AAABnSSvrFg/16x9-big/us-kapitol-154.jpg?width=1280",
+      "zeit": "2026-10-12T07:40+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Bilder der Woche – Parmelins Olma-Säuli und weitere Fotos der Woche",
-      "was": "Bundesrat Parmelin an der Olma mit meckerndem Säuli",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten, hier das Säuli. Achse: letzte Runde Volksnähe vor dem Abgang gegen ein Tier, das als Einziges laut widerspricht.",
+      "id": "0806-2",
+      "titel": "Nordkorea feuert laut Südkorea erneut ballistische Raketen ab",
+      "was": "Kim Jong Un mit Fernglas, Generäle mit Notizblöcken, Rakete im Hintergrund",
+      "richtung": "Mechanik: Rollenrede aus Sicht der notierenden Generäle. Achse: UNO-Verbot auf dem Papier gegen Raketenstart als lockeres Wochenendhobby.",
       "grund": "breit",
-      "raum": "",
-      "quelle": "SRF",
-      "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/gesellschaft/bilder-der-woche-parmelins-olma-saeuli-und-weitere-fotos-der-woche",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/836c52.jpg",
-      "zeit": "2026-10-11T07:01+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Gerhard Schröder: SPD-Bezirk Oberpfalz beantragt Parteiausschluss",
-      "was": "Schröder und Putin beim Geburtstagstreffen, Händedruck vor Kremlkulisse",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Altkanzler feiert Männerfreundschaft gegen eine Partei, die gleichzeitig die Kündigung schreibt.",
-      "grund": "memetauglich",
       "raum": "weltweit",
       "quelle": "Spiegel",
+      "auch_bei": [
+        "Tagesschau"
+      ],
+      "artikel": "https://www.spiegel.de/ausland/nordkorea-feuert-laut-suedkorea-erneut-ballistische-raketen-ab-a-30dccbf1-fd26-4a41-833c-17c9952ab854#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/cb65f28a-62be-40d0-8651-7b516c8a88e9_w520_r2.08_fpx60.23_fpy44.99.jpg",
+      "zeit": "2026-10-12T07:15+02:00"
+    },
+    {
+      "id": "0806-3",
+      "titel": "Hilfe für Schweizer Winzer – Weinhändler kritisiert Parmelins «Schnapsidee»",
+      "was": "Bundesrat Parmelin im Rebberg oder mit Weinglas in der Hand",
+      "richtung": "Mechanik: wörtlich nehmen, was als Kritik gemeint ist. Achse: Wirtschaftsminister predigt Freihandel und verteuert ausgerechnet den Wein im Glas der eigenen Wählerschaft.",
+      "grund": "memetauglich",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.spiegel.de/politik/gerhard-schroeder-spd-bezirk-oberpfalz-beantragt-parteiausschluss-a-e4951c95-ebae-4066-a60a-6aafea5bbae8#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/eff8447c-58b7-4663-a5fd-da65cfc54f44_w520_r2.08_fpx50.96_fpy44.96.jpg",
-      "zeit": "2026-10-11T13:39+02:00"
+      "artikel": "https://www.srf.ch/news/wirtschaft/hilfe-fuer-schweizer-winzer-weinhaendler-kritisiert-parmelins-schnapsidee",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/bd0b3d.jpg",
+      "zeit": "2026-10-12T05:41+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Nachmittag",
-      "was": "Merz beim Pressestatement nach der CDU-Präsidiumsklausur"
+      "wann": "heute nach der CDU-Präsidiumsklausur",
+      "was": "Merz bei der Pressekonferenz mit Parteispitze nach den Wahlniederlagen"
     }
   ],
   "hinweis": ""
