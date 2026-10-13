@@ -74,6 +74,26 @@
       "text": "Einmal so viel Kündigungsschutz haben wie ein Sitz im Verwaltungsrat."
     },
     {
+      "id": "2026-10-13-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Waadtländer als Drogenkuriere in Thailand, gelockt mit Gratisferien fast ohne Arbeit, Sorge um die Verwaltungsräte",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Junge Waadtländer wurden mit «Gratisferien, fast ohne etwas zu tun» zu Drogenkurieren gemacht und sitzen jetzt in Thailand. Wie erklärt man das jetzt den Verwaltungsräten?"
+    },
+    {
+      "id": "2026-10-13-0757-12",
+      "typ": "remix",
+      "stichwort": "Arbeitsloser 63-jähriger IT-Projektleiter backt Pizza, nicht die KI hat ihn ersetzt, sondern sein Geburtsdatum",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Nicht die KI hat den 63-jährigen IT-Projektleiter zum Pizzabäcker gemacht. Sondern sein Geburtsdatum."
+    },
+    {
       "id": "2026-10-13-0757-21",
       "typ": "politisch-aktuell",
       "stichwort": "SpaceX macht keinen Gewinn und holt 40 Milliarden für Nvidia-Chips, der Kiosk ohne Gewinn bekommt die Kündigung",
@@ -82,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Kiosk ohne Gewinn, Bank so: Kredit gekündigt. SpaceX ohne Gewinn, Investoren so: hier, 40 Milliarden Dollar für Nvidia-Chips, Leistung muss sich lohnen."
-    },
-    {
-      "id": "2026-10-13-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Äpfel glänzen wie Plastik und sind trotzdem natürlich, Nachhaltigkeitsberichte schaffen nur die erste Hälfte",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Äpfel glänzen wie Plastik und sind trotzdem natürlich. Nachhaltigkeitsberichte schaffen nur die erste Hälfte."
-    },
-    {
-      "id": "2026-10-13-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizer Ex-Model wirft Trump Übergriff im Epstein-Umfeld vor, die Antwort aus Washington steht schon fest",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Eine Schweizerin wirft Trump einen Übergriff aus dem Epstein-Umfeld vor. Washingtons Antwort steht schon: kenne sie nicht, nicht mein Typ, Hexenjagd, Reihenfolge nach Tagesform."
     }
   ]
 }
