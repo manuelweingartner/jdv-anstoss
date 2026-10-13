@@ -1,53 +1,56 @@
 {
-  "stand": "2026-10-12T17:00:33+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-13T08:03:51+02:00",
+  "lauf": "0803",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Nobelpreis für Wirtschaftswissenschaften für US-Ökonomen Hall und Woodford",
-      "was": "Hall und Woodford lächelnd vor Mikrofonen, Telefon oder Champagner in der Hand",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: preisgekrönte Modelle zur Stabilisierung gegen eine Weltlage aus Ölschock, Zöllen und Krieg, die sich an kein Modell hält.",
+      "id": "0803-1",
+      "titel": "Wechselgelüste im Bundesrat – Kommt es erneut zur «Flucht» aus dem EJPD oder dem VBS?",
+      "was": "Bundesrat auf dem Gruppenfoto, Beat Jans im Vordergrund",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, der Departementswechsel wird als Umzug oder Flucht gelesen. Achse: Kollegialität und Verantwortung für das Dossier gegen das Sesselrücken weg von den unbeq",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "SRF",
+      "auch_bei": [
+        "NZZ"
+      ],
+      "artikel": "https://www.srf.ch/news/schweiz/wechselgelueste-im-bundesrat-kommt-es-erneut-zur-flucht-aus-dem-ejpd-oder-dem-vbs",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/32c0779.jpg",
+      "zeit": "2026-10-13T06:03+02:00"
+    },
+    {
+      "id": "0803-2",
+      "titel": "Diesel-Deal – Wenn Selenski und Trump sich streiten, lacht Putin",
+      "was": "Trump im Oval Office, daneben Archivbild von Selenski und Putin",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Trump übt Druck auf die Ukraine aus und macht gleichzeitig mit Russland Geschäfte, er tritt als Friedensvermittler auf und ist zugleich Dieselhändle",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Tagesschau",
+      "quelle": "SRF",
       "auch_bei": [
-        "NZZ",
-        "SRF",
-        "taz"
+        "NZZ"
       ],
-      "artikel": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nobelpreis-wirtschaft-146.html",
-      "bild": "https://images.tagesschau.de/image/8f060418-3fad-4222-ae8b-819046705155/AAABoS-H-_4/AAABnSSvrFg/16x9-big/hall-woodford-100.jpg?width=1280",
-      "zeit": "2026-10-12T13:06+02:00"
+      "artikel": "https://www.srf.ch/news/international/diesel-deal-wenn-selenski-und-trump-sich-streiten-lacht-putin",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/025c66.jpg",
+      "zeit": "2026-10-12T19:39+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Tennis: Alexander Zverev wird Nummer eins der Weltrangliste",
-      "was": "Zverev mit geballten Fäusten oder Trophäe nach dem Sprung auf Platz eins",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: bester Spieler der Welt laut Rangliste gegen den Mann, der noch nie ein Grand-Slam-Finale gewonnen hat.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "Spiegel",
-      "auch_bei": [
-        "Watson"
-      ],
-      "artikel": "https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-wird-nummer-eins-der-weltrangliste-a-ec47679e-2c12-4a6c-b390-50500fd455ea#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/90a6517f-f7a5-4ed1-8de5-f4e7f92d5f7a_w520_r2.08_fpx41_fpy45.jpg",
-      "zeit": "2026-10-12T14:25+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Schweizer Bädeverbände – Verbot von Smart Glasses in Schwimmbädern gefordert",
-      "was": "Badegast mit Kamerabrille am Beckenrand eines Schweizer Freibads",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Bäder sperren eine Brille aus Sorge um die Intimsphäre, während Handy, Tech-Konzerne und Überwachungskameras überall ungestört mitfilmen.",
+      "id": "0803-3",
+      "titel": "Schweiz – Marathon, Boxen und Waffenlauf: So sportlich ist der Bundesrat",
+      "was": "Bundesräte in Sportkleidung beim Laufen, Boxen oder Waffenlauf",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist, also Boxhandschuhe und Marathon als Werkzeuge der Regierungsarbeit. Achse: sportliche Ausdauer und Schlagkraft gegen das Schneckentempo der Konko",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/schweizer-baedeverbaende-verbot-von-smart-glasses-in-schwimmbaedern-gefordert",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/b4ba08.jpg",
-      "zeit": "2026-10-12T16:43+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/schweiz-marathon-boxen-und-waffenlauf-so-sportlich-ist-der-bundesrat",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/e6e14b.jpg",
+      "zeit": "2026-10-12T19:01+02:00"
     }
   ],
-  "erwartet": [],
+  "erwartet": [
+    {
+      "wann": "heute",
+      "was": "Französische Nationalversammlung zum Auftakt der Haushaltsdebatte, Regierung am Rednerpult"
+    }
+  ],
   "hinweis": ""
 }
