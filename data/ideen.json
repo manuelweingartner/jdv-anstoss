@@ -94,14 +94,14 @@
       "text": "Nicht die KI hat den 63-jährigen IT-Projektleiter zum Pizzabäcker gemacht. Sondern sein Geburtsdatum."
     },
     {
-      "id": "2026-10-13-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "SpaceX macht keinen Gewinn und holt 40 Milliarden für Nvidia-Chips, der Kiosk ohne Gewinn bekommt die Kündigung",
+      "id": "2026-10-13-0757-16",
+      "typ": "schnittmenge",
+      "stichwort": "Besuch hält Appenzell für voller Mietautos, Innerrhoder so: das sind unsere, eure stehen in Zürich",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Kiosk ohne Gewinn, Bank so: Kredit gekündigt. SpaceX ohne Gewinn, Investoren so: hier, 40 Milliarden Dollar für Nvidia-Chips, Leistung muss sich lohnen."
+      "text": "Besuch in Appenzell so: Whoa, alles voller Mietautos. Innerrhoder so: chill, das sind unsere, eure stehen alle in Zürich."
     }
   ]
 }
