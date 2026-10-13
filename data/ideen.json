@@ -1,8 +1,23 @@
 {
   "datum": "2026-10-13",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-10-13-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizer Ex-Model wirft Trump Übergriff vor, wer entschuldigt sich zuerst: Bundesrat oder Uhrenindustrie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Eine Schweizerin wirft Trump einen Übergriff vor. Wer entschuldigt sich zuerst, der Bundesrat oder die Uhrenindustrie?",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
     {
       "id": "2026-10-13-0757-04",
       "typ": "politisch-aktuell",
@@ -19,33 +34,18 @@
       }
     },
     {
-      "id": "2026-10-13-0757-06",
+      "id": "2026-10-13-0757-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Über 100'000 Unterschriften für die Mindestlöhne, Angst, dass die Coop-Verkäuferin vom Lohn lebt und der SVP die Sozialschmarotzer ausgehen",
+      "stichwort": "Spanien setzt Wisente gegen Waldbrände ein, wirkt vernünftiger als das radikale CO2-Senken",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Über 100'000 Unterschriften für die Mindestlöhne, jetzt hab ich Angst. Am Ende lebt die Coop-Verkäuferin von ihrem Lohn und die SVP braucht neue Sozialschmarotzer.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-13-0757-18",
-      "typ": "schnittmenge",
-      "stichwort": "Neid aufs Mietauto, das in Innerrhoden günstig wohnt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so günstig in Appenzell Innerrhoden wohnen wie ein Mietauto.",
+      "text": "Spanien setzt Wisente gegen Waldbrände ein. Klingt vernünftiger als dieses radikale CO2-Senken.",
       "jury": {
-        "neu": false,
         "anker": true,
-        "witz": true
+        "witz": false,
+        "neu": true
       }
     },
     {
@@ -61,21 +61,6 @@
         "neu": true,
         "anker": true,
         "witz": true
-      }
-    },
-    {
-      "id": "2026-10-13-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Jans will aus dem Asyldepartement flüchten, erst Fingerabdrücke und Beweis, dass es dort wirklich so schlimm ist",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Bundesrat Beat Jans will aus dem Asyldepartement flüchten. Zuerst bitte Fingerabdrücke und Beweise, dass es dort wirklich so schlimm ist.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
       }
     },
     {
