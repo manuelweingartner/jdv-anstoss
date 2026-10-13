@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-13",
-  "hinweis": "4 von 10 da, der Rest lädt noch.",
+  "hinweis": "7 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-13-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Asylminister Beat Jans will ins Wirtschaftsdepartement wechseln, also ein Wirtschaftsflüchtling, über dessen Gesuch er selbst entscheidet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, Asylminister Beat Jans will ins Wirtschaftsdepartement flüchten? Ein Wirtschaftsflüchtling, und prüfen muss das Gesuch ausgerechnet er selbst."
+    },
+    {
+      "id": "2026-10-13-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Spanien setzt Wisente gegen Waldbrände ein, wirkt vernünftiger als das radikale CO2-Senken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Spanien setzt Wisente gegen Waldbrände ein. Klingt vernünftiger als dieses radikale CO2-Senken."
+    },
+    {
+      "id": "2026-10-13-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Über 100'000 Unterschriften für die Mindestlöhne, Angst, dass die Coop-Verkäuferin vom Lohn lebt und der SVP die Sozialschmarotzer ausgehen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Über 100'000 Unterschriften für die Mindestlöhne, jetzt hab ich Angst. Am Ende lebt die Coop-Verkäuferin von ihrem Lohn und die SVP braucht neue Sozialschmarotzer."
+    },
     {
       "id": "2026-10-13-0757-07",
       "typ": "politisch-aktuell",
