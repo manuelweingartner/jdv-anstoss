@@ -1,55 +1,57 @@
 {
-  "stand": "2026-10-13T08:03:51+02:00",
-  "lauf": "0803",
+  "stand": "2026-10-13T17:00:35+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0803-1",
-      "titel": "Wechselgelüste im Bundesrat – Kommt es erneut zur «Flucht» aus dem EJPD oder dem VBS?",
-      "was": "Bundesrat auf dem Gruppenfoto, Beat Jans im Vordergrund",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, der Departementswechsel wird als Umzug oder Flucht gelesen. Achse: Kollegialität und Verantwortung für das Dossier gegen das Sesselrücken weg von den unbeq",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [
-        "NZZ"
-      ],
-      "artikel": "https://www.srf.ch/news/schweiz/wechselgelueste-im-bundesrat-kommt-es-erneut-zur-flucht-aus-dem-ejpd-oder-dem-vbs",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/32c0779.jpg",
-      "zeit": "2026-10-13T06:03+02:00"
-    },
-    {
-      "id": "0803-2",
-      "titel": "Diesel-Deal – Wenn Selenski und Trump sich streiten, lacht Putin",
-      "was": "Trump im Oval Office, daneben Archivbild von Selenski und Putin",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Trump übt Druck auf die Ukraine aus und macht gleichzeitig mit Russland Geschäfte, er tritt als Friedensvermittler auf und ist zugleich Dieselhändle",
+      "id": "1700-1",
+      "titel": "Fifa: Gianni Infantino gerät nach Enthüllungen über sein Gehalt unter Druck",
+      "was": "Gianni Infantino lächelnd am Rednerpult, Fifa-Logo im Hintergrund",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: gemeinnütziger Verein mit Sitz in Zürich gegen Millionenbonus, den niemand deklariert hat.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "SRF",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "NZZ"
+        "NZZ",
+        "Watson"
       ],
-      "artikel": "https://www.srf.ch/news/international/diesel-deal-wenn-selenski-und-trump-sich-streiten-lacht-putin",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/025c66.jpg",
-      "zeit": "2026-10-12T19:39+02:00"
+      "artikel": "https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-geraet-nach-enthuellungen-ueber-sein-gehalt-unter-druck-a-6bce191a-2e23-440d-9023-66ded6271339#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/afd000d1-5d97-4f21-bd80-ab39d2d444f5_w520_r2.08_fpx48.67_fpy55.01.jpg",
+      "zeit": "2026-10-13T14:55+02:00"
     },
     {
-      "id": "0803-3",
-      "titel": "Schweiz – Marathon, Boxen und Waffenlauf: So sportlich ist der Bundesrat",
-      "was": "Bundesräte in Sportkleidung beim Laufen, Boxen oder Waffenlauf",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist, also Boxhandschuhe und Marathon als Werkzeuge der Regierungsarbeit. Achse: sportliche Ausdauer und Schlagkraft gegen das Schneckentempo der Konko",
+      "id": "1700-2",
+      "titel": "Hacker führen Cyberangriff auf Supermärkte durch – Tonnen von Lebensmitteln tauen auf",
+      "was": "Supermarkt-Kühlregal mit tropfender, aufgetauter Ware, ratlose Angestellte",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: hybride Kriegsführung gegen eine aufgetaute Tiefkühlpizza.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "SRF",
+        "Watson"
+      ],
+      "artikel": "https://www.nzz.ch/panorama/hacker-fuehren-cyberangriff-auf-supermaerkte-durch-tonnen-von-lebensmitteln-tauen-auf-ld.10032429",
+      "bild": "https://img-msp-prod.nzz.ch/2026/10/13/1e202412-ccbe-4524-94d5-ffdaff575913.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2832,2832,x1408,y0",
+      "zeit": "2026-10-13T16:39+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Keller-Sutter warnt vor möglichem Steuer-Chaos",
+      "was": "Karin Keller-Sutter am Bundesratspult im Medienzentrum, ernster Blick",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: neutrale Information des Bundesrats gegen Abstimmungskampagne mit dem Wappen auf dem Pult.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/schweiz-marathon-boxen-und-waffenlauf-so-sportlich-ist-der-bundesrat",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/e6e14b.jpg",
-      "zeit": "2026-10-12T19:01+02:00"
+      "artikel": "https://www.20min.ch/story/abstimmungen-fairness-initiative-keller-sutter-warnt-vor-steuer-chaos-103648896",
+      "bild": "https://media.20min.ch/6/image/2025/02/20/bdefddd3-ff49-43f8-a8e2-f82fcc8d03e1.jpeg?s=2fecd53f7c41502928c08dcabcbc1350",
+      "zeit": "2026-10-13T14:30+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute",
-      "was": "Französische Nationalversammlung zum Auftakt der Haushaltsdebatte, Regierung am Rednerpult"
+      "wann": "heute im Laufe des Tages",
+      "was": "Amtsübergabe im Arbeitsministerium Berlin: Schweitzer übernimmt von Bas, Handschlag mit Blumenstrauss"
     }
   ],
   "hinweis": ""
