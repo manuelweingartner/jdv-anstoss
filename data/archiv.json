@@ -18449,6 +18449,166 @@
         "neu": true
       },
       "datum": "2026-10-11"
+    },
+    {
+      "id": "2026-10-12-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Shein-Aktie bricht beim Börsenstart ein, hält wie alles von Shein nicht bis zur Wäsche",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Shein-Aktie bricht direkt beim Börsenstart ein. Wie alles von Shein: hält nicht bis zur Wäsche.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Feuerwehr rettet Kalb Konrad vom Dach, gleichentags ein Drittel der Schweizer Arten bedroht, ohne Namen keine Rettung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Feuerwehr rettet Kalb Konrad vom Hausdach, am selben Tag sieht der WWF ein Drittel der Schweizer Arten bedroht. Hatten halt keinen Namen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Paramount schluckt Warner samt CNN mit Ellison-Geld, Trump lobt unabhängigen Journalismus mit Batman",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Paramount übernimmt Warner Brothers und damit CNN, bezahlt von der Familie des Trump-Freunds Larry Ellison. Trump so: endlich unabhängiger Journalismus, wie Fox, aber mit Batman.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor der E-ID, weil der Staat die Adresse kennen könnte, die liegt nach dem Ricardo-Leck längst bei Hackern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor der E-ID, der Staat könnte meine Adresse kennen. Zum Glück liegt sie seit dem Ricardo-Datenleck bei Hackern. Ohne Abstimmung.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bücher sind gefährlich, Russland schickt Drohnen auf ukrainische Verlage, Florida schickt Mütter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Bücher sind gefährlich. Russland schickt Drohnen auf ukrainische Verlage, Florida schickt Mütter.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Firma überwacht das Teams-Lämpchen im Homeoffice und ist selbst nur ein Briefkasten in Zug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Im Homeoffice überwacht die Firma, ob das Teams-Lämpchen grün leuchtet. Ihre eigene Anwesenheit beschränkt sich auf einen Briefkasten in Zug, Status: dauerhaft abwesend.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-0757-12",
+      "typ": "remix",
+      "stichwort": "Leere Liste der Regeln aus dem Crash von 1929, die die Banken nicht wieder weglobbyiert haben (Remix der unterausgespielten Hitzetote-Liste)",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Wie vor dem Crash von 1929 treiben Schulden und FOMO die Börsen, warnen Ökonom*innen. Hier alle Regeln von damals, die Banken nicht weglobbyiert haben:\n-\n-",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      },
+      "datum": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-0757-16",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautos in Innerrhoden dürfen an der Landsgemeinde nicht abstimmen, kennt man dort von den Frauen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Tausende Mietautos sind in Appenzell Innerrhoden eingelöst, abstimmen dürfen sie an der Landsgemeinde trotzdem nicht. Kennt man dort. Von den Frauen. Bis 1990.",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-0757-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti im Feuer prüft Ersatz durch Ölheizung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Albert Rösti steht im Feuer. Er prüft jetzt, ob man es durch eine Ölheizung ersetzen kann. Bewährte Technik.",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Shein-Aktie rutscht am ersten Börsentag ins Minus, Aktionär*innen verdienen wie Näher*innen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Shein-Aktie rutscht am ersten Börsentag ins Minus. Erstmals verdienen Aktionär*innen so wenig wie Näher*innen.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      },
+      "datum": "2026-10-12"
     }
   ]
 }
