@@ -11,17 +11,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Seh ich das richtig, Asylminister Beat Jans will ins Wirtschaftsdepartement flüchten? Ein Wirtschaftsflüchtling, und prüfen muss das Gesuch ausgerechnet er selbst."
-    },
-    {
-      "id": "2026-10-13-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Spanien setzt Wisente gegen Waldbrände ein, wirkt vernünftiger als das radikale CO2-Senken",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Spanien setzt Wisente gegen Waldbrände ein. Klingt vernünftiger als dieses radikale CO2-Senken."
+      "text": "Seh ich das richtig, Asylminister Beat Jans will ins Wirtschaftsdepartement flüchten? Ein Wirtschaftsflüchtling, und prüfen muss das Gesuch ausgerechnet er selbst.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-13-0757-06",
@@ -31,77 +26,132 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Über 100'000 Unterschriften für die Mindestlöhne, jetzt hab ich Angst. Am Ende lebt die Coop-Verkäuferin von ihrem Lohn und die SVP braucht neue Sozialschmarotzer."
+      "text": "Über 100'000 Unterschriften für die Mindestlöhne, jetzt hab ich Angst. Am Ende lebt die Coop-Verkäuferin von ihrem Lohn und die SVP braucht neue Sozialschmarotzer.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-13-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Rheinmetall-Aktionär*innen, die selbst an der Front stehen",
+      "id": "2026-10-13-0757-18",
+      "typ": "schnittmenge",
+      "stichwort": "Neid aufs Mietauto, das in Innerrhoden günstig wohnt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Hier eine Liste aller Rheinmetall-Aktionär*innen, die selbst an der Front stehen:\n-\n-\nDie Dividende kam trotzdem pünktlich."
+      "text": "Einmal so günstig in Appenzell Innerrhoden wohnen wie ein Mietauto.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-10-13-0757-08",
+      "id": "2026-10-13-0757-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Kriegsgegner*innen gelten als naiv, Rüstungsaktionär*innen als realistisch, nur eine Gruppe verdient am Rechtbehalten",
+      "stichwort": "Schweizer Ex-Model wirft Trump Übergriff im Epstein-Umfeld vor, die Antwort aus Washington steht schon fest",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Eine Schweizerin wirft Trump einen Übergriff aus dem Epstein-Umfeld vor. Washingtons Antwort steht schon: kenne sie nicht, nicht mein Typ, Hexenjagd, Reihenfolge nach Tagesform.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-13-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Jans will aus dem Asyldepartement flüchten, erst Fingerabdrücke und Beweis, dass es dort wirklich so schlimm ist",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Bundesrat Beat Jans will aus dem Asyldepartement flüchten. Zuerst bitte Fingerabdrücke und Beweise, dass es dort wirklich so schlimm ist.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-13-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Parmelin schützt Winzer*innen vor billigem Wein, gleiche Woche sollen Mindestlöhne sinken dürfen, hätten halt Reben werden sollen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, Parmelin schützt Winzer*innen vor zu billigem Wein, und in derselben Woche sollen Mindestlöhne sinken dürfen? Hätten die Leute halt Reben werden sollen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-10-13-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Unbezahltes Praktikum in Genf, die letzte Anforderung sind Eltern mit Dauerauftrag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 15,
+      "text": "Unbezahltes Praktikum in Genf, Anforderungen: Master, Französisch, Englisch, Eltern mit Dauerauftrag.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-13-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ab welchem Lohn trägt ein Bankchef Verantwortung, Frage an die Credit Suisse, die weg ist, und ihre Chefs, die noch da sind",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ab welchem Lohn muss ein Bankchef eigentlich Verantwortung übernehmen? Frage für die Credit Suisse, die es nicht mehr gibt, und ihre Chefs, die es noch gibt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-13-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ganz Europa ist kriegsmüde, nur die Rheinmetall-Aktionär*innen hängen gern noch eine Saison dran",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Seltsam, dass Kriegsgegner*innen als naiv gelten und Rüstungsaktionär*innen als realistisch. Nur eine der beiden Gruppen verdient daran, recht zu behalten."
+      "text": "Kriegsmüde ist inzwischen ganz Europa. Bis auf die Aktionär*innen von Rheinmetall, die hängen gern noch eine Saison dran.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-13-0757-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Im ersten Zug schlafen Pfleger*innen und Maurer, die Talkshow über die faule Jugend hat ausgeschlafene Gäste",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Im ersten Zug am Morgen schlafen Pfleger*innen, Maurer und Kassierer*innen. Die Talkshow über die arbeitsscheue Jugend läuft am Abend, mit Gästen, die ausgeschlafen haben."
-    },
-    {
-      "id": "2026-10-13-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Einmal so viel Kündigungsschutz wie ein Sitz im Verwaltungsrat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so viel Kündigungsschutz haben wie ein Sitz im Verwaltungsrat."
-    },
-    {
-      "id": "2026-10-13-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "Waadtländer als Drogenkuriere in Thailand, gelockt mit Gratisferien fast ohne Arbeit, Sorge um die Verwaltungsräte",
+      "id": "2026-10-13-0757-32",
+      "typ": "remix",
+      "stichwort": "Trump: Putin will den Ukraine-Deal mehr als Selenski, Streitbild Einbrecher und Haus (Remix des unterausgespielten Krankenkassen-Streitbilds)",
       "plattform": "Threads + Bluesky + IG-Textgrafik",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Junge Waadtländer wurden mit «Gratisferien, fast ohne etwas zu tun» zu Drogenkurieren gemacht und sitzen jetzt in Thailand. Wie erklärt man das jetzt den Verwaltungsräten?"
-    },
-    {
-      "id": "2026-10-13-0757-12",
-      "typ": "remix",
-      "stichwort": "Arbeitsloser 63-jähriger IT-Projektleiter backt Pizza, nicht die KI hat ihn ersetzt, sondern sein Geburtsdatum",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Nicht die KI hat den 63-jährigen IT-Projektleiter zum Pizzabäcker gemacht. Sondern sein Geburtsdatum."
-    },
-    {
-      "id": "2026-10-13-0757-16",
-      "typ": "schnittmenge",
-      "stichwort": "Besuch hält Appenzell für voller Mietautos, Innerrhoder so: das sind unsere, eure stehen in Zürich",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Besuch in Appenzell so: Whoa, alles voller Mietautos. Innerrhoder so: chill, das sind unsere, eure stehen alle in Zürich."
+      "text": "Trump findet, Putin wolle den Ukraine-Deal mehr als Selenski. Einbrecher wollen das Haus auch mehr.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
