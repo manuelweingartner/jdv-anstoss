@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-14",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "evergreen",
       "format": 10,
       "text": "Fachkräftemangel, warnen die Arbeitgeber, darum Rentenalter 67. Ein 63-jähriger IT-Projektleiter macht schon mit und backt jetzt Pizza, nach Gantt-Diagramm."
+    },
+    {
+      "id": "2026-10-14-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neue Vorwürfe gegen Infantino (leeres Büro, verschwiegenes Gehalt), die Angst vor Sozialschmarotzern macht bei ihm eine Ausnahme",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor Sozialschmarotzern. Infantino meine ich nicht, der hat ja ein Büro. Leer."
+    },
+    {
+      "id": "2026-10-14-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump lässt Riad unter Beschuss allein wegen der Benzinpreise vor den Midterms, nachdem er den Saudis die Knochensäge verziehen hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Also nochmal langsam: Trump hat den Saudis die Knochensäge verziehen, lässt Riad unter Beschuss aber allein, weil vor den Midterms das Benzin zu teuer ist? Endlich Aussenpolitik mit Werten. Bleifrei."
+    },
+    {
+      "id": "2026-10-14-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "IWF: Die Weltwirtschaft wächst trotz allem, am selben Tag sind die US-Munitionslager leer. Trotz oder wegen?",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Gute Nachricht vom IWF, die Weltwirtschaft wächst trotz allem. Am selben Tag sind in den USA die Munitionslager leer, schwer zu sagen, ob trotz oder wegen."
     }
   ]
 }
