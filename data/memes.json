@@ -1,46 +1,46 @@
 {
-  "stand": "2026-10-13T08:04:21+02:00",
+  "stand": "2026-10-14T08:11:24+02:00",
   "vorschlaege": [
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Wirtschaftsdepartement",
-        "Asyldossier zu Ende führen",
-        "Beat Jans"
+        "Weinimporte per Auktion verteuern",
+        "Schweizer Wein im Export fördern",
+        "Bundesrat Parmelin"
       ],
-      "warum": "der Wechsel ins WBF ist genau die Ausfahrt in letzter Sekunde, während das EJPD-Dossier geradeaus liegen bleibt",
+      "warum": "die Hilfe für Winzer biegt in letzter Sekunde zum Strafzoll ab, die vernünftige Strasse bleibt leer",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "2008: UBS gerettet",
-        "Lehre: nie wieder",
-        "2026: UBS gegen Eigenkapital",
-        "Lehre: welche Lehre"
+        "USA 1991",
+        "Weltpolizei",
+        "USA 2026",
+        "Munition leer, Midterms bald"
       ],
-      "warum": "eine behauptete Einsicht von früher trifft auf eine Bank, die heute gegen genau diese Einsicht lobbyiert",
+      "warum": "die behauptete Supermacht von früher gegen einen Präsidenten, der Verbündete wegen Benzinpreisen fallen lässt",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "490 Stellen weg",
-        "90 Stellen gerettet"
+        "Wanze im Sitzungszimmer",
+        "Trainingsdaten erheben"
       ],
-      "warum": "Zimmer Biomet verkauft denselben Abbau als Rettung, und der Euphemismus ist die ganze Meldung",
+      "warum": "Abhören in der vornehmen Sprache einer KI-Firma klingt wie ihr Geschäftsmodell",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Sinkender Ölpreis hat Lieferfrist"
+        "Infantino arbeitet nicht bei der FIFA"
       ],
-      "warum": "die These, dass Preise nur nach oben sofort wirken, bekommt keinen Widerspruch, weil die Tankstelle sie gerade selbst belegt",
+      "warum": "leeres Büro, geheimes Gehalt: die These lässt sich nicht widerlegen, weil die FIFA selbst die Belege liefert",
       "bild": "vorschlag-4.jpg"
     }
   ]
