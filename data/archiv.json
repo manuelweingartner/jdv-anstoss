@@ -18609,6 +18609,150 @@
         "anker": true
       },
       "datum": "2026-10-12"
+    },
+    {
+      "id": "2026-10-13-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizer Ex-Model wirft Trump Übergriff vor, wer entschuldigt sich zuerst: Bundesrat oder Uhrenindustrie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Eine Schweizerin wirft Trump einen Übergriff vor. Wer entschuldigt sich zuerst, der Bundesrat oder die Uhrenindustrie?",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-13"
+    },
+    {
+      "id": "2026-10-13-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Asylminister Beat Jans will ins Wirtschaftsdepartement wechseln, also ein Wirtschaftsflüchtling, über dessen Gesuch er selbst entscheidet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, Asylminister Beat Jans will ins Wirtschaftsdepartement flüchten? Ein Wirtschaftsflüchtling, und prüfen muss das Gesuch ausgerechnet er selbst.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-13"
+    },
+    {
+      "id": "2026-10-13-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Spanien setzt Wisente gegen Waldbrände ein, wirkt vernünftiger als das radikale CO2-Senken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Spanien setzt Wisente gegen Waldbrände ein. Klingt vernünftiger als dieses radikale CO2-Senken.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-13"
+    },
+    {
+      "id": "2026-10-13-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizer Ex-Model wirft Trump Übergriff im Epstein-Umfeld vor, die Antwort aus Washington steht schon fest",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Eine Schweizerin wirft Trump einen Übergriff aus dem Epstein-Umfeld vor. Washingtons Antwort steht schon: kenne sie nicht, nicht mein Typ, Hexenjagd, Reihenfolge nach Tagesform.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-10-13"
+    },
+    {
+      "id": "2026-10-13-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Parmelin schützt Winzer*innen vor billigem Wein, gleiche Woche sollen Mindestlöhne sinken dürfen, hätten halt Reben werden sollen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, Parmelin schützt Winzer*innen vor zu billigem Wein, und in derselben Woche sollen Mindestlöhne sinken dürfen? Hätten die Leute halt Reben werden sollen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-10-13"
+    },
+    {
+      "id": "2026-10-13-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Unbezahltes Praktikum in Genf, die letzte Anforderung sind Eltern mit Dauerauftrag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 15,
+      "text": "Unbezahltes Praktikum in Genf, Anforderungen: Master, Französisch, Englisch, Eltern mit Dauerauftrag.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-10-13"
+    },
+    {
+      "id": "2026-10-13-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ab welchem Lohn trägt ein Bankchef Verantwortung, Frage an die Credit Suisse, die weg ist, und ihre Chefs, die noch da sind",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ab welchem Lohn muss ein Bankchef eigentlich Verantwortung übernehmen? Frage für die Credit Suisse, die es nicht mehr gibt, und ihre Chefs, die es noch gibt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-13"
+    },
+    {
+      "id": "2026-10-13-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ganz Europa ist kriegsmüde, nur die Rheinmetall-Aktionär*innen hängen gern noch eine Saison dran",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Kriegsmüde ist inzwischen ganz Europa. Bis auf die Aktionär*innen von Rheinmetall, die hängen gern noch eine Saison dran.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-13"
+    },
+    {
+      "id": "2026-10-13-0757-32",
+      "typ": "remix",
+      "stichwort": "Trump: Putin will den Ukraine-Deal mehr als Selenski, Streitbild Einbrecher und Haus (Remix des unterausgespielten Krankenkassen-Streitbilds)",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump findet, Putin wolle den Ukraine-Deal mehr als Selenski. Einbrecher wollen das Haus auch mehr.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-10-13"
     }
   ]
 }
