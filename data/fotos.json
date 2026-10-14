@@ -1,58 +1,52 @@
 {
-  "stand": "2026-10-14T08:10:32+02:00",
-  "lauf": "0809",
+  "stand": "2026-10-14T17:01:14+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0809-1",
-      "titel": "Nach langem Hin und Her: Koalition einigt sich auf Zuckersteuer",
-      "was": "Regalreihe mit Softdrinks oder Koalitionsspitze mit Limonadenflasche vor Kameras",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Steuer auf den Zucker im Glas der Kinder gegen das unbesteuerte Bier im Festzelt der Wähler.",
+      "id": "1700-1",
+      "titel": "Der Bundesrat will Social Media und Suchmaschinen regulieren – zumindest ein bisschen",
+      "was": "Bundesrat vor Mikrofonen im Medienzentrum, Smartphone oder Social-Media-Logos eingeblendet",
+      "richtung": "Mechanik: wörtlich nehmen, was der Titel selbst zugibt, also Regulierung nur ein bisschen. Achse: Jugendschutz als grosses Versprechen gegen ein Gesetz, das die Plattformen kaum stört.",
       "grund": "breit",
-      "raum": "",
-      "quelle": "taz",
+      "raum": "schweiz",
+      "quelle": "NZZ",
       "auch_bei": [
+        "SRF",
         "Tagesschau"
       ],
-      "artikel": "https://taz.de/Nach-langem-Hin-und-Her/!6221477/",
-      "bild": "https://taz.de/picture/8800083/948/Einigung-Zuckersteuer.jpeg",
-      "zeit": "2026-10-14T07:58+02:00"
+      "artikel": "https://www.nzz.ch/schweiz/der-bundesrat-will-social-media-und-suchmaschinen-regulieren-zumindest-ein-bisschen-ld.10033706",
+      "bild": "https://img-msp-prod.nzz.ch/2026/08/26/9564215c-0858-47ab-955a-fa10a610f0f4.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2722,2722,x681,y0",
+      "zeit": "2026-10-14T14:00+02:00"
     },
     {
-      "id": "0809-2",
-      "titel": "WM-Quali-Playoffs: SUI – ISR – Sieg ohne Gegentor: Schweizerinnen erfüllen die Pflicht",
-      "was": "Schweizer Nati-Spielerinnen jubeln nach dem Tor im Stadion",
-      "richtung": "Mechanik: Rollenrede aus Sicht der jubelnden Spielerinnen. Achse: Pflichtsieg gefeiert wie ein Titel gegen das eigentliche Nachbarschaftsduell mit Österreich, das erst noch kommt.",
+      "id": "1700-2",
+      "titel": "Portugiesische Airline – Lufthansa gewinnt Bieterrennen und steigt gross bei TAP ein",
+      "was": "Lufthansa- und TAP-Flugzeuge nebeneinander oder Händedruck mit portugiesischem Minister",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, ein Firmenkauf als Heiratsantrag oder Familienzuwachs. Achse: Lufthansa sammelt Staatsairlines ein, während sie zu Hause über Kosten und Streiks klagt.",
       "grund": "breit",
+      "raum": "",
+      "quelle": "SRF",
+      "auch_bei": [
+        "NZZ"
+      ],
+      "artikel": "https://www.srf.ch/news/international/portugiesische-airline-lufthansa-gewinnt-bieterrennen-und-steigt-gross-bei-tap-ein",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/dc0f0b.jpg",
+      "zeit": "2026-10-14T14:58+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Wegen Klimawandel – Bern verschenkt 150 Marronibäume – für eine grünere Zukunft",
+      "was": "Berner Stadtvertreter verteilen junge Marronibäume an Leute mit Töpfen",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, 150 Bäumchen gegen den Klimawandel. Achse: symbolische Gartenaktion gegen ein Problem im globalen Massstab.",
+      "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/sport/fussball/frauen-nationalteam/wm-quali-playoffs-sui-isr-sieg-ohne-gegentor-schweizerinnen-erfuellen-die-pflicht",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/067e0b.jpg",
-      "zeit": "2026-10-13T21:27+02:00"
-    },
-    {
-      "id": "0809-3",
-      "titel": "«Mein Präsident, äh, Ehemann»: Patzer von Trumps neuer Sprecherin",
-      "was": "Neue Sprecherin am Rednerpult im Pressesaal des Weissen Hauses",
-      "richtung": "Mechanik: wörtlich nehmen, was als Versprecher gemeint war. Achse: Loyalität zum Amt gegen Ergebenheit gegenüber der Person.",
-      "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "20 Minuten",
-      "auch_bei": [],
-      "artikel": "https://www.20min.ch/video/katie-zacharia-mein-praesident-aeh-ehemann-patzer-von-trumps-neuer-sprecherin-103649336",
-      "bild": "https://image.20min.ch/2026/10/14/4ad5d388-d254-428c-8131-39c61bb281e5.jpg?s=e27558724e92a53ec5312b9f33f31ca9",
-      "zeit": "2026-10-14T07:44+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/wegen-klimawandel-bern-verschenkt-150-marronibaeume-fuer-eine-gruenere-zukunft",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/90cbb2.jpg",
+      "zeit": "2026-10-14T15:55+02:00"
     }
   ],
-  "erwartet": [
-    {
-      "wann": "heute im Laufe des Tages",
-      "was": "Merz am Rednerpult im Bundestag bei der Regierungserklärung"
-    },
-    {
-      "wann": "heute ab 21:00",
-      "was": "Guardiola an der Seitenlinie im Champions-League-Spitzenspiel Manchester City gegen Paris"
-    }
-  ],
+  "erwartet": [],
   "hinweis": ""
 }
