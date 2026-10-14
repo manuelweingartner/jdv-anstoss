@@ -1,57 +1,57 @@
 {
-  "stand": "2026-10-13T17:00:35+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-14T08:10:32+02:00",
+  "lauf": "0809",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Fifa: Gianni Infantino gerät nach Enthüllungen über sein Gehalt unter Druck",
-      "was": "Gianni Infantino lächelnd am Rednerpult, Fifa-Logo im Hintergrund",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: gemeinnütziger Verein mit Sitz in Zürich gegen Millionenbonus, den niemand deklariert hat.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
-      "auch_bei": [
-        "NZZ",
-        "Watson"
-      ],
-      "artikel": "https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-geraet-nach-enthuellungen-ueber-sein-gehalt-unter-druck-a-6bce191a-2e23-440d-9023-66ded6271339#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/afd000d1-5d97-4f21-bd80-ab39d2d444f5_w520_r2.08_fpx48.67_fpy55.01.jpg",
-      "zeit": "2026-10-13T14:55+02:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Hacker führen Cyberangriff auf Supermärkte durch – Tonnen von Lebensmitteln tauen auf",
-      "was": "Supermarkt-Kühlregal mit tropfender, aufgetauter Ware, ratlose Angestellte",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: hybride Kriegsführung gegen eine aufgetaute Tiefkühlpizza.",
+      "id": "0809-1",
+      "titel": "Nach langem Hin und Her: Koalition einigt sich auf Zuckersteuer",
+      "was": "Regalreihe mit Softdrinks oder Koalitionsspitze mit Limonadenflasche vor Kameras",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Steuer auf den Zucker im Glas der Kinder gegen das unbesteuerte Bier im Festzelt der Wähler.",
       "grund": "breit",
       "raum": "",
-      "quelle": "NZZ",
+      "quelle": "taz",
       "auch_bei": [
-        "SRF",
-        "Watson"
+        "Tagesschau"
       ],
-      "artikel": "https://www.nzz.ch/panorama/hacker-fuehren-cyberangriff-auf-supermaerkte-durch-tonnen-von-lebensmitteln-tauen-auf-ld.10032429",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/13/1e202412-ccbe-4524-94d5-ffdaff575913.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2832,2832,x1408,y0",
-      "zeit": "2026-10-13T16:39+02:00"
+      "artikel": "https://taz.de/Nach-langem-Hin-und-Her/!6221477/",
+      "bild": "https://taz.de/picture/8800083/948/Einigung-Zuckersteuer.jpeg",
+      "zeit": "2026-10-14T07:58+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Keller-Sutter warnt vor möglichem Steuer-Chaos",
-      "was": "Karin Keller-Sutter am Bundesratspult im Medienzentrum, ernster Blick",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: neutrale Information des Bundesrats gegen Abstimmungskampagne mit dem Wappen auf dem Pult.",
-      "grund": "memetauglich",
+      "id": "0809-2",
+      "titel": "WM-Quali-Playoffs: SUI – ISR – Sieg ohne Gegentor: Schweizerinnen erfüllen die Pflicht",
+      "was": "Schweizer Nati-Spielerinnen jubeln nach dem Tor im Stadion",
+      "richtung": "Mechanik: Rollenrede aus Sicht der jubelnden Spielerinnen. Achse: Pflichtsieg gefeiert wie ein Titel gegen das eigentliche Nachbarschaftsduell mit Österreich, das erst noch kommt.",
+      "grund": "breit",
       "raum": "schweiz",
+      "quelle": "SRF",
+      "auch_bei": [],
+      "artikel": "https://www.srf.ch/sport/fussball/frauen-nationalteam/wm-quali-playoffs-sui-isr-sieg-ohne-gegentor-schweizerinnen-erfuellen-die-pflicht",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/067e0b.jpg",
+      "zeit": "2026-10-13T21:27+02:00"
+    },
+    {
+      "id": "0809-3",
+      "titel": "«Mein Präsident, äh, Ehemann»: Patzer von Trumps neuer Sprecherin",
+      "was": "Neue Sprecherin am Rednerpult im Pressesaal des Weissen Hauses",
+      "richtung": "Mechanik: wörtlich nehmen, was als Versprecher gemeint war. Achse: Loyalität zum Amt gegen Ergebenheit gegenüber der Person.",
+      "grund": "memetauglich",
+      "raum": "weltweit",
       "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/abstimmungen-fairness-initiative-keller-sutter-warnt-vor-steuer-chaos-103648896",
-      "bild": "https://media.20min.ch/6/image/2025/02/20/bdefddd3-ff49-43f8-a8e2-f82fcc8d03e1.jpeg?s=2fecd53f7c41502928c08dcabcbc1350",
-      "zeit": "2026-10-13T14:30+02:00"
+      "artikel": "https://www.20min.ch/video/katie-zacharia-mein-praesident-aeh-ehemann-patzer-von-trumps-neuer-sprecherin-103649336",
+      "bild": "https://image.20min.ch/2026/10/14/4ad5d388-d254-428c-8131-39c61bb281e5.jpg?s=e27558724e92a53ec5312b9f33f31ca9",
+      "zeit": "2026-10-14T07:44+02:00"
     }
   ],
   "erwartet": [
     {
       "wann": "heute im Laufe des Tages",
-      "was": "Amtsübergabe im Arbeitsministerium Berlin: Schweitzer übernimmt von Bas, Handschlag mit Blumenstrauss"
+      "was": "Merz am Rednerpult im Bundestag bei der Regierungserklärung"
+    },
+    {
+      "wann": "heute ab 21:00",
+      "was": "Guardiola an der Seitenlinie im Champions-League-Spitzenspiel Manchester City gegen Paris"
     }
   ],
   "hinweis": ""
