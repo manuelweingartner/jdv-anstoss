@@ -1,57 +1,27 @@
 {
-  "datum": "2026-10-14",
-  "hinweis": "Anforderung um 08:07 fehlgeschlagen (kein Shard hat geliefert). Liste unverändert, bitte nochmal.",
-  "fertig": true,
+  "datum": "2026-10-16",
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-10-14-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "Import-Poulets fallen im Keimtest durch, Oligarchengeld wird nur gezählt",
-      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Warum prüft die Schweiz Import-Poulets auf gefährliche Keime und Oligarchengeld nur auf Vollzähligkeit?"
-    },
-    {
-      "id": "2026-10-14-0757-12",
-      "typ": "remix",
-      "stichwort": "Arbeitgeber wollen Rentenalter 67 wegen Fachkräftemangel, 63-jähriger IT-Projektleiter backt Pizza (Remix der unterausgespielten Teilzeit/Apéro-Mechanik)",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 10,
-      "text": "Fachkräftemangel, warnen die Arbeitgeber, darum Rentenalter 67. Ein 63-jähriger IT-Projektleiter macht schon mit und backt jetzt Pizza, nach Gantt-Diagramm."
-    },
-    {
-      "id": "2026-10-14-0757-24e",
+      "id": "2026-10-16-0757-22",
       "typ": "politisch-aktuell",
-      "stichwort": "Kanton Zürich will Wildschweine mit Menschenschweiss und Schmerzschreien vertreiben, also mit der S-Bahn ab Stadelhofen um halb acht",
+      "stichwort": "Amaudruz will Parmelins Bundesratssitz, die Presse debattiert ihren Mami-Bonus. Leere Liste der Artikel über einen Papi-Bonus",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Kanton Zürich will Wildschweine künftig mit Menschenschweiss und Schmerzschreien vertreiben. Also mit der S-Bahn ab Stadelhofen, um halb acht."
+      "text": "SVP-Nationalrätin Céline Amaudruz will in den Bundesrat, die Presse fragt nach ihrem Mami-Bonus. Hier alle Artikel über den Papi-Bonus eines Bundesrats:\n-\n-\nThat's it."
     },
     {
-      "id": "2026-10-14-0757-25",
+      "id": "2026-10-16-0757-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Trump lässt Riad unter Beschuss allein wegen der Benzinpreise vor den Midterms, nachdem er den Saudis die Knochensäge verziehen hat",
+      "stichwort": "Autosalon Paris: Europa stemmt sich gegen die «Flut» chinesischer Autos. Kommen die jetzt auch nach Albanien?",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Also nochmal langsam: Trump hat den Saudis die Knochensäge verziehen, lässt Riad unter Beschuss aber allein, weil vor den Midterms das Benzin zu teuer ist? Endlich Aussenpolitik mit Werten. Bleifrei."
-    },
-    {
-      "id": "2026-10-14-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "IWF: Die Weltwirtschaft wächst trotz allem, am selben Tag sind die US-Munitionslager leer. Trotz oder wegen?",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Gute Nachricht vom IWF, die Weltwirtschaft wächst trotz allem. Am selben Tag sind in den USA die Munitionslager leer, schwer zu sagen, ob trotz oder wegen."
+      "format": 3,
+      "text": "Europa wehrt sich gegen die «Flut» chinesischer Autos. Kommen die jetzt auch nach Albanien?"
     }
   ]
 }

@@ -18753,6 +18753,61 @@
         "witz": true
       },
       "datum": "2026-10-13"
+    },
+    {
+      "id": "2026-10-14-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Import-Poulets fallen im Keimtest durch, Oligarchengeld wird nur gezählt",
+      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Warum prüft die Schweiz Import-Poulets auf gefährliche Keime und Oligarchengeld nur auf Vollzähligkeit?",
+      "datum": "2026-10-14"
+    },
+    {
+      "id": "2026-10-14-0757-12",
+      "typ": "remix",
+      "stichwort": "Arbeitgeber wollen Rentenalter 67 wegen Fachkräftemangel, 63-jähriger IT-Projektleiter backt Pizza (Remix der unterausgespielten Teilzeit/Apéro-Mechanik)",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 10,
+      "text": "Fachkräftemangel, warnen die Arbeitgeber, darum Rentenalter 67. Ein 63-jähriger IT-Projektleiter macht schon mit und backt jetzt Pizza, nach Gantt-Diagramm.",
+      "datum": "2026-10-14"
+    },
+    {
+      "id": "2026-10-14-0757-24e",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kanton Zürich will Wildschweine mit Menschenschweiss und Schmerzschreien vertreiben, also mit der S-Bahn ab Stadelhofen um halb acht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Kanton Zürich will Wildschweine künftig mit Menschenschweiss und Schmerzschreien vertreiben. Also mit der S-Bahn ab Stadelhofen, um halb acht.",
+      "datum": "2026-10-14"
+    },
+    {
+      "id": "2026-10-14-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump lässt Riad unter Beschuss allein wegen der Benzinpreise vor den Midterms, nachdem er den Saudis die Knochensäge verziehen hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Also nochmal langsam: Trump hat den Saudis die Knochensäge verziehen, lässt Riad unter Beschuss aber allein, weil vor den Midterms das Benzin zu teuer ist? Endlich Aussenpolitik mit Werten. Bleifrei.",
+      "datum": "2026-10-14"
+    },
+    {
+      "id": "2026-10-14-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "IWF: Die Weltwirtschaft wächst trotz allem, am selben Tag sind die US-Munitionslager leer. Trotz oder wegen?",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Gute Nachricht vom IWF, die Weltwirtschaft wächst trotz allem. Am selben Tag sind in den USA die Munitionslager leer, schwer zu sagen, ob trotz oder wegen.",
+      "datum": "2026-10-14"
     }
   ]
 }
