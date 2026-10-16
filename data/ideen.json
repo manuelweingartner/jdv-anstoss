@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-16",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "4 Ideen aussortiert und nicht ersetzt, Liste hat 6 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -34,17 +34,17 @@
       }
     },
     {
-      "id": "2026-10-16-0757-06",
+      "id": "2026-10-16-0757-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Kaum Kandidaturen für die Parmelin-Nachfolge, endlich ein Job, den keine Ausländer*innen wegnehmen",
+      "stichwort": "Studie: kluge Frauen finden Partner, ungebildete Männer bleiben allein, schuld ist natürlich der Feminismus",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Kaum jemand will in den Bundesrat. Endlich ein Job, den uns keine Ausländer*innen wegnehmen.",
+      "text": "Studie: Kluge Frauen finden Partner, ungebildete Männer bleiben allein. Stimmt, alles Feminismus: Frauen bekamen Bücher, Männer warteten auf den Joe-Rogan-Podcast.",
       "jury": {
         "neu": true,
-        "witz": true,
+        "witz": false,
         "anker": true
       }
     },
@@ -79,51 +79,6 @@
       }
     },
     {
-      "id": "2026-10-16-0757-17",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bundesgericht streicht CS-Boni, leere Liste der Manager, die freiwillig verzichtet haben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Hier alle CS-Manager, die ihren Bonus nach dem Untergang der Bank freiwillig zurückgegeben haben:\n-\n-\nDen Rest hat das Bundesgericht überzeugt. Letztinstanzlich.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-16-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Autosalon Paris: Europa stemmt sich gegen die «Flut» chinesischer Autos. Kommen die jetzt auch nach Albanien?",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Europa wehrt sich gegen die «Flut» chinesischer Autos. Kommen die jetzt auch nach Albanien?",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-16-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump nennt Selenski wegen der Raffinerie-Angriffe ein Hindernis für den Frieden, gespielte Zustimmung: warum verliert die Ukraine nicht einfach höflich",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Trump nennt Selenski ein Hindernis für den Frieden, weil die Ukraine russische Raffinerien angreift. Stimmt, weiss auch nicht, warum sie nicht einfach höflich verliert.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
       "id": "2026-10-16-0757-25",
       "typ": "politisch-aktuell",
       "stichwort": "Bundesstudie zu Klimakosten bis 2060, am teuersten für den Wintersport, erleichtert: endlich ein Grund, etwas zu tun",
@@ -135,21 +90,6 @@
       "jury": {
         "neu": true,
         "anker": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-16-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor Enteignung, plötzlich ist die Wohnung weg, die einem nie gehört hat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Enteignung macht mir Angst. Plötzlich ist die Wohnung weg, die mir nie gehört hat.",
-      "jury": {
-        "anker": true,
-        "neu": true,
         "witz": true
       }
     }
