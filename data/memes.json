@@ -1,46 +1,46 @@
 {
-  "stand": "2026-10-14T08:11:24+02:00",
+  "stand": "2026-10-16T08:03:31+02:00",
   "vorschlaege": [
+    {
+      "vorlage": "schild",
+      "name": "Change My Mind",
+      "zeilen": [
+        "Versagen verdient keinen Bonus"
+      ],
+      "warum": "die These ist so selbstverständlich, dass die Pointe darin liegt, dass erst das Bundesgericht sie gegen die CS-Manager durchsetzen musste",
+      "bild": "vorschlag-1.jpg"
+    },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Weinimporte per Auktion verteuern",
-        "Schweizer Wein im Export fördern",
-        "Bundesrat Parmelin"
+        "Weinimporte versteigern",
+        "Schweizer Wein exportieren",
+        "Guy Parmelin"
       ],
-      "warum": "die Hilfe für Winzer biegt in letzter Sekunde zum Strafzoll ab, die vernünftige Strasse bleibt leer",
-      "bild": "vorschlag-1.jpg"
+      "warum": "Parmelin reisst kurz vor seinem Abgang das Steuer zur Auktions-Schnapsidee herum, die naheliegende Exporthilfe bleibt geradeaus liegen",
+      "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "USA 1991",
-        "Weltpolizei",
-        "USA 2026",
-        "Munition leer, Midterms bald"
+        "Pflichtlager 1939",
+        "für den Kriegsfall",
+        "Pflichtlager 2026",
+        "für Ferienflieger ab Kloten"
       ],
-      "warum": "die behauptete Supermacht von früher gegen einen Präsidenten, der Verbündete wegen Benzinpreisen fallen lässt",
-      "bild": "vorschlag-2.jpg"
+      "warum": "die Landesversorgung, früher Bollwerk für den Ernstfall, wird heute angezapft, damit in Zürich die Jets abheben",
+      "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Wanze im Sitzungszimmer",
-        "Trainingsdaten erheben"
+        "490 Stellen gestrichen",
+        "90 Stellen gerettet"
       ],
-      "warum": "Abhören in der vornehmen Sprache einer KI-Firma klingt wie ihr Geschäftsmodell",
-      "bild": "vorschlag-3.jpg"
-    },
-    {
-      "vorlage": "schild",
-      "name": "Change My Mind",
-      "zeilen": [
-        "Infantino arbeitet nicht bei der FIFA"
-      ],
-      "warum": "leeres Büro, geheimes Gehalt: die These lässt sich nicht widerlegen, weil die FIFA selbst die Belege liefert",
+      "warum": "Zimmer Biomet verkauft denselben Abbau in der Pressemitteilung als Rettungsaktion, und genau dieser Euphemismus ist die Pointe",
       "bild": "vorschlag-4.jpg"
     }
   ]
