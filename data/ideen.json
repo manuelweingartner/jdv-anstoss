@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-16",
-  "hinweis": "4 von 10 da, der Rest lädt noch.",
+  "hinweis": "7 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 3,
       "text": "Europa wehrt sich gegen die «Flut» chinesischer Autos. Kommen die jetzt auch nach Albanien?"
+    },
+    {
+      "id": "2026-10-16-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump nennt Selenski wegen der Raffinerie-Angriffe ein Hindernis für den Frieden, gespielte Zustimmung: warum verliert die Ukraine nicht einfach höflich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump nennt Selenski ein Hindernis für den Frieden, weil die Ukraine russische Raffinerien angreift. Stimmt, weiss auch nicht, warum sie nicht einfach höflich verliert."
+    },
+    {
+      "id": "2026-10-16-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bundesstudie zu Klimakosten bis 2060, am teuersten für den Wintersport, erleichtert: endlich ein Grund, etwas zu tun",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Klimawandel trifft laut Bund vor allem den Wintersport. Endlich ein Grund, etwas zu tun."
+    },
+    {
+      "id": "2026-10-16-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kaum Kandidaturen für Parmelins Nachfolge, am selben Tag nennt ein Weinhändler Parmelins Weinplan eine Schnapsidee, ratlos über den Zusammenhang",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Kaum jemand will Parmelins Nachfolge antreten, rätselt SRF. Am selben Tag nennt ein Weinhändler seinen letzten Plan eine Schnapsidee, weiss auch nicht, woran das liegt."
     }
   ]
 }
