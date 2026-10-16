@@ -1,55 +1,55 @@
 {
-  "stand": "2026-10-16T08:03:00+02:00",
-  "lauf": "0802",
+  "stand": "2026-10-16T17:00:33+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0802-1",
-      "titel": "Die Romande Céline Amaudruz will in den Bundesrat und setzt die Deutschschweizer SVP unter Druck",
-      "was": "Céline Amaudruz lächelnd vor dem Bundeshaus, Mikrofone, Medienrummel",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist, nämlich den Fels in der Brandung. Achse: angeblicher Traumjob ohne Ansturm gegen eine Kantonalpartei, die mit Krach droht, falls ausgerechnet ihr",
+      "id": "1700-1",
+      "titel": "Liebesaffäre stürzt Bundesgericht ins Chaos",
+      "was": "Bundesgerichtsgebäude in Lausanne, Porträts der beteiligten Richter in Robe",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Ausstand und Befangenheit als würdevolle Justizbegriffe gegen ein gewöhnliches Beziehungsdrama im Büro.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "SRF"
-      ],
-      "artikel": "https://www.nzz.ch/schweiz/die-romande-celine-amaudruz-will-in-den-bundesrat-und-setzt-die-deutschschweizer-svp-unter-druck-ld.10034846",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/15/f539f506-2e9a-44a0-92a8-6baba358ade8.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4923,4923,x0,y0",
-      "zeit": "2026-10-16T05:30+02:00"
-    },
-    {
-      "id": "0802-2",
-      "titel": "«Lächerlicher» Diesel-Deal, Starlink-Beschränkung: Trump treibt einmal mehr einen EU-Gipfel vor sich her",
-      "was": "EU-Staats- und Regierungschefs beim Familienfoto im Brüsseler Ratsgebäude",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: 27 Chefs posieren geschlossen fürs Gruppenfoto, während einer, der gar nicht im Raum steht, die Tagesordnung diktiert.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "Tagesschau"
-      ],
-      "artikel": "https://www.nzz.ch/international/laecherlicher-diesel-deal-starlink-beschraenkung-trump-treibt-einmal-mehr-einen-eu-gipfel-vor-sich-her-ld.10034156",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/15/79c9946e-1349-4897-8b6b-312d533fd87d.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x538,y0",
-      "zeit": "2026-10-16T05:30+02:00"
-    },
-    {
-      "id": "0802-3",
-      "titel": "Neuster Tesla soll dank Gas-Düsen kurze Strecken «fliegen» können",
-      "was": "Elon Musk auf der Bühne neben rotem Tesla Roadster mit Düsen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: seit Jahren versprochenes selbstfahrendes Auto gegen ein Auto, das jetzt immerhin kurz hüpfen kann.",
-      "grund": "memetauglich",
-      "raum": "weltweit",
       "quelle": "20 Minuten",
+      "auch_bei": [
+        "NZZ"
+      ],
+      "artikel": "https://www.20min.ch/story/reihenweise-ausstaende-liebesaffaere-stuerzt-bundesgericht-ins-chaos-103650694",
+      "bild": "https://image.20min.ch/2026/10/16/4c4450c5-75aa-482f-8013-39042af5247b.jpg?s=684c27e260e920950bca28cce058b6df",
+      "zeit": "2026-10-16T12:00+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Deutschland und Frankreich einigen sich auf Aufweichung von Verbrenner-Aus",
+      "was": "Merz und Macron beim Händedruck vor deutschen und französischen Flaggen",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Klimaziele, die für die Bürger streng gelten, gegen Ausnahmen für die eigene Autoindustrie.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "Tagesschau",
+      "auch_bei": [
+        "taz"
+      ],
+      "artikel": "https://www.tagesschau.de/video/video-1667312.html",
+      "bild": "https://images.tagesschau.de/image/fe67da18-6b8b-4f91-bb2d-f1d1c1679f0e/AAABoUSa05o/AAABnSSvrFg/16x9-big/sendungsbild-1812564.jpg?width=1280",
+      "zeit": "2026-10-16T14:06+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Militär an Publikumsmesse – Olmaauftritt der Schweizer Armee sorgt für Kritik",
+      "was": "Armeestand an der Olma mit Simulatoren, Soldaten und neugierigen Besuchern",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: die Armee als Jahrmarktattraktion mit Gamecharakter gegen den Ernst und die Kosten der Landesverteidigung.",
+      "grund": "memetauglich",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/ab-2028-in-produktion-neuster-tesla-soll-dank-gas-duesen-kurze-strecken-fliegen-koennen-103650588",
-      "bild": "https://image.20min.ch/2026/10/16/b3a7ac38-7ed3-47b0-bfe4-da59f88c61fd.png?s=1570e2742e0770bd6cb54c0b39e3be4b",
-      "zeit": "2026-10-16T07:58+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/militaer-an-publikumsmesse-olmaauftritt-der-schweizer-armee-sorgt-fuer-kritik",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/2fdab4.jpg",
+      "zeit": "2026-10-16T13:19+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab Mittag",
-      "was": "Abschluss-Pressekonferenz und Gänge der Chefs im EU-Gipfel in Brüssel"
+      "wann": "heute, laufender EU-Gipfel in Brüssel",
+      "was": "Familienfoto der EU-Spitzen mit Selenskyj, Begrüssungen und Handschläge"
     }
   ],
   "hinweis": ""
