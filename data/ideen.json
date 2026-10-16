@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-16",
-  "hinweis": "7 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Frankreich und Deutschland wollen das Verbrenner-Aus aufweichen. Kodak hätte auch gern die Digitalkamera aufgeweicht."
+    },
+    {
+      "id": "2026-10-16-0757-16",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautos mit Innerrhoder Kennzeichen: Motorfahrzeugsteuer bleibt in Appenzell, der Stau geht gratis nach Zürich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Appenzell Innerrhoden kassiert die Motorfahrzeugsteuer für Tausende Mietautos, den Stau liefert es gratis nach Zürich. Exportweltmeister. Zollfrei."
+    },
+    {
+      "id": "2026-10-16-0757-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bundesgericht streicht CS-Boni, leere Liste der Manager, die freiwillig verzichtet haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Hier alle CS-Manager, die ihren Bonus nach dem Untergang der Bank freiwillig zurückgegeben haben:\n-\n-\nDen Rest hat das Bundesgericht überzeugt. Letztinstanzlich."
+    },
+    {
+      "id": "2026-10-16-0757-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trumps Sprecherin ohne bestandene Anwaltsprüfung gilt im Weissen Haus als überqualifiziert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trumps Sprecherin hat die Anwaltsprüfung nie bestanden. Im Weissen Haus gilt sie damit als überqualifiziert."
     },
     {
       "id": "2026-10-16-0757-22",
