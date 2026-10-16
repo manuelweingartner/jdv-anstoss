@@ -1,8 +1,28 @@
 {
   "datum": "2026-10-16",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "4 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-16-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Bank of America zahlt Milliardenstrafe, weil sie bei Geldwäscherei nicht hinschaute; am selben Tag wird Vincenz-Aufdecker Hässig angeklagt, weil er hinschaute",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Bank of America zahlt eine Milliardenstrafe, weil sie bei Geldwäscherei nicht hinschaute. Am selben Tag klagt Zürich den Journalisten an, der bei Raiffeisen-Chef Vincenz hinschaute."
+    },
+    {
+      "id": "2026-10-16-0757-12",
+      "typ": "remix",
+      "stichwort": "Frankreich und Deutschland wollen das Verbrenner-Aus aufweichen, Streitbild Kodak und Digitalkamera (Remix des unterausgespielten Hai-Streitbilds)",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Frankreich und Deutschland wollen das Verbrenner-Aus aufweichen. Kodak hätte auch gern die Digitalkamera aufgeweicht."
+    },
     {
       "id": "2026-10-16-0757-22",
       "typ": "politisch-aktuell",
