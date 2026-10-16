@@ -4,34 +4,79 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-10-16-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "Bank of America zahlt Milliardenstrafe, weil sie bei Geldwäscherei nicht hinschaute; am selben Tag wird Vincenz-Aufdecker Hässig angeklagt, weil er hinschaute",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
+      "id": "2026-10-16-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Autosalon Paris, Europa stemmt sich gegen billige chinesische Autos, sonst kann sich eine Pflegerin ein Elektroauto leisten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Bank of America zahlt eine Milliardenstrafe, weil sie bei Geldwäscherei nicht hinschaute. Am selben Tag klagt Zürich den Journalisten an, der bei Raiffeisen-Chef Vincenz hinschaute."
+      "format": "frei",
+      "text": "Stimmt, Europa muss sich am Autosalon Paris gegen die Flut billiger chinesischer Autos stemmen. Sonst kann sich am Ende eine Pflegerin ein Elektroauto leisten.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-10-16-0757-12",
-      "typ": "remix",
-      "stichwort": "Frankreich und Deutschland wollen das Verbrenner-Aus aufweichen, Streitbild Kodak und Digitalkamera (Remix des unterausgespielten Hai-Streitbilds)",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "id": "2026-10-16-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump nennt Selenski Hindernis für den Frieden wegen Angriffen auf russische Raffinerien, er soll sich halt leiser wehren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump findet, Selenski behindere den Frieden, weil er russische Raffinerien angreift. Vielleicht sollte er sich einfach leiser wehren, ohne Rauch, am liebsten gar nicht.",
+      "jury": {
+        "neu": true,
+        "witz": false,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-10-16-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kaum Kandidaturen für die Parmelin-Nachfolge, endlich ein Job, den keine Ausländer*innen wegnehmen",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Frankreich und Deutschland wollen das Verbrenner-Aus aufweichen. Kodak hätte auch gern die Digitalkamera aufgeweicht."
+      "text": "Kaum jemand will in den Bundesrat. Endlich ein Job, den uns keine Ausländer*innen wegnehmen.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-10-16-0757-16",
-      "typ": "schnittmenge",
-      "stichwort": "Mietautos mit Innerrhoder Kennzeichen: Motorfahrzeugsteuer bleibt in Appenzell, der Stau geht gratis nach Zürich",
+      "id": "2026-10-16-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Verwaltungsrät*innen, die vor der Nullrunde ihr eigenes Honorar gekürzt haben",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Appenzell Innerrhoden kassiert die Motorfahrzeugsteuer für Tausende Mietautos, den Stau liefert es gratis nach Zürich. Exportweltmeister. Zollfrei."
+      "text": "Hier eine Liste aller Verwaltungsrät*innen, die ihr Honorar gekürzt haben, bevor sie der Belegschaft die Nullrunde erklärt haben:\n-\n-\nDie Präsentation war aber sehr wertschätzend.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-16-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ein Jahresgehalt von Ermotti entspricht dem Medianlohn seit der Gründung des Bundesstaats",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Für ein Jahresgehalt von Sergio Ermotti muss man mit dem Medianlohn seit der Gründung des Bundesstaats arbeiten. Ohne Ferien, ohne Pension, ohne zu sterben.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-16-0757-17",
@@ -41,27 +86,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Hier alle CS-Manager, die ihren Bonus nach dem Untergang der Bank freiwillig zurückgegeben haben:\n-\n-\nDen Rest hat das Bundesgericht überzeugt. Letztinstanzlich."
-    },
-    {
-      "id": "2026-10-16-0757-18",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trumps Sprecherin ohne bestandene Anwaltsprüfung gilt im Weissen Haus als überqualifiziert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Trumps Sprecherin hat die Anwaltsprüfung nie bestanden. Im Weissen Haus gilt sie damit als überqualifiziert."
-    },
-    {
-      "id": "2026-10-16-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Amaudruz will Parmelins Bundesratssitz, die Presse debattiert ihren Mami-Bonus. Leere Liste der Artikel über einen Papi-Bonus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "SVP-Nationalrätin Céline Amaudruz will in den Bundesrat, die Presse fragt nach ihrem Mami-Bonus. Hier alle Artikel über den Papi-Bonus eines Bundesrats:\n-\n-\nThat's it."
+      "text": "Hier alle CS-Manager, die ihren Bonus nach dem Untergang der Bank freiwillig zurückgegeben haben:\n-\n-\nDen Rest hat das Bundesgericht überzeugt. Letztinstanzlich.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-16-0757-23",
@@ -71,7 +101,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 3,
-      "text": "Europa wehrt sich gegen die «Flut» chinesischer Autos. Kommen die jetzt auch nach Albanien?"
+      "text": "Europa wehrt sich gegen die «Flut» chinesischer Autos. Kommen die jetzt auch nach Albanien?",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-16-0757-24",
@@ -81,7 +116,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Trump nennt Selenski ein Hindernis für den Frieden, weil die Ukraine russische Raffinerien angreift. Stimmt, weiss auch nicht, warum sie nicht einfach höflich verliert."
+      "text": "Trump nennt Selenski ein Hindernis für den Frieden, weil die Ukraine russische Raffinerien angreift. Stimmt, weiss auch nicht, warum sie nicht einfach höflich verliert.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-16-0757-25",
@@ -91,17 +131,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Klimawandel trifft laut Bund vor allem den Wintersport. Endlich ein Grund, etwas zu tun."
+      "text": "Klimawandel trifft laut Bund vor allem den Wintersport. Endlich ein Grund, etwas zu tun.",
+      "jury": {
+        "neu": true,
+        "anker": false,
+        "witz": true
+      }
     },
     {
-      "id": "2026-10-16-0757-26",
+      "id": "2026-10-16-0757-30",
       "typ": "politisch-aktuell",
-      "stichwort": "Kaum Kandidaturen für Parmelins Nachfolge, am selben Tag nennt ein Weinhändler Parmelins Weinplan eine Schnapsidee, ratlos über den Zusammenhang",
+      "stichwort": "Angst vor Enteignung, plötzlich ist die Wohnung weg, die einem nie gehört hat",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Kaum jemand will Parmelins Nachfolge antreten, rätselt SRF. Am selben Tag nennt ein Weinhändler seinen letzten Plan eine Schnapsidee, weiss auch nicht, woran das liegt."
+      "text": "Enteignung macht mir Angst. Plötzlich ist die Wohnung weg, die mir nie gehört hat.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
