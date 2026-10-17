@@ -1,8 +1,28 @@
 {
   "datum": "2026-10-17",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-17-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Bundesgericht weist CS-Boni ab, die Manager kämpften für ihre Boni härter als je für die Bank",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Für ihre Boni zogen CS-Manager vors Bundesgericht. Für die Bank nicht mal ins Sitzungszimmer."
+    },
+    {
+      "id": "2026-10-17-0757-12",
+      "typ": "remix",
+      "stichwort": "Datenschützer warnen vor heimlich filmenden Smart Glasses, Angst vor dem Normalzustand (Remix der unterausgespielten Benzin/Horror-Mechanik)",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Brillen von Ray-Ban können jetzt heimlich filmen, warnen Datenschützer. Schrecklich, bald weiss Meta so viel über uns wie heute."
+    },
     {
       "id": "2026-10-17-0757-21",
       "typ": "politisch-aktuell",
