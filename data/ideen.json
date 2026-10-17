@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-17",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -34,6 +34,46 @@
       "text": "Brüssel will Schweizer Firmen zu «Made in Europe» zählen. Furchtbar, diese fremden Beschützer."
     },
     {
+      "id": "2026-10-17-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Unbezahlte Care-Arbeit fehlt im BIP, der Thermomix dafür zählt, mit Mehrwertsteuer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Unbezahlte Care-Arbeit zählt nicht zum Bruttoinlandprodukt, der Thermomix dafür schon. Mit Mehrwertsteuer."
+    },
+    {
+      "id": "2026-10-17-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Eigenmietwert fällt für Hauseigentümer*innen, Mieter*innen zahlen ihren weiter an den Vermieter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hauseigentümer*innen müssen bald keinen Eigenmietwert mehr versteuern. Mieter*innen zahlen ihren weiterhin, jeden Monat an den Vermieter, ohne Abzug."
+    },
+    {
+      "id": "2026-10-17-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuerhinterziehung rechtlich wie Falschparken, die einen vor dem Coop, die anderen auf den Cayman Islands",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Steuerhinterziehung ist in der Schweiz bloss eine Übertretung, rechtlich wie Falschparken. Die einen stehen halt vor dem Coop, die anderen auf den Cayman Islands."
+    },
+    {
+      "id": "2026-10-17-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kampf gegen Enteignung bis zuletzt, um die Wohnung, die man sich nie leisten konnte",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Gegen Enteignungen werde ich kämpfen bis zuletzt. Die Wohnung, die ich mir nie leisten konnte, gebe ich nicht kampflos her."
+    },
+    {
       "id": "2026-10-17-0757-11",
       "typ": "schnittmenge",
       "stichwort": "Bundesgericht weist CS-Boni ab, die Manager kämpften für ihre Boni härter als je für die Bank",
@@ -62,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Schweizer Gewaltopfer im Ausland bekommen keine Opferhilfe mehr. Hier der Ersatz:\n-\n-\nMerkblatt. Als PDF."
-    },
-    {
-      "id": "2026-10-17-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fast jedes fünfte Kind armutsgefährdet, Keller-Sutter muss leider zum IWF nach Bangkok",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Fast jedes fünfte Kind in der Schweiz ist armutsgefährdet. Karin Keller-Sutter so: oje. Sorry, muss nach Bangkok, zum IWF, die Weltwirtschaft wächst ja zum Glück."
-    },
-    {
-      "id": "2026-10-17-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "SVP führt im Wahlbarometer mit Zuwanderung als Mietentreiber, rhetorische Frage an Gregor Rutz vom Hauseigentümerverband",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die SVP liegt im Wahlbarometer vorn, weil Zuwanderung angeblich die Mieten treibt. Wer kassiert die eigentlich, Gregor Rutz, SVP-Nationalrat und Präsident des Hauseigentümerverbands?"
     }
   ]
 }
