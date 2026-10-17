@@ -1,55 +1,56 @@
 {
-  "stand": "2026-10-16T17:00:33+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-17T08:05:11+02:00",
+  "lauf": "0804",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Liebesaffäre stürzt Bundesgericht ins Chaos",
-      "was": "Bundesgerichtsgebäude in Lausanne, Porträts der beteiligten Richter in Robe",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Ausstand und Befangenheit als würdevolle Justizbegriffe gegen ein gewöhnliches Beziehungsdrama im Büro.",
+      "id": "0804-1",
+      "titel": "Trump entlässt Sprecherin des Weißen Hauses, Katie Zacharia",
+      "was": "Katie Zacharia am Rednerpult im Briefing Room des Weissen Hauses",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, nämlich fünf Amtstage an Dingen, die länger halten als dieser Job. Achse: Eine Sprecherin soll für Trump sprechen, aber Trump spricht immer lieber",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
-      "auch_bei": [
-        "NZZ"
-      ],
-      "artikel": "https://www.20min.ch/story/reihenweise-ausstaende-liebesaffaere-stuerzt-bundesgericht-ins-chaos-103650694",
-      "bild": "https://image.20min.ch/2026/10/16/4c4450c5-75aa-482f-8013-39042af5247b.jpg?s=684c27e260e920950bca28cce058b6df",
-      "zeit": "2026-10-16T12:00+02:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Deutschland und Frankreich einigen sich auf Aufweichung von Verbrenner-Aus",
-      "was": "Merz und Macron beim Händedruck vor deutschen und französischen Flaggen",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Klimaziele, die für die Bürger streng gelten, gegen Ausnahmen für die eigene Autoindustrie.",
-      "grund": "breit",
-      "raum": "",
+      "raum": "weltweit",
       "quelle": "Tagesschau",
       "auch_bei": [
-        "taz"
+        "SRF",
+        "Spiegel"
       ],
-      "artikel": "https://www.tagesschau.de/video/video-1667312.html",
-      "bild": "https://images.tagesschau.de/image/fe67da18-6b8b-4f91-bb2d-f1d1c1679f0e/AAABoUSa05o/AAABnSSvrFg/16x9-big/sendungsbild-1812564.jpg?width=1280",
-      "zeit": "2026-10-16T14:06+02:00"
+      "artikel": "https://www.tagesschau.de/tagesthemen/video-1667688.html",
+      "bild": "https://images.tagesschau.de/image/1cb62ed8-8cfd-40ec-a14b-45f54efc0c84/AAABoUZz_fs/AAABnSSvrFg/16x9-big/sendungsbild-1812824.jpg?width=1280",
+      "zeit": "2026-10-16T22:43+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Militär an Publikumsmesse – Olmaauftritt der Schweizer Armee sorgt für Kritik",
-      "was": "Armeestand an der Olma mit Simulatoren, Soldaten und neugierigen Besuchern",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: die Armee als Jahrmarktattraktion mit Gamecharakter gegen den Ernst und die Kosten der Landesverteidigung.",
-      "grund": "memetauglich",
+      "id": "0804-2",
+      "titel": "Wahlbarometer 2026 – Die Mächtigste, der Beliebteste und das Schlusslicht im Bundesrat",
+      "was": "Offizielles Bundesratsfoto, alle sieben Mitglieder in Reihe aufgestellt",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Gruppenbild als Klassenfoto mit Rangliste nach Sympathie. Achse: Das Kollegialitätsprinzip kennt nur ein Gremium, das Wahlbarometer macht daraus eine T",
+      "grund": "breit",
       "raum": "schweiz",
       "quelle": "SRF",
+      "auch_bei": [
+        "20 Minuten"
+      ],
+      "artikel": "https://www.srf.ch/news/schweiz/wahlbarometer-2026-die-maechtigste-der-beliebteste-und-das-schlusslicht-im-bundesrat",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/53ef0a.jpg",
+      "zeit": "2026-10-16T18:24+02:00"
+    },
+    {
+      "id": "0804-3",
+      "titel": "Wales: Abgeordneter Jason O'Connell nutzt offenbar KI-Brille als Teleprompter für seine Rede",
+      "was": "Walisischer Abgeordneter mit smarter Brille spricht frei am Pult",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Brille, die eigentlich die Rede hält. Achse: Der Applaus für die freie Rede gegen die Gedanken, die nur abgelesen sind.",
+      "grund": "memetauglich",
+      "raum": "",
+      "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/militaer-an-publikumsmesse-olmaauftritt-der-schweizer-armee-sorgt-fuer-kritik",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/2fdab4.jpg",
-      "zeit": "2026-10-16T13:19+02:00"
+      "artikel": "https://www.spiegel.de/netzwelt/gadgets/wales-abgeordneter-jason-oconnell-nutzt-offenbar-ki-brille-als-teleprompter-fuer-seine-rede-a-fdee0fe5-e3a5-4459-b286-9a468ccec674#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/74aa3268-90e3-4f16-a67c-fd195d35d09f_w520_r2.08_fpx43.74_fpy44.99.jpg",
+      "zeit": "2026-10-16T21:33+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, laufender EU-Gipfel in Brüssel",
-      "was": "Familienfoto der EU-Spitzen mit Selenskyj, Begrüssungen und Handschläge"
+      "wann": "heute im Lauf des Tages",
+      "was": "Friedrich Merz auf der Bühne beim Deutschlandtag der Jungen Union, neben dem wiedergewählten Johannes Winkel"
     }
   ],
   "hinweis": ""
