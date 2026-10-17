@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-17",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -12,6 +12,21 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "St. Gallen jagt Raser jetzt mit Drohnen, Rechtsexpert*innen sind besorgt. Seh ich das richtig, Überwachung wird erst zum Problem, wenn sie keine IV-Bezüger*innen trifft?",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-17-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "EU will Schweizer Firmen zu «Made in Europe» zählen, Angst vor fremden Beschützern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Brüssel will Schweizer Firmen zu «Made in Europe» zählen. Furchtbar, diese fremden Beschützer.",
       "jury": {
         "witz": false,
         "anker": true,
@@ -44,21 +59,6 @@
       "text": "Steuerhinterziehung ist in der Schweiz bloss eine Übertretung, rechtlich wie Falschparken. Die einen stehen halt vor dem Coop, die anderen auf den Cayman Islands.",
       "jury": {
         "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-17-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kampf gegen Enteignung bis zuletzt, um die Wohnung, die man sich nie leisten konnte",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Gegen Enteignungen werde ich kämpfen bis zuletzt. Die Wohnung, die ich mir nie leisten konnte, gebe ich nicht kampflos her.",
-      "jury": {
-        "anker": false,
         "neu": true,
         "witz": true
       }
@@ -121,21 +121,6 @@
         "anker": true,
         "neu": true,
         "witz": true
-      }
-    },
-    {
-      "id": "2026-10-17-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "Bundesgericht: CS-Manager bekommen für den Untergang keine Boni, die Untergrenze fürs Nicht-Belohnen ist eine ganze Bank",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Wie schlecht muss man eigentlich arbeiten, damit es in der Schweiz keinen Bonus mehr gibt? Das Bundesgericht hat die Untergrenze jetzt festgelegt: eine ganze Credit Suisse.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
       }
     },
     {
