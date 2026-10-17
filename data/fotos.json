@@ -1,17 +1,16 @@
 {
-  "stand": "2026-10-17T08:05:11+02:00",
-  "lauf": "0804",
+  "stand": "2026-10-17T17:00:34+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0804-1",
+      "id": "1700-1",
       "titel": "Trump entlässt Sprecherin des Weißen Hauses, Katie Zacharia",
-      "was": "Katie Zacharia am Rednerpult im Briefing Room des Weissen Hauses",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, nämlich fünf Amtstage an Dingen, die länger halten als dieser Job. Achse: Eine Sprecherin soll für Trump sprechen, aber Trump spricht immer lieber",
+      "was": "Neue Sprecherin am Pult im Briefing Room des Weissen Hauses",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, die Amtszeit gegen Dinge stellen, die länger halten. Achse: Ein Amt, das Stabilität ausstrahlen soll, gegen einen Chef, der Personal wie Einwegwar",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Tagesschau",
       "auch_bei": [
-        "SRF",
         "Spiegel"
       ],
       "artikel": "https://www.tagesschau.de/tagesthemen/video-1667688.html",
@@ -19,38 +18,38 @@
       "zeit": "2026-10-16T22:43+02:00"
     },
     {
-      "id": "0804-2",
-      "titel": "Wahlbarometer 2026 – Die Mächtigste, der Beliebteste und das Schlusslicht im Bundesrat",
-      "was": "Offizielles Bundesratsfoto, alle sieben Mitglieder in Reihe aufgestellt",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Gruppenbild als Klassenfoto mit Rangliste nach Sympathie. Achse: Das Kollegialitätsprinzip kennt nur ein Gremium, das Wahlbarometer macht daraus eine T",
+      "id": "1700-2",
+      "titel": "\"Ist gemischt angekommen\", Philip Kuntschner, ARD Berlin, zur Merz-Rede beim \"Deutschlandtag\" der JU",
+      "was": "Merz am Rednerpult vor jubelnder oder skeptischer Junger Union",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Werben um den Nachwuchs als etwas anderes lesen. Achse: Ein Kanzler, der den Jungen schmeichelt, gegen Junge, die vor allem über die eigene Rente strei",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "20 Minuten"
+        "Spiegel"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/wahlbarometer-2026-die-maechtigste-der-beliebteste-und-das-schlusslicht-im-bundesrat",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/53ef0a.jpg",
-      "zeit": "2026-10-16T18:24+02:00"
+      "artikel": "https://www.tagesschau.de/video/video-1667852.html",
+      "bild": "https://images.tagesschau.de/image/6f6392db-11eb-48d5-8480-765b840cfc5f/AAABoUm3UIs/AAABnSSvrFg/16x9-big/sendungsbild-1813032.jpg?width=1280",
+      "zeit": "2026-10-17T13:56+02:00"
     },
     {
-      "id": "0804-3",
-      "titel": "Wales: Abgeordneter Jason O'Connell nutzt offenbar KI-Brille als Teleprompter für seine Rede",
-      "was": "Walisischer Abgeordneter mit smarter Brille spricht frei am Pult",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Brille, die eigentlich die Rede hält. Achse: Der Applaus für die freie Rede gegen die Gedanken, die nur abgelesen sind.",
+      "id": "1700-3",
+      "titel": "SVP-Delegiertenversammlung – SVP-Delegierte lehnt Erhöhung der Mehrwertsteuer für AHV ab",
+      "was": "SVP-Delegierte heben Stimmkarten im Saal, Wahlkampfauftakt mit Fahnen",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Eine Partei mit älterer Stammwählerschaft feiert die AHV und lehnt ab, was sie finanzieren würde.",
       "grund": "memetauglich",
-      "raum": "",
-      "quelle": "Spiegel",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.spiegel.de/netzwelt/gadgets/wales-abgeordneter-jason-oconnell-nutzt-offenbar-ki-brille-als-teleprompter-fuer-seine-rede-a-fdee0fe5-e3a5-4459-b286-9a468ccec674#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/74aa3268-90e3-4f16-a67c-fd195d35d09f_w520_r2.08_fpx43.74_fpy44.99.jpg",
-      "zeit": "2026-10-16T21:33+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/svp-delegiertenversammlung-svp-delegierte-lehnt-erhoehung-der-mehrwertsteuer-fuer-ahv-ab",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/39d11ec.jpg",
+      "zeit": "2026-10-17T16:58+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute im Lauf des Tages",
-      "was": "Friedrich Merz auf der Bühne beim Deutschlandtag der Jungen Union, neben dem wiedergewählten Johannes Winkel"
+      "wann": "heute, laufend",
+      "was": "Weitere Auftritte beim Deutschlandtag der Jungen Union, Redner auf der Bühne und Applausszenen"
     }
   ],
   "hinweis": ""
