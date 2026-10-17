@@ -18808,6 +18808,102 @@
       "format": "frei",
       "text": "Gute Nachricht vom IWF, die Weltwirtschaft wächst trotz allem. Am selben Tag sind in den USA die Munitionslager leer, schwer zu sagen, ob trotz oder wegen.",
       "datum": "2026-10-14"
+    },
+    {
+      "id": "2026-10-16-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Autosalon Paris, Europa stemmt sich gegen billige chinesische Autos, sonst kann sich eine Pflegerin ein Elektroauto leisten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Europa muss sich am Autosalon Paris gegen die Flut billiger chinesischer Autos stemmen. Sonst kann sich am Ende eine Pflegerin ein Elektroauto leisten.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      },
+      "datum": "2026-10-16"
+    },
+    {
+      "id": "2026-10-16-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump nennt Selenski Hindernis für den Frieden wegen Angriffen auf russische Raffinerien, er soll sich halt leiser wehren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump findet, Selenski behindere den Frieden, weil er russische Raffinerien angreift. Vielleicht sollte er sich einfach leiser wehren, ohne Rauch, am liebsten gar nicht.",
+      "jury": {
+        "neu": true,
+        "witz": false,
+        "anker": true
+      },
+      "datum": "2026-10-16"
+    },
+    {
+      "id": "2026-10-16-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Studie: kluge Frauen finden Partner, ungebildete Männer bleiben allein, schuld ist natürlich der Feminismus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Studie: Kluge Frauen finden Partner, ungebildete Männer bleiben allein. Stimmt, alles Feminismus: Frauen bekamen Bücher, Männer warteten auf den Joe-Rogan-Podcast.",
+      "jury": {
+        "neu": true,
+        "witz": false,
+        "anker": true
+      },
+      "datum": "2026-10-16"
+    },
+    {
+      "id": "2026-10-16-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Verwaltungsrät*innen, die vor der Nullrunde ihr eigenes Honorar gekürzt haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier eine Liste aller Verwaltungsrät*innen, die ihr Honorar gekürzt haben, bevor sie der Belegschaft die Nullrunde erklärt haben:\n-\n-\nDie Präsentation war aber sehr wertschätzend.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-10-16"
+    },
+    {
+      "id": "2026-10-16-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ein Jahresgehalt von Ermotti entspricht dem Medianlohn seit der Gründung des Bundesstaats",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Für ein Jahresgehalt von Sergio Ermotti muss man mit dem Medianlohn seit der Gründung des Bundesstaats arbeiten. Ohne Ferien, ohne Pension, ohne zu sterben.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-10-16"
+    },
+    {
+      "id": "2026-10-16-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bundesstudie zu Klimakosten bis 2060, am teuersten für den Wintersport, erleichtert: endlich ein Grund, etwas zu tun",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Klimawandel trifft laut Bund vor allem den Wintersport. Endlich ein Grund, etwas zu tun.",
+      "jury": {
+        "neu": true,
+        "anker": false,
+        "witz": true
+      },
+      "datum": "2026-10-16"
     }
   ]
 }
