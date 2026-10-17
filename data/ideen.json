@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-17",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-17-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "St. Gallen jagt Raser mit Drohnen, Rechtsexpert*innen besorgt, bei IV-Bezüger*innen war Überwachung nie ein Problem",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "St. Gallen jagt Raser jetzt mit Drohnen, Rechtsexpert*innen sind besorgt. Seh ich das richtig, Überwachung wird erst zum Problem, wenn sie keine IV-Bezüger*innen trifft?"
+    },
+    {
+      "id": "2026-10-17-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Notfallplan von Postfinance fällt erneut durch, Banken warnen vor zu viel Regulierung, sonst müsste der Plan noch funktionieren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Notfallplan von Postfinance fällt erneut durch, und die Banken warnen vor zu viel Regulierung. Stimmt, am Ende müsste so ein Plan noch funktionieren, im Notfall."
+    },
+    {
+      "id": "2026-10-17-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "EU will Schweizer Firmen zu «Made in Europe» zählen, Angst vor fremden Beschützern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Brüssel will Schweizer Firmen zu «Made in Europe» zählen. Furchtbar, diese fremden Beschützer."
+    },
     {
       "id": "2026-10-17-0757-11",
       "typ": "schnittmenge",
