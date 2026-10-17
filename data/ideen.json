@@ -11,37 +11,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "St. Gallen jagt Raser jetzt mit Drohnen, Rechtsexpert*innen sind besorgt. Seh ich das richtig, Überwachung wird erst zum Problem, wenn sie keine IV-Bezüger*innen trifft?"
-    },
-    {
-      "id": "2026-10-17-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Notfallplan von Postfinance fällt erneut durch, Banken warnen vor zu viel Regulierung, sonst müsste der Plan noch funktionieren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Der Notfallplan von Postfinance fällt erneut durch, und die Banken warnen vor zu viel Regulierung. Stimmt, am Ende müsste so ein Plan noch funktionieren, im Notfall."
-    },
-    {
-      "id": "2026-10-17-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "EU will Schweizer Firmen zu «Made in Europe» zählen, Angst vor fremden Beschützern",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Brüssel will Schweizer Firmen zu «Made in Europe» zählen. Furchtbar, diese fremden Beschützer."
-    },
-    {
-      "id": "2026-10-17-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Unbezahlte Care-Arbeit fehlt im BIP, der Thermomix dafür zählt, mit Mehrwertsteuer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Unbezahlte Care-Arbeit zählt nicht zum Bruttoinlandprodukt, der Thermomix dafür schon. Mit Mehrwertsteuer."
+      "text": "St. Gallen jagt Raser jetzt mit Drohnen, Rechtsexpert*innen sind besorgt. Seh ich das richtig, Überwachung wird erst zum Problem, wenn sie keine IV-Bezüger*innen trifft?",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-17-0757-08",
@@ -51,7 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Hauseigentümer*innen müssen bald keinen Eigenmietwert mehr versteuern. Mieter*innen zahlen ihren weiterhin, jeden Monat an den Vermieter, ohne Abzug."
+      "text": "Hauseigentümer*innen müssen bald keinen Eigenmietwert mehr versteuern. Mieter*innen zahlen ihren weiterhin, jeden Monat an den Vermieter, ohne Abzug.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-17-0757-09",
@@ -61,7 +41,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Steuerhinterziehung ist in der Schweiz bloss eine Übertretung, rechtlich wie Falschparken. Die einen stehen halt vor dem Coop, die anderen auf den Cayman Islands."
+      "text": "Steuerhinterziehung ist in der Schweiz bloss eine Übertretung, rechtlich wie Falschparken. Die einen stehen halt vor dem Coop, die anderen auf den Cayman Islands.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-17-0757-10",
@@ -71,7 +56,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Gegen Enteignungen werde ich kämpfen bis zuletzt. Die Wohnung, die ich mir nie leisten konnte, gebe ich nicht kampflos her."
+      "text": "Gegen Enteignungen werde ich kämpfen bis zuletzt. Die Wohnung, die ich mir nie leisten konnte, gebe ich nicht kampflos her.",
+      "jury": {
+        "anker": false,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-17-0757-11",
@@ -81,7 +71,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Für ihre Boni zogen CS-Manager vors Bundesgericht. Für die Bank nicht mal ins Sitzungszimmer."
+      "text": "Für ihre Boni zogen CS-Manager vors Bundesgericht. Für die Bank nicht mal ins Sitzungszimmer.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-10-17-0757-12",
@@ -91,17 +86,72 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Brillen von Ray-Ban können jetzt heimlich filmen, warnen Datenschützer. Schrecklich, bald weiss Meta so viel über uns wie heute."
+      "text": "Brillen von Ray-Ban können jetzt heimlich filmen, warnen Datenschützer. Schrecklich, bald weiss Meta so viel über uns wie heute.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-17-0757-21",
+      "id": "2026-10-17-0757-17",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne eigenes Frauenhaus, Kanton leiht es sich beim Nachbarn wie einen Rasenmäher",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Thurgau so: eigenes Frauenhaus? Wieso, kann man doch beim Nachbarkanton ausleihen, wie den Rasenmäher.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-17-0757-28",
       "typ": "politisch-aktuell",
-      "stichwort": "Schweizer Gewaltopfer im Ausland bekommen keine Opferhilfe mehr, leere Liste der Ersatzleistungen, am Ende ein Merkblatt",
+      "stichwort": "Bewerbungsgespräch: HR will den letzten Lohn wissen, der Lohn des Chefs ist Privatsache",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "HR so: Und was haben Sie bisher verdient? Du so: Und was verdient mein künftiger Chef? HR so: Also bitte, Lohn ist Privatsache.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-17-0757-31",
+      "typ": "schnittmenge",
+      "stichwort": "Bundesgericht: CS-Manager bekommen für den Untergang keine Boni, die Untergrenze fürs Nicht-Belohnen ist eine ganze Bank",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Wie schlecht muss man eigentlich arbeiten, damit es in der Schweiz keinen Bonus mehr gibt? Das Bundesgericht hat die Untergrenze jetzt festgelegt: eine ganze Credit Suisse.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-17-0757-32",
+      "typ": "remix",
+      "stichwort": "Musk will die Republikaner mit Rekordspenden retten, nicht aus Überzeugung, Twitter ist schon kaputt (Remix der unterausgespielten Korrektur-Pointe)",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Schweizer Gewaltopfer im Ausland bekommen keine Opferhilfe mehr. Hier der Ersatz:\n-\n-\nMerkblatt. Als PDF."
+      "format": 14,
+      "text": "Elon Musk will mit Rekordspenden die Republikaner retten. Nicht aus Überzeugung, Twitter ist schon kaputt.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
