@@ -1,142 +1,27 @@
 {
-  "datum": "2026-10-17",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "datum": "2026-10-18",
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-10-17-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "St. Gallen jagt Raser mit Drohnen, Rechtsexpert*innen besorgt, bei IV-Bezüger*innen war Überwachung nie ein Problem",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "St. Gallen jagt Raser jetzt mit Drohnen, Rechtsexpert*innen sind besorgt. Seh ich das richtig, Überwachung wird erst zum Problem, wenn sie keine IV-Bezüger*innen trifft?",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-17-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "EU will Schweizer Firmen zu «Made in Europe» zählen, Angst vor fremden Beschützern",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Brüssel will Schweizer Firmen zu «Made in Europe» zählen. Furchtbar, diese fremden Beschützer.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-17-0757-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Eigenmietwert fällt für Hauseigentümer*innen, Mieter*innen zahlen ihren weiter an den Vermieter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hauseigentümer*innen müssen bald keinen Eigenmietwert mehr versteuern. Mieter*innen zahlen ihren weiterhin, jeden Monat an den Vermieter, ohne Abzug.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-17-0757-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Steuerhinterziehung rechtlich wie Falschparken, die einen vor dem Coop, die anderen auf den Cayman Islands",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Steuerhinterziehung ist in der Schweiz bloss eine Übertretung, rechtlich wie Falschparken. Die einen stehen halt vor dem Coop, die anderen auf den Cayman Islands.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-17-0757-11",
+      "id": "2026-10-18-0757-11",
       "typ": "schnittmenge",
-      "stichwort": "Bundesgericht weist CS-Boni ab, die Manager kämpften für ihre Boni härter als je für die Bank",
+      "stichwort": "Notfallplan der Postfinance fällt erneut durch und bekommt Zeit zum Nachbessern, Arbeitslosen fehlt eine Bewerbung und sie bekommen Zeit zum Hungern",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Fällt der Notfallplan der Postfinance erneut durch, gibt's Zeit zum «Nachbessern». Fehlt Arbeitslosen eine Bewerbung, gibt's Zeit zum Hungern."
+    },
+    {
+      "id": "2026-10-18-0757-12",
+      "typ": "remix",
+      "stichwort": "Rund 200 Verkehrstote im Jahr, geschützt wird in der Schweiz der Parkplatz (Remix der unterausgespielten Gewerkschaften/Bank-Mechanik)",
       "plattform": "Threads + Bluesky + IG-Textgrafik",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Für ihre Boni zogen CS-Manager vors Bundesgericht. Für die Bank nicht mal ins Sitzungszimmer.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-10-17-0757-12",
-      "typ": "remix",
-      "stichwort": "Datenschützer warnen vor heimlich filmenden Smart Glasses, Angst vor dem Normalzustand (Remix der unterausgespielten Benzin/Horror-Mechanik)",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Brillen von Ray-Ban können jetzt heimlich filmen, warnen Datenschützer. Schrecklich, bald weiss Meta so viel über uns wie heute.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-17-0757-17",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau ohne eigenes Frauenhaus, Kanton leiht es sich beim Nachbarn wie einen Rasenmäher",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Thurgau so: eigenes Frauenhaus? Wieso, kann man doch beim Nachbarkanton ausleihen, wie den Rasenmäher.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-17-0757-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bewerbungsgespräch: HR will den letzten Lohn wissen, der Lohn des Chefs ist Privatsache",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "HR so: Und was haben Sie bisher verdient? Du so: Und was verdient mein künftiger Chef? HR so: Also bitte, Lohn ist Privatsache.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-17-0757-32",
-      "typ": "remix",
-      "stichwort": "Musk will die Republikaner mit Rekordspenden retten, nicht aus Überzeugung, Twitter ist schon kaputt (Remix der unterausgespielten Korrektur-Pointe)",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Elon Musk will mit Rekordspenden die Republikaner retten. Nicht aus Überzeugung, Twitter ist schon kaputt.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
+      "format": 10,
+      "text": "200 Schweizer Verkehrstote im Jahr. Wer geschützt werden will, soll halt Parkplatz werden."
     }
   ]
 }
