@@ -1,56 +1,52 @@
 {
-  "stand": "2026-10-17T17:00:34+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-18T08:05:56+02:00",
+  "lauf": "0805",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Trump entlässt Sprecherin des Weißen Hauses, Katie Zacharia",
-      "was": "Neue Sprecherin am Pult im Briefing Room des Weissen Hauses",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, die Amtszeit gegen Dinge stellen, die länger halten. Achse: Ein Amt, das Stabilität ausstrahlen soll, gegen einen Chef, der Personal wie Einwegwar",
+      "id": "0805-1",
+      "titel": "USA: Landesweite »No Kings«-Proteste vor Midtermwahlen",
+      "was": "Bunt kostümierte Demonstrierende mit Kronen-Plakaten und aufblasbaren Tierkostümen in US-Städten",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Kostümfest auf der Strasse gegen Machtanspruch im Weissen Haus, und wer davon eigentlich der Monarch ist.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Tagesschau",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "Spiegel"
+        "SRF",
+        "Tagesschau"
       ],
-      "artikel": "https://www.tagesschau.de/tagesthemen/video-1667688.html",
-      "bild": "https://images.tagesschau.de/image/1cb62ed8-8cfd-40ec-a14b-45f54efc0c84/AAABoUZz_fs/AAABnSSvrFg/16x9-big/sendungsbild-1812824.jpg?width=1280",
-      "zeit": "2026-10-16T22:43+02:00"
+      "artikel": "https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen-a-edf27c1c-ba80-4336-8a20-3acb1e009d0b#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/9d33d04e-e5c7-4d27-926b-6e3661b15dbf_w520_r2.08_fpx79_fpy65.jpg",
+      "zeit": "2026-10-18T07:29+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "\"Ist gemischt angekommen\", Philip Kuntschner, ARD Berlin, zur Merz-Rede beim \"Deutschlandtag\" der JU",
-      "was": "Merz am Rednerpult vor jubelnder oder skeptischer Junger Union",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Werben um den Nachwuchs als etwas anderes lesen. Achse: Ein Kanzler, der den Jungen schmeichelt, gegen Junge, die vor allem über die eigene Rente strei",
+      "id": "0805-2",
+      "titel": "Schutzwald unter Druck – Zaun für Schutzwald: Ein schweizweit einzigartiges Projekt",
+      "was": "Langer Holzzaun quer durch einen kargen Bergwald in der Surselva",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: drei Kilometer Zaun für ein paar Bäume gegen die Schweizer Lust, alles einzuzäunen, was Schutz braucht.",
       "grund": "breit",
-      "raum": "",
-      "quelle": "Tagesschau",
-      "auch_bei": [
-        "Spiegel"
-      ],
-      "artikel": "https://www.tagesschau.de/video/video-1667852.html",
-      "bild": "https://images.tagesschau.de/image/6f6392db-11eb-48d5-8480-765b840cfc5f/AAABoUm3UIs/AAABnSSvrFg/16x9-big/sendungsbild-1813032.jpg?width=1280",
-      "zeit": "2026-10-17T13:56+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "SVP-Delegiertenversammlung – SVP-Delegierte lehnt Erhöhung der Mehrwertsteuer für AHV ab",
-      "was": "SVP-Delegierte heben Stimmkarten im Saal, Wahlkampfauftakt mit Fahnen",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Eine Partei mit älterer Stammwählerschaft feiert die AHV und lehnt ab, was sie finanzieren würde.",
-      "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "SRF",
-      "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/svp-delegiertenversammlung-svp-delegierte-lehnt-erhoehung-der-mehrwertsteuer-fuer-ahv-ab",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/39d11ec.jpg",
-      "zeit": "2026-10-17T16:58+02:00"
-    }
-  ],
-  "erwartet": [
+      "auch_bei": [
+        "NZZ"
+      ],
+      "artikel": "https://www.srf.ch/news/schweiz/schutzwald-unter-druck-zaun-fuer-schutzwald-ein-schweizweit-einzigartiges-projekt",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/caafe7.jpg",
+      "zeit": "2026-10-17T19:04+02:00"
+    },
     {
-      "wann": "heute, laufend",
-      "was": "Weitere Auftritte beim Deutschlandtag der Jungen Union, Redner auf der Bühne und Applausszenen"
+      "id": "0805-3",
+      "titel": "Darüber spricht Belgrad: Aleksandar Vucic spricht mit einem Stein. Das findet fast niemand lustig",
+      "was": "Aleksandar Vucic steht ernst neben einem grossen Stein und spricht",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: ein Stein als Gesprächspartner, den man nicht fürchten muss, gegen Studierende, mit denen man nicht reden will.",
+      "grund": "memetauglich",
+      "raum": "",
+      "quelle": "NZZ",
+      "auch_bei": [],
+      "artikel": "https://www.nzz.ch/international/darueber-spricht-belgrad-aleksandar-vucic-spricht-mit-einem-stein-das-findet-fast-niemand-lustig-ld.10034856",
+      "bild": "https://img-msp-prod.nzz.ch/2026/10/15/d5c2bb47-b835-4dad-8b0b-02ae618369a9.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=400,400,x0,y266",
+      "zeit": "2026-10-18T05:30+02:00"
     }
   ],
+  "erwartet": [],
   "hinweis": ""
 }
