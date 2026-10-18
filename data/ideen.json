@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-18",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -54,6 +54,36 @@
       "text": "200 Schweizer Verkehrstote im Jahr. Wer geschützt werden will, soll halt Parkplatz werden."
     },
     {
+      "id": "2026-10-18-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Frankreich protestiert gegen hohe Lebenshaltungskosten, gleiche Woche werden die Supermarkt-Kühlschränke gehackt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Frankreich protestiert gegen die hohen Lebenshaltungskosten, gleiche Woche hacken Unbekannte die Kühlschränke der Supermärkte. Die Butter schmilzt, die Marge nicht."
+    },
+    {
+      "id": "2026-10-18-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nidwaldner Teakfirma pleite, 200 Millionen weg, die Eltern hatten es gratis gesagt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 17,
+      "text": "Geld wächst nicht auf Bäumen, sagen Eltern gratis. Eine Nidwaldner Teakfirma hat es Tausenden Anleger*innen für 200 Millionen Franken bestätigt, kurz vor der Pleite."
+    },
+    {
+      "id": "2026-10-18-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "SVP-Machtkampf um Parmelins Sitz, Zürich gegen Romandie, ein Herkunftsstreit ohne Ausschaffung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "SVP-Machtkampf um Parmelins Bundesratssitz: Zürich gegen Romandie. Endlich ein Herkunftsstreit ohne Ausschaffung, vorerst."
+    },
+    {
       "id": "2026-10-18-0757-24",
       "typ": "politisch-aktuell",
       "stichwort": "Abstimmung über höhere Mehrwertsteuer, sie treffe ja alle gleich: Pflegerin und UBS-Chef putzen gleich oft die Zähne",
@@ -72,16 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Ein Roboter hat in Köln eine 16-Jährige begrapscht, live gestreamt. Bitte jetzt nicht alle Roboter unter Generalverdacht stellen, der hat bestimmt selbst eine Tochter."
-    },
-    {
-      "id": "2026-10-18-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Citroën baut die Ente elektrisch neu, früher war alles besser, sogar die Zukunft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Citroën baut die Ente neu, elektrisch. Stimmt, früher war alles besser, sogar die Zukunft."
     }
   ]
 }
