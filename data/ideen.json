@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-18",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -79,6 +79,36 @@
       }
     },
     {
+      "id": "2026-10-18-0757-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Marseille stürmt wegen der Preise das Rathaus, am selben Tag zeigt Tesla ein Auto, das abhebt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Demonstrierende stürmen in Marseille das Rathaus, weil sie die Preise nicht mehr zahlen können. Am selben Tag zeigt Tesla ein Auto, das abhebt. Jetzt auch technisch.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-10-18-0757-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trumps Pressesprecherin tritt wegen Lügen im Lebenslauf zurück, im Weissen Haus eigentlich die Arbeitsprobe",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trumps Pressesprecherin tritt zurück, weil sie im Lebenslauf gelogen hat. Seit wann ist das im Weissen Haus ein Ausschlussgrund und nicht die Arbeitsprobe?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
       "id": "2026-10-18-0757-22",
       "typ": "politisch-aktuell",
       "stichwort": "Nidwaldner Teakfirma pleite, 200 Millionen weg, die Eltern hatten es gratis gesagt",
@@ -91,36 +121,6 @@
         "witz": true,
         "anker": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-10-18-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "SVP-Machtkampf um Parmelins Sitz, Zürich gegen Romandie, ein Herkunftsstreit ohne Ausschaffung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "SVP-Machtkampf um Parmelins Bundesratssitz: Zürich gegen Romandie. Endlich ein Herkunftsstreit ohne Ausschaffung, vorerst.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-18-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Abstimmung über höhere Mehrwertsteuer, sie treffe ja alle gleich: Pflegerin und UBS-Chef putzen gleich oft die Zähne",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Mehrwertsteuer rauf, sie trifft ja alle gleich. Die Pflegerin und der UBS-Chef putzen sich schliesslich gleich oft die Zähne, wo ist das Problem?",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
       }
     },
     {
