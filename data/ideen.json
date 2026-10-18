@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-18",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "evergreen",
       "format": 10,
       "text": "200 Schweizer Verkehrstote im Jahr. Wer geschützt werden will, soll halt Parkplatz werden."
+    },
+    {
+      "id": "2026-10-18-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Abstimmung über höhere Mehrwertsteuer, sie treffe ja alle gleich: Pflegerin und UBS-Chef putzen gleich oft die Zähne",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Mehrwertsteuer rauf, sie trifft ja alle gleich. Die Pflegerin und der UBS-Chef putzen sich schliesslich gleich oft die Zähne, wo ist das Problem?"
+    },
+    {
+      "id": "2026-10-18-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Roboter begrapscht in Köln eine 16-Jährige, bitte keinen Generalverdacht gegen Roboter, der hat bestimmt selbst eine Tochter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ein Roboter hat in Köln eine 16-Jährige begrapscht, live gestreamt. Bitte jetzt nicht alle Roboter unter Generalverdacht stellen, der hat bestimmt selbst eine Tochter."
+    },
+    {
+      "id": "2026-10-18-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Citroën baut die Ente elektrisch neu, früher war alles besser, sogar die Zukunft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Citroën baut die Ente neu, elektrisch. Stimmt, früher war alles besser, sogar die Zukunft."
     }
   ]
 }
