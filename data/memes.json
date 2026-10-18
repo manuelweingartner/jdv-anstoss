@@ -1,46 +1,46 @@
 {
-  "stand": "2026-10-17T08:05:43+02:00",
+  "stand": "2026-10-18T08:06:25+02:00",
   "vorschlaege": [
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Die Mitte ist keine Position"
+        "Versagen ist keine Bonusleistung"
       ],
-      "warum": "das Wahlbarometer zeigt die Mitte im Schwitzkasten der Pole, und die These ist so wahr, dass niemand am Tisch widersprechen kann",
+      "warum": "Diese These kann man nicht widerlegen, nur die CS-Manager mussten trotzdem bis vors Bundesgericht.",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Menschenschweiss und Schmerzschreie",
-        "Ein Zaun",
-        "Kanton Zürich"
+        "Wahlkampf 2027",
+        "AHV-Finanzierung",
+        "SVP-Delegierte"
       ],
-      "warum": "die Behörde reisst das Steuer in letzter Sekunde zur absurdesten Lösung herum, während die naheliegende liegen bleibt",
+      "warum": "Die Delegierten reissen das Steuer ein Jahr vor den Wahlen herum, und die AHV bleibt auf der Geraden stehen.",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Credit Suisse 1856",
-        "Alfred Escher baut Eisenbahnen",
-        "Credit Suisse 2026",
-        "Manager klagen auf Boni"
+        "Citroën 1948",
+        "erfindet die Ente",
+        "Citroën 2026",
+        "erfindet die Ente nochmal"
       ],
-      "warum": "der Gründermythos steht neben Managern, die nach dem Untergang noch vor Bundesgericht um ihre Boni betteln",
+      "warum": "Früher kam eine Idee, heute kommt dieselbe Idee nochmals, und der Abstieg erzählt sich ganz ohne Kommentar.",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Gehalt verschweigen, Büro leer",
-        "Diskrete Präsidialführung"
+        "Menschenschweiss gegen Wildschweine",
+        "Olfaktorische Vergrämung, Kanton Zürich"
       ],
-      "warum": "die Vorwürfe gegen Infantino brauchen nur die vornehme Verpackung, damit sie wie FIFA-Pressesprech klingen",
+      "warum": "Der Kanton macht aus Gestank und Schmerzschreien ein Fachwort, und erst die Verpackung macht es absurd.",
       "bild": "vorschlag-4.jpg"
     }
   ]
