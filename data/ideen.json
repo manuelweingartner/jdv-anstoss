@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-18",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-18-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Berufe, in denen man sich den Rücken kaputt macht und davon Wohneigentum kaufen kann, einziger Eintrag Profifussball",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Berufe, in denen man sich den Rücken kaputt macht und davon eine Eigentumswohnung kaufen kann:\n-\n-\n- Profifussball"
+    },
+    {
+      "id": "2026-10-18-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf die Wohnung, die jedes Jahr mehr wert wird, nur nicht für die Person, die darin wohnt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so regelmässig mehr wert werden wie die Wohnung, die man nicht besitzt."
+    },
+    {
+      "id": "2026-10-18-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ab wie vielen Wohnungen gilt Nichtstun als Leistung, Frage an die «Leistung muss sich lohnen»-Plakate",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ab wie vielen Wohnungen gilt Nichtstun eigentlich als Leistung? Frage für alle, die «Leistung muss sich lohnen» plakatieren."
+    },
     {
       "id": "2026-10-18-0757-11",
       "typ": "schnittmenge",
