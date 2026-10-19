@@ -1,57 +1,50 @@
 {
-  "stand": "2026-10-18T17:00:36+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-19T20:37:33+02:00",
+  "lauf": "2036",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
-      "was": "Macron mit ernster Miene am Kopf eines langen Krisentischs im Élysée",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: eine Krisensitzung über teures Leben, abgehalten im Palast mit Goldstuck und Kronleuchtern.",
+      "id": "2036-1",
+      "titel": "Berlin: SPD stimmt für Koalitionsgespräche mit Linke und Grünen",
+      "was": "Berliner SPD-Landesvorstand bei der Abstimmung, Hände gehen geschlossen hoch",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Die Hände sind sich bei der Abstimmung einig, die Partei ist es beim Inhalt nicht.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Tagesschau",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "NZZ",
-        "SRF"
+        "Tagesschau",
+        "taz"
       ],
-      "artikel": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
-      "bild": "https://images.tagesschau.de/image/6d4c546e-6c06-4464-bf76-28cae18750f5/AAABoU72PSY/AAABnSSvrFg/16x9-big/nach-ausschreitungen-frankreich-100.jpg?width=1280",
-      "zeit": "2026-10-18T15:56+02:00"
+      "artikel": "https://www.spiegel.de/politik/deutschland/berlin-spd-stimmt-fuer-koalitionsgespraeche-mit-linke-und-gruenen-a-6a348e5e-b947-4117-93e2-aa98ac8b892a#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/b0971bb7-bbaf-4e1f-81f5-626bc3746718_w520_r2.08_fpx29.94_fpy54.99.jpg",
+      "zeit": "2026-10-19T18:38+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "LIVE-TICKER - Iran-Krieg: Iranisches Parlament bestätigt neuen Verteidigungsminister",
-      "was": "Iranisches Parlament stimmt ab, neuer Verteidigungsminister nimmt Glückwünsche entgegen",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: sanktioniert und mitten im Konflikt mit den USA, gefeiert wie eine gewöhnliche Beförderung im Büro.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "Spiegel"
-      ],
-      "artikel": "https://www.nzz.ch/international/iran-krieg-erneut-tanker-in-strasse-von-hormuz-angegriffen-eu-behoerde-warnt-fluggesellschaften-ld.10021246",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/13/8aef24c3-3044-4a29-82d3-af78151c8050.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3994,3994,x1003,y0",
-      "zeit": "2026-10-18T10:54+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Bilanz der Traditionsmesse – 335'000 Besuchende und zwei Bundesratsmitglieder an der Olma",
-      "was": "Zwei Bundesratsmitglieder zwischen Kühen, Bratwurst und Olma-Ständen in St. Gallen",
-      "richtung": "Mechanik: wörtlich nehmen, was sie nur symbolisch tun. Achse: Volksnähe für einen Messetag gegen Bundesbern für den Rest des Jahres.",
+      "id": "2036-2",
+      "titel": "Martullo-Blocher, Friedli, Rickli, Rüegsegger: Die Absagen bei der SVP häufen sich. Wer bleibt für Parmelins Nachfolge überhaupt noch übrig?",
+      "was": "Porträtreihe der SVP-Absagenden Martullo-Blocher, Friedli, Rickli und Rüegsegger",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Die Partei will unbedingt den Sitz, aber niemand von ihnen will ihn haben.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/bilanz-der-traditionsmesse-335-000-besuchende-und-zwei-bundesratsmitglieder-an-der-olma",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/b03ec1.jpg",
-      "zeit": "2026-10-18T15:58+02:00"
-    }
-  ],
-  "erwartet": [
+      "artikel": "https://www.nzz.ch/schweiz/martullo-blocher-friedli-rickli-rueegsegger-die-absagen-bei-der-svp-haeufen-sich-wer-bleibt-fuer-parmelins-nachfolge-ueberhaupt-noch-uebrig-ld.10038130",
+      "bild": "https://img-msp-prod.nzz.ch/2026/10/19/8c86b0e8-ba5d-4c58-944f-7afeb59da5f0.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3667,3667,x882,y0",
+      "zeit": "2026-10-19T18:04+02:00"
+    },
     {
-      "wann": "heute Abend",
-      "was": "Macron bei seiner Fernsehansprache an die Nation, Blick direkt in die Kamera"
+      "id": "2036-3",
+      "titel": "Arved (21) fuhr mit diesem Fahrzeug ans Nordkap – und zurück",
+      "was": "Junger Glarner mit seiner Ape vor dem Globus am Nordkap",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Ein Mann mit drei Motoren kommt bis ans Nordkap, ein Bundesratssitz findet nicht einmal eine Kandidatur.",
+      "grund": "memetauglich",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
+      "auch_bei": [],
+      "artikel": "https://www.20min.ch/story/ape-fahrer-21-faehrt-von-glarus-zum-nordkap-und-braucht-drei-motoren-103648536",
+      "bild": "https://image.20min.ch/2026/10/15/adfe9693-e13d-4f75-ac57-144c87cc1de2.jpg?s=bb929aa3a56986fadbf37f38d7368ec1",
+      "zeit": "2026-10-19T17:42+02:00"
     }
   ],
+  "erwartet": [],
   "hinweis": ""
 }
