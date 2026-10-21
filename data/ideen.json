@@ -4,84 +4,109 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-10-21-0757-21",
+      "id": "2026-10-21-0757-01",
       "typ": "politisch-aktuell",
-      "stichwort": "UNO rechnet mit 2,8 Grad Erwärmung, beim Menschen wären das 39,8 Fieber, Therapie der Staatengemeinschaft: Tee und nächster Gipfel",
+      "stichwort": "Bergbahnen mit Rekordumsatz erhöhen die Tageskarte, Skifahren kehrt zu den englischen Lords zurück",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Die Erde steuert laut UNO auf 2,8 Grad Erwärmung zu, beim Menschen wären das 39,8 Fieber. Therapie der Staatengemeinschaft: Tee, abwarten, nächstes Jahr wieder Gipfel."
-    },
-    {
-      "id": "2026-10-21-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Skigebiete erhöhen nach Rekordumsatz die Tageskarten, bei welchem Wetter wird die je billiger",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Skigebiete erhöhen nach dem Rekordumsatz die Tageskarten. Bei welchem Wetter wird die eigentlich billiger?"
+      "text": "Bergbahnen machen Rekordumsatz und erhöhen die Tageskarte. Skifahren findet zurück zu seinen Wurzeln: englische Lords.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-21-0757-23",
+      "id": "2026-10-21-0757-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Musk will Tesla und SpaceX fusionieren, am selben Tag liebäugelt Trump mit Putins Gipfelplänen zur Ukraine, Übernahmeverhandlungen ohne Börsenaufsicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Elon Musk will Tesla und SpaceX fusionieren, am selben Tag liebäugelt Trump mit Putins Gipfelplänen zur Ukraine. Übernahmeverhandlungen überall, nur eine davon mit Börsenaufsicht."
-    },
-    {
-      "id": "2026-10-21-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lex Koller, Streit Badran gegen Walti: wer im Ausland wohnt und hier eine Wohnung bewohnt, nimmt sie weg, wer den ganzen Block kauft, bringt Kapital",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Kurze Verständnisfrage zur Lex Koller: Ausländer*innen, die hier in einer Wohnung leben, nehmen sie den Schweizer*innen weg. Ausländer*innen, die den ganzen Block kaufen, bringen Kapital?"
-    },
-    {
-      "id": "2026-10-21-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump: die USA hätten für ihre Ukraine-Hilfe nichts zurückbekommen, ausser einem Land, das noch existiert",
+      "stichwort": "Trump liebäugelt mit Putins Dreiergipfel, Selenski bringt die Landkarte, Putin den Filzstift",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, die USA haben für ihre Ukraine-Hilfe nichts zurückbekommen, sagt Trump, nur ein Land, das noch existiert. Weiss auch nicht, unter welchem Konto man das verbucht."
+      "text": "Putin bombardiert seit Jahren ukrainische Städte. Trump so: super, machen wir einen Dreiergipfel, Selenski bringt die Landkarte, Putin den Filzstift.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-21-0757-26",
+      "id": "2026-10-21-0757-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Arktisstrategie der EU: das Eis schmilzt, die Antwort sind mehr Eisbrecher",
+      "stichwort": "Streit um die Lex Koller, Ausländer sollen keine Wohnungen mehr kaufen dürfen, gespielte Angst des Mieters, die Wuchermiete nicht mehr der Swiss Life zahlen zu dürfen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Das Arktiseis schmilzt immer schneller. Zum Glück will die EU jetzt mehr Eisbrecher."
+      "text": "Bern streitet, ob Ausländer noch Schweizer Wohnungen kaufen dürfen. Habe auch Angst: am Ende zahle ich meine Wuchermiete nicht mehr der Swiss Life.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-10-21-0757-27",
+      "id": "2026-10-21-0757-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Pensionskassen, die Jahre des Windelwechselns als Beitragsjahre anrechnen",
+      "stichwort": "Trump: die USA hätten von der Ukraine nichts zurückbekommen, zugestimmt, nur gibt auch Putin nichts zurück",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, laut Trump hat die Ukraine den USA nie etwas zurückgegeben. Putin der Ukraine allerdings auch nicht, die Krim zum Beispiel.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-21-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Stauseen fast leer, Winterstrom knapp, zum Glück stören keine Windräder den Blick aufs trockene Seebett",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Hier eine Liste aller Pensionskassen, die Jahre des Windelwechselns als Beitragsjahre anrechnen:\n-\n-\nThat's it."
+      "text": "Stauseen leer, Strom knapp. Zum Glück verschandeln keine Windräder den Blick aufs trockene Seebett.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-21-0757-28",
+      "id": "2026-10-21-0757-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Wie viele Windeln bis zur Leistungsträger*in, Frage an die Plakate «Leistung muss sich wieder lohnen»",
+      "stichwort": "Leere Liste der Pensionskassen, die jahrelange Pflege der eigenen Eltern als Arbeitszeit anrechnen, dafür Broschüre mit lachender Grossmutter",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wie viele Windeln muss man eigentlich wechseln, bis man als Leistungsträger*in gilt? Frage für alle, die «Leistung muss sich wieder lohnen» plakatieren."
+      "text": "Hier alle Pensionskassen, die jahrelange Pflege der eigenen Eltern als Arbeitszeit anrechnen:\n-\n-\nDafür hat jede eine Broschüre mit lachender Grossmutter drauf.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-21-0757-18",
+      "typ": "schnittmenge",
+      "stichwort": "Rösti steht im Feuer und lässt zuerst prüfen, ob Löschwasser der Wirtschaft schadet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Umweltminister Albert Rösti steht im Feuer und gibt erst mal eine Studie in Auftrag, ob Löschwasser der Wirtschaft schadet. Vernehmlassung bis Frühling.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-21-0757-29",
@@ -91,7 +116,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 19,
-      "text": "Unbezahlte Arbeit ist in der Schweiz laut Bundesamt für Statistik über 400 Milliarden Franken wert, rund fünfmal das Bundesbudget. Ausbezahlt in Komplimenten zum Muttertag."
+      "text": "Unbezahlte Arbeit ist in der Schweiz laut Bundesamt für Statistik über 400 Milliarden Franken wert, rund fünfmal das Bundesbudget. Ausbezahlt in Komplimenten zum Muttertag.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-21-0757-30",
@@ -101,7 +131,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Verstehe nicht, warum alle fragen, wie wir uns Kinderbetreuung leisten sollen. Bisher haben wir einfach die Frauen nicht bezahlt, lief jahrhundertelang super."
+      "text": "Verstehe nicht, warum alle fragen, wie wir uns Kinderbetreuung leisten sollen. Bisher haben wir einfach die Frauen nicht bezahlt, lief jahrhundertelang super.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-21-0757-37",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bundesrat Rösti im Feuer, als Ex-Präsident von Swissoil weiss er, womit man nachlegt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Bundesrat Rösti steht im Feuer. Als Ex-Präsident von Swissoil weiss er wenigstens, womit man nachlegt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
