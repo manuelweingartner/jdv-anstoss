@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-21",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -31,21 +31,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-10-21-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Streit um die Lex Koller, Ausländer sollen keine Wohnungen mehr kaufen dürfen, gespielte Angst des Mieters, die Wuchermiete nicht mehr der Swiss Life zahlen zu dürfen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Bern streitet, ob Ausländer noch Schweizer Wohnungen kaufen dürfen. Habe auch Angst: am Ende zahle ich meine Wuchermiete nicht mehr der Swiss Life.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
       }
     },
     {
@@ -94,17 +79,46 @@
       }
     },
     {
-      "id": "2026-10-21-0757-18",
-      "typ": "schnittmenge",
-      "stichwort": "Rösti steht im Feuer und lässt zuerst prüfen, ob Löschwasser der Wirtschaft schadet",
+      "id": "2026-10-21-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kinderkriegen ist Privatsache, bis die Geburtenrate sinkt, dann nationale Aufgabe für Frauen, unbezahlt, Kitaplatz ab 2031",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Umweltminister Albert Rösti steht im Feuer und gibt erst mal eine Studie in Auftrag, ob Löschwasser der Wirtschaft schadet. Vernehmlassung bis Frühling.",
+      "text": "Kinderkriegen ist Privatsache, bis die Geburtenrate sinkt. Dann ist es eine nationale Aufgabe, für Frauen, unbezahlt, mit Kitaplatz ab 2031.",
       "jury": {
         "anker": true,
-        "witz": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-21-0757-12",
+      "typ": "remix",
+      "stichwort": "Trump fordert von der Ukraine Zustimmung zum Friedensabkommen, leere Liste seiner Forderungen an Russland (Remix der unterausgespielten Hitzetote-Liste)",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump will, dass die Ukraine dem Friedensabkommen zustimmt. Seine Forderungen an Russland:\n-\n-\n-",
+      "jury": {
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-21-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "UNO rechnet mit 2,8 Grad Erwärmung, beim Menschen wären das 39,8 Fieber, Therapie der Staatengemeinschaft: Tee und nächster Gipfel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Die Erde steuert laut UNO auf 2,8 Grad Erwärmung zu, beim Menschen wären das 39,8 Fieber. Therapie der Staatengemeinschaft: Tee, abwarten, nächstes Jahr wieder Gipfel.",
+      "jury": {
+        "anker": true,
+        "witz": false,
         "neu": true
       }
     },
@@ -120,36 +134,6 @@
       "jury": {
         "witz": true,
         "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-21-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wie sollen wir uns Kinderbetreuung leisten, bisher haben wir einfach die Frauen nicht bezahlt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Verstehe nicht, warum alle fragen, wie wir uns Kinderbetreuung leisten sollen. Bisher haben wir einfach die Frauen nicht bezahlt, lief jahrhundertelang super.",
-      "jury": {
-        "witz": true,
-        "anker": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-21-0757-37",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bundesrat Rösti im Feuer, als Ex-Präsident von Swissoil weiss er, womit man nachlegt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Bundesrat Rösti steht im Feuer. Als Ex-Präsident von Swissoil weiss er wenigstens, womit man nachlegt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
         "neu": true
       }
     }
