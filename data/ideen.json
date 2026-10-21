@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-21",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Wer gegen Krawalle aus Frankreich die Grenze schliesst, sperrt gegen den Föhn den Gotthardtunnel."
+    },
+    {
+      "id": "2026-10-21-0757-36",
+      "typ": "schnittmenge",
+      "stichwort": "Alle fürchten AI überall, auf der Autobahn ist sie längst: Mietautos mit Innerrhoder Kennzeichen AI, wegen der Steuern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Alle warnen, dass AI bald überall ist. Auf Schweizer Autobahnen ist sie es längst: Mietautos mit Kennzeichen AI, wegen der Steuern in Innerrhoden angemeldet."
     }
   ]
 }
