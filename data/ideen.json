@@ -4,6 +4,36 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-10-21-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "UNO rechnet mit 2,8 Grad Erwärmung, beim Menschen wären das 39,8 Fieber, Therapie der Staatengemeinschaft: Tee und nächster Gipfel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Die Erde steuert laut UNO auf 2,8 Grad Erwärmung zu, beim Menschen wären das 39,8 Fieber. Therapie der Staatengemeinschaft: Tee, abwarten, nächstes Jahr wieder Gipfel."
+    },
+    {
+      "id": "2026-10-21-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Skigebiete erhöhen nach Rekordumsatz die Tageskarten, bei welchem Wetter wird die je billiger",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Skigebiete erhöhen nach dem Rekordumsatz die Tageskarten. Bei welchem Wetter wird die eigentlich billiger?"
+    },
+    {
+      "id": "2026-10-21-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Musk will Tesla und SpaceX fusionieren, am selben Tag liebäugelt Trump mit Putins Gipfelplänen zur Ukraine, Übernahmeverhandlungen ohne Börsenaufsicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Elon Musk will Tesla und SpaceX fusionieren, am selben Tag liebäugelt Trump mit Putins Gipfelplänen zur Ukraine. Übernahmeverhandlungen überall, nur eine davon mit Börsenaufsicht."
+    },
+    {
       "id": "2026-10-21-0757-24",
       "typ": "politisch-aktuell",
       "stichwort": "Lex Koller, Streit Badran gegen Walti: wer im Ausland wohnt und hier eine Wohnung bewohnt, nimmt sie weg, wer den ganzen Block kauft, bringt Kapital",
@@ -72,36 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Verstehe nicht, warum alle fragen, wie wir uns Kinderbetreuung leisten sollen. Bisher haben wir einfach die Frauen nicht bezahlt, lief jahrhundertelang super."
-    },
-    {
-      "id": "2026-10-21-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "Bündner Felsen werden vorsorglich gesprengt, bei 2,8 Grad laut UNO heisst Vorsorge plötzlich Verbotspolitik",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Droht ein Felsen auf ein Bündner Dorf zu stürzen, wird er gesprengt, bevor etwas passiert. Sagt die UNO 2,8 Grad voraus, heisst Vorsorge plötzlich Verbotspolitik."
-    },
-    {
-      "id": "2026-10-21-0757-32",
-      "typ": "remix",
-      "stichwort": "Grenze zu wegen Krawallen in Frankreich, Gotthardtunnel gegen den Föhn sperren (Remix des unterausgespielten Hai-Streitbilds)",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Wer gegen Krawalle aus Frankreich die Grenze schliesst, sperrt gegen den Föhn den Gotthardtunnel."
-    },
-    {
-      "id": "2026-10-21-0757-36",
-      "typ": "schnittmenge",
-      "stichwort": "Alle fürchten AI überall, auf der Autobahn ist sie längst: Mietautos mit Innerrhoder Kennzeichen AI, wegen der Steuern",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Alle warnen, dass AI bald überall ist. Auf Schweizer Autobahnen ist sie es längst: Mietautos mit Kennzeichen AI, wegen der Steuern in Innerrhoden angemeldet."
     }
   ]
 }
