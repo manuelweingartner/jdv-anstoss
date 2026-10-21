@@ -1,56 +1,56 @@
 {
-  "stand": "2026-10-21T12:34:31+02:00",
-  "lauf": "1233",
+  "stand": "2026-10-21T17:00:31+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "1233-1",
-      "titel": "Zweiter wagt sich aus Deckung: Nationalrat Wyssmann kandidiert",
-      "was": "Rémy Wyssmann im Bundeshaus, lächelnd vor Mikrofonen oder in der Wandelhalle",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Kandidatur für die Landesregierung gegen eine Mutprobe, vor der sich alle Favoriten gedrückt haben.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
-      "auch_bei": [
-        "NZZ"
-      ],
-      "artikel": "https://www.20min.ch/story/parmelin-nachfolge-zweiter-wagt-sich-aus-deckung-nationalrat-wyssmann-kandidiert-103652639",
-      "bild": "https://image.20min.ch/2026/10/21/073282aa-05ea-44c6-bb15-a0987b44d6a1.jpg?s=10dcfc36b62d635dbfe2b848a17c9205",
-      "zeit": "2026-10-21T11:01+02:00"
-    },
-    {
-      "id": "1233-2",
-      "titel": "US-Vermittler Witkoff berät mit Putin über Ukraine",
-      "was": "Putin und Witkoff beim Händedruck in einem prunkvollen Kremlsaal",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Friedensgespräche über die Ukraine gegen ein Treffen, bei dem Diesel und Gefangene verhandelt werden und die Ukraine fehlt.",
+      "id": "1700-1",
+      "titel": "Wladimir Putin: US-Sondergesandter Steve Witkoff nennt Kremlchef einen »Humanisten«",
+      "was": "Witkoff und Putin beim Händedruck im Kreml, beide lächelnd",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Kriegsherr, dem der Gast das Etikett Humanist umhängt, gegen das, was er seit vier Jahren tut.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Tagesschau",
+      "quelle": "Spiegel",
       "auch_bei": [
         "NZZ",
         "SRF"
       ],
-      "artikel": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html",
-      "bild": "https://images.tagesschau.de/image/258ad48a-e412-41de-82b5-095a7fb9e806/AAABoV08ipo/AAABnSSvrFg/16x9-big/wittkoff-dmitriev-100.jpg?width=1280",
-      "zeit": "2026-10-21T11:37+02:00"
+      "artikel": "https://www.spiegel.de/ausland/wladimir-putin-us-sondergesandter-steve-witkoff-nennt-kremlchef-einen-humanisten-a-a5dc6376-f679-4d22-8107-395ac30b03e8#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/5ecb73d2-8fbe-4705-8d68-14d7d57ffc52_w520_r2.08_fpx36.67_fpy44.98.jpg",
+      "zeit": "2026-10-21T15:57+02:00"
     },
     {
-      "id": "1233-3",
-      "titel": "Champions League: BVB-Profis wollten nicht im Stadion in Baku duschen – »etwas einladender im Hotel«",
-      "was": "Verschwitzte BVB-Profis in Trainingsanzügen steigen in den Mannschaftsbus",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Millionengehälter und Profialltag gegen die Zumutung einer Stadiondusche in Baku.",
+      "id": "1700-2",
+      "titel": "Ein Staatskritiker für den Bundesrat? Der Solothurner Nationalrat Rémy Wyssmann bewirbt sich um die Nachfolge von Guy Parmelin",
+      "was": "Rémy Wyssmann vor dem Bundeshaus, posierend als Bundesratskandidat",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: der Behördenschreck, der selbst die oberste Behörde werden will und dann von sich selbst genervt wäre.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "SRF"
+      ],
+      "artikel": "https://www.nzz.ch/schweiz/der-solothurner-nationalrat-remy-wyssmann-will-fuer-den-bundesrat-kandidieren-ld.10040194",
+      "bild": "https://img-msp-prod.nzz.ch/2026/10/21/fc2c51d0-0d1f-405d-96e7-eec8888c7264.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4707,4707,x1177,y0",
+      "zeit": "2026-10-21T15:46+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Waschbär, Messer und Birkin: So verprasst Haaland seine Millionen",
+      "was": "Erling Haaland neben einem präparierten Waschbären und einer Birkin-Tasche",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Millionengehalt eines Weltstars gegen Einkäufe wie aus dem Brockenhaus.",
       "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
+      "raum": "",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.spiegel.de/sport/fussball/champions-league-bvb-profis-wollten-nicht-im-stadion-in-baku-duschen-etwas-einladender-im-hotel-a-4f4f29dc-2782-47c4-bfd8-26f3accf8456#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/f3535b56-122a-488d-a3af-f911ffb9ef4b_w520_r2.08_fpx45.33_fpy50.jpg",
-      "zeit": "2026-10-21T10:04+02:00"
+      "artikel": "https://www.20min.ch/story/norwegischer-superstar-waschbaer-messer-und-birkin-so-verprasst-haaland-seine-millionen-103652426",
+      "bild": "https://image.20min.ch/2026/10/21/108cff1b-508a-46d9-9252-4a08cf150ad3.jpg?s=9f748efa59e4eefb4232ba6843145c54",
+      "zeit": "2026-10-21T15:47+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute im Laufe des Tages",
-      "was": "Pressebilder aus St. Petersburg vom Gespräch zwischen Putin und Witkoff, Tischszenen und Handschlag"
+      "wann": "heute, Zeit offen",
+      "was": "Witkoff in Oslo beim Bericht über das Putin-Treffen, Ankunft oder Pressestatement"
     }
   ],
   "hinweis": ""
