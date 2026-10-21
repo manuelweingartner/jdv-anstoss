@@ -1,56 +1,56 @@
 {
-  "stand": "2026-10-21T07:55:54+02:00",
-  "lauf": "0753",
+  "stand": "2026-10-21T12:34:31+02:00",
+  "lauf": "1233",
   "fotos": [
     {
-      "id": "0753-1",
-      "titel": "Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
-      "was": "Elon Musk gestikulierend auf einer Bühne, im Hintergrund Rakete oder Tesla",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, die Fusion zweier Milliardenkonzerne wie eine private Haushaltsentscheidung behandeln. Achse: ein Mann, der mit sich selbst verhandelt, gegen das ",
+      "id": "1233-1",
+      "titel": "Zweiter wagt sich aus Deckung: Nationalrat Wyssmann kandidiert",
+      "was": "Rémy Wyssmann im Bundeshaus, lächelnd vor Mikrofonen oder in der Wandelhalle",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Kandidatur für die Landesregierung gegen eine Mutprobe, vor der sich alle Favoriten gedrückt haben.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "SRF",
-        "Spiegel"
-      ],
-      "artikel": "https://www.nzz.ch/wirtschaft/musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss-ld.10039941",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/21/d5eb2c72-aefc-4226-84f2-2ba094dffb13.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3262,3262,x816,y0",
-      "zeit": "2026-10-21T07:03+02:00"
-    },
-    {
-      "id": "0753-2",
-      "titel": "Prinz Harry will «Schlussstrich» unter Streit mit William ziehen",
-      "was": "Prinz Harry im Interview oder beim Termin in Grossbritannien",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, die königliche Versöhnung als gewöhnlichen Familienstreit ums Erbe oder um das Weihnachtsessen lesen. Achse: jahrhundertealte Monarchie gegen das ganz norm",
-      "grund": "breit",
-      "raum": "weltweit",
+      "raum": "schweiz",
       "quelle": "20 Minuten",
       "auch_bei": [
-        "Spiegel"
+        "NZZ"
       ],
-      "artikel": "https://www.20min.ch/story/auf-versoehnung-aus-prinz-harry-will-schlussstrich-unter-familienstreit-ziehen-103653047",
-      "bild": "https://image.20min.ch/2026/10/21/8d8beff6-7473-4a2b-873c-4715eb77cd68.jpg?s=fd8188e3331f9d041d5a61703b86f3dc",
-      "zeit": "2026-10-21T05:37+02:00"
+      "artikel": "https://www.20min.ch/story/parmelin-nachfolge-zweiter-wagt-sich-aus-deckung-nationalrat-wyssmann-kandidiert-103652639",
+      "bild": "https://image.20min.ch/2026/10/21/073282aa-05ea-44c6-bb15-a0987b44d6a1.jpg?s=10dcfc36b62d635dbfe2b848a17c9205",
+      "zeit": "2026-10-21T11:01+02:00"
     },
     {
-      "id": "0753-3",
-      "titel": "Donald Trump will offenbar Briefing Room im Weißen Haus zum Pool umwandeln",
-      "was": "Trump am Rednerpult im Briefing Room vor Journalistenreihen",
-      "richtung": "Mechanik: wörtlich nehmen, was der Umbau bedeutet, die Pressefreiheit buchstäblich unter Wasser setzen. Achse: Ort der kritischen Fragen gegen Ort der Entspannung für den Präsidenten.",
+      "id": "1233-2",
+      "titel": "US-Vermittler Witkoff berät mit Putin über Ukraine",
+      "was": "Putin und Witkoff beim Händedruck in einem prunkvollen Kremlsaal",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Friedensgespräche über die Ukraine gegen ein Treffen, bei dem Diesel und Gefangene verhandelt werden und die Ukraine fehlt.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "Tagesschau",
+      "auch_bei": [
+        "NZZ",
+        "SRF"
+      ],
+      "artikel": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html",
+      "bild": "https://images.tagesschau.de/image/258ad48a-e412-41de-82b5-095a7fb9e806/AAABoV08ipo/AAABnSSvrFg/16x9-big/wittkoff-dmitriev-100.jpg?width=1280",
+      "zeit": "2026-10-21T11:37+02:00"
+    },
+    {
+      "id": "1233-3",
+      "titel": "Champions League: BVB-Profis wollten nicht im Stadion in Baku duschen – »etwas einladender im Hotel«",
+      "was": "Verschwitzte BVB-Profis in Trainingsanzügen steigen in den Mannschaftsbus",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Millionengehälter und Profialltag gegen die Zumutung einer Stadiondusche in Baku.",
       "grund": "memetauglich",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.spiegel.de/ausland/donald-trump-will-offenbar-briefing-room-im-weissen-haus-zum-pool-umwandeln-a-3633b80c-7072-4ab1-b5cf-424c7839fa19#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/2bab9785-85e4-4718-9483-d2d313f8f160_w520_r2.08_fpx50_fpy44.jpg",
-      "zeit": "2026-10-21T04:39+02:00"
+      "artikel": "https://www.spiegel.de/sport/fussball/champions-league-bvb-profis-wollten-nicht-im-stadion-in-baku-duschen-etwas-einladender-im-hotel-a-4f4f29dc-2782-47c4-bfd8-26f3accf8456#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/f3535b56-122a-488d-a3af-f911ffb9ef4b_w520_r2.08_fpx45.33_fpy50.jpg",
+      "zeit": "2026-10-21T10:04+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, Zeitpunkt offen",
-      "was": "Handschlag von Steve Witkoff und Putin in Moskau"
+      "wann": "heute im Laufe des Tages",
+      "was": "Pressebilder aus St. Petersburg vom Gespräch zwischen Putin und Witkoff, Tischszenen und Handschlag"
     }
   ],
   "hinweis": ""
