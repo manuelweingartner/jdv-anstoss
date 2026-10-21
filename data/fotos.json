@@ -1,50 +1,57 @@
 {
-  "stand": "2026-10-19T20:37:33+02:00",
-  "lauf": "2036",
+  "stand": "2026-10-21T07:55:54+02:00",
+  "lauf": "0753",
   "fotos": [
     {
-      "id": "2036-1",
-      "titel": "Berlin: SPD stimmt für Koalitionsgespräche mit Linke und Grünen",
-      "was": "Berliner SPD-Landesvorstand bei der Abstimmung, Hände gehen geschlossen hoch",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Die Hände sind sich bei der Abstimmung einig, die Partei ist es beim Inhalt nicht.",
+      "id": "0753-1",
+      "titel": "Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
+      "was": "Elon Musk gestikulierend auf einer Bühne, im Hintergrund Rakete oder Tesla",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, die Fusion zweier Milliardenkonzerne wie eine private Haushaltsentscheidung behandeln. Achse: ein Mann, der mit sich selbst verhandelt, gegen das ",
       "grund": "breit",
-      "raum": "",
-      "quelle": "Spiegel",
-      "auch_bei": [
-        "Tagesschau",
-        "taz"
-      ],
-      "artikel": "https://www.spiegel.de/politik/deutschland/berlin-spd-stimmt-fuer-koalitionsgespraeche-mit-linke-und-gruenen-a-6a348e5e-b947-4117-93e2-aa98ac8b892a#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/b0971bb7-bbaf-4e1f-81f5-626bc3746718_w520_r2.08_fpx29.94_fpy54.99.jpg",
-      "zeit": "2026-10-19T18:38+02:00"
-    },
-    {
-      "id": "2036-2",
-      "titel": "Martullo-Blocher, Friedli, Rickli, Rüegsegger: Die Absagen bei der SVP häufen sich. Wer bleibt für Parmelins Nachfolge überhaupt noch übrig?",
-      "was": "Porträtreihe der SVP-Absagenden Martullo-Blocher, Friedli, Rickli und Rüegsegger",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Die Partei will unbedingt den Sitz, aber niemand von ihnen will ihn haben.",
-      "grund": "memetauglich",
-      "raum": "schweiz",
+      "raum": "weltweit",
       "quelle": "NZZ",
-      "auch_bei": [],
-      "artikel": "https://www.nzz.ch/schweiz/martullo-blocher-friedli-rickli-rueegsegger-die-absagen-bei-der-svp-haeufen-sich-wer-bleibt-fuer-parmelins-nachfolge-ueberhaupt-noch-uebrig-ld.10038130",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/19/8c86b0e8-ba5d-4c58-944f-7afeb59da5f0.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3667,3667,x882,y0",
-      "zeit": "2026-10-19T18:04+02:00"
+      "auch_bei": [
+        "SRF",
+        "Spiegel"
+      ],
+      "artikel": "https://www.nzz.ch/wirtschaft/musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss-ld.10039941",
+      "bild": "https://img-msp-prod.nzz.ch/2026/10/21/d5eb2c72-aefc-4226-84f2-2ba094dffb13.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3262,3262,x816,y0",
+      "zeit": "2026-10-21T07:03+02:00"
     },
     {
-      "id": "2036-3",
-      "titel": "Arved (21) fuhr mit diesem Fahrzeug ans Nordkap – und zurück",
-      "was": "Junger Glarner mit seiner Ape vor dem Globus am Nordkap",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Ein Mann mit drei Motoren kommt bis ans Nordkap, ein Bundesratssitz findet nicht einmal eine Kandidatur.",
-      "grund": "memetauglich",
-      "raum": "schweiz",
+      "id": "0753-2",
+      "titel": "Prinz Harry will «Schlussstrich» unter Streit mit William ziehen",
+      "was": "Prinz Harry im Interview oder beim Termin in Grossbritannien",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, die königliche Versöhnung als gewöhnlichen Familienstreit ums Erbe oder um das Weihnachtsessen lesen. Achse: jahrhundertealte Monarchie gegen das ganz norm",
+      "grund": "breit",
+      "raum": "weltweit",
       "quelle": "20 Minuten",
+      "auch_bei": [
+        "Spiegel"
+      ],
+      "artikel": "https://www.20min.ch/story/auf-versoehnung-aus-prinz-harry-will-schlussstrich-unter-familienstreit-ziehen-103653047",
+      "bild": "https://image.20min.ch/2026/10/21/8d8beff6-7473-4a2b-873c-4715eb77cd68.jpg?s=fd8188e3331f9d041d5a61703b86f3dc",
+      "zeit": "2026-10-21T05:37+02:00"
+    },
+    {
+      "id": "0753-3",
+      "titel": "Donald Trump will offenbar Briefing Room im Weißen Haus zum Pool umwandeln",
+      "was": "Trump am Rednerpult im Briefing Room vor Journalistenreihen",
+      "richtung": "Mechanik: wörtlich nehmen, was der Umbau bedeutet, die Pressefreiheit buchstäblich unter Wasser setzen. Achse: Ort der kritischen Fragen gegen Ort der Entspannung für den Präsidenten.",
+      "grund": "memetauglich",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/ape-fahrer-21-faehrt-von-glarus-zum-nordkap-und-braucht-drei-motoren-103648536",
-      "bild": "https://image.20min.ch/2026/10/15/adfe9693-e13d-4f75-ac57-144c87cc1de2.jpg?s=bb929aa3a56986fadbf37f38d7368ec1",
-      "zeit": "2026-10-19T17:42+02:00"
+      "artikel": "https://www.spiegel.de/ausland/donald-trump-will-offenbar-briefing-room-im-weissen-haus-zum-pool-umwandeln-a-3633b80c-7072-4ab1-b5cf-424c7839fa19#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/2bab9785-85e4-4718-9483-d2d313f8f160_w520_r2.08_fpx50_fpy44.jpg",
+      "zeit": "2026-10-21T04:39+02:00"
     }
   ],
-  "erwartet": [],
+  "erwartet": [
+    {
+      "wann": "heute, Zeitpunkt offen",
+      "was": "Handschlag von Steve Witkoff und Putin in Moskau"
+    }
+  ],
   "hinweis": ""
 }
