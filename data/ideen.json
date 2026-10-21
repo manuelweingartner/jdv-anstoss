@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-21",
-  "hinweis": "7 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -72,6 +72,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Verstehe nicht, warum alle fragen, wie wir uns Kinderbetreuung leisten sollen. Bisher haben wir einfach die Frauen nicht bezahlt, lief jahrhundertelang super."
+    },
+    {
+      "id": "2026-10-21-0757-31",
+      "typ": "schnittmenge",
+      "stichwort": "Bündner Felsen werden vorsorglich gesprengt, bei 2,8 Grad laut UNO heisst Vorsorge plötzlich Verbotspolitik",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Droht ein Felsen auf ein Bündner Dorf zu stürzen, wird er gesprengt, bevor etwas passiert. Sagt die UNO 2,8 Grad voraus, heisst Vorsorge plötzlich Verbotspolitik."
+    },
+    {
+      "id": "2026-10-21-0757-32",
+      "typ": "remix",
+      "stichwort": "Grenze zu wegen Krawallen in Frankreich, Gotthardtunnel gegen den Föhn sperren (Remix des unterausgespielten Hai-Streitbilds)",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Wer gegen Krawalle aus Frankreich die Grenze schliesst, sperrt gegen den Föhn den Gotthardtunnel."
     }
   ]
 }
