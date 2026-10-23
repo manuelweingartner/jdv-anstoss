@@ -1,56 +1,55 @@
 {
-  "stand": "2026-10-21T17:00:31+02:00",
+  "stand": "2026-10-23T17:00:40+02:00",
   "lauf": "1700",
   "fotos": [
     {
       "id": "1700-1",
-      "titel": "Wladimir Putin: US-Sondergesandter Steve Witkoff nennt Kremlchef einen »Humanisten«",
-      "was": "Witkoff und Putin beim Händedruck im Kreml, beide lächelnd",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Kriegsherr, dem der Gast das Etikett Humanist umhängt, gegen das, was er seit vier Jahren tut.",
+      "titel": "Abstimmung im Parlament: Griechenland beschließt Social-Media-Verbot für Kinder",
+      "was": "Griechische Abgeordnete im Parlament, daneben Jugendliche mit Smartphones in der Hand",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Erwachsene, die während der Debatte selbst aufs Handy starren, gegen Kinder, denen genau das verboten wird.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "taz",
+      "auch_bei": [
+        "Spiegel"
+      ],
+      "artikel": "https://taz.de/Abstimmung-im-Parlament/!6224079/",
+      "bild": "https://taz.de/picture/8820426/948/42365979.jpeg",
+      "zeit": "2026-10-23T14:47+02:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Marathon: Weltmeisterin Peres Jepchirchir droht Sperre nach positivem Dopingtest",
+      "was": "Peres Jepchirchir jubelt mit erhobenen Armen im Ziel, Flagge um die Schultern",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Siegerpose als Leistungsbeweis gegen dieselbe Pose als Ergebnis des Labors.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
-        "NZZ",
-        "SRF"
+        "Watson"
       ],
-      "artikel": "https://www.spiegel.de/ausland/wladimir-putin-us-sondergesandter-steve-witkoff-nennt-kremlchef-einen-humanisten-a-a5dc6376-f679-4d22-8107-395ac30b03e8#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/5ecb73d2-8fbe-4705-8d68-14d7d57ffc52_w520_r2.08_fpx36.67_fpy44.98.jpg",
-      "zeit": "2026-10-21T15:57+02:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Ein Staatskritiker für den Bundesrat? Der Solothurner Nationalrat Rémy Wyssmann bewirbt sich um die Nachfolge von Guy Parmelin",
-      "was": "Rémy Wyssmann vor dem Bundeshaus, posierend als Bundesratskandidat",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: der Behördenschreck, der selbst die oberste Behörde werden will und dann von sich selbst genervt wäre.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "SRF"
-      ],
-      "artikel": "https://www.nzz.ch/schweiz/der-solothurner-nationalrat-remy-wyssmann-will-fuer-den-bundesrat-kandidieren-ld.10040194",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/21/fc2c51d0-0d1f-405d-96e7-eec8888c7264.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4707,4707,x1177,y0",
-      "zeit": "2026-10-21T15:46+02:00"
+      "artikel": "https://www.spiegel.de/sport/leichtathletik/marathon-weltmeisterin-peres-jepchirchir-droht-sperre-nach-positivem-dopingtest-a-50c1f2c9-cfc6-48a2-b59f-7eae0781cfe1#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/173d7e36-fb79-466e-add4-6f088386653b_w520_r2.08_fpx68.67_fpy55.jpg",
+      "zeit": "2026-10-23T16:14+02:00"
     },
     {
       "id": "1700-3",
-      "titel": "Waschbär, Messer und Birkin: So verprasst Haaland seine Millionen",
-      "was": "Erling Haaland neben einem präparierten Waschbären und einer Birkin-Tasche",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Millionengehalt eines Weltstars gegen Einkäufe wie aus dem Brockenhaus.",
+      "titel": "Rangelei im Bundeshaus, Schnupf mit Brunner: So tickt SVP-Graber",
+      "was": "Michael Graber und Toni Brunner beim Schnupftabak, Hand an der Nase",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Bewerbung für die Landesregierung gegen ein Stammtischritual als Leistungsausweis.",
       "grund": "memetauglich",
-      "raum": "",
+      "raum": "schweiz",
       "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/norwegischer-superstar-waschbaer-messer-und-birkin-so-verprasst-haaland-seine-millionen-103652426",
-      "bild": "https://image.20min.ch/2026/10/21/108cff1b-508a-46d9-9252-4a08cf150ad3.jpg?s=9f748efa59e4eefb4232ba6843145c54",
-      "zeit": "2026-10-21T15:47+02:00"
+      "artikel": "https://www.20min.ch/story/svp-kandidat-michael-graber-karriere-positionen-und-kontroversen-103653993",
+      "bild": "https://image.20min.ch/2026/10/22/71a43f25-5681-4a71-88af-1f264481d1ec.png?s=2b5b41fc8f5710cb4d068b0ff60bd609",
+      "zeit": "2026-10-23T14:49+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, Zeit offen",
-      "was": "Witkoff in Oslo beim Bericht über das Putin-Treffen, Ankunft oder Pressestatement"
+      "wann": "heute ab 16:00",
+      "was": "Markus Söder am Rednerpult der CSU, Gestik vor blauweisser Kulisse"
     }
   ],
   "hinweis": ""
