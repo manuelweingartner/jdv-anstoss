@@ -1,55 +1,59 @@
 {
-  "stand": "2026-10-23T17:00:40+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-24T08:02:05+02:00",
+  "lauf": "0801",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Abstimmung im Parlament: Griechenland beschließt Social-Media-Verbot für Kinder",
-      "was": "Griechische Abgeordnete im Parlament, daneben Jugendliche mit Smartphones in der Hand",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Erwachsene, die während der Debatte selbst aufs Handy starren, gegen Kinder, denen genau das verboten wird.",
+      "id": "0801-1",
+      "titel": "«Abstimmungs-Arena» – Bundesrat Albert Rösti: «So ein Verbot schränkt die Freiheit ein»",
+      "was": "Bundesrat Rösti im Arena-Studio, gestikulierend vor Gegnern der Feuerwerksinitiative",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Böllern als Freiheitsrecht gegen eine Partei, die sonst jede Ruhestörung verbieten will.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "taz",
+      "quelle": "SRF",
       "auch_bei": [
-        "Spiegel"
+        "20 Minuten"
       ],
-      "artikel": "https://taz.de/Abstimmung-im-Parlament/!6224079/",
-      "bild": "https://taz.de/picture/8820426/948/42365979.jpeg",
-      "zeit": "2026-10-23T14:47+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/abstimmungs-arena-bundesrat-albert-roesti-so-ein-verbot-schraenkt-die-freiheit-ein",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/390b312.jpg",
+      "zeit": "2026-10-23T23:06+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Marathon: Weltmeisterin Peres Jepchirchir droht Sperre nach positivem Dopingtest",
-      "was": "Peres Jepchirchir jubelt mit erhobenen Armen im Ziel, Flagge um die Schultern",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Siegerpose als Leistungsbeweis gegen dieselbe Pose als Ergebnis des Labors.",
+      "id": "0801-2",
+      "titel": "Nachfolge von Guy Parmelin – Frist abgelaufen: Diese SVP-Kandidaten gehen ins Bundesratsrennen",
+      "was": "Aufreihung der SVP-Bundesratskandidaten, Porträts nebeneinander oder vor Mikrofonen im Bundeshaus",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: sieben Kandidaturen auf dem Papier gegen Schwergewichte, die alle absagen.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [
-        "Watson"
+        "NZZ"
       ],
-      "artikel": "https://www.spiegel.de/sport/leichtathletik/marathon-weltmeisterin-peres-jepchirchir-droht-sperre-nach-positivem-dopingtest-a-50c1f2c9-cfc6-48a2-b59f-7eae0781cfe1#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/173d7e36-fb79-466e-add4-6f088386653b_w520_r2.08_fpx68.67_fpy55.jpg",
-      "zeit": "2026-10-23T16:14+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-frist-abgelaufen-diese-svp-kandidaten-gehen-ins-bundesratsrennen",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/afc1f5.jpg",
+      "zeit": "2026-10-23T18:02+02:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Rangelei im Bundeshaus, Schnupf mit Brunner: So tickt SVP-Graber",
-      "was": "Michael Graber und Toni Brunner beim Schnupftabak, Hand an der Nase",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Bewerbung für die Landesregierung gegen ein Stammtischritual als Leistungsausweis.",
+      "id": "0801-3",
+      "titel": "CSU-Parteitag in München unter dem Motto \"Näher am Menschen\"",
+      "was": "Söder auf der Parteitagsbühne vor dem Banner Näher am Menschen",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Nähe als Bühnenmotto gegen Rednerpult, Absperrung und Saalregie.",
       "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "raum": "",
+      "quelle": "Tagesschau",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/svp-kandidat-michael-graber-karriere-positionen-und-kontroversen-103653993",
-      "bild": "https://image.20min.ch/2026/10/22/71a43f25-5681-4a71-88af-1f264481d1ec.png?s=2b5b41fc8f5710cb4d068b0ff60bd609",
-      "zeit": "2026-10-23T14:49+02:00"
+      "artikel": "https://www.tagesschau.de/tagesthemen/video-1671634.html",
+      "bild": "https://images.tagesschau.de/image/688ad6bf-95e4-41d1-bbb7-4c9d194917ec/AAABoWp80vo/AAABnSSvrFg/16x9-big/sendungsbild-1816314.jpg?width=1280",
+      "zeit": "2026-10-23T22:39+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 16:00",
-      "was": "Markus Söder am Rednerpult der CSU, Gestik vor blauweisser Kulisse"
+      "wann": "heute, München",
+      "was": "Merz und Söder gemeinsam auf der CSU-Parteitagsbühne, Händedruck oder gequältes Lächeln"
+    },
+    {
+      "wann": "heute ab 10:00",
+      "was": "Weltcupauftakt in Sölden, Jubel und Frust im Zielraum"
     }
   ],
   "hinweis": ""
