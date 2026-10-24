@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-24",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -62,6 +62,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 14,
       "text": "EU-Angebot an Kanada: assoziierte Mitgliedschaft. Am fernsten von Brüssel liegt nicht Ottawa, sondern Bern."
+    },
+    {
+      "id": "2026-10-24-0757-36",
+      "typ": "schnittmenge",
+      "stichwort": "Uhren gehen offiziell nach Frankreich, Mietautos wohnen offiziell in Innerrhoden, Exportprodukt Adresse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Uhren für Hunderte Millionen Franken gehen offiziell nach Frankreich, Tausende Mietautos wohnen offiziell in Appenzell Innerrhoden. Unser wichtigstes Exportprodukt ist die Adresse."
+    },
+    {
+      "id": "2026-10-24-0757-37",
+      "typ": "politisch-aktuell",
+      "stichwort": "Google rodet in Finnland Wald für KI-Rechenzentrum, dafür generiert die KI echte Wälder",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Google rodet in Finnland ohne Umweltprüfung 250'000 Bäume für ein KI-Rechenzentrum. Dafür kann die KI jetzt täuschend echte Wälder generieren. Mit Vogelgezwitscher. Im Abo."
+    },
+    {
+      "id": "2026-10-24-0757-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nestlé erhöht Preise und meldet überraschend gute Zahlen, überraschend ist nur das Wort",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Nestlé erhöht die Preise und meldet überraschend gute Zahlen. Überraschend war nur das Wort."
     }
   ]
 }
