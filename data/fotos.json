@@ -1,27 +1,12 @@
 {
-  "stand": "2026-10-24T08:02:05+02:00",
-  "lauf": "0801",
+  "stand": "2026-10-24T17:00:29+02:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0801-1",
-      "titel": "«Abstimmungs-Arena» – Bundesrat Albert Rösti: «So ein Verbot schränkt die Freiheit ein»",
-      "was": "Bundesrat Rösti im Arena-Studio, gestikulierend vor Gegnern der Feuerwerksinitiative",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Böllern als Freiheitsrecht gegen eine Partei, die sonst jede Ruhestörung verbieten will.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [
-        "20 Minuten"
-      ],
-      "artikel": "https://www.srf.ch/news/schweiz/abstimmungs-arena-bundesrat-albert-roesti-so-ein-verbot-schraenkt-die-freiheit-ein",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/390b312.jpg",
-      "zeit": "2026-10-23T23:06+02:00"
-    },
-    {
-      "id": "0801-2",
+      "id": "1700-1",
       "titel": "Nachfolge von Guy Parmelin – Frist abgelaufen: Diese SVP-Kandidaten gehen ins Bundesratsrennen",
-      "was": "Aufreihung der SVP-Bundesratskandidaten, Porträts nebeneinander oder vor Mikrofonen im Bundeshaus",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: sieben Kandidaturen auf dem Papier gegen Schwergewichte, die alle absagen.",
+      "was": "Gruppenbild der sieben SVP-Bundesratskandidaten, Aeschi zögernd am Rand",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Kandidatenfeld als Casting-Show oder Mannschaftsfoto gelesen. Achse: Qual der Wahl nach aussen gegen Ablenkung von den eigenen Problemen nach innen.",
       "grund": "breit",
       "raum": "schweiz",
       "quelle": "SRF",
@@ -33,27 +18,38 @@
       "zeit": "2026-10-23T18:02+02:00"
     },
     {
-      "id": "0801-3",
-      "titel": "CSU-Parteitag in München unter dem Motto \"Näher am Menschen\"",
-      "was": "Söder auf der Parteitagsbühne vor dem Banner Näher am Menschen",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Nähe als Bühnenmotto gegen Rednerpult, Absperrung und Saalregie.",
-      "grund": "memetauglich",
+      "id": "1700-2",
+      "titel": "CSU-Parteitag in München: Alle für Ilse",
+      "was": "Merz am Rednerpult, Saal jubelt, Söder und Aigner klatschen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, der Applaus gilt der Begrüssung statt der Rede. Achse: Kanzler mit Reformprogramm gegen einen Saal, der nur bei einem Namen aufwacht.",
+      "grund": "breit",
       "raum": "",
-      "quelle": "Tagesschau",
+      "quelle": "taz",
+      "auch_bei": [
+        "Tagesschau"
+      ],
+      "artikel": "https://taz.de/CSU-Parteitag-in-Muenchen/!6224692/",
+      "bild": "https://taz.de/picture/8822242/948/Aigner-im-Vordergrund-So-der-im-Hintergrund.jpeg",
+      "zeit": "2026-10-24T10:05+02:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Iranische Propaganda: In Teheran ist Trump plötzlich populär – als Parodie hinter Gittern",
+      "was": "Trump-Darsteller in Häftlingskleidung hinter Gittern, Publikum in Teheran",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: endlich die Popularität im Ausland, die er immer wollte, gegen die Form, in der sie kommt.",
+      "grund": "memetauglich",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.tagesschau.de/tagesthemen/video-1671634.html",
-      "bild": "https://images.tagesschau.de/image/688ad6bf-95e4-41d1-bbb7-4c9d194917ec/AAABoWp80vo/AAABnSSvrFg/16x9-big/sendungsbild-1816314.jpg?width=1280",
-      "zeit": "2026-10-23T22:39+02:00"
+      "artikel": "https://www.spiegel.de/ausland/iranische-propaganda-in-teheran-ist-trump-ploetzlich-populaer-als-parodie-hinter-gittern-a-ed64d14b-182b-45d5-955d-25c630ee1b20#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/d3543f27-86e7-45cb-bcc5-216589db6860_w520_r2.08_fpx70_fpy45.jpg",
+      "zeit": "2026-10-24T14:33+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, München",
-      "was": "Merz und Söder gemeinsam auf der CSU-Parteitagsbühne, Händedruck oder gequältes Lächeln"
-    },
-    {
-      "wann": "heute ab 10:00",
-      "was": "Weltcupauftakt in Sölden, Jubel und Frust im Zielraum"
+      "wann": "heute im Verlauf des Parteitags",
+      "was": "CSU-Parteitag München: Söder, Merz und Aigner auf der Bühne, Jubel- und Handschlagbilder"
     }
   ],
   "hinweis": ""
