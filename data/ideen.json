@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-24",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -49,6 +49,21 @@
       }
     },
     {
+      "id": "2026-10-24-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zucman fordert zwei Prozent ab hundert Millionen, Angst haben die Superpunkte-Sammler*innen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig: Gabriel Zucman will zwei Prozent Steuer ab hundert Millionen Vermögen, und Angst davor haben vor allem Leute, die bei Coop Superpunkte sammeln?",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
+    },
+    {
       "id": "2026-10-24-0757-06",
       "typ": "politisch-aktuell",
       "stichwort": "Orléans vernagelt Schaufenster vor dem Le-Pen-Parteitag, man weiss ja nie, wer da kommt",
@@ -64,16 +79,16 @@
       }
     },
     {
-      "id": "2026-10-24-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "Rösti: Feuerwerksverbot schränkt die Freiheit ein, derweil absolute Feuerverbote wegen Waldbrandgefahr, eingeführt vom Klima ohne Vernehmlassung",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "id": "2026-10-24-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Chef beim Onboarding: wir sind wie eine Familie, gearbeitet wird unbezahlt, erben wird der Sohn",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Albert Rösti warnt, ein Feuerwerksverbot schränke die Freiheit ein. Derweil gilt es wegen Waldbrandgefahr vielerorts schon, eingeführt vom Klima, ohne Vernehmlassung, ohne Ständemehr.",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "«Wir sind hier wie eine Familie», sagt der Chef beim Onboarding. Stimmt, gearbeitet wird unbezahlt, und erben wird nur einer: sein Sohn.",
       "jury": {
-        "witz": true,
+        "witz": false,
         "anker": true,
         "neu": true
       }
@@ -94,21 +109,6 @@
       }
     },
     {
-      "id": "2026-10-24-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Feuerwerksinitiative schränkt Freiheit ein, wie soll ein Land ohne Krieg seit dem Sonderbundskrieg sonst wissen, wie einer klingt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, die Feuerwerksinitiative schränkt die Freiheit ein. Woher soll ein Land, das seit dem Sonderbundskrieg keinen Krieg mehr hatte, sonst wissen, wie einer klingt?",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-10-24-0757-30",
       "typ": "politisch-aktuell",
       "stichwort": "Nichts gegen Reiche, sie sollten nur wie alle anderen arbeiten müssen, bevor sie essen dürfen",
@@ -121,21 +121,6 @@
         "witz": true,
         "anker": false,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-10-24-0757-36",
-      "typ": "schnittmenge",
-      "stichwort": "Uhren gehen offiziell nach Frankreich, Mietautos wohnen offiziell in Innerrhoden, Exportprodukt Adresse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Uhren für Hunderte Millionen Franken gehen offiziell nach Frankreich, Tausende Mietautos wohnen offiziell in Appenzell Innerrhoden. Unser wichtigstes Exportprodukt ist die Adresse.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
       }
     },
     {
