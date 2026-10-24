@@ -1,8 +1,48 @@
 {
   "datum": "2026-10-24",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-24-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Firmen, die die Zeiterfassung eingeführt haben, damit Überstunden bezahlt werden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier eine Liste aller Firmen, die ihre Zeiterfassung eingeführt haben, damit Überstunden bezahlt werden:\n-\n-\nThat's it."
+    },
+    {
+      "id": "2026-10-24-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Viertagewoche sei unbezahlbar, sagen Leute, deren Geld sieben Tage arbeitet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die Viertagewoche sei unbezahlbar, sagen Leute, deren Geld sieben Tage die Woche arbeitet."
+    },
+    {
+      "id": "2026-10-24-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Chef beim Onboarding: wir sind wie eine Familie, gearbeitet wird unbezahlt, erben wird der Sohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "«Wir sind hier wie eine Familie», sagt der Chef beim Onboarding. Stimmt, gearbeitet wird unbezahlt, und erben wird nur einer: sein Sohn."
+    },
+    {
+      "id": "2026-10-24-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Faul sind immer die im ersten Postauto, nie die Familien, die seit Generationen ausschlafen, Frage für die FDP",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Warum heissen eigentlich immer die faul, die im ersten Postauto sitzen, und nie die, deren Familie seit Generationen ausschläft? Frage für die FDP."
+    },
     {
       "id": "2026-10-24-0757-11",
       "typ": "schnittmenge",
