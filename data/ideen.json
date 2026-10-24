@@ -1,141 +1,27 @@
 {
-  "datum": "2026-10-21",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "datum": "2026-10-24",
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-10-21-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bergbahnen mit Rekordumsatz erhöhen die Tageskarte, Skifahren kehrt zu den englischen Lords zurück",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Bergbahnen machen Rekordumsatz und erhöhen die Tageskarte. Skifahren findet zurück zu seinen Wurzeln: englische Lords.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-21-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump liebäugelt mit Putins Dreiergipfel, Selenski bringt die Landkarte, Putin den Filzstift",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Putin bombardiert seit Jahren ukrainische Städte. Trump so: super, machen wir einen Dreiergipfel, Selenski bringt die Landkarte, Putin den Filzstift.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-21-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump: die USA hätten von der Ukraine nichts zurückbekommen, zugestimmt, nur gibt auch Putin nichts zurück",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, laut Trump hat die Ukraine den USA nie etwas zurückgegeben. Putin der Ukraine allerdings auch nicht, die Krim zum Beispiel.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-21-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Stauseen fast leer, Winterstrom knapp, zum Glück stören keine Windräder den Blick aufs trockene Seebett",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Stauseen leer, Strom knapp. Zum Glück verschandeln keine Windräder den Blick aufs trockene Seebett.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-21-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Pensionskassen, die jahrelange Pflege der eigenen Eltern als Arbeitszeit anrechnen, dafür Broschüre mit lachender Grossmutter",
-      "plattform": "Threads + Bluesky",
+      "id": "2026-10-24-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Rösti: Feuerwerksverbot schränkt die Freiheit ein, derweil absolute Feuerverbote wegen Waldbrandgefahr, eingeführt vom Klima ohne Vernehmlassung",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Pensionskassen, die jahrelange Pflege der eigenen Eltern als Arbeitszeit anrechnen:\n-\n-\nDafür hat jede eine Broschüre mit lachender Grossmutter drauf.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Albert Rösti warnt, ein Feuerwerksverbot schränke die Freiheit ein. Derweil gilt es wegen Waldbrandgefahr vielerorts schon, eingeführt vom Klima, ohne Vernehmlassung, ohne Ständemehr."
     },
     {
-      "id": "2026-10-21-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kinderkriegen ist Privatsache, bis die Geburtenrate sinkt, dann nationale Aufgabe für Frauen, unbezahlt, Kitaplatz ab 2031",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kinderkriegen ist Privatsache, bis die Geburtenrate sinkt. Dann ist es eine nationale Aufgabe, für Frauen, unbezahlt, mit Kitaplatz ab 2031.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-21-0757-12",
+      "id": "2026-10-24-0757-12",
       "typ": "remix",
-      "stichwort": "Trump fordert von der Ukraine Zustimmung zum Friedensabkommen, leere Liste seiner Forderungen an Russland (Remix der unterausgespielten Hitzetote-Liste)",
+      "stichwort": "EU bietet Kanada assoziierte Mitgliedschaft an, am fernsten von Brüssel liegt nicht Ottawa, sondern Bern (Remix der unterausgespielten Korrektur-Pointe)",
       "plattform": "Threads + Bluesky + IG-Textgrafik",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Trump will, dass die Ukraine dem Friedensabkommen zustimmt. Seine Forderungen an Russland:\n-\n-\n-",
-      "jury": {
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-21-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "UNO rechnet mit 2,8 Grad Erwärmung, beim Menschen wären das 39,8 Fieber, Therapie der Staatengemeinschaft: Tee und nächster Gipfel",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Die Erde steuert laut UNO auf 2,8 Grad Erwärmung zu, beim Menschen wären das 39,8 Fieber. Therapie der Staatengemeinschaft: Tee, abwarten, nächstes Jahr wieder Gipfel.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-21-0757-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Unbezahlte Arbeit über 400 Milliarden wert, rund fünfmal das Bundesbudget, ausbezahlt in Komplimenten zum Muttertag",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Unbezahlte Arbeit ist in der Schweiz laut Bundesamt für Statistik über 400 Milliarden Franken wert, rund fünfmal das Bundesbudget. Ausbezahlt in Komplimenten zum Muttertag.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
+      "format": 14,
+      "text": "EU-Angebot an Kanada: assoziierte Mitgliedschaft. Am fernsten von Brüssel liegt nicht Ottawa, sondern Bern."
     }
   ]
 }
