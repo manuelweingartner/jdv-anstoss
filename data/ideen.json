@@ -4,6 +4,36 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-10-24-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zucman fordert zwei Prozent ab hundert Millionen, Angst haben die Superpunkte-Sammler*innen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig: Gabriel Zucman will zwei Prozent Steuer ab hundert Millionen Vermögen, und Angst davor haben vor allem Leute, die bei Coop Superpunkte sammeln?"
+    },
+    {
+      "id": "2026-10-24-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Feuerwerksinitiative schränkt Freiheit ein, wer erklärt sonst den Rehen, wie Freiheit klingt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ein Böllerverbot schränkt die Freiheit ein, warnen die Gegner*innen der Feuerwerksinitiative. Klar, wer soll den Rehen sonst erklären, wie Freiheit klingt, um Mitternacht, in Dolby Surround."
+    },
+    {
+      "id": "2026-10-24-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Orléans vernagelt Schaufenster vor dem Le-Pen-Parteitag, man weiss ja nie, wer da kommt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Orléans vernagelt vor dem Le-Pen-Parteitag die Schaufenster. Man weiss ja nie, wer da kommt."
+    },
+    {
       "id": "2026-10-24-0757-07",
       "typ": "politisch-aktuell",
       "stichwort": "Leere Liste der Firmen, die die Zeiterfassung eingeführt haben, damit Überstunden bezahlt werden",
@@ -72,36 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 19,
       "text": "100'000 Unterschriften gegen den Mietpreis-Gegenvorschlag des Bundesrats. Gesammelt an einer einzigen Wohnungsbesichtigung in Zürich."
-    },
-    {
-      "id": "2026-10-24-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zürcher SVP findet niemanden für den Bundesrat, gleiche Woche entlässt Zenith in Le Locle die halbe Belegschaft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Die Zürcher SVP findet niemanden für den Bundesrat. Gleiche Woche entlässt Zenith in Le Locle die halbe Belegschaft, präzise, pünktlich, ab Frühling frei."
-    },
-    {
-      "id": "2026-10-24-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "NFL-Team zieht Logo wegen Nazisymbolik zurück, Musk zeigte dasselbe mit dem Arm und bekam eine Behörde",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Ein NFL-Team zieht sein Logo zurück, weil es an Nazisymbolik erinnert. Elon Musk zeigte dasselbe mit dem rechten Arm und bekam dafür eine Behörde, ohne Rückruf."
-    },
-    {
-      "id": "2026-10-24-0757-36",
-      "typ": "schnittmenge",
-      "stichwort": "Uhren gehen offiziell nach Frankreich, Mietautos wohnen offiziell in Innerrhoden, Exportprodukt Adresse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Uhren für Hunderte Millionen Franken gehen offiziell nach Frankreich, Tausende Mietautos wohnen offiziell in Appenzell Innerrhoden. Unser wichtigstes Exportprodukt ist die Adresse."
     }
   ]
 }
