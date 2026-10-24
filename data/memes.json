@@ -1,46 +1,46 @@
 {
-  "stand": "2026-10-21T12:35:11+02:00",
+  "stand": "2026-10-24T08:02:28+02:00",
   "vorschlaege": [
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "doge",
+      "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "CS-Versagen ist kein Bonusgrund"
+        "SVP 2003",
+        "Blocher drängt in den Bundesrat",
+        "SVP 2026",
+        "Zürich findet niemanden"
       ],
-      "warum": "eine These, die so selbstverständlich ist, dass es peinlich ist, dass erst das Bundesgericht sie aufschreiben musste",
+      "warum": "die Partei hat sich einen starken Anspruch auf den Sitz gebaut, und heute steht davon nur noch eine halbe Kandidatur",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Fusion mit SpaceX",
-        "Autos verkaufen",
-        "Elon Musk"
+        "Kuriere als Selbständige",
+        "Kuriere fest anstellen",
+        "Just Eat"
       ],
-      "warum": "Musk reisst das Steuer in letzter Sekunde vom Kerngeschäft weg, und genau dieses Ausweichmanöver zeigt die Figur",
+      "warum": "der Lieferdienst biegt im letzten Moment vom Arbeitsvertrag ab, und das Risiko tragen die Kuriere",
       "bild": "vorschlag-2.jpg"
-    },
-    {
-      "vorlage": "doge",
-      "name": "Buff Doge vs. Cheems",
-      "zeilen": [
-        "Ente 1948",
-        "Auto fürs Volk",
-        "Ente 2027",
-        "Nostalgie mit Aufpreis"
-      ],
-      "warum": "Citroën verkauft das starke Früher als Elektro-Retro, und daneben steht das jämmerliche Heute",
-      "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Stimme heimlich speichern",
-        "Für ein persönlicheres Kundenerlebnis"
+        "358 Kündigungen",
+        "Neuausrichtung nach Konsultationsverfahren"
       ],
-      "warum": "die Hotline-Praxis, die das Gericht kippt, existiert nur dank ihrer vornehmen Verpackung",
+      "warum": "Sunrise packt einen Stellenabbau in Konzernsprache, und erst die feine Fassung macht ihn lächerlich",
+      "bild": "vorschlag-3.jpg"
+    },
+    {
+      "vorlage": "schild",
+      "name": "Change My Mind",
+      "zeilen": [
+        "2 Prozent ab 100 Millionen tun niemandem weh"
+      ],
+      "warum": "Zucmans Mindeststeuer ist eine These, gegen die die Superreichen laut sind und trotzdem kein Argument haben",
       "bild": "vorschlag-4.jpg"
     }
   ]
