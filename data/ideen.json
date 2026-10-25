@@ -4,6 +4,36 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-10-25-0657-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Stiftung will die 13. AHV-Rente reicher Rentner*innen als Spende, in derselben Woche 1150 Franken Busse für Öl in der Aare",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gleiche Woche: Reiche Rentner*innen sollen ihre 13. AHV-Rente spenden, ein Berner Chauffeur zahlt 1150 Franken Busse für Öl in der Aare. Eine Rente, zwei Chauffeure gerettet."
+    },
+    {
+      "id": "2026-10-25-0657-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schlechte Google-Bewertungen für die Dargebotene Hand, weil sie auflegt, und bei der Krankenkasse nimmt gar niemand ab",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Dargebotene Hand legt auf, klagen Google-Bewertungen. Hat bei der Krankenkasse je jemand abgenommen?"
+    },
+    {
+      "id": "2026-10-25-0657-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Stichwahl in Brasilien: Der Sohn Bolsonaro kandidiert, weil der Vater in Haft sitzt, bei Blochers lief die Erbfolge über die Ems-Chemie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Papa Bolsonaro sitzt wegen Putschversuchs im Gefängnis, also kandidiert in Brasilien jetzt der Sohn. Bei Blochers lief dieselbe Erbfolge über die Ems-Chemie, ganz ohne Umsturz."
+    },
+    {
       "id": "2026-10-25-0657-04",
       "typ": "politisch-aktuell",
       "stichwort": "Massenproteste in Frankreich gegen die Lebenshaltungskosten, gleiche Woche meldet Nestlé nach Preiserhöhungen ein überraschend gutes Quartal",
@@ -72,36 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Wieso ist Enteignen für Wohnraum Kommunismus und für einen Autobahnanschluss bloss ein Formular? Frage für die FDP."
-    },
-    {
-      "id": "2026-10-25-0657-11",
-      "typ": "schnittmenge",
-      "stichwort": "Tausende mit Master finden keine Stelle, dieselben Firmen klagen über Fachkräftemangel",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Findet jemand mit Master keine Stelle, heisst das «zu wenig Erfahrung». Findet eine Firma niemanden mit Master, heisst das «Fachkräftemangel»."
-    },
-    {
-      "id": "2026-10-25-0657-12",
-      "typ": "remix",
-      "stichwort": "Galderma verdient Milliarden mit Fillern gegen das Ozempic-Face, das Geschäftsmodell ist das Abo",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Ozempic lässt mit den Kilos auch das Gesicht verschwinden, Galderma verdient Milliarden mit dem Auffüllen. Nicht die Spritze ist das Produkt, sondern das Abo."
-    },
-    {
-      "id": "2026-10-25-0657-16",
-      "typ": "politisch-aktuell",
-      "stichwort": "Just Eat macht Kuriere zu Selbständigen, ab jetzt Status wie die Mietautos mit Innerrhoder Nummer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Just Eat macht seine Kuriere zu Selbständigen. Ab jetzt sind sie, was die Mietautos mit Innerrhoder Nummer sind: billig angemeldet, nirgends zu Hause."
     }
   ]
 }
