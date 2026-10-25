@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-10-25-0657-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Stiftung will die 13. AHV-Rente reicher Rentner*innen als Spende, in derselben Woche 1150 Franken Busse für Öl in der Aare",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Gleiche Woche: Reiche Rentner*innen sollen ihre 13. AHV-Rente spenden, ein Berner Chauffeur zahlt 1150 Franken Busse für Öl in der Aare. Eine Rente, zwei Chauffeure gerettet."
-    },
-    {
       "id": "2026-10-25-0657-02",
       "typ": "politisch-aktuell",
       "stichwort": "Schlechte Google-Bewertungen für die Dargebotene Hand, weil sie auflegt, und bei der Krankenkasse nimmt gar niemand ab",
@@ -21,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Die Dargebotene Hand legt auf, klagen Google-Bewertungen. Hat bei der Krankenkasse je jemand abgenommen?"
+      "text": "Die Dargebotene Hand legt auf, klagen Google-Bewertungen. Hat bei der Krankenkasse je jemand abgenommen?",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
     },
     {
       "id": "2026-10-25-0657-03",
@@ -31,17 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Papa Bolsonaro sitzt wegen Putschversuchs im Gefängnis, also kandidiert in Brasilien jetzt der Sohn. Bei Blochers lief dieselbe Erbfolge über die Ems-Chemie, ganz ohne Umsturz."
-    },
-    {
-      "id": "2026-10-25-0657-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Massenproteste in Frankreich gegen die Lebenshaltungskosten, gleiche Woche meldet Nestlé nach Preiserhöhungen ein überraschend gutes Quartal",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Hunderttausende protestieren in Frankreich gegen die Lebenshaltungskosten, gleiche Woche meldet Nestlé nach Preiserhöhungen ein überraschend gutes Quartal. Hängt das irgendwie zusammen? Frage für George Clooney."
+      "text": "Papa Bolsonaro sitzt wegen Putschversuchs im Gefängnis, also kandidiert in Brasilien jetzt der Sohn. Bei Blochers lief dieselbe Erbfolge über die Ems-Chemie, ganz ohne Umsturz.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
     },
     {
       "id": "2026-10-25-0657-05",
@@ -51,7 +41,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Ärmere Förderländer brauchen mehr Zeit für den Ausstieg aus Öl und Gas, sagt eine Studie. Verständlich, die Schweiz hat nicht mal Öl und braucht trotzdem länger. Seit Kyoto."
+      "text": "Ärmere Förderländer brauchen mehr Zeit für den Ausstieg aus Öl und Gas, sagt eine Studie. Verständlich, die Schweiz hat nicht mal Öl und braucht trotzdem länger. Seit Kyoto.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-25-0657-06",
@@ -61,7 +56,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst, dass Meta nach der Milliardenstrafe jetzt bei den Faktenchecks spart."
+      "text": "Habe Angst, dass Meta nach der Milliardenstrafe jetzt bei den Faktenchecks spart.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-10-25-0657-07",
@@ -71,37 +71,87 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 3,
-      "text": "Vertrauensarbeitszeit heisst: Die Firma vertraut darauf, dass du nicht nachzählst. Bisher zu Recht."
+      "text": "Vertrauensarbeitszeit heisst: Die Firma vertraut darauf, dass du nicht nachzählst. Bisher zu Recht.",
+      "jury": {
+        "anker": false,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-10-25-0657-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Reise nach der Matura ist mit Papas Geld Selbstfindung, ohne Papa eine Lücke im Lebenslauf",
+      "id": "2026-10-25-0657-12",
+      "typ": "remix",
+      "stichwort": "Galderma verdient Milliarden mit Fillern gegen das Ozempic-Face, das Geschäftsmodell ist das Abo",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Nach der Matura durch Bali reisen heisst «Selbstfindung», wenn Papa zahlt. Ohne Papa heisst dieselbe Lücke im Lebenslauf «Erklärungsbedarf»."
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Ozempic lässt mit den Kilos auch das Gesicht verschwinden, Galderma verdient Milliarden mit dem Auffüllen. Nicht die Spritze ist das Produkt, sondern das Abo.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-25-0657-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angestellte geht pünktlich und hat einen halben Tag, Chef geht golfen und pflegt Kundschaft",
+      "id": "2026-10-25-0657-17",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne eigenes Frauenhaus, die Apfelbäume haben Hagelnetze",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Angestellte geht pünktlich, Chef so: oh, halber Tag heute. Chef fährt am Mittwochnachmittag auf den Golfplatz, Chef so: Kundenpflege. Achtzehn Löcher lang."
+      "text": "Der Kanton Thurgau hat kein eigenes Frauenhaus. Seine Apfelbäume haben immerhin Hagelnetze.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-10-25-0657-10",
+      "id": "2026-10-25-0657-22",
       "typ": "politisch-aktuell",
-      "stichwort": "Enteignen für Wohnraum ist Kommunismus, für einen Autobahnanschluss bloss ein Formular",
+      "stichwort": "Berner Chauffeur zahlt 1150 Franken für Öl in der Aare, mit einem Tanker wäre er Genfer Rohstoffhändler",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Ein Berner Chauffeur zahlt 1150 Franken Busse, weil Öl aus seiner Mulde in die Aare lief. Mit einem Tanker vor Westafrika wäre er Genfer Rohstoffhändler.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-10-25-0657-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Stiftung bittet reiche Rentner*innen, die dreizehnte AHV-Rente zu spenden, leere Liste der Zusagen von der Goldküste",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Wieso ist Enteignen für Wohnraum Kommunismus und für einen Autobahnanschluss bloss ein Formular? Frage für die FDP."
+      "text": "Eine Stiftung bittet reiche Rentner*innen, ihre dreizehnte AHV-Rente zu spenden. Zusagen von der Goldküste:\n-\n-",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-10-25-0657-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Meta muss 25 Milliarden Strafe zahlen, gespielte Sorge, dass sie jetzt unsere Daten verkaufen müssen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Meta muss 25 Milliarden Strafe zahlen. Hoffentlich müssen die jetzt nicht unsere Daten verkaufen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
