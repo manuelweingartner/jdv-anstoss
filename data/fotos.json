@@ -1,55 +1,59 @@
 {
-  "stand": "2026-10-24T17:00:29+02:00",
-  "lauf": "1700",
+  "stand": "2026-10-25T07:02:36+01:00",
+  "lauf": "0702",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Nachfolge von Guy Parmelin – Frist abgelaufen: Diese SVP-Kandidaten gehen ins Bundesratsrennen",
-      "was": "Gruppenbild der sieben SVP-Bundesratskandidaten, Aeschi zögernd am Rand",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Kandidatenfeld als Casting-Show oder Mannschaftsfoto gelesen. Achse: Qual der Wahl nach aussen gegen Ablenkung von den eigenen Problemen nach innen.",
+      "id": "0702-1",
+      "titel": "Midterms: Donald Trump gibt vorzeitig Stimme für US-Kongresswahl ab",
+      "was": "Trump wirft vor Kameras seinen Stimmzettel für die Midterms ein",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Frühwählen gilt bei den anderen als Betrug, bei ihm selbst als Bürgerpflicht.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
+      "auch_bei": [
+        "taz"
+      ],
+      "artikel": "https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab-a-471e69eb-612d-405d-9bd6-724cd8b37851#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/945c8306-d056-4b41-94e8-2700e6d99ecb_w520_r2.08_fpx33.34_fpy50.jpg",
+      "zeit": "2026-10-25T00:26+02:00"
+    },
+    {
+      "id": "0702-2",
+      "titel": "FDP-Spitze zu Bundesratswahl – Zögern vor der Kandidatur «nicht gerade ein Empfehlungsschreiben»",
+      "was": "Thomas Aeschi mit unentschlossener Miene, daneben die FDP-Spitze vor Mikrofonen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Eine Partei, die Führungsstärke predigt, und ein Kandidat, der nicht einmal zur eigenen Kandidatur Ja sagen kann.",
       "grund": "breit",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
-        "NZZ"
+        "taz"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-frist-abgelaufen-diese-svp-kandidaten-gehen-ins-bundesratsrennen",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/afc1f5.jpg",
-      "zeit": "2026-10-23T18:02+02:00"
+      "artikel": "https://www.srf.ch/news/schweiz/fdp-spitze-zu-bundesratswahl-zoegern-vor-der-kandidatur-nicht-gerade-ein-empfehlungsschreiben",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/34246c0.jpg",
+      "zeit": "2026-10-24T15:53+02:00"
     },
     {
-      "id": "1700-2",
-      "titel": "CSU-Parteitag in München: Alle für Ilse",
-      "was": "Merz am Rednerpult, Saal jubelt, Söder und Aigner klatschen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, der Applaus gilt der Begrüssung statt der Rede. Achse: Kanzler mit Reformprogramm gegen einen Saal, der nur bei einem Namen aufwacht.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "taz",
-      "auch_bei": [
-        "Tagesschau"
-      ],
-      "artikel": "https://taz.de/CSU-Parteitag-in-Muenchen/!6224692/",
-      "bild": "https://taz.de/picture/8822242/948/Aigner-im-Vordergrund-So-der-im-Hintergrund.jpeg",
-      "zeit": "2026-10-24T10:05+02:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "Iranische Propaganda: In Teheran ist Trump plötzlich populär – als Parodie hinter Gittern",
-      "was": "Trump-Darsteller in Häftlingskleidung hinter Gittern, Publikum in Teheran",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: endlich die Popularität im Ausland, die er immer wollte, gegen die Form, in der sie kommt.",
+      "id": "0702-3",
+      "titel": "Weisse oder grüne Weihnachten? – Die Winterprognosen der Muotathaler Wetterschmöcker",
+      "was": "Muotathaler Wetterschmöcker in Tracht mit Pfeife und Bart vor Publikum",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Ameisenhaufen und Tannzapfen gegen die Prognosen von Seco, Nationalbank und Bundesrat, mit derselben Trefferquote.",
       "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
+      "raum": "",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.spiegel.de/ausland/iranische-propaganda-in-teheran-ist-trump-ploetzlich-populaer-als-parodie-hinter-gittern-a-ed64d14b-182b-45d5-955d-25c630ee1b20#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/d3543f27-86e7-45cb-bcc5-216589db6860_w520_r2.08_fpx70_fpy45.jpg",
-      "zeit": "2026-10-24T14:33+02:00"
+      "artikel": "https://www.srf.ch/radio-srf-musikwelle/weisse-oder-gruene-weihnachten-die-winterprognosen-der-muotathaler-wetterschmoecker",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf/a56911.jpg",
+      "zeit": "2026-10-24T17:04+02:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute im Verlauf des Parteitags",
-      "was": "CSU-Parteitag München: Söder, Merz und Aigner auf der Bühne, Jubel- und Handschlagbilder"
+      "wann": "heute tagsüber, Resultate in der Nacht",
+      "was": "Lula und Flávio Bolsonaro bei der Stimmabgabe zur Stichwahl, später Jubel oder lange Gesichter"
+    },
+    {
+      "wann": "heute ab 10:00",
+      "was": "Riesenslalom der Männer in Sölden, Gino Caviezels Comeback mit Jubel oder Frust im Ziel"
     }
   ],
   "hinweis": ""
