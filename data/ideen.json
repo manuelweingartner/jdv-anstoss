@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-25",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -34,6 +34,46 @@
       "text": "Habe Angst, dass Meta nach der Milliardenstrafe jetzt bei den Faktenchecks spart."
     },
     {
+      "id": "2026-10-25-0657-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vertrauensarbeitszeit heisst, die Firma vertraut darauf, dass du nicht nachzählst",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Vertrauensarbeitszeit heisst: Die Firma vertraut darauf, dass du nicht nachzählst. Bisher zu Recht."
+    },
+    {
+      "id": "2026-10-25-0657-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reise nach der Matura ist mit Papas Geld Selbstfindung, ohne Papa eine Lücke im Lebenslauf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Nach der Matura durch Bali reisen heisst «Selbstfindung», wenn Papa zahlt. Ohne Papa heisst dieselbe Lücke im Lebenslauf «Erklärungsbedarf»."
+    },
+    {
+      "id": "2026-10-25-0657-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angestellte geht pünktlich und hat einen halben Tag, Chef geht golfen und pflegt Kundschaft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Angestellte geht pünktlich, Chef so: oh, halber Tag heute. Chef fährt am Mittwochnachmittag auf den Golfplatz, Chef so: Kundenpflege. Achtzehn Löcher lang."
+    },
+    {
+      "id": "2026-10-25-0657-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Enteignen für Wohnraum ist Kommunismus, für einen Autobahnanschluss bloss ein Formular",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wieso ist Enteignen für Wohnraum Kommunismus und für einen Autobahnanschluss bloss ein Formular? Frage für die FDP."
+    },
+    {
       "id": "2026-10-25-0657-11",
       "typ": "schnittmenge",
       "stichwort": "Tausende mit Master finden keine Stelle, dieselben Firmen klagen über Fachkräftemangel",
@@ -62,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Just Eat macht seine Kuriere zu Selbständigen. Ab jetzt sind sie, was die Mietautos mit Innerrhoder Nummer sind: billig angemeldet, nirgends zu Hause."
-    },
-    {
-      "id": "2026-10-25-0657-17",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau ohne eigenes Frauenhaus, die Apfelbäume haben Hagelnetze",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der Kanton Thurgau hat kein eigenes Frauenhaus. Seine Apfelbäume haben immerhin Hagelnetze."
-    },
-    {
-      "id": "2026-10-25-0657-18",
-      "typ": "schnittmenge",
-      "stichwort": "Wie lange muss Rösti im Feuer stehen, bis ihm die Erderwärmung dringend vorkommt, Frage an den Ex-Präsidenten der Heizöl-Lobby",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wie lange muss Albert Rösti eigentlich noch im Feuer stehen, bis ihm die Erderwärmung dringend vorkommt? Frage an den ehemaligen Präsidenten der Heizöl-Lobby."
     }
   ]
 }
