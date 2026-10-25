@@ -1,46 +1,46 @@
 {
-  "stand": "2026-10-24T08:02:28+02:00",
+  "stand": "2026-10-25T07:03:03+01:00",
   "vorschlaege": [
     {
-      "vorlage": "doge",
-      "name": "Buff Doge vs. Cheems",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "SVP 2003",
-        "Blocher drängt in den Bundesrat",
-        "SVP 2026",
-        "Zürich findet niemanden"
+        "2 Prozent tun Milliardären nicht weh"
       ],
-      "warum": "die Partei hat sich einen starken Anspruch auf den Sitz gebaut, und heute steht davon nur noch eine halbe Kandidatur",
+      "warum": "Zucmans Mindeststeuer ist die These, gegen die die Gegenseite nur Lobbyisten aufbieten kann, aber kein Argument",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Kuriere als Selbständige",
+        "Kuriere zu Selbständigen erklären",
         "Kuriere fest anstellen",
         "Just Eat"
       ],
-      "warum": "der Lieferdienst biegt im letzten Moment vom Arbeitsvertrag ab, und das Risiko tragen die Kuriere",
+      "warum": "das neue Modell ist der Schwenk in letzter Sekunde, weg vom Arbeitsvertrag",
       "bild": "vorschlag-2.jpg"
+    },
+    {
+      "vorlage": "doge",
+      "name": "Buff Doge vs. Cheems",
+      "zeilen": [
+        "SVP 2003",
+        "Blocher will sofort",
+        "SVP 2026",
+        "Aeschi überlegt noch"
+      ],
+      "warum": "Aeschis Zögern wirkt neben dem einstigen Machtanspruch der Partei kläglich",
+      "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "358 Kündigungen",
+        "Sunrise entlässt 358 Leute",
         "Neuausrichtung nach Konsultationsverfahren"
       ],
-      "warum": "Sunrise packt einen Stellenabbau in Konzernsprache, und erst die feine Fassung macht ihn lächerlich",
-      "bild": "vorschlag-3.jpg"
-    },
-    {
-      "vorlage": "schild",
-      "name": "Change My Mind",
-      "zeilen": [
-        "2 Prozent ab 100 Millionen tun niemandem weh"
-      ],
-      "warum": "Zucmans Mindeststeuer ist eine These, gegen die die Superreichen laut sind und trotzdem kein Argument haben",
+      "warum": "die Konzernsprache macht aus Kündigungen ein Verfahren, und genau diese Verpackung ist die Pointe",
       "bild": "vorschlag-4.jpg"
     }
   ]
