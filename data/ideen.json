@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-25",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 14,
       "text": "Ozempic lässt mit den Kilos auch das Gesicht verschwinden, Galderma verdient Milliarden mit dem Auffüllen. Nicht die Spritze ist das Produkt, sondern das Abo."
+    },
+    {
+      "id": "2026-10-25-0657-16",
+      "typ": "politisch-aktuell",
+      "stichwort": "Just Eat macht Kuriere zu Selbständigen, ab jetzt Status wie die Mietautos mit Innerrhoder Nummer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Just Eat macht seine Kuriere zu Selbständigen. Ab jetzt sind sie, was die Mietautos mit Innerrhoder Nummer sind: billig angemeldet, nirgends zu Hause."
+    },
+    {
+      "id": "2026-10-25-0657-17",
+      "typ": "schnittmenge",
+      "stichwort": "Thurgau ohne eigenes Frauenhaus, die Apfelbäume haben Hagelnetze",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Der Kanton Thurgau hat kein eigenes Frauenhaus. Seine Apfelbäume haben immerhin Hagelnetze."
+    },
+    {
+      "id": "2026-10-25-0657-18",
+      "typ": "schnittmenge",
+      "stichwort": "Wie lange muss Rösti im Feuer stehen, bis ihm die Erderwärmung dringend vorkommt, Frage an den Ex-Präsidenten der Heizöl-Lobby",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie lange muss Albert Rösti eigentlich noch im Feuer stehen, bis ihm die Erderwärmung dringend vorkommt? Frage an den ehemaligen Präsidenten der Heizöl-Lobby."
     }
   ]
 }
