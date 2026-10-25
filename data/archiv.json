@@ -19351,6 +19351,150 @@
         "neu": true
       },
       "datum": "2026-10-21"
+    },
+    {
+      "id": "2026-10-24-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zürcher SVP findet niemanden für Parmelins Bundesratssitz, Fachkräftemangel bei der Partei gegen Zuwanderung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Zürcher SVP findet niemanden für den Bundesratssitz von Guy Parmelin. Schon mal Fachkräfte aus dem Ausland probiert?",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-24"
+    },
+    {
+      "id": "2026-10-24-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Uhrenexporte nach Frankreich steigen rätselhaft, gleiche Woche streicht Zenith in Le Locle jede zweite Stelle",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gleiche Woche: Die Uhrenexporte nach Frankreich steigen rätselhaft stark, und Zenith streicht in Le Locle jede zweite Stelle. Die Uhren gehen schon mal vor.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-24"
+    },
+    {
+      "id": "2026-10-24-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Atlanta Falcons ziehen Logo mit Nazi-Optik zurück, das Weisse Haus wundert sich, dass das geht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Atlanta Falcons ziehen ein Logo mit Nazi-Optik nach dem Shitstorm zurück. Weisses Haus so: Zurückziehen? Kann man das? Seit wann?",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-24"
+    },
+    {
+      "id": "2026-10-24-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zucman fordert zwei Prozent ab hundert Millionen, Angst haben die Superpunkte-Sammler*innen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig: Gabriel Zucman will zwei Prozent Steuer ab hundert Millionen Vermögen, und Angst davor haben vor allem Leute, die bei Coop Superpunkte sammeln?",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      },
+      "datum": "2026-10-24"
+    },
+    {
+      "id": "2026-10-24-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Orléans vernagelt Schaufenster vor dem Le-Pen-Parteitag, man weiss ja nie, wer da kommt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Orléans vernagelt vor dem Le-Pen-Parteitag die Schaufenster. Man weiss ja nie, wer da kommt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-10-24"
+    },
+    {
+      "id": "2026-10-24-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Chef beim Onboarding: wir sind wie eine Familie, gearbeitet wird unbezahlt, erben wird der Sohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "«Wir sind hier wie eine Familie», sagt der Chef beim Onboarding. Stimmt, gearbeitet wird unbezahlt, und erben wird nur einer: sein Sohn.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-24"
+    },
+    {
+      "id": "2026-10-24-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "100'000 Unterschriften gegen den Mietpreis-Gegenvorschlag, gesammelt an einer einzigen Zürcher Wohnungsbesichtigung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "100'000 Unterschriften gegen den Mietpreis-Gegenvorschlag des Bundesrats. Gesammelt an einer einzigen Wohnungsbesichtigung in Zürich.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-10-24"
+    },
+    {
+      "id": "2026-10-24-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nichts gegen Reiche, sie sollten nur wie alle anderen arbeiten müssen, bevor sie essen dürfen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe nichts gegen Reiche. Ich finde nur, sie sollten wie alle anderen arbeiten müssen, bevor sie essen dürfen.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      },
+      "datum": "2026-10-24"
+    },
+    {
+      "id": "2026-10-24-0757-37",
+      "typ": "politisch-aktuell",
+      "stichwort": "Google rodet in Finnland Wald für KI-Rechenzentrum, dafür generiert die KI echte Wälder",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Google rodet in Finnland ohne Umweltprüfung 250'000 Bäume für ein KI-Rechenzentrum. Dafür kann die KI jetzt täuschend echte Wälder generieren. Mit Vogelgezwitscher. Im Abo.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-24"
     }
   ]
 }
