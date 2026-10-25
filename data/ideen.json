@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-25",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -94,21 +94,6 @@
       }
     },
     {
-      "id": "2026-10-25-0657-17",
-      "typ": "schnittmenge",
-      "stichwort": "Thurgau ohne eigenes Frauenhaus, die Apfelbäume haben Hagelnetze",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Der Kanton Thurgau hat kein eigenes Frauenhaus. Seine Apfelbäume haben immerhin Hagelnetze.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
       "id": "2026-10-25-0657-22",
       "typ": "politisch-aktuell",
       "stichwort": "Berner Chauffeur zahlt 1150 Franken für Öl in der Aare, mit einem Tanker wäre er Genfer Rohstoffhändler",
@@ -139,17 +124,17 @@
       }
     },
     {
-      "id": "2026-10-25-0657-26",
+      "id": "2026-10-25-0657-38",
       "typ": "politisch-aktuell",
-      "stichwort": "Meta muss 25 Milliarden Strafe zahlen, gespielte Sorge, dass sie jetzt unsere Daten verkaufen müssen",
+      "stichwort": "Just Eat macht Kuriere zu Selbständigen, eigenes Velo, eigener Regen, eigenes Unfallrisiko",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Meta muss 25 Milliarden Strafe zahlen. Hoffentlich müssen die jetzt nicht unsere Daten verkaufen.",
+      "text": "Just Eat macht seine Kuriere zu Selbständigen. Endlich ein eigenes Unternehmen, mit eigenem Velo, eigenem Regen und eigenem Unfallrisiko.",
       "jury": {
         "anker": true,
-        "witz": true,
+        "witz": false,
         "neu": true
       }
     }
