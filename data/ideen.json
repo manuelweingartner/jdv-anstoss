@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-25",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Habe Angst, dass Meta nach der Milliardenstrafe jetzt bei den Faktenchecks spart."
+    },
+    {
+      "id": "2026-10-25-0657-11",
+      "typ": "schnittmenge",
+      "stichwort": "Tausende mit Master finden keine Stelle, dieselben Firmen klagen über Fachkräftemangel",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Findet jemand mit Master keine Stelle, heisst das «zu wenig Erfahrung». Findet eine Firma niemanden mit Master, heisst das «Fachkräftemangel»."
+    },
+    {
+      "id": "2026-10-25-0657-12",
+      "typ": "remix",
+      "stichwort": "Galderma verdient Milliarden mit Fillern gegen das Ozempic-Face, das Geschäftsmodell ist das Abo",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Ozempic lässt mit den Kilos auch das Gesicht verschwinden, Galderma verdient Milliarden mit dem Auffüllen. Nicht die Spritze ist das Produkt, sondern das Abo."
     }
   ]
 }
