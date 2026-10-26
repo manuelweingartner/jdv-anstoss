@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-26",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Wie viele Komplikationen braucht ein Zürcher Herzchirurg, bis Swissmedic «zu penetrant» wird? Frage für alle, die ihr Arztzeugnis zum dritten Mal an die IV schicken."
+    },
+    {
+      "id": "2026-10-26-0657-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Serbische Studierende ziehen ins Parlament, Angst vor politisch Unerfahrenen, die noch nie einen Auftrag an die eigene Firma vergeben haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor den serbischen Studierenden, die nach der Wahl ins Parlament ziehen. Politisch unerfahren, noch nie einen Staatsauftrag an die eigene Firma vergeben. Keinen Cousin im Amt."
     }
   ]
 }
