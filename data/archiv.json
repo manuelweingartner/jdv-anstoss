@@ -19495,6 +19495,150 @@
         "neu": true
       },
       "datum": "2026-10-24"
+    },
+    {
+      "id": "2026-10-25-0657-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schlechte Google-Bewertungen für die Dargebotene Hand, weil sie auflegt, und bei der Krankenkasse nimmt gar niemand ab",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Dargebotene Hand legt auf, klagen Google-Bewertungen. Hat bei der Krankenkasse je jemand abgenommen?",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      },
+      "datum": "2026-10-25"
+    },
+    {
+      "id": "2026-10-25-0657-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Stichwahl in Brasilien: Der Sohn Bolsonaro kandidiert, weil der Vater in Haft sitzt, bei Blochers lief die Erbfolge über die Ems-Chemie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Papa Bolsonaro sitzt wegen Putschversuchs im Gefängnis, also kandidiert in Brasilien jetzt der Sohn. Bei Blochers lief dieselbe Erbfolge über die Ems-Chemie, ganz ohne Umsturz.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      },
+      "datum": "2026-10-25"
+    },
+    {
+      "id": "2026-10-25-0657-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Studie: ärmere Förderländer brauchen mehr Zeit für den Ausstieg aus Öl und Gas, die Schweiz hat kein Öl und braucht trotzdem länger",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ärmere Förderländer brauchen mehr Zeit für den Ausstieg aus Öl und Gas, sagt eine Studie. Verständlich, die Schweiz hat nicht mal Öl und braucht trotzdem länger. Seit Kyoto.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-25"
+    },
+    {
+      "id": "2026-10-25-0657-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "US-Richter verhängt Milliardenstrafe gegen Meta, Sorge um die Faktenchecks, die es seit 2025 nicht mehr gibt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst, dass Meta nach der Milliardenstrafe jetzt bei den Faktenchecks spart.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-10-25"
+    },
+    {
+      "id": "2026-10-25-0657-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vertrauensarbeitszeit heisst, die Firma vertraut darauf, dass du nicht nachzählst",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Vertrauensarbeitszeit heisst: Die Firma vertraut darauf, dass du nicht nachzählst. Bisher zu Recht.",
+      "jury": {
+        "anker": false,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-10-25"
+    },
+    {
+      "id": "2026-10-25-0657-12",
+      "typ": "remix",
+      "stichwort": "Galderma verdient Milliarden mit Fillern gegen das Ozempic-Face, das Geschäftsmodell ist das Abo",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Ozempic lässt mit den Kilos auch das Gesicht verschwinden, Galderma verdient Milliarden mit dem Auffüllen. Nicht die Spritze ist das Produkt, sondern das Abo.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-25"
+    },
+    {
+      "id": "2026-10-25-0657-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Berner Chauffeur zahlt 1150 Franken für Öl in der Aare, mit einem Tanker wäre er Genfer Rohstoffhändler",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Ein Berner Chauffeur zahlt 1150 Franken Busse, weil Öl aus seiner Mulde in die Aare lief. Mit einem Tanker vor Westafrika wäre er Genfer Rohstoffhändler.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-10-25"
+    },
+    {
+      "id": "2026-10-25-0657-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Stiftung bittet reiche Rentner*innen, die dreizehnte AHV-Rente zu spenden, leere Liste der Zusagen von der Goldküste",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Eine Stiftung bittet reiche Rentner*innen, ihre dreizehnte AHV-Rente zu spenden. Zusagen von der Goldküste:\n-\n-",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-10-25"
+    },
+    {
+      "id": "2026-10-25-0657-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "Just Eat macht Kuriere zu Selbständigen, eigenes Velo, eigener Regen, eigenes Unfallrisiko",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Just Eat macht seine Kuriere zu Selbständigen. Endlich ein eigenes Unternehmen, mit eigenem Velo, eigenem Regen und eigenem Unfallrisiko.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-25"
     }
   ]
 }
