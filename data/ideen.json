@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-26",
-  "hinweis": "7 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Wie viele Menschen muss eine Branche eigentlich töten, bis der Bund ihr Milliarden überweist? Frage für die Pflege, die es bisher nur mit Retten versucht hat."
+    },
+    {
+      "id": "2026-10-26-0657-11",
+      "typ": "schnittmenge",
+      "stichwort": "Nestlé erhöht die Preise und meldet ein starkes Quartal, Preissetzungsmacht gegen Lohn-Preis-Spirale",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Nestlé erhöht die Preise: «Preissetzungsmacht». Die Pflegerin will zwei Franken mehr: «Lohn-Preis-Spirale»."
+    },
+    {
+      "id": "2026-10-26-0657-12",
+      "typ": "remix",
+      "stichwort": "Zug Zürich nach Stuttgart wird pünktlicher durch weniger Halte, Klimaziel durch weniger Messen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Zug von Zürich nach Stuttgart wird pünktlicher, weil er weniger hält. Nach derselben Methode erreicht die Schweiz das Klimaziel, indem sie weniger misst."
     },
     {
       "id": "2026-10-26-0657-21",
