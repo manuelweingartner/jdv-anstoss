@@ -1,8 +1,48 @@
 {
   "datum": "2026-10-26",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "7 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-26-0657-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf das Aktiendepot, das steuerfrei und im Schlaf wächst, ohne Lohnausweis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so steuerfrei wachsen dürfen wie ein Aktiendepot. Im Schlaf. Ohne Lohnausweis."
+    },
+    {
+      "id": "2026-10-26-0657-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mietkaution als Beweis der Zuverlässigkeit, der Vermieter hinterlegt nichts, seine Hypothek zahlt ebenfalls der Mieter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Zum Einzug musst du drei Monatsmieten hinterlegen, falls du mal nicht zahlst. Der Vermieter hinterlegt nichts, seine Hypothek zahlst ja auch du."
+    },
+    {
+      "id": "2026-10-26-0657-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hausverwaltung so: bei kaputter Heizung wird weitergeleitet, bei einem Tag Mietverzug gibt es Mahnung, Gebühr, Kündigung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Heizung seit Wochen kaputt, Verwaltung so: wir leiten das weiter. Miete einen Tag zu spät, Verwaltung so: Mahnung, Gebühr, Kündigung."
+    },
+    {
+      "id": "2026-10-26-0657-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wie viele Menschen muss eine Branche töten, bis der Bund Milliarden überweist, Frage für die Pflege, die es mit Retten versucht hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie viele Menschen muss eine Branche eigentlich töten, bis der Bund ihr Milliarden überweist? Frage für die Pflege, die es bisher nur mit Retten versucht hat."
+    },
     {
       "id": "2026-10-26-0657-21",
       "typ": "politisch-aktuell",
