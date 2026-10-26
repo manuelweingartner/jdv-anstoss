@@ -1,62 +1,59 @@
 {
-  "stand": "2026-10-25T16:00:43+01:00",
-  "lauf": "1600",
+  "stand": "2026-10-26T07:06:04+01:00",
+  "lauf": "0705",
   "fotos": [
     {
-      "id": "1600-1",
-      "titel": "Männer-Riesenslalom in Sölden – Nur Pinheiro Braathen steht Meillard und Odermatt vor der Sonne",
-      "was": "Siegerpodest in Sölden, Brasilianer in der Mitte, zwei Schweizer daneben",
-      "richtung": "Mechanik: Rollenrede aus Sicht der zwei Schweizer auf den Seitenstufen. Achse: Die Skination auf dem eigenen Hausgletscher gegen einen Sieger aus einem Land ohne Schnee.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [
-        "20 Minuten",
-        "NZZ"
-      ],
-      "artikel": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/maenner-riesenslalom-in-soelden-nur-pinheiro-braathen-steht-meillard-und-odermatt-vor-der-sonne",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/4bef0c0.jpg",
-      "zeit": "2026-10-25T14:15+01:00"
-    },
-    {
-      "id": "1600-2",
-      "titel": "Midterms-Wahlkampf – Obama spottet über Weisses Haus und greift Trump scharf an",
-      "was": "Obama am Rednerpult in Ohio, gestikulierend vor jubelndem Wahlkampfpublikum",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, aus der Wahlkampfrede wird eine Kritik an der Inneneinrichtung. Achse: Spott über den Goldprunk im Weissen Haus gegen den eigentlichen Vorwurf der Korrupti",
+      "id": "0705-1",
+      "titel": "Nicki Minaj: Donald Trump lobt ihren Hintern. Wird sie seine neue Sprecherin?",
+      "was": "Trump und Nicki Minaj gemeinsam auf der Wahlkampfbühne, er grinsend, sie posierend",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Personalauswahl im Weissen Haus nach Komplimenten statt nach Qualifikation.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "SRF",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "Spiegel",
-        "Tagesschau",
-        "taz"
+        "NZZ"
       ],
-      "artikel": "https://www.srf.ch/news/international/usa/midterms-wahlkampf-obama-spottet-ueber-weisses-haus-und-greift-trump-scharf-an",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/408a05.jpg",
-      "zeit": "2026-10-25T10:14+01:00"
+      "artikel": "https://www.spiegel.de/panorama/leute/nicki-minaj-donald-trump-lobt-ihren-hintern-wird-sie-seine-neue-sprecherin-a-211e5317-1f9a-4eb7-9019-8cfb410576ef#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/48703de5-0ba4-4fcf-91d7-23ab2317518f_w520_r2.08_fpx50_fpy36.jpg",
+      "zeit": "2026-10-26T04:45+01:00"
     },
     {
-      "id": "1600-3",
-      "titel": "Millionengeschäft im Polosport – Angriff der Klonpferde: «Cuartetera» gibt’s jetzt 63 Mal",
-      "was": "Mehrere identisch aussehende Polopferde nebeneinander auf dem Spielfeld",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Ein einzigartiges Ausnahmetier gegen seine Serienfertigung in 63 Exemplaren.",
-      "grund": "memetauglich",
+      "id": "0705-2",
+      "titel": "Präsident Lula gewinnt – Bolsonaro will Wahl annullieren lassen",
+      "was": "Lula mit 80 jubelnd vor roten Fahnen, Flávio Bolsonaro mit versteinerter Miene",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Wahlniederlage nicht anerkennen als Familienerbstück der Bolsonaros, Vater wie Sohn.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "20 Minuten",
+      "auch_bei": [
+        "Spiegel",
+        "Tagesschau"
+      ],
+      "artikel": "https://www.20min.ch/story/stichwahl-in-brasilien-amtsinhaber-lula-sichert-sich-eine-vierte-amtszeit-103656399",
+      "bild": "https://image.20min.ch/2026/10/26/0e2a51d0-4e52-4816-abb2-5a7a06d5d31e.jpg?s=1f9609311f35f1e7912db2527d7b8b85",
+      "zeit": "2026-10-26T01:15+01:00"
+    },
+    {
+      "id": "0705-3",
+      "titel": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
+      "was": "Vucic ernst am Rednerpult vor Parteiflaggen, räumt die Niederlage ein",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Dreizehn Jahre Machtapparat gegen eine Studentenliste ohne Partei und ohne Geld.",
+      "grund": "breit",
       "raum": "",
-      "quelle": "SRF",
-      "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/gesellschaft/millionengeschaeft-im-polosport-angriff-der-klonpferde-cuartetera-gibt-s-jetzt-63-mal",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/e2c939.jpg",
-      "zeit": "2026-10-25T14:00+01:00"
+      "quelle": "Spiegel",
+      "auch_bei": [
+        "SRF",
+        "Tagesschau"
+      ],
+      "artikel": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/c87b1e56-db7a-47cb-a110-4c2fd6ac03eb_w520_r2.08_fpx45.99_fpy44.99.jpg",
+      "zeit": "2026-10-25T21:52+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 23:00",
-      "was": "Wahlsieger der Stichwahl in Brasilien, Lula oder Flávio Bolsonaro, jubelt vor Anhängern"
-    },
-    {
-      "wann": "heute ab 20:00",
-      "was": "Wahlabend in Belgrad, Siegerauftritt nach der Parlamentswahl in Serbien"
+      "wann": "heute, Ankunft in Singapur",
+      "was": "Merz beim Handschlag oder vor der Ehrengarde, Steinmeier zeitgleich anderswo in Asien in gleicher Pose"
     }
   ],
   "hinweis": ""
