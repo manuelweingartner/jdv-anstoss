@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-26",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -34,21 +34,6 @@
       }
     },
     {
-      "id": "2026-10-26-0657-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor KI am Arbeitsplatz, bei Sunrise schafft die Geschäftsleitung 358 Kündigungen ganz ohne KI",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst, dass die KI mir den Job wegnimmt. Bei Sunrise hat das diese Woche die Geschäftsleitung ganz ohne KI geschafft, 358 Mal.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-10-26-0657-06",
       "typ": "politisch-aktuell",
       "stichwort": "Einzige Demokratie im Nahen Osten, am Wahltag riegelt Israel das Westjordanland ab, sicherheitshalber",
@@ -64,6 +49,36 @@
       }
     },
     {
+      "id": "2026-10-26-0657-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mietkaution als Beweis der Zuverlässigkeit, der Vermieter hinterlegt nichts, seine Hypothek zahlt ebenfalls der Mieter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Zum Einzug musst du drei Monatsmieten hinterlegen, falls du mal nicht zahlst. Der Vermieter hinterlegt nichts, seine Hypothek zahlst ja auch du.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-26-0657-12",
+      "typ": "remix",
+      "stichwort": "Zug Zürich nach Stuttgart wird pünktlicher durch weniger Halte, Klimaziel durch weniger Messen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Zug von Zürich nach Stuttgart wird pünktlicher, weil er weniger hält. Nach derselben Methode erreicht die Schweiz das Klimaziel, indem sie weniger misst.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
+    },
+    {
       "id": "2026-10-26-0657-17",
       "typ": "politisch-aktuell",
       "stichwort": "Steuerwohnsitz Appenzell, Arbeitsort Zürich, nie zu Hause: Mietauto oder Verwaltungsrat",
@@ -75,6 +90,21 @@
       "jury": {
         "anker": true,
         "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-26-0657-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti von der Heizöl-Lobby zum Umweltminister, Lungenliga schreibt bei Philip Morris aus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Albert Rösti, früher Präsident der Heizöl-Lobby, ist heute Umweltminister. Die Lungenliga schreibt ihr Präsidium jetzt bei Philip Morris aus.",
+      "jury": {
+        "anker": true,
+        "witz": false,
         "neu": true
       }
     },
@@ -94,18 +124,18 @@
       }
     },
     {
-      "id": "2026-10-26-0657-24",
+      "id": "2026-10-26-0657-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Serbische Studierende ziehen ins Parlament, Angst vor politisch Unerfahrenen, die noch nie einen Auftrag an die eigene Firma vergeben haben",
+      "stichwort": "Zeitumstellung kostet die Wirtschaft Millionen, dabei ist es die einzige Überstunde, die je zurückgegeben wird, vom Kalender",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor den serbischen Studierenden, die nach der Wahl ins Parlament ziehen. Politisch unerfahren, noch nie einen Staatsauftrag an die eigene Firma vergeben. Keinen Cousin im Amt.",
+      "text": "Stimmt, die Zeitumstellung muss weg, sie kostet die Wirtschaft Millionen. Dabei ist das die einzige Überstunde, die je zurückgegeben wird. Einmal im Jahr. Vom Kalender.",
       "jury": {
         "anker": true,
         "neu": true,
-        "witz": true
+        "witz": false
       }
     },
     {
@@ -132,21 +162,6 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "An der Self-Checkout-Kasse scannst du selbst, die Migros spart sich die Kassiererin, der Preis bleibt gleich. Unbezahlte Arbeit, jetzt endlich auch für Männer.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-26-0657-32",
-      "typ": "remix",
-      "stichwort": "ETH-Student baut die ganze Schweiz 1:1 in Minecraft nach, im Original dauert ein einziges Windrad länger als sein Studium (Remix der unterausgespielten Marathon-Eskalationskette)",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Ein ETH-Student hat die ganze Schweiz 1:1 in Minecraft nachgebaut, jede Strasse, jedes Haus, jeden Gipfel. Im Original dauert ein einziges Windrad länger als sein Studium.",
       "jury": {
         "witz": true,
         "anker": true,
