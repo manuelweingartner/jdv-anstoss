@@ -4,64 +4,79 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-10-26-0657-07",
+      "id": "2026-10-26-0657-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Neid auf das Aktiendepot, das steuerfrei und im Schlaf wächst, ohne Lohnausweis",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so steuerfrei wachsen dürfen wie ein Aktiendepot. Im Schlaf. Ohne Lohnausweis."
-    },
-    {
-      "id": "2026-10-26-0657-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mietkaution als Beweis der Zuverlässigkeit, der Vermieter hinterlegt nichts, seine Hypothek zahlt ebenfalls der Mieter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Zum Einzug musst du drei Monatsmieten hinterlegen, falls du mal nicht zahlst. Der Vermieter hinterlegt nichts, seine Hypothek zahlst ja auch du."
-    },
-    {
-      "id": "2026-10-26-0657-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hausverwaltung so: bei kaputter Heizung wird weitergeleitet, bei einem Tag Mietverzug gibt es Mahnung, Gebühr, Kündigung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Heizung seit Wochen kaputt, Verwaltung so: wir leiten das weiter. Miete einen Tag zu spät, Verwaltung so: Mahnung, Gebühr, Kündigung."
-    },
-    {
-      "id": "2026-10-26-0657-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wie viele Menschen muss eine Branche töten, bis der Bund Milliarden überweist, Frage für die Pflege, die es mit Retten versucht hat",
+      "stichwort": "Trump nennt Senatskandidat El-Sayed Dschihadist, Epstein war ein «terrific guy»",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Wie viele Menschen muss eine Branche eigentlich töten, bis der Bund ihr Milliarden überweist? Frage für die Pflege, die es bisher nur mit Retten versucht hat."
+      "text": "Für Trump ist Abdul El-Sayed, Arzt und Senatskandidat in Michigan, ein «Dschihadist». Jeffrey Epstein war für ihn ein «terrific guy». Beides nach sorgfältiger Prüfung.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-26-0657-11",
-      "typ": "schnittmenge",
-      "stichwort": "Nestlé erhöht die Preise und meldet ein starkes Quartal, Preissetzungsmacht gegen Lohn-Preis-Spirale",
-      "plattform": "Threads + Bluesky, IG-Textgrafik",
+      "id": "2026-10-26-0657-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Serbien: Angst vor Unerfahrenen im Parlament, die Erfahrenen liessen das Bahnhofsdach von Novi Sad renovieren",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Nestlé erhöht die Preise: «Preissetzungsmacht». Die Pflegerin will zwei Franken mehr: «Lohn-Preis-Spirale»."
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, in Serbien ziehen jetzt lauter Unerfahrene ins Parlament. Die Erfahrenen haben in Novi Sad das Bahnhofsdach renovieren lassen, das auf die Wartenden gefallen ist.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-26-0657-12",
-      "typ": "remix",
-      "stichwort": "Zug Zürich nach Stuttgart wird pünktlicher durch weniger Halte, Klimaziel durch weniger Messen",
+      "id": "2026-10-26-0657-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor KI am Arbeitsplatz, bei Sunrise schafft die Geschäftsleitung 358 Kündigungen ganz ohne KI",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Der Zug von Zürich nach Stuttgart wird pünktlicher, weil er weniger hält. Nach derselben Methode erreicht die Schweiz das Klimaziel, indem sie weniger misst."
+      "text": "Habe Angst, dass die KI mir den Job wegnimmt. Bei Sunrise hat das diese Woche die Geschäftsleitung ganz ohne KI geschafft, 358 Mal.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-26-0657-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Einzige Demokratie im Nahen Osten, am Wahltag riegelt Israel das Westjordanland ab, sicherheitshalber",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Einzige Demokratie im Nahen Osten, stimmt. Am Wahltag riegelt Israel das Westjordanland ab. Sicherheitshalber.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-26-0657-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuerwohnsitz Appenzell, Arbeitsort Zürich, nie zu Hause: Mietauto oder Verwaltungsrat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer in Zürich arbeitet, in Appenzell Innerrhoden Steuern zahlt und nie dort schläft, ist ein Mietauto. Oder ein Verwaltungsrat.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-26-0657-21",
@@ -71,27 +86,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Hacker legen französische Supermarkt-Kühlschränke lahm. Zum Glück hängt hier nur das Spital am Internet."
-    },
-    {
-      "id": "2026-10-26-0657-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vucic gesteht Wahlniederlage ein, am selben Tag nennt Trump einen demokratischen Kandidaten Dschihadisten, damit er das später nicht muss",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Serbiens Vucic gesteht am Sonntag seine Wahlniederlage ein. Am selben Tag nennt Trump einen demokratischen Kandidaten «Dschihadisten», damit er das später nicht muss."
-    },
-    {
-      "id": "2026-10-26-0657-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Swissmedic wollte bei Herzchirurg Maisano nicht zu penetrant sein, rhetorische Frage an alle, die ihr Arztzeugnis zum dritten Mal an die IV schicken",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Wie viele Komplikationen braucht ein Zürcher Herzchirurg, bis Swissmedic «zu penetrant» wird? Frage für alle, die ihr Arztzeugnis zum dritten Mal an die IV schicken."
+      "text": "Hacker legen französische Supermarkt-Kühlschränke lahm. Zum Glück hängt hier nur das Spital am Internet.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-26-0657-24",
@@ -101,7 +101,57 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor den serbischen Studierenden, die nach der Wahl ins Parlament ziehen. Politisch unerfahren, noch nie einen Staatsauftrag an die eigene Firma vergeben. Keinen Cousin im Amt."
+      "text": "Habe Angst vor den serbischen Studierenden, die nach der Wahl ins Parlament ziehen. Politisch unerfahren, noch nie einen Staatsauftrag an die eigene Firma vergeben. Keinen Cousin im Amt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-26-0657-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sunrise kündigt nach Konsultationsverfahren, immerhin wurden alle konsultiert, danach hatte niemand mehr Fragen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Immerhin wurden bei Sunrise vor den Kündigungen alle konsultiert. Danach hatte niemand mehr Fragen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-26-0657-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Self-Checkout bei der Migros, unbezahlte Arbeit jetzt auch für Männer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "An der Self-Checkout-Kasse scannst du selbst, die Migros spart sich die Kassiererin, der Preis bleibt gleich. Unbezahlte Arbeit, jetzt endlich auch für Männer.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-26-0657-32",
+      "typ": "remix",
+      "stichwort": "ETH-Student baut die ganze Schweiz 1:1 in Minecraft nach, im Original dauert ein einziges Windrad länger als sein Studium (Remix der unterausgespielten Marathon-Eskalationskette)",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Ein ETH-Student hat die ganze Schweiz 1:1 in Minecraft nachgebaut, jede Strasse, jedes Haus, jeden Gipfel. Im Original dauert ein einziges Windrad länger als sein Studium.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
