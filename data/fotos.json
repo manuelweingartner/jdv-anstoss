@@ -1,59 +1,62 @@
 {
-  "stand": "2026-10-26T07:06:04+01:00",
-  "lauf": "0705",
+  "stand": "2026-10-26T16:00:46+01:00",
+  "lauf": "1600",
   "fotos": [
     {
-      "id": "0705-1",
-      "titel": "Nicki Minaj: Donald Trump lobt ihren Hintern. Wird sie seine neue Sprecherin?",
-      "was": "Trump und Nicki Minaj gemeinsam auf der Wahlkampfbühne, er grinsend, sie posierend",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Personalauswahl im Weissen Haus nach Komplimenten statt nach Qualifikation.",
+      "id": "1600-1",
+      "titel": "Radikaler Umbau bei der Migros: Aus elf Genossenschaften soll eine Super-Migros werden, und CEO Mario Irminger tritt zurück",
+      "was": "Migros-Präsidentin Ursula Nold und CEO Irminger an der Medienkonferenz vor orangem Logo",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Effizienz heisst für den Konzern Fusion, für die Genossenschafter eine Abstimmung über Beschlossenes und für den CEO der Abgang, bevor es gilt.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
+      "raum": "schweiz",
+      "quelle": "NZZ",
       "auch_bei": [
-        "NZZ"
+        "20 Minuten",
+        "SRF"
       ],
-      "artikel": "https://www.spiegel.de/panorama/leute/nicki-minaj-donald-trump-lobt-ihren-hintern-wird-sie-seine-neue-sprecherin-a-211e5317-1f9a-4eb7-9019-8cfb410576ef#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/48703de5-0ba4-4fcf-91d7-23ab2317518f_w520_r2.08_fpx50_fpy36.jpg",
-      "zeit": "2026-10-26T04:45+01:00"
+      "artikel": "https://www.nzz.ch/wirtschaft/kommt-jetzt-die-einheitsgenossenschaft-heute-sagt-die-migros-wie-sie-sich-effizienter-aufstellen-will-ld.10044412",
+      "bild": "https://img-msp-prod.nzz.ch/2026/10/26/7b01b257-998e-4787-9d38-937663a50702.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=981,981,x509,y555",
+      "zeit": "2026-10-26T13:27+01:00"
     },
     {
-      "id": "0705-2",
-      "titel": "Präsident Lula gewinnt – Bolsonaro will Wahl annullieren lassen",
-      "was": "Lula mit 80 jubelnd vor roten Fahnen, Flávio Bolsonaro mit versteinerter Miene",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Wahlniederlage nicht anerkennen als Familienerbstück der Bolsonaros, Vater wie Sohn.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "20 Minuten",
-      "auch_bei": [
-        "Spiegel",
-        "Tagesschau"
-      ],
-      "artikel": "https://www.20min.ch/story/stichwahl-in-brasilien-amtsinhaber-lula-sichert-sich-eine-vierte-amtszeit-103656399",
-      "bild": "https://image.20min.ch/2026/10/26/0e2a51d0-4e52-4816-abb2-5a7a06d5d31e.jpg?s=1f9609311f35f1e7912db2527d7b8b85",
-      "zeit": "2026-10-26T01:15+01:00"
-    },
-    {
-      "id": "0705-3",
-      "titel": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-      "was": "Vucic ernst am Rednerpult vor Parteiflaggen, räumt die Niederlage ein",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Dreizehn Jahre Machtapparat gegen eine Studentenliste ohne Partei und ohne Geld.",
+      "id": "1600-2",
+      "titel": "Großer Jubel in Brasilien: Lula da Silva gewinnt Präsidentenwahl",
+      "was": "Lula mit 80 Jahren jubelnd auf der Bühne, Konfetti und Anhänger",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: vierter Wahlsieg als Routine eines 80-Jährigen gegen einen Verlierer, der das Resultat nicht anerkennt.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Spiegel",
+      "quelle": "Tagesschau",
       "auch_bei": [
+        "NZZ",
         "SRF",
-        "Tagesschau"
+        "taz"
       ],
-      "artikel": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/c87b1e56-db7a-47cb-a110-4c2fd6ac03eb_w520_r2.08_fpx45.99_fpy44.99.jpg",
-      "zeit": "2026-10-25T21:52+01:00"
+      "artikel": "https://www.tagesschau.de/video/video-1672716.html",
+      "bild": "https://images.tagesschau.de/image/c9d85014-2e39-4f20-a317-7b17b7277ae7/AAABoXenKZ4/AAABnSSvrFg/16x9-big/lula-240.jpg?width=1280",
+      "zeit": "2026-10-26T11:29+01:00"
+    },
+    {
+      "id": "1600-3",
+      "titel": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
+      "was": "Trump und Audi-Chef Döllner nebeneinander auf einer Wahlkampfbühne",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Konzernregeln verbieten Mitarbeitenden Parteipolitik am Arbeitsplatz, der Chef steht im US-Wahlkampf neben Trump.",
+      "grund": "memetauglich",
+      "raum": "weltweit",
+      "quelle": "Tagesschau",
+      "auch_bei": [],
+      "artikel": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html",
+      "bild": "https://images.tagesschau.de/image/19fe1ab4-786c-4a6c-a36a-1721f8e3e265/AAABoXd_6EU/AAABnSSvrFg/16x9-big/gernot-doellner-102.jpg?width=1280",
+      "zeit": "2026-10-26T13:48+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, Ankunft in Singapur",
-      "was": "Merz beim Handschlag oder vor der Ehrengarde, Steinmeier zeitgleich anderswo in Asien in gleicher Pose"
+      "wann": "heute Abend",
+      "was": "Ballon-d'Or-Gala in Paris, Preisträger mit Trophäe und Frack"
+    },
+    {
+      "wann": "heute im Verlauf des Tages",
+      "was": "Steinmeier beim Abflug oder bei der Ankunft zum Staatsbesuch in China, Merz parallel auf Asienreise"
     }
   ],
   "hinweis": ""
