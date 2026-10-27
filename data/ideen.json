@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Die Migros legt nach Skandalen und Verlusten ihre Genossenschaften zusammen. Abstimmen dürfen die Besitzer*innen erst wieder, wenn es um Bier geht."
+      "text": "Die Migros legt nach Skandalen und Verlusten ihre Genossenschaften zusammen. Abstimmen dürfen die Besitzer*innen erst wieder, wenn es um Bier geht.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-10-27-0657-02",
@@ -21,7 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Flávio Bolsonaro muss wegen Geldwäsche den Pass abgeben. Das Geld durfte ausreisen."
+      "text": "Flávio Bolsonaro muss wegen Geldwäsche den Pass abgeben. Das Geld durfte ausreisen.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-10-27-0657-03",
@@ -31,17 +41,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Trump, Putin und Xi sind sich einig: Viktor Orbán soll die UNO führen. So einig waren sich Grossmächte zuletzt 1939, bei Polen."
+      "text": "Trump, Putin und Xi sind sich einig: Viktor Orbán soll die UNO führen. So einig waren sich Grossmächte zuletzt 1939, bei Polen.",
+      "jury": {
+        "neu": false,
+        "witz": true,
+        "anker": true
+      }
     },
     {
-      "id": "2026-10-27-0657-11",
-      "typ": "schnittmenge",
-      "stichwort": "Kinderbetreuung: bei der Mutter keine Arbeit, bei der Kita unbezahlbar",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
+      "id": "2026-10-27-0657-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zucman-Mindeststeuer für Superreiche, Angst um die Reichen, denen bleibt weniger als alles",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Betreut die Mutter das Kind, ist das keine Arbeit. Betreut es die Kita, unbezahlbar."
+      "format": "frei",
+      "text": "Habe Angst vor der Zucman-Steuer für Superreiche. Am Ende bleibt denen weniger als alles.",
+      "jury": {
+        "anker": false,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-27-0657-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reiche als einzige Minderheit mit eigener Partei, eigener Zeitung und eigenem Kanton",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Reiche sind die einzige Minderheit mit eigener Partei, eigener Zeitung und eigenem Kanton.",
+      "jury": {
+        "anker": false,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-27-0657-12",
@@ -51,37 +86,27 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Microsoft zahlt 60'000 Angestellten fürs Gehen und Rechenzentren Milliarden fürs Bleiben. Wer noch sagt, KI ergänze den Menschen, steht im leeren Grossraumbüro und lobt die Klimaanlage."
+      "text": "Microsoft zahlt 60'000 Angestellten fürs Gehen und Rechenzentren Milliarden fürs Bleiben. Wer noch sagt, KI ergänze den Menschen, steht im leeren Grossraumbüro und lobt die Klimaanlage.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-27-0657-16",
-      "typ": "schnittmenge",
-      "stichwort": "AI auf der Autobahn ist nur ein Mietauto aus Appenzell Innerrhoden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Keine Panik, wenn dich auf der Autobahn ein AI überholt. Das ist nur ein Mietauto, das in Appenzell Innerrhoden Steuern spart."
-    },
-    {
-      "id": "2026-10-27-0657-17",
-      "typ": "schnittmenge",
-      "stichwort": "Jedes Dorf im Thurgau hat einen Schiessstand, der Kanton kein Frauenhaus",
+      "id": "2026-10-27-0657-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bolsonaro-Vater verurteilt, Sohn gibt Pass ab, in den USA nennt man so eine Familie Regierung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Jedes Dorf im Thurgau hat einen Schiessstand. Ein eigenes Frauenhaus hat der Kanton nicht."
-    },
-    {
-      "id": "2026-10-27-0657-18",
-      "typ": "schnittmenge",
-      "stichwort": "Rösti im Feuer, Öl nachgiessen, rhetorische Frage an den Umweltminister",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kann man eigentlich im Feuer stehen und gleichzeitig Öl nachgiessen? Frage für Umweltminister Albert Rösti, der früher beruflich für Heizöl geworben hat."
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Brasilien verurteilt den Vater Bolsonaro wegen Putsch und nimmt dem Sohn wegen Geldwäsche den Pass ab. In den USA nennt man so eine Familie Regierung.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-27-0657-24",
@@ -91,7 +116,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Stimmt, bei Zucmans Reichensteuer ziehen Superreiche weg. Nur wohin, wir sind die Schweiz."
+      "text": "Stimmt, bei Zucmans Reichensteuer ziehen Superreiche weg. Nur wohin, wir sind die Schweiz.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-27-0657-25",
@@ -101,7 +131,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Migration kostet Millionen, stimmt. Das neue Bundesregister zum Zählen von Migrant*innen kostet 193 statt 66, unklar, ob man jetzt die Menschen oder das Register ausschaffen soll."
+      "text": "Migration kostet Millionen, stimmt. Das neue Bundesregister zum Zählen von Migrant*innen kostet 193 statt 66, unklar, ob man jetzt die Menschen oder das Register ausschaffen soll.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-27-0657-37",
+      "typ": "schnittmenge",
+      "stichwort": "Kein Frauenhaus im Thurgau, nach dem Schlag verlässt jemand den Kanton, nicht der Täter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Kein eigenes Frauenhaus im Thurgau: nach dem Schlag verlässt jemand den Kanton. Nicht der, der zuschlägt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
