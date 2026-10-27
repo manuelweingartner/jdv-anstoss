@@ -1,55 +1,57 @@
 {
-  "stand": "2026-10-27T07:04:16+01:00",
-  "lauf": "0703",
+  "stand": "2026-10-27T16:01:15+01:00",
+  "lauf": "1600",
   "fotos": [
     {
-      "id": "0703-1",
-      "titel": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
-      "was": "Audi-Chef Döllner neben Trump auf einer Wahlkampfbühne mit Fahnen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Werk in Amerika als nüchterne Standortvernunft verkaufen, während der Chef auf einer fremden Wahlkampfbühne klatscht und Neckarsulm die Rechnung",
+      "id": "1600-1",
+      "titel": "Wahl in Israel: \"König Bibi\" polarisiert - setzt er sich noch mal durch?",
+      "was": "Netanjahu wirft seinen Stimmzettel in die Urne, Kameras ringsum",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: der Wähler Netanjahu gibt seine Stimme ab, während der Regierungschef Netanjahu seit zwanzig Jahren bestimmt, worüber abgestimmt wird.",
       "grund": "breit",
-      "raum": "weltweit",
+      "raum": "schweiz",
       "quelle": "Tagesschau",
-      "auch_bei": [
-        "Spiegel"
-      ],
-      "artikel": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
-      "bild": "https://images.tagesschau.de/image/c75175e1-3383-485a-b61d-f9f29721e772/AAABoXnIy2Y/AAABnSSvrFg/16x9-big/doellner-trump-104.jpg?width=1280",
-      "zeit": "2026-10-26T20:56+01:00"
-    },
-    {
-      "id": "0703-2",
-      "titel": "Yamal und Mbappé ausgestochen – Ballon d'Or erstmals an Kane und zum 3. Mal an Putellas",
-      "was": "Harry Kane im Smoking hält die goldene Ballon-d'Or-Kugel hoch",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: der jahrelang verspottete Titellose bekommt den grössten Einzelpreis in einem Jahr, das als Mannschaft Barcelona dominiert hat.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [
-        "Spiegel"
-      ],
-      "artikel": "https://www.srf.ch/sport/fussball/internationale-ligen/yamal-und-mbappe-ausgestochen-ballon-d-or-erstmals-an-kane-und-zum-3-mal-an-putellas",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/55f08b.jpg",
-      "zeit": "2026-10-27T00:09+01:00"
-    },
-    {
-      "id": "0703-3",
-      "titel": "Ungewöhnlicher Umzug – Zoo Zürich nimmt Abschied von seinen Kamelen",
-      "was": "Tierpflegerin verabschiedet Kamel vor Transportanhänger im Zoo Zürich",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein tränenreicher Abschied im Zoo gegen die Nüchternheit, mit der Zürich sonst Bewohner aus der Stadt verdrängt.",
-      "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/ungewoehnlicher-umzug-zoo-zuerich-nimmt-abschied-von-seinen-kamelen",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/04b703.jpg",
-      "zeit": "2026-10-26T20:01+01:00"
+      "artikel": "https://www.tagesschau.de/ausland/asien/israel-wahl-portraet-netanjahu-100.html",
+      "bild": "https://images.tagesschau.de/image/d70f0de0-761d-4812-8b90-3c955d24af9f/AAABoXehCVE/AAABnSSvrFg/16x9-big/proteste-tel-aviv-108.jpg?width=1280",
+      "zeit": "2026-10-27T13:11+01:00"
+    },
+    {
+      "id": "1600-2",
+      "titel": "Airline im Umschwung – Swiss reduziert Mietflotte – Air Baltic geht, Helvetic bleibt",
+      "was": "Air-Baltic-Jet in Swiss-Bemalung am Gate, Crew am Treppenaufgang",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Schweizer Qualität als Werbeversprechen gegen lettische Crews, die jahrelang still den Betrieb trugen und jetzt still gehen.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "SRF",
+      "auch_bei": [
+        "20 Minuten"
+      ],
+      "artikel": "https://www.srf.ch/news/schweiz/airline-im-umschwung-swiss-reduziert-mietflotte-air-baltic-geht-helvetic-bleibt",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/71a64b.jpg",
+      "zeit": "2026-10-27T14:36+01:00"
+    },
+    {
+      "id": "1600-3",
+      "titel": "Audi: Kritik an Gernot Döllner nach Trump-Auftritt eskaliert im VW-Intranet",
+      "was": "Audi-Chef Döllner lächelt neben Trump auf einer Bühne, Handschlag",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: das Konzernleitbild von Haltung und Verantwortung im Intranet gegen das Bühnenlächeln neben dem Mann, der die Zölle diktiert.",
+      "grund": "memetauglich",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
+      "auch_bei": [],
+      "artikel": "https://www.spiegel.de/wirtschaft/unternehmen/audi-kritik-an-gernot-doellner-nach-trump-auftritt-eskaliert-im-vw-intranet-a-922db2dd-7446-43cb-b800-dd6d0e929d15#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/6e0f1864-d25a-41e7-8587-b9eaf604cb3b_w520_r2.08_fpx33.3_fpy49.96.jpg",
+      "zeit": "2026-10-27T15:07+01:00"
     }
   ],
   "erwartet": [
     {
       "wann": "heute ab 21:00",
-      "was": "Netanjahu und Herausforderer beim Stimmzettel-Posieren im Wahllokal, später Jubel oder versteinerte Mienen vor den Hochr"
+      "was": "Jubel oder versteinerte Gesichter an den Wahlpartys von Netanjahu und Eisenkot nach den ersten Prognosen"
+    },
+    {
+      "wann": "heute, laufend",
+      "was": "Merz auf Asien-Reise bei Handschlag-Choreografien und Werksbesichtigungen mit Helm"
     }
   ],
   "hinweis": ""
