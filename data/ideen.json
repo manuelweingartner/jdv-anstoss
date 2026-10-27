@@ -4,6 +4,36 @@
   "fertig": false,
   "ideen": [
     {
+      "id": "2026-10-27-0657-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Migros fusioniert nach Skandalen die Genossenschaften, die Besitzer*innen stimmen nur über Bier ab",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Migros legt nach Skandalen und Verlusten ihre Genossenschaften zusammen. Abstimmen dürfen die Besitzer*innen erst wieder, wenn es um Bier geht."
+    },
+    {
+      "id": "2026-10-27-0657-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Flávio Bolsonaro muss wegen Geldwäsche den Pass abgeben, das Geld durfte ausreisen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Flávio Bolsonaro muss wegen Geldwäsche den Pass abgeben. Das Geld durfte ausreisen."
+    },
+    {
+      "id": "2026-10-27-0657-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump, Putin und Xi einig über Orbán als UN-Generalsekretär, so einig wie 1939 bei Polen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump, Putin und Xi sind sich einig: Viktor Orbán soll die UNO führen. So einig waren sich Grossmächte zuletzt 1939, bei Polen."
+    },
+    {
       "id": "2026-10-27-0657-11",
       "typ": "schnittmenge",
       "stichwort": "Kinderbetreuung: bei der Mutter keine Arbeit, bei der Kita unbezahlbar",
@@ -72,36 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Migration kostet Millionen, stimmt. Das neue Bundesregister zum Zählen von Migrant*innen kostet 193 statt 66, unklar, ob man jetzt die Menschen oder das Register ausschaffen soll."
-    },
-    {
-      "id": "2026-10-27-0657-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Migros-Chef hält den Konzernumbau für richtig und geht vorher, richtig ist, was andere ausbaden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Verständlich, dass Migros-Chef Irminger den Konzernumbau für richtig hält und die Firma vorher verlässt. Richtig ist, was andere ausbaden."
-    },
-    {
-      "id": "2026-10-27-0657-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wohnungsinserat verlangt Motivationsschreiben, begründen, warum man ein Dach über dem Kopf verdient hat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Wohnungsinserat in Zürich: bitte Motivationsschreiben beilegen. Man soll begründen, warum ausgerechnet man ein Dach über dem Kopf verdient hat. Mit Lebenslauf. Betreibungsauszug. Referenzen."
-    },
-    {
-      "id": "2026-10-27-0657-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wie viele Kinder grossziehen, bis es als Berufserfahrung zählt, Frage für HR und die Lücke im Lebenslauf",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wie viele Kinder muss man eigentlich grossziehen, bis es als Berufserfahrung zählt? Frage für alle HR-Abteilungen, denen das als Lücke im Lebenslauf auffällt."
     }
   ]
 }
