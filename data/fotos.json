@@ -1,62 +1,55 @@
 {
-  "stand": "2026-10-26T16:00:46+01:00",
-  "lauf": "1600",
+  "stand": "2026-10-27T07:04:16+01:00",
+  "lauf": "0703",
   "fotos": [
     {
-      "id": "1600-1",
-      "titel": "Radikaler Umbau bei der Migros: Aus elf Genossenschaften soll eine Super-Migros werden, und CEO Mario Irminger tritt zurück",
-      "was": "Migros-Präsidentin Ursula Nold und CEO Irminger an der Medienkonferenz vor orangem Logo",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Effizienz heisst für den Konzern Fusion, für die Genossenschafter eine Abstimmung über Beschlossenes und für den CEO der Abgang, bevor es gilt.",
+      "id": "0703-1",
+      "titel": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+      "was": "Audi-Chef Döllner neben Trump auf einer Wahlkampfbühne mit Fahnen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Werk in Amerika als nüchterne Standortvernunft verkaufen, während der Chef auf einer fremden Wahlkampfbühne klatscht und Neckarsulm die Rechnung",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "20 Minuten",
-        "SRF"
-      ],
-      "artikel": "https://www.nzz.ch/wirtschaft/kommt-jetzt-die-einheitsgenossenschaft-heute-sagt-die-migros-wie-sie-sich-effizienter-aufstellen-will-ld.10044412",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/26/7b01b257-998e-4787-9d38-937663a50702.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=981,981,x509,y555",
-      "zeit": "2026-10-26T13:27+01:00"
-    },
-    {
-      "id": "1600-2",
-      "titel": "Großer Jubel in Brasilien: Lula da Silva gewinnt Präsidentenwahl",
-      "was": "Lula mit 80 Jahren jubelnd auf der Bühne, Konfetti und Anhänger",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: vierter Wahlsieg als Routine eines 80-Jährigen gegen einen Verlierer, der das Resultat nicht anerkennt.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "Tagesschau",
-      "auch_bei": [
-        "NZZ",
-        "SRF",
-        "taz"
-      ],
-      "artikel": "https://www.tagesschau.de/video/video-1672716.html",
-      "bild": "https://images.tagesschau.de/image/c9d85014-2e39-4f20-a317-7b17b7277ae7/AAABoXenKZ4/AAABnSSvrFg/16x9-big/lula-240.jpg?width=1280",
-      "zeit": "2026-10-26T11:29+01:00"
-    },
-    {
-      "id": "1600-3",
-      "titel": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
-      "was": "Trump und Audi-Chef Döllner nebeneinander auf einer Wahlkampfbühne",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Konzernregeln verbieten Mitarbeitenden Parteipolitik am Arbeitsplatz, der Chef steht im US-Wahlkampf neben Trump.",
-      "grund": "memetauglich",
       "raum": "weltweit",
       "quelle": "Tagesschau",
+      "auch_bei": [
+        "Spiegel"
+      ],
+      "artikel": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
+      "bild": "https://images.tagesschau.de/image/c75175e1-3383-485a-b61d-f9f29721e772/AAABoXnIy2Y/AAABnSSvrFg/16x9-big/doellner-trump-104.jpg?width=1280",
+      "zeit": "2026-10-26T20:56+01:00"
+    },
+    {
+      "id": "0703-2",
+      "titel": "Yamal und Mbappé ausgestochen – Ballon d'Or erstmals an Kane und zum 3. Mal an Putellas",
+      "was": "Harry Kane im Smoking hält die goldene Ballon-d'Or-Kugel hoch",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: der jahrelang verspottete Titellose bekommt den grössten Einzelpreis in einem Jahr, das als Mannschaft Barcelona dominiert hat.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "SRF",
+      "auch_bei": [
+        "Spiegel"
+      ],
+      "artikel": "https://www.srf.ch/sport/fussball/internationale-ligen/yamal-und-mbappe-ausgestochen-ballon-d-or-erstmals-an-kane-und-zum-3-mal-an-putellas",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/55f08b.jpg",
+      "zeit": "2026-10-27T00:09+01:00"
+    },
+    {
+      "id": "0703-3",
+      "titel": "Ungewöhnlicher Umzug – Zoo Zürich nimmt Abschied von seinen Kamelen",
+      "was": "Tierpflegerin verabschiedet Kamel vor Transportanhänger im Zoo Zürich",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein tränenreicher Abschied im Zoo gegen die Nüchternheit, mit der Zürich sonst Bewohner aus der Stadt verdrängt.",
+      "grund": "memetauglich",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html",
-      "bild": "https://images.tagesschau.de/image/19fe1ab4-786c-4a6c-a36a-1721f8e3e265/AAABoXd_6EU/AAABnSSvrFg/16x9-big/gernot-doellner-102.jpg?width=1280",
-      "zeit": "2026-10-26T13:48+01:00"
+      "artikel": "https://www.srf.ch/news/schweiz/ungewoehnlicher-umzug-zoo-zuerich-nimmt-abschied-von-seinen-kamelen",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/04b703.jpg",
+      "zeit": "2026-10-26T20:01+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Abend",
-      "was": "Ballon-d'Or-Gala in Paris, Preisträger mit Trophäe und Frack"
-    },
-    {
-      "wann": "heute im Verlauf des Tages",
-      "was": "Steinmeier beim Abflug oder bei der Ankunft zum Staatsbesuch in China, Merz parallel auf Asienreise"
+      "wann": "heute ab 21:00",
+      "was": "Netanjahu und Herausforderer beim Stimmzettel-Posieren im Wahllokal, später Jubel oder versteinerte Mienen vor den Hochr"
     }
   ],
   "hinweis": ""
