@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-27",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Microsoft zahlt 60'000 Angestellten fürs Gehen und Rechenzentren Milliarden fürs Bleiben. Wer noch sagt, KI ergänze den Menschen, steht im leeren Grossraumbüro und lobt die Klimaanlage."
+    },
+    {
+      "id": "2026-10-27-0657-16",
+      "typ": "schnittmenge",
+      "stichwort": "AI auf der Autobahn ist nur ein Mietauto aus Appenzell Innerrhoden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Keine Panik, wenn dich auf der Autobahn ein AI überholt. Das ist nur ein Mietauto, das in Appenzell Innerrhoden Steuern spart."
+    },
+    {
+      "id": "2026-10-27-0657-17",
+      "typ": "schnittmenge",
+      "stichwort": "Jedes Dorf im Thurgau hat einen Schiessstand, der Kanton kein Frauenhaus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Jedes Dorf im Thurgau hat einen Schiessstand. Ein eigenes Frauenhaus hat der Kanton nicht."
+    },
+    {
+      "id": "2026-10-27-0657-18",
+      "typ": "schnittmenge",
+      "stichwort": "Rösti im Feuer, Öl nachgiessen, rhetorische Frage an den Umweltminister",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Kann man eigentlich im Feuer stehen und gleichzeitig Öl nachgiessen? Frage für Umweltminister Albert Rösti, der früher beruflich für Heizöl geworben hat."
     },
     {
       "id": "2026-10-27-0657-24",
@@ -72,16 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Wie viele Kinder muss man eigentlich grossziehen, bis es als Berufserfahrung zählt? Frage für alle HR-Abteilungen, denen das als Lücke im Lebenslauf auffällt."
-    },
-    {
-      "id": "2026-10-27-0657-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Einmal so viel Verständnis bekommen wie ein Konzern, der mit Abwanderung droht",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so viel Verständnis bekommen wie ein Konzern, der mit Abwanderung droht."
     }
   ]
 }
