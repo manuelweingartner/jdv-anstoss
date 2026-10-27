@@ -1,8 +1,28 @@
 {
   "datum": "2026-10-27",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-27-0657-11",
+      "typ": "schnittmenge",
+      "stichwort": "Kinderbetreuung: bei der Mutter keine Arbeit, bei der Kita unbezahlbar",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Betreut die Mutter das Kind, ist das keine Arbeit. Betreut es die Kita, unbezahlbar."
+    },
+    {
+      "id": "2026-10-27-0657-12",
+      "typ": "remix",
+      "stichwort": "Microsoft: 60'000 Abfindungen und Milliarden für Rechenzentren, Streitbild leeres Grossraumbüro",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Microsoft zahlt 60'000 Angestellten fürs Gehen und Rechenzentren Milliarden fürs Bleiben. Wer noch sagt, KI ergänze den Menschen, steht im leeren Grossraumbüro und lobt die Klimaanlage."
+    },
     {
       "id": "2026-10-27-0657-24",
       "typ": "politisch-aktuell",
