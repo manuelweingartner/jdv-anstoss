@@ -19639,6 +19639,182 @@
         "neu": true
       },
       "datum": "2026-10-25"
+    },
+    {
+      "id": "2026-10-26-0657-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump nennt Senatskandidat El-Sayed Dschihadist, Epstein war ein «terrific guy»",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Für Trump ist Abdul El-Sayed, Arzt und Senatskandidat in Michigan, ein «Dschihadist». Jeffrey Epstein war für ihn ein «terrific guy». Beides nach sorgfältiger Prüfung.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-26"
+    },
+    {
+      "id": "2026-10-26-0657-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Serbien: Angst vor Unerfahrenen im Parlament, die Erfahrenen liessen das Bahnhofsdach von Novi Sad renovieren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, in Serbien ziehen jetzt lauter Unerfahrene ins Parlament. Die Erfahrenen haben in Novi Sad das Bahnhofsdach renovieren lassen, das auf die Wartenden gefallen ist.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-26"
+    },
+    {
+      "id": "2026-10-26-0657-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Einzige Demokratie im Nahen Osten, am Wahltag riegelt Israel das Westjordanland ab, sicherheitshalber",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Einzige Demokratie im Nahen Osten, stimmt. Am Wahltag riegelt Israel das Westjordanland ab. Sicherheitshalber.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-26"
+    },
+    {
+      "id": "2026-10-26-0657-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mietkaution als Beweis der Zuverlässigkeit, der Vermieter hinterlegt nichts, seine Hypothek zahlt ebenfalls der Mieter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Zum Einzug musst du drei Monatsmieten hinterlegen, falls du mal nicht zahlst. Der Vermieter hinterlegt nichts, seine Hypothek zahlst ja auch du.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-26"
+    },
+    {
+      "id": "2026-10-26-0657-12",
+      "typ": "remix",
+      "stichwort": "Zug Zürich nach Stuttgart wird pünktlicher durch weniger Halte, Klimaziel durch weniger Messen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Zug von Zürich nach Stuttgart wird pünktlicher, weil er weniger hält. Nach derselben Methode erreicht die Schweiz das Klimaziel, indem sie weniger misst.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      },
+      "datum": "2026-10-26"
+    },
+    {
+      "id": "2026-10-26-0657-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuerwohnsitz Appenzell, Arbeitsort Zürich, nie zu Hause: Mietauto oder Verwaltungsrat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer in Zürich arbeitet, in Appenzell Innerrhoden Steuern zahlt und nie dort schläft, ist ein Mietauto. Oder ein Verwaltungsrat.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-26"
+    },
+    {
+      "id": "2026-10-26-0657-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti von der Heizöl-Lobby zum Umweltminister, Lungenliga schreibt bei Philip Morris aus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Albert Rösti, früher Präsident der Heizöl-Lobby, ist heute Umweltminister. Die Lungenliga schreibt ihr Präsidium jetzt bei Philip Morris aus.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-26"
+    },
+    {
+      "id": "2026-10-26-0657-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hacker legen französische Supermarkt-Kühlschränke lahm, zum Glück hängt bei uns nur das Spital am Internet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Hacker legen französische Supermarkt-Kühlschränke lahm. Zum Glück hängt hier nur das Spital am Internet.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-26"
+    },
+    {
+      "id": "2026-10-26-0657-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zeitumstellung kostet die Wirtschaft Millionen, dabei ist es die einzige Überstunde, die je zurückgegeben wird, vom Kalender",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, die Zeitumstellung muss weg, sie kostet die Wirtschaft Millionen. Dabei ist das die einzige Überstunde, die je zurückgegeben wird. Einmal im Jahr. Vom Kalender.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      },
+      "datum": "2026-10-26"
+    },
+    {
+      "id": "2026-10-26-0657-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sunrise kündigt nach Konsultationsverfahren, immerhin wurden alle konsultiert, danach hatte niemand mehr Fragen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Immerhin wurden bei Sunrise vor den Kündigungen alle konsultiert. Danach hatte niemand mehr Fragen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-10-26"
+    },
+    {
+      "id": "2026-10-26-0657-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Self-Checkout bei der Migros, unbezahlte Arbeit jetzt auch für Männer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "An der Self-Checkout-Kasse scannst du selbst, die Migros spart sich die Kassiererin, der Preis bleibt gleich. Unbezahlte Arbeit, jetzt endlich auch für Männer.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-26"
     }
   ]
 }
