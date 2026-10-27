@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-27",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Verständlich, dass Migros-Chef Irminger den Konzernumbau für richtig hält und die Firma vorher verlässt. Richtig ist, was andere ausbaden."
+    },
+    {
+      "id": "2026-10-27-0657-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohnungsinserat verlangt Motivationsschreiben, begründen, warum man ein Dach über dem Kopf verdient hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Wohnungsinserat in Zürich: bitte Motivationsschreiben beilegen. Man soll begründen, warum ausgerechnet man ein Dach über dem Kopf verdient hat. Mit Lebenslauf. Betreibungsauszug. Referenzen."
+    },
+    {
+      "id": "2026-10-27-0657-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wie viele Kinder grossziehen, bis es als Berufserfahrung zählt, Frage für HR und die Lücke im Lebenslauf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie viele Kinder muss man eigentlich grossziehen, bis es als Berufserfahrung zählt? Frage für alle HR-Abteilungen, denen das als Lücke im Lebenslauf auffällt."
+    },
+    {
+      "id": "2026-10-27-0657-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Einmal so viel Verständnis bekommen wie ein Konzern, der mit Abwanderung droht",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so viel Verständnis bekommen wie ein Konzern, der mit Abwanderung droht."
     }
   ]
 }
