@@ -1,46 +1,46 @@
 {
-  "stand": "2026-10-26T07:07:13+01:00",
+  "stand": "2026-10-27T07:05:20+01:00",
   "vorschlaege": [
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Aufsicht hat weggeschaut",
-        "Nicht zu penetrant sein"
+        "358 Kündigungen",
+        "Neuausrichtung nach Konsultationsverfahren"
       ],
-      "warum": "Swissmedic hat ihr eigenes Versagen bereits im vornehmsten Euphemismus geliefert, die Vorlage muss ihn nur neben die Klartextfassung legen",
+      "warum": "Sunrise liefert den Euphemismus gleich in der Medienmitteilung mit, die Figur muss ihn nur neben die Zahl stellen",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Serbische Studierende",
-        "Null Parlamentserfahrung, Wahlsieg",
-        "Aleksandar Vucic",
-        "Über zehn Jahre Macht, Niederlage"
+        "Milliarden für Rechenzentren",
+        "KI ist die Zukunft",
+        "60'000 Mitarbeiter",
+        "Abfindung, bitte geht"
       ],
-      "warum": "Der Vergleich kehrt die übliche Erfahrungslogik um, die Unerfahrenen sind der Buff Doge und der Langzeitmachthaber der Cheems",
+      "warum": "derselbe Konzern, zwei Budgets: das muskulöse für Hardware, das klägliche für Menschen",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Justizdepartement",
-        "Konkordanz",
-        "SVP"
+        "Alle Genossenschaften fusionieren",
+        "Skandale aufarbeiten",
+        "Irminger, kündigt im Fahren"
       ],
-      "warum": "Die SVP reisst das Steuer in letzter Sekunde zum Polizei- und Justizdepartement, während der vernünftige Konkordanzweg geradeaus liegen blei",
+      "warum": "der Migros-Chef reisst das Steuer herum und steigt dann aus, bevor der Wagen ankommt",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Die EU schafft die Zeitumstellung seit 2018 ab"
+        "Superreiche überleben zwei Prozent"
       ],
-      "warum": "Eine These, die seit acht Jahren jeden Oktober stimmt und niemand widerlegen kann, weil die Abschaffung nie kommt",
+      "warum": "Zucmans Forderung ist so bescheiden, dass die Empörung darüber die eigentliche Pointe ist",
       "bild": "vorschlag-4.jpg"
     }
   ]
