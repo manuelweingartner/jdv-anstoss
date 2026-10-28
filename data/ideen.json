@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-28",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -82,6 +82,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Die arabischen Parteien könnten in Israel die nächste Regierung entscheiden. Netanjahu steht zum ersten Mal vor arabischen Stimmen, die er nicht wegbomben kann."
+    },
+    {
+      "id": "2026-10-28-0657-36",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mietautos in Innerrhoden als Zuwanderung, die der SVP gefällt: kommt nie an, braucht keine Wohnung, zahlt und schweigt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Mietautos ziehen wegen der Steuern nach Appenzell Innerrhoden. Endlich Zuwanderung, die der SVP gefällt: kommt nie an, braucht keine Wohnung, zahlt und schweigt."
+    },
+    {
+      "id": "2026-10-28-0657-37",
+      "typ": "politisch-aktuell",
+      "stichwort": "Thurgau ohne eigenes Frauenhaus, rhetorische Frage ob der Kanton auch keine eigenen Männer hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hat der Kanton Thurgau auch keine eigenen Männer, oder nur kein eigenes Frauenhaus? Frage für die Thurgauer Regierung."
     }
   ]
 }
