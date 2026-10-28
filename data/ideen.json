@@ -1,126 +1,27 @@
 {
-  "datum": "2026-10-27",
-  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
-  "fertig": true,
+  "datum": "2026-10-28",
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-10-27-0657-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Migros fusioniert nach Skandalen die Genossenschaften, die Besitzer*innen stimmen nur über Bier ab",
-      "plattform": "Threads + Bluesky",
+      "id": "2026-10-28-0657-11",
+      "typ": "schnittmenge",
+      "stichwort": "Übermüdete Pilot*innen sind ein Sicherheitsrisiko, übermüdete Pflegende sind ein Dienstplan",
+      "plattform": "Instagram + Threads",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die Migros legt nach Skandalen und Verlusten ihre Genossenschaften zusammen. Abstimmen dürfen die Besitzer*innen erst wieder, wenn es um Bier geht.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Übermüdete Pilot*innen sind ein Sicherheitsrisiko, warnt eine Umfrage. Übermüdete Pflegende sind ein Dienstplan."
     },
     {
-      "id": "2026-10-27-0657-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Flávio Bolsonaro muss wegen Geldwäsche den Pass abgeben, das Geld durfte ausreisen",
+      "id": "2026-10-28-0657-12",
+      "typ": "remix",
+      "stichwort": "Neue AKW gegen die Klimakrise mit Betrieb ab 2050, ein Feuerlöscher mit Expresszuschlag und 24 Jahren Lieferzeit (Remix des unterausgespielten Streitbilds Hai/Krankenkasse)",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Flávio Bolsonaro muss wegen Geldwäsche den Pass abgeben. Das Geld durfte ausreisen.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-10-27-0657-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump, Putin und Xi einig über Orbán als UN-Generalsekretär, so einig wie 1939 bei Polen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Trump, Putin und Xi sind sich einig: Viktor Orbán soll die UNO führen. So einig waren sich Grossmächte zuletzt 1939, bei Polen.",
-      "jury": {
-        "neu": false,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-10-27-0657-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Sanierung heisst in Zürich: neue Farbe, neue Mieter*innen, die Küche darf bleiben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Sanierung heisst in Zürich: Die Fassade bekommt eine neue Farbe und die Wohnung neue Mieter*innen. Die Küche darf bleiben.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-10-27-0657-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Reiche als einzige Minderheit mit eigener Partei, eigener Zeitung und eigenem Kanton",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Reiche sind die einzige Minderheit mit eigener Partei, eigener Zeitung und eigenem Kanton.",
-      "jury": {
-        "anker": false,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-27-0657-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Migration kostet Millionen, das Bundesregister zum Zählen von Migrant*innen kostet 193 statt 66, wen ausschaffen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Migration kostet Millionen, stimmt. Das neue Bundesregister zum Zählen von Migrant*innen kostet 193 statt 66, unklar, ob man jetzt die Menschen oder das Register ausschaffen soll.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-27-0657-32",
-      "typ": "remix",
-      "stichwort": "Sonnenstrom vom Acker ungenutzt: Gotthard durchbohrt, Täler geflutet, Bunkerplatz für alle, ein Solarpanel über dem Acker wird noch geprüft (Remix der unterausgespielten Marathon/Scheidung-Eskalationskette)",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 15,
-      "text": "Die Schweiz hat den Gotthard durchbohrt, ganze Täler geflutet und für jede Person einen Bunkerplatz gebaut. Ein Solarpanel über dem Acker wird noch geprüft.",
-      "jury": {
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-27-0657-37",
-      "typ": "schnittmenge",
-      "stichwort": "Kein Frauenhaus im Thurgau, nach dem Schlag verlässt jemand den Kanton, nicht der Täter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Kein eigenes Frauenhaus im Thurgau: nach dem Schlag verlässt jemand den Kanton. Nicht der, der zuschlägt.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "text": "Neue AKW gegen die Klimakrise, sagt eine Studie, aber bitte schnell, Betrieb frühestens 2050. Ein Feuerlöscher mit Expresszuschlag und Lieferzeit 24 Jahre."
     }
   ]
 }
