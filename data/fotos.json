@@ -1,57 +1,62 @@
 {
-  "stand": "2026-10-27T16:01:15+01:00",
-  "lauf": "1600",
+  "stand": "2026-10-28T07:03:35+01:00",
+  "lauf": "0702",
   "fotos": [
     {
-      "id": "1600-1",
-      "titel": "Wahl in Israel: \"König Bibi\" polarisiert - setzt er sich noch mal durch?",
-      "was": "Netanjahu wirft seinen Stimmzettel in die Urne, Kameras ringsum",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: der Wähler Netanjahu gibt seine Stimme ab, während der Regierungschef Netanjahu seit zwanzig Jahren bestimmt, worüber abgestimmt wird.",
+      "id": "0702-1",
+      "titel": "Swiss Indoors in Basel – Ende einer eindrücklichen Karriere: Wawrinka unterliegt Lehecka",
+      "was": "Wawrinka in Tränen, winkend vor vollem Haus in Basel",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein Sportler tritt mit 41 freiwillig und unter Applaus ab, während Bundesräte und Konzernchefs am Stuhl kleben, bis man sie heraustragen mu",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "Tagesschau",
-      "auch_bei": [],
-      "artikel": "https://www.tagesschau.de/ausland/asien/israel-wahl-portraet-netanjahu-100.html",
-      "bild": "https://images.tagesschau.de/image/d70f0de0-761d-4812-8b90-3c955d24af9f/AAABoXehCVE/AAABnSSvrFg/16x9-big/proteste-tel-aviv-108.jpg?width=1280",
-      "zeit": "2026-10-27T13:11+01:00"
-    },
-    {
-      "id": "1600-2",
-      "titel": "Airline im Umschwung – Swiss reduziert Mietflotte – Air Baltic geht, Helvetic bleibt",
-      "was": "Air-Baltic-Jet in Swiss-Bemalung am Gate, Crew am Treppenaufgang",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Schweizer Qualität als Werbeversprechen gegen lettische Crews, die jahrelang still den Betrieb trugen und jetzt still gehen.",
-      "grund": "breit",
-      "raum": "",
       "quelle": "SRF",
       "auch_bei": [
-        "20 Minuten"
+        "NZZ"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/airline-im-umschwung-swiss-reduziert-mietflotte-air-baltic-geht-helvetic-bleibt",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/71a64b.jpg",
-      "zeit": "2026-10-27T14:36+01:00"
+      "artikel": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-in-basel-ende-einer-eindruecklichen-karriere-wawrinka-unterliegt-lehecka",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/c55823.jpg",
+      "zeit": "2026-10-28T00:17+01:00"
     },
     {
-      "id": "1600-3",
-      "titel": "Audi: Kritik an Gernot Döllner nach Trump-Auftritt eskaliert im VW-Intranet",
-      "was": "Audi-Chef Döllner lächelt neben Trump auf einer Bühne, Handschlag",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: das Konzernleitbild von Haltung und Verantwortung im Intranet gegen das Bühnenlächeln neben dem Mann, der die Zölle diktiert.",
-      "grund": "memetauglich",
+      "id": "0702-2",
+      "titel": "Der Abgewählte soll hoch hinaus: Trump denkt an Orban als Uno-Generalsekretär",
+      "was": "Trump und Orban beim Handschlag, Daumen hoch, Oval Office",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: zu Hause abgewählt, in New York befördert, der Wählerwille gilt als Zwischenstation auf dem Weg nach oben.",
+      "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Spiegel",
-      "auch_bei": [],
-      "artikel": "https://www.spiegel.de/wirtschaft/unternehmen/audi-kritik-an-gernot-doellner-nach-trump-auftritt-eskaliert-im-vw-intranet-a-922db2dd-7446-43cb-b800-dd6d0e929d15#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/6e0f1864-d25a-41e7-8587-b9eaf604cb3b_w520_r2.08_fpx33.3_fpy49.96.jpg",
-      "zeit": "2026-10-27T15:07+01:00"
+      "quelle": "NZZ",
+      "auch_bei": [
+        "Spiegel"
+      ],
+      "artikel": "https://www.nzz.ch/international/trump-erwaegt-orban-als-uno-generalsekretaer-ld.10046186",
+      "bild": "https://img-msp-prod.nzz.ch/2026/10/27/f9895e75-d348-4f7c-9ef5-99698df57aa7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2134,2134,x534,y0",
+      "zeit": "2026-10-28T05:30+01:00"
+    },
+    {
+      "id": "0702-3",
+      "titel": "Liechtenstein zu Besuch in Indien: 100 Milliarden US-Dollar für Indien",
+      "was": "Liechtensteins Erbprinz mit Blumenkranz neben Modi, Fahnen und Vertragsmappe",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein Kleinstaat mit der Einwohnerzahl einer Agglomerationsgemeinde verspricht 100 Milliarden, die Schweiz steht daneben und nickt.",
+      "grund": "memetauglich",
+      "raum": "",
+      "quelle": "taz",
+      "auch_bei": [
+        "20 Minuten",
+        "NZZ"
+      ],
+      "artikel": "https://taz.de/Liechtenstein-zu-Besuch-in-Indien/!6225312/",
+      "bild": "https://taz.de/picture/8826786/948/42412185.jpeg",
+      "zeit": "2026-10-27T17:39+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 21:00",
-      "was": "Jubel oder versteinerte Gesichter an den Wahlpartys von Netanjahu und Eisenkot nach den ersten Prognosen"
+      "wann": "heute im Verlauf des Tages",
+      "was": "Netanjahu und Eisenkot in Siegerpose in den Wahlkampfzentralen, beide beanspruchen die Regierungsbildung"
     },
     {
-      "wann": "heute, laufend",
-      "was": "Merz auf Asien-Reise bei Handschlag-Choreografien und Werksbesichtigungen mit Helm"
+      "wann": "heute abends (US-Zeit)",
+      "was": "Trump auf einer Midterm-Rally mit Cap und Football-Kulisse"
     }
   ],
   "hinweis": ""
