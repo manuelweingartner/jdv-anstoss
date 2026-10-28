@@ -1,46 +1,46 @@
 {
-  "stand": "2026-10-27T07:05:20+01:00",
+  "stand": "2026-10-28T07:04:44+01:00",
   "vorschlaege": [
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "358 Kündigungen",
-        "Neuausrichtung nach Konsultationsverfahren"
+        "Gigantische Verluste, reiche Gründer",
+        "Anthropic-Börsengang"
       ],
-      "warum": "Sunrise liefert den Euphemismus gleich in der Medienmitteilung mit, die Figur muss ihn nur neben die Zahl stellen",
+      "warum": "weil dieselbe Firma einmal als Verlustmaschine und einmal als Börsenstory erzählt wird und nur die Verpackung sich ändert",
       "bild": "vorschlag-1.jpg"
-    },
-    {
-      "vorlage": "doge",
-      "name": "Buff Doge vs. Cheems",
-      "zeilen": [
-        "Milliarden für Rechenzentren",
-        "KI ist die Zukunft",
-        "60'000 Mitarbeiter",
-        "Abfindung, bitte geht"
-      ],
-      "warum": "derselbe Konzern, zwei Budgets: das muskulöse für Hardware, das klägliche für Menschen",
-      "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Alle Genossenschaften fusionieren",
-        "Skandale aufarbeiten",
-        "Irminger, kündigt im Fahren"
+        "60'000 Abgangsentschädigungen",
+        "Milliarden für Rechenzentren kürzen",
+        "Microsoft"
       ],
-      "warum": "der Migros-Chef reisst das Steuer herum und steigt dann aus, bevor der Wagen ankommt",
+      "warum": "weil der Konzern in letzter Sekunde zu den Angestellten abbiegt statt beim eigenen KI-Ausbau zu sparen",
+      "bild": "vorschlag-2.jpg"
+    },
+    {
+      "vorlage": "doge",
+      "name": "Buff Doge vs. Cheems",
+      "zeilen": [
+        "Dotcom-Blase 2000",
+        "Lektion angeblich gelernt",
+        "KI-Aktien 2026",
+        "Diesmal ist alles anders"
+      ],
+      "warum": "weil die Wall Street ihr starkes Früher beschwört und das Heute exakt dieselbe Blase mit neuem Etikett ist",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Superreiche überleben zwei Prozent"
+        "Die Zeitumstellung wird seit 2018 abgeschafft"
       ],
-      "warum": "Zucmans Forderung ist so bescheiden, dass die Empörung darüber die eigentliche Pointe ist",
+      "warum": "weil die EU-Abschaffung seit acht Jahren beschlossen ist und trotzdem jedes Jahr wieder umgestellt wird, da gibt es nichts zu widersprechen",
       "bild": "vorschlag-4.jpg"
     }
   ]
