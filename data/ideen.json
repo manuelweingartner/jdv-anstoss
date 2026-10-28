@@ -34,6 +34,46 @@
       "text": "Merz wirbt in Asien: Europa sei eine sichere Bank. Verständlich, gerettet wird hier jede."
     },
     {
+      "id": "2026-10-28-0657-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Milliardär*innen, die wegen der Lebensqualität nach Zug gezogen sind",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier eine Liste aller Milliardär*innen, die wegen der Lebensqualität nach Zug gezogen sind:\n-\n-\nThat's it."
+    },
+    {
+      "id": "2026-10-28-0657-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ab welchem Lohn wird aus Faulheit Delegieren, Frage für die Teppichetage",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ab welchem Lohn wird aus Faulheit eigentlich Delegieren? Frage für die Teppichetage."
+    },
+    {
+      "id": "2026-10-28-0657-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Waschküche, Tiefgarage und Rasen haben Regeln, nur die Miete regelt der Markt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Die Waschküche hat einen Plan, die Tiefgarage eine Hausordnung, der Rasen eine Ruhezeit. Nur die Miete regelt der Markt."
+    },
+    {
+      "id": "2026-10-28-0657-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Eigenes Kind betreuen gibt keinen Steuerabzug, die Nanny dafür schon",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Wer das eigene Kind selbst betreut, bekommt keinen Steuerabzug. Wer dafür eine Nanny bezahlt, schon."
+    },
+    {
       "id": "2026-10-28-0657-11",
       "typ": "schnittmenge",
       "stichwort": "Übermüdete Pilot*innen sind ein Sicherheitsrisiko, übermüdete Pflegende sind ein Dienstplan",
@@ -62,46 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Melania Trump vermittelt eine Waffenruhe für Oleshky, am selben Tag treffen russische Raketen Kyjiw. Putin hält sich also an Verträge, bis zur Ortstafel."
-    },
-    {
-      "id": "2026-10-28-0657-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Migros legt zehn Genossenschaften zusammen, Mitbestimmung ersetzt durch Cumulus-Punkte",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Zehn Migros-Genossenschaften werden eine, effizienter soll es werden. Wozu Mitbestimmung, wenn es Cumulus-Punkte gibt?"
-    },
-    {
-      "id": "2026-10-28-0657-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Arabische Parteien könnten in Israel die Regierung entscheiden, Netanjahu vor arabischen Stimmen, die er nicht wegbomben kann",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die arabischen Parteien könnten in Israel die nächste Regierung entscheiden. Netanjahu steht zum ersten Mal vor arabischen Stimmen, die er nicht wegbomben kann."
-    },
-    {
-      "id": "2026-10-28-0657-36",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mietautos in Innerrhoden als Zuwanderung, die der SVP gefällt: kommt nie an, braucht keine Wohnung, zahlt und schweigt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Mietautos ziehen wegen der Steuern nach Appenzell Innerrhoden. Endlich Zuwanderung, die der SVP gefällt: kommt nie an, braucht keine Wohnung, zahlt und schweigt."
-    },
-    {
-      "id": "2026-10-28-0657-37",
-      "typ": "politisch-aktuell",
-      "stichwort": "Thurgau ohne eigenes Frauenhaus, rhetorische Frage ob der Kanton auch keine eigenen Männer hat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hat der Kanton Thurgau auch keine eigenen Männer, oder nur kein eigenes Frauenhaus? Frage für die Thurgauer Regierung."
     }
   ]
 }
