@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-28",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Neue AKW gegen die Klimakrise, sagt eine Studie, aber bitte schnell, Betrieb frühestens 2050. Ein Feuerlöscher mit Expresszuschlag und Lieferzeit 24 Jahre."
+    },
+    {
+      "id": "2026-10-28-0657-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Melania Trump vermittelt Waffenruhe für Oleshky, am selben Tag treffen russische Raketen Kyjiw, Putin hält Verträge bis zur Ortstafel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Melania Trump vermittelt eine Waffenruhe für Oleshky, am selben Tag treffen russische Raketen Kyjiw. Putin hält sich also an Verträge, bis zur Ortstafel."
+    },
+    {
+      "id": "2026-10-28-0657-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Migros legt zehn Genossenschaften zusammen, Mitbestimmung ersetzt durch Cumulus-Punkte",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Zehn Migros-Genossenschaften werden eine, effizienter soll es werden. Wozu Mitbestimmung, wenn es Cumulus-Punkte gibt?"
+    },
+    {
+      "id": "2026-10-28-0657-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Arabische Parteien könnten in Israel die Regierung entscheiden, Netanjahu vor arabischen Stimmen, die er nicht wegbomben kann",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die arabischen Parteien könnten in Israel die nächste Regierung entscheiden. Netanjahu steht zum ersten Mal vor arabischen Stimmen, die er nicht wegbomben kann."
     }
   ]
 }
