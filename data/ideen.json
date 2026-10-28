@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-10-28-0657-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Microsoft zahlt 60'000 Angestellten fürs Gehen und den Rechenzentren fürs Bleiben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, KI nimmt niemandem den Job weg. Microsoft zahlt 60'000 Angestellten nur fürs Gehen und den Rechenzentren Milliarden fürs Bleiben."
-    },
-    {
       "id": "2026-10-28-0657-05",
       "typ": "politisch-aktuell",
       "stichwort": "Angst um die Schweizer Rüstungsindustrie, die aus Rheinmetall und deutschen Käufern besteht",
@@ -21,7 +11,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst, dass die Waffenexport-Abstimmung unsere Rüstungsindustrie trifft: grösster Hersteller Rheinmetall, grösster Käufer Deutschland. Weiss auch nicht, was daran schweizerisch ist, ausser der Angst."
+      "text": "Habe Angst, dass die Waffenexport-Abstimmung unsere Rüstungsindustrie trifft: grösster Hersteller Rheinmetall, grösster Käufer Deutschland. Weiss auch nicht, was daran schweizerisch ist, ausser der Angst.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-28-0657-06",
@@ -31,47 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Merz wirbt in Asien: Europa sei eine sichere Bank. Verständlich, gerettet wird hier jede."
-    },
-    {
-      "id": "2026-10-28-0657-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Milliardär*innen, die wegen der Lebensqualität nach Zug gezogen sind",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier eine Liste aller Milliardär*innen, die wegen der Lebensqualität nach Zug gezogen sind:\n-\n-\nThat's it."
-    },
-    {
-      "id": "2026-10-28-0657-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ab welchem Lohn wird aus Faulheit Delegieren, Frage für die Teppichetage",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ab welchem Lohn wird aus Faulheit eigentlich Delegieren? Frage für die Teppichetage."
-    },
-    {
-      "id": "2026-10-28-0657-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Waschküche, Tiefgarage und Rasen haben Regeln, nur die Miete regelt der Markt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Die Waschküche hat einen Plan, die Tiefgarage eine Hausordnung, der Rasen eine Ruhezeit. Nur die Miete regelt der Markt."
-    },
-    {
-      "id": "2026-10-28-0657-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Eigenes Kind betreuen gibt keinen Steuerabzug, die Nanny dafür schon",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer das eigene Kind selbst betreut, bekommt keinen Steuerabzug. Wer dafür eine Nanny bezahlt, schon."
+      "text": "Merz wirbt in Asien: Europa sei eine sichere Bank. Verständlich, gerettet wird hier jede.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-28-0657-11",
@@ -81,17 +41,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Übermüdete Pilot*innen sind ein Sicherheitsrisiko, warnt eine Umfrage. Übermüdete Pflegende sind ein Dienstplan."
-    },
-    {
-      "id": "2026-10-28-0657-12",
-      "typ": "remix",
-      "stichwort": "Neue AKW gegen die Klimakrise mit Betrieb ab 2050, ein Feuerlöscher mit Expresszuschlag und 24 Jahren Lieferzeit (Remix des unterausgespielten Streitbilds Hai/Krankenkasse)",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Neue AKW gegen die Klimakrise, sagt eine Studie, aber bitte schnell, Betrieb frühestens 2050. Ein Feuerlöscher mit Expresszuschlag und Lieferzeit 24 Jahre."
+      "text": "Übermüdete Pilot*innen sind ein Sicherheitsrisiko, warnt eine Umfrage. Übermüdete Pflegende sind ein Dienstplan.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-28-0657-21",
@@ -101,7 +56,102 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Melania Trump vermittelt eine Waffenruhe für Oleshky, am selben Tag treffen russische Raketen Kyjiw. Putin hält sich also an Verträge, bis zur Ortstafel."
+      "text": "Melania Trump vermittelt eine Waffenruhe für Oleshky, am selben Tag treffen russische Raketen Kyjiw. Putin hält sich also an Verträge, bis zur Ortstafel.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-28-0657-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor Abwanderung der Schweizer Rüstungsindustrie, die aus Rheinmetall und Deutschland besteht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst, dass nach der Waffenexport-Abstimmung die Schweizer Rüstungsindustrie ins Ausland abwandert. Grösster Hersteller Rheinmetall, grösster Kunde Deutschland, als Ausland bliebe eigentlich nur noch die Schweiz.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-28-0657-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "KI ersetzt niemanden, Microsoft unterstützt 60'000 mit Abgangsentschädigung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, KI ersetzt keine Menschen, sie unterstützt. Microsoft unterstützt gerade 60'000 Angestellte mit Abgangsentschädigung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-28-0657-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zwei Wochen Vaterschaftsurlaub fürs Kind, drei Wochen Wiederholungskurs fürs Schiessen, jedes Jahr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Für ein neugeborenes Kind gibt die Schweiz einem Vater zwei Wochen frei. Zum Üben, auf Menschen zu schiessen, drei. Jedes Jahr.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-28-0657-32",
+      "typ": "remix",
+      "stichwort": "Trump trifft Putin und Selenski «sehr bald», die Zeiteinheit, in der Mexiko die Mauer bezahlt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump kündigt sehr bald ein Treffen mit Putin und Selenski an. Sehr bald ist bei ihm die Zeiteinheit, in der Mexiko die Mauer bezahlt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-28-0657-36",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mietautos in Innerrhoden als Zuwanderung, die der SVP gefällt: kommt nie an, braucht keine Wohnung, zahlt und schweigt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Mietautos ziehen wegen der Steuern nach Appenzell Innerrhoden. Endlich Zuwanderung, die der SVP gefällt: kommt nie an, braucht keine Wohnung, zahlt und schweigt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-28-0657-37",
+      "typ": "politisch-aktuell",
+      "stichwort": "Thurgau ohne eigenes Frauenhaus, rhetorische Frage ob der Kanton auch keine eigenen Männer hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hat der Kanton Thurgau auch keine eigenen Männer, oder nur kein eigenes Frauenhaus? Frage für die Thurgauer Regierung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
