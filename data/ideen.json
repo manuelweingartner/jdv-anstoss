@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-28",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -64,32 +64,17 @@
       }
     },
     {
-      "id": "2026-10-28-0657-24",
+      "id": "2026-10-28-0657-29",
       "typ": "politisch-aktuell",
-      "stichwort": "Angst vor Abwanderung der Schweizer Rüstungsindustrie, die aus Rheinmetall und Deutschland besteht",
+      "stichwort": "Die Vollzeitstelle wurde für Männer mit Frau zu Hause gebaut, jetzt haben beide eine Vollzeitstelle und niemand mehr eine Frau",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Habe Angst, dass nach der Waffenexport-Abstimmung die Schweizer Rüstungsindustrie ins Ausland abwandert. Grösster Hersteller Rheinmetall, grösster Kunde Deutschland, als Ausland bliebe eigentlich nur noch die Schweiz.",
+      "text": "Die Vollzeitstelle wurde für Männer gebaut, die zu Hause eine Frau hatten. Jetzt haben beide eine Vollzeitstelle und niemand mehr eine Frau.",
       "jury": {
-        "anker": true,
         "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-28-0657-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "KI ersetzt niemanden, Microsoft unterstützt 60'000 mit Abgangsentschädigung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, KI ersetzt keine Menschen, sie unterstützt. Microsoft unterstützt gerade 60'000 Angestellte mit Abgangsentschädigung.",
-      "jury": {
-        "anker": true,
-        "witz": true,
+        "anker": false,
         "neu": true
       }
     },
@@ -151,6 +136,21 @@
         "anker": true,
         "witz": true,
         "neu": true
+      }
+    },
+    {
+      "id": "2026-10-28-0657-38",
+      "typ": "schnittmenge",
+      "stichwort": "Waldbrand braucht Fachleute, Albert Rösti hat jahrelang Heizöl verkauft",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Brennt der Wald, braucht es Fachleute. Albert Rösti hat jahrelang Heizöl verkauft.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
       }
     }
   ]
