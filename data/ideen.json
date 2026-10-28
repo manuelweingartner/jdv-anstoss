@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-28",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-28-0657-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Microsoft zahlt 60'000 Angestellten fürs Gehen und den Rechenzentren fürs Bleiben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, KI nimmt niemandem den Job weg. Microsoft zahlt 60'000 Angestellten nur fürs Gehen und den Rechenzentren Milliarden fürs Bleiben."
+    },
+    {
+      "id": "2026-10-28-0657-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst um die Schweizer Rüstungsindustrie, die aus Rheinmetall und deutschen Käufern besteht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst, dass die Waffenexport-Abstimmung unsere Rüstungsindustrie trifft: grösster Hersteller Rheinmetall, grösster Käufer Deutschland. Weiss auch nicht, was daran schweizerisch ist, ausser der Angst."
+    },
+    {
+      "id": "2026-10-28-0657-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Merz nennt Europa in Asien eine sichere Bank, gerettet wird hier jede",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Merz wirbt in Asien: Europa sei eine sichere Bank. Verständlich, gerettet wird hier jede."
+    },
     {
       "id": "2026-10-28-0657-11",
       "typ": "schnittmenge",
