@@ -1,157 +1,37 @@
 {
-  "datum": "2026-10-28",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-10-29",
+  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-10-28-0657-05",
+      "id": "2026-10-29-0657-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Angst um die Schweizer Rüstungsindustrie, die aus Rheinmetall und deutschen Käufern besteht",
+      "stichwort": "Bund prüft Tempo 80 wegen Treibstoffknappheit, fürs Klima war dasselbe Ökodiktatur, für den Rheinpegel ist es Vernunft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Bund prüft Tempo 80, weil Treibstoff knapp ist. Seh ich das richtig, fürs Klima war das Ökodiktatur, für den Rheinpegel ist es Vernunft?"
+    },
+    {
+      "id": "2026-10-29-0657-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Flávio Bolsonaro flieht trotz Ausreiseverbot in die USA, die Ausschaffungs-Logik gilt für alle, ausser er heisst Bolsonaro",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst, dass die Waffenexport-Abstimmung unsere Rüstungsindustrie trifft: grösster Hersteller Rheinmetall, grösster Käufer Deutschland. Weiss auch nicht, was daran schweizerisch ist, ausser der Angst.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "text": "Klar, wer gegen die Gesetze seines Landes in die USA flieht, gehört zurückgeschickt. Ausser er heisst Flávio Bolsonaro und erklärt sich von dort zum Anführer Brasiliens."
     },
     {
-      "id": "2026-10-28-0657-06",
+      "id": "2026-10-29-0657-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Merz nennt Europa in Asien eine sichere Bank, gerettet wird hier jede",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Merz wirbt in Asien: Europa sei eine sichere Bank. Verständlich, gerettet wird hier jede.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-28-0657-11",
-      "typ": "schnittmenge",
-      "stichwort": "Übermüdete Pilot*innen sind ein Sicherheitsrisiko, übermüdete Pflegende sind ein Dienstplan",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Übermüdete Pilot*innen sind ein Sicherheitsrisiko, warnt eine Umfrage. Übermüdete Pflegende sind ein Dienstplan.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-28-0657-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Melania Trump vermittelt Waffenruhe für Oleshky, am selben Tag treffen russische Raketen Kyjiw, Putin hält Verträge bis zur Ortstafel",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Melania Trump vermittelt eine Waffenruhe für Oleshky, am selben Tag treffen russische Raketen Kyjiw. Putin hält sich also an Verträge, bis zur Ortstafel.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-28-0657-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Die Vollzeitstelle wurde für Männer mit Frau zu Hause gebaut, jetzt haben beide eine Vollzeitstelle und niemand mehr eine Frau",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die Vollzeitstelle wurde für Männer gebaut, die zu Hause eine Frau hatten. Jetzt haben beide eine Vollzeitstelle und niemand mehr eine Frau.",
-      "jury": {
-        "witz": true,
-        "anker": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-28-0657-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zwei Wochen Vaterschaftsurlaub fürs Kind, drei Wochen Wiederholungskurs fürs Schiessen, jedes Jahr",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Für ein neugeborenes Kind gibt die Schweiz einem Vater zwei Wochen frei. Zum Üben, auf Menschen zu schiessen, drei. Jedes Jahr.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-28-0657-32",
-      "typ": "remix",
-      "stichwort": "Trump trifft Putin und Selenski «sehr bald», die Zeiteinheit, in der Mexiko die Mauer bezahlt",
+      "stichwort": "Starlink-Saboteure festgenommen, abschalten darf Starlink nur Musk persönlich",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Trump kündigt sehr bald ein Treffen mit Putin und Selenski an. Sehr bald ist bei ihm die Zeiteinheit, in der Mexiko die Mauer bezahlt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-28-0657-36",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mietautos in Innerrhoden als Zuwanderung, die der SVP gefällt: kommt nie an, braucht keine Wohnung, zahlt und schweigt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Mietautos ziehen wegen der Steuern nach Appenzell Innerrhoden. Endlich Zuwanderung, die der SVP gefällt: kommt nie an, braucht keine Wohnung, zahlt und schweigt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-28-0657-37",
-      "typ": "politisch-aktuell",
-      "stichwort": "Thurgau ohne eigenes Frauenhaus, rhetorische Frage ob der Kanton auch keine eigenen Männer hat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hat der Kanton Thurgau auch keine eigenen Männer, oder nur kein eigenes Frauenhaus? Frage für die Thurgauer Regierung.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-28-0657-38",
-      "typ": "schnittmenge",
-      "stichwort": "Waldbrand braucht Fachleute, Albert Rösti hat jahrelang Heizöl verkauft",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Brennt der Wald, braucht es Fachleute. Albert Rösti hat jahrelang Heizöl verkauft.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
+      "text": "Tusk meldet festgenommene Starlink-Saboteure. Stimmt, abschalten darf Starlink nur Elon Musk persönlich."
     }
   ]
 }
