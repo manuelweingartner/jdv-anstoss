@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-29",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,16 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "UNO sucht einen Generalsekretär, Anforderungen: Frieden sichern, Menschenrechte schützen, Pressefreiheit verteidigen. Trump so: Orban."
+    },
+    {
+      "id": "2026-10-29-0657-31",
+      "typ": "schnittmenge",
+      "stichwort": "ICE-Razzien in Detroit vor den Midterms, Angst der Migrant*innen gegen Angst des Weissen Hauses vor Wahllokalen",
+      "plattform": "Threads + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Migrant*innen in Detroit haben Angst vor ICE-Razzien. Das Weisse Haus hat Angst vor Wahllokalen."
     }
   ]
 }
