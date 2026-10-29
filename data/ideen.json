@@ -34,6 +34,46 @@
       "text": "Tusk meldet festgenommene Starlink-Saboteure. Stimmt, abschalten darf Starlink nur Elon Musk persönlich."
     },
     {
+      "id": "2026-10-29-0657-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mietwohnung braucht Lohnausweis und Referenzen, ein ganzes Mietshaus jemanden bei der Bank, der einen duzt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Für eine Mietwohnung braucht es Lohnausweis, Betreibungsauszug und Referenzen. Für ein ganzes Mietshaus jemanden bei der Bank, der einen duzt."
+    },
+    {
+      "id": "2026-10-29-0657-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steueramt Paris erfährt automatisch, was auf Schweizer Konten liegt, das in Bern nie, Frage an die Privatsphäre-Fraktion",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Warum erfährt das Steueramt in Paris automatisch, was auf Schweizer Konten liegt, das in Bern aber nie? Frage für alle, die Privatsphäre sagen und Steuern meinen."
+    },
+    {
+      "id": "2026-10-29-0657-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Friedensdividende nach dem Mauerfall kam nie, die Kriegsdividende kommt vierteljährlich aufs Depot",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Die Friedensdividende nach dem Mauerfall kam nie. Die Kriegsdividende kommt vierteljährlich, aufs Depot."
+    },
+    {
+      "id": "2026-10-29-0657-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gleichstellung in der Teppichetage: die Kinder der Chefin holt eine Frau aus Porto ab, ihre eigenen die Grossmutter in Porto",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Gleichstellung ist in der Teppichetage angekommen: Die Kinder der Chefin holt jetzt eine Frau aus Porto ab. Ihre eigenen holt die Grossmutter ab, in Porto."
+    },
+    {
       "id": "2026-10-29-0657-16",
       "typ": "politisch-aktuell",
       "stichwort": "Innerrhoden: Tausende Mietautos sind zu Hause, ohne je dort zu sein, Frauen waren immer dort und durften bis 1990 nicht abstimmen",
@@ -62,46 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Migros-Präsidentin Nold will bei einem Nein zum Umbau die Abstimmung wiederholen. Albert Rösti hat das nach dem Nein zum Autobahnausbau auch gemacht, nur Stück für Stück."
-    },
-    {
-      "id": "2026-10-29-0657-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Migros-Präsidentin Nold wiederholt bei einem Nein zur Fusion die Abstimmung, bei der Migros heisst Nein: noch nicht Ja",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Migros-Präsidentin Nold will bei einem Nein zur Fusion einfach nochmals abstimmen lassen. Bei der Migros heisst Nein offenbar: noch nicht Ja."
-    },
-    {
-      "id": "2026-10-29-0657-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Techaktien fallen, am selben Tag macht der Anthropic-Börsengang die Gründer*innen trotz Verlusten zu Milliardär*innen, zahlen wird die Pensionskasse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Techaktien fallen, und am selben Tag macht der Anthropic-Börsengang die Gründer*innen trotz gigantischer Verluste zu Milliardär*innen. Wer die Verluste am Ende zahlt? Frag deine Pensionskasse."
-    },
-    {
-      "id": "2026-10-29-0657-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "UNO sucht Generalsekretär mit Anforderungsprofil Frieden, Menschenrechte, Pressefreiheit, Trump so: Orban",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "UNO sucht einen Generalsekretär, Anforderungen: Frieden sichern, Menschenrechte schützen, Pressefreiheit verteidigen. Trump so: Orban."
-    },
-    {
-      "id": "2026-10-29-0657-31",
-      "typ": "schnittmenge",
-      "stichwort": "ICE-Razzien in Detroit vor den Midterms, Angst der Migrant*innen gegen Angst des Weissen Hauses vor Wahllokalen",
-      "plattform": "Threads + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Migrant*innen in Detroit haben Angst vor ICE-Razzien. Das Weisse Haus hat Angst vor Wahllokalen."
     }
   ]
 }
