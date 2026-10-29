@@ -1,62 +1,59 @@
 {
-  "stand": "2026-10-28T16:00:41+01:00",
-  "lauf": "1600",
+  "stand": "2026-10-29T07:06:56+01:00",
+  "lauf": "0706",
   "fotos": [
     {
-      "id": "1600-1",
-      "titel": "Flávio Bolsonaro landet in Miami – wie der Wahlverlierer der brasilianischen Justiz entkommen ist",
-      "was": "Flávio Bolsonaro winkt beim Ausstieg aus einem Privatjet in Miami",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Law-and-Order-Rhetorik des Clans gegen die eigene Flucht vor einem Ausreiseverbot.",
+      "id": "0706-1",
+      "titel": "Machtkampf um Brasilien – Bolsonaro in Miami: Wie weit geht Trumps Unterstützung?",
+      "was": "Flávio Bolsonaro nach der Landung in Florida, winkend oder neben Trump",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Flucht trotz Ausreiseverbot als Staatsbesuch inszeniert gegen den Wahlverlierer, der sich selbst zum Anführer erklärt.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "NZZ",
+      "quelle": "SRF",
       "auch_bei": [
-        "20 Minuten",
-        "SRF",
-        "Spiegel",
         "Tagesschau"
       ],
-      "artikel": "https://www.nzz.ch/international/wie-flavio-bolsonaro-der-brasilianischen-justiz-entkam-ld.10047048",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/28/0318ac43-027a-4a4a-b609-e5c615599e74.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1830,1830,x396,y0",
-      "zeit": "2026-10-28T14:56+01:00"
+      "artikel": "https://www.srf.ch/news/international/machtkampf-um-brasilien-bolsonaro-in-miami-wie-weit-geht-trumps-unterstuetzung",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/735cef.jpg",
+      "zeit": "2026-10-28T22:46+01:00"
     },
     {
-      "id": "1600-2",
-      "titel": "Russland-Afrika-Gipfel in Moskau: Afrika wird zunehmend zu Russlands Schattenfront",
-      "was": "Putin beim Gruppenfoto inmitten afrikanischer Staatschefs im Kreml",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Partnerschaft auf Augenhöhe im Bild gegen Militärbasen und Waffengeschäfte im Vertrag.",
+      "id": "0706-2",
+      "titel": "Bundesregierung für Tesla-Fahrassistent: Musk lobbyiert erfolgreich beim deutschen Verkehrsminister",
+      "was": "Elon Musk beim Handschlag mit Verkehrsminister Steffen Bilger im Ministerium",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: ein Minister, der über Fahrassistenten entscheidet, gegen einen Minister, der sich sichtbar lenken lässt.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "taz",
       "auch_bei": [
-        "Tagesschau"
+        "Spiegel"
       ],
-      "artikel": "https://taz.de/Russland-Afrika-Gipfel-in-Moskau/!6223693/",
-      "bild": "https://taz.de/picture/8817071/948/42411172.jpeg",
-      "zeit": "2026-10-28T12:42+01:00"
+      "artikel": "https://taz.de/Bundesregierung-fuer-Tesla-Fahrassistent/!6225668/",
+      "bild": "https://taz.de/picture/8829884/948/42419212.jpeg",
+      "zeit": "2026-10-28T20:07+01:00"
     },
     {
-      "id": "1600-3",
-      "titel": "Commonwealth-Gipfel in Antigua – König Charles ist auf einer diplomatisch heiklen Karibikreise",
-      "was": "König Charles im hellen Anzug schüttelt Hände zwischen Tänzern in Antigua",
-      "richtung": "Rollenrede aus Sicht des Abgebildeten. Achse: höfliches Lächeln beim Empfang gegen die Reparationsforderungen des Gastgebers.",
+      "id": "0706-3",
+      "titel": "Cassis besucht Nordkorea – Was bringt der Schweiz ein Büro in Nordkorea?",
+      "was": "Ignazio Cassis in Pjöngjang beim steifen Handschlag mit nordkoreanischen Funktionären",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein Büro in Pjöngjang als diplomatischer Erfolg gegen das, was die Schweiz dort tatsächlich zu bewegen vermag.",
       "grund": "memetauglich",
-      "raum": "weltweit",
+      "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/commonwealth-gipfel-in-antigua-koenig-charles-ist-auf-einer-diplomatisch-heiklen-karibikreise",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/ff0d45.jpg",
-      "zeit": "2026-10-28T13:18+01:00"
+      "artikel": "https://www.srf.ch/news/schweiz/cassis-besucht-nordkorea-was-bringt-der-schweiz-ein-buero-in-nordkorea",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/9b4ff8.jpg",
+      "zeit": "2026-10-28T20:48+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 14:00",
-      "was": "Familienfoto des Russland-Afrika-Gipfels im Kreml, Putin in der Mitte der Staatschefs"
+      "wann": "heute, Staatsbesuch Tokio",
+      "was": "Merz bei Zeremonie oder Handschlag mit dem japanischen Premier, protokollarisch steif"
     },
     {
-      "wann": "heute im Verlauf des Tages",
-      "was": "König Charles bei Empfang oder Zeremonie am Commonwealth-Gipfel in Antigua"
+      "wann": "heute Abend, Swiss Indoors Basel",
+      "was": "Djokovic bei Jubel oder Verzweiflung vor serbischen Fans in Basel"
     }
   ],
   "hinweis": ""
