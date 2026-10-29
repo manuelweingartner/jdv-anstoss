@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-29",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -15,6 +15,21 @@
       "jury": {
         "anker": true,
         "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-29-0657-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Flávio Bolsonaro flieht trotz Ausreiseverbot in die USA, die Ausschaffungs-Logik gilt für alle, ausser er heisst Bolsonaro",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Klar, wer gegen die Gesetze seines Landes in die USA flieht, gehört zurückgeschickt. Ausser er heisst Flávio Bolsonaro und erklärt sich von dort zum Anführer Brasiliens.",
+      "jury": {
+        "anker": true,
+        "witz": false,
         "neu": true
       }
     },
@@ -34,18 +49,18 @@
       }
     },
     {
-      "id": "2026-10-29-0657-07",
+      "id": "2026-10-29-0657-08",
       "typ": "politisch-aktuell",
-      "stichwort": "Mietwohnung braucht Lohnausweis und Referenzen, ein ganzes Mietshaus jemanden bei der Bank, der einen duzt",
+      "stichwort": "Steueramt Paris erfährt automatisch, was auf Schweizer Konten liegt, das in Bern nie, Frage an die Privatsphäre-Fraktion",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Für eine Mietwohnung braucht es Lohnausweis, Betreibungsauszug und Referenzen. Für ein ganzes Mietshaus jemanden bei der Bank, der einen duzt.",
+      "format": "frei",
+      "text": "Warum erfährt das Steueramt in Paris automatisch, was auf Schweizer Konten liegt, das in Bern aber nie? Frage für alle, die Privatsphäre sagen und Steuern meinen.",
       "jury": {
-        "witz": true,
+        "witz": false,
         "anker": true,
-        "neu": false
+        "neu": true
       }
     },
     {
@@ -79,21 +94,6 @@
       }
     },
     {
-      "id": "2026-10-29-0657-17",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neid auf die Sache: so wenig gebraucht werden wie ein Frauenhaus im Thurgau",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so wenig gebraucht werden wie ein Frauenhaus im Kanton Thurgau.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
       "id": "2026-10-29-0657-23",
       "typ": "politisch-aktuell",
       "stichwort": "UNO sucht Generalsekretär mit Anforderungsprofil Frieden, Menschenrechte, Pressefreiheit, Trump so: Orban",
@@ -124,6 +124,21 @@
       }
     },
     {
+      "id": "2026-10-29-0657-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rüstungskonzerne erklären Europa die Bedrohungslage, Diagnose vom Bestatter, Zweitmeinung beim Sargschreiner",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Rüstungskonzerne erklären Europa die Bedrohungslage. Diagnose vom Bestatter, Zweitmeinung beim Sargschreiner.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
       "id": "2026-10-29-0657-32",
       "typ": "remix",
       "stichwort": "Uber Eats verdrängt Schweizer Velokuriere, entschieden in San Francisco von Leuten, die sich das Mittagessen liefern lassen (Remix der unterausgespielten Teilzeit/Apéro-Mechanik)",
@@ -135,21 +150,6 @@
       "jury": {
         "witz": true,
         "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-29-0657-36",
-      "typ": "schnittmenge",
-      "stichwort": "Mietautos zählen in Innerrhoden sofort, Frauen seit 1990",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Mietautos zählen in Appenzell Innerrhoden sofort, ohne dort zu sein. Frauen zählen seit 1990.",
-      "jury": {
-        "anker": true,
-        "witz": true,
         "neu": true
       }
     }
