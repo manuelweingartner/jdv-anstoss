@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-29",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Tusk meldet festgenommene Starlink-Saboteure. Stimmt, abschalten darf Starlink nur Elon Musk persönlich."
+    },
+    {
+      "id": "2026-10-29-0657-16",
+      "typ": "politisch-aktuell",
+      "stichwort": "Innerrhoden: Tausende Mietautos sind zu Hause, ohne je dort zu sein, Frauen waren immer dort und durften bis 1990 nicht abstimmen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Tausende Mietautos haben in Appenzell Innerrhoden ein Zuhause, ohne je dort zu sein. Frauen waren immer dort und durften bis 1990 nicht abstimmen."
+    },
+    {
+      "id": "2026-10-29-0657-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf die Sache: so wenig gebraucht werden wie ein Frauenhaus im Thurgau",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so wenig gebraucht werden wie ein Frauenhaus im Kanton Thurgau."
+    },
+    {
+      "id": "2026-10-29-0657-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Migros-Präsidentin Nold wiederholt bei einem Nein die Abstimmung, Rösti hat das beim Autobahnausbau auch gemacht, Stück für Stück",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Migros-Präsidentin Nold will bei einem Nein zum Umbau die Abstimmung wiederholen. Albert Rösti hat das nach dem Nein zum Autobahnausbau auch gemacht, nur Stück für Stück."
     },
     {
       "id": "2026-10-29-0657-21",
