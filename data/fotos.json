@@ -1,59 +1,59 @@
 {
-  "stand": "2026-10-29T07:06:56+01:00",
-  "lauf": "0706",
+  "stand": "2026-10-29T16:00:57+01:00",
+  "lauf": "1600",
   "fotos": [
     {
-      "id": "0706-1",
-      "titel": "Machtkampf um Brasilien – Bolsonaro in Miami: Wie weit geht Trumps Unterstützung?",
-      "was": "Flávio Bolsonaro nach der Landung in Florida, winkend oder neben Trump",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Flucht trotz Ausreiseverbot als Staatsbesuch inszeniert gegen den Wahlverlierer, der sich selbst zum Anführer erklärt.",
+      "id": "1600-1",
+      "titel": "Christine Lagarde: EZB-Präsidentin verlässt Notenbank in heikler Phase",
+      "was": "Christine Lagarde am Rednerpult der EZB-Pressekonferenz, Hände erhoben",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Letzte Pressekonferenz mit unverändertem Zins gegen die Inflation, die nach ihr bleibt.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "SRF",
+      "raum": "",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "Tagesschau"
+        "NZZ"
       ],
-      "artikel": "https://www.srf.ch/news/international/machtkampf-um-brasilien-bolsonaro-in-miami-wie-weit-geht-trumps-unterstuetzung",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/735cef.jpg",
-      "zeit": "2026-10-28T22:46+01:00"
+      "artikel": "https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-verlaesst-notenbank-in-heikler-phase-a-d8530265-f4ff-421a-927a-c741945cb96d#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/7d7ccfb4-0001-0004-0000-000001445471_w520_r2.08_fpx42_fpy44.98.jpg",
+      "zeit": "2026-10-29T14:49+01:00"
     },
     {
-      "id": "0706-2",
-      "titel": "Bundesregierung für Tesla-Fahrassistent: Musk lobbyiert erfolgreich beim deutschen Verkehrsminister",
-      "was": "Elon Musk beim Handschlag mit Verkehrsminister Steffen Bilger im Ministerium",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: ein Minister, der über Fahrassistenten entscheidet, gegen einen Minister, der sich sichtbar lenken lässt.",
+      "id": "1600-2",
+      "titel": "Christoph Spycher gibt 2027 operative Verantwortung bei YB ab",
+      "was": "Christoph Spycher im Anzug am Spielfeldrand oder an der YB-Medienkonferenz",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Ein Abgang mit einem Jahr Vorlauf gegen die Halbwertszeit von Trainern im selben Club.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "taz",
+      "raum": "schweiz",
+      "quelle": "NZZ",
       "auch_bei": [
-        "Spiegel"
+        "Watson"
       ],
-      "artikel": "https://taz.de/Bundesregierung-fuer-Tesla-Fahrassistent/!6225668/",
-      "bild": "https://taz.de/picture/8829884/948/42419212.jpeg",
-      "zeit": "2026-10-28T20:07+01:00"
+      "artikel": "https://www.nzz.ch/sport/fussball/christoph-spycher-gibt-2027-operative-verantwortung-bei-yb-ab-ld.10048342",
+      "bild": "https://img-msp-prod.nzz.ch/2025/09/12/1e932ca4-fcb0-4b05-b37f-9484982c8481.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2046,2046,x527,y0",
+      "zeit": "2026-10-29T12:04+01:00"
     },
     {
-      "id": "0706-3",
-      "titel": "Cassis besucht Nordkorea – Was bringt der Schweiz ein Büro in Nordkorea?",
-      "was": "Ignazio Cassis in Pjöngjang beim steifen Handschlag mit nordkoreanischen Funktionären",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein Büro in Pjöngjang als diplomatischer Erfolg gegen das, was die Schweiz dort tatsächlich zu bewegen vermag.",
+      "id": "1600-3",
+      "titel": "Der Zürcher Bündnerfleisch-Moment: SP-Kantonsrat fängt während Votum an zu lachen – er sagt: «Es war befreiend»",
+      "was": "SP-Kantonsrat Jonas Erni lacht am Rednerpult, Ratskollegen schauen ernst",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Die einzige ehrliche Reaktion auf eine Ratsvorlage gegen den Ernst, den das Parlament sonst aufführt.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/cassis-besucht-nordkorea-was-bringt-der-schweiz-ein-buero-in-nordkorea",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/9b4ff8.jpg",
-      "zeit": "2026-10-28T20:48+01:00"
+      "artikel": "https://www.nzz.ch/zuerich/sp-kantonsrat-faengt-waehrend-votum-an-zu-lachen-und-kann-nicht-mehr-aufhoeren-ld.10048224",
+      "bild": "https://img-msp-prod.nzz.ch/2026/10/29/b4531b49-a151-4154-8c75-ca9a6da7c159.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2752,2752,x0,y727",
+      "zeit": "2026-10-29T15:50+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, Staatsbesuch Tokio",
-      "was": "Merz bei Zeremonie oder Handschlag mit dem japanischen Premier, protokollarisch steif"
+      "wann": "heute ab 15:00",
+      "was": "Gruppenfoto und Handschläge am EU-Kanada-Gipfel in Montreal mit von der Leyen, Carney und Merz"
     },
     {
-      "wann": "heute Abend, Swiss Indoors Basel",
-      "was": "Djokovic bei Jubel oder Verzweiflung vor serbischen Fans in Basel"
+      "wann": "heute im Verlauf",
+      "was": "Putin empfängt afrikanische Staatschefs am Russland-Afrika-Gipfel in Moskau, Handschlag-Choreografie"
     }
   ],
   "hinweis": ""
