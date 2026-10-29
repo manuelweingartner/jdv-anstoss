@@ -1,46 +1,46 @@
 {
-  "stand": "2026-10-28T07:04:44+01:00",
+  "stand": "2026-10-29T07:08:12+01:00",
   "vorschlaege": [
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Gigantische Verluste, reiche Gründer",
-        "Anthropic-Börsengang"
+        "Abstimmen bis Ja kommt",
+        "Genossenschaftliche Mitbestimmung"
       ],
-      "warum": "weil dieselbe Firma einmal als Verlustmaschine und einmal als Börsenstory erzählt wird und nur die Verpackung sich ändert",
+      "warum": "weil Nolds Ankündigung einer Wiederholung bei Nein exakt die vornehme Verpackung desselben Vorgangs ist",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "60'000 Abgangsentschädigungen",
-        "Milliarden für Rechenzentren kürzen",
-        "Microsoft"
+        "Orbans Kandidat",
+        "Jemand mit UNO-Erfahrung",
+        "Donald Trump"
       ],
-      "warum": "weil der Konzern in letzter Sekunde zu den Angestellten abbiegt statt beim eigenen KI-Ausbau zu sparen",
+      "warum": "weil das Rennen um die Guterres-Nachfolge in letzter Sekunde einen absurden Abzweiger nimmt und klar ist, wer lenkt",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Dotcom-Blase 2000",
-        "Lektion angeblich gelernt",
-        "KI-Aktien 2026",
-        "Diesmal ist alles anders"
+        "Fed 2022: Zinsen rauf, Punkt",
+        "Weisses Haus wartet draussen",
+        "Fed 2026: Zinsen unverändert",
+        "Bis nach den Midterms"
       ],
-      "warum": "weil die Wall Street ihr starkes Früher beschwört und das Heute exakt dieselbe Blase mit neuem Etikett ist",
+      "warum": "weil die früher demonstrativ unabhängige Notenbank heute vor der Wahl lieber stillhält",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Die Zeitumstellung wird seit 2018 abgeschafft"
+        "Milliardär werden geht auch mit Verlust"
       ],
-      "warum": "weil die EU-Abschaffung seit acht Jahren beschlossen ist und trotzdem jedes Jahr wieder umgestellt wird, da gibt es nichts zu widersprechen",
+      "warum": "weil der Anthropic-Börsengang trotz gigantischer Verluste die Gründer superreich macht und niemand widersprechen kann",
       "bild": "vorschlag-4.jpg"
     }
   ]
