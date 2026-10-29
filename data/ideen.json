@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-29",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Tusk meldet festgenommene Starlink-Saboteure. Stimmt, abschalten darf Starlink nur Elon Musk persönlich."
+    },
+    {
+      "id": "2026-10-29-0657-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Migros-Präsidentin Nold wiederholt bei einem Nein zur Fusion die Abstimmung, bei der Migros heisst Nein: noch nicht Ja",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Migros-Präsidentin Nold will bei einem Nein zur Fusion einfach nochmals abstimmen lassen. Bei der Migros heisst Nein offenbar: noch nicht Ja."
+    },
+    {
+      "id": "2026-10-29-0657-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Techaktien fallen, am selben Tag macht der Anthropic-Börsengang die Gründer*innen trotz Verlusten zu Milliardär*innen, zahlen wird die Pensionskasse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Techaktien fallen, und am selben Tag macht der Anthropic-Börsengang die Gründer*innen trotz gigantischer Verluste zu Milliardär*innen. Wer die Verluste am Ende zahlt? Frag deine Pensionskasse."
+    },
+    {
+      "id": "2026-10-29-0657-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "UNO sucht Generalsekretär mit Anforderungsprofil Frieden, Menschenrechte, Pressefreiheit, Trump so: Orban",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "UNO sucht einen Generalsekretär, Anforderungen: Frieden sichern, Menschenrechte schützen, Pressefreiheit verteidigen. Trump so: Orban."
     }
   ]
 }
