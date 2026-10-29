@@ -4,24 +4,19 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-10-29-0657-04",
+      "id": "2026-10-29-0657-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Bund prüft Tempo 80 wegen Treibstoffknappheit, fürs Klima war dasselbe Ökodiktatur, für den Rheinpegel ist es Vernunft",
+      "stichwort": "Migros-Präsidentin Nold will bei einem Nein zur Fusion nochmal abstimmen lassen, Korrektur-Pointe Lukaschenko/Migros",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Der Bund prüft Tempo 80, weil Treibstoff knapp ist. Seh ich das richtig, fürs Klima war das Ökodiktatur, für den Rheinpegel ist es Vernunft?"
-    },
-    {
-      "id": "2026-10-29-0657-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Flávio Bolsonaro flieht trotz Ausreiseverbot in die USA, die Ausschaffungs-Logik gilt für alle, ausser er heisst Bolsonaro",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Klar, wer gegen die Gesetze seines Landes in die USA flieht, gehört zurückgeschickt. Ausser er heisst Flávio Bolsonaro und erklärt sich von dort zum Anführer Brasiliens."
+      "format": 14,
+      "text": "Abstimmen lassen, bis die Fusion ein Ja hat. Nicht Lukaschenko, die Migros.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-29-0657-06",
@@ -31,7 +26,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Tusk meldet festgenommene Starlink-Saboteure. Stimmt, abschalten darf Starlink nur Elon Musk persönlich."
+      "text": "Tusk meldet festgenommene Starlink-Saboteure. Stimmt, abschalten darf Starlink nur Elon Musk persönlich.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-29-0657-07",
@@ -41,27 +41,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Für eine Mietwohnung braucht es Lohnausweis, Betreibungsauszug und Referenzen. Für ein ganzes Mietshaus jemanden bei der Bank, der einen duzt."
-    },
-    {
-      "id": "2026-10-29-0657-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Steueramt Paris erfährt automatisch, was auf Schweizer Konten liegt, das in Bern nie, Frage an die Privatsphäre-Fraktion",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Warum erfährt das Steueramt in Paris automatisch, was auf Schweizer Konten liegt, das in Bern aber nie? Frage für alle, die Privatsphäre sagen und Steuern meinen."
-    },
-    {
-      "id": "2026-10-29-0657-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Friedensdividende nach dem Mauerfall kam nie, die Kriegsdividende kommt vierteljährlich aufs Depot",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Die Friedensdividende nach dem Mauerfall kam nie. Die Kriegsdividende kommt vierteljährlich, aufs Depot."
+      "text": "Für eine Mietwohnung braucht es Lohnausweis, Betreibungsauszug und Referenzen. Für ein ganzes Mietshaus jemanden bei der Bank, der einen duzt.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-10-29-0657-10",
@@ -71,17 +56,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Gleichstellung ist in der Teppichetage angekommen: Die Kinder der Chefin holt jetzt eine Frau aus Porto ab. Ihre eigenen holt die Grossmutter ab, in Porto."
+      "text": "Gleichstellung ist in der Teppichetage angekommen: Die Kinder der Chefin holt jetzt eine Frau aus Porto ab. Ihre eigenen holt die Grossmutter ab, in Porto.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-29-0657-16",
-      "typ": "politisch-aktuell",
-      "stichwort": "Innerrhoden: Tausende Mietautos sind zu Hause, ohne je dort zu sein, Frauen waren immer dort und durften bis 1990 nicht abstimmen",
+      "id": "2026-10-29-0657-12",
+      "typ": "remix",
+      "stichwort": "KI befreit uns von der Arbeit, sagen die Konzerne, so wie Hochwasser vom Staubsaugen befreit (Remix des unterausgespielten Hai-Streitbilds)",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Tausende Mietautos haben in Appenzell Innerrhoden ein Zuhause, ohne je dort zu sein. Frauen waren immer dort und durften bis 1990 nicht abstimmen."
+      "format": "frei",
+      "text": "KI befreit uns von der Arbeit, sagen die Konzerne. Hochwasser befreit auch vom Staubsaugen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-29-0657-17",
@@ -91,17 +86,72 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so wenig gebraucht werden wie ein Frauenhaus im Kanton Thurgau."
+      "text": "Einmal so wenig gebraucht werden wie ein Frauenhaus im Kanton Thurgau.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-10-29-0657-18",
+      "id": "2026-10-29-0657-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Migros-Präsidentin Nold wiederholt bei einem Nein die Abstimmung, Rösti hat das beim Autobahnausbau auch gemacht, Stück für Stück",
+      "stichwort": "UNO sucht Generalsekretär mit Anforderungsprofil Frieden, Menschenrechte, Pressefreiheit, Trump so: Orban",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Migros-Präsidentin Nold will bei einem Nein zum Umbau die Abstimmung wiederholen. Albert Rösti hat das nach dem Nein zum Autobahnausbau auch gemacht, nur Stück für Stück."
+      "text": "UNO sucht einen Generalsekretär, Anforderungen: Frieden sichern, Menschenrechte schützen, Pressefreiheit verteidigen. Trump so: Orban.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-10-29-0657-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Läderach-CEO fordert Toleranz, verständlich, wer sie zu Hause nie gesehen hat, vermisst sie am meisten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Johannes Läderach, Sohn des Abtreibungsgegners und Schokolade-CEO, findet, das Land müsse wieder Toleranz lernen. Verständlich, wer sie zu Hause nie gesehen hat, vermisst sie am meisten.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-29-0657-32",
+      "typ": "remix",
+      "stichwort": "Uber Eats verdrängt Schweizer Velokuriere, entschieden in San Francisco von Leuten, die sich das Mittagessen liefern lassen (Remix der unterausgespielten Teilzeit/Apéro-Mechanik)",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Uber Eats fährt in der Schweiz die lokalen Velokuriere aus dem Markt. Entschieden in San Francisco, von Leuten, die sich das Mittagessen vom Kurier bringen lassen. Trinkgeld optional.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-29-0657-36",
+      "typ": "schnittmenge",
+      "stichwort": "Mietautos zählen in Innerrhoden sofort, Frauen seit 1990",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Mietautos zählen in Appenzell Innerrhoden sofort, ohne dort zu sein. Frauen zählen seit 1990.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
