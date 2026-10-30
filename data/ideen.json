@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-30",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Parmelin erneuert den Freihandel mit China und beklagt Handelshemmnisse. Verständlich, bei Zwangsarbeit stört jeder Zoll."
+    },
+    {
+      "id": "2026-10-30-2249-31",
+      "typ": "schnittmenge",
+      "stichwort": "Papst Leo wählt per Briefwahl in den USA, in seiner eigenen Kirche hat noch nie eine Frau über ihn abgestimmt",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Papst Leo hat per Briefwahl bei den US-Wahlen abgestimmt. Über ihn abstimmen durfte in seiner eigenen Kirche noch nie eine Frau."
+    },
+    {
+      "id": "2026-10-30-2249-32",
+      "typ": "remix",
+      "stichwort": "Hollywood ersetzt Schauspieler*innen durch KI, leere Liste der ersetzten Studiochefs (Remix der unterausgespielten Hitzetote-Liste)",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hollywood ersetzt Schauspieler*innen durch KI. Hier die Liste der ersetzten Studiochefs:\n-\n-\nThat's it."
     }
   ]
 }
