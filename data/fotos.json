@@ -1,59 +1,59 @@
 {
-  "stand": "2026-10-29T16:00:57+01:00",
-  "lauf": "1600",
+  "stand": "2026-10-30T07:04:55+01:00",
+  "lauf": "0704",
   "fotos": [
     {
-      "id": "1600-1",
-      "titel": "Christine Lagarde: EZB-Präsidentin verlässt Notenbank in heikler Phase",
-      "was": "Christine Lagarde am Rednerpult der EZB-Pressekonferenz, Hände erhoben",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Letzte Pressekonferenz mit unverändertem Zins gegen die Inflation, die nach ihr bleibt.",
+      "id": "0704-1",
+      "titel": "EU-Kanada-Gipfel: \"Die neue Allianz ist keine Marketing-Übung\"",
+      "was": "Von der Leyen und Carney beim Handschlag oder Gruppenfoto vor EU- und Kanada-Flaggen",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Kanada wird nach einem Monat zum assoziierten Mitglied erklärt, während die Schweiz seit Jahrzehnten am Verhandlungstisch sitzt und nie reinkommt.",
       "grund": "breit",
-      "raum": "",
-      "quelle": "Spiegel",
+      "raum": "weltweit",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "NZZ"
+        "Spiegel"
       ],
-      "artikel": "https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-verlaesst-notenbank-in-heikler-phase-a-d8530265-f4ff-421a-927a-c741945cb96d#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/7d7ccfb4-0001-0004-0000-000001445471_w520_r2.08_fpx42_fpy44.98.jpg",
-      "zeit": "2026-10-29T14:49+01:00"
+      "artikel": "https://www.tagesschau.de/ausland/amerika/eu-kanada-zweiter-tag-100.html",
+      "bild": "https://images.tagesschau.de/image/a941aa47-ad1a-40ef-9847-b50d3f9a9d75/AAABoYtQaKU/AAABnSSvrFg/16x9-big/carney-136.jpg?width=1280",
+      "zeit": "2026-10-30T06:46+01:00"
     },
     {
-      "id": "1600-2",
-      "titel": "Christoph Spycher gibt 2027 operative Verantwortung bei YB ab",
-      "was": "Christoph Spycher im Anzug am Spielfeldrand oder an der YB-Medienkonferenz",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Ein Abgang mit einem Jahr Vorlauf gegen die Halbwertszeit von Trainern im selben Club.",
+      "id": "0704-2",
+      "titel": "Russland kämpft um Einfluss in Afrika, aber sein Vormarsch auf dem Kontinent stockt",
+      "was": "Putin im Kreml mit Dutzenden afrikanischen Delegierten an langer Tafel oder im Gruppenbild",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Was als Bündnis natürlicher Verbündeter inszeniert wird, sieht aus wie Vorsprechen beim Gönner, dessen Einfluss gerade stockt.",
       "grund": "breit",
-      "raum": "schweiz",
+      "raum": "weltweit",
       "quelle": "NZZ",
       "auch_bei": [
-        "Watson"
+        "Tagesschau"
       ],
-      "artikel": "https://www.nzz.ch/sport/fussball/christoph-spycher-gibt-2027-operative-verantwortung-bei-yb-ab-ld.10048342",
-      "bild": "https://img-msp-prod.nzz.ch/2025/09/12/1e932ca4-fcb0-4b05-b37f-9484982c8481.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2046,2046,x527,y0",
-      "zeit": "2026-10-29T12:04+01:00"
+      "artikel": "https://www.nzz.ch/international/russland-kaempft-um-einfluss-in-afrika-aber-sein-vormarsch-auf-dem-kontinent-stockt-ld.10047990",
+      "bild": "https://img-msp-prod.nzz.ch/2026/10/29/13de90d7-8617-4dd0-957f-8a01982ab1f6.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3627,3627,x907,y0",
+      "zeit": "2026-10-30T05:30+01:00"
     },
     {
-      "id": "1600-3",
-      "titel": "Der Zürcher Bündnerfleisch-Moment: SP-Kantonsrat fängt während Votum an zu lachen – er sagt: «Es war befreiend»",
-      "was": "SP-Kantonsrat Jonas Erni lacht am Rednerpult, Ratskollegen schauen ernst",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Die einzige ehrliche Reaktion auf eine Ratsvorlage gegen den Ernst, den das Parlament sonst aufführt.",
+      "id": "0704-3",
+      "titel": "Swiss Indoors: Achtelfinal – Djokovic scheitert in Basel trotz Satzführung an Struff",
+      "was": "Djokovic in Basel verzweifelt, Hände am Kopf oder Blick zur Box nach verlorenem Punkt",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Satzführung und Favoritenrolle gegen das Endergebnis, also Vorsprung in der Umfrage ist noch kein Sieg an der Urne.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "NZZ",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/zuerich/sp-kantonsrat-faengt-waehrend-votum-an-zu-lachen-und-kann-nicht-mehr-aufhoeren-ld.10048224",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/29/b4531b49-a151-4154-8c75-ca9a6da7c159.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2752,2752,x0,y727",
-      "zeit": "2026-10-29T15:50+01:00"
+      "artikel": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-achtelfinal-djokovic-scheitert-in-basel-trotz-satzfuehrung-an-struff",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/71dad7.jpg",
+      "zeit": "2026-10-29T22:11+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 15:00",
-      "was": "Gruppenfoto und Handschläge am EU-Kanada-Gipfel in Montreal mit von der Leyen, Carney und Merz"
+      "wann": "heute im Tagesverlauf",
+      "was": "Weitere Gipfelbilder vom EU-Kanada-Treffen, Familienfoto und gemeinsame Pressekonferenz von der Leyen, Costa und Carney"
     },
     {
-      "wann": "heute im Verlauf",
-      "was": "Putin empfängt afrikanische Staatschefs am Russland-Afrika-Gipfel in Moskau, Handschlag-Choreografie"
+      "wann": "heute ab Nachmittag",
+      "was": "Jérôme Kym im Viertelfinal der Swiss Indoors in Basel, Jubel oder Verzweiflung des Schweizer Aussenseiters"
     }
   ],
   "hinweis": ""
