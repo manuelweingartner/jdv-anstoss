@@ -11,27 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Kalt duschen ist gesünder, sagt eine neue Studie, und der Polarwirbel kündigt in derselben Woche einen frühen Winter an. Die Nebenkostenabrechnung ist jetzt eine Gesundheitsempfehlung."
-    },
-    {
-      "id": "2026-10-30-0657-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "UBS entlässt Zehntausende bei 2,7 Milliarden Quartalsgewinn, ab wie viel Gewinn kann sich eine Bank Angestellte leisten, Frage für Ermotti",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die UBS entlässt Zehntausende und meldet 2,7 Milliarden Quartalsgewinn. Ab wie viel Gewinn kann sich eine Bank eigentlich Angestellte leisten? Frage für Sergio Ermotti."
-    },
-    {
-      "id": "2026-10-30-0657-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizer Bauteile in russischen Drohnen, die Firmen wussten von nichts, Neutralität heisst, die Teile reisen selbst, mit Garantie",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Russische Drohnen fliegen mit Schweizer Teilen. Neutralität heisst, die reisen selbst. Mit Garantie."
+      "text": "Kalt duschen ist gesünder, sagt eine neue Studie, und der Polarwirbel kündigt in derselben Woche einen frühen Winter an. Die Nebenkostenabrechnung ist jetzt eine Gesundheitsempfehlung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-30-0657-04",
@@ -41,7 +26,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, Krypto ist mit Risiko verbunden, sagt Binance nach dem Hack um 6,3 Milliarden Dollar. Das unterscheidet es von Banken, dort trägt es jemand anders."
+      "text": "Stimmt, Krypto ist mit Risiko verbunden, sagt Binance nach dem Hack um 6,3 Milliarden Dollar. Das unterscheidet es von Banken, dort trägt es jemand anders.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-30-0657-05",
@@ -51,17 +41,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Anthropic verliert Milliarden, die Gründer*innen werden Milliardär*innen. Vielleicht sollten Sozialhilfebeziehende mehr Verlust machen."
+      "text": "Anthropic verliert Milliarden, die Gründer*innen werden Milliardär*innen. Vielleicht sollten Sozialhilfebeziehende mehr Verlust machen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-30-0657-06",
-      "typ": "schnittmenge",
-      "stichwort": "Musk will Texas kaufen, Grenzen nur für Menschen dicht, für Geld steht jeder Bundesstaat zum Verkauf",
+      "id": "2026-10-30-0657-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trickle-down als Pflanzen giessen, indem man selbst mehr trinkt",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Elon Musk will Texas kaufen. Seh ich das richtig, Grenzen sind nur für Menschen dicht, für Geld steht jeder Bundesstaat zum Verkauf?"
+      "text": "Steuersenkungen für Reiche nützen allen, heisst es. Pflanzen giessen, indem man selbst mehr trinkt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-10-30-0657-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pensionskasse meldet Rendite dank Rheinmetall, nicht nachfragen, wo sie eingeschlagen ist",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Die Pensionskasse meldet eine schöne Rendite, Rheinmetall sei Dank. Nicht nachfragen, in welchem Land sie eingeschlagen ist.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-30-0657-11",
@@ -71,37 +86,72 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Iran sprengt Tanker auf «unerlaubter Route». Europa braucht dafür keinen Sprengstoff, nur ein Mittelmeer."
+      "text": "Iran sprengt Tanker auf «unerlaubter Route». Europa braucht dafür keinen Sprengstoff, nur ein Mittelmeer.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-30-0657-12",
-      "typ": "remix",
-      "stichwort": "Zwölf Millionen Vertriebene im Sudan, leere Liste der Politiker*innen, die ihn in einer Asyldebatte je als Fluchtgrund genannt haben (Remix der unterausgespielten Hitzetote-Liste)",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Zwölf Millionen Menschen sind im Sudan auf der Flucht. Hier alle Politiker*innen, die in einer Asyldebatte je den Sudan als Fluchtgrund genannt haben:\n-\n-\nThat's it."
-    },
-    {
-      "id": "2026-10-30-0657-16",
+      "id": "2026-10-30-0657-18",
       "typ": "politisch-aktuell",
-      "stichwort": "Armee soll in jedem Dorf üben dürfen, der Thurgau hat weiterhin kein Frauenhaus, rhetorische Frage an die Uniform-Fraktion",
+      "stichwort": "VW verliert fast sechs Milliarden in einem Quartal, der einzige Autolobbyist mit rechtzeitigem Absprung ist Bundesrat Rösti",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Seh ich das richtig, die Armee darf bald in jedem Dorf üben, und im Thurgau fehlt ein Frauenhaus? Frage für alle, die Schutz nur in Uniform kennen."
+      "text": "Volkswagen meldet fast sechs Milliarden Euro Verlust in einem Quartal. Genau ein Autolobbyist hat den Absprung rechtzeitig geschafft und heisst heute Bundesrat Rösti. Staatsstelle. Mit Pension.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-30-0657-17",
-      "typ": "schnittmenge",
-      "stichwort": "Innerrhoden stimmt an der Landsgemeinde per Handzeichen ab, die meisten Neuzuzüger sind Mietautos",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "id": "2026-10-30-0657-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Binance-Hack 6,3 Milliarden, Krypto sei riskant, bei einer Schweizer Bank braucht es dafür einen Verwaltungsrat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Appenzell Innerrhoden stimmt an der Landsgemeinde per Handzeichen ab. Die meisten Neuzuzüger sind Mietautos."
+      "text": "Krypto ist mit Risiko verbunden, sagt Binance nach dem Hack von 6,3 Milliarden. Stimmt, bei einer Schweizer Bank braucht es dafür immerhin einen Verwaltungsrat.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-30-0657-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Musk will Texas kaufen, unklar ob das geht, die Regierung hat er nur gemietet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Musk will Texas kaufen. Unklar, ob das geht, die Regierung hat er nur gemietet.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-30-0657-36",
+      "typ": "schnittmenge",
+      "stichwort": "Armee darf in jedem Dorf üben, Innerrhoden ideal, Einwohner*innen sind Mietautos in Zürich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Armee soll künftig in jedem Dorf üben dürfen. Appenzell Innerrhoden wäre ideal, dort stört es niemanden: die meisten Einwohner*innen sind Mietautos und gerade in Zürich.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
