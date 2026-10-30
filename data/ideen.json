@@ -1,142 +1,37 @@
 {
   "datum": "2026-10-30",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-10-30-0657-01",
+      "id": "2026-10-30-2249-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Studie kalt duschen gesünder, gleiche Woche kündigt der Polarwirbel einen frühen Winter an, die Nebenkostenabrechnung wird zur Gesundheitsempfehlung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Kalt duschen ist gesünder, sagt eine neue Studie, und der Polarwirbel kündigt in derselben Woche einen frühen Winter an. Die Nebenkostenabrechnung ist jetzt eine Gesundheitsempfehlung.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-30-0657-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Binance-Hack, Krypto ist mit Risiko verbunden, bei Banken trägt es jemand anders",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, Krypto ist mit Risiko verbunden, sagt Binance nach dem Hack um 6,3 Milliarden Dollar. Das unterscheidet es von Banken, dort trägt es jemand anders.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-30-0657-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Anthropic-Börsengang, Milliardenverluste machen Milliardär*innen, Sozialhilfebeziehende sollten mehr Verlust machen",
+      "stichwort": "Ruag-Millionenbetrug, Pfister schockiert über kriminelle Energie, bei einem Rüstungsbetrieb soll das Geld Menschen treffen, nicht Konten",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Anthropic verliert Milliarden, die Gründer*innen werden Milliardär*innen. Vielleicht sollten Sozialhilfebeziehende mehr Verlust machen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Bundesrat Pfister ist schockiert, dass beim bundeseigenen Rüstungsbetrieb Ruag Millionen verschwinden. Stimmt, dort soll das Geld ja Menschen treffen, nicht Konten."
     },
     {
-      "id": "2026-10-30-0657-07",
+      "id": "2026-10-30-2249-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Trickle-down als Pflanzen giessen, indem man selbst mehr trinkt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Steuersenkungen für Reiche nützen allen, heisst es. Pflanzen giessen, indem man selbst mehr trinkt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-10-30-0657-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pensionskasse meldet Rendite dank Rheinmetall, nicht nachfragen, wo sie eingeschlagen ist",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Die Pensionskasse meldet eine schöne Rendite, Rheinmetall sei Dank. Nicht nachfragen, in welchem Land sie eingeschlagen ist.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-30-0657-11",
-      "typ": "schnittmenge",
-      "stichwort": "Iran sprengt Tanker auf «unerlaubter Route», Europa braucht für unerlaubte Routen nur ein Mittelmeer",
-      "plattform": "Threads + Bluesky, IG-Textgrafik",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Iran sprengt Tanker auf «unerlaubter Route». Europa braucht dafür keinen Sprengstoff, nur ein Mittelmeer.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-30-0657-18",
-      "typ": "politisch-aktuell",
-      "stichwort": "VW verliert fast sechs Milliarden in einem Quartal, der einzige Autolobbyist mit rechtzeitigem Absprung ist Bundesrat Rösti",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Volkswagen meldet fast sechs Milliarden Euro Verlust in einem Quartal. Genau ein Autolobbyist hat den Absprung rechtzeitig geschafft und heisst heute Bundesrat Rösti. Staatsstelle. Mit Pension.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-30-0657-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Katze Cleo bekommt in Füllinsdorf ein Wartehäuschen, wer auf die Invalidenrente wartet, bekommt einen Sozialdetektiv",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Katze Cleo wartet seit Jahren an einer Bushaltestelle in Füllinsdorf, jemand hat ihr ein Wartehäuschen gebaut. Wer so lange auf die Invalidenrente wartet, bekommt einen Sozialdetektiv.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-10-30-0657-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Musk will Texas kaufen, unklar ob das geht, die Regierung hat er nur gemietet",
+      "stichwort": "Nationalbank 44 Milliarden Gewinn, Ausschüttung offen, bei der eigenen Steuerrechnung ist nie etwas offen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Musk will Texas kaufen. Unklar, ob das geht, die Regierung hat er nur gemietet.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Seh ich das richtig, die Nationalbank macht 44 Milliarden Gewinn und ob sie etwas davon ausschüttet, ist offen? Bei meiner Steuerrechnung ist nie etwas offen."
+    },
+    {
+      "id": "2026-10-30-2249-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Parmelin erneuert Freihandel mit China und beklagt Handelshemmnisse, bei Zwangsarbeit stört jeder Zoll",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Parmelin erneuert den Freihandel mit China und beklagt Handelshemmnisse. Verständlich, bei Zwangsarbeit stört jeder Zoll."
     }
   ]
 }
