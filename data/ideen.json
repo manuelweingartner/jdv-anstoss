@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-31",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -62,6 +62,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 10,
       "text": "Bauteile von elf Schweizer Firmen stecken in russischen Drohnen, sagt die Ukraine. Schweizer Munition für die Ukraine verletzt die Neutralität, sagt Bern."
+    },
+    {
+      "id": "2026-10-31-0003-16",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohnungssuche gegen Mietauto-Steuerwohnsitz Appenzell Innerrhoden, Neid auf die Sache",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so schnell eine Wohnadresse bekommen wie ein Hertz-Golf in Appenzell Innerrhoden. Ohne Besichtigung, ohne Betreibungsauszug, ohne je dort gewesen zu sein."
+    },
+    {
+      "id": "2026-10-31-0003-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Thurgau ohne eigenes Frauenhaus, ab wie vielen Frauen lohnt es sich, rhetorische Frage mit Adressat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ab wie vielen Frauen lohnt sich für einen Kanton eigentlich ein eigenes Frauenhaus? Frage für den Thurgau, knapp 150'000 wären vorhanden."
+    },
+    {
+      "id": "2026-10-31-0003-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti vor dem brennenden Wald, Anpassung als Klimaantwort, Wald fragt woran",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wälder brennen, Umweltminister Rösti steht davor. Rösti so: Anpassung. Wald so: woran denn."
     }
   ]
 }
