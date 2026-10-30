@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-30",
-  "hinweis": "7 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -72,6 +72,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Hollywood ersetzt Schauspieler*innen durch KI. Hier die Liste der ersetzten Studiochefs:\n-\n-\nThat's it."
+    },
+    {
+      "id": "2026-10-30-2249-37",
+      "typ": "politisch-aktuell",
+      "stichwort": "Thurgau: jeder Golfclub hat ein Clubhaus, geschlagene Frauen fahren in den Nachbarkanton",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Jeder Golfclub im Thurgau hat ein eigenes Clubhaus. Geschlagene Frauen fahren in den Nachbarkanton."
+    },
+    {
+      "id": "2026-10-30-2249-38",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rösti ist Autobahn- und Gletscherminister in einer Person, rhetorische Frage mit Adressat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seit wann rettet eigentlich der Autobahnminister die Gletscher? Frage für Albert Rösti, der in der Schweiz beides ist und nur eines gern."
     }
   ]
 }
