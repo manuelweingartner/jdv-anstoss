@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-30",
-  "hinweis": "7 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Elon Musk will Texas kaufen. Seh ich das richtig, Grenzen sind nur für Menschen dicht, für Geld steht jeder Bundesstaat zum Verkauf?"
+    },
+    {
+      "id": "2026-10-30-0657-11",
+      "typ": "schnittmenge",
+      "stichwort": "Iran sprengt Tanker auf «unerlaubter Route», Europa braucht für unerlaubte Routen nur ein Mittelmeer",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Iran sprengt Tanker auf «unerlaubter Route». Europa braucht dafür keinen Sprengstoff, nur ein Mittelmeer."
+    },
+    {
+      "id": "2026-10-30-0657-12",
+      "typ": "remix",
+      "stichwort": "Zwölf Millionen Vertriebene im Sudan, leere Liste der Politiker*innen, die ihn in einer Asyldebatte je als Fluchtgrund genannt haben (Remix der unterausgespielten Hitzetote-Liste)",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Zwölf Millionen Menschen sind im Sudan auf der Flucht. Hier alle Politiker*innen, die in einer Asyldebatte je den Sudan als Fluchtgrund genannt haben:\n-\n-\nThat's it."
     },
     {
       "id": "2026-10-30-0657-27",
