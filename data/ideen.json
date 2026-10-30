@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-30",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -109,18 +109,18 @@
       }
     },
     {
-      "id": "2026-10-30-0657-24",
+      "id": "2026-10-30-0657-22",
       "typ": "politisch-aktuell",
-      "stichwort": "Binance-Hack 6,3 Milliarden, Krypto sei riskant, bei einer Schweizer Bank braucht es dafür einen Verwaltungsrat",
+      "stichwort": "Katze Cleo bekommt in Füllinsdorf ein Wartehäuschen, wer auf die Invalidenrente wartet, bekommt einen Sozialdetektiv",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Krypto ist mit Risiko verbunden, sagt Binance nach dem Hack von 6,3 Milliarden. Stimmt, bei einer Schweizer Bank braucht es dafür immerhin einen Verwaltungsrat.",
+      "format": 16,
+      "text": "Katze Cleo wartet seit Jahren an einer Bushaltestelle in Füllinsdorf, jemand hat ihr ein Wartehäuschen gebaut. Wer so lange auf die Invalidenrente wartet, bekommt einen Sozialdetektiv.",
       "jury": {
         "anker": true,
         "witz": true,
-        "neu": true
+        "neu": false
       }
     },
     {
@@ -132,21 +132,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Musk will Texas kaufen. Unklar, ob das geht, die Regierung hat er nur gemietet.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-30-0657-36",
-      "typ": "schnittmenge",
-      "stichwort": "Armee darf in jedem Dorf üben, Innerrhoden ideal, Einwohner*innen sind Mietautos in Zürich",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die Armee soll künftig in jedem Dorf üben dürfen. Appenzell Innerrhoden wäre ideal, dort stört es niemanden: die meisten Einwohner*innen sind Mietautos und gerade in Zürich.",
       "jury": {
         "anker": true,
         "witz": true,
