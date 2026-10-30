@@ -84,24 +84,24 @@
       "text": "Zwölf Millionen Menschen sind im Sudan auf der Flucht. Hier alle Politiker*innen, die in einer Asyldebatte je den Sudan als Fluchtgrund genannt haben:\n-\n-\nThat's it."
     },
     {
-      "id": "2026-10-30-0657-27",
+      "id": "2026-10-30-0657-16",
       "typ": "politisch-aktuell",
-      "stichwort": "Wohnungsabnahme: Dübellöcher zahlt die Mieterin, die Wertsteigerung teilt der Vermieter fair auf und behält sie",
+      "stichwort": "Armee soll in jedem Dorf üben dürfen, der Thurgau hat weiterhin kein Frauenhaus, rhetorische Frage an die Uniform-Fraktion",
       "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, die Armee darf bald in jedem Dorf üben, und im Thurgau fehlt ein Frauenhaus? Frage für alle, die Schutz nur in Uniform kennen."
+    },
+    {
+      "id": "2026-10-30-0657-17",
+      "typ": "schnittmenge",
+      "stichwort": "Innerrhoden stimmt an der Landsgemeinde per Handzeichen ab, die meisten Neuzuzüger sind Mietautos",
+      "plattform": "Threads + Bluesky + Instagram",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Beim Auszug zahlt die Mieterin jedes Dübelloch. Die Wertsteigerung der Wohnung aus all den Jahren teilt der Vermieter gerecht auf: er behält sie."
-    },
-    {
-      "id": "2026-10-30-0657-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Steuerrulings: Konzerne sprechen ihre Steuern vorab mit dem Kanton ab, Angestellte nicht einmal die Mahngebühr, Frage an die Finanzdirektionen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wieso dürfen Konzerne ihre Steuern mit dem Kanton absprechen, bevor sie anfallen, und Angestellte nicht einmal die Mahngebühr? Frage für alle Finanzdirektor*innen."
+      "text": "Appenzell Innerrhoden stimmt an der Landsgemeinde per Handzeichen ab. Die meisten Neuzuzüger sind Mietautos."
     }
   ]
 }
