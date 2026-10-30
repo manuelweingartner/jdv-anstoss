@@ -1,142 +1,27 @@
 {
-  "datum": "2026-10-30",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "datum": "2026-10-31",
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-10-30-2249-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizerhalle-Mahnmal kennt niemand, Erinnerungskultur vorhanden, diskret, nummeriert",
-      "plattform": "Threads + Bluesky",
+      "id": "2026-10-31-0003-11",
+      "typ": "schnittmenge",
+      "stichwort": "Streikdrohung heisst Erpressung, Wegzugsdrohung heisst Verhandlung",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 15,
-      "text": "Das Mahnmal zur Chemiekatastrophe Schweizerhalle kennt niemand. Erinnerungskultur auf Schweizer Art: vorhanden, diskret, nummeriert.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
+      "format": 1,
+      "text": "Angestellte, die mit Streik drohen, erpressen. Konzerne, die mit Wegzug drohen, verhandeln."
     },
     {
-      "id": "2026-10-30-2249-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Christa Pike überlebt Giftspritze in Tennessee, Tennessee so: nochmal von vorn, wir sind ja keine Unmenschen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Christa Pike hat in Tennessee die Giftspritze überlebt und erzählt jetzt von Schmerzen und Verwirrung. Tennessee so: ok, nochmal von vorn, wir sind ja keine Unmenschen.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-30-2249-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Papst Leo beantragt Briefwahl für die Midterms, Trump hat recht, Briefwahl ist Betrug, jetzt sogar unfehlbar",
+      "id": "2026-10-31-0003-12",
+      "typ": "remix",
+      "stichwort": "Schweizer Bauteile in russischen Drohnen gegen das Neutralitäts-Nein zu Munition für die Ukraine",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Papst Leo wählt per Brief. Trump hat recht, Briefwahl ist Betrug, jetzt sogar unfehlbar.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-10-30-2249-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ruag-Millionenbetrug, Pfister schockiert über kriminelle Energie, Energie hat beim Bund niemand erwartet",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Bundesrat Pfister ist schockiert über die kriminelle Energie beim bundeseigenen Rüstungskonzern Ruag. Verständlich, Energie hat beim Bund wirklich niemand erwartet.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-10-30-2249-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nationalbank meldet 44 Milliarden Gewinn, vielleicht sollte sie weniger verdienen, sonst heisst es noch, Geld wäre da",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die Nationalbank meldet 44 Milliarden Gewinn nach neun Monaten. Vielleicht sollte sie weniger verdienen, sonst heisst es am Ende noch, Geld wäre da.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-30-2249-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lass dein Geld für dich arbeiten, das Geld heisst Ana und putzt dienstags das Treppenhaus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Lass dein Geld für dich arbeiten, rät die Bank. Das Geld heisst Ana und putzt dienstags das Treppenhaus. Für dich.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-30-2249-18",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wie lange muss ein Wald brennen, bis Rösti etwas anderes sieht als Wetter, Frage an den obersten Umweltschützer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wie lange muss ein Wald brennen, bis Energieminister Rösti etwas anderes sieht als Wetter? Frage für den obersten Umweltschützer des Landes.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-30-2249-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Parmelin trifft Xi Jinping in Peking, Brüssel ist eine Diktatur, Peking ein Absatzmarkt, Frage für die SVP",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Bundespräsident Parmelin trifft heute Xi Jinping in Peking. Seit wann genau ist Brüssel eine Diktatur und Peking ein Absatzmarkt? Frage für die SVP.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-30-2249-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Parmelin erneuert Freihandel mit China und beklagt Handelshemmnisse, bei Zwangsarbeit stört jeder Zoll",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Parmelin erneuert den Freihandel mit China und beklagt Handelshemmnisse. Verständlich, bei Zwangsarbeit stört jeder Zoll.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
+      "format": 10,
+      "text": "Bauteile von elf Schweizer Firmen stecken in russischen Drohnen, sagt die Ukraine. Schweizer Munition für die Ukraine verletzt die Neutralität, sagt Bern."
     }
   ]
 }
