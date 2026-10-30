@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-31",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,16 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Wälder brennen, Umweltminister Rösti steht davor. Rösti so: Anpassung. Wald so: woran denn."
+    },
+    {
+      "id": "2026-10-31-0003-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "SNB 44 Milliarden sind nur Buchgewinn, gespart wird dafür bei Kitas und Prämienverbilligung, wenigstens echtes Geld",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, die 44 Milliarden der Nationalbank sind nur ein Buchgewinn. Gespart wird darum bei Kitas und Prämienverbilligung, das ist wenigstens echtes Geld."
     }
   ]
 }
