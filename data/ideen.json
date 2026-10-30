@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-30",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-30-2249-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizerhalle-Mahnmal kennt niemand, Erinnerungskultur vorhanden, diskret, nummeriert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 15,
+      "text": "Das Mahnmal zur Chemiekatastrophe Schweizerhalle kennt niemand. Erinnerungskultur auf Schweizer Art: vorhanden, diskret, nummeriert."
+    },
+    {
+      "id": "2026-10-30-2249-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Parmelin bei Xi, Expertin warnt vor fehlender Vorbereitung, Bern übersetzt Menschenrechte fliessend mit Marktzugang",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Vor Bundespräsident Parmelins Besuch bei Xi Jinping warnt eine Expertin, die Schweiz sei auf China nicht vorbereitet. Doch, Bern übersetzt «Menschenrechte» seit Jahren fliessend mit «Marktzugang»."
+    },
+    {
+      "id": "2026-10-30-2249-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Christa Pike überlebt Giftspritze in Tennessee, Tennessee so: nochmal von vorn, wir sind ja keine Unmenschen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Christa Pike hat in Tennessee die Giftspritze überlebt und erzählt jetzt von Schmerzen und Verwirrung. Tennessee so: ok, nochmal von vorn, wir sind ja keine Unmenschen."
+    },
     {
       "id": "2026-10-30-2249-24",
       "typ": "politisch-aktuell",
@@ -72,26 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Hollywood ersetzt Schauspieler*innen durch KI. Hier die Liste der ersetzten Studiochefs:\n-\n-\nThat's it."
-    },
-    {
-      "id": "2026-10-30-2249-37",
-      "typ": "politisch-aktuell",
-      "stichwort": "Thurgau: jeder Golfclub hat ein Clubhaus, geschlagene Frauen fahren in den Nachbarkanton",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Jeder Golfclub im Thurgau hat ein eigenes Clubhaus. Geschlagene Frauen fahren in den Nachbarkanton."
-    },
-    {
-      "id": "2026-10-30-2249-38",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rösti ist Autobahn- und Gletscherminister in einer Person, rhetorische Frage mit Adressat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seit wann rettet eigentlich der Autobahnminister die Gletscher? Frage für Albert Rösti, der in der Schweiz beides ist und nur eines gern."
     }
   ]
 }
