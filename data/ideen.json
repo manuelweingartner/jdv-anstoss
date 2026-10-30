@@ -1,8 +1,23 @@
 {
   "datum": "2026-10-31",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-10-31-0003-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Keller-Sutter warnt in der Arena vor Chaos bei Abschaffung der Heiratsstrafe, die seit 1984 verfassungswidrig ist",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Bundesrätin Keller-Sutter warnt in der Arena, die Abschaffung der Heiratsstrafe bringe Chaos. Verfassungswidrig ist sie seit 1984. Ganz geordnet. Mit Bundesgerichtsurteil.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
     {
       "id": "2026-10-31-0003-02",
       "typ": "politisch-aktuell",
@@ -15,6 +30,21 @@
       "jury": {
         "anker": false,
         "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-31-0003-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Warschau will das Verfassungsgericht stürmen, in der Schweiz wählen die Parteien die Richter*innen selbst und stellen Mandatssteuer in Rechnung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Warschau: Demonstrierende wollen das Verfassungsgericht stürmen. Wozu der Aufwand, in der Schweiz wählen die Parteien die Richter*innen selbst und schicken ihnen jährlich eine Rechnung?",
+      "jury": {
+        "anker": true,
+        "witz": false,
         "neu": true
       }
     },
@@ -34,36 +64,6 @@
       }
     },
     {
-      "id": "2026-10-31-0003-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Patrick Stewart tot, Angst vor der Star-Trek-Zukunft ohne Armut und Miete, niemand hat dafür etwas geleistet",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Patrick Stewart ist tot. Habe immer noch Angst vor der Zukunft aus Star Trek: keine Armut, keine Krankenkassenprämie, keine Miete, und niemand hat dafür etwas geleistet.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-31-0003-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Einmal so willkommen sein wie Geld in Zug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so willkommen sein wie Geld in Zug.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-10-31-0003-08",
       "typ": "politisch-aktuell",
       "stichwort": "Bankchef hat am Dreikönigstag den Jahreslohn der Schalterangestellten beisammen, den König im Kuchen gönnt er ihr",
@@ -79,33 +79,18 @@
       }
     },
     {
-      "id": "2026-10-31-0003-16",
+      "id": "2026-10-31-0003-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Wohnungssuche gegen Mietauto-Steuerwohnsitz Appenzell Innerrhoden, Neid auf die Sache",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so schnell eine Wohnadresse bekommen wie ein Hertz-Golf in Appenzell Innerrhoden. Ohne Besichtigung, ohne Betreibungsauszug, ohne je dort gewesen zu sein.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-31-0003-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lohnrunde so: Gürtel enger schnallen, Generalversammlung derselben Firma in der gleichen Woche so: Rekorddividende, Aktienrückkauf, Lachsbrötchen",
+      "stichwort": "SNB 44 Milliarden sind nur Buchgewinn, gespart wird dafür bei Kitas und Prämienverbilligung, wenigstens echtes Geld",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Lohnrunde so: schwieriges Umfeld, mehr liegt nicht drin, alle müssen den Gürtel enger schnallen. Generalversammlung derselben Firma, gleiche Woche, so: Rekorddividende, Aktienrückkauf, Lachsbrötchen.",
+      "text": "Stimmt, die 44 Milliarden der Nationalbank sind nur ein Buchgewinn. Gespart wird darum bei Kitas und Prämienverbilligung, das ist wenigstens echtes Geld.",
       "jury": {
         "anker": true,
         "witz": true,
-        "neu": true
+        "neu": false
       }
     },
     {
@@ -132,21 +117,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 16,
       "text": "Sieben Millionen Kondome werden europaweit zurückgerufen, weil sie reissen könnten. Das einzige Verhütungsmittel in Männerverantwortung, und selbst da holt am Ende die Frau die Pille danach.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-31-0003-36",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wohnungsbewerbung in Zürich gegen Steuerwohnsitz eines Mietautos in Appenzell Innerrhoden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Betreibungsauszug, Lohnausweis, drei Referenzen: so zieht ein Mensch nach Zürich. Vier Räder und ein Mietvertrag bei Hertz: so zieht ein Steuerzahler nach Appenzell Innerrhoden.",
       "jury": {
         "anker": true,
         "witz": true,
