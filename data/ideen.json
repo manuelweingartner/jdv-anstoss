@@ -1,8 +1,48 @@
 {
   "datum": "2026-10-31",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-31-0003-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Einmal so willkommen sein wie Geld in Zug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so willkommen sein wie Geld in Zug."
+    },
+    {
+      "id": "2026-10-31-0003-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bankchef hat am Dreikönigstag den Jahreslohn der Schalterangestellten beisammen, den König im Kuchen gönnt er ihr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Am Dreikönigstag hat der Bankchef den Jahreslohn seiner Schalterangestellten beisammen. Den König im Kuchen gönnt er ihr."
+    },
+    {
+      "id": "2026-10-31-0003-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Verwaltungsräte, denen der Spielraum bei der Lohnrunde für die eigene Vergütung nicht reichte",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier eine Liste aller Verwaltungsräte, die bei der Lohnrunde erklärt haben, der Spielraum reiche leider nicht für ihre eigene Vergütung:\n-\n-\nThat's it."
+    },
+    {
+      "id": "2026-10-31-0003-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Warum heisst es Verteidigungsausgaben, wenn das Geld bei Aktionär*innen landet, die nie jemand angegriffen hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Warum heisst das eigentlich Verteidigungsausgaben, wenn das Geld bei Aktionär*innen landet, die noch nie jemand angegriffen hat? Frage für die Sicherheitspolitiker*innen."
+    },
     {
       "id": "2026-10-31-0003-11",
       "typ": "schnittmenge",
