@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-30",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -94,46 +94,31 @@
       }
     },
     {
-      "id": "2026-10-30-2249-12",
-      "typ": "remix",
-      "stichwort": "Schweizer Bauteile in russischen Drohnen, leere Liste der Schweizer Munition, mit der sich die Ukraine wehren darf",
+      "id": "2026-10-30-2249-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wie lange muss ein Wald brennen, bis Rösti etwas anderes sieht als Wetter, Frage an den obersten Umweltschützer",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Schweizer Bauteile fliegen in russischen Drohnen auf ukrainische Städte. Hier die Liste der Schweizer Munition, mit der sich die Ukraine wehren darf:\n-\n-\nThat's it.",
+      "text": "Wie lange muss ein Wald brennen, bis Energieminister Rösti etwas anderes sieht als Wetter? Frage für den obersten Umweltschützer des Landes.",
       "jury": {
-        "witz": true,
+        "witz": false,
         "anker": true,
         "neu": true
       }
     },
     {
-      "id": "2026-10-30-2249-23",
+      "id": "2026-10-30-2249-21",
       "typ": "politisch-aktuell",
-      "stichwort": "Christa Pike überlebt die Giftspritze in Tennessee, die einzige Behandlung ohne Krankenversicherung in den USA, mit dreissig Jahren Wartezeit",
+      "stichwort": "Parmelin trifft Xi Jinping in Peking, Brüssel ist eine Diktatur, Peking ein Absatzmarkt, Frage für die SVP",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Christa Pike hat in Tennessee ihre Giftspritze überlebt. Die einzige Behandlung, die in den USA ohne Krankenversicherung läuft. Mit dreissig Jahren Wartezeit.",
+      "text": "Bundespräsident Parmelin trifft heute Xi Jinping in Peking. Seit wann genau ist Brüssel eine Diktatur und Peking ein Absatzmarkt? Frage für die SVP.",
       "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-30-2249-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ruag-Millionenbetrug, Pfister schockiert über kriminelle Energie, bei einem Rüstungsbetrieb soll das Geld Menschen treffen, nicht Konten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Bundesrat Pfister ist schockiert, dass beim bundeseigenen Rüstungsbetrieb Ruag Millionen verschwinden. Stimmt, dort soll das Geld ja Menschen treffen, nicht Konten.",
-      "jury": {
-        "witz": true,
+        "witz": false,
         "anker": true,
         "neu": true
       }
