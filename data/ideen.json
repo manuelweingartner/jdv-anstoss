@@ -11,17 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 15,
-      "text": "Das Mahnmal zur Chemiekatastrophe Schweizerhalle kennt niemand. Erinnerungskultur auf Schweizer Art: vorhanden, diskret, nummeriert."
-    },
-    {
-      "id": "2026-10-30-2249-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Parmelin bei Xi, Expertin warnt vor fehlender Vorbereitung, Bern übersetzt Menschenrechte fliessend mit Marktzugang",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Vor Bundespräsident Parmelins Besuch bei Xi Jinping warnt eine Expertin, die Schweiz sei auf China nicht vorbereitet. Doch, Bern übersetzt «Menschenrechte» seit Jahren fliessend mit «Marktzugang»."
+      "text": "Das Mahnmal zur Chemiekatastrophe Schweizerhalle kennt niemand. Erinnerungskultur auf Schweizer Art: vorhanden, diskret, nummeriert.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
     },
     {
       "id": "2026-10-30-2249-03",
@@ -31,7 +26,102 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Christa Pike hat in Tennessee die Giftspritze überlebt und erzählt jetzt von Schmerzen und Verwirrung. Tennessee so: ok, nochmal von vorn, wir sind ja keine Unmenschen."
+      "text": "Christa Pike hat in Tennessee die Giftspritze überlebt und erzählt jetzt von Schmerzen und Verwirrung. Tennessee so: ok, nochmal von vorn, wir sind ja keine Unmenschen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-30-2249-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Papst Leo beantragt Briefwahl für die Midterms, Trump hat recht, Briefwahl ist Betrug, jetzt sogar unfehlbar",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Papst Leo wählt per Brief. Trump hat recht, Briefwahl ist Betrug, jetzt sogar unfehlbar.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
+    },
+    {
+      "id": "2026-10-30-2249-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ruag-Millionenbetrug, Pfister schockiert über kriminelle Energie, Energie hat beim Bund niemand erwartet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Bundesrat Pfister ist schockiert über die kriminelle Energie beim bundeseigenen Rüstungskonzern Ruag. Verständlich, Energie hat beim Bund wirklich niemand erwartet.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
+    },
+    {
+      "id": "2026-10-30-2249-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nationalbank meldet 44 Milliarden Gewinn, vielleicht sollte sie weniger verdienen, sonst heisst es noch, Geld wäre da",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Nationalbank meldet 44 Milliarden Gewinn nach neun Monaten. Vielleicht sollte sie weniger verdienen, sonst heisst es am Ende noch, Geld wäre da.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-30-2249-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lass dein Geld für dich arbeiten, das Geld heisst Ana und putzt dienstags das Treppenhaus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Lass dein Geld für dich arbeiten, rät die Bank. Das Geld heisst Ana und putzt dienstags das Treppenhaus. Für dich.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-30-2249-12",
+      "typ": "remix",
+      "stichwort": "Schweizer Bauteile in russischen Drohnen, leere Liste der Schweizer Munition, mit der sich die Ukraine wehren darf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Schweizer Bauteile fliegen in russischen Drohnen auf ukrainische Städte. Hier die Liste der Schweizer Munition, mit der sich die Ukraine wehren darf:\n-\n-\nThat's it.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-30-2249-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Christa Pike überlebt die Giftspritze in Tennessee, die einzige Behandlung ohne Krankenversicherung in den USA, mit dreissig Jahren Wartezeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Christa Pike hat in Tennessee ihre Giftspritze überlebt. Die einzige Behandlung, die in den USA ohne Krankenversicherung läuft. Mit dreissig Jahren Wartezeit.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-30-2249-24",
@@ -41,17 +131,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Bundesrat Pfister ist schockiert, dass beim bundeseigenen Rüstungsbetrieb Ruag Millionen verschwinden. Stimmt, dort soll das Geld ja Menschen treffen, nicht Konten."
-    },
-    {
-      "id": "2026-10-30-2249-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nationalbank 44 Milliarden Gewinn, Ausschüttung offen, bei der eigenen Steuerrechnung ist nie etwas offen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seh ich das richtig, die Nationalbank macht 44 Milliarden Gewinn und ob sie etwas davon ausschüttet, ist offen? Bei meiner Steuerrechnung ist nie etwas offen."
+      "text": "Bundesrat Pfister ist schockiert, dass beim bundeseigenen Rüstungsbetrieb Ruag Millionen verschwinden. Stimmt, dort soll das Geld ja Menschen treffen, nicht Konten.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-30-2249-26",
@@ -61,47 +146,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Parmelin erneuert den Freihandel mit China und beklagt Handelshemmnisse. Verständlich, bei Zwangsarbeit stört jeder Zoll."
-    },
-    {
-      "id": "2026-10-30-2249-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rhetorische Frage an den UBS-Chef: pro Stunde mehr als die Reinigungskraft im Monat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wie viel kann ein Mensch in einer Stunde eigentlich leisten? Frage für den UBS-Chef, der pro Stunde mehr verdient als seine Reinigungskraft im Monat."
-    },
-    {
-      "id": "2026-10-30-2249-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zahnarzt röntgt zuerst das Portemonnaie, dann den Kiefer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Beim Zahnarzt wird in der Schweiz zuerst das Portemonnaie geröntgt, dann der Kiefer."
-    },
-    {
-      "id": "2026-10-30-2249-31",
-      "typ": "schnittmenge",
-      "stichwort": "Papst Leo wählt per Briefwahl in den USA, in seiner eigenen Kirche hat noch nie eine Frau über ihn abgestimmt",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Papst Leo hat per Briefwahl bei den US-Wahlen abgestimmt. Über ihn abstimmen durfte in seiner eigenen Kirche noch nie eine Frau."
-    },
-    {
-      "id": "2026-10-30-2249-32",
-      "typ": "remix",
-      "stichwort": "Hollywood ersetzt Schauspieler*innen durch KI, leere Liste der ersetzten Studiochefs (Remix der unterausgespielten Hitzetote-Liste)",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hollywood ersetzt Schauspieler*innen durch KI. Hier die Liste der ersetzten Studiochefs:\n-\n-\nThat's it."
+      "text": "Parmelin erneuert den Freihandel mit China und beklagt Handelshemmnisse. Verständlich, bei Zwangsarbeit stört jeder Zoll.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
