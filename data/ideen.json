@@ -1,157 +1,37 @@
 {
-  "datum": "2026-10-29",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-10-30",
+  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-10-29-0657-01",
+      "id": "2026-10-30-0657-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Migros-Präsidentin Nold will bei einem Nein zur Fusion nochmal abstimmen lassen, Korrektur-Pointe Lukaschenko/Migros",
+      "stichwort": "Binance-Hack, Krypto ist mit Risiko verbunden, bei Banken trägt es jemand anders",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 14,
-      "text": "Abstimmen lassen, bis die Fusion ein Ja hat. Nicht Lukaschenko, die Migros.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "format": "frei",
+      "text": "Stimmt, Krypto ist mit Risiko verbunden, sagt Binance nach dem Hack um 6,3 Milliarden Dollar. Das unterscheidet es von Banken, dort trägt es jemand anders."
     },
     {
-      "id": "2026-10-29-0657-05",
+      "id": "2026-10-30-0657-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Flávio Bolsonaro flieht trotz Ausreiseverbot in die USA, die Ausschaffungs-Logik gilt für alle, ausser er heisst Bolsonaro",
+      "stichwort": "Anthropic-Börsengang, Milliardenverluste machen Milliardär*innen, Sozialhilfebeziehende sollten mehr Verlust machen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Klar, wer gegen die Gesetze seines Landes in die USA flieht, gehört zurückgeschickt. Ausser er heisst Flávio Bolsonaro und erklärt sich von dort zum Anführer Brasiliens.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
+      "text": "Anthropic verliert Milliarden, die Gründer*innen werden Milliardär*innen. Vielleicht sollten Sozialhilfebeziehende mehr Verlust machen."
     },
     {
-      "id": "2026-10-29-0657-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Starlink-Saboteure festgenommen, abschalten darf Starlink nur Musk persönlich",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Tusk meldet festgenommene Starlink-Saboteure. Stimmt, abschalten darf Starlink nur Elon Musk persönlich.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-29-0657-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Steueramt Paris erfährt automatisch, was auf Schweizer Konten liegt, das in Bern nie, Frage an die Privatsphäre-Fraktion",
+      "id": "2026-10-30-0657-06",
+      "typ": "schnittmenge",
+      "stichwort": "Musk will Texas kaufen, Grenzen nur für Menschen dicht, für Geld steht jeder Bundesstaat zum Verkauf",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Warum erfährt das Steueramt in Paris automatisch, was auf Schweizer Konten liegt, das in Bern aber nie? Frage für alle, die Privatsphäre sagen und Steuern meinen.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-29-0657-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gleichstellung in der Teppichetage: die Kinder der Chefin holt eine Frau aus Porto ab, ihre eigenen die Grossmutter in Porto",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Gleichstellung ist in der Teppichetage angekommen: Die Kinder der Chefin holt jetzt eine Frau aus Porto ab. Ihre eigenen holt die Grossmutter ab, in Porto.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-29-0657-12",
-      "typ": "remix",
-      "stichwort": "KI befreit uns von der Arbeit, sagen die Konzerne, so wie Hochwasser vom Staubsaugen befreit (Remix des unterausgespielten Hai-Streitbilds)",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "KI befreit uns von der Arbeit, sagen die Konzerne. Hochwasser befreit auch vom Staubsaugen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-29-0657-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "UNO sucht Generalsekretär mit Anforderungsprofil Frieden, Menschenrechte, Pressefreiheit, Trump so: Orban",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "UNO sucht einen Generalsekretär, Anforderungen: Frieden sichern, Menschenrechte schützen, Pressefreiheit verteidigen. Trump so: Orban.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-10-29-0657-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Läderach-CEO fordert Toleranz, verständlich, wer sie zu Hause nie gesehen hat, vermisst sie am meisten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Johannes Läderach, Sohn des Abtreibungsgegners und Schokolade-CEO, findet, das Land müsse wieder Toleranz lernen. Verständlich, wer sie zu Hause nie gesehen hat, vermisst sie am meisten.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-29-0657-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rüstungskonzerne erklären Europa die Bedrohungslage, Diagnose vom Bestatter, Zweitmeinung beim Sargschreiner",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Rüstungskonzerne erklären Europa die Bedrohungslage. Diagnose vom Bestatter, Zweitmeinung beim Sargschreiner.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-10-29-0657-32",
-      "typ": "remix",
-      "stichwort": "Uber Eats verdrängt Schweizer Velokuriere, entschieden in San Francisco von Leuten, die sich das Mittagessen liefern lassen (Remix der unterausgespielten Teilzeit/Apéro-Mechanik)",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Uber Eats fährt in der Schweiz die lokalen Velokuriere aus dem Markt. Entschieden in San Francisco, von Leuten, die sich das Mittagessen vom Kurier bringen lassen. Trinkgeld optional.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
+      "text": "Elon Musk will Texas kaufen. Seh ich das richtig, Grenzen sind nur für Menschen dicht, für Geld steht jeder Bundesstaat zum Verkauf?"
     }
   ]
 }
