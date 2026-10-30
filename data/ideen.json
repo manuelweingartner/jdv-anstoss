@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-30",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-30-0657-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Studie kalt duschen gesünder, gleiche Woche kündigt der Polarwirbel einen frühen Winter an, die Nebenkostenabrechnung wird zur Gesundheitsempfehlung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Kalt duschen ist gesünder, sagt eine neue Studie, und der Polarwirbel kündigt in derselben Woche einen frühen Winter an. Die Nebenkostenabrechnung ist jetzt eine Gesundheitsempfehlung."
+    },
+    {
+      "id": "2026-10-30-0657-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "UBS entlässt Zehntausende bei 2,7 Milliarden Quartalsgewinn, ab wie viel Gewinn kann sich eine Bank Angestellte leisten, Frage für Ermotti",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die UBS entlässt Zehntausende und meldet 2,7 Milliarden Quartalsgewinn. Ab wie viel Gewinn kann sich eine Bank eigentlich Angestellte leisten? Frage für Sergio Ermotti."
+    },
+    {
+      "id": "2026-10-30-0657-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizer Bauteile in russischen Drohnen, die Firmen wussten von nichts, Neutralität heisst, die Teile reisen selbst, mit Garantie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Russische Drohnen fliegen mit Schweizer Teilen. Neutralität heisst, die reisen selbst. Mit Garantie."
+    },
     {
       "id": "2026-10-30-0657-04",
       "typ": "politisch-aktuell",
@@ -72,26 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Wieso dürfen Konzerne ihre Steuern mit dem Kanton absprechen, bevor sie anfallen, und Angestellte nicht einmal die Mahngebühr? Frage für alle Finanzdirektor*innen."
-    },
-    {
-      "id": "2026-10-30-0657-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vorsorgeausweis zeigt den Zinssatz, nicht die Rüstungsaktien der Pensionskasse, die Rente steigt, wenn irgendwo eine Stadt fällt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Auf dem Vorsorgeausweis steht der Zinssatz. Nicht drauf steht, dass die Pensionskasse Rüstungsaktien hält und die Rente steigt, wenn irgendwo eine Stadt fällt."
-    },
-    {
-      "id": "2026-10-30-0657-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vor dem Gesetz sind alle gleich, davor steht ein Anwalt zu vierhundert Franken die Stunde",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Vor dem Gesetz sind alle gleich. Davor steht ein Anwalt, vierhundert Franken die Stunde."
     }
   ]
 }
