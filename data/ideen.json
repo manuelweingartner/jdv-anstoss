@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-31",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-31-2234-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Halloween-Krawallnacht Zürich, Kreis 4 unsicher machen, Immobilienbranche macht das ohne Kostüm",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Zürcher Linksextreme wollen an Halloween den Kreis 4 unsicher machen. Bisher hat das dort nur die Immobilienbranche geschafft, und die muss sich nicht mal verkleiden."
+    },
+    {
+      "id": "2026-10-31-2234-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sawiris baut Luxushotel mit Alpine Butler in Andermatt, Ausländer dürfen kein Haus kaufen, ausser das ganze Dorf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Sawiris baut in Andermatt ein Luxushotel mit Alpine Butler. Heisst das, Ausländer dürfen in der Schweiz kein Haus kaufen, ausser gleich das ganze Dorf?"
+    },
+    {
+      "id": "2026-10-31-2234-06",
+      "typ": "schnittmenge",
+      "stichwort": "Angst vor der Gen Z, stürzt Regierungen, laut LinkedIn aber nie im Büro",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe Angst vor der Gen Z. Stürzt Regierungen, aber laut LinkedIn nie im Büro."
+    },
     {
       "id": "2026-10-31-2234-31",
       "typ": "schnittmenge",
