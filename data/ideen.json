@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 14,
-      "text": "Nicht Einsparungen sind das Ziel des Migros-Umbaus, sagt Präsidentin Nold. Sondern das Ergebnis."
+      "text": "Nicht Einsparungen sind das Ziel des Migros-Umbaus, sagt Präsidentin Nold. Sondern das Ergebnis.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-31-0657-02",
@@ -21,27 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Hier alles, was Bundespräsident Parmelin heute in Peking zu den Uiguren gesagt hat:\n-\n-\nThat's it. Zollfrei."
-    },
-    {
-      "id": "2026-10-31-0657-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gleicher Abstimmungssonntag: Millionen für Waffenexporte, 150'000 gegen Heiratsstrafe, wer Krieg führt bekommt Mengenrabatt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Gleicher Abstimmungssonntag: Millionen für lockerere Waffenexporte, 150'000 Franken gegen die Heiratsstrafe. Wer in diesem Land heiratet, zahlt drauf, wer Krieg führt, bekommt Mengenrabatt."
-    },
-    {
-      "id": "2026-10-31-0657-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "EZB und Fed lassen am selben Tag die Zinsen unverändert, Erleichterung für Mieter*innen, weil die Miete bei steigenden und bei sinkenden Zinsen steigt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "EZB und Fed lassen am selben Tag die Zinsen unverändert, endlich mal Ruhe für Mieter*innen. Steigen die Zinsen, steigt die Miete, sinken sie, steigt sie auch."
+      "text": "Hier alles, was Bundespräsident Parmelin heute in Peking zu den Uiguren gesagt hat:\n-\n-\nThat's it. Zollfrei.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-10-31-0657-05",
@@ -51,7 +41,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Stimmt, Frauen sollten nachts nicht allein nach Hause gehen. Statistisch wartet dort der gefährlichere Mann, sicherheitshalber also draussen bleiben."
+      "text": "Stimmt, Frauen sollten nachts nicht allein nach Hause gehen. Statistisch wartet dort der gefährlichere Mann, sicherheitshalber also draussen bleiben.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-31-0657-06",
@@ -61,37 +56,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Verständlich, dass Reiche vor der Erbschaftssteuer flüchten. Wer zahlt dann die Steuern nicht?"
+      "text": "Verständlich, dass Reiche vor der Erbschaftssteuer flüchten. Wer zahlt dann die Steuern nicht?",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-31-0657-11",
-      "typ": "schnittmenge",
-      "stichwort": "Midterms: Wer zweimal wählt sitzt im Gefängnis, wer die Wahlkreise malt sitzt im Kongress",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer in den USA zweimal wählt, sitzt im Gefängnis. Wer die Wahlkreise malt, sitzt im Kongress."
-    },
-    {
-      "id": "2026-10-31-0657-12",
-      "typ": "remix",
-      "stichwort": "Elf Schweizer Firmen in russischen Drohnen, leere Liste der vom Bund belangten Firmen (Remix der unterausgespielten Hitzetote-Liste)",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Elf Schweizer Firmen finden ihre Bauteile laut Ukraine in russischen Drohnen und Raketen wieder. Hier die Liste der Firmen, die der Bund dafür belangt hat:\n-\n-\nThat's it."
-    },
-    {
-      "id": "2026-10-31-0657-16",
-      "typ": "schnittmenge",
-      "stichwort": "Innerrhoden lässt Mietautos zu, die nie vorbeikommen, Frauen brauchten fürs Stimmrecht das Bundesgericht",
+      "id": "2026-10-31-0657-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Über Geld spricht man nicht: die Putzfrau kennt den Lohn des Chefs nicht, der Chef nicht ihren Preis, das regelt seine Frau",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Zugelassen in Appenzell Innerrhoden: Mietautos, die nie vorbeikommen. Frauen mussten für das Stimmrecht 1990 bis vor Bundesgericht."
+      "format": 17,
+      "text": "Über Geld spricht man nicht. Darum weiss die Putzfrau nicht, was der Chef verdient, und der Chef nicht, was sie kostet, das regelt seine Frau.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-31-0657-17",
@@ -101,7 +86,72 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Polarisierung gilt neu als grösstes Risiko. Im Thurgau ohne Frauenhaus bleibt es der Ehemann."
+      "text": "Polarisierung gilt neu als grösstes Risiko. Im Thurgau ohne Frauenhaus bleibt es der Ehemann.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-31-0657-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gefärbter Thunfisch in Basel und Rösti vor Waldbränden fotografiert, Frage für die Lebensmittelkontrolle",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Wird in Basel Thunfisch gefärbt, damit er frisch wirkt, und Albert Rösti vor Waldbränden fotografiert, damit er wie ein Umweltminister wirkt? Frage für die Lebensmittelkontrolle.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-10-31-0657-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Millionenkampagne für Waffenexporte in Kriegsgebiete, die einzige Rüstungsinvestition, die garantiert trifft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Millionenkampagne, damit Schweizer Waffen wieder in Kriegsgebiete dürfen. Die einzige Rüstungsinvestition, die garantiert trifft.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-31-0657-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fed hält Leitzins, Trump will der Notenbank die Zinsen vorschreiben, sechs Firmenpleiten als Qualifikation",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Verständlich, dass Trump der Notenbank die Zinsen vorschreiben will. Sechs Firmenpleiten, da weiss einer, was Zinsen anrichten.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-31-0657-36",
+      "typ": "politisch-aktuell",
+      "stichwort": "Innerrhoden bürgert Tausende Mietautos ein, die nie vorbeikommen, Frauen durften erst 1990 abstimmen, auf Befehl des Bundesgerichts",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Appenzell Innerrhoden hat Tausende Mietautos eingebürgert, die nie vorbeikommen. Frauen durften dort erst 1990 abstimmen. Auf Befehl des Bundesgerichts.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
