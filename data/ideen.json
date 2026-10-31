@@ -1,127 +1,27 @@
 {
   "datum": "2026-10-31",
-  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-10-31-0003-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Keller-Sutter warnt in der Arena vor Chaos bei Abschaffung der Heiratsstrafe, die seit 1984 verfassungswidrig ist",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Bundesrätin Keller-Sutter warnt in der Arena, die Abschaffung der Heiratsstrafe bringe Chaos. Verfassungswidrig ist sie seit 1984. Ganz geordnet. Mit Bundesgerichtsurteil.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-31-0003-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hirntraining gegen Long Covid, endlich eine Therapie, an die die Krankenkassen glauben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Neue Therapie: Hirntraining gegen Long Covid. Endlich eine, an die auch die Krankenkassen glauben.",
-      "jury": {
-        "anker": false,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-31-0003-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Warschau will das Verfassungsgericht stürmen, in der Schweiz wählen die Parteien die Richter*innen selbst und stellen Mandatssteuer in Rechnung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Warschau: Demonstrierende wollen das Verfassungsgericht stürmen. Wozu der Aufwand, in der Schweiz wählen die Parteien die Richter*innen selbst und schicken ihnen jährlich eine Rechnung?",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-31-0003-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Halloween-Shitstorms wegen Blackfacing, Cancel Culture zugestimmt, Schwarzsein gibt keine Wohnungsbesichtigung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, Cancel Culture: Blackfacing an Halloween gibt einen Shitstorm. Schwarzsein gibt keine Wohnungsbesichtigung.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-10-31-0003-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bankchef hat am Dreikönigstag den Jahreslohn der Schalterangestellten beisammen, den König im Kuchen gönnt er ihr",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Am Dreikönigstag hat der Bankchef den Jahreslohn seiner Schalterangestellten beisammen. Den König im Kuchen gönnt er ihr.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-31-0003-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "SNB 44 Milliarden sind nur Buchgewinn, gespart wird dafür bei Kitas und Prämienverbilligung, wenigstens echtes Geld",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, die 44 Milliarden der Nationalbank sind nur ein Buchgewinn. Gespart wird darum bei Kitas und Prämienverbilligung, das ist wenigstens echtes Geld.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-10-31-0003-31",
+      "id": "2026-10-31-0657-11",
       "typ": "schnittmenge",
-      "stichwort": "Schweizer Bauteile in russischen Drohnen, neutral nur wenn die Ukraine bestellt",
-      "plattform": "Threads + Bluesky, IG-Textgrafik",
-      "schaerfe": "mittel",
+      "stichwort": "Midterms: Wer zweimal wählt sitzt im Gefängnis, wer die Wahlkreise malt sitzt im Kongress",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Schweizer Bauteile stecken in russischen Drohnen. Neutral ist die Schweiz nur, wenn die Ukraine bestellt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Wer in den USA zweimal wählt, sitzt im Gefängnis. Wer die Wahlkreise malt, sitzt im Kongress."
     },
     {
-      "id": "2026-10-31-0003-32",
+      "id": "2026-10-31-0657-12",
       "typ": "remix",
-      "stichwort": "Kondom-Rückruf, einziges Verhütungsmittel in Männerverantwortung, am Ende holt die Frau die Pille danach",
+      "stichwort": "Elf Schweizer Firmen in russischen Drohnen, leere Liste der vom Bund belangten Firmen (Remix der unterausgespielten Hitzetote-Liste)",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Sieben Millionen Kondome werden europaweit zurückgerufen, weil sie reissen könnten. Das einzige Verhütungsmittel in Männerverantwortung, und selbst da holt am Ende die Frau die Pille danach.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "format": "frei",
+      "text": "Elf Schweizer Firmen finden ihre Bauteile laut Ukraine in russischen Drohnen und Raketen wieder. Hier die Liste der Firmen, die der Bund dafür belangt hat:\n-\n-\nThat's it."
     }
   ]
 }
