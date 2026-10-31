@@ -4,14 +4,49 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-10-31-2234-04",
+      "id": "2026-10-31-2234-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Halloween-Krawallnacht Zürich, Kreis 4 unsicher machen, Immobilienbranche macht das ohne Kostüm",
+      "stichwort": "Trump nennt Reporter krank nach Gesundheitsfrage, erste Gesundheitsfrage in den USA ohne Rechnung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Nach seiner Gesundheit gefragt, erklärt Trump den Reuters-Reporter für widerlich und krank. Erste Gesundheitsfrage in den USA, auf die keine Rechnung folgt.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-31-2234-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Andermatt bringt Saisonpersonal im Tessin unter, der Gotthard als Personaleingang",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Andermatts Saisonpersonal wohnt neu im Tessin. Der Gotthard ist jetzt der Personaleingang.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-31-2234-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "320'000 demonstrieren in Frankreich, leere Liste der Antworten der Regierung, dafür 500 Festnahmen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, Zürcher Linksextreme wollen an Halloween den Kreis 4 unsicher machen. Bisher hat das dort nur die Immobilienbranche geschafft, und die muss sich nicht mal verkleiden."
+      "text": "Hier die Antworten der französischen Regierung auf 320'000 Demonstrierende:\n-\n-\nUnd hier die Festnahmen: 500.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-31-2234-05",
@@ -21,47 +56,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Sawiris baut in Andermatt ein Luxushotel mit Alpine Butler. Heisst das, Ausländer dürfen in der Schweiz kein Haus kaufen, ausser gleich das ganze Dorf?"
+      "text": "Sawiris baut in Andermatt ein Luxushotel mit Alpine Butler. Heisst das, Ausländer dürfen in der Schweiz kein Haus kaufen, ausser gleich das ganze Dorf?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-31-2234-06",
-      "typ": "schnittmenge",
-      "stichwort": "Angst vor der Gen Z, stürzt Regierungen, laut LinkedIn aber nie im Büro",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Habe Angst vor der Gen Z. Stürzt Regierungen, aber laut LinkedIn nie im Büro."
-    },
-    {
-      "id": "2026-10-31-2234-07",
+      "id": "2026-10-31-2234-11",
       "typ": "politisch-aktuell",
-      "stichwort": "Frühpensionierung: Pflegerin mit 60 nicht finanzierbar, Bankchef mit 50 Abgangsentschädigung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Hört eine Pflegerin mit 60 auf, ist das nicht finanzierbar. Hört ein Bankchef mit 50 auf, ist das eine Abgangsentschädigung."
-    },
-    {
-      "id": "2026-10-31-2234-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste aller Konzernchefs, die nach einem Stellenabbau auf den Bonus verzichtet haben",
+      "stichwort": "Trinkgeld-Terminal beim Kaffee als einzige Lohnverhandlung, bei der man auf der Arbeitgeberseite sitzt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier eine vollständige Liste aller Konzernchefs, die nach einem Stellenabbau freiwillig auf ihren Bonus verzichtet haben:\n-\n-\nThat's it."
-    },
-    {
-      "id": "2026-10-31-2234-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wohnung wird jedes Jahr teurer, der Vermieter leistet dafür nur älter werden, Frage für die Leistungsgesellschaft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seh ich das richtig, die Wohnung wird jedes Jahr teurer, und das Einzige, was der Vermieter dafür leistet, ist älter werden? Frage für die Leistungsgesellschaft."
+      "format": 16,
+      "text": "Beim Kaffee schlägt das Kartenterminal 10, 15 oder 20 Prozent Trinkgeld vor. Endlich sitzt man bei einer Lohnverhandlung auf der Arbeitgeberseite. Mit Blickkontakt. Ohne Gewerkschaft.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-10-31-2234-21",
@@ -71,7 +86,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Andermatts Hotelpersonal zieht ins Tessin. Im Dorf bleiben die Leute, die nie da sind."
+      "text": "Andermatts Hotelpersonal zieht ins Tessin. Im Dorf bleiben die Leute, die nie da sind.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-31-2234-22",
@@ -81,17 +101,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Wie krank muss ein Präsident sein, damit die Frage nach seiner Gesundheit die Krankheit ist? Frage für Donald Trump, der heute einen Reporter dafür «krank» nannte."
+      "text": "Wie krank muss ein Präsident sein, damit die Frage nach seiner Gesundheit die Krankheit ist? Frage für Donald Trump, der heute einen Reporter dafür «krank» nannte.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-10-31-2234-23",
+      "id": "2026-10-31-2234-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Italien streikt gegen Rüstungsausgaben, gleiche Woche Schweizer Teile von elf Firmen in russischen Drohnen, hier fallen Rüstungsausgaben als Umsatz an",
+      "stichwort": "Zürich fürchtet Linksextreme an Halloween an der Langstrasse, zu Recht, oder wann hat ein Immobilienfonds dort zuletzt eine Scheibe eingeschlagen, der nimmt das ganze Haus",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Italien streikt gegen Rüstungsausgaben. In der Schweiz fallen in derselben Woche ebenfalls Rüstungsausgaben an, bei elf Firmen mit Teilen in russischen Drohnen, als Umsatz."
+      "format": "frei",
+      "text": "Zürich fürchtet an Halloween Linksextreme an der Langstrasse. Zu Recht, oder wann hat ein Immobilienfonds dort zuletzt eine Scheibe eingeschlagen? Der nimmt das ganze Haus. Im Anzug. Mit Frist.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-31-2234-26",
+      "typ": "schnittmenge",
+      "stichwort": "Verständnis für die jahrelange Prüfung der Invalidenversicherung, wer so lange durchhält, ist wenigstens sicher krank",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Verständlich, dass die Invalidenversicherung jahrelang prüft. Wer so lange durchhält, ist wenigstens sicher krank.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-10-31-2234-31",
@@ -101,7 +146,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Wer Essen aus dem Abfall holt, wird angezeigt. Wer es reinwirft, hat ein Qualitätsmanagement."
+      "text": "Wer Essen aus dem Abfall holt, wird angezeigt. Wer es reinwirft, hat ein Qualitätsmanagement.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     }
   ]
 }
