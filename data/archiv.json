@@ -20678,6 +20678,150 @@
         "neu": true
       },
       "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-0657-05",
+      "typ": "schnittmenge",
+      "stichwort": "Frauen sollen nachts nicht allein heimgehen, statistisch wartet der gefährlichere Mann zu Hause, sicherheitshalber draussen bleiben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, Frauen sollten nachts nicht allein nach Hause gehen. Statistisch wartet dort der gefährlichere Mann, sicherheitshalber also draussen bleiben.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-0657-06",
+      "typ": "schnittmenge",
+      "stichwort": "Reiche drohen bei Erbschaftssteuer mit Wegzug, ratlose Frage, wer dann die Steuern nicht zahlt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Verständlich, dass Reiche vor der Erbschaftssteuer flüchten. Wer zahlt dann die Steuern nicht?",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-0657-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Eigenbedarf als Euphemismus: der Vermieter braucht die Wohnung dringend selbst, kurz darauf noch dringender auf Immoscout, möbliert, für Expats",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Eigenbedarf heisst, der Vermieter braucht die Wohnung dringend selbst. Kurz darauf braucht er sie noch dringender, auf Immoscout, möbliert, für Expats.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-0657-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Über Geld spricht man nicht: die Putzfrau kennt den Lohn des Chefs nicht, der Chef nicht ihren Preis, das regelt seine Frau",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Über Geld spricht man nicht. Darum weiss die Putzfrau nicht, was der Chef verdient, und der Chef nicht, was sie kostet, das regelt seine Frau.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-0657-16",
+      "typ": "schnittmenge",
+      "stichwort": "Innerrhoden lässt Mietautos zu, die nie vorbeikommen, Frauen brauchten fürs Stimmrecht das Bundesgericht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Zugelassen in Appenzell Innerrhoden: Mietautos, die nie vorbeikommen. Frauen mussten für das Stimmrecht 1990 bis vor Bundesgericht.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": false
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-0657-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gefärbter Thunfisch in Basel und Rösti vor Waldbränden fotografiert, Frage für die Lebensmittelkontrolle",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Wird in Basel Thunfisch gefärbt, damit er frisch wirkt, und Albert Rösti vor Waldbränden fotografiert, damit er wie ein Umweltminister wirkt? Frage für die Lebensmittelkontrolle.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-0657-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Millionenkampagne für Waffenexporte in Kriegsgebiete, die einzige Rüstungsinvestition, die garantiert trifft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Millionenkampagne, damit Schweizer Waffen wieder in Kriegsgebiete dürfen. Die einzige Rüstungsinvestition, die garantiert trifft.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-0657-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fed hält Leitzins, Trump will der Notenbank die Zinsen vorschreiben, sechs Firmenpleiten als Qualifikation",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Verständlich, dass Trump der Notenbank die Zinsen vorschreiben will. Sechs Firmenpleiten, da weiss einer, was Zinsen anrichten.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-0657-32",
+      "typ": "remix",
+      "stichwort": "Trump verteilt an Halloween gratis Süsses, Schweizer Schokolade zahlt Zoll, Lindt klingelt als Goldhase (Remix der unterausgespielten Gewerkschaften/Bank-Mechanik)",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, verkleidete Kinder bekommen von Trump gratis Süsses, und Schweizer Schokolade zahlt an der Grenze Zoll? Nächstes Jahr klingelt Lindt als Goldhase.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-10-31"
     }
   ]
 }
