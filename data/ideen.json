@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-31",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Elf Schweizer Firmen finden ihre Bauteile laut Ukraine in russischen Drohnen und Raketen wieder. Hier die Liste der Firmen, die der Bund dafür belangt hat:\n-\n-\nThat's it."
+    },
+    {
+      "id": "2026-10-31-0657-16",
+      "typ": "schnittmenge",
+      "stichwort": "Innerrhoden lässt Mietautos zu, die nie vorbeikommen, Frauen brauchten fürs Stimmrecht das Bundesgericht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Zugelassen in Appenzell Innerrhoden: Mietautos, die nie vorbeikommen. Frauen mussten für das Stimmrecht 1990 bis vor Bundesgericht."
+    },
+    {
+      "id": "2026-10-31-0657-17",
+      "typ": "politisch-aktuell",
+      "stichwort": "Polarisierung gilt als grösstes Risiko, im Thurgau ohne Frauenhaus bleibt es der Ehemann",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Polarisierung gilt neu als grösstes Risiko. Im Thurgau ohne Frauenhaus bleibt es der Ehemann."
+    },
+    {
+      "id": "2026-10-31-0657-18",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gefärbter Thunfisch in Basel und Rösti vor Waldbränden fotografiert, Frage für die Lebensmittelkontrolle",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Wird in Basel Thunfisch gefärbt, damit er frisch wirkt, und Albert Rösti vor Waldbränden fotografiert, damit er wie ein Umweltminister wirkt? Frage für die Lebensmittelkontrolle."
     }
   ]
 }
