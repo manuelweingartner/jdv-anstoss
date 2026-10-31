@@ -1,58 +1,55 @@
 {
-  "stand": "2026-10-30T16:01:04+01:00",
-  "lauf": "1600",
+  "stand": "2026-10-31T07:05:28+01:00",
+  "lauf": "0704",
   "fotos": [
     {
-      "id": "1600-1",
-      "titel": "Proteste in Italien – Über 100'000 demonstrieren gegen die Regierung Meloni",
-      "was": "Riesige Menschenmenge mit Gewerkschaftsfahnen auf einer Piazza in Rom",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: die Menge auf der Strasse gegen die Zahl, die Meloni als Rückhalt im Volk ausgibt.",
+      "id": "0704-1",
+      "titel": "Verfassungsgericht: Präsident und Ex-Boxer rempelt sich Weg frei",
+      "was": "Präsident Nawrocki nachts zwischen Polizisten vor dem Warschauer Verfassungsgericht",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Hüter der Verfassung von Amtes wegen gegen den Ex-Boxer, der sich nachts den Weg ins Gericht freirempelt.",
       "grund": "breit",
       "raum": "",
-      "quelle": "SRF",
-      "auch_bei": [
-        "Tagesschau",
-        "taz"
-      ],
-      "artikel": "https://www.srf.ch/news/international/proteste-in-italien-ueber-100-000-demonstrieren-gegen-die-regierung-meloni",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/99e70f.jpg",
-      "zeit": "2026-10-30T15:29+01:00"
+      "quelle": "20 Minuten",
+      "auch_bei": [],
+      "artikel": "https://www.20min.ch/story/polen-streit-um-verfassungsgericht-eskaliert-103659158",
+      "bild": "https://image.20min.ch/2026/10/31/4e81109d-39a9-483c-956d-e2b3d26573b1.png?s=ddbd5cb5e6849e0c6d99207a2275bad5",
+      "zeit": "2026-10-30T21:36+01:00"
     },
     {
-      "id": "1600-2",
-      "titel": "Parmelin in Peking – Schweiz und China erneuern Freihandelsabkommen",
-      "was": "Parmelin und Xi Jinping beim Handschlag vor Schweizer und chinesischen Flaggen",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: die SVP, die niemandem nach Brüssel hinterherspringen will, springt in Peking vor.",
+      "id": "0704-2",
+      "titel": "Keiner will mit Lawrow aufs «Familienfoto»",
+      "was": "Gruppenfoto der G20-Aussenminister in Atlanta mit sichtbarer Lücke neben Lawrow",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Pflichttermin Familienfoto gegen eine Familie, die mit einem Mitglied nicht abgebildet werden will.",
       "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "20 Minuten",
+      "auch_bei": [],
+      "artikel": "https://www.20min.ch/story/g20-aussenministertreffen-keiner-will-mit-lawrow-aufs-familienfoto-103659189",
+      "bild": "https://image.20min.ch/2026/10/31/546c8f1c-f038-47b5-8b2c-3d0058710c12.jpg?s=d7be7904e65fa04a93cee360673e3bce",
+      "zeit": "2026-10-31T03:54+01:00"
+    },
+    {
+      "id": "0704-3",
+      "titel": "Cassis in Nordkorea – «Maximale Diskretion» war gestern: Bundesräte machen Weltpolitik",
+      "was": "Cassis beim Handschlag mit nordkoreanischen Funktionären vor Monumentalkulisse in Pjöngjang",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Berner Kollegialbescheidenheit gegen den Personenkult-Pomp, in dem ein Bundesrat plötzlich Weltpolitik macht.",
+      "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/parmelin-in-peking-schweiz-und-china-erneuern-freihandelsabkommen",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/24b3ef.jpg",
-      "zeit": "2026-10-30T12:01+01:00"
-    },
-    {
-      "id": "1600-3",
-      "titel": "TAS hat entschieden – Russland darf an der Eishockey-WM 2027 wieder mittun",
-      "was": "Russische Eishockeyspieler in roten Trikots beim Jubel oder TAS-Gebäude in Lausanne",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Sport gilt als unpolitisch, sobald ein Gericht in Lausanne das Politische wegdefiniert.",
-      "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "SRF",
-      "auch_bei": [],
-      "artikel": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/tas-hat-entschieden-russland-darf-an-der-eishockey-wm-2027-wieder-mittun",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/90844a.jpg",
-      "zeit": "2026-10-30T11:40+01:00"
+      "artikel": "https://www.srf.ch/news/schweiz/cassis-in-nordkorea-maximale-diskretion-war-gestern-bundesraete-machen-weltpolitik",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/0b6d680.jpg",
+      "zeit": "2026-10-30T17:03+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, laufend",
-      "was": "Parmelin und Xi bei der Unterzeichnung in der Grossen Halle des Volkes, Begleitdelegation mit SVP-Vertretern im Bild"
+      "wann": "heute, Atlanta",
+      "was": "Offizielles Familienfoto des G20-Aussenministertreffens, Aufstellung und Platzierung um Lawrow"
     },
     {
-      "wann": "heute ab 17:00",
-      "was": "Abendkundgebungen in Rom und Mailand gegen die Regierung Meloni, Grossaufnahmen von Menge und Transparenten"
+      "wann": "heute ab Mittag",
+      "was": "Gen-Z-Demonstrationen in über 30 deutschen Städten, Schilder und Kostüme an Halloween"
     }
   ],
   "hinweis": ""
