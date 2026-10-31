@@ -1,55 +1,59 @@
 {
-  "stand": "2026-10-31T07:05:28+01:00",
-  "lauf": "0704",
+  "stand": "2026-10-31T16:01:01+01:00",
+  "lauf": "1600",
   "fotos": [
     {
-      "id": "0704-1",
-      "titel": "Verfassungsgericht: Präsident und Ex-Boxer rempelt sich Weg frei",
-      "was": "Präsident Nawrocki nachts zwischen Polizisten vor dem Warschauer Verfassungsgericht",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Hüter der Verfassung von Amtes wegen gegen den Ex-Boxer, der sich nachts den Weg ins Gericht freirempelt.",
+      "id": "1600-1",
+      "titel": "Deutsche Jugendproteste – Tausende Jugendliche gehen in ganz Deutschland auf die Strasse",
+      "was": "Jugendliche mit Pappschildern in überschaubarem Block, teils im Regen",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: angekündigte 180'000 gegen den Block, der an einem nassen Samstag tatsächlich gekommen ist.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "SRF",
+      "auch_bei": [
+        "NZZ"
+      ],
+      "artikel": "https://www.srf.ch/news/international/deutsche-jugendproteste-tausende-jugendliche-gehen-in-ganz-deutschland-auf-die-strasse",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/89e9ed7.jpg",
+      "zeit": "2026-10-31T15:52+01:00"
+    },
+    {
+      "id": "1600-2",
+      "titel": "Polen: Der Präsident stürmt das Verfassungsgericht",
+      "was": "Präsident Nawrocki nachts im Gerichtsgebäude, Polizei aufmarschiert vor dem Verfassungsgericht",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Rückkehr zur Rechtmässigkeit als Behauptung gegen ein Bild, das wie ein nächtliches Eindringen aussieht.",
       "grund": "breit",
       "raum": "",
-      "quelle": "20 Minuten",
-      "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/polen-streit-um-verfassungsgericht-eskaliert-103659158",
-      "bild": "https://image.20min.ch/2026/10/31/4e81109d-39a9-483c-956d-e2b3d26573b1.png?s=ddbd5cb5e6849e0c6d99207a2275bad5",
-      "zeit": "2026-10-30T21:36+01:00"
+      "quelle": "Spiegel",
+      "auch_bei": [
+        "taz"
+      ],
+      "artikel": "https://www.spiegel.de/ausland/polen-der-praesident-stuermt-das-verfassungsgericht-a-a71ba561-d842-4a66-953e-a017cbbf25ea#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/0dd13eda-010b-423f-a05b-f410b9871822_w520_r2.08_fpx43.1_fpy54.82.jpg",
+      "zeit": "2026-10-31T15:13+01:00"
     },
     {
-      "id": "0704-2",
-      "titel": "Keiner will mit Lawrow aufs «Familienfoto»",
-      "was": "Gruppenfoto der G20-Aussenminister in Atlanta mit sichtbarer Lücke neben Lawrow",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Pflichttermin Familienfoto gegen eine Familie, die mit einem Mitglied nicht abgebildet werden will.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "20 Minuten",
-      "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/g20-aussenministertreffen-keiner-will-mit-lawrow-aufs-familienfoto-103659189",
-      "bild": "https://image.20min.ch/2026/10/31/546c8f1c-f038-47b5-8b2c-3d0058710c12.jpg?s=d7be7904e65fa04a93cee360673e3bce",
-      "zeit": "2026-10-31T03:54+01:00"
-    },
-    {
-      "id": "0704-3",
-      "titel": "Cassis in Nordkorea – «Maximale Diskretion» war gestern: Bundesräte machen Weltpolitik",
-      "was": "Cassis beim Handschlag mit nordkoreanischen Funktionären vor Monumentalkulisse in Pjöngjang",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Berner Kollegialbescheidenheit gegen den Personenkult-Pomp, in dem ein Bundesrat plötzlich Weltpolitik macht.",
+      "id": "1600-3",
+      "titel": "Die etwas anderen News – Parmelin-Nachfolge: Die SVP sucht den Superstar",
+      "was": "SVP-Bundesratskandidaten Gallati und Amaudruz posierend, Köppel mit erhobenem Finger",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: die Partei, die den Bundesrat als abgehobene Elite verspottet, inszeniert die Bewerbung um den eigenen Sitz als Castingshow.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/cassis-in-nordkorea-maximale-diskretion-war-gestern-bundesraete-machen-weltpolitik",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/0b6d680.jpg",
-      "zeit": "2026-10-30T17:03+01:00"
+      "artikel": "https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-parmelin-nachfolge-die-svp-sucht-den-superstar",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/bdabf0.jpg",
+      "zeit": "2026-10-31T14:11+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, Atlanta",
-      "was": "Offizielles Familienfoto des G20-Aussenministertreffens, Aufstellung und Platzierung um Lawrow"
+      "wann": "heute ab 16:00",
+      "was": "Gen-Z-Demos in Schweizer Städten, Schlussbilder mit Schildern und Kundgebungsrednern"
     },
     {
-      "wann": "heute ab Mittag",
-      "was": "Gen-Z-Demonstrationen in über 30 deutschen Städten, Schilder und Kostüme an Halloween"
+      "wann": "heute Nachmittag",
+      "was": "Parteitag der Berliner Linken, Elif Eralp vor applaudierenden Delegierten"
     }
   ],
   "hinweis": ""
