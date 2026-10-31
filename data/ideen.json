@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-31",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -34,21 +34,6 @@
       }
     },
     {
-      "id": "2026-10-31-2234-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "320'000 demonstrieren in Frankreich, leere Liste der Antworten der Regierung, dafür 500 Festnahmen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Hier die Antworten der französischen Regierung auf 320'000 Demonstrierende:\n-\n-\nUnd hier die Festnahmen: 500.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-10-31-2234-05",
       "typ": "politisch-aktuell",
       "stichwort": "Sawiris baut Luxushotel mit Alpine Butler in Andermatt, Ausländer dürfen kein Haus kaufen, ausser das ganze Dorf",
@@ -61,6 +46,21 @@
         "witz": true,
         "anker": true,
         "neu": true
+      }
+    },
+    {
+      "id": "2026-10-31-2234-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohnung wird jedes Jahr teurer, der Vermieter leistet dafür nur älter werden, Frage für die Leistungsgesellschaft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, die Wohnung wird jedes Jahr teurer, und das Einzige, was der Vermieter dafür leistet, ist älter werden? Frage für die Leistungsgesellschaft.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": false
       }
     },
     {
@@ -79,29 +79,14 @@
       }
     },
     {
-      "id": "2026-10-31-2234-21",
+      "id": "2026-10-31-2234-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Andermatt schickt Hotelpersonal zum Wohnen ins Tessin, im Dorf bleiben die Zweitwohnungsbesitzer, die nie da sind",
+      "stichwort": "Italien streikt gegen Rüstungsausgaben, gleiche Woche Schweizer Teile von elf Firmen in russischen Drohnen, hier fallen Rüstungsausgaben als Umsatz an",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Andermatts Hotelpersonal zieht ins Tessin. Im Dorf bleiben die Leute, die nie da sind.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-10-31-2234-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump nennt Reporter «krank» wegen Gesundheitsfrage, rhetorische Frage mit Adressat: wann ist die Frage die Krankheit",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Wie krank muss ein Präsident sein, damit die Frage nach seiner Gesundheit die Krankheit ist? Frage für Donald Trump, der heute einen Reporter dafür «krank» nannte.",
+      "format": 18,
+      "text": "Italien streikt gegen Rüstungsausgaben. In der Schweiz fallen in derselben Woche ebenfalls Rüstungsausgaben an, bei elf Firmen mit Teilen in russischen Drohnen, als Umsatz.",
       "jury": {
         "witz": false,
         "anker": true,
@@ -109,16 +94,16 @@
       }
     },
     {
-      "id": "2026-10-31-2234-24",
+      "id": "2026-10-31-2234-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Zürich fürchtet Linksextreme an Halloween an der Langstrasse, zu Recht, oder wann hat ein Immobilienfonds dort zuletzt eine Scheibe eingeschlagen, der nimmt das ganze Haus",
+      "stichwort": "Andermatt-Luxushotel mit Alpine Butler für jeden Gast, ratlos, wieso es Personal gibt für Leute, die nicht aufstehen mögen, und keins für Leute, die nicht aufstehen können",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Zürich fürchtet an Halloween Linksextreme an der Langstrasse. Zu Recht, oder wann hat ein Immobilienfonds dort zuletzt eine Scheibe eingeschlagen? Der nimmt das ganze Haus. Im Anzug. Mit Frist.",
+      "text": "Andermatt bekommt ein Luxushotel mit einem «Alpine Butler» für jeden Gast. Verstehe nicht ganz, wieso es für Leute, die nicht aufstehen mögen, Personal gibt, und für Leute, die nicht aufstehen können, keins.",
       "jury": {
-        "witz": true,
+        "witz": false,
         "anker": true,
         "neu": true
       }
@@ -139,18 +124,33 @@
       }
     },
     {
-      "id": "2026-10-31-2234-31",
-      "typ": "schnittmenge",
-      "stichwort": "Containern: Essen aus dem Abfall holen ist Diebstahl, es reinwerfen ist Qualitätsmanagement",
-      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
+      "id": "2026-10-31-2234-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Berufe, die vom Balkon beklatscht wurden und seither besser bezahlt sind",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer Essen aus dem Abfall holt, wird angezeigt. Wer es reinwirft, hat ein Qualitätsmanagement.",
+      "format": "frei",
+      "text": "Hier die vollständige Liste der Berufe, die in der Pandemie vom Balkon beklatscht wurden und seither besser bezahlt sind:\n-\n-\nThat's it.",
       "jury": {
-        "witz": true,
+        "witz": false,
         "anker": true,
-        "neu": false
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-10-31-2234-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Voller Zug: hinten stehen alle im Gang, vorne sitzt einer allein im Wagen, Platz wäre genug, verteilt wie Geld",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Hinten im Zug stehen die Leute im Gang, vorne sitzt einer allein in einem ganzen Wagen. Platz hätte es genug. Verteilt wie Geld.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
       }
     }
   ]
