@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-31",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -64,6 +64,36 @@
       "text": "Seh ich das richtig, die Wohnung wird jedes Jahr teurer, und das Einzige, was der Vermieter dafür leistet, ist älter werden? Frage für die Leistungsgesellschaft."
     },
     {
+      "id": "2026-10-31-2234-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Andermatt schickt Hotelpersonal zum Wohnen ins Tessin, im Dorf bleiben die Zweitwohnungsbesitzer, die nie da sind",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Andermatts Hotelpersonal zieht ins Tessin. Im Dorf bleiben die Leute, die nie da sind."
+    },
+    {
+      "id": "2026-10-31-2234-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump nennt Reporter «krank» wegen Gesundheitsfrage, rhetorische Frage mit Adressat: wann ist die Frage die Krankheit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Wie krank muss ein Präsident sein, damit die Frage nach seiner Gesundheit die Krankheit ist? Frage für Donald Trump, der heute einen Reporter dafür «krank» nannte."
+    },
+    {
+      "id": "2026-10-31-2234-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Italien streikt gegen Rüstungsausgaben, gleiche Woche Schweizer Teile von elf Firmen in russischen Drohnen, hier fallen Rüstungsausgaben als Umsatz an",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Italien streikt gegen Rüstungsausgaben. In der Schweiz fallen in derselben Woche ebenfalls Rüstungsausgaben an, bei elf Firmen mit Teilen in russischen Drohnen, als Umsatz."
+    },
+    {
       "id": "2026-10-31-2234-31",
       "typ": "schnittmenge",
       "stichwort": "Containern: Essen aus dem Abfall holen ist Diebstahl, es reinwerfen ist Qualitätsmanagement",
@@ -72,16 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": 1,
       "text": "Wer Essen aus dem Abfall holt, wird angezeigt. Wer es reinwirft, hat ein Qualitätsmanagement."
-    },
-    {
-      "id": "2026-10-31-2234-32",
-      "typ": "politisch-aktuell",
-      "stichwort": "Voller Zug: hinten stehen alle im Gang, vorne sitzt einer allein im Wagen, Platz wäre genug, verteilt wie Geld",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Hinten im Zug stehen die Leute im Gang, vorne sitzt einer allein in einem ganzen Wagen. Platz hätte es genug. Verteilt wie Geld."
     }
   ]
 }
