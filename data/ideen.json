@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-31",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Gleicher Abstimmungssonntag: Millionen für lockerere Waffenexporte, 150'000 Franken gegen die Heiratsstrafe. Wer in diesem Land heiratet, zahlt drauf, wer Krieg führt, bekommt Mengenrabatt."
+    },
+    {
+      "id": "2026-10-31-0657-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "EZB und Fed lassen am selben Tag die Zinsen unverändert, Erleichterung für Mieter*innen, weil die Miete bei steigenden und bei sinkenden Zinsen steigt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "EZB und Fed lassen am selben Tag die Zinsen unverändert, endlich mal Ruhe für Mieter*innen. Steigen die Zinsen, steigt die Miete, sinken sie, steigt sie auch."
+    },
+    {
+      "id": "2026-10-31-0657-05",
+      "typ": "schnittmenge",
+      "stichwort": "Frauen sollen nachts nicht allein heimgehen, statistisch wartet der gefährlichere Mann zu Hause, sicherheitshalber draussen bleiben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, Frauen sollten nachts nicht allein nach Hause gehen. Statistisch wartet dort der gefährlichere Mann, sicherheitshalber also draussen bleiben."
+    },
+    {
+      "id": "2026-10-31-0657-06",
+      "typ": "schnittmenge",
+      "stichwort": "Reiche drohen bei Erbschaftssteuer mit Wegzug, ratlose Frage, wer dann die Steuern nicht zahlt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Verständlich, dass Reiche vor der Erbschaftssteuer flüchten. Wer zahlt dann die Steuern nicht?"
     },
     {
       "id": "2026-10-31-0657-11",
@@ -72,16 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Polarisierung gilt neu als grösstes Risiko. Im Thurgau ohne Frauenhaus bleibt es der Ehemann."
-    },
-    {
-      "id": "2026-10-31-0657-18",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gefärbter Thunfisch in Basel und Rösti vor Waldbränden fotografiert, Frage für die Lebensmittelkontrolle",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Wird in Basel Thunfisch gefärbt, damit er frisch wirkt, und Albert Rösti vor Waldbränden fotografiert, damit er wie ein Umweltminister wirkt? Frage für die Lebensmittelkontrolle."
     }
   ]
 }
