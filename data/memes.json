@@ -1,46 +1,46 @@
 {
-  "stand": "2026-10-30T07:06:09+01:00",
+  "stand": "2026-10-31T07:06:31+01:00",
   "vorschlaege": [
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Schweizer Chips in Putins Drohnen",
-        "Neutrale Dual-Use-Lieferkette"
+        "Nein ignorieren",
+        "Abstimmung wiederholen"
       ],
-      "warum": "weil elf Firmen und das Seco dieselbe Tatsache in zwei Sprachen beschreiben und die vornehme davon amtlich ist",
+      "warum": "Nold verpackt das Übergehen eines Mitglieder-Neins als Verfahrensfrage, der Euphemismus ist die ganze Pointe",
       "bild": "vorschlag-1.jpg"
     },
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "abzweigung",
+      "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Binance ist eine Bank ohne Einlagenschutz"
+        "Nachts ins Verfassungsgericht",
+        "Gewaltenteilung",
+        "Präsident Nawrocki"
       ],
-      "warum": "weil die grösste Börse nach dem Hack den Handel stoppt und damit genau das beweist, was Krypto nie sein wollte",
+      "warum": "der Präsident reisst in letzter Sekunde das Steuer herum, der vernünftige Weg bleibt links liegen",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Trump, Wahlkampf 2024",
-        "Ab Tag eins alles billiger",
-        "Trump, Midterms 2026",
-        "Leitzins 4 Prozent, Vegas zahlt"
+        "Schweiz 1990",
+        "Gute Dienste, Genfer Konventionen",
+        "Schweiz 2026",
+        "Elf Firmen in russischen Drohnen"
       ],
-      "warum": "weil das Versprechen vom erschwinglichen Leben als Muskelprotz startete und in Nevada als Cheems ankommt",
+      "warum": "die stolze Neutralität von früher gegen das klägliche Heute mit Bauteilen in Raketen",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "abzweigung",
-      "name": "Left Exit 12 Off Ramp",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "Gegner-URL kapern",
-        "Argumente vortragen",
-        "Abstimmungskampf Feuerwerksinitiative"
+        "Kostensenkung ist der Plural von Entlassung"
       ],
-      "warum": "weil der Weg über Inhalte offen gewesen wäre und in letzter Sekunde die Domain-Trickserei genommen wurde",
+      "warum": "die UBS nennt Zehntausende Kündigungen Kostensenkung, die These stimmt und niemand widerspricht",
       "bild": "vorschlag-4.jpg"
     }
   ]
