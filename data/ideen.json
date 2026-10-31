@@ -1,8 +1,38 @@
 {
   "datum": "2026-10-31",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-10-31-0657-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Migros-Umbau, Nold: Einsparungen nicht das Ziel, sondern das Ergebnis",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 14,
+      "text": "Nicht Einsparungen sind das Ziel des Migros-Umbaus, sagt Präsidentin Nold. Sondern das Ergebnis."
+    },
+    {
+      "id": "2026-10-31-0657-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Parmelin bei Xi Jinping, leere Liste zu den Uiguren, zollfrei",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Hier alles, was Bundespräsident Parmelin heute in Peking zu den Uiguren gesagt hat:\n-\n-\nThat's it. Zollfrei."
+    },
+    {
+      "id": "2026-10-31-0657-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gleicher Abstimmungssonntag: Millionen für Waffenexporte, 150'000 gegen Heiratsstrafe, wer Krieg führt bekommt Mengenrabatt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gleicher Abstimmungssonntag: Millionen für lockerere Waffenexporte, 150'000 Franken gegen die Heiratsstrafe. Wer in diesem Land heiratet, zahlt drauf, wer Krieg führt, bekommt Mengenrabatt."
+    },
     {
       "id": "2026-10-31-0657-11",
       "typ": "schnittmenge",
