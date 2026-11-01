@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-01",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Eine Schweizerin verklagt Trump wegen Vergewaltigung. Frage an die USA: wie viele Frauen braucht es eigentlich, bis einer aufhört, Präsident zu sein?"
+    },
+    {
+      "id": "2026-11-01-0657-31",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lohn am 25., Miete am 1., die sechs Tage dazwischen heissen im E-Banking Gesamtvermögen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Der Lohn kommt am 25., die Miete geht am 1. Die sechs Tage dazwischen heissen im E-Banking Gesamtvermögen."
+    },
+    {
+      "id": "2026-11-01-0657-32",
+      "typ": "schnittmenge",
+      "stichwort": "Burnout: der CEO macht ein Sabbatical, die Kassiererin bei Lidl die Spätschicht",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Nach dem Burnout macht der CEO ein Sabbatical. Die Kassiererin bei Lidl die Spätschicht."
     }
   ]
 }
