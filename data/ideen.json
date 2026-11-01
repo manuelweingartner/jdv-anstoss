@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Brennende Barrikaden am Samstagabend in Zürich und Basel, Polizeieinsatz, Sachschaden. Schweiz so: unbewilligt."
+      "text": "Brennende Barrikaden am Samstagabend in Zürich und Basel, Polizeieinsatz, Sachschaden. Schweiz so: unbewilligt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-01-0657-02",
@@ -21,27 +26,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Seit die Taliban Opium verboten haben, boomt der Anbau wieder. Verbote funktionieren in Afghanistan nur, wenn sie Frauen treffen."
+      "text": "Seit die Taliban Opium verboten haben, boomt der Anbau wieder. Verbote funktionieren in Afghanistan nur, wenn sie Frauen treffen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-01-0657-03",
+      "id": "2026-11-01-0657-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Schweizerin Beatrice Keul verklagt Trump wegen Vergewaltigung, rhetorische Frage an die USA, wie viele Frauen es braucht",
+      "stichwort": "Amaudruz nur wegen der Partei vom Bundesrat fernhalten ist unfair, die Partei hält Menschen wegen des Passes fern",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Eine Schweizerin verklagt Trump wegen Vergewaltigung. Frage an die USA: wie viele Frauen braucht es eigentlich, bis einer aufhört, Präsident zu sein?"
+      "text": "Unfair, SVP-Kandidatin Céline Amaudruz nur wegen ihrer Partei vom Bundesrat fernzuhalten. Ihre Partei hält Menschen wegen ihres Passes fern, das ist etwas völlig anderes.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-01-0657-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hypothek nicht tragbar, dieselben 1'800 Franken seit zehn Jahren pünktlich als Miete bezahlt",
+      "id": "2026-11-01-0657-06",
+      "typ": "schnittmenge",
+      "stichwort": "Pocher nennt die Schweiz das geilste Land Europas, seine Krankenkasse ist deutsch",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Hypothek abgelehnt, sagt die Bank, 1'800 Franken im Monat seien nicht tragbar. Bezahlt werden sie trotzdem. Seit zehn Jahren. Pünktlich. Als Miete."
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Oliver Pocher, die Schweiz ist das geilste Land Europas. Deine Krankenkasse ist deutsch.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-01-0657-08",
@@ -51,27 +71,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wieso darf man Steuerhinterziehung in der Schweiz einmal im Leben straflos selbst anzeigen, Schwarzfahren aber nicht? Frage für alle, die ihr Abo im anderen Mantel hatten."
+      "text": "Wieso darf man Steuerhinterziehung in der Schweiz einmal im Leben straflos selbst anzeigen, Schwarzfahren aber nicht? Frage für alle, die ihr Abo im anderen Mantel hatten.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-11-01-0657-09",
+      "id": "2026-11-01-0657-12",
       "typ": "politisch-aktuell",
-      "stichwort": "Viertagewoche: leere Liste der Studien, nach denen der Wohlstand am freien Samstag zusammengebrochen ist",
+      "stichwort": "Smiley-Knopf an der Flughafentoilette, alles wird bewertet, nur der Verwaltungsrat bewertet sich selbst in Franken",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Zur Debatte um die Viertagewoche hier eine Liste aller Studien, die belegen, dass der Wohlstand nach Einführung des freien Samstags zusammengebrochen ist:\n-\n-\nThat's it."
+      "format": 16,
+      "text": "Bewertet wird heute alles, der Kurier, der Kaffee, die Flughafentoilette per Smiley-Knopf. Nur der Verwaltungsrat hat keinen, der bewertet sich selbst, einmal im Jahr, in Franken.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-01-0657-10",
+      "id": "2026-11-01-0657-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Besetzte Häuser werden geräumt, weil Eigentum heilig ist, leere nicht, aus demselben Grund",
-      "plattform": "Threads + Bluesky + Instagram",
+      "stichwort": "Beatrice Keul verklagt Trump wegen Vergewaltigung, wo bleibt die Delegation mit Rolex und Goldbarren, wenn eine Schweizerin mal keinen Zollrabatt will",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Besetzte Häuser werden geräumt, weil Eigentum heilig ist. Leere nicht, aus demselben Grund."
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Beatrice Keul aus der Schweiz verklagt Trump wegen Vergewaltigung. Wo bleibt jetzt die Delegation mit Rolex und Goldbarren, wenn eine Schweizerin mal etwas will, das kein Zollrabatt ist?",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-01-0657-24",
@@ -81,27 +116,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, nach drei Krankheitstagen darf ein Basler Chef die Krankengeschichte verlangen. Den Hausschlüssel kriegt er auch, dann kann er nachts prüfen, ob wirklich gehustet wird."
+      "text": "Stimmt, nach drei Krankheitstagen darf ein Basler Chef die Krankengeschichte verlangen. Den Hausschlüssel kriegt er auch, dann kann er nachts prüfen, ob wirklich gehustet wird.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-01-0657-25",
-      "typ": "schnittmenge",
-      "stichwort": "Oliver Pocher nennt die Schweiz das geilste Land Europas, ratlos ob Kompliment oder Steuererklärung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Oliver Pocher nennt die Schweiz das geilste Land Europas. Kompliment oder Steuererklärung?"
-    },
-    {
-      "id": "2026-11-01-0657-26",
+      "id": "2026-11-01-0657-30",
       "typ": "politisch-aktuell",
-      "stichwort": "Massenschlägerei im armenischen Parlament, froh sein, bei uns prügelt das Parlament nur schriftlich auf chronisch Kranke ein",
+      "stichwort": "Rüstungsaktien in Nachhaltigkeitsfonds, nichts wirkt so nachhaltig wie eine Landmine",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Im armenischen Parlament prügeln sich die Abgeordneten. Vielleicht sollten wir froh sein: bei uns prügelt das Parlament nur auf chronisch Kranke ein, schriftlich und mit Übergangsfrist."
+      "text": "Banken nehmen Rüstungsaktien in ihre Nachhaltigkeitsfonds auf. Leuchtet ein, nichts wirkt so nachhaltig wie eine Landmine. Jahrzehnte. Wartungsfrei.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-01-0657-31",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lohn am 25., Miete am 1., die sechs Tage dazwischen heissen im E-Banking Gesamtvermögen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Der Lohn kommt am 25., die Miete geht am 1. Die sechs Tage dazwischen heissen im E-Banking Gesamtvermögen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     }
   ]
 }
