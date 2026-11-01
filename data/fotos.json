@@ -1,56 +1,57 @@
 {
-  "stand": "2026-11-01T07:05:45+01:00",
-  "lauf": "0705",
+  "stand": "2026-11-01T16:01:02+01:00",
+  "lauf": "1600",
   "fotos": [
     {
-      "id": "0705-1",
-      "titel": "Brasilien: Donald Trump gewährt Flávio Bolsonaro unbegrenztes Bleiberecht",
-      "was": "Donald Trump neben Flávio Bolsonaro, Handschlag oder Umarmung im Weissen Haus",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: unbegrenztes Bleiberecht für den verbündeten Wahlverlierer gegen Abschiebung für alle, die ohne Freund im Oval Office kommen.",
+      "id": "1600-1",
+      "titel": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
+      "was": "Junge Demonstrierende mit Transparenten auf halbvollem Platz, Polizei am Rand",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Die angemeldete Masse gegen die Zahl, die dann wirklich im Nieselregen steht, während die Politik beides als Beweis für ihre Jugendpolitik ",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "Tagesschau",
+      "auch_bei": [
+        "taz"
+      ],
+      "artikel": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
+      "bild": "https://images.tagesschau.de/image/48909d4b-1bef-4d3d-9cb2-f18b4eea4d8e/AAABoZZ3yQk/AAABnSSvrFg/16x9-big/genz-266.jpg?width=1280",
+      "zeit": "2026-11-01T15:46+01:00"
+    },
+    {
+      "id": "1600-2",
+      "titel": "Audi: Gernot Döllners Auftritt mit Donald Trump schreckt womöglich US-Käufer ab",
+      "was": "Audi-Chef Döllner neben Trump auf einer Wahlkampfbühne, Fahnen und Handschlag",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Was der Konzern Standortpflege nennt, ist aus der Nähe betrachtet Wahlkampfhilfe für den Mann, der die Zölle erfunden hat.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
-      "auch_bei": [
-        "20 Minuten"
-      ],
-      "artikel": "https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht-a-a214a183-4ca3-4ede-b2d1-02f92fb03bbe#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/35db0e9b-36d3-44a6-91c2-496c5b9eabb1_w520_r2.08_fpx37.96_fpy46.94.jpg",
-      "zeit": "2026-11-01T02:26+01:00"
+      "auch_bei": [],
+      "artikel": "https://www.spiegel.de/wirtschaft/unternehmen/audi-gernot-doellners-auftritt-mit-donald-trump-schreckt-womoeglich-amerikanische-kaeufer-ab-a-a7d5a0cc-e192-4bca-b657-909509183087#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/83262f1a-dc37-49a3-88bf-f7be9bc668b4_w520_r2.08_fpx46_fpy43.jpg",
+      "zeit": "2026-11-01T12:19+01:00"
     },
     {
-      "id": "0705-2",
-      "titel": "Polens Rechte verteidigt ihre Bastion: Machtkampf um Polens Verfassungsgericht entbrannt",
-      "was": "Präsident Nawrocki drängt mit Begleitung durch eine Tür ins Verfassungsgericht",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: der Hüter der Verfassung verschafft sich Zugang zur Justiz, indem er die Tür eindrückt.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "taz",
-      "auch_bei": [
-        "SRF",
-        "Tagesschau"
-      ],
-      "artikel": "https://taz.de/Polens-Rechte-verteidigt-ihre-Bastion/!6226349/",
-      "bild": "https://taz.de/picture/8836261/948/629284078.jpeg",
-      "zeit": "2026-10-31T20:01+01:00"
-    },
-    {
-      "id": "0705-3",
-      "titel": "G20-Aussenministertreffen – Es reichte nicht mal für das traditionelle «Familienfoto»",
-      "was": "Leere Bühne mit G20-Flaggen in Atlanta, Aussenminister verlassen den Saal ohne Gruppenbild",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: zwanzig Regierungen wollen die Weltordnung regeln und schaffen es nicht einmal, für ein Foto in einer Reihe zu stehen.",
+      "id": "1600-3",
+      "titel": "Hausziege und Steinbock – Hybride Steinböcke sorgen im Tessin für Probleme",
+      "was": "Hybrider Steinbock mit Ziegenmerkmalen auf Tessiner Alpweide, daneben Geissen",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Ein Kanton verordnet Stallpflicht für die Reinheit der Art, während sich das Tier selbst für nichts als einen Steinbock mit Charakter hält.",
       "grund": "memetauglich",
-      "raum": "weltweit",
+      "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/g20-aussenministertreffen-es-reichte-nicht-mal-fuer-das-traditionelle-familienfoto",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/df4815.jpg",
-      "zeit": "2026-10-31T18:15+01:00"
+      "artikel": "https://www.srf.ch/news/schweiz/hausziege-und-steinbock-hybride-steinboecke-sorgen-im-tessin-fuer-probleme",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/6d951d.jpg",
+      "zeit": "2026-11-01T10:30+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 15:00",
-      "was": "Final der Swiss Indoors in Basel, Pokalübergabe mit Sponsorenwand und Ehrengästen"
+      "wann": "heute ab 15:30",
+      "was": "Siegerfoto Swiss Indoors Basel: Lehecka oder Vacherot mit Pokal, Jubel oder Verzweiflung des Verlierers"
+    },
+    {
+      "wann": "heute ab 21:00",
+      "was": "Formel 1 Mexiko: Antonelli womöglich jüngster Weltmeister, Champagnerdusche auf dem Podium, Hamilton daneben"
     }
   ],
   "hinweis": ""
