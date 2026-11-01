@@ -20822,6 +20822,166 @@
         "neu": true
       },
       "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-2234-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump nennt Reporter krank nach Gesundheitsfrage, erste Gesundheitsfrage in den USA ohne Rechnung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Nach seiner Gesundheit gefragt, erklärt Trump den Reuters-Reporter für widerlich und krank. Erste Gesundheitsfrage in den USA, auf die keine Rechnung folgt.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-2234-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Andermatt bringt Saisonpersonal im Tessin unter, der Gotthard als Personaleingang",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Andermatts Saisonpersonal wohnt neu im Tessin. Der Gotthard ist jetzt der Personaleingang.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-2234-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sawiris baut Luxushotel mit Alpine Butler in Andermatt, Ausländer dürfen kein Haus kaufen, ausser das ganze Dorf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Sawiris baut in Andermatt ein Luxushotel mit Alpine Butler. Heisst das, Ausländer dürfen in der Schweiz kein Haus kaufen, ausser gleich das ganze Dorf?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-2234-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohnung wird jedes Jahr teurer, der Vermieter leistet dafür nur älter werden, Frage für die Leistungsgesellschaft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, die Wohnung wird jedes Jahr teurer, und das Einzige, was der Vermieter dafür leistet, ist älter werden? Frage für die Leistungsgesellschaft.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": false
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-2234-11",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trinkgeld-Terminal beim Kaffee als einzige Lohnverhandlung, bei der man auf der Arbeitgeberseite sitzt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Beim Kaffee schlägt das Kartenterminal 10, 15 oder 20 Prozent Trinkgeld vor. Endlich sitzt man bei einer Lohnverhandlung auf der Arbeitgeberseite. Mit Blickkontakt. Ohne Gewerkschaft.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-2234-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Italien streikt gegen Rüstungsausgaben, gleiche Woche Schweizer Teile von elf Firmen in russischen Drohnen, hier fallen Rüstungsausgaben als Umsatz an",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Italien streikt gegen Rüstungsausgaben. In der Schweiz fallen in derselben Woche ebenfalls Rüstungsausgaben an, bei elf Firmen mit Teilen in russischen Drohnen, als Umsatz.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-2234-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Andermatt-Luxushotel mit Alpine Butler für jeden Gast, ratlos, wieso es Personal gibt für Leute, die nicht aufstehen mögen, und keins für Leute, die nicht aufstehen können",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Andermatt bekommt ein Luxushotel mit einem «Alpine Butler» für jeden Gast. Verstehe nicht ganz, wieso es für Leute, die nicht aufstehen mögen, Personal gibt, und für Leute, die nicht aufstehen können, keins.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-2234-26",
+      "typ": "schnittmenge",
+      "stichwort": "Verständnis für die jahrelange Prüfung der Invalidenversicherung, wer so lange durchhält, ist wenigstens sicher krank",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Verständlich, dass die Invalidenversicherung jahrelang prüft. Wer so lange durchhält, ist wenigstens sicher krank.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-2234-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Berufe, die vom Balkon beklatscht wurden und seither besser bezahlt sind",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier die vollständige Liste der Berufe, die in der Pandemie vom Balkon beklatscht wurden und seither besser bezahlt sind:\n-\n-\nThat's it.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-2234-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Voller Zug: hinten stehen alle im Gang, vorne sitzt einer allein im Wagen, Platz wäre genug, verteilt wie Geld",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Hinten im Zug stehen die Leute im Gang, vorne sitzt einer allein in einem ganzen Wagen. Platz hätte es genug. Verteilt wie Geld.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-10-31"
     }
   ]
 }
