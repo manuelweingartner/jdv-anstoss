@@ -1,59 +1,56 @@
 {
-  "stand": "2026-10-31T16:01:01+01:00",
-  "lauf": "1600",
+  "stand": "2026-11-01T07:05:45+01:00",
+  "lauf": "0705",
   "fotos": [
     {
-      "id": "1600-1",
-      "titel": "Deutsche Jugendproteste – Tausende Jugendliche gehen in ganz Deutschland auf die Strasse",
-      "was": "Jugendliche mit Pappschildern in überschaubarem Block, teils im Regen",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: angekündigte 180'000 gegen den Block, der an einem nassen Samstag tatsächlich gekommen ist.",
+      "id": "0705-1",
+      "titel": "Brasilien: Donald Trump gewährt Flávio Bolsonaro unbegrenztes Bleiberecht",
+      "was": "Donald Trump neben Flávio Bolsonaro, Handschlag oder Umarmung im Weissen Haus",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: unbegrenztes Bleiberecht für den verbündeten Wahlverlierer gegen Abschiebung für alle, die ohne Freund im Oval Office kommen.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
-      "auch_bei": [
-        "NZZ"
-      ],
-      "artikel": "https://www.srf.ch/news/international/deutsche-jugendproteste-tausende-jugendliche-gehen-in-ganz-deutschland-auf-die-strasse",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/89e9ed7.jpg",
-      "zeit": "2026-10-31T15:52+01:00"
-    },
-    {
-      "id": "1600-2",
-      "titel": "Polen: Der Präsident stürmt das Verfassungsgericht",
-      "was": "Präsident Nawrocki nachts im Gerichtsgebäude, Polizei aufmarschiert vor dem Verfassungsgericht",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Rückkehr zur Rechtmässigkeit als Behauptung gegen ein Bild, das wie ein nächtliches Eindringen aussieht.",
-      "grund": "breit",
-      "raum": "",
+      "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
-        "taz"
+        "20 Minuten"
       ],
-      "artikel": "https://www.spiegel.de/ausland/polen-der-praesident-stuermt-das-verfassungsgericht-a-a71ba561-d842-4a66-953e-a017cbbf25ea#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/0dd13eda-010b-423f-a05b-f410b9871822_w520_r2.08_fpx43.1_fpy54.82.jpg",
-      "zeit": "2026-10-31T15:13+01:00"
+      "artikel": "https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht-a-a214a183-4ca3-4ede-b2d1-02f92fb03bbe#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/35db0e9b-36d3-44a6-91c2-496c5b9eabb1_w520_r2.08_fpx37.96_fpy46.94.jpg",
+      "zeit": "2026-11-01T02:26+01:00"
     },
     {
-      "id": "1600-3",
-      "titel": "Die etwas anderen News – Parmelin-Nachfolge: Die SVP sucht den Superstar",
-      "was": "SVP-Bundesratskandidaten Gallati und Amaudruz posierend, Köppel mit erhobenem Finger",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: die Partei, die den Bundesrat als abgehobene Elite verspottet, inszeniert die Bewerbung um den eigenen Sitz als Castingshow.",
+      "id": "0705-2",
+      "titel": "Polens Rechte verteidigt ihre Bastion: Machtkampf um Polens Verfassungsgericht entbrannt",
+      "was": "Präsident Nawrocki drängt mit Begleitung durch eine Tür ins Verfassungsgericht",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: der Hüter der Verfassung verschafft sich Zugang zur Justiz, indem er die Tür eindrückt.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "taz",
+      "auch_bei": [
+        "SRF",
+        "Tagesschau"
+      ],
+      "artikel": "https://taz.de/Polens-Rechte-verteidigt-ihre-Bastion/!6226349/",
+      "bild": "https://taz.de/picture/8836261/948/629284078.jpeg",
+      "zeit": "2026-10-31T20:01+01:00"
+    },
+    {
+      "id": "0705-3",
+      "titel": "G20-Aussenministertreffen – Es reichte nicht mal für das traditionelle «Familienfoto»",
+      "was": "Leere Bühne mit G20-Flaggen in Atlanta, Aussenminister verlassen den Saal ohne Gruppenbild",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: zwanzig Regierungen wollen die Weltordnung regeln und schaffen es nicht einmal, für ein Foto in einer Reihe zu stehen.",
       "grund": "memetauglich",
-      "raum": "schweiz",
+      "raum": "weltweit",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-parmelin-nachfolge-die-svp-sucht-den-superstar",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/bdabf0.jpg",
-      "zeit": "2026-10-31T14:11+01:00"
+      "artikel": "https://www.srf.ch/news/international/g20-aussenministertreffen-es-reichte-nicht-mal-fuer-das-traditionelle-familienfoto",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/df4815.jpg",
+      "zeit": "2026-10-31T18:15+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 16:00",
-      "was": "Gen-Z-Demos in Schweizer Städten, Schlussbilder mit Schildern und Kundgebungsrednern"
-    },
-    {
-      "wann": "heute Nachmittag",
-      "was": "Parteitag der Berliner Linken, Elif Eralp vor applaudierenden Delegierten"
+      "wann": "heute ab 15:00",
+      "was": "Final der Swiss Indoors in Basel, Pokalübergabe mit Sponsorenwand und Ehrengästen"
     }
   ],
   "hinweis": ""
