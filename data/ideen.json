@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-01",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -34,6 +34,46 @@
       "text": "Eine Schweizerin verklagt Trump wegen Vergewaltigung. Frage an die USA: wie viele Frauen braucht es eigentlich, bis einer aufhört, Präsident zu sein?"
     },
     {
+      "id": "2026-11-01-0657-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hypothek nicht tragbar, dieselben 1'800 Franken seit zehn Jahren pünktlich als Miete bezahlt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Hypothek abgelehnt, sagt die Bank, 1'800 Franken im Monat seien nicht tragbar. Bezahlt werden sie trotzdem. Seit zehn Jahren. Pünktlich. Als Miete."
+    },
+    {
+      "id": "2026-11-01-0657-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuerhinterziehung einmal im Leben straflos selbst anzeigen, Schwarzfahren nicht, Frage für alle mit dem Abo im anderen Mantel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wieso darf man Steuerhinterziehung in der Schweiz einmal im Leben straflos selbst anzeigen, Schwarzfahren aber nicht? Frage für alle, die ihr Abo im anderen Mantel hatten."
+    },
+    {
+      "id": "2026-11-01-0657-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Viertagewoche: leere Liste der Studien, nach denen der Wohlstand am freien Samstag zusammengebrochen ist",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Zur Debatte um die Viertagewoche hier eine Liste aller Studien, die belegen, dass der Wohlstand nach Einführung des freien Samstags zusammengebrochen ist:\n-\n-\nThat's it."
+    },
+    {
+      "id": "2026-11-01-0657-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Besetzte Häuser werden geräumt, weil Eigentum heilig ist, leere nicht, aus demselben Grund",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Besetzte Häuser werden geräumt, weil Eigentum heilig ist. Leere nicht, aus demselben Grund."
+    },
+    {
       "id": "2026-11-01-0657-24",
       "typ": "politisch-aktuell",
       "stichwort": "Basler Arbeitgeber verlangt nach drei Krankheitstagen die Krankengeschichte, Zustimmung bis zum Hausschlüssel",
@@ -62,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Im armenischen Parlament prügeln sich die Abgeordneten. Vielleicht sollten wir froh sein: bei uns prügelt das Parlament nur auf chronisch Kranke ein, schriftlich und mit Übergangsfrist."
-    },
-    {
-      "id": "2026-11-01-0657-31",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lohn am 25., Miete am 1., die sechs Tage dazwischen heissen im E-Banking Gesamtvermögen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Der Lohn kommt am 25., die Miete geht am 1. Die sechs Tage dazwischen heissen im E-Banking Gesamtvermögen."
-    },
-    {
-      "id": "2026-11-01-0657-32",
-      "typ": "schnittmenge",
-      "stichwort": "Burnout: der CEO macht ein Sabbatical, die Kassiererin bei Lidl die Spätschicht",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Nach dem Burnout macht der CEO ein Sabbatical. Die Kassiererin bei Lidl die Spätschicht."
     }
   ]
 }
