@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-01",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Eine Schweizerin verklagt Trump wegen Vergewaltigung. Frage an die USA: wie viele Frauen braucht es eigentlich, bis einer aufhört, Präsident zu sein?"
+    },
+    {
+      "id": "2026-11-01-0657-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Basler Arbeitgeber verlangt nach drei Krankheitstagen die Krankengeschichte, Zustimmung bis zum Hausschlüssel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, nach drei Krankheitstagen darf ein Basler Chef die Krankengeschichte verlangen. Den Hausschlüssel kriegt er auch, dann kann er nachts prüfen, ob wirklich gehustet wird."
+    },
+    {
+      "id": "2026-11-01-0657-25",
+      "typ": "schnittmenge",
+      "stichwort": "Oliver Pocher nennt die Schweiz das geilste Land Europas, ratlos ob Kompliment oder Steuererklärung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Oliver Pocher nennt die Schweiz das geilste Land Europas. Kompliment oder Steuererklärung?"
+    },
+    {
+      "id": "2026-11-01-0657-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Massenschlägerei im armenischen Parlament, froh sein, bei uns prügelt das Parlament nur schriftlich auf chronisch Kranke ein",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Im armenischen Parlament prügeln sich die Abgeordneten. Vielleicht sollten wir froh sein: bei uns prügelt das Parlament nur auf chronisch Kranke ein, schriftlich und mit Übergangsfrist."
     },
     {
       "id": "2026-11-01-0657-31",
