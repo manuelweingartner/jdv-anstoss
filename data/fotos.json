@@ -1,60 +1,59 @@
 {
-  "stand": "2026-11-02T07:05:54+01:00",
-  "lauf": "0705",
+  "stand": "2026-11-02T16:00:34+01:00",
+  "lauf": "1600",
   "fotos": [
     {
-      "id": "0705-1",
-      "titel": "Verstappen gewinnt – Antonelli wird zum jüngsten Weltmeister",
-      "was": "Antonelli mit 20 Jahren jubelnd auf dem Podium in Mexiko, Champagner, Mercedes-Team",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: mit zwanzig darf man die schnellste Sportart der Welt gewinnen, in der Politik gilt man mit vierzig noch als Nachwuchs.",
+      "id": "1600-1",
+      "titel": "Royal im Regen – König Charles: «Auf mir wächst gleich Brunnenkresse»",
+      "was": "König Charles klatschnass im tropischen Wolkenbruch, ohne Schirm, lächelnd",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Oberhaupt eines einstigen Weltreichs gegen einen Mann, über dem nicht einmal ein Schirm aufgeht.",
       "grund": "breit",
-      "raum": "",
-      "quelle": "20 Minuten",
+      "raum": "weltweit",
+      "quelle": "SRF",
       "auch_bei": [
-        "SRF",
-        "Spiegel"
+        "20 Minuten"
       ],
-      "artikel": "https://www.20min.ch/story/stimme-ab-kroent-sich-supertalent-antonelli-20-zum-juengsten-f1-champion-103659952",
-      "bild": "https://image.20min.ch/2026/11/01/2c551f96-5311-4b71-836a-699baf8e7135.jpg?s=10255067635cd5dd0f24d85eead4aecb",
-      "zeit": "2026-11-01T18:34+01:00"
+      "artikel": "https://www.srf.ch/news/gesellschaft/royal-im-regen-koenig-charles-auf-mir-waechst-gleich-brunnenkresse",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/13a068.jpg",
+      "zeit": "2026-11-02T12:15+01:00"
     },
     {
-      "id": "0705-2",
-      "titel": "Nach Gen-Z-regelt-Protest in Frankfurt: 54 Festnahmen nach Ausschreitungen",
-      "was": "Nach Gen-Z-regelt-Protest in Frankfurt: 54 Festnahmen nach Ausschreitungen",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Zukunftstechnik fürs Gruppenfoto gegen eine Verwaltung, die vom Bürger weiterhin Papier und Fax verlangt.",
+      "id": "1600-2",
+      "titel": "Midterms: Donald Trump will um keinen Preis verlieren – und greift zu umstrittenen Mitteln",
+      "was": "Donald Trump am Rednerpult einer Wahlkampfbühne, zeigend, vor jubelnder Menge",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Wahlkreise nach Mass zuschneiden gegen den Anspruch, das Volk habe entschieden.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "taz",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
       "auch_bei": [
         "Tagesschau"
       ],
-      "artikel": "https://taz.de/Nach-Gen-Z-regelt-Protest/!6226354/",
-      "bild": "https://taz.de/picture/8836326/948/42451238.jpeg",
-      "zeit": "2026-11-01T08:45+01:00"
+      "artikel": "https://www.spiegel.de/ausland/midterms-donald-trump-will-um-keinen-preis-verlieren-und-greift-zu-umstrittenen-mitteln-a-7b1cf105-5722-4f57-a7a6-cb0434a77631#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/5de20294-5f88-4108-9d26-fdb29b23b67f_w520_r2.08_fpx50_fpy55.41.jpg",
+      "zeit": "2026-11-02T12:34+01:00"
     },
     {
-      "id": "0705-3",
-      "titel": "Tropfnasser König Charles: «Mir wächst gleich Kresse»",
-      "was": "König Charles in Uniform steht tropfnass im Wolkenbruch bei einer Militärparade auf Antigua",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Mann, dem halbe Kontinente gehörten, wartet im Regen genau so hilflos wie jeder Pendler an der Bushaltestelle.",
+      "id": "1600-3",
+      "titel": "Karl Bushby: Weltreisender ist zurück in England",
+      "was": "Bärtiger Abenteurer Karl Bushby kommt nach 28 Jahren zu Fuss in Hull an",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein halbes Leben Fussmarsch um die Welt gegen die Dauer eines Schweizer Grossprojekts oder Bewilligungsverfahrens.",
       "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "20 Minuten",
+      "raum": "",
+      "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/tropischer-wolkenbruch-tropfnasser-koenig-charles-mir-waechst-gleich-kresse-103660513",
-      "bild": "https://image.20min.ch/2026/11/02/9a3468d2-11e6-44da-9a33-adc4184d4c8a.jpg?s=b64ae429731b8006c536313e28f39513",
-      "zeit": "2026-11-02T05:24+01:00"
+      "artikel": "https://www.spiegel.de/panorama/karl-bushby-weltreisender-ist-zurueck-in-england-a-833673fc-43d5-40b0-9506-c5445e8130e8#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/a6ecf706-b275-4d66-9984-0af7b0eec393_w520_r2.08_fpx54_fpy37.jpg",
+      "zeit": "2026-11-02T14:32+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ganztags, Berlin",
-      "was": "Digitalgipfel der Bundesregierung, zweiter Tag: Minister vor Technik-Exponaten und Gruppenfoto mit Wirtschaft"
+      "wann": "heute Abend (US-Zeit)",
+      "was": "Trump bei einer letzten Wahlkampfkundgebung am Vorabend der Midterms"
     },
     {
-      "wann": "heute, Berlin",
-      "was": "Auftakt der Koalitionsverhandlungen von Linke, Grünen und SPD: Handschlag-Choreografie vor der Presse"
+      "wann": "heute, laufend",
+      "was": "König Charles und Camilla auf weiteren Terminen ihres Karibik-Besuchs"
     }
   ],
   "hinweis": ""
