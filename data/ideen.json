@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-02",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -15,21 +15,6 @@
       "jury": {
         "witz": false,
         "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-02-0657-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rüstungsindustrie klagt vor der Waffenexport-Abstimmung über existenzielle Krise, mitten im grössten Aufrüstungsboom, ratlose Frage, was denn noch passieren muss",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst um die Schweizer Rüstungsindustrie: existenzielle Krise, sagt sie vor der Waffenexport-Abstimmung, mitten im grössten Aufrüstungsboom seit 1945. Was muss denn noch passieren, damit die einen guten Tag hat?",
-      "jury": {
-        "anker": true,
-        "witz": true,
         "neu": true
       }
     },
@@ -79,6 +64,21 @@
       }
     },
     {
+      "id": "2026-11-02-0657-11",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor dem Montag ist ein Fall für die Psychologin statt für den Chef, Atemübungen als Arbeitsmarktpolitik",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seit wann ist Angst vor dem Montag ein Fall für die Psychologin und nicht für den Chef? Frage für alle, die jetzt Atemübungen empfehlen.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-11-02-0657-22",
       "typ": "politisch-aktuell",
       "stichwort": "Binance-Raub 6,3 Milliarden, ohne Staat, ohne Bank, ohne Regulierung, genau wie versprochen",
@@ -87,21 +87,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Binance: 6,3 Milliarden gestohlen, ohne Staat, ohne Bank, ohne Regulierung. Genau wie versprochen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-02-0657-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kaffeehändler finden wegen Kriegen keine Lieferwege, Schweizer Bauteile finden in derselben Woche den Weg in russische Drohnen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Wegen der Kriege finden Schweizer Kaffeehändler kaum noch Lieferwege. Schweizer Bauteile finden in derselben Woche problemlos den Weg in neue russische Drohnen. Pünktlich. Neutral.",
       "jury": {
         "anker": true,
         "witz": true,
