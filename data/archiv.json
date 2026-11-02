@@ -20982,6 +20982,150 @@
         "neu": true
       },
       "datum": "2026-10-31"
+    },
+    {
+      "id": "2026-11-01-0657-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Brennende Barrikaden in Zürich und Basel, der eigentliche Skandal für die Schweiz ist: unbewilligt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Brennende Barrikaden am Samstagabend in Zürich und Basel, Polizeieinsatz, Sachschaden. Schweiz so: unbewilligt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-01"
+    },
+    {
+      "id": "2026-11-01-0657-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Taliban-Opiumverbot wirkt nicht, der Anbau boomt wieder, Verbote in Afghanistan wirken nur gegen Frauen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seit die Taliban Opium verboten haben, boomt der Anbau wieder. Verbote funktionieren in Afghanistan nur, wenn sie Frauen treffen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-01"
+    },
+    {
+      "id": "2026-11-01-0657-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizerin Beatrice Keul verklagt Trump wegen Vergewaltigung, rhetorische Frage an die USA, wie viele Frauen es braucht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Eine Schweizerin verklagt Trump wegen Vergewaltigung. Frage an die USA: wie viele Frauen braucht es eigentlich, bis einer aufhört, Präsident zu sein?",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-11-01"
+    },
+    {
+      "id": "2026-11-01-0657-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Amaudruz nur wegen der Partei vom Bundesrat fernhalten ist unfair, die Partei hält Menschen wegen des Passes fern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Unfair, SVP-Kandidatin Céline Amaudruz nur wegen ihrer Partei vom Bundesrat fernzuhalten. Ihre Partei hält Menschen wegen ihres Passes fern, das ist etwas völlig anderes.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-01"
+    },
+    {
+      "id": "2026-11-01-0657-06",
+      "typ": "schnittmenge",
+      "stichwort": "Pocher nennt die Schweiz das geilste Land Europas, seine Krankenkasse ist deutsch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Oliver Pocher, die Schweiz ist das geilste Land Europas. Deine Krankenkasse ist deutsch.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-01"
+    },
+    {
+      "id": "2026-11-01-0657-12",
+      "typ": "politisch-aktuell",
+      "stichwort": "Smiley-Knopf an der Flughafentoilette, alles wird bewertet, nur der Verwaltungsrat bewertet sich selbst in Franken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Bewertet wird heute alles, der Kurier, der Kaffee, die Flughafentoilette per Smiley-Knopf. Nur der Verwaltungsrat hat keinen, der bewertet sich selbst, einmal im Jahr, in Franken.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-01"
+    },
+    {
+      "id": "2026-11-01-0657-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Beatrice Keul verklagt Trump wegen Vergewaltigung, wo bleibt die Delegation mit Rolex und Goldbarren, wenn eine Schweizerin mal keinen Zollrabatt will",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Beatrice Keul aus der Schweiz verklagt Trump wegen Vergewaltigung. Wo bleibt jetzt die Delegation mit Rolex und Goldbarren, wenn eine Schweizerin mal etwas will, das kein Zollrabatt ist?",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      },
+      "datum": "2026-11-01"
+    },
+    {
+      "id": "2026-11-01-0657-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Basler Arbeitgeber verlangt nach drei Krankheitstagen die Krankengeschichte, Zustimmung bis zum Hausschlüssel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, nach drei Krankheitstagen darf ein Basler Chef die Krankengeschichte verlangen. Den Hausschlüssel kriegt er auch, dann kann er nachts prüfen, ob wirklich gehustet wird.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-01"
+    },
+    {
+      "id": "2026-11-01-0657-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rüstungsaktien in Nachhaltigkeitsfonds, nichts wirkt so nachhaltig wie eine Landmine",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Banken nehmen Rüstungsaktien in ihre Nachhaltigkeitsfonds auf. Leuchtet ein, nichts wirkt so nachhaltig wie eine Landmine. Jahrzehnte. Wartungsfrei.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-01"
     }
   ]
 }
