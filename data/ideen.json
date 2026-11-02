@@ -1,8 +1,48 @@
 {
   "datum": "2026-11-02",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-02-0657-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Einmal so krisenfest sein wie der Bonus eines Bankchefs im Verlustjahr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so sicher durch eine Krise kommen wie der Bonus eines Bankchefs im Verlustjahr."
+    },
+    {
+      "id": "2026-11-02-0657-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reiche schaffen Arbeitsplätze wie der Hirte die Wolle macht, mit Schere",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Reiche schaffen Arbeitsplätze, ungefähr so, wie der Hirte die Wolle macht. Mit Schere."
+    },
+    {
+      "id": "2026-11-02-0657-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Konzerne verhandeln ihre Steuern mit dem Kanton, niemand sonst eine Parkbusse, Frage für Zug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Warum eigentlich dürfen Konzerne ihre Steuern mit dem Kanton verhandeln, aber niemand sonst eine Parkbusse? Frage für den Kanton Zug."
+    },
+    {
+      "id": "2026-11-02-0657-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Eine ganze Branche hält Steuern für Reiche freiwillig, heisst nicht Mafia, sondern Vermögensverwaltung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Es gibt eine ganze Branche dafür, dass Steuern für Reiche freiwillig bleiben. Sie heisst nicht Mafia, sondern Vermögensverwaltung."
+    },
     {
       "id": "2026-11-02-0657-21",
       "typ": "politisch-aktuell",
@@ -62,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Trumps Preisdruck kostet die Schweiz laut Pharma Hunderte Millionen Franken. Verständlich, irgendwer muss die Medikamente ja bezahlen, die sich nicht mal mehr Amerika leisten kann."
-    },
-    {
-      "id": "2026-11-02-0657-31",
-      "typ": "schnittmenge",
-      "stichwort": "Mindestlöhne vernichten Arbeitsplätze, Mindestboni noch nie einen",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Mindestlöhne vernichten Arbeitsplätze, warnt die Wirtschaft. Mindestboni haben noch nie einen vernichtet."
-    },
-    {
-      "id": "2026-11-02-0657-32",
-      "typ": "politisch-aktuell",
-      "stichwort": "Netflix prüft den Haushalt, die Briefkastenfirma braucht nur den Briefkasten, Frage für den Kanton Zug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Warum braucht es für ein Netflix-Konto Passwort, SMS-Code und Haushaltskontrolle, für eine Briefkastenfirma aber nur einen Briefkasten? Frage für den Kanton Zug."
     }
   ]
 }
