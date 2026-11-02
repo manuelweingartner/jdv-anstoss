@@ -1,46 +1,46 @@
 {
-  "stand": "2026-11-01T07:07:02+01:00",
+  "stand": "2026-11-02T07:07:07+01:00",
   "vorschlaege": [
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Schweizer Teile in russischen Raketen",
-        "Dual-Use mit Endverbleibserklärung"
+        "Pharma reicht den Trump-Rabatt weiter",
+        "Internationale Preisharmonisierung"
       ],
-      "warum": "weil elf Firmen und das Seco dieselbe Sache nur in Formularsprache benennen",
+      "warum": "der Euphemismus verpackt dieselbe Rechnung an die Schweizer Prämienzahler vornehm, das ist exakt die Figur",
       "bild": "vorschlag-1.jpg"
     },
     {
-      "vorlage": "doge",
-      "name": "Buff Doge vs. Cheems",
+      "vorlage": "abzweigung",
+      "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Gottlieb Duttweiler",
-        "Genossenschafter entscheiden",
-        "Ursula Nold",
-        "Bis zum Ja abstimmen"
+        "Wir wussten von nichts",
+        "Exportkontrolle für elf Firmen",
+        "Seco"
       ],
-      "warum": "weil die Genossenschaftsidee neben einer Wiederholungsabstimmung klein aussieht",
+      "warum": "die Behörde biegt in letzter Sekunde zur Ausrede ab, obwohl der gerade Weg mit Namen ausgeschildert ist",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Eine Kandidatin ist kein Kandidatenfeld"
+        "Keine Redaktion weiss, was KI spart"
       ],
-      "warum": "weil die SVP mit Amaudruz ein Hearing veranstaltet, das keinen Vergleich zulässt",
+      "warum": "die These bittet um Widerspruch und bekommt keinen, weil kein Medienhaus eine Zahl nennen kann",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "abzweigung",
-      "name": "Left Exit 12 Off Ramp",
+      "vorlage": "doge",
+      "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Personal ins Tessin schicken",
-        "Wohnungen in Andermatt",
-        "Samih Sawiris"
+        "Europas Autobauer 2015",
+        "Weltmarktführer, eigene Abgaswerte",
+        "Europas Autobauer 2026",
+        "Schuld haben China und Brüssel"
       ],
-      "warum": "weil der Resortbauer die naheliegende Lösung liegen lässt und über den Gotthard ausweicht",
+      "warum": "der Vergleich zwischen stolzem Früher und jammerndem Heute trifft eine Branche, die das Verschulden selbst mitbringt",
       "bild": "vorschlag-4.jpg"
     }
   ]
