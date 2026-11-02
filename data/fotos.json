@@ -1,57 +1,60 @@
 {
-  "stand": "2026-11-01T16:01:02+01:00",
-  "lauf": "1600",
+  "stand": "2026-11-02T07:05:54+01:00",
+  "lauf": "0705",
   "fotos": [
     {
-      "id": "1600-1",
-      "titel": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
-      "was": "Junge Demonstrierende mit Transparenten auf halbvollem Platz, Polizei am Rand",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Die angemeldete Masse gegen die Zahl, die dann wirklich im Nieselregen steht, während die Politik beides als Beweis für ihre Jugendpolitik ",
+      "id": "0705-1",
+      "titel": "Verstappen gewinnt – Antonelli wird zum jüngsten Weltmeister",
+      "was": "Antonelli mit 20 Jahren jubelnd auf dem Podium in Mexiko, Champagner, Mercedes-Team",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: mit zwanzig darf man die schnellste Sportart der Welt gewinnen, in der Politik gilt man mit vierzig noch als Nachwuchs.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Tagesschau",
+      "quelle": "20 Minuten",
       "auch_bei": [
-        "taz"
+        "SRF",
+        "Spiegel"
       ],
-      "artikel": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
-      "bild": "https://images.tagesschau.de/image/48909d4b-1bef-4d3d-9cb2-f18b4eea4d8e/AAABoZZ3yQk/AAABnSSvrFg/16x9-big/genz-266.jpg?width=1280",
-      "zeit": "2026-11-01T15:46+01:00"
+      "artikel": "https://www.20min.ch/story/stimme-ab-kroent-sich-supertalent-antonelli-20-zum-juengsten-f1-champion-103659952",
+      "bild": "https://image.20min.ch/2026/11/01/2c551f96-5311-4b71-836a-699baf8e7135.jpg?s=10255067635cd5dd0f24d85eead4aecb",
+      "zeit": "2026-11-01T18:34+01:00"
     },
     {
-      "id": "1600-2",
-      "titel": "Audi: Gernot Döllners Auftritt mit Donald Trump schreckt womöglich US-Käufer ab",
-      "was": "Audi-Chef Döllner neben Trump auf einer Wahlkampfbühne, Fahnen und Handschlag",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Was der Konzern Standortpflege nennt, ist aus der Nähe betrachtet Wahlkampfhilfe für den Mann, der die Zölle erfunden hat.",
+      "id": "0705-2",
+      "titel": "Nach Gen-Z-regelt-Protest in Frankfurt: 54 Festnahmen nach Ausschreitungen",
+      "was": "Nach Gen-Z-regelt-Protest in Frankfurt: 54 Festnahmen nach Ausschreitungen",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Zukunftstechnik fürs Gruppenfoto gegen eine Verwaltung, die vom Bürger weiterhin Papier und Fax verlangt.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
-      "auch_bei": [],
-      "artikel": "https://www.spiegel.de/wirtschaft/unternehmen/audi-gernot-doellners-auftritt-mit-donald-trump-schreckt-womoeglich-amerikanische-kaeufer-ab-a-a7d5a0cc-e192-4bca-b657-909509183087#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/83262f1a-dc37-49a3-88bf-f7be9bc668b4_w520_r2.08_fpx46_fpy43.jpg",
-      "zeit": "2026-11-01T12:19+01:00"
+      "raum": "schweiz",
+      "quelle": "taz",
+      "auch_bei": [
+        "Tagesschau"
+      ],
+      "artikel": "https://taz.de/Nach-Gen-Z-regelt-Protest/!6226354/",
+      "bild": "https://taz.de/picture/8836326/948/42451238.jpeg",
+      "zeit": "2026-11-01T08:45+01:00"
     },
     {
-      "id": "1600-3",
-      "titel": "Hausziege und Steinbock – Hybride Steinböcke sorgen im Tessin für Probleme",
-      "was": "Hybrider Steinbock mit Ziegenmerkmalen auf Tessiner Alpweide, daneben Geissen",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Ein Kanton verordnet Stallpflicht für die Reinheit der Art, während sich das Tier selbst für nichts als einen Steinbock mit Charakter hält.",
+      "id": "0705-3",
+      "titel": "Tropfnasser König Charles: «Mir wächst gleich Kresse»",
+      "was": "König Charles in Uniform steht tropfnass im Wolkenbruch bei einer Militärparade auf Antigua",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Mann, dem halbe Kontinente gehörten, wartet im Regen genau so hilflos wie jeder Pendler an der Bushaltestelle.",
       "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "weltweit",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/hausziege-und-steinbock-hybride-steinboecke-sorgen-im-tessin-fuer-probleme",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/6d951d.jpg",
-      "zeit": "2026-11-01T10:30+01:00"
+      "artikel": "https://www.20min.ch/story/tropischer-wolkenbruch-tropfnasser-koenig-charles-mir-waechst-gleich-kresse-103660513",
+      "bild": "https://image.20min.ch/2026/11/02/9a3468d2-11e6-44da-9a33-adc4184d4c8a.jpg?s=b64ae429731b8006c536313e28f39513",
+      "zeit": "2026-11-02T05:24+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 15:30",
-      "was": "Siegerfoto Swiss Indoors Basel: Lehecka oder Vacherot mit Pokal, Jubel oder Verzweiflung des Verlierers"
+      "wann": "heute ganztags, Berlin",
+      "was": "Digitalgipfel der Bundesregierung, zweiter Tag: Minister vor Technik-Exponaten und Gruppenfoto mit Wirtschaft"
     },
     {
-      "wann": "heute ab 21:00",
-      "was": "Formel 1 Mexiko: Antonelli womöglich jüngster Weltmeister, Champagnerdusche auf dem Podium, Hamilton daneben"
+      "wann": "heute, Berlin",
+      "was": "Auftakt der Koalitionsverhandlungen von Linke, Grünen und SPD: Handschlag-Choreografie vor der Presse"
     }
   ],
   "hinweis": ""
