@@ -4,14 +4,64 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-11-02-0657-07",
+      "id": "2026-11-02-0657-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Einmal so krisenfest sein wie der Bonus eines Bankchefs im Verlustjahr",
+      "stichwort": "Europas Jugend protestiert gegen gebrochene Versprechen, am selben Wochenende nennen US-Wählerinnen das einzige nie gebrochene: die Schrotflinte",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Europas Jugend protestiert gegen gebrochene Versprechen. Am selben Wochenende erklären US-Wählerinnen, welches Versprechen bei ihnen noch nie gebrochen wurde: die Schrotflinte.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-02-0657-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rüstungsindustrie klagt vor der Waffenexport-Abstimmung über existenzielle Krise, mitten im grössten Aufrüstungsboom, ratlose Frage, was denn noch passieren muss",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst um die Schweizer Rüstungsindustrie: existenzielle Krise, sagt sie vor der Waffenexport-Abstimmung, mitten im grössten Aufrüstungsboom seit 1945. Was muss denn noch passieren, damit die einen guten Tag hat?",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-02-0657-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "US-Druck auf Medikamentenpreise, Schweiz soll mehr zahlen, Zustimmung zur Pharma-Logik bis zum Aktienrückkaufprogramm",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so sicher durch eine Krise kommen wie der Bonus eines Bankchefs im Verlustjahr."
+      "text": "Logisch, dass Novartis und Roche in der Schweiz teurer werden müssen, wenn Trump in Amerika die Medikamentenpreise drückt. Irgendwer muss die Forschung finanzieren, und das Aktienrückkaufprogramm.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-02-0657-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Biber im Zürichsee begeistert Tiktok, Zustimmung zur Begeisterung aus dem falschen Grund: endlich wohnt dort jemand ohne Erbe",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Biber im Zürichsee begeistert Tiktok. Verständlich, endlich wohnt dort jemand, der nichts geerbt hat.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-02-0657-08",
@@ -21,37 +71,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Reiche schaffen Arbeitsplätze, ungefähr so, wie der Hirte die Wolle macht. Mit Schere."
-    },
-    {
-      "id": "2026-11-02-0657-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Konzerne verhandeln ihre Steuern mit dem Kanton, niemand sonst eine Parkbusse, Frage für Zug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Warum eigentlich dürfen Konzerne ihre Steuern mit dem Kanton verhandeln, aber niemand sonst eine Parkbusse? Frage für den Kanton Zug."
-    },
-    {
-      "id": "2026-11-02-0657-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Eine ganze Branche hält Steuern für Reiche freiwillig, heisst nicht Mafia, sondern Vermögensverwaltung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Es gibt eine ganze Branche dafür, dass Steuern für Reiche freiwillig bleiben. Sie heisst nicht Mafia, sondern Vermögensverwaltung."
-    },
-    {
-      "id": "2026-11-02-0657-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizer Medienhäuser setzen alle KI ein, keines weiss, was sie spart, rhetorische Frage an die Wirtschaftsredaktion",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Alle grossen Schweizer Medienhäuser setzen KI ein, und keines kann sagen, was sie spart. Wie würde die Wirtschaftsredaktion das bei einem Spital nennen?"
+      "text": "Reiche schaffen Arbeitsplätze, ungefähr so, wie der Hirte die Wolle macht. Mit Schere.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-02-0657-22",
@@ -61,7 +86,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Binance: 6,3 Milliarden gestohlen, ohne Staat, ohne Bank, ohne Regulierung. Genau wie versprochen."
+      "text": "Binance: 6,3 Milliarden gestohlen, ohne Staat, ohne Bank, ohne Regulierung. Genau wie versprochen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-02-0657-23",
@@ -71,37 +101,57 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Wegen der Kriege finden Schweizer Kaffeehändler kaum noch Lieferwege. Schweizer Bauteile finden in derselben Woche problemlos den Weg in neue russische Drohnen. Pünktlich. Neutral."
+      "text": "Wegen der Kriege finden Schweizer Kaffeehändler kaum noch Lieferwege. Schweizer Bauteile finden in derselben Woche problemlos den Weg in neue russische Drohnen. Pünktlich. Neutral.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-02-0657-24",
+      "id": "2026-11-02-0657-28",
       "typ": "politisch-aktuell",
-      "stichwort": "Zürcher wegen Fronteinsatz für die Ukraine verfolgt, gleichzeitig Abstimmungskampf um Waffenexporte: ins Kriegsgebiet darf alles aus der Schweiz, ausser Schweizer",
+      "stichwort": "Ab wie vielen Millionen gilt Nichtstun als Vermögensverwaltung, Frage für die Arbeitslosenkasse",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Zürcher wegen Fronteinsatz für die Ukraine vor der Bundesanwaltschaft, gleichzeitig Abstimmungskampf um Waffenexporte. Seh ich das richtig, ins Kriegsgebiet darf alles aus der Schweiz, ausser Schweizer?"
-    },
-    {
-      "id": "2026-11-02-0657-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nach der Krawallnacht: Gewalt ist nie eine Lösung, ausser exportiert, dann heisst sie Arbeitsplätze",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Stimmt, Gewalt ist nie eine Lösung. Ausser sie wird exportiert, dann heisst sie Arbeitsplätze."
+      "text": "Ab wie vielen Millionen gilt Nichtstun eigentlich als Vermögensverwaltung? Frage für die Arbeitslosenkasse.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-02-0657-26",
-      "typ": "schnittmenge",
-      "stichwort": "Trumps Preisdruck kostet die Schweiz Hunderte Millionen, verständlich, irgendwer muss die Medikamente bezahlen, die sich nicht mal mehr Amerika leisten kann",
+      "id": "2026-11-02-0657-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mutter wird pflegebedürftig, die Tochter reduziert auf 60 Prozent, der Bruder auf Weihnachten",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Die Mutter wird pflegebedürftig. Die Tochter reduziert auf 60 Prozent, der Bruder auf Weihnachten.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-02-0657-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Netflix prüft den Haushalt, die Briefkastenfirma braucht nur den Briefkasten, Frage für den Kanton Zug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Trumps Preisdruck kostet die Schweiz laut Pharma Hunderte Millionen Franken. Verständlich, irgendwer muss die Medikamente ja bezahlen, die sich nicht mal mehr Amerika leisten kann."
+      "text": "Warum braucht es für ein Netflix-Konto Passwort, SMS-Code und Haushaltskontrolle, für eine Briefkastenfirma aber nur einen Briefkasten? Frage für den Kanton Zug.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
