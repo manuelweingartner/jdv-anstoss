@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-02",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Wegen der Kriege finden Schweizer Kaffeehändler kaum noch Lieferwege. Schweizer Bauteile finden in derselben Woche problemlos den Weg in neue russische Drohnen. Pünktlich. Neutral."
+    },
+    {
+      "id": "2026-11-02-0657-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zürcher wegen Fronteinsatz für die Ukraine verfolgt, gleichzeitig Abstimmungskampf um Waffenexporte: ins Kriegsgebiet darf alles aus der Schweiz, ausser Schweizer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Zürcher wegen Fronteinsatz für die Ukraine vor der Bundesanwaltschaft, gleichzeitig Abstimmungskampf um Waffenexporte. Seh ich das richtig, ins Kriegsgebiet darf alles aus der Schweiz, ausser Schweizer?"
+    },
+    {
+      "id": "2026-11-02-0657-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nach der Krawallnacht: Gewalt ist nie eine Lösung, ausser exportiert, dann heisst sie Arbeitsplätze",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, Gewalt ist nie eine Lösung. Ausser sie wird exportiert, dann heisst sie Arbeitsplätze."
+    },
+    {
+      "id": "2026-11-02-0657-26",
+      "typ": "schnittmenge",
+      "stichwort": "Trumps Preisdruck kostet die Schweiz Hunderte Millionen, verständlich, irgendwer muss die Medikamente bezahlen, die sich nicht mal mehr Amerika leisten kann",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trumps Preisdruck kostet die Schweiz laut Pharma Hunderte Millionen Franken. Verständlich, irgendwer muss die Medikamente ja bezahlen, die sich nicht mal mehr Amerika leisten kann."
     },
     {
       "id": "2026-11-02-0657-31",
