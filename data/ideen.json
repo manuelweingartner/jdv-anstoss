@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-02",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-02-0657-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizer Medienhäuser setzen alle KI ein, keines weiss, was sie spart, rhetorische Frage an die Wirtschaftsredaktion",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Alle grossen Schweizer Medienhäuser setzen KI ein, und keines kann sagen, was sie spart. Wie würde die Wirtschaftsredaktion das bei einem Spital nennen?"
+    },
+    {
+      "id": "2026-11-02-0657-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Binance-Raub 6,3 Milliarden, ohne Staat, ohne Bank, ohne Regulierung, genau wie versprochen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Binance: 6,3 Milliarden gestohlen, ohne Staat, ohne Bank, ohne Regulierung. Genau wie versprochen."
+    },
+    {
+      "id": "2026-11-02-0657-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kaffeehändler finden wegen Kriegen keine Lieferwege, Schweizer Bauteile finden in derselben Woche den Weg in russische Drohnen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Wegen der Kriege finden Schweizer Kaffeehändler kaum noch Lieferwege. Schweizer Bauteile finden in derselben Woche problemlos den Weg in neue russische Drohnen. Pünktlich. Neutral."
+    },
     {
       "id": "2026-11-02-0657-31",
       "typ": "schnittmenge",
