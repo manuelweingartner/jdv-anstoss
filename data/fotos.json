@@ -1,59 +1,61 @@
 {
-  "stand": "2026-11-02T16:00:34+01:00",
+  "stand": "2026-11-03T16:00:49+01:00",
   "lauf": "1600",
   "fotos": [
     {
       "id": "1600-1",
-      "titel": "Royal im Regen – König Charles: «Auf mir wächst gleich Brunnenkresse»",
-      "was": "König Charles klatschnass im tropischen Wolkenbruch, ohne Schirm, lächelnd",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Oberhaupt eines einstigen Weltreichs gegen einen Mann, über dem nicht einmal ein Schirm aufgeht.",
+      "titel": "Wahllokale in den USA geöffnet: Richtungswahl für Donald Trump",
+      "was": "Trump am Rednerpult oder vor Wahllokal, ruft zur Stimmabgabe auf",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Präsident, der für die Wahl wirbt, gegen einen, der Ergebnisse nur anerkennt, wenn er gewinnt.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "SRF",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "20 Minuten"
+        "NZZ"
       ],
-      "artikel": "https://www.srf.ch/news/gesellschaft/royal-im-regen-koenig-charles-auf-mir-waechst-gleich-brunnenkresse",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/13a068.jpg",
-      "zeit": "2026-11-02T12:15+01:00"
+      "artikel": "https://www.tagesschau.de/video/video-1677274.html",
+      "bild": "https://images.tagesschau.de/image/5ab89321-28cf-45bf-8c0b-2f3bbdcb8233/AAABoaGJGxc/AAABnSSvrFg/16x9-big/sendungsbild-1821650.jpg?width=1280",
+      "zeit": "2026-11-03T14:11+01:00"
     },
     {
       "id": "1600-2",
-      "titel": "Midterms: Donald Trump will um keinen Preis verlieren – und greift zu umstrittenen Mitteln",
-      "was": "Donald Trump am Rednerpult einer Wahlkampfbühne, zeigend, vor jubelnder Menge",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Wahlkreise nach Mass zuschneiden gegen den Anspruch, das Volk habe entschieden.",
+      "titel": "LIVE-TICKER - Krieg in der Ukraine: Melania Trump kündigt Treffen mit Ukrainern und Russen an",
+      "was": "Melania Trump bei offiziellem Termin, ernst blickend, als Vermittlerin",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Friedensdiplomatie auf Weltebene gegen eine Besetzung, die sich nach Familienzugehörigkeit statt nach Amt richtet.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Spiegel",
+      "quelle": "NZZ",
       "auch_bei": [
+        "SRF",
+        "Spiegel",
         "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/ausland/midterms-donald-trump-will-um-keinen-preis-verlieren-und-greift-zu-umstrittenen-mitteln-a-7b1cf105-5722-4f57-a7a6-cb0434a77631#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/5de20294-5f88-4108-9d26-fdb29b23b67f_w520_r2.08_fpx50_fpy55.41.jpg",
-      "zeit": "2026-11-02T12:34+01:00"
+      "artikel": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
+      "bild": "https://img-msp-prod.nzz.ch/2026/11/02/21450b6e-4b3a-4fb2-bbf2-aca27147a9ba.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=992,992,x699,y33",
+      "zeit": "2026-11-03T15:01+01:00"
     },
     {
       "id": "1600-3",
-      "titel": "Karl Bushby: Weltreisender ist zurück in England",
-      "was": "Bärtiger Abenteurer Karl Bushby kommt nach 28 Jahren zu Fuss in Hull an",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein halbes Leben Fussmarsch um die Welt gegen die Dauer eines Schweizer Grossprojekts oder Bewilligungsverfahrens.",
+      "titel": "Die Alternative Linke in Zürich verlangt ultimativ, dass «rassifizierte Büsten» abgedeckt werden – andernfalls gebe es kein Geld für den Schulhaus-Umbau",
+      "was": "Historische Büsten im Zürcher Schulhaus, mit Tüchern verhüllt",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Gipsköpfe verhüllen als moralische Grosstat gegen ein Schulhaus-Umbaubudget, das als Pfand dient.",
       "grund": "memetauglich",
-      "raum": "",
-      "quelle": "Spiegel",
+      "raum": "schweiz",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.spiegel.de/panorama/karl-bushby-weltreisender-ist-zurueck-in-england-a-833673fc-43d5-40b0-9506-c5445e8130e8#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/a6ecf706-b275-4d66-9984-0af7b0eec393_w520_r2.08_fpx54_fpy37.jpg",
-      "zeit": "2026-11-02T14:32+01:00"
+      "artikel": "https://www.nzz.ch/zuerich/die-alternative-linke-in-zuerich-verlangt-ultimativ-dass-rassifizierte-buesten-abgedeckt-werden-andernfalls-gebe-es-kein-geld-fuer-den-schulhaus-umbau-ld.10052271",
+      "bild": "https://img-msp-prod.nzz.ch/2025/08/29/5ab6dca4-00be-40ac-8d20-9cddacdcc82a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2505,2505,x64,y406",
+      "zeit": "2026-11-03T15:37+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Abend (US-Zeit)",
-      "was": "Trump bei einer letzten Wahlkampfkundgebung am Vorabend der Midterms"
+      "wann": "heute Nachmittag",
+      "was": "Merz und Selenskyj gemeinsam in Berlin, Handschlag und Pressekonferenz"
     },
     {
-      "wann": "heute, laufend",
-      "was": "König Charles und Camilla auf weiteren Terminen ihres Karibik-Besuchs"
+      "wann": "heute Nacht ab 01:00",
+      "was": "Wahlpartys in den USA, Trump und Kandidierende vor Anhängern"
     }
   ],
   "hinweis": ""
