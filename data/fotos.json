@@ -1,60 +1,53 @@
 {
-  "stand": "2026-11-05T08:01:13+01:00",
-  "lauf": "0800",
+  "stand": "2026-11-05T17:00:35+01:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0800-1",
-      "titel": "Erster Auftritt nach Wahlniederlage: So äussert sich Donald Trump",
-      "was": "Donald Trump am Rednerpult bei seinem ersten Auftritt nach der Wahlniederlage",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Der Mann, der angeblich nie verliert, erklärt die Niederlage mit einem Krieg, den er selbst angefangen hat.",
+      "id": "1700-1",
+      "titel": "«Knockin' on Heaven's Door» – Himmel und Hoodie: Warum war Bob Dylan beim Papst?",
+      "was": "Bob Dylan im Hoodie neben dem lächelnden Papst im Vatikan",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: strenge Kleiderordnung für gewöhnliche Besucher im Petersdom gegen den Hoodie-Freipass für Weltstars.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "20 Minuten",
+      "quelle": "SRF",
       "auch_bei": [
-        "Spiegel"
+        "taz"
       ],
-      "artikel": "https://www.20min.ch/story/auftritt-weisses-haus-erster-auftritt-nach-wahlniederlage-so-aeussert-sich-donald-trump-103662337",
-      "bild": "https://image.20min.ch/2026/11/04/9709aaf6-f777-4ab9-add0-82450d75113b.jpg?s=818cc1178e0f878baf577774a8efff22",
-      "zeit": "2026-11-04T19:55+01:00"
+      "artikel": "https://www.srf.ch/radio-srf-3/musik/knockin-on-heaven-s-door-himmel-und-hoodie-warum-war-bob-dylan-beim-papst",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_radio_srf_3/5a37c56.jpg",
+      "zeit": "2026-11-05T15:30+01:00"
     },
     {
-      "id": "0800-2",
-      "titel": "LFI-Politikerin über Frankreichs Protest: „Bravo, Gen Z!“",
-      "was": "Junge Demonstrierende mit Transparenten beim Generalstreik in einer französischen Innenstadt",
-      "richtung": "Mechanik: dieselbe Handlung umetikettieren. Achse: Die Regierung lobt in jeder Rede die engagierte Jugend und schickt die Polizei, sobald diese Jugend sich engagiert.",
+      "id": "1700-2",
+      "titel": "Midterms: Donald Trump will, dass Dan Sullivan Dan Sullivans Stimmen bekommt",
+      "was": "Trump gestikulierend am Rednerpult, wütend über die Auszählung in Alaska",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: wer seit Jahren Wahlbetrug anprangert, verlangt jetzt selbst, die Stimmen umzuverteilen.",
       "grund": "breit",
-      "raum": "",
-      "quelle": "taz",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "Tagesschau"
+        "NZZ",
+        "SRF",
+        "taz"
       ],
-      "artikel": "https://taz.de/LFI-Politikerin-ueber-Frankreichs-Protest/!6227263/",
-      "bild": "https://taz.de/picture/8843259/948/42482238.jpeg",
-      "zeit": "2026-11-05T07:05+01:00"
+      "artikel": "https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt-a-897769e2-3177-425a-abcf-5e6fe6d3cd02#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/0fce08f6-3217-4d6c-95f7-6d51d274d8f5_w520_r2.08_fpx49.33_fpy49.99.jpg",
+      "zeit": "2026-11-05T16:55+01:00"
     },
     {
-      "id": "0800-3",
-      "titel": "Warten auf Aeschi: Warum bloss zögert der SVP-Fraktionspräsident so lange, für den Bundesrat zu kandidieren?",
-      "was": "Thomas Aeschi nachdenklich im Bundeshaus, Blick ins Leere oder aufs Handy",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Die Partei, die immer sofort weiss, was das Volk will, braucht Wochen, bis sie weiss, ob ihr eigener Kandidat will.",
+      "id": "1700-3",
+      "titel": "4. Amtszeit für Infantino? – Asien für Infantino – offizielle Gegenkandidatur aus Japan",
+      "was": "Infantino lächelnd mit erhobenen Armen auf einem Fifa-Kongress",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: eine vierte Amtszeit heisst bei der Fifa Kontinuität und überall sonst Machterhalt auf Lebenszeit.",
       "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "NZZ",
+      "raum": "weltweit",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/schweiz/warten-auf-aeschi-warum-bloss-zoegert-der-svp-fraktionspraesident-so-lange-ob-er-fuer-den-bundesrat-kandidieren-will-ld.10053975",
-      "bild": "https://img-msp-prod.nzz.ch/2026/11/04/dc3640fa-9d8c-4972-b520-99390f393a79.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3570,3570,x1152,y0",
-      "zeit": "2026-11-05T05:30+01:00"
+      "artikel": "https://www.srf.ch/sport/fussball/fussball-allgemein/4-amtszeit-fuer-infantino-asien-fuer-infantino-offizielle-gegenkandidatur-aus-japan",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/212c64.jpg",
+      "zeit": "2026-11-05T14:56+01:00"
     }
   ],
-  "erwartet": [
-    {
-      "wann": "heute tagsüber",
-      "was": "Demonstrationszüge und Transparente beim Generalstreik in Paris und anderen französischen Städten"
-    },
-    {
-      "wann": "heute im Laufe des Tages",
-      "was": "Bundestagsdebatte zur Pflegereform mit Ministerin am Rednerpult und leeren Reihen"
-    }
-  ],
+  "erwartet": [],
   "hinweis": ""
 }
