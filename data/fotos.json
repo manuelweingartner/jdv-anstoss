@@ -1,52 +1,60 @@
 {
-  "stand": "2026-11-04T17:00:43+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-05T08:01:13+01:00",
+  "lauf": "0800",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Niederlage der Republikaner – «Mr. Veto»: Wie wird Trump nach den Midterms regieren?",
-      "was": "Trump mit ernster Miene am Rednerpult oder im Oval Office",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: ein Mann, der nie verliert, akzeptiert zum ersten Mal eine Niederlage und kündigt im gleichen Atemzug Blockade an.",
+      "id": "0800-1",
+      "titel": "Erster Auftritt nach Wahlniederlage: So äussert sich Donald Trump",
+      "was": "Donald Trump am Rednerpult bei seinem ersten Auftritt nach der Wahlniederlage",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Der Mann, der angeblich nie verliert, erklärt die Niederlage mit einem Krieg, den er selbst angefangen hat.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "SRF",
+      "quelle": "20 Minuten",
       "auch_bei": [
-        "Spiegel",
-        "Tagesschau"
+        "Spiegel"
       ],
-      "artikel": "https://www.srf.ch/news/international/usa/niederlage-der-republikaner-mr-veto-wie-wird-trump-nach-den-midterms-regieren",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/f79233.jpg",
-      "zeit": "2026-11-04T16:32+01:00"
+      "artikel": "https://www.20min.ch/story/auftritt-weisses-haus-erster-auftritt-nach-wahlniederlage-so-aeussert-sich-donald-trump-103662337",
+      "bild": "https://image.20min.ch/2026/11/04/9709aaf6-f777-4ab9-add0-82450d75113b.jpg?s=818cc1178e0f878baf577774a8efff22",
+      "zeit": "2026-11-04T19:55+01:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Tennis: Alexander Zverev tritt in Paris erstmals als Nummer eins an und verliert",
-      "was": "Zverev hängt nach dem verlorenen Punkt Kopf und Schläger",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: die Nummer eins auf dem Papier gegen das erste Spiel auf dem Platz.",
+      "id": "0800-2",
+      "titel": "LFI-Politikerin über Frankreichs Protest: „Bravo, Gen Z!“",
+      "was": "Junge Demonstrierende mit Transparenten beim Generalstreik in einer französischen Innenstadt",
+      "richtung": "Mechanik: dieselbe Handlung umetikettieren. Achse: Die Regierung lobt in jeder Rede die engagierte Jugend und schickt die Polizei, sobald diese Jugend sich engagiert.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Spiegel",
+      "quelle": "taz",
       "auch_bei": [
-        "Watson"
+        "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-tritt-in-paris-erstmals-als-nummer-eins-an-und-verliert-a-b009db21-e429-42b9-9c7e-1ae2325b9690#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/9d5b95b4-53cb-4c13-9f00-6f14aa3d70d2_w520_r2.08_fpx61.99_fpy45.jpg",
-      "zeit": "2026-11-04T15:48+01:00"
+      "artikel": "https://taz.de/LFI-Politikerin-ueber-Frankreichs-Protest/!6227263/",
+      "bild": "https://taz.de/picture/8843259/948/42482238.jpeg",
+      "zeit": "2026-11-05T07:05+01:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Weniger Strafzahlungen, mehr Zeit für die Klimaziele: Bundesrat Rösti kommt der Autobranche entgegen",
-      "was": "Bundesrat Rösti an der Medienkonferenz, eventuell neben Autos",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Fristverlängerung und Nachsicht für die Autobranche gegen volle Strenge für alle anderen beim Klima.",
+      "id": "0800-3",
+      "titel": "Warten auf Aeschi: Warum bloss zögert der SVP-Fraktionspräsident so lange, für den Bundesrat zu kandidieren?",
+      "was": "Thomas Aeschi nachdenklich im Bundeshaus, Blick ins Leere oder aufs Handy",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Die Partei, die immer sofort weiss, was das Volk will, braucht Wochen, bis sie weiss, ob ihr eigener Kandidat will.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/schweiz/weniger-strafzahlungen-mehr-zeit-fuer-die-klimaziele-bundesrat-roesti-kommt-der-autobranche-entgegen-ld.10054318",
-      "bild": "https://img-msp-prod.nzz.ch/2026/11/04/6f24c9d6-963f-4f22-8ec3-945fbb7a27e5.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4653,4653,x1160,y0",
-      "zeit": "2026-11-04T16:50+01:00"
+      "artikel": "https://www.nzz.ch/schweiz/warten-auf-aeschi-warum-bloss-zoegert-der-svp-fraktionspraesident-so-lange-ob-er-fuer-den-bundesrat-kandidieren-will-ld.10053975",
+      "bild": "https://img-msp-prod.nzz.ch/2026/11/04/dc3640fa-9d8c-4972-b520-99390f393a79.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3570,3570,x1152,y0",
+      "zeit": "2026-11-05T05:30+01:00"
     }
   ],
-  "erwartet": [],
+  "erwartet": [
+    {
+      "wann": "heute tagsüber",
+      "was": "Demonstrationszüge und Transparente beim Generalstreik in Paris und anderen französischen Städten"
+    },
+    {
+      "wann": "heute im Laufe des Tages",
+      "was": "Bundestagsdebatte zur Pflegereform mit Ministerin am Rednerpult und leeren Reihen"
+    }
+  ],
   "hinweis": ""
 }
