@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-05",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -74,24 +74,34 @@
       "text": "Jung, digital, skrupellos: SRF findet in Basel eine Gen-Z-Mafia. Alt, männlich, skrupellos heisst Verwaltungsrat."
     },
     {
-      "id": "2026-11-05-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "Angst der Grossbank gegen Angst der Angestellten vor der KI: Milliardengarantie gegen Ratgeber mit Weiterbildungstipps",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "id": "2026-11-05-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "IV-Sanierung über höhere Lohnabzüge, gleiche Woche gilt die Übergewinnsteuer für Ölkonzerne als Standortrisiko, das Ich hat sich nie als Standort beworben",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Hatte eine Grossbank Angst, gab der Bund 259 Milliarden Garantien. Haben Angestellte Angst vor der KI, gibt es Tipps: weiterbilden, mitgestalten, sich einlassen."
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Bundesrat saniert die IV mit höheren Lohnabzügen. Gleiche Woche gilt eine Übergewinnsteuer für Ölkonzerne als Standortrisiko, hätte mich wohl auch mal als Standort bewerben sollen."
     },
     {
-      "id": "2026-11-05-0757-32",
+      "id": "2026-11-05-0757-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Self-Checkout-Kasse als unbezahltes Praktikum mit Taschenkontrolle, rhetorische Frage an die Migros",
+      "stichwort": "Nach der Midterm-Niederlage könnte Trump zur Ablenkung den Iran-Krieg eskalieren, Verständnis wie für eine Midlife-Krise nach der Trennung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Nach der Midterm-Niederlage könnte Trump zur Ablenkung den Iran-Krieg eskalieren, warnen Fachleute. Verständlich, andere Männer in dem Alter kaufen sich nach einer Trennung einen Porsche."
+    },
+    {
+      "id": "2026-11-05-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Abstimmung über Kriegsmaterial, Mitgefühl mit der leidenden Rüstungsindustrie wie bei der Partnersuche",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Self-Checkout: Einkauf oder unbezahltes Praktikum mit Taschenkontrolle? Frage an die Migros."
+      "text": "Stimmt, die Rüstungsindustrie leidet. Hoffentlich findet sie bald einen Krieg, der zu ihr passt."
     }
   ]
 }
