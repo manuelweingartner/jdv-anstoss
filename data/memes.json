@@ -1,46 +1,46 @@
 {
-  "stand": "2026-11-02T07:07:07+01:00",
+  "stand": "2026-11-05T08:01:41+01:00",
   "vorschlaege": [
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Pharma reicht den Trump-Rabatt weiter",
-        "Internationale Preisharmonisierung"
+        "Streit um den Bonus",
+        "Unüberbrückbare Differenzen"
       ],
-      "warum": "der Euphemismus verpackt dieselbe Rechnung an die Schweizer Prämienzahler vornehm, das ist exakt die Figur",
+      "warum": "Rieter liefert die vornehme Verpackung gleich selbst, die Figur muss nur beide Fassungen nebeneinanderstellen",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Wir wussten von nichts",
-        "Exportkontrolle für elf Firmen",
-        "Seco"
+        "Verbrenner nach 2035",
+        "Verbrenner-Aus 2035",
+        "EU-Parlament"
       ],
-      "warum": "die Behörde biegt in letzter Sekunde zur Ausrede ab, obwohl der gerade Weg mit Namen ausgeschildert ist",
+      "warum": "Das EU-Parlament biegt kurz vor dem beschlossenen Ziel doch noch ab",
       "bild": "vorschlag-2.jpg"
-    },
-    {
-      "vorlage": "schild",
-      "name": "Change My Mind",
-      "zeilen": [
-        "Keine Redaktion weiss, was KI spart"
-      ],
-      "warum": "die These bittet um Widerspruch und bekommt keinen, weil kein Medienhaus eine Zahl nennen kann",
-      "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Europas Autobauer 2015",
-        "Weltmarktführer, eigene Abgaswerte",
-        "Europas Autobauer 2026",
-        "Schuld haben China und Brüssel"
+        "BVG-Mindestzins 1985",
+        "4 Prozent",
+        "BVG-Mindestzins 2027",
+        "2 Prozent, Versicherte profitieren"
       ],
-      "warum": "der Vergleich zwischen stolzem Früher und jammerndem Heute trifft eine Branche, die das Verschulden selbst mitbringt",
+      "warum": "Die Erhöhung wird gefeiert, ist aber nur die Hälfte von früher, also das klägliche Heute",
+      "bild": "vorschlag-3.jpg"
+    },
+    {
+      "vorlage": "schild",
+      "name": "Change My Mind",
+      "zeilen": [
+        "Die Schweiz ist ein Ölstaat ohne Öl"
+      ],
+      "warum": "Ohne Übergewinnsteuer bleibt der Handelsplatz kassieren, und diese These kann niemand widerlegen",
       "bild": "vorschlag-4.jpg"
     }
   ]
