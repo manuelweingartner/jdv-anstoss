@@ -4,24 +4,94 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-11-05-0757-07",
+      "id": "2026-11-05-0757-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Mietkaution als Sicherheit gegen Mieter*innen, keine Sicherheit gegen den Vermieter",
+      "stichwort": "Bergbahnen profitieren vom Hitzesommer, gleiche Woche weicht das EU-Parlament das Verbrenner-Aus auf, Kundenbindung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Mieter*innen hinterlegen drei Monatsmieten als Sicherheit, dass sie die Wohnung nicht ruinieren. Vom Vermieter verlangt niemand eine Sicherheit, dass er das nicht mit der Miete tut."
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gondel voll, weil unten alle schmelzen: Die Bergbahnen melden einen starken Sommer. Gleiche Woche verlängert das EU-Parlament den Verbrenner, nennt sich Kundenbindung.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": false
+      }
     },
     {
-      "id": "2026-11-05-0757-08",
+      "id": "2026-11-05-0757-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der CEOs, die nach Stellenabbau auf den Bonus verzichtet haben",
+      "stichwort": "SRF deckt «Gen-Z-Mafia» in Basel auf, die analoge Version sitzt am Paradeplatz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Jung, digital, skrupellos: SRF deckt in Basel eine «Gen-Z-Mafia» auf. Die analoge Version sitzt am Paradeplatz, seit Jahrzehnten, im Notfall gerettet vom Bund.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-05-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Apple Rekordgewinn, Ladegerät kostet trotzdem extra, läppert sich",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ladegerät kostet extra. Apple so: läppert sich, 132 Milliarden Gewinn, Rekord.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-05-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ölkonzerne verdienen Rekordsummen, keine Übergewinnsteuer, Zustimmung aus Angst, die Konzerne könnten sich das Geld an der Zapfsäule zurückholen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ölkonzerne verdienen Rekordsummen, die Schweiz will trotzdem keine Übergewinnsteuer. Vielleicht besser so, sonst holen die sich das Geld am Ende noch an der Zapfsäule zurück.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-05-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bundesrat saniert die Invalidenversicherung mit höheren Lohnbeiträgen, ratlose Sorge, dass sie mit genug Geld noch Renten bewilligen müsste",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der Bundesrat will die Invalidenversicherung mit höheren Lohnbeiträgen sanieren. Weiss nicht, klingt riskant: Wenn das Geld reicht, müsste sie am Ende noch Renten bewilligen.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-05-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vor der Kriegsmaterial-Abstimmung: der Schweizer Rüstungsindustrie geht es angeblich schlecht, scheinbare Zustimmung, es sei halt nirgends Krieg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Hier alle CEOs, die nach einem Stellenabbau freiwillig auf ihren Bonus verzichtet haben:\n-\n-\nThat's it."
+      "text": "Stimmt, die Schweizer Rüstungsindustrie steckt in der Krise. Ist halt gerade nirgends Krieg.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-05-0757-09",
@@ -31,17 +101,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Gerüstbauer so: Rücken durch, Knie durch, Termin beim Orthopäden. Bürgerliche so: Rentenalter rauf, wir leben ja alle länger. Alle. Am Zürichberg."
-    },
-    {
-      "id": "2026-11-05-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Sparen als Rat gegen Armut, Verdurstende sollen weniger schwitzen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Sparen gegen Armut zu empfehlen ist wie Verdurstenden zu raten, weniger zu schwitzen."
+      "text": "Gerüstbauer so: Rücken durch, Knie durch, Termin beim Orthopäden. Bürgerliche so: Rentenalter rauf, wir leben ja alle länger. Alle. Am Zürichberg.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-05-0757-21",
@@ -51,37 +116,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Schweizer Bergbahnen melden dank Hitzesommer mehr Gäste denn je. Damit steht auch der Hitzeschutzplan des Bundesrats: Retourbillett, Halbtax gilt, Kinder unter sechs gratis."
-    },
-    {
-      "id": "2026-11-05-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Erdöl treibt die Teuerung, gleicher Tag EU-Parlament weicht Verbrenner-Aus auf, Planungssicherheit für die Teuerung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Erdöl treibt die Schweizer Teuerung nach oben, und am selben Tag erlaubt das EU-Parlament neue Verbrenner auch nach 2035. Planungssicherheit für die Teuerung."
-    },
-    {
-      "id": "2026-11-05-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "SRF findet Gen-Z-Mafia in Basel, die alte, männliche Variante heisst Verwaltungsrat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Jung, digital, skrupellos: SRF findet in Basel eine Gen-Z-Mafia. Alt, männlich, skrupellos heisst Verwaltungsrat."
-    },
-    {
-      "id": "2026-11-05-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "IV-Sanierung über höhere Lohnabzüge, gleiche Woche gilt die Übergewinnsteuer für Ölkonzerne als Standortrisiko, das Ich hat sich nie als Standort beworben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Der Bundesrat saniert die IV mit höheren Lohnabzügen. Gleiche Woche gilt eine Übergewinnsteuer für Ölkonzerne als Standortrisiko, hätte mich wohl auch mal als Standort bewerben sollen."
+      "text": "Schweizer Bergbahnen melden dank Hitzesommer mehr Gäste denn je. Damit steht auch der Hitzeschutzplan des Bundesrats: Retourbillett, Halbtax gilt, Kinder unter sechs gratis.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-05-0757-25",
@@ -91,7 +131,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Nach der Midterm-Niederlage könnte Trump zur Ablenkung den Iran-Krieg eskalieren, warnen Fachleute. Verständlich, andere Männer in dem Alter kaufen sich nach einer Trennung einen Porsche."
+      "text": "Nach der Midterm-Niederlage könnte Trump zur Ablenkung den Iran-Krieg eskalieren, warnen Fachleute. Verständlich, andere Männer in dem Alter kaufen sich nach einer Trennung einen Porsche.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-05-0757-26",
@@ -101,7 +146,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Stimmt, die Rüstungsindustrie leidet. Hoffentlich findet sie bald einen Krieg, der zu ihr passt."
+      "text": "Stimmt, die Rüstungsindustrie leidet. Hoffentlich findet sie bald einen Krieg, der zu ihr passt.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": false
+      }
     }
   ]
 }
