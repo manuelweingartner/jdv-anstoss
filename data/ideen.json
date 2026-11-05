@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-05",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -94,6 +94,36 @@
       }
     },
     {
+      "id": "2026-11-05-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mietkaution als Sicherheit gegen Mieter*innen, keine Sicherheit gegen den Vermieter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Mieter*innen hinterlegen drei Monatsmieten als Sicherheit, dass sie die Wohnung nicht ruinieren. Vom Vermieter verlangt niemand eine Sicherheit, dass er das nicht mit der Miete tut.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-05-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der CEOs, die nach Stellenabbau auf den Bonus verzichtet haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle CEOs, die nach einem Stellenabbau freiwillig auf ihren Bonus verzichtet haben:\n-\n-\nThat's it.",
+      "jury": {
+        "anker": false,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-11-05-0757-09",
       "typ": "politisch-aktuell",
       "stichwort": "Rentenalter rauf, weil alle länger leben, Gerüstbauer gegen Zürichberg",
@@ -109,17 +139,16 @@
       }
     },
     {
-      "id": "2026-11-05-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bergbahnen melden dank Hitzesommer mehr Gäste, der Hitzeschutzplan des Bundesrats ist damit ein Retourbillett",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Schweizer Bergbahnen melden dank Hitzesommer mehr Gäste denn je. Damit steht auch der Hitzeschutzplan des Bundesrats: Retourbillett, Halbtax gilt, Kinder unter sechs gratis.",
+      "id": "2026-11-05-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Schweizer Medienhäuser können nicht beziffern, was KI spart, die gestrichenen Stellen schon",
+      "plattform": "Instagram + Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Was KI spart, kann kein Schweizer Medienhaus beziffern. Die gestrichenen Stellen schon.",
       "jury": {
-        "anker": true,
-        "witz": true,
+        "anker": false,
         "neu": true
       }
     },
@@ -136,21 +165,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-11-05-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Abstimmung über Kriegsmaterial, Mitgefühl mit der leidenden Rüstungsindustrie wie bei der Partnersuche",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Stimmt, die Rüstungsindustrie leidet. Hoffentlich findet sie bald einen Krieg, der zu ihr passt.",
-      "jury": {
-        "anker": false,
-        "witz": true,
-        "neu": false
       }
     }
   ]
