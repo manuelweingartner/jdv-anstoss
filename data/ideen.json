@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-05",
-  "hinweis": "7 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -72,6 +72,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 1,
       "text": "Jung, digital, skrupellos: SRF findet in Basel eine Gen-Z-Mafia. Alt, männlich, skrupellos heisst Verwaltungsrat."
+    },
+    {
+      "id": "2026-11-05-0757-31",
+      "typ": "schnittmenge",
+      "stichwort": "Angst der Grossbank gegen Angst der Angestellten vor der KI: Milliardengarantie gegen Ratgeber mit Weiterbildungstipps",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Hatte eine Grossbank Angst, gab der Bund 259 Milliarden Garantien. Haben Angestellte Angst vor der KI, gibt es Tipps: weiterbilden, mitgestalten, sich einlassen."
+    },
+    {
+      "id": "2026-11-05-0757-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Self-Checkout-Kasse als unbezahltes Praktikum mit Taschenkontrolle, rhetorische Frage an die Migros",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Self-Checkout: Einkauf oder unbezahltes Praktikum mit Taschenkontrolle? Frage an die Migros."
     }
   ]
 }
