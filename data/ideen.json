@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-05",
-  "hinweis": "4 von 10 da, der Rest lädt noch.",
+  "hinweis": "7 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Sparen gegen Armut zu empfehlen ist wie Verdurstenden zu raten, weniger zu schwitzen."
+    },
+    {
+      "id": "2026-11-05-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bergbahnen melden dank Hitzesommer mehr Gäste, der Hitzeschutzplan des Bundesrats ist damit ein Retourbillett",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Schweizer Bergbahnen melden dank Hitzesommer mehr Gäste denn je. Damit steht auch der Hitzeschutzplan des Bundesrats: Retourbillett, Halbtax gilt, Kinder unter sechs gratis."
+    },
+    {
+      "id": "2026-11-05-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Erdöl treibt die Teuerung, gleicher Tag EU-Parlament weicht Verbrenner-Aus auf, Planungssicherheit für die Teuerung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Erdöl treibt die Schweizer Teuerung nach oben, und am selben Tag erlaubt das EU-Parlament neue Verbrenner auch nach 2035. Planungssicherheit für die Teuerung."
+    },
+    {
+      "id": "2026-11-05-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "SRF findet Gen-Z-Mafia in Basel, die alte, männliche Variante heisst Verwaltungsrat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Jung, digital, skrupellos: SRF findet in Basel eine Gen-Z-Mafia. Alt, männlich, skrupellos heisst Verwaltungsrat."
     }
   ]
 }
