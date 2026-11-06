@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-06",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-06-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Putin stellt nach Nestlé auch den Camel-Hersteller JTI unter Zwangsverwaltung, die Konzerne blieben aus Verantwortung, Putin übernimmt sie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Putin enteignet nach Nestlé jetzt auch den Camel-Hersteller. Westkonzerne so: wir bleiben, aus Verantwortung für die Menschen, Putin so: merci, die Verantwortung übernehm ich ab hier."
+    },
+    {
+      "id": "2026-11-06-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tech-Aktien brechen weltweit ein, gleiche Woche mehr arbeitslose Verkäufer*innen im Schweizer Detailhandel, Korrektur gegen Self-Checkout",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Tech-Aktien brechen weltweit ein, gleiche Woche melden Schweizer Läden mehr arbeitslose Verkäufer*innen. Bei den einen heisst es «Korrektur», bei den anderen «Self-Checkout»."
+    },
+    {
+      "id": "2026-11-06-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zürich prüft die kolonialen Büsten im Schulhaus Hirschengraben erneut, Rassismus als einziges Fach mit unbegrenzter Nachprüfung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Zürich prüft die rassistischen Büsten im Schulhaus Hirschengraben erneut. Einziges Fach mit unbegrenzter Nachprüfung."
+    },
     {
       "id": "2026-11-06-0757-31",
       "typ": "schnittmenge",
