@@ -11,17 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Putin enteignet nach Nestlé jetzt auch den Camel-Hersteller. Westkonzerne so: wir bleiben, aus Verantwortung für die Menschen, Putin so: merci, die Verantwortung übernehm ich ab hier."
-    },
-    {
-      "id": "2026-11-06-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Tech-Aktien brechen weltweit ein, gleiche Woche mehr arbeitslose Verkäufer*innen im Schweizer Detailhandel, Korrektur gegen Self-Checkout",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Tech-Aktien brechen weltweit ein, gleiche Woche melden Schweizer Läden mehr arbeitslose Verkäufer*innen. Bei den einen heisst es «Korrektur», bei den anderen «Self-Checkout»."
+      "text": "Putin enteignet nach Nestlé jetzt auch den Camel-Hersteller. Westkonzerne so: wir bleiben, aus Verantwortung für die Menschen, Putin so: merci, die Verantwortung übernehm ich ab hier.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-06-0757-03",
@@ -31,7 +26,72 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Zürich prüft die rassistischen Büsten im Schulhaus Hirschengraben erneut. Einziges Fach mit unbegrenzter Nachprüfung."
+      "text": "Zürich prüft die rassistischen Büsten im Schulhaus Hirschengraben erneut. Einziges Fach mit unbegrenzter Nachprüfung.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-06-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Paraguays Präsident tritt nach Bankencrash zurück, Rücktritt als Radikalität bestaunt, die Schweiz hätte fusioniert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Bankencrash in Paraguay, der Präsident tritt zurück. Ganz schön radikal, hier hätte man fusioniert.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-06-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf den Picasso im Genfer Zollfreilager: klimatisiert, bewacht, steuerfrei, nie besichtigt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so wohnen wie ein Picasso im Genfer Zollfreilager: klimatisiert, bewacht, steuerfrei und von niemandem je besichtigt.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-06-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Swatch erfindet für eine Uhrenkollektion einen 27. Kanton, noch ohne Einwohner*innen, aber mit dem Hauptsitz von Glencore",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Swatch erfindet für seine neue Kollektion einen 27. Kanton. Noch wohnt niemand dort, aber Glencore hat schon seinen Hauptsitz angemeldet.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-06-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Putin enteignet nach Nestlé auch den Camel-Hersteller JTI, Economiesuisse findet das schlimm, aber immerhin keine Erbschaftssteuer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Putin enteignet nach Nestlé auch den Camel-Hersteller. Economiesuisse so: schlimm, aber immerhin keine Erbschaftssteuer.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-06-0757-24",
@@ -41,17 +101,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Italien blockierte Asyl-Rückführungen aus der Schweiz und rief sogar bei Airlines an. Ein Land, das Geflüchtete einfach nicht will: keine Ahnung, wo die das gelernt haben."
-    },
-    {
-      "id": "2026-11-06-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rekordgeld in nachhaltigen Fonds, scheinbar zustimmende Frage, ob die Gletscher jetzt mit besserem Gewissen schmelzen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Noch nie lag in der Schweiz so viel Geld in nachhaltigen Fonds. Heisst das, die Gletscher schmelzen jetzt mit besserem Gewissen?"
+      "text": "Italien blockierte Asyl-Rückführungen aus der Schweiz und rief sogar bei Airlines an. Ein Land, das Geflüchtete einfach nicht will: keine Ahnung, wo die das gelernt haben.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-06-0757-26",
@@ -61,27 +116,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor Schulkindern. Zum Glück setzt Paris vor Schulen jetzt Tränengas ein."
-    },
-    {
-      "id": "2026-11-06-0757-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Firmen, die nach einem Rekordgewinn die Löhne um denselben Prozentsatz erhöht haben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Firmen, die nach einem Rekordgewinn die Löhne um denselben Prozentsatz erhöht haben:\n-\n-\nDas war's."
-    },
-    {
-      "id": "2026-11-06-0757-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neid auf die Nestlé-Dividende, die auch im Krisenjahr steigt, ohne Leistungsbeurteilung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so zuverlässig erhöht werden wie die Nestlé-Dividende, auch im Krisenjahr. Ohne Leistungsbeurteilung."
+      "text": "Habe Angst vor Schulkindern. Zum Glück setzt Paris vor Schulen jetzt Tränengas ein.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-06-0757-29",
@@ -91,17 +131,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "An der Self-Checkout-Kasse im Coop scannt die Kundschaft selbst, packt selbst und wird stichprobenweise kontrolliert. Wie eine Angestellte, nur dass sie dafür bezahlt."
+      "text": "An der Self-Checkout-Kasse im Coop scannt die Kundschaft selbst, packt selbst und wird stichprobenweise kontrolliert. Wie eine Angestellte, nur dass sie dafür bezahlt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-06-0757-30",
+      "id": "2026-11-06-0757-32",
       "typ": "politisch-aktuell",
-      "stichwort": "Enteignung für die Autobahn ist ein Verfahren, für leere Wohnungen Kommunismus, Frage an den Hauseigentümerverband",
+      "stichwort": "Fitnessabo-Falle (ein Klick zum Abschliessen, jedes Jahr teurer, kein Ausstieg) als Beschaffungsmodell des Bundes beim F-35",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wieso ist Enteignung für eine Autobahn ein Plangenehmigungsverfahren und für leere Wohnungen Kommunismus? Frage für den Hauseigentümerverband."
+      "format": 16,
+      "text": "Ein Fitnessabo schliesst man mit einem Klick ab, zahlt jedes Jahr mehr und kommt nie wieder raus. Beim Bund heisst dieses Modell F-35.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
