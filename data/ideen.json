@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-06",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Zürich prüft die rassistischen Büsten im Schulhaus Hirschengraben erneut. Einziges Fach mit unbegrenzter Nachprüfung."
+    },
+    {
+      "id": "2026-11-06-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Italien blockierte Asyl-Rückführungen aus der Schweiz, ratlose Empörung über ein Land, das Geflüchtete einfach nicht will",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Italien blockierte Asyl-Rückführungen aus der Schweiz und rief sogar bei Airlines an. Ein Land, das Geflüchtete einfach nicht will: keine Ahnung, wo die das gelernt haben."
+    },
+    {
+      "id": "2026-11-06-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rekordgeld in nachhaltigen Fonds, scheinbar zustimmende Frage, ob die Gletscher jetzt mit besserem Gewissen schmelzen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Noch nie lag in der Schweiz so viel Geld in nachhaltigen Fonds. Heisst das, die Gletscher schmelzen jetzt mit besserem Gewissen?"
+    },
+    {
+      "id": "2026-11-06-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Polizei setzt in Paris vor einer Schule Tränengas ein, gespielte Angst vor Schulkindern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor Schulkindern. Zum Glück setzt Paris vor Schulen jetzt Tränengas ein."
     },
     {
       "id": "2026-11-06-0757-31",
