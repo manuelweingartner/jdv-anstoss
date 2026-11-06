@@ -1,51 +1,49 @@
 {
-  "stand": "2026-11-05T17:00:35+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-06T09:25:39+01:00",
+  "lauf": "0925",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "«Knockin' on Heaven's Door» – Himmel und Hoodie: Warum war Bob Dylan beim Papst?",
-      "was": "Bob Dylan im Hoodie neben dem lächelnden Papst im Vatikan",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: strenge Kleiderordnung für gewöhnliche Besucher im Petersdom gegen den Hoodie-Freipass für Weltstars.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "SRF",
-      "auch_bei": [
-        "taz"
-      ],
-      "artikel": "https://www.srf.ch/radio-srf-3/musik/knockin-on-heaven-s-door-himmel-und-hoodie-warum-war-bob-dylan-beim-papst",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_radio_srf_3/5a37c56.jpg",
-      "zeit": "2026-11-05T15:30+01:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Midterms: Donald Trump will, dass Dan Sullivan Dan Sullivans Stimmen bekommt",
-      "was": "Trump gestikulierend am Rednerpult, wütend über die Auszählung in Alaska",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: wer seit Jahren Wahlbetrug anprangert, verlangt jetzt selbst, die Stimmen umzuverteilen.",
+      "id": "0925-1",
+      "titel": "Midterms in den USA: Marco Rubio dementiert Rücktrittsgerüchte",
+      "was": "Marco Rubio am Rednerpult, betont gelassen lächelnd vor Pressevertretern",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: demonstrative Liebe zum Job gegen die Rücktrittsgerüchte nach der Wahlschlappe.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
-        "NZZ",
-        "SRF",
-        "taz"
+        "SRF"
       ],
-      "artikel": "https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt-a-897769e2-3177-425a-abcf-5e6fe6d3cd02#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/0fce08f6-3217-4d6c-95f7-6d51d274d8f5_w520_r2.08_fpx49.33_fpy49.99.jpg",
-      "zeit": "2026-11-05T16:55+01:00"
+      "artikel": "https://www.spiegel.de/ausland/midterms-in-den-usa-marco-rubio-dementiert-ruecktrittsgeruechte-a-88b35829-6190-4c86-b088-217b9bba2bb0#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/23b92a98-14f6-43c6-ae97-ab897d7de5a4_w520_r2.08_fpx34.35_fpy50.98.jpg",
+      "zeit": "2026-11-06T07:16+01:00"
     },
     {
-      "id": "1700-3",
-      "titel": "4. Amtszeit für Infantino? – Asien für Infantino – offizielle Gegenkandidatur aus Japan",
-      "was": "Infantino lächelnd mit erhobenen Armen auf einem Fifa-Kongress",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: eine vierte Amtszeit heisst bei der Fifa Kontinuität und überall sonst Machterhalt auf Lebenszeit.",
-      "grund": "memetauglich",
+      "id": "0925-2",
+      "titel": "Vertreter der Ukraine und Russlands danken Melania für Waffenruhe",
+      "was": "Melania Trump empfängt Putins Gesandten im Weissen Haus, Händedruck",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: höflicher Dank an die First Lady für den Frieden, während die Angriffe weiterlaufen.",
+      "grund": "breit",
       "raum": "weltweit",
-      "quelle": "SRF",
+      "quelle": "20 Minuten",
+      "auch_bei": [
+        "Tagesschau"
+      ],
+      "artikel": "https://www.20min.ch/video/treffen-im-weissen-haus-vertreter-der-ukraine-und-russlands-danken-melania-fuer-waffenruhe-103663010",
+      "bild": "https://image.20min.ch/2026/11/05/010e4e6c-eeef-4d26-835a-4d121683b484.jpg?s=6638000dca464073661f3e494eeac527",
+      "zeit": "2026-11-05T20:16+01:00"
+    },
+    {
+      "id": "0925-3",
+      "titel": "Prinz William und Prinz George nehmen Linienflug nach Spanien",
+      "was": "Prinz William und Prinz George sitzen in einem gewöhnlichen Linienflugzeug",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein Linienflug als königliche Bescheidenheit gegen den ganz normalen Alltag aller anderen Passagiere.",
+      "grund": "memetauglich",
+      "raum": "",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/sport/fussball/fussball-allgemein/4-amtszeit-fuer-infantino-asien-fuer-infantino-offizielle-gegenkandidatur-aus-japan",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/212c64.jpg",
-      "zeit": "2026-11-05T14:56+01:00"
+      "artikel": "https://www.20min.ch/story/champions-league-partie-prinz-william-und-prinz-george-nehmen-linienflug-nach-spanien-103663064",
+      "bild": "https://image.20min.ch/2026/11/05/1d8ff236-68c7-4158-9f2b-70e5dabed969.png?s=8025ea013a49470cee980f9878097521",
+      "zeit": "2026-11-06T00:41+01:00"
     }
   ],
   "erwartet": [],
