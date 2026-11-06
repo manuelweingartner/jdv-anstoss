@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-06",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -34,6 +34,46 @@
       "text": "Stimmt, Wetten auf Schweizer Abstimmungen gehören verboten. Wer am Resultat verdienen will, soll vorher anständig die Kampagne kaufen."
     },
     {
+      "id": "2026-11-06-1339-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Betreibungsregister für die vergessene Handyrechnung, neue GmbH am Montag für den gefahrenen Konkurs",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Handyrechnung vergessen: Betreibungsregister, Absage bei jeder Wohnung. Aktiengesellschaft in den Konkurs gefahren: neue GmbH am Montag, gleiche Adresse, gleicher Porsche."
+    },
+    {
+      "id": "2026-11-06-1339-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Firmen, die dank E-Mail, Excel und KI die Arbeitswoche verkürzt haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Alle Firmen, die dank E-Mail, Excel und KI die Arbeitswoche verkürzt haben, hier in einer Liste:\n-\n-\nDafür gibt es Teams jetzt auch auf dem Handy."
+    },
+    {
+      "id": "2026-11-06-1339-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lohn an der Coop-Kasse voll versteuert, Gewinn aus Nestlé-Aktien steuerfrei, Frage an die Partei der Leistung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, wer an der Coop-Kasse sitzt, versteuert jeden Franken, und wer Nestlé-Aktien verkauft, den Gewinn gar nicht? Frage für die Partei der Leistung."
+    },
+    {
+      "id": "2026-11-06-1339-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Eigentum verpflichtet, per Dauerauftrag die Mieter*innen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Eigentum verpflichtet. Zuverlässig, jeden Monat, per Dauerauftrag, die Mieter*innen, die es abbezahlen."
+    },
+    {
       "id": "2026-11-06-1339-11",
       "typ": "schnittmenge",
       "stichwort": "Swiss-Flug kehrt wegen «aussergewöhnlichem Geruch» um, am Paradeplatz ist derselbe Geruch ein Standortvorteil",
@@ -62,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "In Lyon streiken Zehntausende für mehr Kaufkraft und kriegen Tränengas. Am selben Tag knackt der SMI erstmals 15'000 Punkte, ganz ohne Demo."
-    },
-    {
-      "id": "2026-11-06-1339-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Demokrat*innen gewinnen die Midterms, Tech-Aktien brechen weltweit ein, die Demokratie ist ratlos, weil sie bloss funktioniert hat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Demokrat*innen gewinnen die Midterms, Tech-Aktien so: Panik, Ausverkauf, Börsen weltweit im Keller. Demokratie so: hab doch nur funktioniert?"
-    },
-    {
-      "id": "2026-11-06-1339-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rekordsumme in nachhaltigen Fonds, die Gletscher sind schwer beeindruckt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Noch nie lag so viel Schweizer Geld in nachhaltigen Fonds. Die Gletscher sind schwer beeindruckt."
     }
   ]
 }
