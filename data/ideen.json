@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-06",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Stimmt, Wetten auf Schweizer Abstimmungen gehören verboten. Wer am Resultat verdienen will, soll vorher anständig die Kampagne kaufen."
+    },
+    {
+      "id": "2026-11-06-1339-11",
+      "typ": "schnittmenge",
+      "stichwort": "Swiss-Flug kehrt wegen «aussergewöhnlichem Geruch» um, am Paradeplatz ist derselbe Geruch ein Standortvorteil",
+      "plattform": "Instagram + Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Ein Swiss-Flug nach Paris kehrt wegen eines «aussergewöhnlichen Geruchs» um. Am Paradeplatz gilt ein aussergewöhnlicher Geruch als Standortvorteil. Seit 1934. Gesetzlich geschützt."
+    },
+    {
+      "id": "2026-11-06-1339-12",
+      "typ": "politisch-aktuell",
+      "stichwort": "Weniger drin zum gleichen Preis: bei Chips eine Mogelpackung, beim Lohn eine Nullrunde",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Weniger drin, gleicher Preis: bei Chips heisst das Mogelpackung. Beim Lohn heisst es Nullrunde."
     }
   ]
 }
