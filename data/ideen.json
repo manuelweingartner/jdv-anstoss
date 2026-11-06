@@ -1,157 +1,37 @@
 {
   "datum": "2026-11-06",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
-  "fertig": true,
+  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-06-0757-01",
+      "id": "2026-11-06-1339-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Putin stellt nach Nestlé auch den Camel-Hersteller JTI unter Zwangsverwaltung, die Konzerne blieben aus Verantwortung, Putin übernimmt sie",
+      "stichwort": "Bangladesch erhöht nach Protesten den Mindestlohn für Textilarbeiter*innen, gleiche Woche meldet die UBS kaum steigende Schweizer Löhne, ratlos, wer hier das Billiglohnland ist",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Bangladesch erhöht nach Protesten die Mindestlöhne, gleiche Woche meldet die UBS, dass Schweizer Löhne kaum steigen. Schwer zu sagen, wer hier das Billiglohnland ist."
+    },
+    {
+      "id": "2026-11-06-1339-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Republikaner debattieren nach der Midterm-Niederlage über eine Zukunft ohne Trump, gespielte Angst, dass sie dann wieder wählbar aussehen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Putin enteignet nach Nestlé jetzt auch den Camel-Hersteller. Westkonzerne so: wir bleiben, aus Verantwortung für die Menschen, Putin so: merci, die Verantwortung übernehm ich ab hier.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
+      "text": "Habe Angst vor Republikanern ohne Trump. Die sehen dann womöglich wieder wählbar aus."
     },
     {
-      "id": "2026-11-06-0757-03",
+      "id": "2026-11-06-1339-06",
       "typ": "politisch-aktuell",
-      "stichwort": "Zürich prüft die kolonialen Büsten im Schulhaus Hirschengraben erneut, Rassismus als einziges Fach mit unbegrenzter Nachprüfung",
+      "stichwort": "Prognosemärkte: Wetten auf Schweizer Abstimmungen sind gesperrt, Zustimmung zum Verbot, wer am Resultat verdienen will, soll anständig die Kampagne kaufen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Zürich prüft die rassistischen Büsten im Schulhaus Hirschengraben erneut. Einziges Fach mit unbegrenzter Nachprüfung.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-06-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Paraguays Präsident tritt nach Bankencrash zurück, Rücktritt als Radikalität bestaunt, die Schweiz hätte fusioniert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Bankencrash in Paraguay, der Präsident tritt zurück. Ganz schön radikal, hier hätte man fusioniert.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-06-0757-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neid auf den Picasso im Genfer Zollfreilager: klimatisiert, bewacht, steuerfrei, nie besichtigt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so wohnen wie ein Picasso im Genfer Zollfreilager: klimatisiert, bewacht, steuerfrei und von niemandem je besichtigt.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-06-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Swatch erfindet für eine Uhrenkollektion einen 27. Kanton, noch ohne Einwohner*innen, aber mit dem Hauptsitz von Glencore",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Swatch erfindet für seine neue Kollektion einen 27. Kanton. Noch wohnt niemand dort, aber Glencore hat schon seinen Hauptsitz angemeldet.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-06-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Putin enteignet nach Nestlé auch den Camel-Hersteller JTI, Economiesuisse findet das schlimm, aber immerhin keine Erbschaftssteuer",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Putin enteignet nach Nestlé auch den Camel-Hersteller. Economiesuisse so: schlimm, aber immerhin keine Erbschaftssteuer.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-06-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Italien blockierte Asyl-Rückführungen aus der Schweiz, ratlose Empörung über ein Land, das Geflüchtete einfach nicht will",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Italien blockierte Asyl-Rückführungen aus der Schweiz und rief sogar bei Airlines an. Ein Land, das Geflüchtete einfach nicht will: keine Ahnung, wo die das gelernt haben.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-06-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Polizei setzt in Paris vor einer Schule Tränengas ein, gespielte Angst vor Schulkindern",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor Schulkindern. Zum Glück setzt Paris vor Schulen jetzt Tränengas ein.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-06-0757-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Self-Checkout im Coop: Kundschaft scannt, packt, wird kontrolliert wie eine Angestellte und bezahlt dafür",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "An der Self-Checkout-Kasse im Coop scannt die Kundschaft selbst, packt selbst und wird stichprobenweise kontrolliert. Wie eine Angestellte, nur dass sie dafür bezahlt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-06-0757-32",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fitnessabo-Falle (ein Klick zum Abschliessen, jedes Jahr teurer, kein Ausstieg) als Beschaffungsmodell des Bundes beim F-35",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Ein Fitnessabo schliesst man mit einem Klick ab, zahlt jedes Jahr mehr und kommt nie wieder raus. Beim Bund heisst dieses Modell F-35.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Stimmt, Wetten auf Schweizer Abstimmungen gehören verboten. Wer am Resultat verdienen will, soll vorher anständig die Kampagne kaufen."
     }
   ]
 }
