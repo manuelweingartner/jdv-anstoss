@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-06",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "evergreen",
       "format": 3,
       "text": "Weniger drin, gleicher Preis: bei Chips heisst das Mogelpackung. Beim Lohn heisst es Nullrunde."
+    },
+    {
+      "id": "2026-11-06-1339-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lyon: Zehntausende streiken für mehr Kaufkraft und bekommen Tränengas, am selben Tag knackt der SMI erstmals 15'000 Punkte, ganz ohne Demo",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "In Lyon streiken Zehntausende für mehr Kaufkraft und kriegen Tränengas. Am selben Tag knackt der SMI erstmals 15'000 Punkte, ganz ohne Demo."
+    },
+    {
+      "id": "2026-11-06-1339-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Demokrat*innen gewinnen die Midterms, Tech-Aktien brechen weltweit ein, die Demokratie ist ratlos, weil sie bloss funktioniert hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Demokrat*innen gewinnen die Midterms, Tech-Aktien so: Panik, Ausverkauf, Börsen weltweit im Keller. Demokratie so: hab doch nur funktioniert?"
+    },
+    {
+      "id": "2026-11-06-1339-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rekordsumme in nachhaltigen Fonds, die Gletscher sind schwer beeindruckt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Noch nie lag so viel Schweizer Geld in nachhaltigen Fonds. Die Gletscher sind schwer beeindruckt."
     }
   ]
 }
