@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-06",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -64,24 +64,44 @@
       "text": "Habe Angst vor Schulkindern. Zum Glück setzt Paris vor Schulen jetzt Tränengas ein."
     },
     {
-      "id": "2026-11-06-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "Handwerker finden in Zürich keinen Parkplatz und das heisst Not, Familien finden keine Wohnung und das heisst Nachfrage",
-      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
+      "id": "2026-11-06-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Firmen, die nach einem Rekordgewinn die Löhne um denselben Prozentsatz erhöht haben",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Findet in Zürich ein Lieferwagen keinen Platz, sprechen alle von «Parkplatz-Not». Findet eine Familie keinen, von «hoher Nachfrage»."
+      "format": "frei",
+      "text": "Hier alle Firmen, die nach einem Rekordgewinn die Löhne um denselben Prozentsatz erhöht haben:\n-\n-\nDas war's."
     },
     {
-      "id": "2026-11-06-0757-32",
+      "id": "2026-11-06-0757-28",
       "typ": "politisch-aktuell",
-      "stichwort": "Fitnessabo-Falle (ein Klick zum Abschliessen, jedes Jahr teurer, kein Ausstieg) als Beschaffungsmodell des Bundes beim F-35",
+      "stichwort": "Neid auf die Nestlé-Dividende, die auch im Krisenjahr steigt, ohne Leistungsbeurteilung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so zuverlässig erhöht werden wie die Nestlé-Dividende, auch im Krisenjahr. Ohne Leistungsbeurteilung."
+    },
+    {
+      "id": "2026-11-06-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Self-Checkout im Coop: Kundschaft scannt, packt, wird kontrolliert wie eine Angestellte und bezahlt dafür",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Ein Fitnessabo schliesst man mit einem Klick ab, zahlt jedes Jahr mehr und kommt nie wieder raus. Beim Bund heisst dieses Modell F-35."
+      "text": "An der Self-Checkout-Kasse im Coop scannt die Kundschaft selbst, packt selbst und wird stichprobenweise kontrolliert. Wie eine Angestellte, nur dass sie dafür bezahlt."
+    },
+    {
+      "id": "2026-11-06-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Enteignung für die Autobahn ist ein Verfahren, für leere Wohnungen Kommunismus, Frage an den Hauseigentümerverband",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wieso ist Enteignung für eine Autobahn ein Plangenehmigungsverfahren und für leere Wohnungen Kommunismus? Frage für den Hauseigentümerverband."
     }
   ]
 }
