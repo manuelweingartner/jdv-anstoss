@@ -4,14 +4,34 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-11-06-1339-04",
+      "id": "2026-11-06-1339-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Bangladesch erhöht nach Protesten den Mindestlohn für Textilarbeiter*innen, gleiche Woche meldet die UBS kaum steigende Schweizer Löhne, ratlos, wer hier das Billiglohnland ist",
+      "stichwort": "Designierter Rieter-CEO tritt wegen Bonus-Streit gar nicht erst an, endlich streikt in der Schweiz mal jemand, natürlich der Chef",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Bangladesch erhöht nach Protesten die Mindestlöhne, gleiche Woche meldet die UBS, dass Schweizer Löhne kaum steigen. Schwer zu sagen, wer hier das Billiglohnland ist."
+      "text": "Beim Textilmaschinenhersteller Rieter tritt der designierte CEO gar nicht erst an, wegen Streit um den Bonus. Endlich streikt in der Schweiz mal jemand, natürlich der Chef.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-06-1339-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tech-Aktien brechen nach dem Wahlsieg der Demokraten ein, Demokratie als Klumpenrisiko",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Tech-Aktien brechen ein, weil die Demokraten gewonnen haben. Demokratie ist halt ein Klumpenrisiko.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-06-1339-05",
@@ -21,7 +41,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor Republikanern ohne Trump. Die sehen dann womöglich wieder wählbar aus."
+      "text": "Habe Angst vor Republikanern ohne Trump. Die sehen dann womöglich wieder wählbar aus.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-06-1339-06",
@@ -31,17 +56,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, Wetten auf Schweizer Abstimmungen gehören verboten. Wer am Resultat verdienen will, soll vorher anständig die Kampagne kaufen."
-    },
-    {
-      "id": "2026-11-06-1339-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Betreibungsregister für die vergessene Handyrechnung, neue GmbH am Montag für den gefahrenen Konkurs",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Handyrechnung vergessen: Betreibungsregister, Absage bei jeder Wohnung. Aktiengesellschaft in den Konkurs gefahren: neue GmbH am Montag, gleiche Adresse, gleicher Porsche."
+      "text": "Stimmt, Wetten auf Schweizer Abstimmungen gehören verboten. Wer am Resultat verdienen will, soll vorher anständig die Kampagne kaufen.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-06-1339-08",
@@ -51,17 +71,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Alle Firmen, die dank E-Mail, Excel und KI die Arbeitswoche verkürzt haben, hier in einer Liste:\n-\n-\nDafür gibt es Teams jetzt auch auf dem Handy."
-    },
-    {
-      "id": "2026-11-06-1339-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lohn an der Coop-Kasse voll versteuert, Gewinn aus Nestlé-Aktien steuerfrei, Frage an die Partei der Leistung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seh ich das richtig, wer an der Coop-Kasse sitzt, versteuert jeden Franken, und wer Nestlé-Aktien verkauft, den Gewinn gar nicht? Frage für die Partei der Leistung."
+      "text": "Alle Firmen, die dank E-Mail, Excel und KI die Arbeitswoche verkürzt haben, hier in einer Liste:\n-\n-\nDafür gibt es Teams jetzt auch auf dem Handy.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-06-1339-10",
@@ -71,7 +86,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 17,
-      "text": "Eigentum verpflichtet. Zuverlässig, jeden Monat, per Dauerauftrag, die Mieter*innen, die es abbezahlen."
+      "text": "Eigentum verpflichtet. Zuverlässig, jeden Monat, per Dauerauftrag, die Mieter*innen, die es abbezahlen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-06-1339-11",
@@ -81,27 +101,57 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Ein Swiss-Flug nach Paris kehrt wegen eines «aussergewöhnlichen Geruchs» um. Am Paradeplatz gilt ein aussergewöhnlicher Geruch als Standortvorteil. Seit 1934. Gesetzlich geschützt."
+      "text": "Ein Swiss-Flug nach Paris kehrt wegen eines «aussergewöhnlichen Geruchs» um. Am Paradeplatz gilt ein aussergewöhnlicher Geruch als Standortvorteil. Seit 1934. Gesetzlich geschützt.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-06-1339-12",
+      "id": "2026-11-06-1339-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Weniger drin zum gleichen Preis: bei Chips eine Mogelpackung, beim Lohn eine Nullrunde",
+      "stichwort": "Rekordsumme in nachhaltigen Fonds, die Gletscher sind schwer beeindruckt",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Weniger drin, gleicher Preis: bei Chips heisst das Mogelpackung. Beim Lohn heisst es Nullrunde."
+      "format": "frei",
+      "text": "Noch nie lag so viel Schweizer Geld in nachhaltigen Fonds. Die Gletscher sind schwer beeindruckt.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-06-1339-21",
+      "id": "2026-11-06-1339-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Lyon: Zehntausende streiken für mehr Kaufkraft und bekommen Tränengas, am selben Tag knackt der SMI erstmals 15'000 Punkte, ganz ohne Demo",
+      "stichwort": "Republikaner debattieren nach der Midterm-Niederlage über eine Zukunft ohne Trump, ratlose Frage, wer das bei einem 80-Jährigen hätte ahnen können",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "In Lyon streiken Zehntausende für mehr Kaufkraft und kriegen Tränengas. Am selben Tag knackt der SMI erstmals 15'000 Punkte, ganz ohne Demo."
+      "format": "frei",
+      "text": "Republikaner debattieren nach der Midterm-Niederlage über eine Zukunft ohne Trump. Wer hätte bei einem 80-Jährigen auch ahnen können, dass die irgendwann kommt? Ausser jeder Sterbetafel.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
+    },
+    {
+      "id": "2026-11-06-1339-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Russell Brand wegen Vergewaltigung verurteilt, gespielte Angst vor Cancel Culture",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor Cancel Culture. Russell Brand wurde schon wegen einer Vergewaltigung verurteilt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     }
   ]
 }
