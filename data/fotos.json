@@ -1,49 +1,49 @@
 {
-  "stand": "2026-11-06T09:25:39+01:00",
-  "lauf": "0925",
+  "stand": "2026-11-06T17:00:35+01:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0925-1",
-      "titel": "Midterms in den USA: Marco Rubio dementiert Rücktrittsgerüchte",
-      "was": "Marco Rubio am Rednerpult, betont gelassen lächelnd vor Pressevertretern",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: demonstrative Liebe zum Job gegen die Rücktrittsgerüchte nach der Wahlschlappe.",
+      "id": "1700-1",
+      "titel": "Nach Midterms-Debakel – Vizepräsident J.D. Vance übt scharfe Kritik an Trump-Regierung",
+      "was": "J.D. Vance mit ernster Miene am Rednerpult vor US-Flaggen",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: scharfe Kritik an einer Regierung, in der er selbst die Nummer zwei ist.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "SRF",
+      "auch_bei": [
+        "Spiegel"
+      ],
+      "artikel": "https://www.srf.ch/news/international/usa/nach-midterms-debakel-vizepraesident-j-d-vance-uebt-scharfe-kritik-an-trump-regierung",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/c8d438.jpg",
+      "zeit": "2026-11-06T05:44+01:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Ukraine-Krieg: Friedrich Merz telefoniert mit Donald Trump, Kreml dämpft Erwartungen nach Ukraine-Ankündigung",
+      "was": "Friedrich Merz im Kanzleramt mit Telefonhörer am Ohr",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Europa führt Gespräche über die Ukraine, darf am Verhandlungstisch aber nur zuhören.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
-        "SRF"
+        "NZZ"
       ],
-      "artikel": "https://www.spiegel.de/ausland/midterms-in-den-usa-marco-rubio-dementiert-ruecktrittsgeruechte-a-88b35829-6190-4c86-b088-217b9bba2bb0#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/23b92a98-14f6-43c6-ae97-ab897d7de5a4_w520_r2.08_fpx34.35_fpy50.98.jpg",
-      "zeit": "2026-11-06T07:16+01:00"
+      "artikel": "https://www.spiegel.de/ausland/ukrainekrieg-russland-will-ordnung-in-europa-mitbestimmen-und-sieht-wenig-bereitschaft-a-dfcd9c16-4324-4952-bed1-ca8cd4983a46#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/e73ac161-15fb-4d93-820d-0c99550be8eb_w520_r2.08_fpx52_fpy46.jpg",
+      "zeit": "2026-11-06T15:23+01:00"
     },
     {
-      "id": "0925-2",
-      "titel": "Vertreter der Ukraine und Russlands danken Melania für Waffenruhe",
-      "was": "Melania Trump empfängt Putins Gesandten im Weissen Haus, Händedruck",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: höflicher Dank an die First Lady für den Frieden, während die Angriffe weiterlaufen.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "20 Minuten",
-      "auch_bei": [
-        "Tagesschau"
-      ],
-      "artikel": "https://www.20min.ch/video/treffen-im-weissen-haus-vertreter-der-ukraine-und-russlands-danken-melania-fuer-waffenruhe-103663010",
-      "bild": "https://image.20min.ch/2026/11/05/010e4e6c-eeef-4d26-835a-4d121683b484.jpg?s=6638000dca464073661f3e494eeac527",
-      "zeit": "2026-11-05T20:16+01:00"
-    },
-    {
-      "id": "0925-3",
-      "titel": "Prinz William und Prinz George nehmen Linienflug nach Spanien",
-      "was": "Prinz William und Prinz George sitzen in einem gewöhnlichen Linienflugzeug",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein Linienflug als königliche Bescheidenheit gegen den ganz normalen Alltag aller anderen Passagiere.",
+      "id": "1700-3",
+      "titel": "Dank Überschuss: Baar ZG schenkt allen Einwohnern 100 Franken",
+      "was": "Gemeindepräsident von Baar hält lächelnd einen 100-Franken-Gutschein hoch",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: grosszügige Geste an die eigenen Leute gegen das Steuersubstrat, das Zug dem Rest der Schweiz abgräbt.",
       "grund": "memetauglich",
-      "raum": "",
+      "raum": "schweiz",
       "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/champions-league-partie-prinz-william-und-prinz-george-nehmen-linienflug-nach-spanien-103663064",
-      "bild": "https://image.20min.ch/2026/11/05/1d8ff236-68c7-4158-9f2b-70e5dabed969.png?s=8025ea013a49470cee980f9878097521",
-      "zeit": "2026-11-06T00:41+01:00"
+      "artikel": "https://www.20min.ch/story/555-millionen-franken-dank-ueberschuss-baar-schenkt-allen-einwohnern-100-franken-103663304",
+      "bild": "https://image.20min.ch/2026/11/06/2397a783-236f-402a-9599-f3835cf3e822.jpg?s=67fdfb2404abde3b00f7b8bff1f04bd3",
+      "zeit": "2026-11-06T14:58+01:00"
     }
   ],
   "erwartet": [],
