@@ -1,8 +1,23 @@
 {
   "datum": "2026-11-06",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-11-06-1339-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "SMI knackt erstmals 15'000 Punkte, in derselben Woche streiken in Lyon Zehntausende für mehr Lohn, die Schweizer Lohnerhöhung heisst Dividende",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Der SMI knackt erstmals 15'000 Punkte, in derselben Woche streiken in Lyon Zehntausende für mehr Lohn. Die Schweizer Lohnerhöhung heisst Dividende, ausbezahlt an die anderen.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": false
+      }
+    },
     {
       "id": "2026-11-06-1339-02",
       "typ": "politisch-aktuell",
@@ -34,21 +49,6 @@
       }
     },
     {
-      "id": "2026-11-06-1339-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Republikaner debattieren nach der Midterm-Niederlage über eine Zukunft ohne Trump, gespielte Angst, dass sie dann wieder wählbar aussehen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor Republikanern ohne Trump. Die sehen dann womöglich wieder wählbar aus.",
-      "jury": {
-        "anker": false,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-11-06-1339-06",
       "typ": "politisch-aktuell",
       "stichwort": "Prognosemärkte: Wetten auf Schweizer Abstimmungen sind gesperrt, Zustimmung zum Verbot, wer am Resultat verdienen will, soll anständig die Kampagne kaufen",
@@ -61,21 +61,6 @@
         "anker": false,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-11-06-1339-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Firmen, die dank E-Mail, Excel und KI die Arbeitswoche verkürzt haben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Alle Firmen, die dank E-Mail, Excel und KI die Arbeitswoche verkürzt haben, hier in einer Liste:\n-\n-\nDafür gibt es Teams jetzt auch auf dem Handy.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
       }
     },
     {
@@ -136,21 +121,6 @@
         "anker": true,
         "neu": true,
         "witz": false
-      }
-    },
-    {
-      "id": "2026-11-06-1339-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Russell Brand wegen Vergewaltigung verurteilt, gespielte Angst vor Cancel Culture",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor Cancel Culture. Russell Brand wurde schon wegen einer Vergewaltigung verurteilt.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
       }
     }
   ]
