@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-07",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -64,6 +64,36 @@
       "text": "Gleicher Preis, weniger drin: bei Toblerone heisst das Shrinkflation, bei der Rente Reform."
     },
     {
+      "id": "2026-11-07-2325-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leitender Arzt mit 20'000 Franken Lohn findet kein Eigenheim, gleiche Woche nistet sich in Genf ein Brotkäfer im Naturhistorischen Museum ein und ist nicht mehr rauszukriegen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ein Arzt mit 20'000 Franken Lohn findet kein Eigenheim. Gleiche Woche zieht in Genf ein Brotkäfer ins Naturhistorische Museum, und niemand kriegt ihn mehr raus."
+    },
+    {
+      "id": "2026-11-07-2325-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Benjamin Raue, Schauspieler mit Down-Syndrom im Schweizer Tatort, will James Bond spielen, zu unrealistisch für alle, die an unverwundbare Briten mit Martini glauben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Benjamin Raue, Schauspieler mit Down-Syndrom, will nach dem Schweizer «Tatort» James Bond spielen. Zu unrealistisch, finden Leute, die an unverwundbare Briten mit Martini glauben."
+    },
+    {
+      "id": "2026-11-07-2325-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Economiesuisse-Präsident leidet, wenn Uni-Abgänger*innen keinen Job finden, fast so sehr wie beim Mindestlohn",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Economiesuisse leidet, wenn Uni-Abgänger*innen keinen Job finden. Fast so sehr wie beim Mindestlohn."
+    },
+    {
       "id": "2026-11-07-2325-24",
       "typ": "politisch-aktuell",
       "stichwort": "Trump will UFC-Chef Dana White als Pressesprecher, scheinbares Verständnis: die Journalist*innen fragen ja auch brutal, nach Fakten",
@@ -72,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Trump will den Chef der Käfigkampf-Liga UFC als Pressesprecher. Nachvollziehbar, die Journalist*innen im Weissen Haus fragen zuletzt wirklich brutal. Nach Fakten."
-    },
-    {
-      "id": "2026-11-07-2325-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump nennt die Angriffe auf den Südiran «kleine Schläge», gespielte Zustimmung zum Friedenspräsidenten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, Trump beendet Kriege. Den Iran bombardiert er ja nur noch klein."
-    },
-    {
-      "id": "2026-11-07-2325-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor Einwanderern, die das Land wegnehmen, ernst genommen: der Südafrikaner Musk will Texas kaufen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe solche Angst vor Einwanderern, die uns das Land wegnehmen. Und jetzt will der Südafrikaner Elon Musk auch noch Texas kaufen, am Stück."
     }
   ]
 }
