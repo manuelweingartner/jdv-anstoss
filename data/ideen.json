@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-07",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -12,6 +12,21 @@
       "haltbarkeit": "tagesgebunden",
       "format": 17,
       "text": "Dank direkter Demokratie hat die Schweiz eine tiefe Mehrwertsteuer, das Volk hat das letzte Wort. Beim Mietvertrag auch: «Wo muss ich unterschreiben?»",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-07-2325-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neuer Economiesuisse-Präsident findet es schmerzhaft, dass gut ausgebildete Junge keinen Job finden, und beklagt im selben Atemzug den Fachkräftemangel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Gut ausgebildete Junge finden keinen Job. Economiesuisse so: tut weh, schlimm, dieser Fachkräftemangel.",
       "jury": {
         "anker": true,
         "witz": false,
@@ -31,21 +46,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-11-07-2325-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "USA nennen Bomben auf Iran «kleine Schläge», am selben Tag soll der Käfigkampf-Chef Dana White Pressesprecher werden, Angst vor gewaltbereiten Linken",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seh ich das richtig, die USA nennen Bomben auf Iran «kleine Schläge», am selben Tag wird ein Käfigkampf-Chef Pressesprecher, und gewaltbereit sind die Linken? Mit ihren Lastenvelos.",
-      "jury": {
-        "witz": true,
-        "neu": false,
-        "anker": true
       }
     },
     {
