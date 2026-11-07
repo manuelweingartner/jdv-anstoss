@@ -4,6 +4,36 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-11-07-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump Media stürzt nach der Midterm-Niederlage ab, die erste Massenflucht, die Trump wirklich stört",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Anleger flüchten nach den Midterms aus Trump Media. Endlich eine Massenflucht, die ihn ehrlich stört.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-07-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "SRF testet die Grenzen der Toleranz an Schuhen und Kommas, in derselben Nacht ballistische Raketen auf Kiew",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "SRF testet, wo unsere Toleranz aufhört. Schweiz so: Schuhe in der Wohnung, niemals, fehlendes Komma, Grenze, ballistische Raketen auf Kiew, hm, schwierig, wir sind neutral.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-11-07-0757-04",
       "typ": "politisch-aktuell",
       "stichwort": "Grösster Masernausbruch in den USA seit 1991, scheinbare Zustimmung zum Impf-Zweifel: erst mal abwarten, die Studie läuft ja schon",
@@ -11,17 +41,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Vielleicht sollten wir bei Masern erst mal abwarten, ob die Impfung wirklich nötig ist. Die USA machen gerade die Studie dazu, 5'182 Teilnehmende, erste Ergebnisse aus Wisconsin."
-    },
-    {
-      "id": "2026-11-07-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "KOF-Studie: Lohn ist nicht alles, Homeoffice zählt auch; am selben Tag sind Grosseltern vom Gratis-Enkelhüten am Limit, ratlos: wohl zu wenig Homeoffice",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Lohn ist laut KOF-Studie nicht alles, Homeoffice zählt auch. Am selben Tag sind Schweizer Grosseltern vom Gratis-Enkelhüten fix und fertig. Liegt wohl am fehlenden Homeoffice."
+      "text": "Vielleicht sollten wir bei Masern erst mal abwarten, ob die Impfung wirklich nötig ist. Die USA machen gerade die Studie dazu, 5'182 Teilnehmende, erste Ergebnisse aus Wisconsin.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-07-0757-06",
@@ -31,7 +56,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Abschiebe-Hardliner Stephen Miller wird Trumps Stabschef. Wieder ein Einwanderer-Urenkel, der Amerikanern die Jobs wegnimmt."
+      "text": "Abschiebe-Hardliner Stephen Miller wird Trumps Stabschef. Wieder ein Einwanderer-Urenkel, der Amerikanern die Jobs wegnimmt.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-07-0757-07",
@@ -41,37 +71,27 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Hier alle, die auf dem Sterbebett bereuten, zu wenig Überstunden gemacht zu haben:\n-\n-\nFertig."
+      "text": "Hier alle, die auf dem Sterbebett bereuten, zu wenig Überstunden gemacht zu haben:\n-\n-\nFertig.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-07-0757-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lernende kommen zu spät und kriegen Gespräch und Elternbrief, Aktionär*innen kommen nie und kriegen Dividende",
-      "plattform": "Threads + Bluesky",
+      "id": "2026-11-07-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Herrenloser Koffer sperrt den Bahnhof Schaffhausen, ein Koffer voller Bargeld unklarer Herkunft bekommt in Genf einen Kaffee",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Lernende kommen fünf Minuten zu spät, Lehrbetrieb so: Gespräch, Eintrag, Elternbrief. Aktionär*innen kommen nie, Lehrbetrieb so: Dividende ist überwiesen."
-    },
-    {
-      "id": "2026-11-07-0757-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rhetorische Frage: wie hat die Wirtschaft den freien Samstag überlebt, an alle, die bei der Viertagewoche den Untergang sehen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wie hat die Schweizer Wirtschaft eigentlich den freien Samstag überlebt? Frage an alle, die bei der Viertagewoche den Untergang kommen sehen, am liebsten beim Sonntagsbrunch."
-    },
-    {
-      "id": "2026-11-07-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "«Leistung muss sich wieder lohnen»: Kursgewinne im Depot steuerfrei, Nachtzuschlag der Pflegerin voll besteuert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "«Leistung muss sich wieder lohnen.» Darum zahlt ein Swissquote-Depot auf Kursgewinne keine Steuern und die Pflegerin auf ihren Nachtzuschlag schon."
+      "format": 1,
+      "text": "Ein Koffer ohne Besitzer sperrt in Schaffhausen den Bahnhof. Ein Koffer voller Bargeld ohne Herkunft bekommt in Genf einen Kaffee.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-07-0757-21",
@@ -81,27 +101,57 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Benzin wird billiger, weil die Märkte auf Frieden hoffen. Wie lange dauert es noch, bis der TCS eine Friedensdemo anmeldet?"
+      "text": "Benzin wird billiger, weil die Märkte auf Frieden hoffen. Wie lange dauert es noch, bis der TCS eine Friedensdemo anmeldet?",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": false
+      }
     },
     {
-      "id": "2026-11-07-0757-22",
+      "id": "2026-11-07-0757-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Studie: kalt duschen ist gesünder, Hauseigentümerverband reklamiert den Gesundheitsnutzen",
+      "stichwort": "Grösster Masernausbruch in den USA seit 1991, scheinbare Zustimmung zur Impfskepsis als wissenschaftliches Experiment",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Kalt duschen ist laut Studie gesünder. Hauseigentümerverband so: haben wir immer gesagt, Nebenkostenabrechnung folgt."
+      "text": "Stimmt, Impfungen muss man kritisch hinterfragen. Die USA haben das jetzt durchgezogen: grösster Masernausbruch seit 1991, die Kontrollgruppe ist der Rest der Welt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-07-0757-23",
+      "id": "2026-11-07-0757-25",
       "typ": "politisch-aktuell",
-      "stichwort": "SRF-Toleranztest mit Schuhen in der Wohnung, im selben Programm die Arena zur Lockerung der Waffenexporte, in Socken",
+      "stichwort": "Schweizer Grosseltern beim Enkelhüten am Limit, ratlose Suche nach einer Einrichtung, die es längst gibt",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Bei SRF testen Redaktorinnen, wo die Toleranz aufhört: bei Schuhen in der Wohnung. Im selben Programm diskutiert die «Arena» die Lockerung der Waffenexporte, entspannt, in Socken."
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Schweizer Grosseltern sind vom Enkelhüten fix und fertig. Vielleicht sollte mal jemand eine bezahlbare Einrichtung mit Fachpersonal für Kinder erfinden, komme gerade nicht auf den Namen.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-07-0757-31",
+      "typ": "schnittmenge",
+      "stichwort": "Herrenloser Koffer am Bahnhof sorgt für Grossalarm, ein Koffer voller Diktatorengeld am Paradeplatz bekommt Service",
+      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Herrenloser Koffer am Bahnhof: Bahnhof gesperrt. Koffer voller Diktatorengeld am Paradeplatz: Kaffee oder Wasser?",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
