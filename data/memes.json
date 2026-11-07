@@ -1,46 +1,46 @@
 {
-  "stand": "2026-11-05T08:01:41+01:00",
+  "stand": "2026-11-07T08:05:32+01:00",
   "vorschlaege": [
     {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "Streit um den Bonus",
-        "Unüberbrückbare Differenzen"
+        "Zölle zahlen die Amerikaner selbst"
       ],
-      "warum": "Rieter liefert die vornehme Verpackung gleich selbst, die Figur muss nur beide Fassungen nebeneinanderstellen",
+      "warum": "Die These klingt nach Provokation, aber nach David Dorns Bilanz zur Zollschlacht kann ihr keiner mehr widersprechen.",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Verbrenner nach 2035",
-        "Verbrenner-Aus 2035",
-        "EU-Parlament"
+        "Stephen Miller als Stabschef",
+        "Kurskorrektur nach Midterm-Pleite",
+        "Trump"
       ],
-      "warum": "Das EU-Parlament biegt kurz vor dem beschlossenen Ziel doch noch ab",
+      "warum": "Nach der Wahlschlappe wäre Mässigung der vernünftige Weg, und Trump reisst in letzter Sekunde das Steuer zur härtesten Option herum.",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "BVG-Mindestzins 1985",
-        "4 Prozent",
-        "BVG-Mindestzins 2027",
-        "2 Prozent, Versicherte profitieren"
+        "Patron 1975",
+        "Handschlag statt Vertrag",
+        "Rieter-CEO 2026",
+        "geht vor Amtsantritt wegen Bonus"
       ],
-      "warum": "Die Erhöhung wird gefeiert, ist aber nur die Hälfte von früher, also das klägliche Heute",
+      "warum": "Der behauptete Unternehmer von früher gegen einen CEO, der schon vor dem ersten Arbeitstag am Bonus scheitert.",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Die Schweiz ist ein Ölstaat ohne Öl"
+        "Weniger Lohn",
+        "Attraktives Gesamtpaket inklusive Homeoffice"
       ],
-      "warum": "Ohne Übergewinnsteuer bleibt der Handelsplatz kassieren, und diese These kann niemand widerlegen",
+      "warum": "Die KOF-Studie liefert den Personalabteilungen den Euphemismus gleich mit.",
       "bild": "vorschlag-4.jpg"
     }
   ]
