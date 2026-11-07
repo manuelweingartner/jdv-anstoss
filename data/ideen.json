@@ -1,142 +1,37 @@
 {
   "datum": "2026-11-07",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-07-0757-02",
+      "id": "2026-11-07-2325-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Trump Media stürzt nach der Midterm-Niederlage ab, die erste Massenflucht, die Trump wirklich stört",
+      "stichwort": "Trump will UFC-Chef Dana White als Pressesprecher, scheinbares Verständnis: die Journalist*innen fragen ja auch brutal, nach Fakten",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Anleger flüchten nach den Midterms aus Trump Media. Endlich eine Massenflucht, die ihn ehrlich stört.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
+      "text": "Trump will den Chef der Käfigkampf-Liga UFC als Pressesprecher. Nachvollziehbar, die Journalist*innen im Weissen Haus fragen zuletzt wirklich brutal. Nach Fakten."
     },
     {
-      "id": "2026-11-07-0757-03",
+      "id": "2026-11-07-2325-25",
       "typ": "politisch-aktuell",
-      "stichwort": "SRF testet die Grenzen der Toleranz an Schuhen und Kommas, in derselben Nacht ballistische Raketen auf Kiew",
+      "stichwort": "Trump nennt die Angriffe auf den Südiran «kleine Schläge», gespielte Zustimmung zum Friedenspräsidenten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Trump beendet Kriege. Den Iran bombardiert er ja nur noch klein."
+    },
+    {
+      "id": "2026-11-07-2325-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor Einwanderern, die das Land wegnehmen, ernst genommen: der Südafrikaner Musk will Texas kaufen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "SRF testet, wo unsere Toleranz aufhört. Schweiz so: Schuhe in der Wohnung, niemals, fehlendes Komma, Grenze, ballistische Raketen auf Kiew, hm, schwierig, wir sind neutral.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-07-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Grösster Masernausbruch in den USA seit 1991, scheinbare Zustimmung zum Impf-Zweifel: erst mal abwarten, die Studie läuft ja schon",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Vielleicht sollten wir bei Masern erst mal abwarten, ob die Impfung wirklich nötig ist. Die USA machen gerade die Studie dazu, 5'182 Teilnehmende, erste Ergebnisse aus Wisconsin.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-07-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Abschiebe-Hardliner Stephen Miller wird Trumps Stabschef, die Angst «Einwanderer nehmen uns die Jobs weg» ernst genommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Abschiebe-Hardliner Stephen Miller wird Trumps Stabschef. Wieder ein Einwanderer-Urenkel, der Amerikanern die Jobs wegnimmt.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-07-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste aller Menschen, die auf dem Sterbebett bereut haben, zu wenig Überstunden gemacht zu haben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle, die auf dem Sterbebett bereuten, zu wenig Überstunden gemacht zu haben:\n-\n-\nFertig.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-07-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "Herrenloser Koffer sperrt den Bahnhof Schaffhausen, ein Koffer voller Bargeld unklarer Herkunft bekommt in Genf einen Kaffee",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Ein Koffer ohne Besitzer sperrt in Schaffhausen den Bahnhof. Ein Koffer voller Bargeld ohne Herkunft bekommt in Genf einen Kaffee.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-07-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bleifrei fällt, weil die Märkte auf Frieden hoffen, rhetorische Frage an den TCS",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Benzin wird billiger, weil die Märkte auf Frieden hoffen. Wie lange dauert es noch, bis der TCS eine Friedensdemo anmeldet?",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-11-07-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizer Grosseltern beim Enkelhüten am Limit, ratlose Suche nach einer Einrichtung, die es längst gibt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Schweizer Grosseltern sind vom Enkelhüten fix und fertig. Vielleicht sollte mal jemand eine bezahlbare Einrichtung mit Fachpersonal für Kinder erfinden, komme gerade nicht auf den Namen.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-07-0757-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Kantone, die eine Pflegefachfrau so pauschal besteuern wie einen Millionär aus Monaco, sie arbeitet halt hier",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Kantone, in denen eine Pflegefachfrau so pauschal besteuert wird wie ein Millionär aus Monaco:\n-\n-\nLeider arbeitet sie hier, das disqualifiziert.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
+      "text": "Habe solche Angst vor Einwanderern, die uns das Land wegnehmen. Und jetzt will der Südafrikaner Elon Musk auch noch Texas kaufen, am Stück."
     }
   ]
 }
