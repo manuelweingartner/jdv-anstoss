@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-07",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -34,6 +34,46 @@
       "text": "Abschiebe-Hardliner Stephen Miller wird Trumps Stabschef. Wieder ein Einwanderer-Urenkel, der Amerikanern die Jobs wegnimmt."
     },
     {
+      "id": "2026-11-07-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste aller Menschen, die auf dem Sterbebett bereut haben, zu wenig Überstunden gemacht zu haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle, die auf dem Sterbebett bereuten, zu wenig Überstunden gemacht zu haben:\n-\n-\nFertig."
+    },
+    {
+      "id": "2026-11-07-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lernende kommen zu spät und kriegen Gespräch und Elternbrief, Aktionär*innen kommen nie und kriegen Dividende",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Lernende kommen fünf Minuten zu spät, Lehrbetrieb so: Gespräch, Eintrag, Elternbrief. Aktionär*innen kommen nie, Lehrbetrieb so: Dividende ist überwiesen."
+    },
+    {
+      "id": "2026-11-07-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rhetorische Frage: wie hat die Wirtschaft den freien Samstag überlebt, an alle, die bei der Viertagewoche den Untergang sehen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie hat die Schweizer Wirtschaft eigentlich den freien Samstag überlebt? Frage an alle, die bei der Viertagewoche den Untergang kommen sehen, am liebsten beim Sonntagsbrunch."
+    },
+    {
+      "id": "2026-11-07-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "«Leistung muss sich wieder lohnen»: Kursgewinne im Depot steuerfrei, Nachtzuschlag der Pflegerin voll besteuert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "«Leistung muss sich wieder lohnen.» Darum zahlt ein Swissquote-Depot auf Kursgewinne keine Steuern und die Pflegerin auf ihren Nachtzuschlag schon."
+    },
+    {
       "id": "2026-11-07-0757-21",
       "typ": "politisch-aktuell",
       "stichwort": "Bleifrei fällt, weil die Märkte auf Frieden hoffen, rhetorische Frage an den TCS",
@@ -62,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Bei SRF testen Redaktorinnen, wo die Toleranz aufhört: bei Schuhen in der Wohnung. Im selben Programm diskutiert die «Arena» die Lockerung der Waffenexporte, entspannt, in Socken."
-    },
-    {
-      "id": "2026-11-07-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "Herrenloser Koffer am Bahnhof sorgt für Grossalarm, ein Koffer voller Diktatorengeld am Paradeplatz bekommt Service",
-      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Herrenloser Koffer am Bahnhof: Bahnhof gesperrt. Koffer voller Diktatorengeld am Paradeplatz: Kaffee oder Wasser?"
-    },
-    {
-      "id": "2026-11-07-0757-32",
-      "typ": "politisch-aktuell",
-      "stichwort": "Captcha verlangt den Beweis, keine Maschine zu sein, danach sortiert eine Maschine die Bewerbung aus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seh ich das richtig: Wir klicken täglich Zebrastreifen an, um einer Maschine zu beweisen, dass wir keine sind, und dann sortiert eine Maschine unsere Bewerbung aus?"
     }
   ]
 }
