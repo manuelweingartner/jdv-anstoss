@@ -1,8 +1,48 @@
 {
   "datum": "2026-11-07",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-07-2325-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hypothek bekommt nur, wer beweist, dass er das Geld gar nicht braucht, Frage für die UBS",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig: Eine Hypothek bekommt nur, wer beweisen kann, dass er das Geld eigentlich gar nicht braucht? Frage für die UBS."
+    },
+    {
+      "id": "2026-11-07-2325-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Krieg kennt keine Gewinner, Rheinmetall widerspricht quartalsweise",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Krieg kennt keine Gewinner, heisst es. Rheinmetall widerspricht, jedes Quartal, schriftlich, mit Dividende."
+    },
+    {
+      "id": "2026-11-07-2325-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vor dem Gesetz sind alle gleich, das Gesetz verlangt Kostenvorschuss und eigenen Anwalt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Vor dem Gesetz sind alle gleich. Das Gesetz so: gern, Kostenvorschuss bitte bis Freitag, Anwalt bringen Sie selbst mit."
+    },
+    {
+      "id": "2026-11-07-2325-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hauseigentümerverband warnt vor Kommunist*innen, die Wohnungen wegnehmen, der Vermieter war schneller",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Kommunist*innen wollen euch die Wohnung wegnehmen, warnt der Hauseigentümerverband. Keine Sorge, das hat euer Vermieter längst erledigt."
+    },
     {
       "id": "2026-11-07-2325-11",
       "typ": "schnittmenge",
