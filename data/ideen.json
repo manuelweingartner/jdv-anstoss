@@ -4,34 +4,64 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-11-07-2325-07",
+      "id": "2026-11-07-2325-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Hypothek bekommt nur, wer beweist, dass er das Geld gar nicht braucht, Frage für die UBS",
+      "stichwort": "Tiefe Mehrwertsteuer dank direkter Demokratie, das Volk hat das letzte Wort, beim Mietvertrag lautet es «Wo muss ich unterschreiben?»",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 17,
+      "text": "Dank direkter Demokratie hat die Schweiz eine tiefe Mehrwertsteuer, das Volk hat das letzte Wort. Beim Mietvertrag auch: «Wo muss ich unterschreiben?»",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-07-2325-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Junge Frau verliert in Mulhouse durch eine Tränengasgranate der Polizei ein Auge und fordert ein Verbot, Frankreich verbietet lieber Stoff",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "In Mulhouse verliert eine junge Frau durch eine Tränengasgranate der Polizei ein Auge und fordert ein Verbot. Schwierig, Frankreich verbietet lieber Stoff, am Kopf, am Strand.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-07-2325-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "USA nennen Bomben auf Iran «kleine Schläge», am selben Tag soll der Käfigkampf-Chef Dana White Pressesprecher werden, Angst vor gewaltbereiten Linken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, die USA nennen Bomben auf Iran «kleine Schläge», am selben Tag wird ein Käfigkampf-Chef Pressesprecher, und gewaltbereit sind die Linken? Mit ihren Lastenvelos.",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-11-07-2325-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Studie: Lohn ist nicht alles, auch Homeoffice zählt, gespielte Zustimmung bis zur Pflege",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Seh ich das richtig: Eine Hypothek bekommt nur, wer beweisen kann, dass er das Geld eigentlich gar nicht braucht? Frage für die UBS."
-    },
-    {
-      "id": "2026-11-07-2325-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Krieg kennt keine Gewinner, Rheinmetall widerspricht quartalsweise",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Krieg kennt keine Gewinner, heisst es. Rheinmetall widerspricht, jedes Quartal, schriftlich, mit Dividende."
-    },
-    {
-      "id": "2026-11-07-2325-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vor dem Gesetz sind alle gleich, das Gesetz verlangt Kostenvorschuss und eigenen Anwalt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Vor dem Gesetz sind alle gleich. Das Gesetz so: gern, Kostenvorschuss bitte bis Freitag, Anwalt bringen Sie selbst mit."
+      "text": "Stimmt, Lohn ist nicht alles, sagt eine ETH-Studie. Homeoffice wäre für Pflegende auch schön.",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      }
     },
     {
       "id": "2026-11-07-2325-10",
@@ -41,37 +71,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Kommunist*innen wollen euch die Wohnung wegnehmen, warnt der Hauseigentümerverband. Keine Sorge, das hat euer Vermieter längst erledigt."
-    },
-    {
-      "id": "2026-11-07-2325-11",
-      "typ": "schnittmenge",
-      "stichwort": "Pharmaverbände lobbyieren gegen langsame Ethikkommissionen, die Invalidenversicherung prüft Kranke jahrelang und nennt es anders",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Prüft eine Ethikkommission eine Pharma-Studie monatelang, ist das «Innovationsbremse». Prüft die Invalidenversicherung einen kranken Menschen jahrelang, ist das «Missbrauchsbekämpfung»."
-    },
-    {
-      "id": "2026-11-07-2325-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "Shrinkflation bei Toblerone als Bauprinzip der Rentenpolitik",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Gleicher Preis, weniger drin: bei Toblerone heisst das Shrinkflation, bei der Rente Reform."
-    },
-    {
-      "id": "2026-11-07-2325-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leitender Arzt mit 20'000 Franken Lohn findet kein Eigenheim, gleiche Woche nistet sich in Genf ein Brotkäfer im Naturhistorischen Museum ein und ist nicht mehr rauszukriegen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ein Arzt mit 20'000 Franken Lohn findet kein Eigenheim. Gleiche Woche zieht in Genf ein Brotkäfer ins Naturhistorische Museum, und niemand kriegt ihn mehr raus."
+      "text": "Kommunist*innen wollen euch die Wohnung wegnehmen, warnt der Hauseigentümerverband. Keine Sorge, das hat euer Vermieter längst erledigt.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-11-07-2325-22",
@@ -81,17 +86,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Benjamin Raue, Schauspieler mit Down-Syndrom, will nach dem Schweizer «Tatort» James Bond spielen. Zu unrealistisch, finden Leute, die an unverwundbare Briten mit Martini glauben."
-    },
-    {
-      "id": "2026-11-07-2325-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Economiesuisse-Präsident leidet, wenn Uni-Abgänger*innen keinen Job finden, fast so sehr wie beim Mindestlohn",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Economiesuisse leidet, wenn Uni-Abgänger*innen keinen Job finden. Fast so sehr wie beim Mindestlohn."
+      "text": "Benjamin Raue, Schauspieler mit Down-Syndrom, will nach dem Schweizer «Tatort» James Bond spielen. Zu unrealistisch, finden Leute, die an unverwundbare Briten mit Martini glauben.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-11-07-2325-24",
@@ -101,7 +101,57 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Trump will den Chef der Käfigkampf-Liga UFC als Pressesprecher. Nachvollziehbar, die Journalist*innen im Weissen Haus fragen zuletzt wirklich brutal. Nach Fakten."
+      "text": "Trump will den Chef der Käfigkampf-Liga UFC als Pressesprecher. Nachvollziehbar, die Journalist*innen im Weissen Haus fragen zuletzt wirklich brutal. Nach Fakten.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-11-07-2325-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor Einwanderern, die das Land wegnehmen, ernst genommen: der Südafrikaner Musk will Texas kaufen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe solche Angst vor Einwanderern, die uns das Land wegnehmen. Und jetzt will der Südafrikaner Elon Musk auch noch Texas kaufen, am Stück.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-11-07-2325-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf den Golfrasen: im Altersheim so viel Personal pro Kopf wie ein Green",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal im Altersheim so umsorgt werden wie der Rasen auf einem Golfplatz.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-07-2325-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Care-Arbeit und Rentenlücke: Pensionskasse findet nichts einbezahlt, der Ehemann hat ja immer gearbeitet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Frau zieht Kinder gross und pflegt dann die Schwiegermutter, Pensionskasse so: Lücke, leider, nichts einbezahlt. Ehemann so: komisch, ich hab doch immer gearbeitet.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
