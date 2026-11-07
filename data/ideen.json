@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-07",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-07-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Grösster Masernausbruch in den USA seit 1991, scheinbare Zustimmung zum Impf-Zweifel: erst mal abwarten, die Studie läuft ja schon",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Vielleicht sollten wir bei Masern erst mal abwarten, ob die Impfung wirklich nötig ist. Die USA machen gerade die Studie dazu, 5'182 Teilnehmende, erste Ergebnisse aus Wisconsin."
+    },
+    {
+      "id": "2026-11-07-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "KOF-Studie: Lohn ist nicht alles, Homeoffice zählt auch; am selben Tag sind Grosseltern vom Gratis-Enkelhüten am Limit, ratlos: wohl zu wenig Homeoffice",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Lohn ist laut KOF-Studie nicht alles, Homeoffice zählt auch. Am selben Tag sind Schweizer Grosseltern vom Gratis-Enkelhüten fix und fertig. Liegt wohl am fehlenden Homeoffice."
+    },
+    {
+      "id": "2026-11-07-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Abschiebe-Hardliner Stephen Miller wird Trumps Stabschef, die Angst «Einwanderer nehmen uns die Jobs weg» ernst genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Abschiebe-Hardliner Stephen Miller wird Trumps Stabschef. Wieder ein Einwanderer-Urenkel, der Amerikanern die Jobs wegnimmt."
+    },
     {
       "id": "2026-11-07-0757-31",
       "typ": "schnittmenge",
