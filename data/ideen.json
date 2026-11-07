@@ -1,127 +1,27 @@
 {
-  "datum": "2026-11-06",
-  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
-  "fertig": true,
+  "datum": "2026-11-07",
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-06-1339-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "SMI knackt erstmals 15'000 Punkte, in derselben Woche streiken in Lyon Zehntausende für mehr Lohn, die Schweizer Lohnerhöhung heisst Dividende",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Der SMI knackt erstmals 15'000 Punkte, in derselben Woche streiken in Lyon Zehntausende für mehr Lohn. Die Schweizer Lohnerhöhung heisst Dividende, ausbezahlt an die anderen.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-06-1339-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Designierter Rieter-CEO tritt wegen Bonus-Streit gar nicht erst an, endlich streikt in der Schweiz mal jemand, natürlich der Chef",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Beim Textilmaschinenhersteller Rieter tritt der designierte CEO gar nicht erst an, wegen Streit um den Bonus. Endlich streikt in der Schweiz mal jemand, natürlich der Chef.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-06-1339-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Tech-Aktien brechen nach dem Wahlsieg der Demokraten ein, Demokratie als Klumpenrisiko",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Tech-Aktien brechen ein, weil die Demokraten gewonnen haben. Demokratie ist halt ein Klumpenrisiko.",
-      "jury": {
-        "anker": false,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-06-1339-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Prognosemärkte: Wetten auf Schweizer Abstimmungen sind gesperrt, Zustimmung zum Verbot, wer am Resultat verdienen will, soll anständig die Kampagne kaufen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, Wetten auf Schweizer Abstimmungen gehören verboten. Wer am Resultat verdienen will, soll vorher anständig die Kampagne kaufen.",
-      "jury": {
-        "anker": false,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-06-1339-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Eigentum verpflichtet, per Dauerauftrag die Mieter*innen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Eigentum verpflichtet. Zuverlässig, jeden Monat, per Dauerauftrag, die Mieter*innen, die es abbezahlen.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-06-1339-11",
+      "id": "2026-11-07-0757-31",
       "typ": "schnittmenge",
-      "stichwort": "Swiss-Flug kehrt wegen «aussergewöhnlichem Geruch» um, am Paradeplatz ist derselbe Geruch ein Standortvorteil",
-      "plattform": "Instagram + Threads + Bluesky",
+      "stichwort": "Herrenloser Koffer am Bahnhof sorgt für Grossalarm, ein Koffer voller Diktatorengeld am Paradeplatz bekommt Service",
+      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Ein Swiss-Flug nach Paris kehrt wegen eines «aussergewöhnlichen Geruchs» um. Am Paradeplatz gilt ein aussergewöhnlicher Geruch als Standortvorteil. Seit 1934. Gesetzlich geschützt.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
+      "text": "Herrenloser Koffer am Bahnhof: Bahnhof gesperrt. Koffer voller Diktatorengeld am Paradeplatz: Kaffee oder Wasser?"
     },
     {
-      "id": "2026-11-06-1339-23",
+      "id": "2026-11-07-0757-32",
       "typ": "politisch-aktuell",
-      "stichwort": "Rekordsumme in nachhaltigen Fonds, die Gletscher sind schwer beeindruckt",
+      "stichwort": "Captcha verlangt den Beweis, keine Maschine zu sein, danach sortiert eine Maschine die Bewerbung aus",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Noch nie lag so viel Schweizer Geld in nachhaltigen Fonds. Die Gletscher sind schwer beeindruckt.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-06-1339-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Republikaner debattieren nach der Midterm-Niederlage über eine Zukunft ohne Trump, ratlose Frage, wer das bei einem 80-Jährigen hätte ahnen können",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Republikaner debattieren nach der Midterm-Niederlage über eine Zukunft ohne Trump. Wer hätte bei einem 80-Jährigen auch ahnen können, dass die irgendwann kommt? Ausser jeder Sterbetafel.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
+      "text": "Seh ich das richtig: Wir klicken täglich Zebrastreifen an, um einer Maschine zu beweisen, dass wir keine sind, und dann sortiert eine Maschine unsere Bewerbung aus?"
     }
   ]
 }
