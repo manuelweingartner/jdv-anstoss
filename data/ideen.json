@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-07",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Abschiebe-Hardliner Stephen Miller wird Trumps Stabschef. Wieder ein Einwanderer-Urenkel, der Amerikanern die Jobs wegnimmt."
+    },
+    {
+      "id": "2026-11-07-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bleifrei fällt, weil die Märkte auf Frieden hoffen, rhetorische Frage an den TCS",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Benzin wird billiger, weil die Märkte auf Frieden hoffen. Wie lange dauert es noch, bis der TCS eine Friedensdemo anmeldet?"
+    },
+    {
+      "id": "2026-11-07-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Studie: kalt duschen ist gesünder, Hauseigentümerverband reklamiert den Gesundheitsnutzen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Kalt duschen ist laut Studie gesünder. Hauseigentümerverband so: haben wir immer gesagt, Nebenkostenabrechnung folgt."
+    },
+    {
+      "id": "2026-11-07-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "SRF-Toleranztest mit Schuhen in der Wohnung, im selben Programm die Arena zur Lockerung der Waffenexporte, in Socken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Bei SRF testen Redaktorinnen, wo die Toleranz aufhört: bei Schuhen in der Wohnung. Im selben Programm diskutiert die «Arena» die Lockerung der Waffenexporte, entspannt, in Socken."
     },
     {
       "id": "2026-11-07-0757-31",
