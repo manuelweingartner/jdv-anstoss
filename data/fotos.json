@@ -1,51 +1,55 @@
 {
-  "stand": "2026-11-06T17:00:35+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-07T08:03:55+01:00",
+  "lauf": "0803",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Nach Midterms-Debakel – Vizepräsident J.D. Vance übt scharfe Kritik an Trump-Regierung",
-      "was": "J.D. Vance mit ernster Miene am Rednerpult vor US-Flaggen",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: scharfe Kritik an einer Regierung, in der er selbst die Nummer zwei ist.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "SRF",
-      "auch_bei": [
-        "Spiegel"
-      ],
-      "artikel": "https://www.srf.ch/news/international/usa/nach-midterms-debakel-vizepraesident-j-d-vance-uebt-scharfe-kritik-an-trump-regierung",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/c8d438.jpg",
-      "zeit": "2026-11-06T05:44+01:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Ukraine-Krieg: Friedrich Merz telefoniert mit Donald Trump, Kreml dämpft Erwartungen nach Ukraine-Ankündigung",
-      "was": "Friedrich Merz im Kanzleramt mit Telefonhörer am Ohr",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Europa führt Gespräche über die Ukraine, darf am Verhandlungstisch aber nur zuhören.",
+      "id": "0803-1",
+      "titel": "USA: Donald Trump ersetzt Stabschefin Susie Wiles – Stephen Miller soll nachfolgen",
+      "was": "Trump im Oval Office, Stephen Miller dicht daneben, ernste Mienen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Die Wähler bestellen weniger Radikalität, der Präsident liefert die doppelte Portion.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Spiegel",
       "auch_bei": [
-        "NZZ"
+        "SRF",
+        "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/ausland/ukrainekrieg-russland-will-ordnung-in-europa-mitbestimmen-und-sieht-wenig-bereitschaft-a-dfcd9c16-4324-4952-bed1-ca8cd4983a46#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/e73ac161-15fb-4d93-820d-0c99550be8eb_w520_r2.08_fpx52_fpy46.jpg",
-      "zeit": "2026-11-06T15:23+01:00"
+      "artikel": "https://www.spiegel.de/ausland/usa-donald-trump-ersetzt-stabschefin-susie-wiles-stephen-miller-soll-nachfolgen-a-2c11d3f6-4f4d-43d3-923a-c17f6695c082#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/b6c8b644-4d4c-4e06-98fd-15321cb51932_w520_r2.08_fpx69.99_fpy48.98.jpg",
+      "zeit": "2026-11-06T21:18+01:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Dank Überschuss: Baar ZG schenkt allen Einwohnern 100 Franken",
-      "was": "Gemeindepräsident von Baar hält lächelnd einen 100-Franken-Gutschein hoch",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: grosszügige Geste an die eigenen Leute gegen das Steuersubstrat, das Zug dem Rest der Schweiz abgräbt.",
+      "id": "0803-2",
+      "titel": "Ilse Aigner: CSU-Politikerin soll erste Präsidentin der Bundesrepublik werden",
+      "was": "Ilse Aigner lächelnd vor Mikrofonen, Merz klatschend im Hintergrund",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Gleichberechtigung fürs repräsentative Schloss, Männerbund fürs Kanzleramt, wo regiert wird.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "Spiegel",
+      "auch_bei": [],
+      "artikel": "https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-soll-erste-praesidentin-der-bundesrepublik-werden-a-9b1044f7-38e6-4d2b-98b3-ff3684d399f9#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/9a104d49-2f91-4e9d-8587-e2ef2b31e452_w520_r2.08_fpx59.32_fpy54.99.jpg",
+      "zeit": "2026-11-06T21:26+01:00"
+    },
+    {
+      "id": "0803-3",
+      "titel": "Migros kopiert Verpackung – Wernli reagiert mit Humor",
+      "was": "Zwei fast identische Guetzli-Packungen von Migros und Wernli nebeneinander",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Beim orangen Riesen heisst es Eigenmarke, beim kleinen Händler hiesse dasselbe Fälschung.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/555-millionen-franken-dank-ueberschuss-baar-schenkt-allen-einwohnern-100-franken-103663304",
-      "bild": "https://image.20min.ch/2026/11/06/2397a783-236f-402a-9599-f3835cf3e822.jpg?s=67fdfb2404abde3b00f7b8bff1f04bd3",
-      "zeit": "2026-11-06T14:58+01:00"
+      "artikel": "https://www.20min.ch/story/linkedin-wernli-hug-butterherzli-reaktion-auf-neue-verpackung-von-migros-crea-d-or-103663503",
+      "bild": "https://image.20min.ch/2026/11/06/7019f02b-ad8c-42b9-a3d6-7092008a4568.png?s=b34513a9ccdbc18aadeae4b459fcfa96",
+      "zeit": "2026-11-07T01:03+01:00"
     }
   ],
-  "erwartet": [],
+  "erwartet": [
+    {
+      "wann": "heute",
+      "was": "Bundesumweltminister Schneider bei der Ankunft an der Klimakonferenz in Antalya"
+    }
+  ],
   "hinweis": ""
 }
