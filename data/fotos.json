@@ -1,59 +1,55 @@
 {
-  "stand": "2026-11-08T08:01:09+01:00",
-  "lauf": "0800",
+  "stand": "2026-11-08T17:00:36+01:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0800-1",
-      "titel": "Nachfolge von Guy Parmelin – SVP-Fraktionschef Thomas Aeschi will Bundesrat werden",
-      "was": "Thomas Aeschi vor Mikrofonen im Bundeshaus, entschlossener Blick",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: demonstratives Zögern bis zur letzten Minute gegen eine Kandidatur, die nie ernsthaft offen war.",
+      "id": "1700-1",
+      "titel": "»Tatort« heute aus Zürich: »Frei wie ein Adler« im Schnellcheck",
+      "was": "Rocker auf Motorrad posiert vor Zürcher Stadtkulisse, Tatort-Szenenbild",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, Rockerpose als Zürcher Ordnungsliebe gelesen. Achse: Gesetzloser Biker-Mythos gegen eine Stadt, in der selbst die Verbrecherjagd Ruhezeiten einhält.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "20 Minuten"
+        "taz"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/d393a6.jpg",
-      "zeit": "2026-11-08T01:26+01:00"
+      "artikel": "https://www.spiegel.de/kultur/tv/tatort-heute-aus-zuerich-frei-wie-ein-adler-im-schnellcheck-a-31176589-2de3-41ca-8e2d-445fa60719b4#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/701792a2-70e1-4ffe-b545-cf52030dc583_w520_r2.08_fpx65.53_fpy49.99.jpg",
+      "zeit": "2026-11-08T15:51+01:00"
     },
     {
-      "id": "0800-2",
-      "titel": "Midterms 2026 – US-Präsident Trump schlägt Kampfsportler als Pressesprecher vor",
-      "was": "Dana White neben Trump, UFC-Käfig oder Kampfabend im Hintergrund",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Pressebriefing im Weissen Haus gegen Wiegetermin vor dem Käfigkampf, Journalisten als Gegner, die man zu Boden bringt.",
+      "id": "1700-2",
+      "titel": "Folgen des Klimawandels: Allgäuer Alpen verlieren letzten Gletscher",
+      "was": "Kahler Fels und Geröll, wo früher der Schwarzmilzferner lag",
+      "richtung": "Mechanik: wörtlich nehmen, was als Statusmeldung gemeint ist, der Gletscher verliert einen Titel wie ein Beamter seinen Posten. Achse: Bürokratische Herabstufung gegen ein Problem, das sich nicht per ",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "SRF",
+      "raum": "",
+      "quelle": "taz",
       "auch_bei": [
-        "Tagesschau"
+        "SRF"
       ],
-      "artikel": "https://www.srf.ch/news/international/midterms-2026-us-praesident-trump-schlaegt-kampfsportler-als-pressesprecher-vor",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/d1415c.jpg",
-      "zeit": "2026-11-07T20:44+01:00"
+      "artikel": "https://taz.de/Folgen-des-Klimawandels/!6228494/",
+      "bild": "https://taz.de/picture/8851480/948/schwarzmilzferner.jpeg",
+      "zeit": "2026-11-08T15:34+01:00"
     },
     {
-      "id": "0800-3",
-      "titel": "Bilder der Woche – Eine begehbare Riesen-Prostata und weitere Bildperlen",
-      "was": "Besucher spazieren durch eine aufblasbare, begehbare Riesen-Prostata",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Vorsorge, die Männer sonst ein Leben lang meiden, als Erlebnisattraktion mit Warteschlange.",
+      "id": "1700-3",
+      "titel": "Trump will Kampfsportunternehmer White als Pressesprecher",
+      "was": "Dana White im Octagon mit Mikrofon, daneben Trump am Käfigrand",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten, der Pressesaal als Kampfabend mit Ringansage. Achse: Würde des Regierungssprechers gegen eine Präsidentschaft, die Medien nur noch als Gegner im Käfig ",
       "grund": "memetauglich",
       "raum": "weltweit",
-      "quelle": "SRF",
+      "quelle": "Tagesschau",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/gesellschaft/bilder-der-woche-eine-begehbare-riesen-prostata-und-weitere-bildperlen",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/28c2459.jpg",
-      "zeit": "2026-11-08T07:00+01:00"
+      "artikel": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
+      "bild": "https://images.tagesschau.de/image/1d795625-6e32-4268-8bf0-5ca4a0c10aa8/AAABobqEWvg/AAABnSSvrFg/16x9-big/dana-white-donald-trump-100.jpg?width=1280",
+      "zeit": "2026-11-08T10:59+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, ganzer Tag",
-      "was": "Papst Leo XIV. in Uruguay bei Empfang, Messe und Bad in der Menge"
-    },
-    {
-      "wann": "heute, Super-League-Spiel",
-      "was": "FC Basel gegen Thun, Basler Spieler und Fans in Verzweiflung oder Jubel"
+      "wann": "heute Abend",
+      "was": "Gewählte Freiburger Staatsräte bei der Wahlfeier mit Blumen und Parteischal"
     }
   ],
   "hinweis": ""
