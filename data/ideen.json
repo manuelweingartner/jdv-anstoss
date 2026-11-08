@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-08",
-  "hinweis": "1 von 10 da, der Rest lädt noch.",
+  "hinweis": "4 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-08-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Brotkäfer frisst im Naturhistorischen Museum Genf, Millionenaktion; am selben Tag trifft Russland einen Kindergarten in Kyjiw",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "In Genf frisst ein Brotkäfer an ausgestopften Tieren, sofort fliessen Millionen. Am selben Tag trifft Russland in Kyjiw einen Kindergarten. Ohne Vitrine."
+    },
+    {
+      "id": "2026-11-08-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pharmaverbände lobbyieren gegen langsame Ethikkommissionen, chronisch Kranke warten auf überhaupt eine Studie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Pharma so: Ethikkommissionen bremsen unsere klinischen Studien, Skandal, Standort in Gefahr. Chronisch Kranke so: welche Studien?"
+    },
+    {
+      "id": "2026-11-08-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Studie: kalt duschen ist gesünder, rhetorische Frage an die Krankenkasse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Laut neuer Studie ist kalt duschen gesünder. Wie lange, bis die Krankenkasse für warmes Wasser einen Prämienzuschlag verlangt? Rückwirkend."
+    },
     {
       "id": "2026-11-08-0757-32",
       "typ": "politisch-aktuell",
