@@ -1,57 +1,59 @@
 {
-  "stand": "2026-11-07T17:00:42+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-08T08:01:09+01:00",
+  "lauf": "0800",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "US-Präsident Trump ersetzt seine bisherige Stabschefin Wiles durch ihren Stellvertreter Miller",
-      "was": "Trump am Rednerpult, Stephen Miller steht hinter ihm, ernster Blick",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Nach einer klaren Wahlniederlage setzt Trump nicht auf Kurskorrektur, sondern befördert den härtesten Mann im Haus.",
+      "id": "0800-1",
+      "titel": "Nachfolge von Guy Parmelin – SVP-Fraktionschef Thomas Aeschi will Bundesrat werden",
+      "was": "Thomas Aeschi vor Mikrofonen im Bundeshaus, entschlossener Blick",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: demonstratives Zögern bis zur letzten Minute gegen eine Kandidatur, die nie ernsthaft offen war.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Tagesschau",
-      "auch_bei": [
-        "NZZ",
-        "SRF",
-        "taz"
-      ],
-      "artikel": "https://www.tagesschau.de/video/video-1679758.html",
-      "bild": "https://images.tagesschau.de/image/c2da4097-7256-4395-adcb-f120592e355b/AAABobYRfbY/AAABnSSvrFg/16x9-big/sendungsbild-1823882.jpg?width=1280",
-      "zeit": "2026-11-07T13:52+01:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Nachfolge von Daniel Craig – Robert Pattinson nun auch unter möglichen James-Bond-Kandidaten",
-      "was": "Robert Pattinson im Anzug auf dem roten Teppich, Blick in Kameras",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Ein Geheimagent, über dessen Besetzung die ganze Welt öffentlich spekuliert.",
-      "grund": "breit",
-      "raum": "",
+      "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
-        "NZZ"
+        "20 Minuten"
       ],
-      "artikel": "https://www.srf.ch/news/gesellschaft/nachfolge-von-daniel-craig-robert-pattinson-nun-auch-unter-moeglichen-james-bond-kandidaten",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/d9e365b.jpg",
-      "zeit": "2026-11-07T15:36+01:00"
+      "artikel": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/d393a6.jpg",
+      "zeit": "2026-11-08T01:26+01:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Papst Leo XIV. besucht Uruguay, Tilmann Kleinjung, zum Auftakt der Südamerika-Reise",
-      "was": "Papst Leo XIV. winkt bei der Ankunft in Montevideo, Empfangskomitee daneben",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Eine Botschaft für die Ewigkeit gegen ein Protokoll mit Flughafenteppich, Ehrengarde und Händeschütteln im Takt.",
+      "id": "0800-2",
+      "titel": "Midterms 2026 – US-Präsident Trump schlägt Kampfsportler als Pressesprecher vor",
+      "was": "Dana White neben Trump, UFC-Käfig oder Kampfabend im Hintergrund",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Pressebriefing im Weissen Haus gegen Wiegetermin vor dem Käfigkampf, Journalisten als Gegner, die man zu Boden bringt.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "SRF",
+      "auch_bei": [
+        "Tagesschau"
+      ],
+      "artikel": "https://www.srf.ch/news/international/midterms-2026-us-praesident-trump-schlaegt-kampfsportler-als-pressesprecher-vor",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/d1415c.jpg",
+      "zeit": "2026-11-07T20:44+01:00"
+    },
+    {
+      "id": "0800-3",
+      "titel": "Bilder der Woche – Eine begehbare Riesen-Prostata und weitere Bildperlen",
+      "was": "Besucher spazieren durch eine aufblasbare, begehbare Riesen-Prostata",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Vorsorge, die Männer sonst ein Leben lang meiden, als Erlebnisattraktion mit Warteschlange.",
       "grund": "memetauglich",
       "raum": "weltweit",
-      "quelle": "Tagesschau",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.tagesschau.de/video/video-1679838.html",
-      "bild": "https://images.tagesschau.de/image/50dc34e9-648f-4bb0-9d17-f47a1733a8f6/AAABobasRLg/AAABnSSvrFg/16x9-big/sendungsbild-1823960.jpg?width=1280",
-      "zeit": "2026-11-07T16:41+01:00"
+      "artikel": "https://www.srf.ch/news/gesellschaft/bilder-der-woche-eine-begehbare-riesen-prostata-und-weitere-bildperlen",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/28c2459.jpg",
+      "zeit": "2026-11-08T07:00+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Abend (in Uruguay Nachmittag)",
-      "was": "Papst Leo XIV. bei Empfang oder Messe in Uruguay, Bad in der Menge oder Papamobil"
+      "wann": "heute, ganzer Tag",
+      "was": "Papst Leo XIV. in Uruguay bei Empfang, Messe und Bad in der Menge"
+    },
+    {
+      "wann": "heute, Super-League-Spiel",
+      "was": "FC Basel gegen Thun, Basler Spieler und Fans in Verzweiflung oder Jubel"
     }
   ],
   "hinweis": ""
