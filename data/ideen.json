@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-08",
-  "hinweis": "7 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -64,14 +64,44 @@
       "text": "Seh ich das richtig, die Prostata bekommt ein begehbares Riesenmodell zum Aufblasen, und bei Endometriose heisst die Diagnose weiterhin Wärmflasche?"
     },
     {
-      "id": "2026-11-08-0757-32",
+      "id": "2026-11-08-0757-27",
       "typ": "politisch-aktuell",
-      "stichwort": "Beim Cookie-Banner ist «Ablehnen» grau und versteckt, genau wie das Recht auf Mietsenkung",
+      "stichwort": "Chancengleichheit als Wettrennen, bei dem alle gleichzeitig starten, manche im Taxi",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Beim Cookie-Banner ist «Ablehnen» grau, winzig und gut versteckt. Wie das Recht auf Mietsenkung."
+      "format": "frei",
+      "text": "Chancengleichheit heisst: alle starten gleichzeitig. Manche halt im Taxi."
+    },
+    {
+      "id": "2026-11-08-0757-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gap Year in Australien im Bewerbungsgespräch zeigt Eigeninitiative, finanziert per American Express vom Vater",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Das Gap Year in Australien kommt im Bewerbungsgespräch gut an. Zeigt Eigeninitiative. Weltoffenheit. Und eine American Express vom Vater."
+    },
+    {
+      "id": "2026-11-08-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gründung «aus eigener Kraft» mit zinslosem Darlehen der Eltern, Frage an die Gründerszene am Zürichberg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seit wann heisst es eigentlich «aus eigener Kraft», wenn die Kraft ein zinsloses Darlehen der Eltern war? Frage für die Gründerszene am Zürichberg."
+    },
+    {
+      "id": "2026-11-08-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "«Leistung muss sich wieder lohnen» von Leuten, deren grösste Leistung die Geburt war, erbracht von der Mutter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "«Leistung muss sich wieder lohnen», fordern die, deren grösste Leistung die Geburt war. Und die hat die Mutter erbracht."
     }
   ]
 }
