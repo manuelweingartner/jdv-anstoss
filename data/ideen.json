@@ -4,24 +4,79 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-11-08-0757-21",
+      "id": "2026-11-08-0757-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Brotkäfer frisst im Naturhistorischen Museum Genf, Millionenaktion; am selben Tag trifft Russland einen Kindergarten in Kyjiw",
+      "stichwort": "Gleicher Tag: betrunkener Unteroffizier wird entlassen, Aeschi rangelte mit der Bundeshauspolizei und kandidiert für den Bundesrat",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "In Genf frisst ein Brotkäfer an ausgestopften Tieren, sofort fliessen Millionen. Am selben Tag trifft Russland in Kyjiw einen Kindergarten. Ohne Vitrine."
+      "text": "Gleicher Tag: Ein Unteroffizier fährt betrunken Auto und fliegt raus, Thomas Aeschi rangelte mit der Bundeshauspolizei und will Bundesrat werden. Nüchtern, übrigens.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-11-08-0757-22",
+      "id": "2026-11-08-0757-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Pharmaverbände lobbyieren gegen langsame Ethikkommissionen, chronisch Kranke warten auf überhaupt eine Studie",
+      "stichwort": "HIV breitet sich in Russland in der ganzen Bevölkerung aus, Angst vor Sexualkunde ernst genommen",
       "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor Sexualkunde. Russland verzichtet darauf und hat jetzt HIV, landesweit.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-08-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Begehbare Riesen-Prostata für die Männervorsorge, bei Endometriose weiterhin der Rat zum Spazieren, gespielte Fairness",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Für die Prostata gibt es jetzt eine begehbare Riesenversion, für Endometriose weiterhin den Rat, mal spazieren zu gehen. Fair, bewegen sollen sich beide.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-08-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "U20-Eishockeynati boykottiert Russland an der WM, für die Genfer Rohstoffhändler bleibt es ein Heimspiel",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
       "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Swiss Ice Hockey lässt die U20 an der WM nicht gegen Russland antreten. Bei den Genfer Rohstoffhändlern bleibt es ein Heimspiel.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-08-0757-12",
+      "typ": "politisch-aktuell",
+      "stichwort": "Liste aller Preise, die seit dem Ende der Teuerung wieder sinken: nur der Sparzins",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Pharma so: Ethikkommissionen bremsen unsere klinischen Studien, Skandal, Standort in Gefahr. Chronisch Kranke so: welche Studien?"
+      "text": "Alle Preise, die seit dem Ende der Teuerung wieder sinken:\n- der Sparzins",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-08-0757-23",
@@ -31,7 +86,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Laut neuer Studie ist kalt duschen gesünder. Wie lange, bis die Krankenkasse für warmes Wasser einen Prämienzuschlag verlangt? Rückwirkend."
+      "text": "Laut neuer Studie ist kalt duschen gesünder. Wie lange, bis die Krankenkasse für warmes Wasser einen Prämienzuschlag verlangt? Rückwirkend.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-08-0757-24",
@@ -41,7 +101,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Tempo 30 in Städten. Schlimm, am Ende steht man noch langsamer im Stau."
+      "text": "Tempo 30 in Städten. Schlimm, am Ende steht man noch langsamer im Stau.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-08-0757-25",
@@ -51,7 +116,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Das Netz findet es dreist, bei Freund*innen zu übernachten, nur um das Hotel zu sparen. Stimmt, Glencore macht das im Kanton Zug wenigstens mit Briefkasten."
+      "text": "Das Netz findet es dreist, bei Freund*innen zu übernachten, nur um das Hotel zu sparen. Stimmt, Glencore macht das im Kanton Zug wenigstens mit Briefkasten.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-08-0757-26",
@@ -61,37 +131,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Seh ich das richtig, die Prostata bekommt ein begehbares Riesenmodell zum Aufblasen, und bei Endometriose heisst die Diagnose weiterhin Wärmflasche?"
-    },
-    {
-      "id": "2026-11-08-0757-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Chancengleichheit als Wettrennen, bei dem alle gleichzeitig starten, manche im Taxi",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Chancengleichheit heisst: alle starten gleichzeitig. Manche halt im Taxi."
-    },
-    {
-      "id": "2026-11-08-0757-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gap Year in Australien im Bewerbungsgespräch zeigt Eigeninitiative, finanziert per American Express vom Vater",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Das Gap Year in Australien kommt im Bewerbungsgespräch gut an. Zeigt Eigeninitiative. Weltoffenheit. Und eine American Express vom Vater."
-    },
-    {
-      "id": "2026-11-08-0757-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gründung «aus eigener Kraft» mit zinslosem Darlehen der Eltern, Frage an die Gründerszene am Zürichberg",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seit wann heisst es eigentlich «aus eigener Kraft», wenn die Kraft ein zinsloses Darlehen der Eltern war? Frage für die Gründerszene am Zürichberg."
+      "text": "Seh ich das richtig, die Prostata bekommt ein begehbares Riesenmodell zum Aufblasen, und bei Endometriose heisst die Diagnose weiterhin Wärmflasche?",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-08-0757-30",
@@ -101,7 +146,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 17,
-      "text": "«Leistung muss sich wieder lohnen», fordern die, deren grösste Leistung die Geburt war. Und die hat die Mutter erbracht."
+      "text": "«Leistung muss sich wieder lohnen», fordern die, deren grösste Leistung die Geburt war. Und die hat die Mutter erbracht.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
