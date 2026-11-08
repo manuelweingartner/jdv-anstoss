@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-08",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -19,21 +19,6 @@
       }
     },
     {
-      "id": "2026-11-08-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "HIV breitet sich in Russland in der ganzen Bevölkerung aus, Angst vor Sexualkunde ernst genommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor Sexualkunde. Russland verzichtet darauf und hat jetzt HIV, landesweit.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-11-08-0757-06",
       "typ": "politisch-aktuell",
       "stichwort": "Begehbare Riesen-Prostata für die Männervorsorge, bei Endometriose weiterhin der Rat zum Spazieren, gespielte Fairness",
@@ -46,6 +31,21 @@
         "anker": true,
         "witz": true,
         "neu": true
+      }
+    },
+    {
+      "id": "2026-11-08-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Eigentum ist Diebstahl, völliger Unsinn, Diebstahl geht schneller",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Eigentum ist Diebstahl, behaupten die Linksextremen schon wieder. Völliger Unsinn. Diebstahl geht viel schneller.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": false
       }
     },
     {
@@ -94,21 +94,6 @@
       }
     },
     {
-      "id": "2026-11-08-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Tempo 30 in Städten, die Angst der Autofahrer*innen ernst genommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Tempo 30 in Städten. Schlimm, am Ende steht man noch langsamer im Stau.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
       "id": "2026-11-08-0757-25",
       "typ": "politisch-aktuell",
       "stichwort": "Virales Video: dreist, bei Freund*innen zu übernachten, um das Hotel zu sparen; Glencore im Kanton Zug",
@@ -124,14 +109,14 @@
       }
     },
     {
-      "id": "2026-11-08-0757-26",
+      "id": "2026-11-08-0757-28",
       "typ": "politisch-aktuell",
-      "stichwort": "Begehbare Riesen-Prostata zum Aufblasen, bei Endometriose bleibt die Wärmflasche",
+      "stichwort": "Gap Year in Australien im Bewerbungsgespräch zeigt Eigeninitiative, finanziert per American Express vom Vater",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Seh ich das richtig, die Prostata bekommt ein begehbares Riesenmodell zum Aufblasen, und bei Endometriose heisst die Diagnose weiterhin Wärmflasche?",
+      "text": "Das Gap Year in Australien kommt im Bewerbungsgespräch gut an. Zeigt Eigeninitiative. Weltoffenheit. Und eine American Express vom Vater.",
       "jury": {
         "anker": true,
         "witz": false,
@@ -150,6 +135,21 @@
       "jury": {
         "anker": false,
         "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-08-0757-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Beim Cookie-Banner ist «Ablehnen» grau und versteckt, genau wie das Recht auf Mietsenkung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Beim Cookie-Banner ist «Ablehnen» grau, winzig und gut versteckt. Wie das Recht auf Mietsenkung.",
+      "jury": {
+        "anker": true,
+        "witz": false,
         "neu": true
       }
     }
