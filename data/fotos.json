@@ -1,55 +1,61 @@
 {
-  "stand": "2026-11-08T17:00:36+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-09T08:01:12+01:00",
+  "lauf": "0800",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "»Tatort« heute aus Zürich: »Frei wie ein Adler« im Schnellcheck",
-      "was": "Rocker auf Motorrad posiert vor Zürcher Stadtkulisse, Tatort-Szenenbild",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, Rockerpose als Zürcher Ordnungsliebe gelesen. Achse: Gesetzloser Biker-Mythos gegen eine Stadt, in der selbst die Verbrecherjagd Ruhezeiten einhält.",
+      "id": "0800-1",
+      "titel": "Internationale Klimadiplomatie – Was ist zu erwarten von der Klimakonferenz in Antalya?",
+      "was": "Delegierte und Gastgeber beim Gruppenfoto zur Eröffnung der Klimakonferenz in Antalya",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, etwa am Kerosin der Anreise oder an der Zahl der Konferenzen. Achse: Zum 31. Mal feierlich versammelt gegen eine Welt, die seit 30 Jahren nicht au",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "Spiegel",
+      "raum": "weltweit",
+      "quelle": "SRF",
       "auch_bei": [
         "taz"
       ],
-      "artikel": "https://www.spiegel.de/kultur/tv/tatort-heute-aus-zuerich-frei-wie-ein-adler-im-schnellcheck-a-31176589-2de3-41ca-8e2d-445fa60719b4#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/701792a2-70e1-4ffe-b545-cf52030dc583_w520_r2.08_fpx65.53_fpy49.99.jpg",
-      "zeit": "2026-11-08T15:51+01:00"
+      "artikel": "https://www.srf.ch/wissen/klimawandel/internationale-klimadiplomatie-was-ist-zu-erwarten-von-der-klimakonferenz-in-antalya",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf/d04a713.jpg",
+      "zeit": "2026-11-09T06:15+01:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Folgen des Klimawandels: Allgäuer Alpen verlieren letzten Gletscher",
-      "was": "Kahler Fels und Geröll, wo früher der Schwarzmilzferner lag",
-      "richtung": "Mechanik: wörtlich nehmen, was als Statusmeldung gemeint ist, der Gletscher verliert einen Titel wie ein Beamter seinen Posten. Achse: Bürokratische Herabstufung gegen ein Problem, das sich nicht per ",
+      "id": "0800-2",
+      "titel": "Tückische Liebschaft – Nvidia-Chef hatte Affäre mit möglicher chinesischer Spionin",
+      "was": "Jensen Huang in Lederjacke auf der Bühne, Nvidia-Chip in der Hand",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Washington sperrt die Chips für China, der Chef selbst lässt China ganz nah ran.",
       "grund": "breit",
       "raum": "",
-      "quelle": "taz",
+      "quelle": "SRF",
       "auch_bei": [
-        "SRF"
+        "20 Minuten",
+        "Spiegel",
+        "Tagesschau"
       ],
-      "artikel": "https://taz.de/Folgen-des-Klimawandels/!6228494/",
-      "bild": "https://taz.de/picture/8851480/948/schwarzmilzferner.jpeg",
-      "zeit": "2026-11-08T15:34+01:00"
+      "artikel": "https://www.srf.ch/news/international/tueckische-liebschaft-nvidia-chef-hatte-affaere-mit-moeglicher-chinesischer-spionin",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/79c868.jpg",
+      "zeit": "2026-11-09T06:22+01:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Trump will Kampfsportunternehmer White als Pressesprecher",
-      "was": "Dana White im Octagon mit Mikrofon, daneben Trump am Käfigrand",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten, der Pressesaal als Kampfabend mit Ringansage. Achse: Würde des Regierungssprechers gegen eine Präsidentschaft, die Medien nur noch als Gegner im Käfig ",
+      "id": "0800-3",
+      "titel": "«O’zapft is!» im Nati-Hotel – Halligalli vor Nations League",
+      "was": "Nati-Spieler mit Bierkrug und Rodeo-Bulle im Säntispark-Hotel, Oktoberfest-Deko",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Party bis nach Mitternacht wird zur professionellen Spielvorbereitung, Bierzelt und Bullenreiten zum Trainingslager.",
       "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "Tagesschau",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
-      "bild": "https://images.tagesschau.de/image/1d795625-6e32-4268-8bf0-5ca4a0c10aa8/AAABobqEWvg/AAABnSSvrFg/16x9-big/dana-white-donald-trump-100.jpg?width=1280",
-      "zeit": "2026-11-08T10:59+01:00"
+      "artikel": "https://www.20min.ch/story/oktoberfest-o-zapft-is-im-nati-hotel-halligalli-vor-nations-league-103662221",
+      "bild": "https://image.20min.ch/2026/11/08/ceb83b64-c0e0-4dd1-ae1b-bad4895e997b.jpg?s=71cd89fe05d5c655fa3787ccf910873d",
+      "zeit": "2026-11-09T07:54+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Abend",
-      "was": "Gewählte Freiburger Staatsräte bei der Wahlfeier mit Blumen und Parteischal"
+      "wann": "heute, laufend",
+      "was": "Eröffnung der COP31 in Antalya mit Reden, Handschlägen und Familienfoto der Delegationen"
+    },
+    {
+      "wann": "heute",
+      "was": "Papst Leo XIV. in Argentinien, möglicher Auftritt neben Präsident Milei"
     }
   ],
   "hinweis": ""
