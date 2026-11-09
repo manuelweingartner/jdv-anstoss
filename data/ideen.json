@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-09",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Seh ich das richtig, auf einem Fussballplatz in Lugano spielt Herkunft keine Rolle, und das ist eine Reportage wert? Mit Fotograf. Unter «Integration»."
+    },
+    {
+      "id": "2026-11-09-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hacker wärmen in Köniz ein Metzgerei-Kühlregal auf, der Bund schlägt Alarm; gleiche Woche Klimakonferenz in Antalya, gespielter Vorschlag, die Erde als Cervelat anzumelden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Hacker wärmen in Köniz ein Metzgerei-Kühlregal auf, sofort warnt der Bund. Gleiche Woche, Klimakonferenz in Antalya: vielleicht muss man die Erde als Cervelat anmelden. Mit Kühlkette."
+    },
+    {
+      "id": "2026-11-09-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tempo 30 auf der Kantonsstrasse in Kriens, scheinbare Zustimmung zum Freiheitsargument der Autolobby",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Tempo 30 auf der Kantonsstrasse in Kriens. Stimmt, Freiheit endet dort, wo Kinder überleben."
+    },
+    {
+      "id": "2026-11-09-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump: die Ukraine werde nach dem Krieg eine «etwas andere Form» haben, ratloses Verständnis über die Einbruchs-Analogie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump sagt, die Ukraine habe nach dem Krieg «etwas andere Form». Versteh die Aufregung nicht, nach dem Einbruch hat die Stube auch eine andere Form. Ohne Fernseher."
     },
     {
       "id": "2026-11-09-0757-07",
@@ -72,26 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Das Lohngeheimnis ist die einzige Schweigepflicht, für die Frauen bezahlen."
-    },
-    {
-      "id": "2026-11-09-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "Bombendrohungen im Flugverkehr: Risiko sehr klein, trotzdem sofortige Notlandung; Klimarisiko gesichert, dafür Bonusmeilen",
-      "plattform": "Instagram + Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Bombendrohung an Bord, Risiko sehr klein: sofortige Notlandung. Klimakrise, Risiko wissenschaftlich gesichert: Bonusmeilen."
-    },
-    {
-      "id": "2026-11-09-0757-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "Shrinkflation bei Zweifel-Chips: gleiche Packung, gleicher Preis, weniger drin; beim Lohn heisst dasselbe Nullrunde",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Gleiche Packung, gleicher Preis, weniger drin: bei Zweifel-Chips heisst das Shrinkflation. Beim Lohn heisst es Nullrunde."
     }
   ]
 }
