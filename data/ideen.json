@@ -1,8 +1,48 @@
 {
   "datum": "2026-11-09",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-09-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lohngeheimnis als Pokerspiel, bei dem die Firma alle Karten sieht und unhöflich ist, wer die eigene zeigt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Lohngeheimnis ist ein Pokerspiel, bei dem die Firma alle Karten sieht. Und unhöflich ist, wer seine eigene zeigt."
+    },
+    {
+      "id": "2026-11-09-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nach dem Lohn fragen gilt als unanständig, der Lohn selbst nicht, Frage für den Knigge des Arbeitgeberverbands",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wieso gilt die Frage nach dem Lohn beim Abendessen als unanständig, der Lohn selbst aber nicht? Frage für den Knigge des Arbeitgeberverbands."
+    },
+    {
+      "id": "2026-11-09-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angestellte vergleichen Löhne: Vertrauensbruch. Firma vergleicht Löhne: Benchmarking mit McKinsey-Mandat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Angestellte vergleichen ihre Löhne, Firma so: Vertrauensbruch, sofort ins HR. Firma vergleicht die Löhne der Konkurrenz, Firma so: Benchmarking, McKinsey-Mandat, Apéro riche."
+    },
+    {
+      "id": "2026-11-09-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lohngeheimnis als einzige Schweigepflicht, für die Frauen bezahlen statt bezahlt zu werden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Das Lohngeheimnis ist die einzige Schweigepflicht, für die Frauen bezahlen."
+    },
     {
       "id": "2026-11-09-0757-11",
       "typ": "schnittmenge",
