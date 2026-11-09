@@ -1,61 +1,60 @@
 {
-  "stand": "2026-11-09T08:01:12+01:00",
-  "lauf": "0800",
+  "stand": "2026-11-09T17:00:26+01:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0800-1",
-      "titel": "Internationale Klimadiplomatie – Was ist zu erwarten von der Klimakonferenz in Antalya?",
-      "was": "Delegierte und Gastgeber beim Gruppenfoto zur Eröffnung der Klimakonferenz in Antalya",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, etwa am Kerosin der Anreise oder an der Zahl der Konferenzen. Achse: Zum 31. Mal feierlich versammelt gegen eine Welt, die seit 30 Jahren nicht au",
+      "id": "1700-1",
+      "titel": "Spionagefall bei Nvidia – Huangs Nähe zu Trump ist für China hochinteressant",
+      "was": "Jensen Huang in Lederjacke auf der Bühne, mit Nvidia-Chip in der Hand",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Ein Konzern sperrt seine Chips mit Exportkontrollen vor China, während der eigene Chef privat die Tür offen lässt.",
       "grund": "breit",
-      "raum": "weltweit",
+      "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
-        "taz"
-      ],
-      "artikel": "https://www.srf.ch/wissen/klimawandel/internationale-klimadiplomatie-was-ist-zu-erwarten-von-der-klimakonferenz-in-antalya",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf/d04a713.jpg",
-      "zeit": "2026-11-09T06:15+01:00"
-    },
-    {
-      "id": "0800-2",
-      "titel": "Tückische Liebschaft – Nvidia-Chef hatte Affäre mit möglicher chinesischer Spionin",
-      "was": "Jensen Huang in Lederjacke auf der Bühne, Nvidia-Chip in der Hand",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Washington sperrt die Chips für China, der Chef selbst lässt China ganz nah ran.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "SRF",
-      "auch_bei": [
-        "20 Minuten",
-        "Spiegel",
         "Tagesschau"
       ],
-      "artikel": "https://www.srf.ch/news/international/tueckische-liebschaft-nvidia-chef-hatte-affaere-mit-moeglicher-chinesischer-spionin",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/79c868.jpg",
-      "zeit": "2026-11-09T06:22+01:00"
+      "artikel": "https://www.srf.ch/news/international/spionagefall-bei-nvidia-huangs-naehe-zu-trump-ist-fuer-china-hochinteressant",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/c42da4.jpg",
+      "zeit": "2026-11-09T09:53+01:00"
     },
     {
-      "id": "0800-3",
-      "titel": "«O’zapft is!» im Nati-Hotel – Halligalli vor Nations League",
-      "was": "Nati-Spieler mit Bierkrug und Rodeo-Bulle im Säntispark-Hotel, Oktoberfest-Deko",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Party bis nach Mitternacht wird zur professionellen Spielvorbereitung, Bierzelt und Bullenreiten zum Trainingslager.",
+      "id": "1700-2",
+      "titel": "Ilse Aigner: CDU-Vorstand schlägt CSU-Politikerin als Bundespräsidentin vor",
+      "was": "Merz und Aigner beim Handschlag vor Parteilogo, beide feierlich lächelnd",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Monatelang zögern und jetzt so tun, als sei es von Anfang an Herzenssache gewesen.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "Spiegel",
+      "auch_bei": [
+        "SRF",
+        "Tagesschau"
+      ],
+      "artikel": "https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor-a-a452ab1c-5e43-41af-991e-3217bd713cbc#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/6e9aea07-02a2-45b9-bad3-03e37858c198_w520_r2.08_fpx53_fpy38.jpg",
+      "zeit": "2026-11-09T13:17+01:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Diesen Schoggichueche backte Sandra Studer für Kamala Harris",
+      "was": "Sandra Studer überreicht Kamala Harris einen selbstgebackenen Schoggichueche",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Weltpolitik wird auf Schweizer Art mit Schokoladenkuchen statt mit Haltung abgewickelt.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/oktoberfest-o-zapft-is-im-nati-hotel-halligalli-vor-nations-league-103662221",
-      "bild": "https://image.20min.ch/2026/11/08/ceb83b64-c0e0-4dd1-ae1b-bad4895e997b.jpg?s=71cd89fe05d5c655fa3787ccf910873d",
-      "zeit": "2026-11-09T07:54+01:00"
+      "artikel": "https://www.20min.ch/story/schoggikuchen-fuer-kamala-harris-das-rezept-von-sandra-studer-zum-nachbacken-103664532",
+      "bild": "https://image.20min.ch/2026/11/09/792110c7-7c26-4c93-a31f-9ac8ec51d88d.jpg?s=3b628e028d4e57c3aef888677d163247",
+      "zeit": "2026-11-09T16:54+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, laufend",
-      "was": "Eröffnung der COP31 in Antalya mit Reden, Handschlägen und Familienfoto der Delegationen"
+      "wann": "heute laufend",
+      "was": "Gruppenfoto und Händeschütteln der Delegationen beim Start der COP31 in Antalya"
     },
     {
-      "wann": "heute",
-      "was": "Papst Leo XIV. in Argentinien, möglicher Auftritt neben Präsident Milei"
+      "wann": "heute laufend",
+      "was": "Papst Leo XIV. bei Begrüssungsszenen auf seiner Südamerika-Reise"
     }
   ],
   "hinweis": ""
