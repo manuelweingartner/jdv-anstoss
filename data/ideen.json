@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-09",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -16,6 +16,21 @@
         "witz": true,
         "anker": true,
         "neu": true
+      }
+    },
+    {
+      "id": "2026-11-09-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Am selben Tag: China blockiert den Verkauf der ABB-Robotiksparte, Trump verspricht der Ukraine «eine etwas andere Form»",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "China blockiert den Verkauf der ABB-Robotiksparte, am selben Tag verspricht Trump der Ukraine «eine etwas andere Form». Für Roboter gibt es wenigstens eine Übernahmeprüfung. Mit Einsprachefrist.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": false
       }
     },
     {
@@ -94,21 +109,6 @@
       }
     },
     {
-      "id": "2026-11-09-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Engadiner Seen einst von Schulkindern mit dem Schokoladentaler gerettet, Naturschutz finanziert wie ein Klassenlager",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die Engadiner Seen wurden einst von Schulkindern gerettet, die Schokoladentaler verkauften. Naturschutz läuft hier bis heute wie ein Klassenlager: Kuchenverkauf, Elternbrief, Restbetrag offen.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-11-09-0757-24",
       "typ": "politisch-aktuell",
       "stichwort": "Glarus sucht Ideen für Hunderte leere Scheunen, scheinbare Zustimmung zu «die Schweiz ist voll», notfalls sogar Menschen",
@@ -124,18 +124,18 @@
       }
     },
     {
-      "id": "2026-11-09-0757-26",
+      "id": "2026-11-09-0757-30",
       "typ": "politisch-aktuell",
-      "stichwort": "Tempo 30 in Kriens, Angst der Autolobby ernst genommen: am Ende überleben die Kinder den Schulweg",
+      "stichwort": "Neid auf den steuerfreien Aktiengewinn, der dafür nicht einmal gearbeitet hat",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Kriens führt Tempo 30 ein. Habe Angst, am Ende überleben die Kinder den Schulweg.",
+      "text": "Einmal so wenig Steuern zahlen wie ein Aktiengewinn. Der hat dafür nicht mal gearbeitet.",
       "jury": {
-        "anker": true,
+        "anker": false,
         "witz": true,
-        "neu": true
+        "neu": false
       }
     },
     {
