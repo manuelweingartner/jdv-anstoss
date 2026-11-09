@@ -11,17 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Gerettet wurden die Engadiner Seen einst mit Schoggitalern. Seither ist Naturschutz in der Schweiz Kinderarbeit."
-    },
-    {
-      "id": "2026-11-09-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Am selben Tag: China blockiert den Verkauf der ABB-Robotiksparte, Trump verspricht der Ukraine «eine etwas andere Form»",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "China blockiert den Verkauf der ABB-Robotiksparte, am selben Tag verspricht Trump der Ukraine «eine etwas andere Form». Für Roboter gibt es wenigstens eine Übernahmeprüfung. Mit Einsprachefrist."
+      "text": "Gerettet wurden die Engadiner Seen einst mit Schoggitalern. Seither ist Naturschutz in der Schweiz Kinderarbeit.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-09-0757-03",
@@ -31,7 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Seh ich das richtig, auf einem Fussballplatz in Lugano spielt Herkunft keine Rolle, und das ist eine Reportage wert? Mit Fotograf. Unter «Integration»."
+      "text": "Seh ich das richtig, auf einem Fussballplatz in Lugano spielt Herkunft keine Rolle, und das ist eine Reportage wert? Mit Fotograf. Unter «Integration».",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-09-0757-04",
@@ -41,17 +41,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Hacker wärmen in Köniz ein Metzgerei-Kühlregal auf, sofort warnt der Bund. Gleiche Woche, Klimakonferenz in Antalya: vielleicht muss man die Erde als Cervelat anmelden. Mit Kühlkette."
-    },
-    {
-      "id": "2026-11-09-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Tempo 30 auf der Kantonsstrasse in Kriens, scheinbare Zustimmung zum Freiheitsargument der Autolobby",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Tempo 30 auf der Kantonsstrasse in Kriens. Stimmt, Freiheit endet dort, wo Kinder überleben."
+      "text": "Hacker wärmen in Köniz ein Metzgerei-Kühlregal auf, sofort warnt der Bund. Gleiche Woche, Klimakonferenz in Antalya: vielleicht muss man die Erde als Cervelat anmelden. Mit Kühlkette.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-09-0757-06",
@@ -61,37 +56,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Trump sagt, die Ukraine habe nach dem Krieg «etwas andere Form». Versteh die Aufregung nicht, nach dem Einbruch hat die Stube auch eine andere Form. Ohne Fernseher."
-    },
-    {
-      "id": "2026-11-09-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lohngeheimnis als Pokerspiel, bei dem die Firma alle Karten sieht und unhöflich ist, wer die eigene zeigt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Lohngeheimnis ist ein Pokerspiel, bei dem die Firma alle Karten sieht. Und unhöflich ist, wer seine eigene zeigt."
-    },
-    {
-      "id": "2026-11-09-0757-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nach dem Lohn fragen gilt als unanständig, der Lohn selbst nicht, Frage für den Knigge des Arbeitgeberverbands",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wieso gilt die Frage nach dem Lohn beim Abendessen als unanständig, der Lohn selbst aber nicht? Frage für den Knigge des Arbeitgeberverbands."
-    },
-    {
-      "id": "2026-11-09-0757-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angestellte vergleichen Löhne: Vertrauensbruch. Firma vergleicht Löhne: Benchmarking mit McKinsey-Mandat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Angestellte vergleichen ihre Löhne, Firma so: Vertrauensbruch, sofort ins HR. Firma vergleicht die Löhne der Konkurrenz, Firma so: Benchmarking, McKinsey-Mandat, Apéro riche."
+      "text": "Trump sagt, die Ukraine habe nach dem Krieg «etwas andere Form». Versteh die Aufregung nicht, nach dem Einbruch hat die Stube auch eine andere Form. Ohne Fernseher.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-09-0757-10",
@@ -101,7 +71,87 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Das Lohngeheimnis ist die einzige Schweigepflicht, für die Frauen bezahlen."
+      "text": "Das Lohngeheimnis ist die einzige Schweigepflicht, für die Frauen bezahlen.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-09-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Bombendrohungen im Flugverkehr: Risiko sehr klein, trotzdem sofortige Notlandung; Klimarisiko gesichert, dafür Bonusmeilen",
+      "plattform": "Instagram + Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Bombendrohung an Bord, Risiko sehr klein: sofortige Notlandung. Klimakrise, Risiko wissenschaftlich gesichert: Bonusmeilen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-09-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Engadiner Seen einst von Schulkindern mit dem Schokoladentaler gerettet, Naturschutz finanziert wie ein Klassenlager",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die Engadiner Seen wurden einst von Schulkindern gerettet, die Schokoladentaler verkauften. Naturschutz läuft hier bis heute wie ein Klassenlager: Kuchenverkauf, Elternbrief, Restbetrag offen.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-09-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Glarus sucht Ideen für Hunderte leere Scheunen, scheinbare Zustimmung zu «die Schweiz ist voll», notfalls sogar Menschen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, die Schweiz ist voll. Sieht man an den Hunderten leeren Glarner Scheunen, für die jetzt händeringend Ideen gesucht werden, notfalls sogar Menschen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-09-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tempo 30 in Kriens, Angst der Autolobby ernst genommen: am Ende überleben die Kinder den Schulweg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Kriens führt Tempo 30 ein. Habe Angst, am Ende überleben die Kinder den Schulweg.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-09-0757-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hausordnung verbietet Duschen nach 22 Uhr, Mieterhöhungen dürfen jederzeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Die Hausordnung verbietet Duschen nach 22 Uhr. Mieterhöhungen dürfen jederzeit, auch sonntags, auch laut.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     }
   ]
 }
