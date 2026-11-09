@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-09",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-09-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schoggitaler rettete die Engadiner Seen, seither ist Naturschutz Kinderarbeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Gerettet wurden die Engadiner Seen einst mit Schoggitalern. Seither ist Naturschutz in der Schweiz Kinderarbeit."
+    },
+    {
+      "id": "2026-11-09-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Am selben Tag: China blockiert den Verkauf der ABB-Robotiksparte, Trump verspricht der Ukraine «eine etwas andere Form»",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "China blockiert den Verkauf der ABB-Robotiksparte, am selben Tag verspricht Trump der Ukraine «eine etwas andere Form». Für Roboter gibt es wenigstens eine Übernahmeprüfung. Mit Einsprachefrist."
+    },
+    {
+      "id": "2026-11-09-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fussballplatz in Lugano, wo Herkunft keine Rolle spielt, ist eine Reportage wert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, auf einem Fussballplatz in Lugano spielt Herkunft keine Rolle, und das ist eine Reportage wert? Mit Fotograf. Unter «Integration»."
+    },
     {
       "id": "2026-11-09-0757-07",
       "typ": "politisch-aktuell",
