@@ -1,157 +1,27 @@
 {
-  "datum": "2026-11-08",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-11-09",
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-08-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gleicher Tag: betrunkener Unteroffizier wird entlassen, Aeschi rangelte mit der Bundeshauspolizei und kandidiert für den Bundesrat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Gleicher Tag: Ein Unteroffizier fährt betrunken Auto und fliegt raus, Thomas Aeschi rangelte mit der Bundeshauspolizei und will Bundesrat werden. Nüchtern, übrigens.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-08-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Begehbare Riesen-Prostata für die Männervorsorge, bei Endometriose weiterhin der Rat zum Spazieren, gespielte Fairness",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Für die Prostata gibt es jetzt eine begehbare Riesenversion, für Endometriose weiterhin den Rat, mal spazieren zu gehen. Fair, bewegen sollen sich beide.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-08-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Eigentum ist Diebstahl, völliger Unsinn, Diebstahl geht schneller",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "Eigentum ist Diebstahl, behaupten die Linksextremen schon wieder. Völliger Unsinn. Diebstahl geht viel schneller.",
-      "jury": {
-        "anker": false,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-08-0757-11",
+      "id": "2026-11-09-0757-11",
       "typ": "schnittmenge",
-      "stichwort": "U20-Eishockeynati boykottiert Russland an der WM, für die Genfer Rohstoffhändler bleibt es ein Heimspiel",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "stichwort": "Bombendrohungen im Flugverkehr: Risiko sehr klein, trotzdem sofortige Notlandung; Klimarisiko gesichert, dafür Bonusmeilen",
+      "plattform": "Instagram + Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Swiss Ice Hockey lässt die U20 an der WM nicht gegen Russland antreten. Bei den Genfer Rohstoffhändlern bleibt es ein Heimspiel.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
+      "text": "Bombendrohung an Bord, Risiko sehr klein: sofortige Notlandung. Klimakrise, Risiko wissenschaftlich gesichert: Bonusmeilen."
     },
     {
-      "id": "2026-11-08-0757-12",
+      "id": "2026-11-09-0757-12",
       "typ": "politisch-aktuell",
-      "stichwort": "Liste aller Preise, die seit dem Ende der Teuerung wieder sinken: nur der Sparzins",
+      "stichwort": "Shrinkflation bei Zweifel-Chips: gleiche Packung, gleicher Preis, weniger drin; beim Lohn heisst dasselbe Nullrunde",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Alle Preise, die seit dem Ende der Teuerung wieder sinken:\n- der Sparzins",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-08-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Studie: kalt duschen ist gesünder, rhetorische Frage an die Krankenkasse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Laut neuer Studie ist kalt duschen gesünder. Wie lange, bis die Krankenkasse für warmes Wasser einen Prämienzuschlag verlangt? Rückwirkend.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-08-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Virales Video: dreist, bei Freund*innen zu übernachten, um das Hotel zu sparen; Glencore im Kanton Zug",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Das Netz findet es dreist, bei Freund*innen zu übernachten, nur um das Hotel zu sparen. Stimmt, Glencore macht das im Kanton Zug wenigstens mit Briefkasten.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-08-0757-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gap Year in Australien im Bewerbungsgespräch zeigt Eigeninitiative, finanziert per American Express vom Vater",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Das Gap Year in Australien kommt im Bewerbungsgespräch gut an. Zeigt Eigeninitiative. Weltoffenheit. Und eine American Express vom Vater.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-08-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "«Leistung muss sich wieder lohnen» von Leuten, deren grösste Leistung die Geburt war, erbracht von der Mutter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "«Leistung muss sich wieder lohnen», fordern die, deren grösste Leistung die Geburt war. Und die hat die Mutter erbracht.",
-      "jury": {
-        "anker": false,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-08-0757-32",
-      "typ": "politisch-aktuell",
-      "stichwort": "Beim Cookie-Banner ist «Ablehnen» grau und versteckt, genau wie das Recht auf Mietsenkung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Beim Cookie-Banner ist «Ablehnen» grau, winzig und gut versteckt. Wie das Recht auf Mietsenkung.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
+      "text": "Gleiche Packung, gleicher Preis, weniger drin: bei Zweifel-Chips heisst das Shrinkflation. Beim Lohn heisst es Nullrunde."
     }
   ]
 }
