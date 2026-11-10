@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-10",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -64,21 +64,6 @@
       }
     },
     {
-      "id": "2026-11-10-1404-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pharmaverbände lobbyieren gegen langsame Ethikkommissionen, die Angst der Branche ernst genommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Habe Angst vor Ethikkommissionen. Die fragen bei Medikamententests tatsächlich, ob die Testperson einverstanden ist.",
-      "jury": {
-        "neu": true,
-        "anker": false,
-        "witz": true
-      }
-    },
-    {
       "id": "2026-11-10-1404-07",
       "typ": "politisch-aktuell",
       "stichwort": "Lagerabteil in Zürich am selben Tag, ohne Betreibungsauszug und Dossier, nur eben für Sofas",
@@ -124,18 +109,18 @@
       }
     },
     {
-      "id": "2026-11-10-1404-25",
+      "id": "2026-11-10-1404-23",
       "typ": "politisch-aktuell",
-      "stichwort": "Pharmaverbände wollen schnellere klinische Studien, Zustimmung bis Contergan",
+      "stichwort": "Hegseth-Impeachment wegen rechtswidrigem Iran-Krieg, als gäbe es für Bomben ein Formular",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, die Ethikkommissionen bremsen die Pharmaforschung. Contergan war damals viel schneller auf dem Markt.",
+      "text": "Hegseth droht Amtsenthebung, sein Iran-Krieg sei rechtswidrig. Nächstes Mal also mit Formular, gestempelt, unterschrieben.",
       "jury": {
-        "witz": true,
-        "neu": false,
-        "anker": true
+        "witz": false,
+        "anker": true,
+        "neu": true
       }
     },
     {
