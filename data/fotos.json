@@ -1,64 +1,55 @@
 {
-  "stand": "2026-11-10T08:01:03+01:00",
-  "lauf": "0800",
+  "stand": "2026-11-10T17:00:38+01:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0800-1",
-      "titel": "Antrag auf Amtsenthebung: Teile der Republikaner wollen Hegseth loswerden",
-      "was": "Pete Hegseth am Rednerpult im Pentagon, angespannter Blick, Flaggen dahinter",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: ein Verteidigungsminister, der Kriege anführt, sich aber sechs Monate lang vor einer Pressekonferenz drückt und jetzt die eigene Partei als Gegn",
+      "id": "1700-1",
+      "titel": "Politisch versiert und 30: Benjamin Fisch moderiert «Arena»",
+      "was": "Benjamin Fisch im Arena-Studio, im Rednerkreis vor leeren Pulten",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein 30-jähriger Moderator gegen Parteigäste, die schon seit seiner Geburt in der Arena dieselben Sätze sagen.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "taz",
+      "raum": "schweiz",
+      "quelle": "20 Minuten",
       "auch_bei": [
-        "20 Minuten",
-        "SRF",
-        "Spiegel",
+        "NZZ"
+      ],
+      "artikel": "https://www.20min.ch/story/politikjournalist-benjamin-fisch-loest-sandro-brotz-als-arena-moderator-ab-103665187",
+      "bild": "https://image.20min.ch/2026/11/10/bf2c1791-6c44-4287-9e3b-c11b47d87dd4.webp?s=d2e251679ebce459076a5ddee4cc0b2f",
+      "zeit": "2026-11-10T14:14+01:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "Gespräche in Abu Dhabi – Die Ukraine und Russland verhandeln – was davon zu erwarten ist",
+      "was": "Delegationen der Ukraine, Russlands und der USA am Verhandlungstisch in Abu Dhabi",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Europa bezahlt die Rechnung, hat aber keinen Stuhl an dem Tisch, an dem entschieden wird.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "SRF",
+      "auch_bei": [
         "Tagesschau"
       ],
-      "artikel": "https://taz.de/Antrag-auf-Amtsenthebung/!6228836/",
-      "bild": "https://taz.de/picture/8854469/948/Impeachment-Hegseth.jpeg",
-      "zeit": "2026-11-10T07:56+01:00"
+      "artikel": "https://www.srf.ch/news/international/ukraine/gespraeche-in-abu-dhabi-die-ukraine-und-russland-verhandeln-was-davon-zu-erwarten-ist",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/88a7cf.jpg",
+      "zeit": "2026-11-10T14:14+01:00"
     },
     {
-      "id": "0800-2",
-      "titel": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: FBI ermittelt laut Trump +++ Aktionäre verklagen das Unternehmen und Chef Huang",
-      "was": "Jensen Huang in Lederjacke auf der Bühne, Nvidia-Logo im Hintergrund",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Washington riegelt Chips mit Exportkontrollen gegen China ab, während der Chef selbst die offene Schnittstelle war.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "Spiegel",
-        "Tagesschau",
-        "taz"
-      ],
-      "artikel": "https://www.nzz.ch/wirtschaft/spionageaffaere-bei-nvidia-der-kurs-des-chip-unternehmens-bricht-ein-ld.10058640",
-      "bild": "https://img-msp-prod.nzz.ch/2026/11/08/29548df6-42ba-463e-ba0b-d7d14aecb6b7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5305,5305,x1327,y0",
-      "zeit": "2026-11-10T07:30+01:00"
-    },
-    {
-      "id": "0800-3",
-      "titel": "Diesen Schoggichueche backte Sandra Studer für Kamala Harris",
-      "was": "Sandra Studer überreicht Kamala Harris in Bern einen selbst gebackenen Schoggichueche",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Schweizer Gastfreundschaft im Backformat als Antwort auf Weltpolitik, an einen Gast verschenkt, der nichts mehr zu entscheiden hat.",
+      "id": "1700-3",
+      "titel": "«Wunderschöne Stadt»: Reese Witherspoon schwärmt von Basel",
+      "was": "Reese Witherspoon lächelt auf dem Barfüsserplatz in Basel in die Kamera",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Hollywood schwärmt vom Barfi, Basel kennt ihn als Tramknoten und Dauerbaustelle.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/schoggikuchen-fuer-kamala-harris-das-rezept-von-sandra-studer-zum-nachbacken-103664532",
-      "bild": "https://image.20min.ch/2026/11/09/792110c7-7c26-4c93-a31f-9ac8ec51d88d.jpg?s=3b628e028d4e57c3aef888677d163247",
-      "zeit": "2026-11-09T16:54+01:00"
+      "artikel": "https://www.20min.ch/story/reese-witherspoon-in-basel-hollywood-star-postet-foto-vom-barfuesserplatz-103665080",
+      "bild": "https://image.20min.ch/2026/11/10/72974cd0-8c07-477b-8632-ab6601db418c.jpg?s=a8e387f7fdfc3675b3e4cf8cc14bc016",
+      "zeit": "2026-11-10T12:36+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, laufend",
-      "was": "Zweiter Tag COP31 in Antalya: Gruppenfotos, Händeschütteln, Delegationen vor Klimakulissen"
-    },
-    {
-      "wann": "heute, Zeit offen",
-      "was": "Hegseth an seiner angekündigten Pressekonferenz im Pentagon, falls sie heute stattfindet"
+      "wann": "heute laufend",
+      "was": "Gruppenfoto oder Handschlag der Delegationen bei den Ukraine-Gesprächen in Abu Dhabi"
     }
   ],
   "hinweis": ""
