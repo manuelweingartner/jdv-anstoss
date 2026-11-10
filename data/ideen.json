@@ -11,17 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Über 200 Kleinbrauereien sind in fünf Jahren verschwunden, und niemand hat übers Wochenende Notrecht beschlossen? Frage für Karin Keller-Sutter."
-    },
-    {
-      "id": "2026-11-10-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hacker erpressen den Bund mit Pensionskassendaten, gleichentags Klimagipfel in Antalya, wo die Schweiz bei der Erpresserin um Fristerstreckung bittet",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Hacker erpressen den Bund mit gestohlenen Pensionskassendaten. Gleichentags beginnt in Antalya der Klimagipfel, wo die Erpresserin Überschwemmungen schickt und die Schweiz um Fristerstreckung bittet."
+      "text": "Über 200 Kleinbrauereien sind in fünf Jahren verschwunden, und niemand hat übers Wochenende Notrecht beschlossen? Frage für Karin Keller-Sutter.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-10-0757-03",
@@ -31,7 +26,57 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Sturm in Gaza, Kinder sterben in überfluteten Zelten. Bern so: Wetter, leider nicht sanktionierbar."
+      "text": "Sturm in Gaza, Kinder sterben in überfluteten Zelten. Bern so: Wetter, leider nicht sanktionierbar.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-11-10-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ex-Skirennfahrer Nico Caprez könnte als Schwiegersohn des Gründers Nvidia-Chef werden, ratlose Suche nach der übersprungenen Karrierestufe",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Nico Caprez, Ex-Skirennfahrer und Schwiegersohn des Nvidia-Gründers, hat eine Karrierestufe übersprungen und gilt als nächster Nvidia-Chef. Keine Ahnung, welche Stufe, die Hochzeit jedenfalls nicht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-10-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bund verlangt von den Energieunternehmen mehr Drohnenschutz, während er für Kampfjets Milliarden ausgibt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, die Schweiz kauft für sechs Milliarden Kampfjets, und vor Drohnen sollen sich die Kraftwerke jetzt selber schützen? Mit einem Schild «Drohnen verboten», vermutlich.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-10-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Reichtum mit Fleiss erklären wie den Lottogewinn mit sauberem Ankreuzen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer Reichtum mit Fleiss erklärt, erklärt auch einen Lottogewinn mit sauberem Ankreuzen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-10-0757-12",
@@ -41,7 +86,27 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 3,
-      "text": "Steht «Jetzt noch besser» auf der Zweifel-Packung, ist weniger drin. Auf der Rentenreform auch."
+      "text": "Steht «Jetzt noch besser» auf der Zweifel-Packung, ist weniger drin. Auf der Rentenreform auch.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": false
+      }
+    },
+    {
+      "id": "2026-11-10-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "In Basel verkaufter Thunfisch sieht frischer aus, als er ist, rhetorische Frage, ob das sonst nur die Neutralität darf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Basler Thunfisch sieht frischer aus, als er ist. Darf das sonst nur die Neutralität?",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
     },
     {
       "id": "2026-11-10-0757-24",
@@ -51,7 +116,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, als Komiker darf man heute wirklich gar nichts mehr. Russell Brand muss zehneinhalb Jahre ins Gefängnis, bloss wegen Vergewaltigung."
+      "text": "Stimmt, als Komiker darf man heute wirklich gar nichts mehr. Russell Brand muss zehneinhalb Jahre ins Gefängnis, bloss wegen Vergewaltigung.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-10-0757-25",
@@ -61,37 +131,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Kinder hängen nur noch am Handy. Zum Glück gibt es im Sportverein jetzt Anabolika."
-    },
-    {
-      "id": "2026-11-10-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizer Schwiegersohn von Jensen Huang als möglicher Nvidia-Chef, ratlose Frage nach der börsenkotierten Erbmonarchie",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seh ich das richtig, der Schwiegersohn von Jensen Huang wird vielleicht Nvidia-Chef, und Erbmonarchie ist wieder in Ordnung, sobald sie an der Börse ist?"
-    },
-    {
-      "id": "2026-11-10-0757-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Zürcher Mietwohnungen, deren Miete beim Mieterwechsel gesunken ist",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Vollständige Liste aller Zürcher Mietwohnungen, deren Miete beim Mieterwechsel gesunken ist:\n-\n-\nWeitergeleitet an den Hauseigentümerverband, zur Kenntnisnahme."
-    },
-    {
-      "id": "2026-11-10-0757-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wirtschaftsteil feiert Kriegsgewinne als starkes Quartal und warnt beim Pflegelohn vor der Lohn-Preis-Spirale",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Rüstungskonzern verdoppelt den Gewinn, weil Krieg ist, Wirtschaftsteil so: starkes Quartal, Glückwunsch. Pflegepersonal will mehr Lohn, weil Personal fehlt, Wirtschaftsteil so: gefährlich, Lohn-Preis-Spirale."
+      "text": "Kinder hängen nur noch am Handy. Zum Glück gibt es im Sportverein jetzt Anabolika.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
     },
     {
       "id": "2026-11-10-0757-29",
@@ -101,7 +146,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Seh ich das richtig: fremde Kinder betreuen ist ein Beruf, eigene sind eine Lücke im Lebenslauf, und beides delegieren heisst Verwaltungsrat?"
+      "text": "Seh ich das richtig: fremde Kinder betreuen ist ein Beruf, eigene sind eine Lücke im Lebenslauf, und beides delegieren heisst Verwaltungsrat?",
+      "jury": {
+        "neu": true,
+        "anker": false,
+        "witz": true
+      }
     }
   ]
 }
