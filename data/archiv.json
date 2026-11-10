@@ -22197,6 +22197,166 @@
         "neu": true
       },
       "datum": "2026-11-08"
+    },
+    {
+      "id": "2026-11-09-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schoggitaler rettete die Engadiner Seen, seither ist Naturschutz Kinderarbeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Gerettet wurden die Engadiner Seen einst mit Schoggitalern. Seither ist Naturschutz in der Schweiz Kinderarbeit.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-11-09"
+    },
+    {
+      "id": "2026-11-09-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Am selben Tag: China blockiert den Verkauf der ABB-Robotiksparte, Trump verspricht der Ukraine «eine etwas andere Form»",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "China blockiert den Verkauf der ABB-Robotiksparte, am selben Tag verspricht Trump der Ukraine «eine etwas andere Form». Für Roboter gibt es wenigstens eine Übernahmeprüfung. Mit Einsprachefrist.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-11-09"
+    },
+    {
+      "id": "2026-11-09-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fussballplatz in Lugano, wo Herkunft keine Rolle spielt, ist eine Reportage wert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, auf einem Fussballplatz in Lugano spielt Herkunft keine Rolle, und das ist eine Reportage wert? Mit Fotograf. Unter «Integration».",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-11-09"
+    },
+    {
+      "id": "2026-11-09-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hacker wärmen in Köniz ein Metzgerei-Kühlregal auf, der Bund schlägt Alarm; gleiche Woche Klimakonferenz in Antalya, gespielter Vorschlag, die Erde als Cervelat anzumelden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Hacker wärmen in Köniz ein Metzgerei-Kühlregal auf, sofort warnt der Bund. Gleiche Woche, Klimakonferenz in Antalya: vielleicht muss man die Erde als Cervelat anmelden. Mit Kühlkette.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-09"
+    },
+    {
+      "id": "2026-11-09-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump: die Ukraine werde nach dem Krieg eine «etwas andere Form» haben, ratloses Verständnis über die Einbruchs-Analogie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump sagt, die Ukraine habe nach dem Krieg «etwas andere Form». Versteh die Aufregung nicht, nach dem Einbruch hat die Stube auch eine andere Form. Ohne Fernseher.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-09"
+    },
+    {
+      "id": "2026-11-09-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lohngeheimnis als einzige Schweigepflicht, für die Frauen bezahlen statt bezahlt zu werden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Das Lohngeheimnis ist die einzige Schweigepflicht, für die Frauen bezahlen.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": false
+      },
+      "datum": "2026-11-09"
+    },
+    {
+      "id": "2026-11-09-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Bombendrohungen im Flugverkehr: Risiko sehr klein, trotzdem sofortige Notlandung; Klimarisiko gesichert, dafür Bonusmeilen",
+      "plattform": "Instagram + Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Bombendrohung an Bord, Risiko sehr klein: sofortige Notlandung. Klimakrise, Risiko wissenschaftlich gesichert: Bonusmeilen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-11-09"
+    },
+    {
+      "id": "2026-11-09-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Glarus sucht Ideen für Hunderte leere Scheunen, scheinbare Zustimmung zu «die Schweiz ist voll», notfalls sogar Menschen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, die Schweiz ist voll. Sieht man an den Hunderten leeren Glarner Scheunen, für die jetzt händeringend Ideen gesucht werden, notfalls sogar Menschen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-09"
+    },
+    {
+      "id": "2026-11-09-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf den steuerfreien Aktiengewinn, der dafür nicht einmal gearbeitet hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so wenig Steuern zahlen wie ein Aktiengewinn. Der hat dafür nicht mal gearbeitet.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-11-09"
+    },
+    {
+      "id": "2026-11-09-0757-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hausordnung verbietet Duschen nach 22 Uhr, Mieterhöhungen dürfen jederzeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Die Hausordnung verbietet Duschen nach 22 Uhr. Mieterhöhungen dürfen jederzeit, auch sonntags, auch laut.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-11-09"
     }
   ]
 }
