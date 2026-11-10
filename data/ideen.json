@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Nvidia-Chef Huang hatte eine Affäre mit einer mutmasslichen chinesischen Spionin. Exportkontrolle bei Kerzenlicht."
+      "text": "Nvidia-Chef Huang hatte eine Affäre mit einer mutmasslichen chinesischen Spionin. Exportkontrolle bei Kerzenlicht.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-10-2118-02",
@@ -21,17 +26,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Ein Neurologe und ein Philosoph so: Kinderhandys nicht verbieten, sondern einfühlsam begleiten. Instagram so: machen wir doch schon. Rund um die Uhr."
+      "text": "Ein Neurologe und ein Philosoph so: Kinderhandys nicht verbieten, sondern einfühlsam begleiten. Instagram so: machen wir doch schon. Rund um die Uhr.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-10-2118-03",
+      "id": "2026-11-10-2118-04",
       "typ": "politisch-aktuell",
-      "stichwort": "Gleiche Woche: Russell Brand kriegt zehneinhalb Jahre, Béatrice Keul wirft Trump dasselbe vor, bei ihm heisst die Strafe zweite Amtszeit",
+      "stichwort": "Gegner*innen der Feuerwerksinitiative berufen sich auf Tradition. Gespielte Zustimmung: Geflüchtete aus Charkiw sollen sich ja wie zu Hause fühlen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Russell Brand bekommt für Vergewaltigung zehneinhalb Jahre Haft, gleiche Woche wirft eine frühere Vize-Miss Schweiz Trump dasselbe vor. Bei ihm heisst die Strafe zweite Amtszeit."
+      "format": "frei",
+      "text": "Feuerwerk ist Tradition, sagen die Gegner*innen der Feuerwerksinitiative. Stimmt, wer aus Charkiw geflohen ist, soll sich hier auch ein bisschen wie zu Hause fühlen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-10-2118-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pharmaverbände sagen, Ethikkommissionen bremsen die Forschung. Gespielte Zustimmung: Die fragen vorher sogar die Versuchspersonen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Pharma findet, Ethikkommissionen bremsen die Forschung. Stimmt, die fragen vorher sogar die Versuchspersonen.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-10-2118-07",
@@ -41,47 +71,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Die Viertagewoche sei nicht finanzierbar, warnen Leute, deren Woche am Donnerstagabend in Gstaad endet. Mit Helikopter. Wegen Stau."
-    },
-    {
-      "id": "2026-11-10-2118-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Sonntagsruhe: Rasenmähen gibt eine Anzeige, Privatjet nach Samedan gibt einen Tisch",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Sonntags Rasenmähen: Anzeige vom Nachbarn. Sonntags Privatjet nach Samedan: Tisch im Kulm."
-    },
-    {
-      "id": "2026-11-10-2118-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste aller, die das unbezahlte UNO-Praktikum in Genf ohne Geld der Eltern geschafft haben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle, die das unbezahlte UNO-Praktikum in Genf ohne Geld der Eltern geschafft haben:\n-\n-\nBewerbungsschluss ist Freitag."
-    },
-    {
-      "id": "2026-11-10-2118-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schmarotzen heisst es, wenn jemand vom Geld anderer lebt, ausser es ist deren Miete, Frage für die Goldküste",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Warum heisst es eigentlich Schmarotzen, wenn jemand vom Geld anderer lebt, ausser es ist deren Miete? Frage für die Goldküste."
-    },
-    {
-      "id": "2026-11-10-2118-11",
-      "typ": "schnittmenge",
-      "stichwort": "Just Eat streicht 373 Stellen, um «flexibler» zu liefern, die einzelne Kurierin wäre bei derselben Kündigung unzuverlässig",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Kündigt eine Kurierin, ist sie unzuverlässig. Streicht Just Eat 373 Stellen, liefert es «flexibler»."
+      "text": "Die Viertagewoche sei nicht finanzierbar, warnen Leute, deren Woche am Donnerstagabend in Gstaad endet. Mit Helikopter. Wegen Stau.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-10-2118-12",
@@ -91,17 +86,72 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Das Kartenterminal beim Bäcker fragt jetzt nach Trinkgeld. Lohnverhandlungen führt neuerdings die Kundschaft, an der Kasse, mit der Schlange im Nacken."
+      "text": "Das Kartenterminal beim Bäcker fragt jetzt nach Trinkgeld. Lohnverhandlungen führt neuerdings die Kundschaft, an der Kasse, mit der Schlange im Nacken.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-10-2118-24",
+      "id": "2026-11-10-2118-21",
       "typ": "politisch-aktuell",
-      "stichwort": "Feuerwerksinitiative: Raketen im Wohnquartier sind Freiheit, die Demo im selben Quartier braucht Bewilligung und Nachtruhe",
+      "stichwort": "Nvidia darf keine Spitzenchips nach China liefern, Jensen Huang hatte eine Affäre mit einer mutmasslichen chinesischen Spionin, Direktvertrieb",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, die Feuerwerksinitiative ist Bevormundung, Raketen im Wohnquartier sind Freiheit. Eine Demo im selben Quartier braucht halt Bewilligung, Ordnungsdienst und Nachtruhe ab der Tagesschau."
+      "text": "Nvidia darf seine besten Chips nicht nach China verkaufen. Chef Jensen Huang hatte derweil eine Affäre mit einer mutmasslichen chinesischen Spionin, Direktvertrieb, zollfrei.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-10-2118-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Prinz Harry fordert in Brüssel unter Tränen Kinderschutz im Internet, rhetorische Frage nach dem Onkel",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Prinz Harry fordert in Brüssel unter Tränen mehr Kinderschutz im Internet. Weiss das sein Onkel?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-10-2118-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf die Jura-Kaffeemaschine im Pausenraum, die regelmässig gewartet wird",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so regelmässig gewartet und entkalkt werden wie die Jura-Kaffeemaschine im Pausenraum.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-10-2118-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste aller Hotlines, bei denen sofort ein Mensch abnimmt, als Antwort kommt nur die Bandansage",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Hotlines, bei denen sofort ein Mensch abnimmt:\n-\n-\nIhr Anruf ist uns wichtig.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     }
   ]
 }
