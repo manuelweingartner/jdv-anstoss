@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-10",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -64,21 +64,6 @@
       }
     },
     {
-      "id": "2026-11-10-2118-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Viertagewoche gilt als nicht finanzierbar, gewarnt wird von Leuten, deren Woche am Donnerstag in Gstaad endet",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die Viertagewoche sei nicht finanzierbar, warnen Leute, deren Woche am Donnerstagabend in Gstaad endet. Mit Helikopter. Wegen Stau.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-11-10-2118-12",
       "typ": "politisch-aktuell",
       "stichwort": "Trinkgeld-Abfrage am Kartenterminal beim Bäcker, Lohnverhandlung an die Kundschaft ausgelagert",
@@ -94,21 +79,6 @@
       }
     },
     {
-      "id": "2026-11-10-2118-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nvidia darf keine Spitzenchips nach China liefern, Jensen Huang hatte eine Affäre mit einer mutmasslichen chinesischen Spionin, Direktvertrieb",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Nvidia darf seine besten Chips nicht nach China verkaufen. Chef Jensen Huang hatte derweil eine Affäre mit einer mutmasslichen chinesischen Spionin, Direktvertrieb, zollfrei.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
       "id": "2026-11-10-2118-23",
       "typ": "politisch-aktuell",
       "stichwort": "Prinz Harry fordert in Brüssel unter Tränen Kinderschutz im Internet, rhetorische Frage nach dem Onkel",
@@ -121,6 +91,21 @@
         "witz": true,
         "anker": true,
         "neu": true
+      }
+    },
+    {
+      "id": "2026-11-10-2118-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hackergruppe Akira erpresst den Bund mit Geheimdienstdaten, gespielte Sorge, dass Fremde Daten über Unbescholtene sammeln",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Hacker erpressen den Bund mit gestohlenen Geheimdienstdaten. Schwierig, man will ja nicht, dass Fremde einfach Daten über Unbescholtene sammeln, dafür gibt es schliesslich den Nachrichtendienst.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": false
       }
     },
     {
