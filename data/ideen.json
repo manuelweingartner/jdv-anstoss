@@ -1,142 +1,27 @@
 {
   "datum": "2026-11-10",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-10-1404-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Sandoz bringt die günstige Abnehmspritze nach Brasilien, in der Schweiz will nur die Krankenkassenprämie nicht abnehmen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Sandoz bringt die günstige Abnehmspritze nach Brasilien. Hier will die Krankenkassenprämie einfach nicht abnehmen.",
-      "jury": {
-        "witz": false,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-11-10-1404-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Transalpes pleite, Vorkasse-Kundschaft ohne Velo, leere Liste ihrer Garantien, am selben Tag private Defizitgarantie für Olympia in der Schweiz",
-      "plattform": "Threads + Bluesky",
+      "id": "2026-11-10-2118-11",
+      "typ": "schnittmenge",
+      "stichwort": "Just Eat streicht 373 Stellen, um «flexibler» zu liefern, die einzelne Kurierin wäre bei derselben Kündigung unzuverlässig",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Velomarke Transalpes ist pleite, hier alle Garantien für die Kundschaft, die schon bezahlt hat:\n-\n-\nOlympia in der Schweiz bekam am selben Tag eine. Privat finanziert.",
-      "jury": {
-        "witz": false,
-        "neu": true,
-        "anker": true
-      }
+      "format": 1,
+      "text": "Kündigt eine Kurierin, ist sie unzuverlässig. Streicht Just Eat 373 Stellen, liefert es «flexibler»."
     },
     {
-      "id": "2026-11-10-1404-04",
+      "id": "2026-11-10-2118-12",
       "typ": "politisch-aktuell",
-      "stichwort": "Schweizer Betriebe stöhnen unter der Bürokratielast, ratlose Suche nach der Stelle, die zuerst Verständnis zeigen soll: IV oder Sozialamt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Schweizer Betriebe stöhnen unter der Bürokratielast und verlangen Entlastung. Schwer zu sagen, wer da zuerst Verständnis zeigen soll: die IV-Stelle oder das Sozialamt.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-10-1404-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ausstoss fossiler Treibhausgase sinkt erstmals wegen des Irankriegs, gespielte Ratlosigkeit über die falschen Mittel des Klimastreiks",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Der weltweite Ausstoss aus Öl und Gas sinkt erstmals, dank Krieg im Iran. Weiss jetzt auch nicht, ob der Klimastreik einfach zu wenig Marschflugkörper hatte.",
-      "jury": {
-        "neu": false,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-10-1404-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lagerabteil in Zürich am selben Tag, ohne Betreibungsauszug und Dossier, nur eben für Sofas",
+      "stichwort": "Trinkgeld-Abfrage am Kartenterminal beim Bäcker, Lohnverhandlung an die Kundschaft ausgelagert",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ein Lagerabteil in Zürich bekommt man am selben Tag, ohne Betreibungsauszug, ohne Bewerbungsdossier. Leider nur, wenn man ein Sofa ist.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-10-1404-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rüstungskonzerne reden bei Rekordaufträgen von Verantwortung, getragen wird sie von anderen, auf einer Bahre",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Rüstungskonzerne sprechen bei Rekordaufträgen gern von Verantwortung. Getragen wird sie wie immer von anderen, meistens auf einer Bahre.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-10-1404-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "Die Kundenkarte merkt eine Schwangerschaft am Einkauf, der Arbeitgeber will es auch wissen",
-      "plattform": "Instagram + Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Cumulus merkt vor dir, dass du schwanger bist. Dein Arbeitgeber arbeitet daran.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-11-10-1404-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hegseth-Impeachment wegen rechtswidrigem Iran-Krieg, als gäbe es für Bomben ein Formular",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Hegseth droht Amtsenthebung, sein Iran-Krieg sei rechtswidrig. Nächstes Mal also mit Formular, gestempelt, unterschrieben.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-10-1404-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Familiengarten braucht für ein Gartenhäuschen ein Baugesuch, der Golfclub bekommt den halben Wald und eine Startzeit",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Familiengarten will ein Gartenhäuschen, Gemeinde so: Baugesuch, Profile, Einsprachefrist. Golfclub will den halben Wald, Gemeinde so: Abschlag um elf?",
-      "jury": {
-        "neu": false,
-        "anker": true,
-        "witz": true
-      }
+      "format": 16,
+      "text": "Das Kartenterminal beim Bäcker fragt jetzt nach Trinkgeld. Lohnverhandlungen führt neuerdings die Kundschaft, an der Kasse, mit der Schlange im Nacken."
     }
   ]
 }
