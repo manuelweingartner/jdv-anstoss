@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-10",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,46 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Habe Angst vor Ethikkommissionen. Die fragen bei Medikamententests tatsächlich, ob die Testperson einverstanden ist."
+    },
+    {
+      "id": "2026-11-10-1404-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Rüstungskonzerne, die einen Waffenstillstand mit einer Pressemitteilung gefeiert haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Vollständige Liste aller Rüstungskonzerne, die einen Waffenstillstand mit einer Pressemitteilung gefeiert haben:\n-\n-\nDas wär's."
+    },
+    {
+      "id": "2026-11-10-1404-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vier-Tage-Woche nicht finanzierbar, sagen Leute, deren Geld auch am Wochenende arbeitet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die Vier-Tage-Woche sei nicht finanzierbar, sagen Leute, deren Geld auch am Wochenende arbeitet. Nachts, ohne Pause, ohne Gewerkschaft."
+    },
+    {
+      "id": "2026-11-10-1404-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Familiengarten braucht für ein Gartenhäuschen ein Baugesuch, der Golfclub bekommt den halben Wald und eine Startzeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Familiengarten will ein Gartenhäuschen, Gemeinde so: Baugesuch, Profile, Einsprachefrist. Golfclub will den halben Wald, Gemeinde so: Abschlag um elf?"
+    },
+    {
+      "id": "2026-11-10-1404-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wer am lautesten über Sozialhilfemissbrauch klagt, zahlt die Putzhilfe schwarz, rhetorische Frage an die Goldküste",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, wer am lautesten über Sozialhilfemissbrauch klagt, zahlt die Putzhilfe schwarz und in bar? Frage für die Goldküste."
     },
     {
       "id": "2026-11-10-1404-31",
