@@ -1,46 +1,46 @@
 {
-  "stand": "2026-11-09T08:01:41+01:00",
+  "stand": "2026-11-10T08:01:29+01:00",
   "vorschlaege": [
+    {
+      "vorlage": "schild",
+      "name": "Change My Mind",
+      "zeilen": [
+        "Das beste Backup haben die Hacker"
+      ],
+      "warum": "eine These, der niemand widersprechen kann, solange der Bund bei der Publica-Lieferantin erpresst wird",
+      "bild": "vorschlag-1.jpg"
+    },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Ukraine kleiner machen",
-        "Putin stoppen",
-        "Trump"
+        "Ergebnis anzweifeln",
+        "Niederlage akzeptieren",
+        "Trump, eine Woche nach den Midterms"
       ],
-      "warum": "Trump verkauft territoriale Zugeständnisse als Frieden, das ist der Schwenk kurz vor der Ausfahrt, bei dem der naheliegende Weg liegen bleib",
-      "bild": "vorschlag-1.jpg"
+      "warum": "die verspätete Kehrtwende ist genau der Ruck am Steuer in der letzten Sekunde",
+      "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "1950er: Schoggitaler",
-        "rettet die Engadiner Seen",
-        "2026: Klimagipfel Nr. 31",
-        "Welt nicht auf Kurs"
+        "Pentagon früher",
+        "Briefing jede Woche",
+        "Pentagon unter Hegseth",
+        "eine Pressekonferenz in sechs Monaten"
       ],
-      "warum": "Ein Schoggitaler schaffte, was 31 Gipfel nicht schaffen, das ist das starke Früher gegen das klägliche Heute",
-      "bild": "vorschlag-2.jpg"
+      "warum": "Hegseths Rückzug aus der Öffentlichkeit ist der Absturz vom kräftigen Früher zum kläglichen Heute",
+      "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Affäre mit Spionin",
-        "Technologietransfer nach China"
+        "373 Stellen gestrichen",
+        "Schichtmodell flexibilisiert"
       ],
-      "warum": "Huangs Privatleben in der vornehmen Exportsprache, die die US-Behörden sonst seinen Chips vorbehalten",
-      "bild": "vorschlag-3.jpg"
-    },
-    {
-      "vorlage": "schild",
-      "name": "Change My Mind",
-      "zeilen": [
-        "Leerstand gibt es nur für Glarner Kühe"
-      ],
-      "warum": "800 leere Gaden neben einem Prozent leerer Wohnungen, die These stimmt und braucht keine Begründung",
+      "warum": "Just Eat liefert den Euphemismus gleich selbst mit, die Pointe ist schon die Medienmitteilung",
       "bild": "vorschlag-4.jpg"
     }
   ]
