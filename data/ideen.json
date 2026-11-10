@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-10",
-  "hinweis": "4 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,46 @@
       "haltbarkeit": "evergreen",
       "format": 3,
       "text": "Steht «Jetzt noch besser» auf der Zweifel-Packung, ist weniger drin. Auf der Rentenreform auch."
+    },
+    {
+      "id": "2026-11-10-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Zürcher Mietwohnungen, deren Miete beim Mieterwechsel gesunken ist",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Vollständige Liste aller Zürcher Mietwohnungen, deren Miete beim Mieterwechsel gesunken ist:\n-\n-\nWeitergeleitet an den Hauseigentümerverband, zur Kenntnisnahme."
+    },
+    {
+      "id": "2026-11-10-0757-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wirtschaftsteil feiert Kriegsgewinne als starkes Quartal und warnt beim Pflegelohn vor der Lohn-Preis-Spirale",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Rüstungskonzern verdoppelt den Gewinn, weil Krieg ist, Wirtschaftsteil so: starkes Quartal, Glückwunsch. Pflegepersonal will mehr Lohn, weil Personal fehlt, Wirtschaftsteil so: gefährlich, Lohn-Preis-Spirale."
+    },
+    {
+      "id": "2026-11-10-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Fremde Kinder betreuen ist ein Beruf, eigene eine Lücke im Lebenslauf, beides delegieren heisst Verwaltungsrat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig: fremde Kinder betreuen ist ein Beruf, eigene sind eine Lücke im Lebenslauf, und beides delegieren heisst Verwaltungsrat?"
+    },
+    {
+      "id": "2026-11-10-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pauschalsteuer für Superreiche als Schutzgeld, bei dem der Laden zahlt, damit die Mafia bleibt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Pauschalsteuer für Superreiche ist Schutzgeld, nur zahlt der Laden, damit die Mafia bleibt."
     }
   ]
 }
