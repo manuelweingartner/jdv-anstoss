@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-10",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-10-1404-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizer Betriebe stöhnen unter der Bürokratielast, ratlose Suche nach der Stelle, die zuerst Verständnis zeigen soll: IV oder Sozialamt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Schweizer Betriebe stöhnen unter der Bürokratielast und verlangen Entlastung. Schwer zu sagen, wer da zuerst Verständnis zeigen soll: die IV-Stelle oder das Sozialamt."
+    },
+    {
+      "id": "2026-11-10-1404-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ausstoss fossiler Treibhausgase sinkt erstmals wegen des Irankriegs, gespielte Ratlosigkeit über die falschen Mittel des Klimastreiks",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Der weltweite Ausstoss aus Öl und Gas sinkt erstmals, dank Krieg im Iran. Weiss jetzt auch nicht, ob der Klimastreik einfach zu wenig Marschflugkörper hatte."
+    },
+    {
+      "id": "2026-11-10-1404-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pharmaverbände lobbyieren gegen langsame Ethikkommissionen, die Angst der Branche ernst genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe Angst vor Ethikkommissionen. Die fragen bei Medikamententests tatsächlich, ob die Testperson einverstanden ist."
+    },
     {
       "id": "2026-11-10-1404-31",
       "typ": "schnittmenge",
