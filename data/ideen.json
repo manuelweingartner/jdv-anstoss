@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-10",
-  "hinweis": "1 von 10 da, der Rest lädt noch.",
+  "hinweis": "4 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-10-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Über 200 Kleinbrauereien in fünf Jahren verschwunden, kein Notrecht übers Wochenende, Frage an Keller-Sutter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Über 200 Kleinbrauereien sind in fünf Jahren verschwunden, und niemand hat übers Wochenende Notrecht beschlossen? Frage für Karin Keller-Sutter."
+    },
+    {
+      "id": "2026-11-10-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hacker erpressen den Bund mit Pensionskassendaten, gleichentags Klimagipfel in Antalya, wo die Schweiz bei der Erpresserin um Fristerstreckung bittet",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Hacker erpressen den Bund mit gestohlenen Pensionskassendaten. Gleichentags beginnt in Antalya der Klimagipfel, wo die Erpresserin Überschwemmungen schickt und die Schweiz um Fristerstreckung bittet."
+    },
+    {
+      "id": "2026-11-10-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sturm in Gaza, Kinder sterben in überfluteten Zelten, Bern so: Wetter, leider nicht sanktionierbar",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Sturm in Gaza, Kinder sterben in überfluteten Zelten. Bern so: Wetter, leider nicht sanktionierbar."
+    },
     {
       "id": "2026-11-10-0757-12",
       "typ": "politisch-aktuell",
