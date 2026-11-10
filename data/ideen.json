@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-10",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-10-1404-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Sandoz bringt die günstige Abnehmspritze nach Brasilien, in der Schweiz will nur die Krankenkassenprämie nicht abnehmen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Sandoz bringt die günstige Abnehmspritze nach Brasilien. Hier will die Krankenkassenprämie einfach nicht abnehmen."
+    },
+    {
+      "id": "2026-11-10-1404-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Transalpes pleite, Vorkasse-Kundschaft ohne Velo, leere Liste ihrer Garantien, am selben Tag private Defizitgarantie für Olympia in der Schweiz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Velomarke Transalpes ist pleite, hier alle Garantien für die Kundschaft, die schon bezahlt hat:\n-\n-\nOlympia in der Schweiz bekam am selben Tag eine. Privat finanziert."
+    },
+    {
+      "id": "2026-11-10-1404-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nationalbank kann sich 30 Prozent der Immobilienpreise nicht erklären, beim Sozialamt wäre das Betrug, am Zürichberg Wertsteigerung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Nationalbank kann sich 30 Prozent der Immobilienpreise nicht erklären. Beim Sozialamt hiesse das Betrug, am Zürichberg heisst es Wertsteigerung. Ohne Detektiv."
+    },
     {
       "id": "2026-11-10-1404-04",
       "typ": "politisch-aktuell",
@@ -72,26 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Seh ich das richtig, wer am lautesten über Sozialhilfemissbrauch klagt, zahlt die Putzhilfe schwarz und in bar? Frage für die Goldküste."
-    },
-    {
-      "id": "2026-11-10-1404-31",
-      "typ": "schnittmenge",
-      "stichwort": "Just Eat streicht 373 Stellen und nennt es flexibler liefern, gekündigt wird je nach Seite unzuverlässig oder flexibel",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Kündigt eine Kurierin, ist sie unzuverlässig. Kündigt Just Eat 373 Kurier*innen, liefert es «flexibler»."
-    },
-    {
-      "id": "2026-11-10-1404-32",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wohnungsbewerbung mit Betreibungsauszug und Motivationsschreiben, gespielte Ratlosigkeit, wer denn unmotiviert wohnen will",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Für eine Zweizimmerwohnung verlangt die Verwaltung neben dem Betreibungsauszug jetzt auch ein Motivationsschreiben. Wie unmotiviert müsste man eigentlich sein, um lieber unter der Brücke zu schlafen?"
     }
   ]
 }
