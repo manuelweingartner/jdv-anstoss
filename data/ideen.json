@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Sandoz bringt die günstige Abnehmspritze nach Brasilien. Hier will die Krankenkassenprämie einfach nicht abnehmen."
+      "text": "Sandoz bringt die günstige Abnehmspritze nach Brasilien. Hier will die Krankenkassenprämie einfach nicht abnehmen.",
+      "jury": {
+        "witz": false,
+        "neu": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-11-10-1404-02",
@@ -21,17 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Velomarke Transalpes ist pleite, hier alle Garantien für die Kundschaft, die schon bezahlt hat:\n-\n-\nOlympia in der Schweiz bekam am selben Tag eine. Privat finanziert."
-    },
-    {
-      "id": "2026-11-10-1404-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nationalbank kann sich 30 Prozent der Immobilienpreise nicht erklären, beim Sozialamt wäre das Betrug, am Zürichberg Wertsteigerung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die Nationalbank kann sich 30 Prozent der Immobilienpreise nicht erklären. Beim Sozialamt hiesse das Betrug, am Zürichberg heisst es Wertsteigerung. Ohne Detektiv."
+      "text": "Velomarke Transalpes ist pleite, hier alle Garantien für die Kundschaft, die schon bezahlt hat:\n-\n-\nOlympia in der Schweiz bekam am selben Tag eine. Privat finanziert.",
+      "jury": {
+        "witz": false,
+        "neu": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-11-10-1404-04",
@@ -41,7 +41,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Schweizer Betriebe stöhnen unter der Bürokratielast und verlangen Entlastung. Schwer zu sagen, wer da zuerst Verständnis zeigen soll: die IV-Stelle oder das Sozialamt."
+      "text": "Schweizer Betriebe stöhnen unter der Bürokratielast und verlangen Entlastung. Schwer zu sagen, wer da zuerst Verständnis zeigen soll: die IV-Stelle oder das Sozialamt.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-10-1404-05",
@@ -51,7 +56,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Der weltweite Ausstoss aus Öl und Gas sinkt erstmals, dank Krieg im Iran. Weiss jetzt auch nicht, ob der Klimastreik einfach zu wenig Marschflugkörper hatte."
+      "text": "Der weltweite Ausstoss aus Öl und Gas sinkt erstmals, dank Krieg im Iran. Weiss jetzt auch nicht, ob der Klimastreik einfach zu wenig Marschflugkörper hatte.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-10-1404-06",
@@ -61,27 +71,72 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Habe Angst vor Ethikkommissionen. Die fragen bei Medikamententests tatsächlich, ob die Testperson einverstanden ist."
+      "text": "Habe Angst vor Ethikkommissionen. Die fragen bei Medikamententests tatsächlich, ob die Testperson einverstanden ist.",
+      "jury": {
+        "neu": true,
+        "anker": false,
+        "witz": true
+      }
     },
     {
-      "id": "2026-11-10-1404-27",
+      "id": "2026-11-10-1404-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Rüstungskonzerne, die einen Waffenstillstand mit einer Pressemitteilung gefeiert haben",
+      "stichwort": "Lagerabteil in Zürich am selben Tag, ohne Betreibungsauszug und Dossier, nur eben für Sofas",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Vollständige Liste aller Rüstungskonzerne, die einen Waffenstillstand mit einer Pressemitteilung gefeiert haben:\n-\n-\nDas wär's."
+      "text": "Ein Lagerabteil in Zürich bekommt man am selben Tag, ohne Betreibungsauszug, ohne Bewerbungsdossier. Leider nur, wenn man ein Sofa ist.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-10-1404-28",
+      "id": "2026-11-10-1404-10",
       "typ": "politisch-aktuell",
-      "stichwort": "Vier-Tage-Woche nicht finanzierbar, sagen Leute, deren Geld auch am Wochenende arbeitet",
+      "stichwort": "Rüstungskonzerne reden bei Rekordaufträgen von Verantwortung, getragen wird sie von anderen, auf einer Bahre",
       "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Rüstungskonzerne sprechen bei Rekordaufträgen gern von Verantwortung. Getragen wird sie wie immer von anderen, meistens auf einer Bahre.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-10-1404-12",
+      "typ": "politisch-aktuell",
+      "stichwort": "Die Kundenkarte merkt eine Schwangerschaft am Einkauf, der Arbeitgeber will es auch wissen",
+      "plattform": "Instagram + Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Die Vier-Tage-Woche sei nicht finanzierbar, sagen Leute, deren Geld auch am Wochenende arbeitet. Nachts, ohne Pause, ohne Gewerkschaft."
+      "text": "Cumulus merkt vor dir, dass du schwanger bist. Dein Arbeitgeber arbeitet daran.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-11-10-1404-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pharmaverbände wollen schnellere klinische Studien, Zustimmung bis Contergan",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, die Ethikkommissionen bremsen die Pharmaforschung. Contergan war damals viel schneller auf dem Markt.",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      }
     },
     {
       "id": "2026-11-10-1404-29",
@@ -91,17 +146,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Familiengarten will ein Gartenhäuschen, Gemeinde so: Baugesuch, Profile, Einsprachefrist. Golfclub will den halben Wald, Gemeinde so: Abschlag um elf?"
-    },
-    {
-      "id": "2026-11-10-1404-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wer am lautesten über Sozialhilfemissbrauch klagt, zahlt die Putzhilfe schwarz, rhetorische Frage an die Goldküste",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seh ich das richtig, wer am lautesten über Sozialhilfemissbrauch klagt, zahlt die Putzhilfe schwarz und in bar? Frage für die Goldküste."
+      "text": "Familiengarten will ein Gartenhäuschen, Gemeinde so: Baugesuch, Profile, Einsprachefrist. Golfclub will den halben Wald, Gemeinde so: Abschlag um elf?",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
