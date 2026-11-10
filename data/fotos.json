@@ -1,43 +1,47 @@
 {
-  "stand": "2026-11-09T17:00:26+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-10T08:01:03+01:00",
+  "lauf": "0800",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Spionagefall bei Nvidia – Huangs Nähe zu Trump ist für China hochinteressant",
-      "was": "Jensen Huang in Lederjacke auf der Bühne, mit Nvidia-Chip in der Hand",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Ein Konzern sperrt seine Chips mit Exportkontrollen vor China, während der eigene Chef privat die Tür offen lässt.",
+      "id": "0800-1",
+      "titel": "Antrag auf Amtsenthebung: Teile der Republikaner wollen Hegseth loswerden",
+      "was": "Pete Hegseth am Rednerpult im Pentagon, angespannter Blick, Flaggen dahinter",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: ein Verteidigungsminister, der Kriege anführt, sich aber sechs Monate lang vor einer Pressekonferenz drückt und jetzt die eigene Partei als Gegn",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "weltweit",
+      "quelle": "taz",
       "auch_bei": [
-        "Tagesschau"
-      ],
-      "artikel": "https://www.srf.ch/news/international/spionagefall-bei-nvidia-huangs-naehe-zu-trump-ist-fuer-china-hochinteressant",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/c42da4.jpg",
-      "zeit": "2026-11-09T09:53+01:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Ilse Aigner: CDU-Vorstand schlägt CSU-Politikerin als Bundespräsidentin vor",
-      "was": "Merz und Aigner beim Handschlag vor Parteilogo, beide feierlich lächelnd",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Monatelang zögern und jetzt so tun, als sei es von Anfang an Herzenssache gewesen.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "Spiegel",
-      "auch_bei": [
+        "20 Minuten",
         "SRF",
+        "Spiegel",
         "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor-a-a452ab1c-5e43-41af-991e-3217bd713cbc#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/6e9aea07-02a2-45b9-bad3-03e37858c198_w520_r2.08_fpx53_fpy38.jpg",
-      "zeit": "2026-11-09T13:17+01:00"
+      "artikel": "https://taz.de/Antrag-auf-Amtsenthebung/!6228836/",
+      "bild": "https://taz.de/picture/8854469/948/Impeachment-Hegseth.jpeg",
+      "zeit": "2026-11-10T07:56+01:00"
     },
     {
-      "id": "1700-3",
+      "id": "0800-2",
+      "titel": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: FBI ermittelt laut Trump +++ Aktionäre verklagen das Unternehmen und Chef Huang",
+      "was": "Jensen Huang in Lederjacke auf der Bühne, Nvidia-Logo im Hintergrund",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Washington riegelt Chips mit Exportkontrollen gegen China ab, während der Chef selbst die offene Schnittstelle war.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "Spiegel",
+        "Tagesschau",
+        "taz"
+      ],
+      "artikel": "https://www.nzz.ch/wirtschaft/spionageaffaere-bei-nvidia-der-kurs-des-chip-unternehmens-bricht-ein-ld.10058640",
+      "bild": "https://img-msp-prod.nzz.ch/2026/11/08/29548df6-42ba-463e-ba0b-d7d14aecb6b7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5305,5305,x1327,y0",
+      "zeit": "2026-11-10T07:30+01:00"
+    },
+    {
+      "id": "0800-3",
       "titel": "Diesen Schoggichueche backte Sandra Studer für Kamala Harris",
-      "was": "Sandra Studer überreicht Kamala Harris einen selbstgebackenen Schoggichueche",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Weltpolitik wird auf Schweizer Art mit Schokoladenkuchen statt mit Haltung abgewickelt.",
+      "was": "Sandra Studer überreicht Kamala Harris in Bern einen selbst gebackenen Schoggichueche",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Schweizer Gastfreundschaft im Backformat als Antwort auf Weltpolitik, an einen Gast verschenkt, der nichts mehr zu entscheiden hat.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "20 Minuten",
@@ -49,12 +53,12 @@
   ],
   "erwartet": [
     {
-      "wann": "heute laufend",
-      "was": "Gruppenfoto und Händeschütteln der Delegationen beim Start der COP31 in Antalya"
+      "wann": "heute, laufend",
+      "was": "Zweiter Tag COP31 in Antalya: Gruppenfotos, Händeschütteln, Delegationen vor Klimakulissen"
     },
     {
-      "wann": "heute laufend",
-      "was": "Papst Leo XIV. bei Begrüssungsszenen auf seiner Südamerika-Reise"
+      "wann": "heute, Zeit offen",
+      "was": "Hegseth an seiner angekündigten Pressekonferenz im Pentagon, falls sie heute stattfindet"
     }
   ],
   "hinweis": ""
