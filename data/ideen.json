@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-10",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-10-2118-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nvidia-Chef Huang hatte eine Affäre mit einer mutmasslichen chinesischen Spionin, Exportkontrolle bei Kerzenlicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Nvidia-Chef Huang hatte eine Affäre mit einer mutmasslichen chinesischen Spionin. Exportkontrolle bei Kerzenlicht."
+    },
+    {
+      "id": "2026-11-10-2118-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neurologe und Philosoph wollen Kinderhandys einfühlsam begleiten statt verbieten, Instagram macht das schon rund um die Uhr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ein Neurologe und ein Philosoph so: Kinderhandys nicht verbieten, sondern einfühlsam begleiten. Instagram so: machen wir doch schon. Rund um die Uhr."
+    },
+    {
+      "id": "2026-11-10-2118-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gleiche Woche: Russell Brand kriegt zehneinhalb Jahre, Béatrice Keul wirft Trump dasselbe vor, bei ihm heisst die Strafe zweite Amtszeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Russell Brand bekommt für Vergewaltigung zehneinhalb Jahre Haft, gleiche Woche wirft eine frühere Vize-Miss Schweiz Trump dasselbe vor. Bei ihm heisst die Strafe zweite Amtszeit."
+    },
     {
       "id": "2026-11-10-2118-07",
       "typ": "politisch-aktuell",
@@ -72,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Stimmt, die Feuerwerksinitiative ist Bevormundung, Raketen im Wohnquartier sind Freiheit. Eine Demo im selben Quartier braucht halt Bewilligung, Ordnungsdienst und Nachtruhe ab der Tagesschau."
-    },
-    {
-      "id": "2026-11-10-2118-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hackergruppe Akira erpresst den Bund mit Geheimdienstdaten, gespielte Sorge, dass Fremde Daten über Unbescholtene sammeln",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Hacker erpressen den Bund mit gestohlenen Geheimdienstdaten. Schwierig, man will ja nicht, dass Fremde einfach Daten über Unbescholtene sammeln, dafür gibt es schliesslich den Nachrichtendienst."
-    },
-    {
-      "id": "2026-11-10-2118-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pharma klagt über Ethikkommissionen, Verständnis, weil dort ständig jemand die Versuchspersonen fragt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Pharma klagt, Ethikkommissionen bremsen die Forschung. Verstehe, da fragt ja ständig jemand die Versuchspersonen."
     }
   ]
 }
