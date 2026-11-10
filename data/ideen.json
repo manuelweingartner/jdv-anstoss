@@ -1,142 +1,27 @@
 {
   "datum": "2026-11-10",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-10-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Über 200 Kleinbrauereien in fünf Jahren verschwunden, kein Notrecht übers Wochenende, Frage an Keller-Sutter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Über 200 Kleinbrauereien sind in fünf Jahren verschwunden, und niemand hat übers Wochenende Notrecht beschlossen? Frage für Karin Keller-Sutter.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-10-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Sturm in Gaza, Kinder sterben in überfluteten Zelten, Bern so: Wetter, leider nicht sanktionierbar",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Sturm in Gaza, Kinder sterben in überfluteten Zelten. Bern so: Wetter, leider nicht sanktionierbar.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-10-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ex-Skirennfahrer Nico Caprez könnte als Schwiegersohn des Gründers Nvidia-Chef werden, ratlose Suche nach der übersprungenen Karrierestufe",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Nico Caprez, Ex-Skirennfahrer und Schwiegersohn des Nvidia-Gründers, hat eine Karrierestufe übersprungen und gilt als nächster Nvidia-Chef. Keine Ahnung, welche Stufe, die Hochzeit jedenfalls nicht.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-10-0757-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Reichtum mit Fleiss erklären wie den Lottogewinn mit sauberem Ankreuzen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wer Reichtum mit Fleiss erklärt, erklärt auch einen Lottogewinn mit sauberem Ankreuzen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-10-0757-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "«Jetzt noch besser» auf der Chipspackung heisst: weniger drin, bei der Rentenreform ebenso",
+      "id": "2026-11-10-1404-31",
+      "typ": "schnittmenge",
+      "stichwort": "Just Eat streicht 373 Stellen und nennt es flexibler liefern, gekündigt wird je nach Seite unzuverlässig oder flexibel",
       "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Steht «Jetzt noch besser» auf der Zweifel-Packung, ist weniger drin. Auf der Rentenreform auch.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-11-10-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "In Basel verkaufter Thunfisch sieht frischer aus, als er ist, rhetorische Frage, ob das sonst nur die Neutralität darf",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Basler Thunfisch sieht frischer aus, als er ist. Darf das sonst nur die Neutralität?",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-11-10-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Russell Brand zu zehneinhalb Jahren verurteilt, gespielte Zustimmung zu «als Komiker darf man ja nichts mehr»",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, als Komiker darf man heute wirklich gar nichts mehr. Russell Brand muss zehneinhalb Jahre ins Gefängnis, bloss wegen Vergewaltigung.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-10-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Recherche zu Kinderdoping, die Sorge wegen Bildschirmzeit ernst genommen",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kinder hängen nur noch am Handy. Zum Glück gibt es im Sportverein jetzt Anabolika.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-11-10-0757-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fremde Kinder betreuen ist ein Beruf, eigene eine Lücke im Lebenslauf, beides delegieren heisst Verwaltungsrat",
-      "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Kündigt eine Kurierin, ist sie unzuverlässig. Kündigt Just Eat 373 Kurier*innen, liefert es «flexibler»."
+    },
+    {
+      "id": "2026-11-10-1404-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohnungsbewerbung mit Betreibungsauszug und Motivationsschreiben, gespielte Ratlosigkeit, wer denn unmotiviert wohnen will",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Seh ich das richtig: fremde Kinder betreuen ist ein Beruf, eigene sind eine Lücke im Lebenslauf, und beides delegieren heisst Verwaltungsrat?",
-      "jury": {
-        "neu": true,
-        "anker": false,
-        "witz": true
-      }
+      "text": "Für eine Zweizimmerwohnung verlangt die Verwaltung neben dem Betreibungsauszug jetzt auch ein Motivationsschreiben. Wie unmotiviert müsste man eigentlich sein, um lieber unter der Brücke zu schlafen?"
     }
   ]
 }
