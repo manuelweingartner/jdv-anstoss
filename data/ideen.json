@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-10",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -45,21 +45,6 @@
       "jury": {
         "anker": true,
         "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-10-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bund verlangt von den Energieunternehmen mehr Drohnenschutz, während er für Kampfjets Milliarden ausgibt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seh ich das richtig, die Schweiz kauft für sechs Milliarden Kampfjets, und vor Drohnen sollen sich die Kraftwerke jetzt selber schützen? Mit einem Schild «Drohnen verboten», vermutlich.",
-      "jury": {
-        "anker": true,
-        "witz": false,
         "neu": true
       }
     },
