@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-10",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Das Kartenterminal beim Bäcker fragt jetzt nach Trinkgeld. Lohnverhandlungen führt neuerdings die Kundschaft, an der Kasse, mit der Schlange im Nacken."
+    },
+    {
+      "id": "2026-11-10-2118-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Feuerwerksinitiative: Raketen im Wohnquartier sind Freiheit, die Demo im selben Quartier braucht Bewilligung und Nachtruhe",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, die Feuerwerksinitiative ist Bevormundung, Raketen im Wohnquartier sind Freiheit. Eine Demo im selben Quartier braucht halt Bewilligung, Ordnungsdienst und Nachtruhe ab der Tagesschau."
+    },
+    {
+      "id": "2026-11-10-2118-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hackergruppe Akira erpresst den Bund mit Geheimdienstdaten, gespielte Sorge, dass Fremde Daten über Unbescholtene sammeln",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Hacker erpressen den Bund mit gestohlenen Geheimdienstdaten. Schwierig, man will ja nicht, dass Fremde einfach Daten über Unbescholtene sammeln, dafür gibt es schliesslich den Nachrichtendienst."
+    },
+    {
+      "id": "2026-11-10-2118-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pharma klagt über Ethikkommissionen, Verständnis, weil dort ständig jemand die Versuchspersonen fragt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Pharma klagt, Ethikkommissionen bremsen die Forschung. Verstehe, da fragt ja ständig jemand die Versuchspersonen."
     }
   ]
 }
