@@ -1,55 +1,55 @@
 {
-  "stand": "2026-11-10T17:00:38+01:00",
+  "stand": "2026-11-11T17:00:47+01:00",
   "lauf": "1700",
   "fotos": [
     {
       "id": "1700-1",
-      "titel": "Politisch versiert und 30: Benjamin Fisch moderiert «Arena»",
-      "was": "Benjamin Fisch im Arena-Studio, im Rednerkreis vor leeren Pulten",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: ein 30-jähriger Moderator gegen Parteigäste, die schon seit seiner Geburt in der Arena dieselben Sätze sagen.",
+      "titel": "Weltklimakonferenz in Antalya: Kein Kuchen für Merz",
+      "was": "Weltklimakonferenz in Antalya, Delegierte im Plenum, Platz des Kanzlers leer",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Fernbleiben als Klimaschutz, weil die Anreise ausfällt, gegen eine Führungsrolle, die man für sich beansprucht.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "raum": "weltweit",
+      "quelle": "taz",
       "auch_bei": [
-        "NZZ"
+        "Tagesschau"
       ],
-      "artikel": "https://www.20min.ch/story/politikjournalist-benjamin-fisch-loest-sandro-brotz-als-arena-moderator-ab-103665187",
-      "bild": "https://image.20min.ch/2026/11/10/bf2c1791-6c44-4287-9e3b-c11b47d87dd4.webp?s=d2e251679ebce459076a5ddee4cc0b2f",
-      "zeit": "2026-11-10T14:14+01:00"
+      "artikel": "https://taz.de/Weltklimakonferenz-in-Antalya/!6229217/",
+      "bild": "https://taz.de/picture/8857480/948/42531955.jpeg",
+      "zeit": "2026-11-11T16:43+01:00"
     },
     {
       "id": "1700-2",
-      "titel": "Gespräche in Abu Dhabi – Die Ukraine und Russland verhandeln – was davon zu erwarten ist",
-      "was": "Delegationen der Ukraine, Russlands und der USA am Verhandlungstisch in Abu Dhabi",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Europa bezahlt die Rechnung, hat aber keinen Stuhl an dem Tisch, an dem entschieden wird.",
+      "titel": "Verhandlungen zu Ukrainekrieg – Die Gespräche in Abu Dhabi sind beendet – so geht es weiter",
+      "was": "Delegationen aus Russland und der Ukraine an langem Verhandlungstisch in Abu Dhabi",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Luxus-Konferenzsaal am Golf gegen das Ergebnis, das nach Stunden nur aus einem Folgetermin besteht.",
       "grund": "breit",
-      "raum": "schweiz",
+      "raum": "",
       "quelle": "SRF",
       "auch_bei": [
         "Tagesschau"
       ],
-      "artikel": "https://www.srf.ch/news/international/ukraine/gespraeche-in-abu-dhabi-die-ukraine-und-russland-verhandeln-was-davon-zu-erwarten-ist",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/88a7cf.jpg",
-      "zeit": "2026-11-10T14:14+01:00"
+      "artikel": "https://www.srf.ch/news/international/verhandlungen-zu-ukrainekrieg-die-gespraeche-in-abu-dhabi-sind-beendet-so-geht-es-weiter",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/016f7d.jpg",
+      "zeit": "2026-11-11T16:03+01:00"
     },
     {
       "id": "1700-3",
-      "titel": "«Wunderschöne Stadt»: Reese Witherspoon schwärmt von Basel",
-      "was": "Reese Witherspoon lächelt auf dem Barfüsserplatz in Basel in die Kamera",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Hollywood schwärmt vom Barfi, Basel kennt ihn als Tramknoten und Dauerbaustelle.",
+      "titel": "Start der fünften Jahreszeit – Bern sperrt einen Bären ein: 5 besondere Fasnachtsbräuche",
+      "was": "Bär in Bern hinter Gittern, umringt von Fasnächtlern in Kostümen",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Die Stadt sperrt ihr Wappentier ein und wirbt damit für Freiheit und Narrentum.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/reese-witherspoon-in-basel-hollywood-star-postet-foto-vom-barfuesserplatz-103665080",
-      "bild": "https://image.20min.ch/2026/11/10/72974cd0-8c07-477b-8632-ab6601db418c.jpg?s=a8e387f7fdfc3675b3e4cf8cc14bc016",
-      "zeit": "2026-11-10T12:36+01:00"
+      "artikel": "https://www.srf.ch/radio-srf-1/start-der-fuenften-jahreszeit-bern-sperrt-einen-baeren-ein-5-besondere-fasnachtsbraeuche",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf/fe2151.jpg",
+      "zeit": "2026-11-11T10:57+01:00"
     }
   ],
   "erwartet": [
     {
       "wann": "heute laufend",
-      "was": "Gruppenfoto oder Handschlag der Delegationen bei den Ukraine-Gesprächen in Abu Dhabi"
+      "was": "Gruppenfotos und Handschläge von der Weltklimakonferenz in Antalya"
     }
   ],
   "hinweis": ""
