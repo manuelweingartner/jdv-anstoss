@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Die 13. AHV-Rente soll über die Mehrwertsteuer kommen, also auch von Rentner*innen an der Migros-Kasse. Klingt fair: ein Generationenvertrag mit sich selbst."
+      "text": "Die 13. AHV-Rente soll über die Mehrwertsteuer kommen, also auch von Rentner*innen an der Migros-Kasse. Klingt fair: ein Generationenvertrag mit sich selbst.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-12-0757-05",
@@ -21,7 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Schulden, Verluste, hohes Risiko: damit wagen die Swiss-Smile-Schwestern einen Milliarden-Börsengang an der Wall Street. Weiss jetzt auch nicht, wofür die Sozialhilfe noch Kontoauszüge verlangt."
+      "text": "Schulden, Verluste, hohes Risiko: damit wagen die Swiss-Smile-Schwestern einen Milliarden-Börsengang an der Wall Street. Weiss jetzt auch nicht, wofür die Sozialhilfe noch Kontoauszüge verlangt.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-12-0757-06",
@@ -31,17 +41,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Miss-Universe-Direktorin soll Kandidatinnen angeschrien haben. Stimmt, bisher wurden sie ja nur vermessen."
+      "text": "Miss-Universe-Direktorin soll Kandidatinnen angeschrien haben. Stimmt, bisher wurden sie ja nur vermessen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-11-12-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "Gleiche Woche: Olympia bekommt eine private Defizitgarantie, die Just-Eat-Kurier*innen nur das Defizit",
-      "plattform": "Threads + Bluesky + Instagram",
+      "id": "2026-11-12-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Stelleninserate mit Obstkorb und flachen Hierarchien, nur der Lohn bleibt beim Sie",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Gleiche Woche: Olympia bekommt eine private Defizitgarantie. Just-Eat-Kurier*innen bekommen nur das Defizit."
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Kein Stelleninserat mehr ohne Obstkorb, Duzkultur und flache Hierarchien. Flach heisst: alle duzen den CEO, nur sein Lohn bleibt beim Sie, mit Doktortitel.",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-11-12-0757-12",
@@ -51,27 +71,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Die Mitarbeitendenumfrage ist anonym, gefragt wird nur nach Abteilung, Altersgruppe und Geschlecht. In der Abteilung arbeitet eine einzige Frau über fünfzig."
-    },
-    {
-      "id": "2026-11-12-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Junge finden Regenschirme cringe, Schutz von oben gibt es für diese Generation ohnehin nicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Junge finden Regenschirme cringe. Vor dem, was von oben kommt, schützt sie eh niemand."
-    },
-    {
-      "id": "2026-11-12-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Just Eat streicht Kurier*innen Mindestlohn und Kündigungsschutz, gleiche Woche nationale Ethikdebatte um die tote Gans von Sursee",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Just Eat streicht Kurier*innen Mindestlohn und Kündigungsschutz, Schweiz so: tja, Markt. Gleiche Woche köpft Sursee eine tote Gans, Schweiz so: Barbarei, Ethikdebatte, Sonderseite."
+      "text": "Die Mitarbeitendenumfrage ist anonym, gefragt wird nur nach Abteilung, Altersgruppe und Geschlecht. In der Abteilung arbeitet eine einzige Frau über fünfzig.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-12-0757-23",
@@ -81,7 +86,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 3,
-      "text": "Die USA versenken ihren legendären Ozeandampfer SS United States vor Florida und nennen das Trümmerfeld ein Riff. In Gaza nennt Trump so etwas Riviera, mit Golfplatz."
+      "text": "Die USA versenken ihren legendären Ozeandampfer SS United States vor Florida und nennen das Trümmerfeld ein Riff. In Gaza nennt Trump so etwas Riviera, mit Golfplatz.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-11-12-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Die Angst vor verkehrsberuhigten Strassen ernst genommen: am Ende kommen alle lebend an",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe Angst vor verkehrsberuhigten Strassen. Da kommen dann womöglich alle lebend an.",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-11-12-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Die Drohung, dass Reiche wegziehen, besorgt ernst genommen: wer lässt dann im Engadin die Wohnungen leer stehen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Schlimm, wenn die Reichen wegziehen. Wer soll dann im Engadin die Wohnungen leer stehen lassen?",
+      "jury": {
+        "neu": true,
+        "witz": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-11-12-0757-27",
@@ -91,7 +131,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Bauarbeiter sterben im Schnitt früher als Banker. Bürgerliche so: super, dann merken sie vom höheren Rentenalter ja kaum was, sozialverträglich gespart."
+      "text": "Bauarbeiter sterben im Schnitt früher als Banker. Bürgerliche so: super, dann merken sie vom höheren Rentenalter ja kaum was, sozialverträglich gespart.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-11-12-0757-28",
@@ -101,7 +146,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so klimatisiert und steuerfrei wohnen wie ein Picasso im Genfer Zollfreilager."
+      "text": "Einmal so klimatisiert und steuerfrei wohnen wie ein Picasso im Genfer Zollfreilager.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     }
   ]
 }
