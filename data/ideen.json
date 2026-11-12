@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-12",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -12,21 +12,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Die 13. AHV-Rente soll über die Mehrwertsteuer kommen, also auch von Rentner*innen an der Migros-Kasse. Klingt fair: ein Generationenvertrag mit sich selbst.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-12-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Swiss-Smile-Schwestern bringen Schulden und Verluste als Milliarden-Börsengang an die Wall Street, ratlose Frage nach den Kontoauszügen bei der Sozialhilfe",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Schulden, Verluste, hohes Risiko: damit wagen die Swiss-Smile-Schwestern einen Milliarden-Börsengang an der Wall Street. Weiss jetzt auch nicht, wofür die Sozialhilfe noch Kontoauszüge verlangt.",
       "jury": {
         "anker": true,
         "neu": true,
@@ -94,21 +79,6 @@
       }
     },
     {
-      "id": "2026-11-12-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Die Angst vor verkehrsberuhigten Strassen ernst genommen: am Ende kommen alle lebend an",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Habe Angst vor verkehrsberuhigten Strassen. Da kommen dann womöglich alle lebend an.",
-      "jury": {
-        "witz": true,
-        "neu": false,
-        "anker": true
-      }
-    },
-    {
       "id": "2026-11-12-0757-26",
       "typ": "politisch-aktuell",
       "stichwort": "Die Drohung, dass Reiche wegziehen, besorgt ernst genommen: wer lässt dann im Engadin die Wohnungen leer stehen",
@@ -149,6 +119,21 @@
       "text": "Einmal so klimatisiert und steuerfrei wohnen wie ein Picasso im Genfer Zollfreilager.",
       "jury": {
         "witz": true,
+        "neu": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-11-12-0757-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Jede Gemeinde will ihre eigene Park-App mit Konto, Kreditkarte und Standort, Datenangst gab es erst bei der E-ID",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Zum Parkieren braucht es in jeder Gemeinde eine andere App, mit Konto, Kreditkarte und Live-Standort. Bei der E-ID hatten plötzlich alle Angst um ihre Daten.",
+      "jury": {
+        "witz": false,
         "neu": true,
         "anker": true
       }
