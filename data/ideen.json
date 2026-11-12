@@ -1,8 +1,23 @@
 {
   "datum": "2026-11-12",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-11-12-1926-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Finanzkommission lehnt das Bundesbudget ab, am selben Tag schaltet SRF zurück auf UKW: Kurbelradio im Luftschutzkeller neben den Hero-Ravioli",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Die Finanzkommission versenkt das Bundesbudget, es droht ein Notbudget. Gleichentags schaltet SRF zurück auf UKW, fürs Kurbelradio im Luftschutzkeller, gleich neben den Hero-Ravioli.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": false
+      }
+    },
     {
       "id": "2026-11-12-1926-02",
       "typ": "politisch-aktuell",
@@ -91,21 +106,6 @@
         "anker": true,
         "neu": true,
         "witz": true
-      }
-    },
-    {
-      "id": "2026-11-12-1926-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Investoren fordern den Rücktritt des Lindt-Patrons, die Kinderarbeit im Kakaoanbau ist nicht der Grund",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Investoren wollen den Lindt-Patron loswerden. Die Kinderarbeit im Kakaoanbau lief ja gut.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
       }
     },
     {
