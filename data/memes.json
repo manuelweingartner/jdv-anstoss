@@ -1,46 +1,46 @@
 {
-  "stand": "2026-11-10T08:01:29+01:00",
+  "stand": "2026-11-12T08:05:56+01:00",
   "vorschlaege": [
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Das beste Backup haben die Hacker"
+        "373 Kuriere entlassen",
+        "flexibler liefern"
       ],
-      "warum": "eine These, der niemand widersprechen kann, solange der Bund bei der Publica-Lieferantin erpresst wird",
+      "warum": "Just Eat liefert den Euphemismus selbst, das Bild muss ihn nur neben die Kündigungen stellen",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Ergebnis anzweifeln",
-        "Niederlage akzeptieren",
-        "Trump, eine Woche nach den Midterms"
+        "Mehrwertsteuer plus 0.4 Prozent",
+        "Kapitalgewinne besteuern",
+        "Bundesrat und Parlament"
       ],
-      "warum": "die verspätete Kehrtwende ist genau der Ruck am Steuer in der letzten Sekunde",
+      "warum": "die 13. AHV-Rente zahlt wieder die Kasse im Coop, obwohl ein anderer Weg offen dalag",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Pentagon früher",
-        "Briefing jede Woche",
-        "Pentagon unter Hegseth",
-        "eine Pressekonferenz in sechs Monaten"
+        "Alfred Escher",
+        "gründet die Kreditanstalt",
+        "Urs Rohner",
+        "Busse wegen Finma-Lügen"
       ],
-      "warum": "Hegseths Rückzug aus der Öffentlichkeit ist der Absturz vom kräftigen Früher zum kläglichen Heute",
+      "warum": "die CS fällt vom Gründermythos bis zur Busse für den letzten Präsidenten",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "373 Stellen gestrichen",
-        "Schichtmodell flexibilisiert"
+        "33 Jahre Patron ist Monarchie"
       ],
-      "warum": "Just Eat liefert den Euphemismus gleich selbst mit, die Pointe ist schon die Medienmitteilung",
+      "warum": "nach drei Jahrzehnten Tanner bei Lindt kann niemand mehr widersprechen, die Investoren am wenigsten",
       "bild": "vorschlag-4.jpg"
     }
   ]
