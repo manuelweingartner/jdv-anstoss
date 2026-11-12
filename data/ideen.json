@@ -1,142 +1,27 @@
 {
   "datum": "2026-11-12",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-12-0634-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hockeyspiel in Zug wegen undichtem Hallendach abgebrochen, am selben Tag Seilbahnpläne über den Plaine-Morte-Gletscher",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Wegen eines undichten Dachs bricht Zug ein Hockeyspiel ab, am selben Tag plant man eine Seilbahn über den tropfenden Plaine-Morte-Gletscher. Mit Panoramafenster.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-11-12-0634-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bund büsst Ex-CS-Präsident Urs Rohner für falsche Aussagen gegenüber der Finanzmarktaufsicht, nicht für den Untergang der Bank",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die Credit Suisse ist untergegangen, der Staat musste sie retten, und gebüsst wird Urs Rohner. Für eine falsche Aussage, wie Al Capone für die Steuern.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-11-12-0634-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ungarn öffnet die Spitzelakten der kommunistischen Diktatur, rhetorische Frage nach den Schweizer Konten fremder Diktaturen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ungarn öffnet die Spitzelakten seiner Diktatur. Wann öffnet die Schweiz die Konten der anderen?",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-12-0634-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pensionskassen legen den Lohnabzug von Pflegefachfrauen in Rüstungsaktien an, irgendwer muss die Verwundeten später pflegen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Pensionskassen legen den Lohnabzug von Pflegefachfrauen in Rüstungsaktien an. Vorausschauend, irgendwer muss die Verwundeten später ja pflegen.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-12-0634-11",
+      "id": "2026-11-12-0757-11",
       "typ": "schnittmenge",
-      "stichwort": "Uni Zürich weist K.-o.-Tropfen länger im Körper nach, vor Gericht hält sich trotzdem der kurze Rock am längsten",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Dank der Uni Zürich lassen sich K.-o.-Tropfen jetzt deutlich länger im Körper nachweisen. Vor Gericht hält sich trotzdem am längsten ihr kurzer Rock.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-12-0634-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "Captcha beim Krankenkassen-Login: Menschen müssen beweisen, kein Roboter zu sein, die Ablehnung schreibt dann einer",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "stichwort": "Gleiche Woche: Olympia bekommt eine private Defizitgarantie, die Just-Eat-Kurier*innen nur das Defizit",
+      "plattform": "Threads + Bluesky + Instagram",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Krankenkassen-Login: Bitte beweisen Sie, kein Roboter zu sein. Die Ablehnung schreibt dann einer.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-12-0634-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Revolutionsgarden bilden Iranerinnen an der Waffe aus, offenes Haar bleibt gefährlicher",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Revolutionsgarden bringen Iranerinnen in Teheran das Schiessen bei. Offenes Haar bleibt gefährlicher.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "format": 1,
+      "text": "Gleiche Woche: Olympia bekommt eine private Defizitgarantie. Just-Eat-Kurier*innen bekommen nur das Defizit."
     },
     {
-      "id": "2026-11-12-0634-26",
+      "id": "2026-11-12-0757-12",
       "typ": "politisch-aktuell",
-      "stichwort": "Paul McCartney ist Milliardär, «Leistung lohnt sich» ernst genommen: man muss bloss die Beatles gründen",
+      "stichwort": "Anonyme Mitarbeitendenumfrage fragt nach Abteilung, Alter und Geschlecht, in der Abteilung gibt es genau eine Frau über fünfzig",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Paul McCartney ist Milliardär. Leistung lohnt sich also, man muss bloss die Beatles gründen.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-12-0634-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kriegsgewinne werden nicht besteuert, sondern gerahmt und im Kunsthaus aufgehängt, mit Audioguide",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Kriegsgewinne werden in der Schweiz nicht besteuert, sondern gerahmt und im Kunsthaus aufgehängt. Mit Audioguide.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
+      "format": 16,
+      "text": "Die Mitarbeitendenumfrage ist anonym, gefragt wird nur nach Abteilung, Altersgruppe und Geschlecht. In der Abteilung arbeitet eine einzige Frau über fünfzig."
     }
   ]
 }
