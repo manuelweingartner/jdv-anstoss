@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-12",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -82,6 +82,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": 3,
       "text": "Die USA versenken ihren legendären Ozeandampfer SS United States vor Florida und nennen das Trümmerfeld ein Riff. In Gaza nennt Trump so etwas Riviera, mit Golfplatz."
+    },
+    {
+      "id": "2026-11-12-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bauarbeiter sterben früher als Banker, bürgerliche Rentenpolitik freut sich über das kaum spürbare höhere Rentenalter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Bauarbeiter sterben im Schnitt früher als Banker. Bürgerliche so: super, dann merken sie vom höheren Rentenalter ja kaum was, sozialverträglich gespart."
+    },
+    {
+      "id": "2026-11-12-0757-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf den Picasso, der klimatisiert und steuerfrei im Genfer Zollfreilager wohnt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so klimatisiert und steuerfrei wohnen wie ein Picasso im Genfer Zollfreilager."
     }
   ]
 }
