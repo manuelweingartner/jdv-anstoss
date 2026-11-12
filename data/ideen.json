@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-12",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-12-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "13. AHV-Rente soll über die Mehrwertsteuer kommen, gespielte Zustimmung: Rentner*innen zahlen an der Migros-Kasse ihre eigene Rente mit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die 13. AHV-Rente soll über die Mehrwertsteuer kommen, also auch von Rentner*innen an der Migros-Kasse. Klingt fair: ein Generationenvertrag mit sich selbst."
+    },
+    {
+      "id": "2026-11-12-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Swiss-Smile-Schwestern bringen Schulden und Verluste als Milliarden-Börsengang an die Wall Street, ratlose Frage nach den Kontoauszügen bei der Sozialhilfe",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Schulden, Verluste, hohes Risiko: damit wagen die Swiss-Smile-Schwestern einen Milliarden-Börsengang an der Wall Street. Weiss jetzt auch nicht, wofür die Sozialhilfe noch Kontoauszüge verlangt."
+    },
+    {
+      "id": "2026-11-12-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vorwürfe gegen die Direktorin von Miss Universe Schweiz wegen Wutausbrüchen, gespielte Empörung: bisher wurden die Kandidatinnen ja nur vermessen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Miss-Universe-Direktorin soll Kandidatinnen angeschrien haben. Stimmt, bisher wurden sie ja nur vermessen."
+    },
     {
       "id": "2026-11-12-0757-11",
       "typ": "schnittmenge",
