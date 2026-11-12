@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-12",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-12-0634-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hockeyspiel in Zug wegen undichtem Hallendach abgebrochen, am selben Tag Seilbahnpläne über den Plaine-Morte-Gletscher",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Wegen eines undichten Dachs bricht Zug ein Hockeyspiel ab, am selben Tag plant man eine Seilbahn über den tropfenden Plaine-Morte-Gletscher. Mit Panoramafenster."
+    },
+    {
+      "id": "2026-11-12-0634-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bund büsst Ex-CS-Präsident Urs Rohner für falsche Aussagen gegenüber der Finanzmarktaufsicht, nicht für den Untergang der Bank",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Credit Suisse ist untergegangen, der Staat musste sie retten, und gebüsst wird Urs Rohner. Für eine falsche Aussage, wie Al Capone für die Steuern."
+    },
+    {
+      "id": "2026-11-12-0634-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ungarn öffnet die Spitzelakten der kommunistischen Diktatur, rhetorische Frage nach den Schweizer Konten fremder Diktaturen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ungarn öffnet die Spitzelakten seiner Diktatur. Wann öffnet die Schweiz die Konten der anderen?"
+    },
     {
       "id": "2026-11-12-0634-11",
       "typ": "schnittmenge",
