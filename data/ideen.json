@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-12",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -54,6 +54,26 @@
       "text": "Krankenkassen-Login: Bitte beweisen Sie, kein Roboter zu sein. Die Ablehnung schreibt dann einer."
     },
     {
+      "id": "2026-11-12-0634-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hockey-Fans nach Prügelei in Prilly-Malley vor Haftstrafen; gespielte Angst vor Fans, die Credit-Suisse-Manager kamen mit Bonus davon",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor Hockey-Fans, seit es am Bahnhof Prilly-Malley Prügel gab. Die Credit-Suisse-Manager haben nur meine Pensionskasse verprügelt, mit Bonus und ohne Haftstrafe."
+    },
+    {
+      "id": "2026-11-12-0634-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Paul McCartney ist Milliardär, «Leistung lohnt sich» ernst genommen: man muss bloss die Beatles gründen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Paul McCartney ist Milliardär. Leistung lohnt sich also, man muss bloss die Beatles gründen."
+    },
+    {
       "id": "2026-11-12-0634-27",
       "typ": "politisch-aktuell",
       "stichwort": "Gemeinde erhöht den Steuerfuss: Enteignung. Milliardär schenkt dasselbe Geld als Hallenbad mit Namen: Ehrenbürger",
@@ -82,16 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": 14,
       "text": "Kriegsgewinne werden in der Schweiz nicht besteuert, sondern gerahmt und im Kunsthaus aufgehängt. Mit Audioguide."
-    },
-    {
-      "id": "2026-11-12-0634-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Milliardäre für Stiftungen feiern wie den Einbrecher, der den Fernseher zurückbringt, gegen Spendenquittung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wer Milliardäre für ihre Stiftungen feiert, bedankt sich auch beim Einbrecher, der den Fernseher zurückbringt. Gegen Spendenquittung."
     }
   ]
 }
