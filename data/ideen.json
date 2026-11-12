@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-12",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,46 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Krankenkassen-Login: Bitte beweisen Sie, kein Roboter zu sein. Die Ablehnung schreibt dann einer."
+    },
+    {
+      "id": "2026-11-12-0634-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gemeinde erhöht den Steuerfuss: Enteignung. Milliardär schenkt dasselbe Geld als Hallenbad mit Namen: Ehrenbürger",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Gemeinde erhöht den Steuerfuss, Schweiz so: Enteignung, Referendum. Milliardär schenkt ihr ein Hallenbad mit seinem Namen drauf, Schweiz so: Ehrenbürger, Apéro, Blasmusik."
+    },
+    {
+      "id": "2026-11-12-0634-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Milliardärsstiftungen, die sich für eine Erbschaftssteuer einsetzen, alphabetisch sortiert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Sämtliche Milliardärsstiftungen, die sich für eine Erbschaftssteuer einsetzen, in alphabetischer Reihenfolge:\n-\n-"
+    },
+    {
+      "id": "2026-11-12-0634-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kriegsgewinne werden nicht besteuert, sondern gerahmt und im Kunsthaus aufgehängt, mit Audioguide",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Kriegsgewinne werden in der Schweiz nicht besteuert, sondern gerahmt und im Kunsthaus aufgehängt. Mit Audioguide."
+    },
+    {
+      "id": "2026-11-12-0634-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Milliardäre für Stiftungen feiern wie den Einbrecher, der den Fernseher zurückbringt, gegen Spendenquittung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer Milliardäre für ihre Stiftungen feiert, bedankt sich auch beim Einbrecher, der den Fernseher zurückbringt. Gegen Spendenquittung."
     }
   ]
 }
