@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-12",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Die Mitarbeitendenumfrage ist anonym, gefragt wird nur nach Abteilung, Altersgruppe und Geschlecht. In der Abteilung arbeitet eine einzige Frau über fünfzig."
+    },
+    {
+      "id": "2026-11-12-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Junge finden Regenschirme cringe, Schutz von oben gibt es für diese Generation ohnehin nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Junge finden Regenschirme cringe. Vor dem, was von oben kommt, schützt sie eh niemand."
+    },
+    {
+      "id": "2026-11-12-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Just Eat streicht Kurier*innen Mindestlohn und Kündigungsschutz, gleiche Woche nationale Ethikdebatte um die tote Gans von Sursee",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Just Eat streicht Kurier*innen Mindestlohn und Kündigungsschutz, Schweiz so: tja, Markt. Gleiche Woche köpft Sursee eine tote Gans, Schweiz so: Barbarei, Ethikdebatte, Sonderseite."
+    },
+    {
+      "id": "2026-11-12-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "SS United States vor Florida versenkt und zum Riff erklärt, Trump nennt dasselbe in Gaza Riviera",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 3,
+      "text": "Die USA versenken ihren legendären Ozeandampfer SS United States vor Florida und nennen das Trümmerfeld ein Riff. In Gaza nennt Trump so etwas Riviera, mit Golfplatz."
     }
   ]
 }
