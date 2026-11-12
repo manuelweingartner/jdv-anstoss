@@ -1,8 +1,48 @@
 {
   "datum": "2026-11-12",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-12-1926-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "CEO-Löhne legt ein Ausschuss aus anderen CEOs fest, Kinder teilen sich gegenseitig das Dessert zu",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Über den Lohn eines CEO entscheidet ein Ausschuss aus anderen CEOs. Wie Kinder, die sich gegenseitig das Dessert zuteilen. Grosszügig. Am eigenen Tisch."
+    },
+    {
+      "id": "2026-11-12-1926-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rhetorische Frage an den Vergütungsausschuss: wie oft danebenliegen, bis der Bonus auf Putzlohn-Niveau fällt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie oft muss ein CEO eigentlich danebenliegen, bis sein Bonus so klein ist wie der Lohn der Person, die sein Büro putzt? Frage für den Vergütungsausschuss."
+    },
+    {
+      "id": "2026-11-12-1926-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lohnforderung Kassiererin gegen Lohnforderung CEO, Arbeitgeber so / Verwaltungsrat so",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Kassiererin will hundert Franken mehr. Arbeitgeber so: schwierig, Marge, Onlinehandel, Ausland. CEO will zwei Millionen mehr. Verwaltungsrat so: klar, Talente muss man halten."
+    },
+    {
+      "id": "2026-11-12-1926-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bonus nach Massenentlassung ist kein Leistungsanreiz, sondern ein Kopfgeld",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 14,
+      "text": "Bonus nach Massenentlassung ist kein Leistungsanreiz. Sondern ein Kopfgeld. Steuerlich abzugsfähig."
+    },
     {
       "id": "2026-11-12-1926-11",
       "typ": "schnittmenge",
