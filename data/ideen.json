@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-12",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,16 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Das Fitnessabo ist eine Einbürgerung rückwärts. Rein mit einem Klick, raus nach zehn Jahren."
+    },
+    {
+      "id": "2026-11-12-1926-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zukunftstag: Mädchen auf der Baustelle, Buben in der Ergotherapie, gespielte Sorge um die Buben, die zum ersten Mal einen Frauenlohn sehen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Zukunftstag: Mädchen auf der Baustelle, Buben in der Ergotherapie. Arme Buben, die sehen heute zum ersten Mal einen Frauenlohn."
     }
   ]
 }
