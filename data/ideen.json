@@ -1,142 +1,27 @@
 {
-  "datum": "2026-11-10",
-  "hinweis": "Anforderung um 08:04 fehlgeschlagen (kein Shard hat geliefert). Liste unverändert, bitte nochmal.",
-  "fertig": true,
+  "datum": "2026-11-12",
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-10-2118-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nvidia-Chef Huang hatte eine Affäre mit einer mutmasslichen chinesischen Spionin, Exportkontrolle bei Kerzenlicht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Nvidia-Chef Huang hatte eine Affäre mit einer mutmasslichen chinesischen Spionin. Exportkontrolle bei Kerzenlicht.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-10-2118-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neurologe und Philosoph wollen Kinderhandys einfühlsam begleiten statt verbieten, Instagram macht das schon rund um die Uhr",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ein Neurologe und ein Philosoph so: Kinderhandys nicht verbieten, sondern einfühlsam begleiten. Instagram so: machen wir doch schon. Rund um die Uhr.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-10-2118-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gegner*innen der Feuerwerksinitiative berufen sich auf Tradition. Gespielte Zustimmung: Geflüchtete aus Charkiw sollen sich ja wie zu Hause fühlen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Feuerwerk ist Tradition, sagen die Gegner*innen der Feuerwerksinitiative. Stimmt, wer aus Charkiw geflohen ist, soll sich hier auch ein bisschen wie zu Hause fühlen.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-10-2118-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pharmaverbände sagen, Ethikkommissionen bremsen die Forschung. Gespielte Zustimmung: Die fragen vorher sogar die Versuchspersonen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Pharma findet, Ethikkommissionen bremsen die Forschung. Stimmt, die fragen vorher sogar die Versuchspersonen.",
-      "jury": {
-        "witz": true,
-        "anker": false,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-10-2118-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trinkgeld-Abfrage am Kartenterminal beim Bäcker, Lohnverhandlung an die Kundschaft ausgelagert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Das Kartenterminal beim Bäcker fragt jetzt nach Trinkgeld. Lohnverhandlungen führt neuerdings die Kundschaft, an der Kasse, mit der Schlange im Nacken.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-10-2118-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Prinz Harry fordert in Brüssel unter Tränen Kinderschutz im Internet, rhetorische Frage nach dem Onkel",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Prinz Harry fordert in Brüssel unter Tränen mehr Kinderschutz im Internet. Weiss das sein Onkel?",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-10-2118-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Hackergruppe Akira erpresst den Bund mit Geheimdienstdaten, gespielte Sorge, dass Fremde Daten über Unbescholtene sammeln",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Hacker erpressen den Bund mit gestohlenen Geheimdienstdaten. Schwierig, man will ja nicht, dass Fremde einfach Daten über Unbescholtene sammeln, dafür gibt es schliesslich den Nachrichtendienst.",
-      "jury": {
-        "witz": true,
-        "anker": false,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-10-2118-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neid auf die Jura-Kaffeemaschine im Pausenraum, die regelmässig gewartet wird",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so regelmässig gewartet und entkalkt werden wie die Jura-Kaffeemaschine im Pausenraum.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-10-2118-32",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste aller Hotlines, bei denen sofort ein Mensch abnimmt, als Antwort kommt nur die Bandansage",
+      "id": "2026-11-12-0634-11",
+      "typ": "schnittmenge",
+      "stichwort": "Uni Zürich weist K.-o.-Tropfen länger im Körper nach, vor Gericht hält sich trotzdem der kurze Rock am längsten",
       "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Dank der Uni Zürich lassen sich K.-o.-Tropfen jetzt deutlich länger im Körper nachweisen. Vor Gericht hält sich trotzdem am längsten ihr kurzer Rock."
+    },
+    {
+      "id": "2026-11-12-0634-12",
+      "typ": "politisch-aktuell",
+      "stichwort": "Captcha beim Krankenkassen-Login: Menschen müssen beweisen, kein Roboter zu sein, die Ablehnung schreibt dann einer",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Hier alle Hotlines, bei denen sofort ein Mensch abnimmt:\n-\n-\nIhr Anruf ist uns wichtig.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
+      "text": "Krankenkassen-Login: Bitte beweisen Sie, kein Roboter zu sein. Die Ablehnung schreibt dann einer."
     }
   ]
 }
