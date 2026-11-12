@@ -1,55 +1,60 @@
 {
-  "stand": "2026-11-11T17:00:47+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-12T08:05:24+01:00",
+  "lauf": "0804",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Weltklimakonferenz in Antalya: Kein Kuchen für Merz",
-      "was": "Weltklimakonferenz in Antalya, Delegierte im Plenum, Platz des Kanzlers leer",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Fernbleiben als Klimaschutz, weil die Anreise ausfällt, gegen eine Führungsrolle, die man für sich beansprucht.",
+      "id": "0804-1",
+      "titel": "Trump will von nichts gewusst haben. Doch jetzt holt ihn Jensen Huangs Affäre mit einer mutmasslichen chinesischen Spionin ein",
+      "was": "Trump und Jensen Huang beim Händeschütteln im Weissen Haus",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen, der Präsident wittert überall chinesische Spione, nur nicht beim Milliardär an seiner Seite. Achse: demonstrative Nähe zum Techboss gegen das spätere Nicht",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "taz",
+      "quelle": "NZZ",
       "auch_bei": [
-        "Tagesschau"
+        "20 Minuten",
+        "Spiegel"
       ],
-      "artikel": "https://taz.de/Weltklimakonferenz-in-Antalya/!6229217/",
-      "bild": "https://taz.de/picture/8857480/948/42531955.jpeg",
-      "zeit": "2026-11-11T16:43+01:00"
+      "artikel": "https://www.nzz.ch/international/trump-will-von-nichts-gewusst-haben-doch-jetzt-holt-ihn-jensen-huangs-affaere-mit-einer-mutmasslichen-chinesischen-spionin-ein-ld.10060975",
+      "bild": "https://img-msp-prod.nzz.ch/2026/11/09/74274c7c-d7fc-4cb6-ae78-d6cb33049ffe.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1645,1645,x273,y0",
+      "zeit": "2026-11-12T05:30+01:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Verhandlungen zu Ukrainekrieg – Die Gespräche in Abu Dhabi sind beendet – so geht es weiter",
-      "was": "Delegationen aus Russland und der Ukraine an langem Verhandlungstisch in Abu Dhabi",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Luxus-Konferenzsaal am Golf gegen das Ergebnis, das nach Stunden nur aus einem Folgetermin besteht.",
+      "id": "0804-2",
+      "titel": "Schwarz-Rot verschiebt Zuckersteuer - keine Senkung der Stromsteuer",
+      "was": "Merz und Klingbeil vor Mikrofonen nach dem nächtlichen Koalitionsausschuss",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Vertagen wird als Einigung verkauft. Achse: Durchbruch nach langer Nacht gegen eine Liste, auf der nur Verschobenes steht.",
       "grund": "breit",
       "raum": "",
-      "quelle": "SRF",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "Tagesschau"
+        "Spiegel"
       ],
-      "artikel": "https://www.srf.ch/news/international/verhandlungen-zu-ukrainekrieg-die-gespraeche-in-abu-dhabi-sind-beendet-so-geht-es-weiter",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/016f7d.jpg",
-      "zeit": "2026-11-11T16:03+01:00"
+      "artikel": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
+      "bild": "https://images.tagesschau.de/image/4bdccd2a-0538-412e-bbb9-c9307219dbc9/AAABocx2QXM/AAABnSSvrFg/16x9-big/klingbeil-460.jpg?width=1280",
+      "zeit": "2026-11-12T00:12+01:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Start der fünften Jahreszeit – Bern sperrt einen Bären ein: 5 besondere Fasnachtsbräuche",
-      "was": "Bär in Bern hinter Gittern, umringt von Fasnächtlern in Kostümen",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Die Stadt sperrt ihr Wappentier ein und wirbt damit für Freiheit und Narrentum.",
+      "id": "0804-3",
+      "titel": "BILDSTRECKE - Papst Leo XIV. besucht seine alte Heimat Peru",
+      "was": "Papst Leo XIV. mit Poncho oder Andenmütze inmitten jubelnder Peruaner",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Oberhaupt von über einer Milliarde Gläubigen gegen den Heimkehrer, der sich auf den Besuch im alten Quartier freut.",
       "grund": "memetauglich",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "weltweit",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/radio-srf-1/start-der-fuenften-jahreszeit-bern-sperrt-einen-baeren-ein-5-besondere-fasnachtsbraeuche",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf/fe2151.jpg",
-      "zeit": "2026-11-11T10:57+01:00"
+      "artikel": "https://www.nzz.ch/panorama/papst-leo-xiv-besucht-suedamerika-ld.10058509",
+      "bild": "https://img-msp-prod.nzz.ch/2026/11/09/195ca25a-a94c-401c-853f-ef91dcbcf7a3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2872,2872,x1381,y741",
+      "zeit": "2026-11-12T06:12+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute laufend",
-      "was": "Gruppenfotos und Handschläge von der Weltklimakonferenz in Antalya"
+      "wann": "heute ganztags",
+      "was": "Papst Leo XIV. bei Messen und Begegnungen in Peru, Fortsetzung der Südamerikareise"
+    },
+    {
+      "wann": "heute im Lauf des Tages",
+      "was": "Trumps Unterhändler bei Gesprächen mit europäischen Regierungen über die Ukraine"
     }
   ],
   "hinweis": ""
