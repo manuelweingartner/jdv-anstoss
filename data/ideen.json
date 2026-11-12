@@ -1,142 +1,27 @@
 {
   "datum": "2026-11-12",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-12-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "13. AHV-Rente soll über die Mehrwertsteuer kommen, gespielte Zustimmung: Rentner*innen zahlen an der Migros-Kasse ihre eigene Rente mit",
-      "plattform": "Threads + Bluesky",
+      "id": "2026-11-12-1926-11",
+      "typ": "schnittmenge",
+      "stichwort": "Wer bei der Bank Geld leiht, zahlt Zins, und wer der Bank sein Erspartes leiht, zahlt Kontoführungsgebühren",
+      "plattform": "Instagram + Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die 13. AHV-Rente soll über die Mehrwertsteuer kommen, also auch von Rentner*innen an der Migros-Kasse. Klingt fair: ein Generationenvertrag mit sich selbst.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Leihst du dir Geld von der Bank, zahlst du Zins. Leihst du der Bank dein Geld, zahlst du Kontoführungsgebühren."
     },
     {
-      "id": "2026-11-12-0757-06",
+      "id": "2026-11-12-1926-12",
       "typ": "politisch-aktuell",
-      "stichwort": "Vorwürfe gegen die Direktorin von Miss Universe Schweiz wegen Wutausbrüchen, gespielte Empörung: bisher wurden die Kandidatinnen ja nur vermessen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Miss-Universe-Direktorin soll Kandidatinnen angeschrien haben. Stimmt, bisher wurden sie ja nur vermessen.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-12-0757-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Stelleninserate mit Obstkorb und flachen Hierarchien, nur der Lohn bleibt beim Sie",
+      "stichwort": "Fitnessabo als umgekehrte Einbürgerung: mit einem Klick drin, rauskommen dauert Jahre",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Kein Stelleninserat mehr ohne Obstkorb, Duzkultur und flache Hierarchien. Flach heisst: alle duzen den CEO, nur sein Lohn bleibt beim Sie, mit Doktortitel.",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-11-12-0757-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "Anonyme Mitarbeitendenumfrage fragt nach Abteilung, Alter und Geschlecht, in der Abteilung gibt es genau eine Frau über fünfzig",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Die Mitarbeitendenumfrage ist anonym, gefragt wird nur nach Abteilung, Altersgruppe und Geschlecht. In der Abteilung arbeitet eine einzige Frau über fünfzig.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-12-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "SS United States vor Florida versenkt und zum Riff erklärt, Trump nennt dasselbe in Gaza Riviera",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 3,
-      "text": "Die USA versenken ihren legendären Ozeandampfer SS United States vor Florida und nennen das Trümmerfeld ein Riff. In Gaza nennt Trump so etwas Riviera, mit Golfplatz.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-12-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Die Drohung, dass Reiche wegziehen, besorgt ernst genommen: wer lässt dann im Engadin die Wohnungen leer stehen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Schlimm, wenn die Reichen wegziehen. Wer soll dann im Engadin die Wohnungen leer stehen lassen?",
-      "jury": {
-        "neu": true,
-        "witz": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-11-12-0757-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bauarbeiter sterben früher als Banker, bürgerliche Rentenpolitik freut sich über das kaum spürbare höhere Rentenalter",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Bauarbeiter sterben im Schnitt früher als Banker. Bürgerliche so: super, dann merken sie vom höheren Rentenalter ja kaum was, sozialverträglich gespart.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-11-12-0757-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neid auf den Picasso, der klimatisiert und steuerfrei im Genfer Zollfreilager wohnt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so klimatisiert und steuerfrei wohnen wie ein Picasso im Genfer Zollfreilager.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-11-12-0757-32",
-      "typ": "politisch-aktuell",
-      "stichwort": "Jede Gemeinde will ihre eigene Park-App mit Konto, Kreditkarte und Standort, Datenangst gab es erst bei der E-ID",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Zum Parkieren braucht es in jeder Gemeinde eine andere App, mit Konto, Kreditkarte und Live-Standort. Bei der E-ID hatten plötzlich alle Angst um ihre Daten.",
-      "jury": {
-        "witz": false,
-        "neu": true,
-        "anker": true
-      }
+      "text": "Das Fitnessabo ist eine Einbürgerung rückwärts. Rein mit einem Klick, raus nach zehn Jahren."
     }
   ]
 }
