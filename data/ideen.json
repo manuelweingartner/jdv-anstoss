@@ -4,16 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-11-12-1926-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Finanzkommission lehnt das Bundesbudget ab, am selben Tag schaltet SRF zurück auf UKW: Kurbelradio im Luftschutzkeller neben den Hero-Ravioli",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Die Finanzkommission versenkt das Bundesbudget, es droht ein Notbudget. Gleichentags schaltet SRF zurück auf UKW, fürs Kurbelradio im Luftschutzkeller, gleich neben den Hero-Ravioli."
-    },
-    {
       "id": "2026-11-12-1926-02",
       "typ": "politisch-aktuell",
       "stichwort": "Investoren wollen den 80-jährigen Lindt-Patron loswerden, Rentenalter 70 geht also doch, mit Chauffeur",
@@ -21,7 +11,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Investoren wollen den 80-jährigen Lindt-Patron loswerden. Rentenalter 70 geht also doch. Mit Chauffeur."
+      "text": "Investoren wollen den 80-jährigen Lindt-Patron loswerden. Rentenalter 70 geht also doch. Mit Chauffeur.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-12-1926-03",
@@ -31,7 +26,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Nvidia wird neu von einer Frau geführt, Colette Kress. Gleichstellung ist also ganz einfach: der Chef muss bloss eine Affäre mit einer mutmasslichen chinesischen Spionin haben."
+      "text": "Nvidia wird neu von einer Frau geführt, Colette Kress. Gleichstellung ist also ganz einfach: der Chef muss bloss eine Affäre mit einer mutmasslichen chinesischen Spionin haben.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
+    },
+    {
+      "id": "2026-11-12-1926-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizer Kokainbande mit 750 Kilo aufgeflogen. Die Angst vor kriminellen Ausländern ernst genommen: endlich greift der Inländervorrang",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Polizei hebt Schweizer Kokainbande mit 750 Kilo aus. Immerhin ein Inländervorrang, der funktioniert.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-12-1926-07",
@@ -41,27 +56,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Über den Lohn eines CEO entscheidet ein Ausschuss aus anderen CEOs. Wie Kinder, die sich gegenseitig das Dessert zuteilen. Grosszügig. Am eigenen Tisch."
-    },
-    {
-      "id": "2026-11-12-1926-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rhetorische Frage an den Vergütungsausschuss: wie oft danebenliegen, bis der Bonus auf Putzlohn-Niveau fällt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wie oft muss ein CEO eigentlich danebenliegen, bis sein Bonus so klein ist wie der Lohn der Person, die sein Büro putzt? Frage für den Vergütungsausschuss."
-    },
-    {
-      "id": "2026-11-12-1926-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lohnforderung Kassiererin gegen Lohnforderung CEO, Arbeitgeber so / Verwaltungsrat so",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kassiererin will hundert Franken mehr. Arbeitgeber so: schwierig, Marge, Onlinehandel, Ausland. CEO will zwei Millionen mehr. Verwaltungsrat so: klar, Talente muss man halten."
+      "text": "Über den Lohn eines CEO entscheidet ein Ausschuss aus anderen CEOs. Wie Kinder, die sich gegenseitig das Dessert zuteilen. Grosszügig. Am eigenen Tisch.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
     },
     {
       "id": "2026-11-12-1926-10",
@@ -71,17 +71,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 14,
-      "text": "Bonus nach Massenentlassung ist kein Leistungsanreiz. Sondern ein Kopfgeld. Steuerlich abzugsfähig."
-    },
-    {
-      "id": "2026-11-12-1926-11",
-      "typ": "schnittmenge",
-      "stichwort": "Wer bei der Bank Geld leiht, zahlt Zins, und wer der Bank sein Erspartes leiht, zahlt Kontoführungsgebühren",
-      "plattform": "Instagram + Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Leihst du dir Geld von der Bank, zahlst du Zins. Leihst du der Bank dein Geld, zahlst du Kontoführungsgebühren."
+      "text": "Bonus nach Massenentlassung ist kein Leistungsanreiz. Sondern ein Kopfgeld. Steuerlich abzugsfähig.",
+      "jury": {
+        "anker": false,
+        "neu": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-12-1926-12",
@@ -91,7 +86,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Das Fitnessabo ist eine Einbürgerung rückwärts. Rein mit einem Klick, raus nach zehn Jahren."
+      "text": "Das Fitnessabo ist eine Einbürgerung rückwärts. Rein mit einem Klick, raus nach zehn Jahren.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-11-12-1926-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Investoren fordern den Rücktritt des Lindt-Patrons, die Kinderarbeit im Kakaoanbau ist nicht der Grund",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Investoren wollen den Lindt-Patron loswerden. Die Kinderarbeit im Kakaoanbau lief ja gut.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-12-1926-24",
@@ -101,7 +116,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Zukunftstag: Mädchen auf der Baustelle, Buben in der Ergotherapie. Arme Buben, die sehen heute zum ersten Mal einen Frauenlohn."
+      "text": "Zukunftstag: Mädchen auf der Baustelle, Buben in der Ergotherapie. Arme Buben, die sehen heute zum ersten Mal einen Frauenlohn.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-11-12-1926-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Russischer Drohnenangriff auf einen Wohnblock in Kyjiw, gespielte Zustimmung zu «Putin will doch verhandeln»",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Putin will verhandeln. Heute früh mit einem Wohnblock in Kyjiw.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-11-12-1926-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Arbeitsfrieden als Nationalstolz: die eine Seite verzichtet aufs Streiken, die andere auf nichts",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Die Schweiz ist stolz auf ihren Arbeitsfrieden. Eine Seite verzichtet aufs Streiken, die andere auf gar nichts. Seit 1937. Feierlich unterschrieben.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
