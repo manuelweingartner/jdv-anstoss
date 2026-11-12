@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Wegen eines undichten Dachs bricht Zug ein Hockeyspiel ab, am selben Tag plant man eine Seilbahn über den tropfenden Plaine-Morte-Gletscher. Mit Panoramafenster."
+      "text": "Wegen eines undichten Dachs bricht Zug ein Hockeyspiel ab, am selben Tag plant man eine Seilbahn über den tropfenden Plaine-Morte-Gletscher. Mit Panoramafenster.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": false
+      }
     },
     {
       "id": "2026-11-12-0634-02",
@@ -21,7 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Die Credit Suisse ist untergegangen, der Staat musste sie retten, und gebüsst wird Urs Rohner. Für eine falsche Aussage, wie Al Capone für die Steuern."
+      "text": "Die Credit Suisse ist untergegangen, der Staat musste sie retten, und gebüsst wird Urs Rohner. Für eine falsche Aussage, wie Al Capone für die Steuern.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": false
+      }
     },
     {
       "id": "2026-11-12-0634-03",
@@ -31,7 +41,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Ungarn öffnet die Spitzelakten seiner Diktatur. Wann öffnet die Schweiz die Konten der anderen?"
+      "text": "Ungarn öffnet die Spitzelakten seiner Diktatur. Wann öffnet die Schweiz die Konten der anderen?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-12-0634-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pensionskassen legen den Lohnabzug von Pflegefachfrauen in Rüstungsaktien an, irgendwer muss die Verwundeten später pflegen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Pensionskassen legen den Lohnabzug von Pflegefachfrauen in Rüstungsaktien an. Vorausschauend, irgendwer muss die Verwundeten später ja pflegen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-12-0634-11",
@@ -41,7 +71,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Dank der Uni Zürich lassen sich K.-o.-Tropfen jetzt deutlich länger im Körper nachweisen. Vor Gericht hält sich trotzdem am längsten ihr kurzer Rock."
+      "text": "Dank der Uni Zürich lassen sich K.-o.-Tropfen jetzt deutlich länger im Körper nachweisen. Vor Gericht hält sich trotzdem am längsten ihr kurzer Rock.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-12-0634-12",
@@ -51,17 +86,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Krankenkassen-Login: Bitte beweisen Sie, kein Roboter zu sein. Die Ablehnung schreibt dann einer."
+      "text": "Krankenkassen-Login: Bitte beweisen Sie, kein Roboter zu sein. Die Ablehnung schreibt dann einer.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-11-12-0634-25",
+      "id": "2026-11-12-0634-21",
       "typ": "politisch-aktuell",
-      "stichwort": "Hockey-Fans nach Prügelei in Prilly-Malley vor Haftstrafen; gespielte Angst vor Fans, die Credit-Suisse-Manager kamen mit Bonus davon",
+      "stichwort": "Seilbahn von der Lenk ins Wallis über den Plaine-Morte-Gletscher, Abschiedstournee mit Panoramakabine",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Von der Lenk ins Wallis soll eine Seilbahn über den Plaine-Morte-Gletscher führen. Für seine Abschiedstournee bekommt der Gletscher eine Panoramakabine, mit Sitzheizung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-12-0634-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Revolutionsgarden bilden Iranerinnen an der Waffe aus, offenes Haar bleibt gefährlicher",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor Hockey-Fans, seit es am Bahnhof Prilly-Malley Prügel gab. Die Credit-Suisse-Manager haben nur meine Pensionskasse verprügelt, mit Bonus und ohne Haftstrafe."
+      "text": "Revolutionsgarden bringen Iranerinnen in Teheran das Schiessen bei. Offenes Haar bleibt gefährlicher.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-12-0634-26",
@@ -71,27 +131,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Paul McCartney ist Milliardär. Leistung lohnt sich also, man muss bloss die Beatles gründen."
-    },
-    {
-      "id": "2026-11-12-0634-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Gemeinde erhöht den Steuerfuss: Enteignung. Milliardär schenkt dasselbe Geld als Hallenbad mit Namen: Ehrenbürger",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Gemeinde erhöht den Steuerfuss, Schweiz so: Enteignung, Referendum. Milliardär schenkt ihr ein Hallenbad mit seinem Namen drauf, Schweiz so: Ehrenbürger, Apéro, Blasmusik."
-    },
-    {
-      "id": "2026-11-12-0634-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Milliardärsstiftungen, die sich für eine Erbschaftssteuer einsetzen, alphabetisch sortiert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Sämtliche Milliardärsstiftungen, die sich für eine Erbschaftssteuer einsetzen, in alphabetischer Reihenfolge:\n-\n-"
+      "text": "Paul McCartney ist Milliardär. Leistung lohnt sich also, man muss bloss die Beatles gründen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-12-0634-29",
@@ -101,7 +146,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 14,
-      "text": "Kriegsgewinne werden in der Schweiz nicht besteuert, sondern gerahmt und im Kunsthaus aufgehängt. Mit Audioguide."
+      "text": "Kriegsgewinne werden in der Schweiz nicht besteuert, sondern gerahmt und im Kunsthaus aufgehängt. Mit Audioguide.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
