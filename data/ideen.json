@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-12",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -91,21 +91,6 @@
         "neu": true,
         "anker": true,
         "witz": true
-      }
-    },
-    {
-      "id": "2026-11-12-0634-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Seilbahn von der Lenk ins Wallis über den Plaine-Morte-Gletscher, Abschiedstournee mit Panoramakabine",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Von der Lenk ins Wallis soll eine Seilbahn über den Plaine-Morte-Gletscher führen. Für seine Abschiedstournee bekommt der Gletscher eine Panoramakabine, mit Sitzheizung.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
       }
     },
     {
