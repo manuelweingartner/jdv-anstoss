@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-12",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-12-1926-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Finanzkommission lehnt das Bundesbudget ab, am selben Tag schaltet SRF zurück auf UKW: Kurbelradio im Luftschutzkeller neben den Hero-Ravioli",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Die Finanzkommission versenkt das Bundesbudget, es droht ein Notbudget. Gleichentags schaltet SRF zurück auf UKW, fürs Kurbelradio im Luftschutzkeller, gleich neben den Hero-Ravioli."
+    },
+    {
+      "id": "2026-11-12-1926-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Investoren wollen den 80-jährigen Lindt-Patron loswerden, Rentenalter 70 geht also doch, mit Chauffeur",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Investoren wollen den 80-jährigen Lindt-Patron loswerden. Rentenalter 70 geht also doch. Mit Chauffeur."
+    },
+    {
+      "id": "2026-11-12-1926-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nvidia wird neu von Colette Kress geführt, Gleichstellung ist also ganz einfach: Affäre des Chefs mit einer mutmasslichen Spionin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Nvidia wird neu von einer Frau geführt, Colette Kress. Gleichstellung ist also ganz einfach: der Chef muss bloss eine Affäre mit einer mutmasslichen chinesischen Spionin haben."
+    },
     {
       "id": "2026-11-12-1926-07",
       "typ": "politisch-aktuell",
