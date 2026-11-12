@@ -1,60 +1,57 @@
 {
-  "stand": "2026-11-12T08:05:24+01:00",
-  "lauf": "0804",
+  "stand": "2026-11-12T17:00:53+01:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0804-1",
-      "titel": "Trump will von nichts gewusst haben. Doch jetzt holt ihn Jensen Huangs Affäre mit einer mutmasslichen chinesischen Spionin ein",
-      "was": "Trump und Jensen Huang beim Händeschütteln im Weissen Haus",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen, der Präsident wittert überall chinesische Spione, nur nicht beim Milliardär an seiner Seite. Achse: demonstrative Nähe zum Techboss gegen das spätere Nicht",
+      "id": "1700-1",
+      "titel": "Wie es zum Rücktritt von Jensen Huang kam. Eine Chronologie der Ereignisse",
+      "was": "Jensen Huang in Lederjacke auf der Bühne, Nvidia-Logo hinter ihm",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Washington sperrt Chip-Exporte nach China, beim Chef selbst floss das Wissen privat ab.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "NZZ",
       "auch_bei": [
         "20 Minuten",
+        "SRF",
         "Spiegel"
       ],
-      "artikel": "https://www.nzz.ch/international/trump-will-von-nichts-gewusst-haben-doch-jetzt-holt-ihn-jensen-huangs-affaere-mit-einer-mutmasslichen-chinesischen-spionin-ein-ld.10060975",
-      "bild": "https://img-msp-prod.nzz.ch/2026/11/09/74274c7c-d7fc-4cb6-ae78-d6cb33049ffe.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1645,1645,x273,y0",
-      "zeit": "2026-11-12T05:30+01:00"
+      "artikel": "https://www.nzz.ch/international/jensen-huang-wie-sich-affaere-zuspitzte-eine-chronologie-der-ereignisse-ld.10061069",
+      "bild": "https://img-msp-prod.nzz.ch/2026/11/10/ff020f9c-8ccc-495c-8192-75aac1af2e68.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3708,3708,x926,y0",
+      "zeit": "2026-11-12T15:37+01:00"
     },
     {
-      "id": "0804-2",
-      "titel": "Schwarz-Rot verschiebt Zuckersteuer - keine Senkung der Stromsteuer",
-      "was": "Merz und Klingbeil vor Mikrofonen nach dem nächtlichen Koalitionsausschuss",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Vertagen wird als Einigung verkauft. Achse: Durchbruch nach langer Nacht gegen eine Liste, auf der nur Verschobenes steht.",
+      "id": "1700-2",
+      "titel": "Unheilige Allianz – Knall in Finanzkommission: Budget 2027 zur Ablehnung empfohlen",
+      "was": "Kommissionsmitglieder vor Mikrofonen im Bundeshaus, Budgetordner auf dem Tisch",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Die Linke findet das Budget zu knapp, die SVP zu grosszügig, und beide stimmen gleich ab.",
       "grund": "breit",
-      "raum": "",
-      "quelle": "Tagesschau",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [
-        "Spiegel"
+        "NZZ"
       ],
-      "artikel": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
-      "bild": "https://images.tagesschau.de/image/4bdccd2a-0538-412e-bbb9-c9307219dbc9/AAABocx2QXM/AAABnSSvrFg/16x9-big/klingbeil-460.jpg?width=1280",
-      "zeit": "2026-11-12T00:12+01:00"
+      "artikel": "https://www.srf.ch/news/schweiz/unheilige-allianz-knall-in-finanzkommission-budget-2027-zur-ablehnung-empfohlen",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/2d460f.jpg",
+      "zeit": "2026-11-12T16:00+01:00"
     },
     {
-      "id": "0804-3",
-      "titel": "BILDSTRECKE - Papst Leo XIV. besucht seine alte Heimat Peru",
-      "was": "Papst Leo XIV. mit Poncho oder Andenmütze inmitten jubelnder Peruaner",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Oberhaupt von über einer Milliarde Gläubigen gegen den Heimkehrer, der sich auf den Besuch im alten Quartier freut.",
+      "id": "1700-3",
+      "titel": "Fasnachtseröffnung an Martini – Bundesrat Martin Pfister posaunt mit seiner Guggenmusik in Wil SG",
+      "was": "Bundesrat Pfister mit Posaune und Guggenkostüm inmitten der Fasnachtsmusik",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Am Morgen ein ernstes Referat zur Sicherheit, am Abend schaurig schräge Töne vom Verteidigungsminister.",
       "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "NZZ",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/panorama/papst-leo-xiv-besucht-suedamerika-ld.10058509",
-      "bild": "https://img-msp-prod.nzz.ch/2026/11/09/195ca25a-a94c-401c-853f-ef91dcbcf7a3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2872,2872,x1381,y741",
-      "zeit": "2026-11-12T06:12+01:00"
+      "artikel": "https://www.srf.ch/news/schweiz/fasnachtseroeffnung-an-martini-bundesrat-martin-pfister-posaunt-mit-seiner-guggenmusik-in-wil-sg",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/5a3e09c.jpg",
+      "zeit": "2026-11-12T14:19+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ganztags",
-      "was": "Papst Leo XIV. bei Messen und Begegnungen in Peru, Fortsetzung der Südamerikareise"
-    },
-    {
-      "wann": "heute im Lauf des Tages",
-      "was": "Trumps Unterhändler bei Gesprächen mit europäischen Regierungen über die Ukraine"
+      "wann": "heute",
+      "was": "Familienfoto und Handschläge am EPG-Gipfel in Dublin, eventuell mit Witkoff, Kushner und Selenskyj"
     }
   ],
   "hinweis": ""
