@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -27,21 +27,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Stimmt, Sozialismus ist gefährlich, am Ende gehört alles dem Staat. Zum Glück will Elon Musk Texas kaufen, dann gehört der Staat wenigstens jemandem.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-13-1800-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Weltweiter Microsoft-Ausfall, die Angst vor fremden Richtern aus Brüssel ernst genommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seh ich das richtig: Richter aus Brüssel wären fremde Herrschaft, aber fällt Microsoft aus, kann die halbe Schweiz keine Mail mehr schicken? Souverän, aus Redmond.",
       "jury": {
         "anker": true,
         "witz": true,
@@ -135,21 +120,6 @@
       "jury": {
         "anker": true,
         "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-13-1800-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor dem, was in Impfungen drin sein könnte, ernst genommen: lieber Badener Leitungswasser, da ist laut Behörden bloss Benzin drin",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor Impfungen, man weiss nie, was drin ist. Darum trinke ich nur noch Leitungswasser aus Baden, da ist laut Behörden bloss Benzin drin. Bleifrei.",
-      "jury": {
-        "witz": true,
-        "anker": true,
         "neu": true
       }
     }
