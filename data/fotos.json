@@ -1,57 +1,58 @@
 {
-  "stand": "2026-11-12T17:00:53+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-13T08:01:36+01:00",
+  "lauf": "0801",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Wie es zum Rücktritt von Jensen Huang kam. Eine Chronologie der Ereignisse",
-      "was": "Jensen Huang in Lederjacke auf der Bühne, Nvidia-Logo hinter ihm",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Washington sperrt Chip-Exporte nach China, beim Chef selbst floss das Wissen privat ab.",
+      "id": "0801-1",
+      "titel": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
+      "was": "Jensen Huang in Lederjacke auf der Bühne, Chip in der Hand",
+      "richtung": "Mechanik: dieselbe Handlung umetikettieren, also die gewohnte Keynote-Pose neu lesen. Achse: das gefeierte Gesicht der KI-Zukunft gegen den Mann, der am Ende das Sicherheitsrisiko der eigenen Firma wa",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "NZZ",
+      "quelle": "Tagesschau",
       "auch_bei": [
-        "20 Minuten",
+        "NZZ",
         "SRF",
         "Spiegel"
       ],
-      "artikel": "https://www.nzz.ch/international/jensen-huang-wie-sich-affaere-zuspitzte-eine-chronologie-der-ereignisse-ld.10061069",
-      "bild": "https://img-msp-prod.nzz.ch/2026/11/10/ff020f9c-8ccc-495c-8192-75aac1af2e68.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3708,3708,x926,y0",
-      "zeit": "2026-11-12T15:37+01:00"
+      "artikel": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rolle-100.html",
+      "bild": "https://images.tagesschau.de/image/62a459a4-de47-412c-bc99-10728c9a25e5/AAABodAPyYk/AAABnSSvrFg/16x9-big/huang-120.jpg?width=1280",
+      "zeit": "2026-11-12T17:17+01:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Unheilige Allianz – Knall in Finanzkommission: Budget 2027 zur Ablehnung empfohlen",
-      "was": "Kommissionsmitglieder vor Mikrofonen im Bundeshaus, Budgetordner auf dem Tisch",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Die Linke findet das Budget zu knapp, die SVP zu grosszügig, und beide stimmen gleich ab.",
+      "id": "0801-2",
+      "titel": "Microsoft bekommt weltweite Störung von Onlinediensten nicht in den Griff",
+      "was": "Fehlermeldung von Outlook oder Teams auf einem Laptop im Büro",
+      "richtung": "Mechanik: die Grösse eines Weltkonzerns an etwas Banalem messen. Achse: der Konzern, der uns die KI-Zukunft verkauft, gegen einen Konzern, der seit Donnerstag keine E-Mail zustellt.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "weltweit",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "NZZ"
+        "20 Minuten",
+        "Tagesschau"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/unheilige-allianz-knall-in-finanzkommission-budget-2027-zur-ablehnung-empfohlen",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/2d460f.jpg",
-      "zeit": "2026-11-12T16:00+01:00"
+      "artikel": "https://www.spiegel.de/netzwelt/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff-a-589712d4-e5b1-4fe0-a291-df65e1e54ffa#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/2fdcd8b2-d15f-4ae6-b38d-ac54bfd04346_w520_r2.08_fpx29.99_fpy44.99.jpg",
+      "zeit": "2026-11-13T07:38+01:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Fasnachtseröffnung an Martini – Bundesrat Martin Pfister posaunt mit seiner Guggenmusik in Wil SG",
-      "was": "Bundesrat Pfister mit Posaune und Guggenkostüm inmitten der Fasnachtsmusik",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist. Achse: Am Morgen ein ernstes Referat zur Sicherheit, am Abend schaurig schräge Töne vom Verteidigungsminister.",
+      "id": "0801-3",
+      "titel": "Parmelin gerät in Dublin unverhofft ins Rampenlicht: Die Schweiz bereitet sich in Irland auf ihren eigenen Monsteranlass vor",
+      "was": "Parmelin beim Gruppenfoto oder Händeschütteln am Gipfel in Dublin",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: das neutrale Nicht-Mitglied, das sich sonst aus Europa heraushält, gegen den eifrigen Gastgeber, der im Akkord Gespräche führt und den nächsten ",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/fasnachtseroeffnung-an-martini-bundesrat-martin-pfister-posaunt-mit-seiner-guggenmusik-in-wil-sg",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/5a3e09c.jpg",
-      "zeit": "2026-11-12T14:19+01:00"
+      "artikel": "https://www.nzz.ch/schweiz/parmelin-geraet-in-dublin-unverhofft-ins-rampenlicht-die-schweiz-bereitet-sich-in-irland-auf-ihren-eigenen-monsteranlass-vor-ld.10061105",
+      "bild": "https://img-msp-prod.nzz.ch/2026/11/12/bde10fe6-ab46-4649-bcb4-7c78db842814.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2174,2174,x2582,y1476",
+      "zeit": "2026-11-13T05:30+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute",
-      "was": "Familienfoto und Handschläge am EPG-Gipfel in Dublin, eventuell mit Witkoff, Kushner und Selenskyj"
+      "wann": "heute tagsüber",
+      "was": "Abschlussbilder und Familienfoto vom Gipfel der Europäischen Politischen Gemeinschaft in Dublin, falls er heute noch läu"
     }
   ],
   "hinweis": ""
