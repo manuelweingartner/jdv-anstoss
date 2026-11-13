@@ -4,14 +4,34 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-11-13-1806-04",
+      "id": "2026-11-13-1806-02",
       "typ": "politisch-aktuell",
-      "stichwort": "Russlands Eishockeyverband droht Deutschland mit Schadenersatz wegen WM-Ausschluss, gespielte Zustimmung: wer Schaden anrichtet, zahlt, Kiew legt die Rechnung bei",
+      "stichwort": "Trump will Kuba vor seinem Abgang notfalls militärisch erledigen, Wohnungsübergabe beim Auszug",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Beim Auszug gibt man die Schlüssel ab und verabschiedet sich von den Nachbarn. Trump will vor seinem Auszug noch Kuba «erledigen», notfalls militärisch, besenrein übergeben.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-13-1806-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kay Voser schreibt ein Buch über seine Schizophrenie, die IV liest es als Arbeitsprobe",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Russland verlangt Schadenersatz, weil es nicht an die Eishockey-WM darf. Stimmt, wer Schaden anrichtet, soll zahlen, Kiew legt die Rechnung gleich bei."
+      "text": "Ex-Profi Kay Voser schreibt ein Buch über seine Schizophrenie. Die IV nennt sowas Arbeitsprobe.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-13-1806-05",
@@ -21,7 +41,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Seh ich das richtig, acht Wochen Ferien für Lernende gefährden die Wirtschaft? Am selben Tag fiel Teams weltweit aus, und erstmals wurde gearbeitet."
+      "text": "Seh ich das richtig, acht Wochen Ferien für Lernende gefährden die Wirtschaft? Am selben Tag fiel Teams weltweit aus, und erstmals wurde gearbeitet.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-13-1806-06",
@@ -31,27 +56,42 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Stimmt, Tempo 30 ist Bevormundung. Wer in Zürich zu Fuss geht, soll halt schneller sein."
+      "text": "Stimmt, Tempo 30 ist Bevormundung. Wer in Zürich zu Fuss geht, soll halt schneller sein.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-11-13-1806-11",
-      "typ": "schnittmenge",
-      "stichwort": "Arztzeugnis für einen Tag Ausfall gegen Microsofts «ermutigende Fortschritte» nach zwei Tagen Störung",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Fällt eine Angestellte einen Tag aus, will die Firma ein Arztzeugnis. Fällt Microsoft zwei Tage aus, meldet es «ermutigende Fortschritte»."
-    },
-    {
-      "id": "2026-11-13-1806-12",
+      "id": "2026-11-13-1806-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Mahnung vom Steueramt wegen ausgebliebener Antwort, Absender noreply",
+      "stichwort": "Unbezahltes Praktikum in Genf: das wichtigste Kriterium in der Bewerbung sind die Eltern an der Goldküste",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Mahnung vom Steueramt, weil die Antwort ausgeblieben ist, Absender noreply. E-Government, wie versprochen."
+      "format": "frei",
+      "text": "Stelleninserat für ein unbezahltes Praktikum in Genf: gesucht werden Neugier, Teamgeist und Eltern an der Goldküste.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-13-1806-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angebundene Kühe haben gesetzlich mehr Auslauf als Angestellte Ferien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Angebundene Kühe haben in der Schweiz gesetzlich Anrecht auf 90 Tage Auslauf im Jahr, Angestellte auf vier Wochen Ferien. Bessere Lobby.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-13-1806-21",
@@ -61,47 +101,57 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Neue Studie: Kalt duschen ist gesünder. Hausverwaltungen forschen seit Jahren daran, bevorzugt im Januar."
+      "text": "Neue Studie: Kalt duschen ist gesünder. Hausverwaltungen forschen seit Jahren daran, bevorzugt im Januar.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-11-13-1806-22",
+      "id": "2026-11-13-1806-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Trump will Kuba vor dem Abtreten erledigen, Bucket List mit Ländern drauf",
+      "stichwort": "Russlands Eishockeyverband droht Deutschland mit Schadenersatz wegen WM-Ausschluss, gespielte Zustimmung zum Prinzip Schadenersatz",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Trump will Kuba noch «erledigen», bevor er abtritt, notfalls militärisch. Seh ich das richtig, der Mann hat eine Bucket List, und darauf stehen Länder?"
+      "text": "Russlands Eishockeyverband droht Deutschland mit Schadenersatz, weil Russland nicht an die WM darf. Gute Idee eigentlich, Mariupol wüsste auch schon, wo es sich anstellt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-13-1806-23",
+      "id": "2026-11-13-1806-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Beizer kippt Handyverbot nach Gästeprotest, am selben Tag Drohnen auf Spital in Kyjiw, Europa scrollt weiter",
+      "stichwort": "Tempo 30 auf Kantonsstrassen, die Angst der Gegner*innen ernst genommen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Gäste protestieren so lange, bis ein Beizer sein Handyverbot wieder aufhebt. Am selben Tag treffen russische Drohnen ein Spital in Kyjiw, und Europa scrollt weiter."
-    },
-    {
-      "id": "2026-11-13-1806-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Zeitgewinne seit der Erfindung von Excel, die als kürzere Arbeitswoche bei den Angestellten angekommen sind",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Hier alle Zeitgewinne seit der Erfindung von Excel, die bei den Angestellten als kürzere Arbeitswoche angekommen sind:\n-\n-\nEnde der Durchsage."
+      "text": "Habe Angst vor Tempo 30. Am Schluss überleben die Kinder noch.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-11-13-1806-28",
+      "id": "2026-11-13-1806-29",
       "typ": "politisch-aktuell",
-      "stichwort": "Im Homeoffice wird die Mausbewegung überwacht, Dividenden arbeiten seit jeher von zu Hause, im Schlaf, ohne Maus",
+      "stichwort": "«Zeit ist Geld» auf der Tasse im Pausenraum wörtlich genommen: beides gehört denselben Leuten",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Im Homeoffice wird überwacht, ob sich die Maus bewegt, falls jemand kurz die Waschmaschine ausräumt. Dividenden arbeiten seit jeher von zu Hause, im Schlaf, ohne Maus."
+      "format": 17,
+      "text": "«Zeit ist Geld», steht auf der Tasse im Pausenraum. Darum gehört beides denselben Leuten.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
