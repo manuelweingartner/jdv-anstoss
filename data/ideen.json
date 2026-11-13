@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-13-1800-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Elon Musk will Texas kaufen, gespielte Zustimmung zur Angst, im Sozialismus gehöre am Ende alles dem Staat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Sozialismus ist gefährlich, am Ende gehört alles dem Staat. Zum Glück will Elon Musk Texas kaufen, dann gehört der Staat wenigstens jemandem."
+    },
+    {
+      "id": "2026-11-13-1800-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Weltweiter Microsoft-Ausfall, die Angst vor fremden Richtern aus Brüssel ernst genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig: Richter aus Brüssel wären fremde Herrschaft, aber fällt Microsoft aus, kann die halbe Schweiz keine Mail mehr schicken? Souverän, aus Redmond."
+    },
+    {
+      "id": "2026-11-13-1800-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Benzin im Badener Trinkwasser laut Behörden kein Problem, die Angst vor Impfstoff im Wasser ernst genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Angst vor Impfstoff im Trinkwasser? In Baden ist es nur Benzin, laut Behörden unbedenklich."
+    },
     {
       "id": "2026-11-13-1800-31",
       "typ": "schnittmenge",
