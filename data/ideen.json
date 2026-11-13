@@ -4,26 +4,6 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-11-13-1753-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Microsoft-Ausfall ohne Cyberangriff, die Verwaltung wurde vom eigenen Lieferanten lahmgelegt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Outlook und Teams fallen stundenlang aus, ein Cyberangriff war es laut Microsoft nicht. Beruhigend, lahmgelegt hat die Verwaltung also ihr eigener Lieferant. Mit gültigem Rahmenvertrag."
-    },
-    {
-      "id": "2026-11-13-1753-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Chinesische Roboter am Web Summit, gleiche Woche Initiative für acht Wochen Lehrlingsferien",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Am Web Summit in Lissabon halten chinesische Roboter Vorträge, gleiche Woche fordern Schweizer Lernende acht Wochen Ferien. Die Arbeitgeber wissen jetzt, wen sie künftig ausbilden."
-    },
-    {
       "id": "2026-11-13-1753-03",
       "typ": "politisch-aktuell",
       "stichwort": "Neues Kriegsmaterialgesetz wegen des Ukraine-Kriegs, die Ukraine bekommt nichts davon",
@@ -31,17 +11,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Wegen des russischen Angriffs auf die Ukraine bekommt die Schweiz ein neues Kriegsmaterialgesetz. Hier alle Lieferungen, die die Ukraine davon bekommt:\n-\n-\nImmerhin war sie der Anlass."
-    },
-    {
-      "id": "2026-11-13-1753-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Arbeitsrechtler klären nach dem Microsoft-Ausfall, ob Angestellte die verlorene Zeit nachholen müssen, gespielte Zustimmung zur Gerechtigkeit bei Überstunden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Microsoft-Ausfall: Muss man die verlorene Zeit nachholen? Klar, so wie Firmen jede Überstunde nachzahlen."
+      "text": "Wegen des russischen Angriffs auf die Ukraine bekommt die Schweiz ein neues Kriegsmaterialgesetz. Hier alle Lieferungen, die die Ukraine davon bekommt:\n-\n-\nImmerhin war sie der Anlass.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-13-1753-05",
@@ -51,17 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Seh ich das richtig, Topmanager fliegen wegen einer Affäre, aber nie wegen einer Massenentlassung? Dabei war wenigstens die Affäre einvernehmlich."
-    },
-    {
-      "id": "2026-11-13-1753-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kushner will die Europäer in die Ukraine-Gespräche einbinden, gespielte Sorge, dass am Ende die Ukraine gefragt wird",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Kushner holt die Europäer an den Tisch der Ukraine-Gespräche. Mutig, am Ende fragt noch jemand die Ukraine."
+      "text": "Seh ich das richtig, Topmanager fliegen wegen einer Affäre, aber nie wegen einer Massenentlassung? Dabei war wenigstens die Affäre einvernehmlich.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-13-1753-07",
@@ -71,7 +41,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Pflegende wollen mehr Lohn, Schweiz so: puh, schwierig, das Budget. Konzerne drohen mit Wegzug, Schweiz so: Kaffee, Gipfeli, welcher Steuersatz darf's denn sein?"
+      "text": "Pflegende wollen mehr Lohn, Schweiz so: puh, schwierig, das Budget. Konzerne drohen mit Wegzug, Schweiz so: Kaffee, Gipfeli, welcher Steuersatz darf's denn sein?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-13-1753-08",
@@ -81,17 +56,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Hier alle Briefkastenfirmen in Zug, in denen tatsächlich jemand arbeitet:\n-\n-\nDer Briefträger, einmal am Tag."
-    },
-    {
-      "id": "2026-11-13-1753-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wohnungen dem freien Markt überlassen heisst Rettungsringe versteigern, Mindestgebot nach Wasserstand",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wer Wohnungen dem freien Markt überlässt, versteigert auch Rettungsringe. Das Mindestgebot steigt mit dem Wasserstand."
+      "text": "Hier alle Briefkastenfirmen in Zug, in denen tatsächlich jemand arbeitet:\n-\n-\nDer Briefträger, einmal am Tag.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-13-1753-10",
@@ -101,7 +71,87 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 13,
-      "text": "Viele Banken führen Rüstungsaktien inzwischen als nachhaltige Anlage. Logisch, wer tot ist, hinterlässt keinen CO2-Fussabdruck mehr."
+      "text": "Viele Banken führen Rüstungsaktien inzwischen als nachhaltige Anlage. Logisch, wer tot ist, hinterlässt keinen CO2-Fussabdruck mehr.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-13-1753-11",
+      "typ": "schnittmenge",
+      "stichwort": "Tempo 30 im Quartier ist Bevormundung, Tempo 30 auf der A1 nimmt man jeden Abend freiwillig hin",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Tempo 30 vor der Schule ist «ideologische Bevormundung». Tempo 30 auf der A1 ist Feierabend, jeden Tag, freiwillig, mit Radio.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-13-1753-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Volksinitiative für 5000 Franken Mindestlohn nach der Lehre, gemessen am Stundenlohn von UBS-Chef Ermotti",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Lehrabgänger*innen sollen künftig mindestens 5000 Franken im Monat verdienen, fordern die Gewerkschaften. UBS-Chef Ermotti verdient das in drei Stunden, auch nachts.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-13-1753-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Microsoft-Ausfall legt alles lahm, gespielte Angst vor Streiks: derselbe Stillstand, nur mit Lohnerhöhung danach",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor Streiks. Ist wie der Microsoft-Ausfall, nur gibt es danach mehr Lohn.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-13-1753-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohnraum dem freien Markt überlassen wie Rettungsringe versteigern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wohnraum dem freien Markt zu überlassen ist, wie Rettungsringe zu versteigern. Sehr effizient übrigens, Ertrinkende bieten erstaunlich hoch.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-13-1753-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Self-Checkout ruft bei jedem Fehler das Personal, das die Kasse eingespart hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Self-Checkout bei Coop: «Unerwarteter Artikel im Ablagebereich. Bitte warten Sie auf das eingesparte Personal.»",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
