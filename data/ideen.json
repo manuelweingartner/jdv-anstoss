@@ -1,142 +1,27 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-13-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trickdiebstahl am Bahnhof Rorschach, der Satz des Opfers passt auf jede Vorsorgeberatung",
-      "plattform": "Threads + Bluesky",
+      "id": "2026-11-13-1753-11",
+      "typ": "schnittmenge",
+      "stichwort": "Tempo 30 im Quartier ist Bevormundung, Tempo 30 auf der A1 nimmt man jeden Abend freiwillig hin",
+      "plattform": "Threads + Bluesky + Instagram",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "«Wollte nur plaudern, plötzlich war mein Portemonnaie weg», sagt Murat nach einem Trickdiebstahl in Rorschach. Und alle anderen nach der kostenlosen Vorsorgeberatung der UBS.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Tempo 30 vor der Schule ist «ideologische Bevormundung». Tempo 30 auf der A1 ist Feierabend, jeden Tag, freiwillig, mit Radio."
     },
     {
-      "id": "2026-11-13-0757-02",
+      "id": "2026-11-13-1753-12",
       "typ": "politisch-aktuell",
-      "stichwort": "SVP-Bundesratskür, Kandidierende auf Parteitreue und Führungserfahrung geprüft, durchgefallen ist das Kriterium",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "SVP-Bundesratskür: geprüft wird auf Parteitreue, Kernthemen-Konformität und Führungserfahrung. Durchgefallen ist bisher nur die Führungserfahrung.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-13-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rhein seit dem Hitzesommer für den Gütertransport zu seicht, gespielte Zustimmung zur Klage über Klimakleber, die den Verkehr lahmlegen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, Klimakleber legen den Güterverkehr lahm. Der Rhein schafft das seit Monaten, ohne Leim.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-13-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Mitte-Initiative will die Heiratsstrafe erneut abschaffen, das Wort Strafe wörtlich genommen: gleichgeschlechtliche Paare haben jahrzehntelang dafür gekämpft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ausgerechnet jetzt will die Mitte die Heiratsstrafe abschaffen. Gleichgeschlechtliche Paare haben jahrzehntelang darum gekämpft, endlich auch bestraft zu werden, standesamtlich, mit Trauzeugen.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-13-0757-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Unbezahlte Arbeit ist mehr wert als der ganze Finanzplatz, gerettet wird trotzdem nur der Finanzplatz",
+      "stichwort": "Self-Checkout: die Kundschaft scannt, packt ein, wird kontrolliert und bekommt keinen Lohnausweis",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Unbezahlte Arbeit ist in der Schweiz 434 Milliarden Franken wert, mehr als der ganze Finanzplatz. Gerettet wird trotzdem nur der Finanzplatz, zuverlässig, übers Wochenende.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-13-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lohnabstand: Vollzeitlohn reicht nicht zum Leben, Bürgerliche wollen die Sozialhilfe senken, damit der Abstand stimmt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Vollzeitlohn reicht nicht zum Leben. Bürgerliche so: Skandal! Sozialhilfe sofort runter, damit der Abstand wieder stimmt.",
-      "jury": {
-        "anker": false,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-13-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Israel verweigert Mélenchon wegen feindlicher Haltung die Einreise, am selben Tag trifft ein Luftangriff das Nasser-Spital in Gaza",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Israel verweigert Mélenchon wegen «äusserst feindlicher Haltung» die Einreise. Am selben Tag trifft ein israelischer Luftangriff das Nasser-Spital in Gaza, offenbar noch feindlicher eingestellt, samt Arzt.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-13-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nach der Nvidia-Affäre Angst vor chinesischer Spionage in der Schweiz, die Daten gehören doch schon Cumulus",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Habe Angst vor chinesischer Spionage. Meine Daten gehören Cumulus, Google und Swisscom, sonst niemandem.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-13-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor dem Waffenstillstand aus Sicht des Rüstungsaktionärs",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Habe ein bisschen Angst vor einem Waffenstillstand. Die Rheinmetall-Aktie hat sich gerade erst so schön erholt, und Weihnachten steht vor der Tür.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
+      "text": "Seit wann ist es eigentlich normal, dass man an der Self-Checkout-Kasse selbst scannt, selbst einpackt, sich kontrollieren lässt und keinen Lohnausweis bekommt? Frage für Coop."
     }
   ]
 }
