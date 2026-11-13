@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -31,21 +31,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-11-13-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nebenaspekt der Nvidia-Spionageaffäre: China spioniert auch in der Schweiz, gespielte Sorge um die Genfer Konten, über deren Inhaber die Schweiz selbst nichts wissen will",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor chinesischer Spionage in der Schweiz. Am Ende finden die noch heraus, wem die Konten in Genf gehören, das wissen ja nicht mal wir.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
       }
     },
     {
@@ -109,21 +94,6 @@
       }
     },
     {
-      "id": "2026-11-13-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "SVP-Bundesratskür prüft Kandidierende auf Parteitreue, die Verfassung als Zweitmeinung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "SVP-Bundesratskandidierende werden auf Parteitreue geprüft. Die Verfassung gilt als Zweitmeinung.",
-      "jury": {
-        "witz": true,
-        "anker": false,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-11-13-0757-23",
       "typ": "politisch-aktuell",
       "stichwort": "Israel verweigert Mélenchon wegen feindlicher Haltung die Einreise, am selben Tag trifft ein Luftangriff das Nasser-Spital in Gaza",
@@ -136,6 +106,21 @@
         "witz": true,
         "anker": true,
         "neu": false
+      }
+    },
+    {
+      "id": "2026-11-13-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nach der Nvidia-Affäre Angst vor chinesischer Spionage in der Schweiz, die Daten gehören doch schon Cumulus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe Angst vor chinesischer Spionage. Meine Daten gehören Cumulus, Google und Swisscom, sonst niemandem.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
       }
     },
     {
