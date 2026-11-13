@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Stimmt, Tempo 30 ist Bevormundung. Wer in Zürich zu Fuss geht, soll halt schneller sein."
+    },
+    {
+      "id": "2026-11-13-1806-11",
+      "typ": "schnittmenge",
+      "stichwort": "Arztzeugnis für einen Tag Ausfall gegen Microsofts «ermutigende Fortschritte» nach zwei Tagen Störung",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Fällt eine Angestellte einen Tag aus, will die Firma ein Arztzeugnis. Fällt Microsoft zwei Tage aus, meldet es «ermutigende Fortschritte»."
+    },
+    {
+      "id": "2026-11-13-1806-12",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mahnung vom Steueramt wegen ausgebliebener Antwort, Absender noreply",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Mahnung vom Steueramt, weil die Antwort ausgeblieben ist, Absender noreply. E-Government, wie versprochen."
     }
   ]
 }
