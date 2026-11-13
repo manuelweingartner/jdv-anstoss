@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-13-1753-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Microsoft-Ausfall ohne Cyberangriff, die Verwaltung wurde vom eigenen Lieferanten lahmgelegt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Outlook und Teams fallen stundenlang aus, ein Cyberangriff war es laut Microsoft nicht. Beruhigend, lahmgelegt hat die Verwaltung also ihr eigener Lieferant. Mit gültigem Rahmenvertrag."
+    },
+    {
+      "id": "2026-11-13-1753-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Chinesische Roboter am Web Summit, gleiche Woche Initiative für acht Wochen Lehrlingsferien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Am Web Summit in Lissabon halten chinesische Roboter Vorträge, gleiche Woche fordern Schweizer Lernende acht Wochen Ferien. Die Arbeitgeber wissen jetzt, wen sie künftig ausbilden."
+    },
+    {
+      "id": "2026-11-13-1753-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neues Kriegsmaterialgesetz wegen des Ukraine-Kriegs, die Ukraine bekommt nichts davon",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Wegen des russischen Angriffs auf die Ukraine bekommt die Schweiz ein neues Kriegsmaterialgesetz. Hier alle Lieferungen, die die Ukraine davon bekommt:\n-\n-\nImmerhin war sie der Anlass."
+    },
     {
       "id": "2026-11-13-1753-11",
       "typ": "schnittmenge",
