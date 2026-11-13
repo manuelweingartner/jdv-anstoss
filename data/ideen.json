@@ -1,8 +1,23 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
+    {
+      "id": "2026-11-13-1806-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mercedes erwägt Werksschliessungen, am selben Tag stehlen Diebe in Köln eine Arp-Bronze statt einer gleich teuren S-Klasse",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Mercedes erwägt Werksschliessungen, die Autos will keiner mehr. Am selben Tag stehlen Diebe in Köln eine Arp-Bronze für 135'000 Euro statt einer gleich teuren S-Klasse.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
     {
       "id": "2026-11-13-1806-02",
       "typ": "politisch-aktuell",
@@ -121,21 +136,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-11-13-1806-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Tempo 30 auf Kantonsstrassen, die Angst der Gegner*innen ernst genommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Habe Angst vor Tempo 30. Am Schluss überleben die Kinder noch.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
       }
     },
     {
