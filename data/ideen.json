@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "7 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Angst vor Impfstoff im Trinkwasser? In Baden ist es nur Benzin, laut Behörden unbedenklich."
+    },
+    {
+      "id": "2026-11-13-1800-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Basel wird Europas Weihnachtshauptstadt, die Krippenszene liefert der Schweizer Wohnungsmarkt gleich mit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Basel wird Europas nächste Weihnachtshauptstadt. Die Krippenszene stellt der Schweizer Wohnungsmarkt: junges Paar sucht Unterkunft, überall voll, zum Schluss ein Stall. Befristet. Möbliert."
+    },
+    {
+      "id": "2026-11-13-1800-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Betrunkener Unteroffizier wird entlassen, am selben Tag droht Trump stocknüchtern Kuba mit dem Militär und bleibt Oberbefehlshaber",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Weil er betrunken Auto fuhr, wird ein Unteroffizier entlassen. Am selben Tag droht Trump stocknüchtern, Kuba militärisch zu erledigen, und bleibt Oberbefehlshaber."
     },
     {
       "id": "2026-11-13-1800-31",
