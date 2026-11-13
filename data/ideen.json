@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -54,6 +54,36 @@
       "text": "Mahnung vom Steueramt, weil die Antwort ausgeblieben ist, Absender noreply. E-Government, wie versprochen."
     },
     {
+      "id": "2026-11-13-1806-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Studie: kalt duschen ist gesünder, Hausverwaltungen forschen seit Jahren daran",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Neue Studie: Kalt duschen ist gesünder. Hausverwaltungen forschen seit Jahren daran, bevorzugt im Januar."
+    },
+    {
+      "id": "2026-11-13-1806-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump will Kuba vor dem Abtreten erledigen, Bucket List mit Ländern drauf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump will Kuba noch «erledigen», bevor er abtritt, notfalls militärisch. Seh ich das richtig, der Mann hat eine Bucket List, und darauf stehen Länder?"
+    },
+    {
+      "id": "2026-11-13-1806-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Beizer kippt Handyverbot nach Gästeprotest, am selben Tag Drohnen auf Spital in Kyjiw, Europa scrollt weiter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gäste protestieren so lange, bis ein Beizer sein Handyverbot wieder aufhebt. Am selben Tag treffen russische Drohnen ein Spital in Kyjiw, und Europa scrollt weiter."
+    },
+    {
       "id": "2026-11-13-1806-27",
       "typ": "politisch-aktuell",
       "stichwort": "Leere Liste der Zeitgewinne seit der Erfindung von Excel, die als kürzere Arbeitswoche bei den Angestellten angekommen sind",
@@ -72,26 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": 1,
       "text": "Im Homeoffice wird überwacht, ob sich die Maus bewegt, falls jemand kurz die Waschmaschine ausräumt. Dividenden arbeiten seit jeher von zu Hause, im Schlaf, ohne Maus."
-    },
-    {
-      "id": "2026-11-13-1806-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "«Zeit ist Geld» auf der Tasse im Pausenraum wörtlich genommen: beides gehört denselben Leuten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "«Zeit ist Geld», steht auf der Tasse im Pausenraum. Darum gehört beides denselben Leuten."
-    },
-    {
-      "id": "2026-11-13-1806-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Enteignung gilt als radikal, bei Vermieter*innen heisst sie Mietzinserhöhung und kommt jedes Jahr eingeschrieben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Enteignung sei radikal, sagen Bürgerliche. Bei Vermieter*innen heisst sie Mietzinserhöhung, kommt eingeschrieben und jedes Jahr pünktlich."
     }
   ]
 }
