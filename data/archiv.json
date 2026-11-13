@@ -23381,6 +23381,134 @@
         "neu": false
       },
       "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1753-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neues Kriegsmaterialgesetz wegen des Ukraine-Kriegs, die Ukraine bekommt nichts davon",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Wegen des russischen Angriffs auf die Ukraine bekommt die Schweiz ein neues Kriegsmaterialgesetz. Hier alle Lieferungen, die die Ukraine davon bekommt:\n-\n-\nImmerhin war sie der Anlass.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1753-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Topmanager räumen wegen Affären ihre Posten, nie wegen Massenentlassungen, ratlose Frage nach dem Unterschied",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, Topmanager fliegen wegen einer Affäre, aber nie wegen einer Massenentlassung? Dabei war wenigstens die Affäre einvernehmlich.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      },
+      "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1753-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Briefkastenfirmen in Zug, in denen jemand arbeitet, einziger Eintrag ist der Briefträger",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Briefkastenfirmen in Zug, in denen tatsächlich jemand arbeitet:\n-\n-\nDer Briefträger, einmal am Tag.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1753-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Banken führen Rüstungsaktien als nachhaltige Anlage, gespielte Zustimmung über den CO2-Fussabdruck der Toten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Viele Banken führen Rüstungsaktien inzwischen als nachhaltige Anlage. Logisch, wer tot ist, hinterlässt keinen CO2-Fussabdruck mehr.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1753-11",
+      "typ": "schnittmenge",
+      "stichwort": "Tempo 30 im Quartier ist Bevormundung, Tempo 30 auf der A1 nimmt man jeden Abend freiwillig hin",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Tempo 30 vor der Schule ist «ideologische Bevormundung». Tempo 30 auf der A1 ist Feierabend, jeden Tag, freiwillig, mit Radio.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1753-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Volksinitiative für 5000 Franken Mindestlohn nach der Lehre, gemessen am Stundenlohn von UBS-Chef Ermotti",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Lehrabgänger*innen sollen künftig mindestens 5000 Franken im Monat verdienen, fordern die Gewerkschaften. UBS-Chef Ermotti verdient das in drei Stunden, auch nachts.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1753-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohnraum dem freien Markt überlassen wie Rettungsringe versteigern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wohnraum dem freien Markt zu überlassen ist, wie Rettungsringe zu versteigern. Sehr effizient übrigens, Ertrinkende bieten erstaunlich hoch.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1753-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Self-Checkout ruft bei jedem Fehler das Personal, das die Kasse eingespart hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Self-Checkout bei Coop: «Unerwarteter Artikel im Ablagebereich. Bitte warten Sie auf das eingesparte Personal.»",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-11-13"
     }
   ]
 }
