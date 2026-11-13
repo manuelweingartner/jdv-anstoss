@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Israel verweigert Mélenchon wegen «äusserst feindlicher Haltung» die Einreise. Am selben Tag trifft ein israelischer Luftangriff das Nasser-Spital in Gaza, offenbar noch feindlicher eingestellt, samt Arzt."
+    },
+    {
+      "id": "2026-11-13-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rhein seit dem Hitzesommer für Frachtschiffe unterbrochen, gespielte Zustimmung zu «Klimakleber*innen legen den Güterverkehr lahm»",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, Klimakleber*innen legen den Güterverkehr lahm. Auf dem Rhein fährt seit dem Hitzesommer kein Frachtschiff mehr, und weit und breit klebt niemand, den man verhaften könnte."
+    },
+    {
+      "id": "2026-11-13-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mitte-Initiative will die Heiratsstrafe erneut abschaffen, gespielte Geduld mit der Armutsstrafe",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Klar, zuerst die Heiratsstrafe abschaffen, wie die Mitte will. Die Armutsstrafe läuft ja nicht davon."
+    },
+    {
+      "id": "2026-11-13-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nach der Nvidia-Affäre Angst vor chinesischer Spionage in der Schweiz, die Daten gehören doch schon Cumulus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe Angst vor chinesischer Spionage. Meine Daten gehören Cumulus, Google und Swisscom, sonst niemandem."
     }
   ]
 }
