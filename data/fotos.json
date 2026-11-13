@@ -1,58 +1,63 @@
 {
-  "stand": "2026-11-13T08:01:36+01:00",
-  "lauf": "0801",
+  "stand": "2026-11-13T17:00:36+01:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0801-1",
-      "titel": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
-      "was": "Jensen Huang in Lederjacke auf der Bühne, Chip in der Hand",
-      "richtung": "Mechanik: dieselbe Handlung umetikettieren, also die gewohnte Keynote-Pose neu lesen. Achse: das gefeierte Gesicht der KI-Zukunft gegen den Mann, der am Ende das Sicherheitsrisiko der eigenen Firma wa",
+      "id": "1700-1",
+      "titel": "Störung bei Outlook und Teams – Das ist über den weltweiten Microsoft-Ausfall bekannt",
+      "was": "Ratlose Büroangestellte vor Bildschirmen mit Outlook- oder Teams-Fehlermeldung",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: weltweiter Produktivitätsverlust gegen den ersten ruhigen Bürotag ohne Teams-Sitzungen.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Tagesschau",
-      "auch_bei": [
-        "NZZ",
-        "SRF",
-        "Spiegel"
-      ],
-      "artikel": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rolle-100.html",
-      "bild": "https://images.tagesschau.de/image/62a459a4-de47-412c-bc99-10728c9a25e5/AAABodAPyYk/AAABnSSvrFg/16x9-big/huang-120.jpg?width=1280",
-      "zeit": "2026-11-12T17:17+01:00"
-    },
-    {
-      "id": "0801-2",
-      "titel": "Microsoft bekommt weltweite Störung von Onlinediensten nicht in den Griff",
-      "was": "Fehlermeldung von Outlook oder Teams auf einem Laptop im Büro",
-      "richtung": "Mechanik: die Grösse eines Weltkonzerns an etwas Banalem messen. Achse: der Konzern, der uns die KI-Zukunft verkauft, gegen einen Konzern, der seit Donnerstag keine E-Mail zustellt.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
+      "raum": "",
+      "quelle": "SRF",
       "auch_bei": [
         "20 Minuten",
-        "Tagesschau"
+        "Spiegel",
+        "Tagesschau",
+        "taz"
       ],
-      "artikel": "https://www.spiegel.de/netzwelt/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff-a-589712d4-e5b1-4fe0-a291-df65e1e54ffa#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/2fdcd8b2-d15f-4ae6-b38d-ac54bfd04346_w520_r2.08_fpx29.99_fpy44.99.jpg",
-      "zeit": "2026-11-13T07:38+01:00"
+      "artikel": "https://www.srf.ch/news/wirtschaft/stoerung-bei-outlook-und-teams-das-ist-ueber-den-weltweiten-microsoft-ausfall-bekannt",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/041048.jpg",
+      "zeit": "2026-11-13T11:22+01:00"
     },
     {
-      "id": "0801-3",
-      "titel": "Parmelin gerät in Dublin unverhofft ins Rampenlicht: Die Schweiz bereitet sich in Irland auf ihren eigenen Monsteranlass vor",
-      "was": "Parmelin beim Gruppenfoto oder Händeschütteln am Gipfel in Dublin",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: das neutrale Nicht-Mitglied, das sich sonst aus Europa heraushält, gegen den eifrigen Gastgeber, der im Akkord Gespräche führt und den nächsten ",
+      "id": "1700-2",
+      "titel": "LIVE-TICKER - Krieg in der Ukraine: Merz appelliert an Trump +++ Putin laut Kushner bereit für Europäer am Verhandlungstisch",
+      "was": "Merz am Gipfeltisch in Dublin, gestikulierend zwischen anderen Regierungschefs",
+      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist, also «gesetzt» als reservierter Stuhl. Achse: der Anspruch auf einen Platz am Tisch gegen die offene Frage, wer ihn eingeladen hat.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "Spiegel",
+        "Tagesschau"
+      ],
+      "artikel": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
+      "bild": "https://img-msp-prod.nzz.ch/2026/11/02/bafe975f-fb77-45b1-98e2-529fcbd1439b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2412,2412,x603,y0",
+      "zeit": "2026-11-13T14:42+01:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Die Weihnachtshauptstadt von Europa liegt in der Schweiz",
+      "was": "Weihnachtlich geschmücktes Basler Tram vor Glühweinständen und Lichterketten",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: europäische Hauptstadt werden, ohne in der EU zu sein, und das ausgerechnet über Glühwein.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "NZZ",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/schweiz/parmelin-geraet-in-dublin-unverhofft-ins-rampenlicht-die-schweiz-bereitet-sich-in-irland-auf-ihren-eigenen-monsteranlass-vor-ld.10061105",
-      "bild": "https://img-msp-prod.nzz.ch/2026/11/12/bde10fe6-ab46-4649-bcb4-7c78db842814.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2174,2174,x2582,y1476",
-      "zeit": "2026-11-13T05:30+01:00"
+      "artikel": "https://www.20min.ch/story/weihnachtshauptstadt-basel-maerkte-ueberzeugen-die-jury-103666649",
+      "bild": "https://image.20min.ch/2026/11/13/ec0d42e7-7aa9-4ea8-afe7-ece3597fe088.jpg?s=083c2238b2ee7ff169ff82c4c2aacde9",
+      "zeit": "2026-11-13T10:58+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute tagsüber",
-      "was": "Abschlussbilder und Familienfoto vom Gipfel der Europäischen Politischen Gemeinschaft in Dublin, falls er heute noch läu"
+      "wann": "heute Abend",
+      "was": "Gruppenfoto und Handschläge der Regierungschefs am informellen EU-Gipfel in Dublin"
+    },
+    {
+      "wann": "heute",
+      "was": "Gavin Newsom am Rednerpult der Uno-Klimakonferenz in Antalya"
     }
   ],
   "hinweis": ""
