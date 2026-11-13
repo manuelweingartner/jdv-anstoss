@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Wegen des russischen Angriffs auf die Ukraine bekommt die Schweiz ein neues Kriegsmaterialgesetz. Hier alle Lieferungen, die die Ukraine davon bekommt:\n-\n-\nImmerhin war sie der Anlass."
+    },
+    {
+      "id": "2026-11-13-1753-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Arbeitsrechtler klären nach dem Microsoft-Ausfall, ob Angestellte die verlorene Zeit nachholen müssen, gespielte Zustimmung zur Gerechtigkeit bei Überstunden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Microsoft-Ausfall: Muss man die verlorene Zeit nachholen? Klar, so wie Firmen jede Überstunde nachzahlen."
+    },
+    {
+      "id": "2026-11-13-1753-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Topmanager räumen wegen Affären ihre Posten, nie wegen Massenentlassungen, ratlose Frage nach dem Unterschied",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, Topmanager fliegen wegen einer Affäre, aber nie wegen einer Massenentlassung? Dabei war wenigstens die Affäre einvernehmlich."
+    },
+    {
+      "id": "2026-11-13-1753-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kushner will die Europäer in die Ukraine-Gespräche einbinden, gespielte Sorge, dass am Ende die Ukraine gefragt wird",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Kushner holt die Europäer an den Tisch der Ukraine-Gespräche. Mutig, am Ende fragt noch jemand die Ukraine."
     },
     {
       "id": "2026-11-13-1753-11",
