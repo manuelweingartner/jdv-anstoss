@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -64,24 +64,44 @@
       "text": "Kushner holt die Europäer an den Tisch der Ukraine-Gespräche. Mutig, am Ende fragt noch jemand die Ukraine."
     },
     {
-      "id": "2026-11-13-1753-11",
-      "typ": "schnittmenge",
-      "stichwort": "Tempo 30 im Quartier ist Bevormundung, Tempo 30 auf der A1 nimmt man jeden Abend freiwillig hin",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Tempo 30 vor der Schule ist «ideologische Bevormundung». Tempo 30 auf der A1 ist Feierabend, jeden Tag, freiwillig, mit Radio."
-    },
-    {
-      "id": "2026-11-13-1753-12",
+      "id": "2026-11-13-1753-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Self-Checkout: die Kundschaft scannt, packt ein, wird kontrolliert und bekommt keinen Lohnausweis",
+      "stichwort": "Pflegende wollen mehr Lohn, Konzerne drohen mit Wegzug: die Schweiz bedient beide unterschiedlich, beim Konzern wie an der Bäckereitheke",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Seit wann ist es eigentlich normal, dass man an der Self-Checkout-Kasse selbst scannt, selbst einpackt, sich kontrollieren lässt und keinen Lohnausweis bekommt? Frage für Coop."
+      "text": "Pflegende wollen mehr Lohn, Schweiz so: puh, schwierig, das Budget. Konzerne drohen mit Wegzug, Schweiz so: Kaffee, Gipfeli, welcher Steuersatz darf's denn sein?"
+    },
+    {
+      "id": "2026-11-13-1753-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Briefkastenfirmen in Zug, in denen jemand arbeitet, einziger Eintrag ist der Briefträger",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Briefkastenfirmen in Zug, in denen tatsächlich jemand arbeitet:\n-\n-\nDer Briefträger, einmal am Tag."
+    },
+    {
+      "id": "2026-11-13-1753-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohnungen dem freien Markt überlassen heisst Rettungsringe versteigern, Mindestgebot nach Wasserstand",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer Wohnungen dem freien Markt überlässt, versteigert auch Rettungsringe. Das Mindestgebot steigt mit dem Wasserstand."
+    },
+    {
+      "id": "2026-11-13-1753-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Banken führen Rüstungsaktien als nachhaltige Anlage, gespielte Zustimmung über den CO2-Fussabdruck der Toten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Viele Banken führen Rüstungsaktien inzwischen als nachhaltige Anlage. Logisch, wer tot ist, hinterlässt keinen CO2-Fussabdruck mehr."
     }
   ]
 }
