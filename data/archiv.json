@@ -23509,6 +23509,134 @@
         "neu": true
       },
       "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1800-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Greenpeace stellt an der COP31 in Antalya ein Trojanisches Pferd voller Plastikmüll auf, zu spät, die Ölkonzerne sitzen längst drin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Greenpeace stellt an der Klimakonferenz ein Trojanisches Pferd voller Plastikmüll auf. Zu spät, die Ölkonzerne sitzen längst drin, mit Delegiertenausweis.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1800-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Elon Musk will Texas kaufen, gespielte Zustimmung zur Angst, im Sozialismus gehöre am Ende alles dem Staat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Sozialismus ist gefährlich, am Ende gehört alles dem Staat. Zum Glück will Elon Musk Texas kaufen, dann gehört der Staat wenigstens jemandem.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1800-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Benzin im Badener Trinkwasser laut Behörden kein Problem, die Angst vor Impfstoff im Wasser ernst genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Angst vor Impfstoff im Trinkwasser? In Baden ist es nur Benzin, laut Behörden unbedenklich.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1800-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf die Ming-Vase, die besser versichert ist als die Putzfrau, die sie schwarz abstaubt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so gut versichert sein wie die Ming-Vase, die die Putzfrau schwarz abstaubt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1800-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pikettzulage für den Kadermann gegen die unbezahlte Nacht der Betreuerin am Babyphone einer fremden Grossmutter",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie viel Pikettzulage bekäme eigentlich ein Kadermann, der nachts neben dem Babyphone einer fremden Grossmutter schläft? Frage für die Agenturen, die Betreuerinnen aus Polen vermitteln.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1800-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bürgerliche wollen Sans-Papiers raus, am Mittwochmorgen liegt das Bargeld für Marija auf der Kommode",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Bürgerliche so: Grenzen dicht, Sans-Papiers raus, Recht muss Recht bleiben. Am Mittwochmorgen dann: Marija, die Hemden bitte nicht so heiss, Geld liegt bar auf der Kommode.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1800-12",
+      "typ": "politisch-aktuell",
+      "stichwort": "Waschküchenplan im Mehrfamilienhaus als einzige Planwirtschaft, die niemand abschaffen will",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Der Waschküchenplan ist die einzige Planwirtschaft, die in der Schweiz niemand abschaffen will. Zentralkomitee: Frau Huber, Parterre.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-1800-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Basel wird Europas Weihnachtshauptstadt, die Krippenszene liefert der Schweizer Wohnungsmarkt gleich mit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Basel wird Europas nächste Weihnachtshauptstadt. Die Krippenszene stellt der Schweizer Wohnungsmarkt: junges Paar sucht Unterkunft, überall voll, zum Schluss ein Stall. Befristet. Möbliert.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-11-13"
     }
   ]
 }
