@@ -1,157 +1,27 @@
 {
-  "datum": "2026-11-12",
-  "hinweis": "",
-  "fertig": true,
+  "datum": "2026-11-13",
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-12-1926-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Finanzkommission lehnt das Bundesbudget ab, am selben Tag schaltet SRF zurück auf UKW: Kurbelradio im Luftschutzkeller neben den Hero-Ravioli",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "id": "2026-11-13-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Microsoft-365-Ausfall gilt als Angriff auf die kritische Infrastruktur, gleiche Woche liefern Just-Eat-Kurier*innen ohne Mindestlohn den Krisenstäben das Mittagessen",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Die Finanzkommission versenkt das Bundesbudget, es droht ein Notbudget. Gleichentags schaltet SRF zurück auf UKW, fürs Kurbelradio im Luftschutzkeller, gleich neben den Hero-Ravioli.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": false
-      }
+      "text": "Gleiche Woche: Ein Tag ohne Outlook gilt als Angriff auf die kritische Infrastruktur. Just-Eat-Kurier*innen, neu ohne Mindestlohn, bringen den Krisenstäben das Mittagessen."
     },
     {
-      "id": "2026-11-12-1926-02",
+      "id": "2026-11-13-0757-12",
       "typ": "politisch-aktuell",
-      "stichwort": "Investoren wollen den 80-jährigen Lindt-Patron loswerden, Rentenalter 70 geht also doch, mit Chauffeur",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Investoren wollen den 80-jährigen Lindt-Patron loswerden. Rentenalter 70 geht also doch. Mit Chauffeur.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-12-1926-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Nvidia wird neu von Colette Kress geführt, Gleichstellung ist also ganz einfach: Affäre des Chefs mit einer mutmasslichen Spionin",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Nvidia wird neu von einer Frau geführt, Colette Kress. Gleichstellung ist also ganz einfach: der Chef muss bloss eine Affäre mit einer mutmasslichen chinesischen Spionin haben.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-11-12-1926-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizer Kokainbande mit 750 Kilo aufgeflogen. Die Angst vor kriminellen Ausländern ernst genommen: endlich greift der Inländervorrang",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Polizei hebt Schweizer Kokainbande mit 750 Kilo aus. Immerhin ein Inländervorrang, der funktioniert.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-12-1926-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "CEO-Löhne legt ein Ausschuss aus anderen CEOs fest, Kinder teilen sich gegenseitig das Dessert zu",
-      "plattform": "Threads + Bluesky",
+      "stichwort": "Self-Checkout bei Coop als einziger Job, für den man selbst bezahlt, samt Stichprobenkontrolle",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Über den Lohn eines CEO entscheidet ein Ausschuss aus anderen CEOs. Wie Kinder, die sich gegenseitig das Dessert zuteilen. Grosszügig. Am eigenen Tisch.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-11-12-1926-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bonus nach Massenentlassung ist kein Leistungsanreiz, sondern ein Kopfgeld",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 14,
-      "text": "Bonus nach Massenentlassung ist kein Leistungsanreiz. Sondern ein Kopfgeld. Steuerlich abzugsfähig.",
-      "jury": {
-        "anker": false,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-12-1926-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "Fitnessabo als umgekehrte Einbürgerung: mit einem Klick drin, rauskommen dauert Jahre",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Das Fitnessabo ist eine Einbürgerung rückwärts. Rein mit einem Klick, raus nach zehn Jahren.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-12-1926-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zukunftstag: Mädchen auf der Baustelle, Buben in der Ergotherapie, gespielte Sorge um die Buben, die zum ersten Mal einen Frauenlohn sehen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Zukunftstag: Mädchen auf der Baustelle, Buben in der Ergotherapie. Arme Buben, die sehen heute zum ersten Mal einen Frauenlohn.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-12-1926-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Russischer Drohnenangriff auf einen Wohnblock in Kyjiw, gespielte Zustimmung zu «Putin will doch verhandeln»",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, Putin will verhandeln. Heute früh mit einem Wohnblock in Kyjiw.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-12-1926-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Arbeitsfrieden als Nationalstolz: die eine Seite verzichtet aufs Streiken, die andere auf nichts",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Die Schweiz ist stolz auf ihren Arbeitsfrieden. Eine Seite verzichtet aufs Streiken, die andere auf gar nichts. Seit 1937. Feierlich unterschrieben.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Self-Checkout bei Coop: der einzige Job, für den man selbst bezahlt. Mit Stichprobenkontrolle."
     }
   ]
 }
