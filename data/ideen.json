@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Self-Checkout bei Coop: der einzige Job, für den man selbst bezahlt. Mit Stichprobenkontrolle."
+    },
+    {
+      "id": "2026-11-13-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Niklas Süle erzählt als Fussballmillionär von drei Bier und McDonald's, bei Sozialhilfebeziehenden wäre dieselbe Geschichte ein Akteneintrag",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Niklas Süle erzählt, er sei als Fussballmillionär nach drei Bier oft noch zu McDonald's. Bei Sozialhilfebeziehenden heisst dieselbe Geschichte Akteneintrag, mit Kassenzettel."
+    },
+    {
+      "id": "2026-11-13-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "SVP-Bundesratskür prüft Kandidierende auf Parteitreue, die Verfassung als Zweitmeinung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "SVP-Bundesratskandidierende werden auf Parteitreue geprüft. Die Verfassung gilt als Zweitmeinung."
+    },
+    {
+      "id": "2026-11-13-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Israel verweigert Mélenchon wegen feindlicher Haltung die Einreise, am selben Tag trifft ein Luftangriff das Nasser-Spital in Gaza",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Israel verweigert Mélenchon wegen «äusserst feindlicher Haltung» die Einreise. Am selben Tag trifft ein israelischer Luftangriff das Nasser-Spital in Gaza, offenbar noch feindlicher eingestellt, samt Arzt."
     }
   ]
 }
