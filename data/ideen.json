@@ -4,14 +4,79 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-11-13-0757-07",
+      "id": "2026-11-13-0757-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste aller Produktivitätsgewinne seit der E-Mail, die als freier Nachmittag bei den Angestellten angekommen sind",
+      "stichwort": "Trickdiebstahl am Bahnhof Rorschach, der Satz des Opfers passt auf jede Vorsorgeberatung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Hier alle Produktivitätsgewinne seit der Erfindung der E-Mail, die bei den Angestellten als freier Nachmittag angekommen sind: - - That's it."
+      "text": "«Wollte nur plaudern, plötzlich war mein Portemonnaie weg», sagt Murat nach einem Trickdiebstahl in Rorschach. Und alle anderen nach der kostenlosen Vorsorgeberatung der UBS.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-13-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "SVP-Bundesratskür, Kandidierende auf Parteitreue und Führungserfahrung geprüft, durchgefallen ist das Kriterium",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "SVP-Bundesratskür: geprüft wird auf Parteitreue, Kernthemen-Konformität und Führungserfahrung. Durchgefallen ist bisher nur die Führungserfahrung.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-13-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Nebenaspekt der Nvidia-Spionageaffäre: China spioniert auch in der Schweiz, gespielte Sorge um die Genfer Konten, über deren Inhaber die Schweiz selbst nichts wissen will",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor chinesischer Spionage in der Schweiz. Am Ende finden die noch heraus, wem die Konten in Genf gehören, das wissen ja nicht mal wir.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-13-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rhein seit dem Hitzesommer für den Gütertransport zu seicht, gespielte Zustimmung zur Klage über Klimakleber, die den Verkehr lahmlegen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Klimakleber legen den Güterverkehr lahm. Der Rhein schafft das seit Monaten, ohne Leim.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-13-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mitte-Initiative will die Heiratsstrafe erneut abschaffen, das Wort Strafe wörtlich genommen: gleichgeschlechtliche Paare haben jahrzehntelang dafür gekämpft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ausgerechnet jetzt will die Mitte die Heiratsstrafe abschaffen. Gleichgeschlechtliche Paare haben jahrzehntelang darum gekämpft, endlich auch bestraft zu werden, standesamtlich, mit Trauzeugen.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-13-0757-08",
@@ -21,17 +86,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 19,
-      "text": "Unbezahlte Arbeit ist in der Schweiz 434 Milliarden Franken wert, mehr als der ganze Finanzplatz. Gerettet wird trotzdem nur der Finanzplatz, zuverlässig, übers Wochenende."
-    },
-    {
-      "id": "2026-11-13-0757-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Weniger Arbeitszeit ist unbezahlbar, Dividenden fliessen ohne Anwesenheit, Frage an Economiesuisse",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Warum ist weniger Arbeitszeit unbezahlbar, wenn Dividenden ohne jede Anwesenheit fliessen? Frage an Economiesuisse."
+      "text": "Unbezahlte Arbeit ist in der Schweiz 434 Milliarden Franken wert, mehr als der ganze Finanzplatz. Gerettet wird trotzdem nur der Finanzplatz, zuverlässig, übers Wochenende.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-13-0757-10",
@@ -41,37 +101,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Vollzeitlohn reicht nicht zum Leben. Bürgerliche so: Skandal! Sozialhilfe sofort runter, damit der Abstand wieder stimmt."
-    },
-    {
-      "id": "2026-11-13-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "Microsoft-365-Ausfall gilt als Angriff auf die kritische Infrastruktur, gleiche Woche liefern Just-Eat-Kurier*innen ohne Mindestlohn den Krisenstäben das Mittagessen",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Gleiche Woche: Ein Tag ohne Outlook gilt als Angriff auf die kritische Infrastruktur. Just-Eat-Kurier*innen, neu ohne Mindestlohn, bringen den Krisenstäben das Mittagessen."
-    },
-    {
-      "id": "2026-11-13-0757-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "Self-Checkout bei Coop als einziger Job, für den man selbst bezahlt, samt Stichprobenkontrolle",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Self-Checkout bei Coop: der einzige Job, für den man selbst bezahlt. Mit Stichprobenkontrolle."
-    },
-    {
-      "id": "2026-11-13-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Niklas Süle erzählt als Fussballmillionär von drei Bier und McDonald's, bei Sozialhilfebeziehenden wäre dieselbe Geschichte ein Akteneintrag",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Niklas Süle erzählt, er sei als Fussballmillionär nach drei Bier oft noch zu McDonald's. Bei Sozialhilfebeziehenden heisst dieselbe Geschichte Akteneintrag, mit Kassenzettel."
+      "text": "Vollzeitlohn reicht nicht zum Leben. Bürgerliche so: Skandal! Sozialhilfe sofort runter, damit der Abstand wieder stimmt.",
+      "jury": {
+        "anker": false,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-13-0757-22",
@@ -81,7 +116,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "SVP-Bundesratskandidierende werden auf Parteitreue geprüft. Die Verfassung gilt als Zweitmeinung."
+      "text": "SVP-Bundesratskandidierende werden auf Parteitreue geprüft. Die Verfassung gilt als Zweitmeinung.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-13-0757-23",
@@ -91,17 +131,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Israel verweigert Mélenchon wegen «äusserst feindlicher Haltung» die Einreise. Am selben Tag trifft ein israelischer Luftangriff das Nasser-Spital in Gaza, offenbar noch feindlicher eingestellt, samt Arzt."
+      "text": "Israel verweigert Mélenchon wegen «äusserst feindlicher Haltung» die Einreise. Am selben Tag trifft ein israelischer Luftangriff das Nasser-Spital in Gaza, offenbar noch feindlicher eingestellt, samt Arzt.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-11-13-0757-24",
+      "id": "2026-11-13-0757-30",
       "typ": "politisch-aktuell",
-      "stichwort": "Rhein seit dem Hitzesommer für Frachtschiffe unterbrochen, gespielte Zustimmung zu «Klimakleber*innen legen den Güterverkehr lahm»",
+      "stichwort": "Angst vor dem Waffenstillstand aus Sicht des Rüstungsaktionärs",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Stimmt, Klimakleber*innen legen den Güterverkehr lahm. Auf dem Rhein fährt seit dem Hitzesommer kein Frachtschiff mehr, und weit und breit klebt niemand, den man verhaften könnte."
+      "format": 13,
+      "text": "Habe ein bisschen Angst vor einem Waffenstillstand. Die Rheinmetall-Aktie hat sich gerade erst so schön erholt, und Weihnachten steht vor der Tür.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     }
   ]
 }
