@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,46 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Mahnung vom Steueramt, weil die Antwort ausgeblieben ist, Absender noreply. E-Government, wie versprochen."
+    },
+    {
+      "id": "2026-11-13-1806-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Zeitgewinne seit der Erfindung von Excel, die als kürzere Arbeitswoche bei den Angestellten angekommen sind",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Zeitgewinne seit der Erfindung von Excel, die bei den Angestellten als kürzere Arbeitswoche angekommen sind:\n-\n-\nEnde der Durchsage."
+    },
+    {
+      "id": "2026-11-13-1806-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Im Homeoffice wird die Mausbewegung überwacht, Dividenden arbeiten seit jeher von zu Hause, im Schlaf, ohne Maus",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Im Homeoffice wird überwacht, ob sich die Maus bewegt, falls jemand kurz die Waschmaschine ausräumt. Dividenden arbeiten seit jeher von zu Hause, im Schlaf, ohne Maus."
+    },
+    {
+      "id": "2026-11-13-1806-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "«Zeit ist Geld» auf der Tasse im Pausenraum wörtlich genommen: beides gehört denselben Leuten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "«Zeit ist Geld», steht auf der Tasse im Pausenraum. Darum gehört beides denselben Leuten."
+    },
+    {
+      "id": "2026-11-13-1806-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Enteignung gilt als radikal, bei Vermieter*innen heisst sie Mietzinserhöhung und kommt jedes Jahr eingeschrieben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Enteignung sei radikal, sagen Bürgerliche. Bei Vermieter*innen heisst sie Mietzinserhöhung, kommt eingeschrieben und jedes Jahr pünktlich."
     }
   ]
 }
