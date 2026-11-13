@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-13",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -31,21 +31,6 @@
         "witz": true,
         "anker": false,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-11-13-1753-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pflegende wollen mehr Lohn, Konzerne drohen mit Wegzug: die Schweiz bedient beide unterschiedlich, beim Konzern wie an der Bäckereitheke",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Pflegende wollen mehr Lohn, Schweiz so: puh, schwierig, das Budget. Konzerne drohen mit Wegzug, Schweiz so: Kaffee, Gipfeli, welcher Steuersatz darf's denn sein?",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
       }
     },
     {
@@ -105,21 +90,6 @@
       "jury": {
         "witz": true,
         "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-13-1753-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Microsoft-Ausfall legt alles lahm, gespielte Angst vor Streiks: derselbe Stillstand, nur mit Lohnerhöhung danach",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe Angst vor Streiks. Ist wie der Microsoft-Ausfall, nur gibt es danach mehr Lohn.",
-      "jury": {
-        "anker": true,
-        "witz": true,
         "neu": false
       }
     },
