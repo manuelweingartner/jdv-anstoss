@@ -4,6 +4,21 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-11-13-1800-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Greenpeace stellt an der COP31 in Antalya ein Trojanisches Pferd voller Plastikmüll auf, zu spät, die Ölkonzerne sitzen längst drin",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Greenpeace stellt an der Klimakonferenz ein Trojanisches Pferd voller Plastikmüll auf. Zu spät, die Ölkonzerne sitzen längst drin, mit Delegiertenausweis.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-11-13-1800-04",
       "typ": "politisch-aktuell",
       "stichwort": "Elon Musk will Texas kaufen, gespielte Zustimmung zur Angst, im Sozialismus gehöre am Ende alles dem Staat",
@@ -11,7 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, Sozialismus ist gefährlich, am Ende gehört alles dem Staat. Zum Glück will Elon Musk Texas kaufen, dann gehört der Staat wenigstens jemandem."
+      "text": "Stimmt, Sozialismus ist gefährlich, am Ende gehört alles dem Staat. Zum Glück will Elon Musk Texas kaufen, dann gehört der Staat wenigstens jemandem.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-13-1800-05",
@@ -21,7 +41,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Seh ich das richtig: Richter aus Brüssel wären fremde Herrschaft, aber fällt Microsoft aus, kann die halbe Schweiz keine Mail mehr schicken? Souverän, aus Redmond."
+      "text": "Seh ich das richtig: Richter aus Brüssel wären fremde Herrschaft, aber fällt Microsoft aus, kann die halbe Schweiz keine Mail mehr schicken? Souverän, aus Redmond.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-13-1800-06",
@@ -31,7 +56,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Angst vor Impfstoff im Trinkwasser? In Baden ist es nur Benzin, laut Behörden unbedenklich."
+      "text": "Angst vor Impfstoff im Trinkwasser? In Baden ist es nur Benzin, laut Behörden unbedenklich.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-13-1800-07",
@@ -41,17 +71,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so gut versichert sein wie die Ming-Vase, die die Putzfrau schwarz abstaubt."
-    },
-    {
-      "id": "2026-11-13-1800-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Kaderväter, die wegen der Kinder je ein Meeting verschoben haben, geregelt hat es die Nanny",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Väter in Kaderpositionen, die wegen der Kinderbetreuung schon einmal ein Meeting verschoben haben:\n-\n-\nDas hat die Nanny geregelt."
+      "text": "Einmal so gut versichert sein wie die Ming-Vase, die die Putzfrau schwarz abstaubt.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-13-1800-09",
@@ -61,7 +86,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wie viel Pikettzulage bekäme eigentlich ein Kadermann, der nachts neben dem Babyphone einer fremden Grossmutter schläft? Frage für die Agenturen, die Betreuerinnen aus Polen vermitteln."
+      "text": "Wie viel Pikettzulage bekäme eigentlich ein Kadermann, der nachts neben dem Babyphone einer fremden Grossmutter schläft? Frage für die Agenturen, die Betreuerinnen aus Polen vermitteln.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-13-1800-10",
@@ -71,7 +101,27 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Bürgerliche so: Grenzen dicht, Sans-Papiers raus, Recht muss Recht bleiben. Am Mittwochmorgen dann: Marija, die Hemden bitte nicht so heiss, Geld liegt bar auf der Kommode."
+      "text": "Bürgerliche so: Grenzen dicht, Sans-Papiers raus, Recht muss Recht bleiben. Am Mittwochmorgen dann: Marija, die Hemden bitte nicht so heiss, Geld liegt bar auf der Kommode.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-13-1800-12",
+      "typ": "politisch-aktuell",
+      "stichwort": "Waschküchenplan im Mehrfamilienhaus als einzige Planwirtschaft, die niemand abschaffen will",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Der Waschküchenplan ist die einzige Planwirtschaft, die in der Schweiz niemand abschaffen will. Zentralkomitee: Frau Huber, Parterre.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-13-1800-21",
@@ -81,27 +131,27 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Basel wird Europas nächste Weihnachtshauptstadt. Die Krippenszene stellt der Schweizer Wohnungsmarkt: junges Paar sucht Unterkunft, überall voll, zum Schluss ein Stall. Befristet. Möbliert."
+      "text": "Basel wird Europas nächste Weihnachtshauptstadt. Die Krippenszene stellt der Schweizer Wohnungsmarkt: junges Paar sucht Unterkunft, überall voll, zum Schluss ein Stall. Befristet. Möbliert.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-13-1800-22",
+      "id": "2026-11-13-1800-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Betrunkener Unteroffizier wird entlassen, am selben Tag droht Trump stocknüchtern Kuba mit dem Militär und bleibt Oberbefehlshaber",
+      "stichwort": "Angst vor dem, was in Impfungen drin sein könnte, ernst genommen: lieber Badener Leitungswasser, da ist laut Behörden bloss Benzin drin",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Weil er betrunken Auto fuhr, wird ein Unteroffizier entlassen. Am selben Tag droht Trump stocknüchtern, Kuba militärisch zu erledigen, und bleibt Oberbefehlshaber."
-    },
-    {
-      "id": "2026-11-13-1800-31",
-      "typ": "schnittmenge",
-      "stichwort": "Schwarzfahren landet im Register, Steuerhinterziehung bekommt einmal im Leben die straflose Selbstanzeige",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer ohne Billett erwischt wird, landet im nationalen Schwarzfahrer-Register. Wer Millionen hinterzieht, darf sich einmal im Leben straflos selbst anzeigen."
+      "format": "frei",
+      "text": "Habe Angst vor Impfungen, man weiss nie, was drin ist. Darum trinke ich nur noch Leitungswasser aus Baden, da ist laut Behörden bloss Benzin drin. Bleifrei.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
