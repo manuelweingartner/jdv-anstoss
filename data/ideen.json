@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-14",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "evergreen",
       "format": 17,
       "text": "Drei für zwei heisst bei Coop Aktion, im Büro Reorganisation. Solange Vorrat."
+    },
+    {
+      "id": "2026-11-14-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste aller Vermieter*innen, die eine Zinssenkung von sich aus weitergegeben haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Vermieter*innen, die nach einer Zinssenkung von sich aus die Miete gesenkt haben:\n-\n-\nEnde der Liste."
+    },
+    {
+      "id": "2026-11-14-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lohn voll besteuert, Dividenden nur teilweise: Arbeit als anrüchige Einkommensquelle",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Lohn wird in der Schweiz voll besteuert, Dividenden aus grossen Beteiligungen höchstens zu siebzig Prozent. Arbeit gilt offenbar als die anrüchigere Einkommensquelle, gleich nach Schwarzgeld."
+    },
+    {
+      "id": "2026-11-14-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf das Oligarchenvermögen, das in Zug unkomplizierter ankommt als ein Mensch bei der Einbürgerung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so unkompliziert eingebürgert werden wie ein russisches Oligarchenvermögen im Kanton Zug."
     }
   ]
 }
