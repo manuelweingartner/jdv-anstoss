@@ -1,46 +1,46 @@
 {
-  "stand": "2026-11-13T08:02:04+01:00",
+  "stand": "2026-11-14T08:02:05+01:00",
   "vorschlaege": [
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Teams-Ausfall ist ein Produktivitätsgewinn"
+        "Abhängig von Microsoft",
+        "Strategische Cloud-Partnerschaft"
       ],
-      "warum": "dem Satz widerspricht niemand, der Microsoft 365 im Büro erlebt hat",
+      "warum": "Verwaltung und Firmen nennen ihre Abhängigkeit Partnerschaft, bis Outlook in 74 Ländern ausfällt",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Kuriere ohne Mindestlohn",
-        "Kuriere anständig bezahlen",
-        "Just Eat"
+        "Kuba erledigen",
+        "Amtszeit ordentlich beenden",
+        "Trump, letzte Monate"
       ],
-      "warum": "der Konzern reisst das Steuer bewusst weg vom Naheliegenden",
+      "warum": "kurz vor dem Ende biegt er noch zum grossen Abenteuer ab, statt einfach zu Ende zu regieren",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Sparkassen 19. Jahrhundert",
-        "Volk lernt sparen",
-        "CS-Präsident Rohner",
-        "gebüsst wegen Falschaussagen"
+        "Sparkasse 1850",
+        "Bevölkerung lernt sparen",
+        "Vvardis 2026",
+        "Anleger lernen verlieren"
       ],
-      "warum": "eine solide Gründerzeit des Schweizer Bankwesens steht neben einem jämmerlichen Finale",
+      "warum": "die gerühmte Schweizer Sparkultur trifft auf die harte Landung der Swiss-Smile-Schwestern an der Wall Street",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "Parteisoldat",
-        "Hohe Kernthemen-Konformität"
+        "Ein Schweizerkreuz ist kein Herkunftsnachweis"
       ],
-      "warum": "die Sprache der Politologen macht aus dem SVP-Gehorsam ein Qualitätsmerkmal",
+      "warum": "dass es dafür jetzt ein Gesetz braucht, belegt die These, also kann niemand widersprechen",
       "bild": "vorschlag-4.jpg"
     }
   ]
