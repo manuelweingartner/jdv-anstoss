@@ -1,60 +1,62 @@
 {
-  "stand": "2026-11-14T08:01:31+01:00",
-  "lauf": "0801",
+  "stand": "2026-11-14T17:00:32+01:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0801-1",
-      "titel": "Donald Trump trifft Wladimir Putin und Xi Jinping kommende Woche in China",
-      "was": "Trump, Xi und Putin bei Handschlag oder steifem Gruppenfoto",
-      "richtung": "Mechanik: Rollenrede aus Sicht der drei Abgebildeten. Achse: historischer Gipfel über Atomwaffen gegen drei Männer, die zu Hause gerade selbst aufrüsten.",
+      "id": "1700-1",
+      "titel": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+      "was": "Trump, Xi und Putin beim Handschlag zu dritt vor Flaggen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: historischer Weltfriedensgipfel gegen drei Männer, die gemeinsam aufteilen, was ihnen nicht gehört.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Spiegel",
+      "quelle": "Tagesschau",
       "auch_bei": [
+        "NZZ",
         "SRF",
-        "Tagesschau"
+        "taz"
       ],
-      "artikel": "https://www.spiegel.de/ausland/donald-trump-trifft-wladimir-putin-und-xi-jinping-kommende-woche-in-china-a-8c11f808-645a-48b5-b7a1-fb85768c7994#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/d4753dc2-7a31-4eff-ae72-02d22718cda4_w520_r2.08_fpx32_fpy50.jpg",
-      "zeit": "2026-11-14T01:42+01:00"
+      "artikel": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
+      "bild": "https://images.tagesschau.de/image/9d3761e3-aa01-4a4b-a182-a99466c453f8/AAABodf8HlI/AAABnSSvrFg/16x9-big/matroschka-trump-putin-xi-100.jpg?width=1280",
+      "zeit": "2026-11-14T04:18+01:00"
     },
     {
-      "id": "0801-2",
-      "titel": "Maues Spiel in Nations League – Minimalistische Nati steigt nach einem 0:0 in Slowenien auf",
-      "was": "Nati-Spieler nach Abpfiff in Maribor, verhaltener Jubel über Aufstieg",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Aufstieg wird gefeiert, obwohl in neunzig Minuten nichts passiert ist, als ob Schweizer Kompromisskultur ein Sieg wäre.",
+      "id": "1700-2",
+      "titel": "Landesweites Startverbot – Flugchaos in den USA: Was hinter dem seltenen Groundstop steckt",
+      "was": "Anzeigetafel voller gestrichener Flüge, Passagiere schlafen auf Flughafenboden",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Supermacht mit Weltraumambitionen gegen eine Flugsicherung auf dem Stand der Disketten.",
       "grund": "breit",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
-        "Spiegel"
+        "Spiegel",
+        "taz"
       ],
-      "artikel": "https://www.srf.ch/sport/fussball/nationalmannschaft/maues-spiel-in-nations-league-minimalistische-nati-steigt-nach-einem-0-0-in-slowenien-auf",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/01f826.jpg",
-      "zeit": "2026-11-13T22:54+01:00"
+      "artikel": "https://www.srf.ch/news/international/landesweites-startverbot-flugchaos-in-den-usa-was-hinter-dem-seltenen-groundstop-steckt",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/ed807f.jpg",
+      "zeit": "2026-11-14T09:35+01:00"
     },
     {
-      "id": "0801-3",
-      "titel": "Südamerika-Reise: Papst Leo XIV. besucht alte Wirkungsstätte in Peru",
-      "was": "Papst Leo XIV. in Peru, mit Gläubigen, Trachten oder Kopfschmuck",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Der eine Amerikaner besucht Lateinamerika mit Segen, der andere will Kuba erledigen.",
+      "id": "1700-3",
+      "titel": "König Charles und Elton John brillieren als Radio-DJs",
+      "was": "König Charles und Elton John mit Kopfhörern am Radiomischpult",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: ein Monarch, der nie einen Job gesucht hat, gegen die Bewerbung als Radiomoderator mit Musikwunsch fürs Volk.",
       "grund": "memetauglich",
       "raum": "weltweit",
-      "quelle": "Tagesschau",
+      "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.tagesschau.de/tagesthemen/video-1683550.html",
-      "bild": "https://images.tagesschau.de/image/7dacfc65-f0ec-477e-a2f2-77475eeb374a/AAABodbUwtc/AAABnSSvrFg/16x9-big/sendungsbild-1827242.jpg?width=1280",
-      "zeit": "2026-11-13T22:35+01:00"
+      "artikel": "https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs-a-6d9ec9ee-82b9-423e-a489-59333141d861#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/84d02124-b834-487c-a356-4f95d7baafb3_w520_r2.08_fpx47.97_fpy50.jpg",
+      "zeit": "2026-11-14T16:51+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute im Tagesverlauf",
-      "was": "Papst Leo XIV. bei Messe oder Volksbad an seiner früheren Wirkungsstätte in Peru"
+      "wann": "heute im Lauf des Tages",
+      "was": "Papst Leo XIV. bad in der Menge in seiner früheren Diözese in Peru"
     },
     {
-      "wann": "heute tagsüber",
-      "was": "Delegierte und Politprominenz an der Klimakonferenz COP31 in Antalya, Gruppenfotos und Podien"
+      "wann": "heute, laufend",
+      "was": "Kostümierte Demonstrierende und Delegationen an der Klimakonferenz COP31 in Antalya"
     }
   ],
   "hinweis": ""
