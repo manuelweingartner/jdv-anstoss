@@ -11,17 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Gleicher Tag: Die USA stoppen wegen einer Panne alle Flüge, Barbara Schöneberger verliert den Führerschein. Mehr Verkehrswende hat die ganze Klimakonferenz nicht geschafft."
-    },
-    {
-      "id": "2026-11-14-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trumps Schwiegersohn Kushner lädt Europa zu den Ukraine-Gesprächen ein, Familienfest, bei dem die Ukraine ihre Bodenschätze mitbringt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Trumps Schwiegersohn Kushner lädt die Europäer zu den Ukraine-Gesprächen ein. Wie jedes Familienfest: alle bringen etwas mit, Europa den Salat, die Ukraine ihre Bodenschätze."
+      "text": "Gleicher Tag: Die USA stoppen wegen einer Panne alle Flüge, Barbara Schöneberger verliert den Führerschein. Mehr Verkehrswende hat die ganze Klimakonferenz nicht geschafft.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-14-0757-03",
@@ -31,7 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Papst Leo trifft in Lima Tausende Jugendliche, alle Handys an. Endlich Jugendarbeit mit Zeug*innen."
+      "text": "Papst Leo trifft in Lima Tausende Jugendliche, alle Handys an. Endlich Jugendarbeit mit Zeug*innen.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-14-0757-04",
@@ -41,17 +41,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor fremden Richtern. Zum Glück hängt die Bundesverwaltung nur an einem Konzern in Redmond, und auch das nur, wenn dort der Server läuft."
-    },
-    {
-      "id": "2026-11-14-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweizer Gamer nehmen für GTA 6 Ferien, die Klage über die Jungen, die nicht mehr arbeiten wollen, ernst genommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Schlimm, die Jungen wollen nicht mehr arbeiten. Für GTA 6 beantragen sie Ferien, schriftlich."
+      "text": "Habe Angst vor fremden Richtern. Zum Glück hängt die Bundesverwaltung nur an einem Konzern in Redmond, und auch das nur, wenn dort der Server läuft.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-14-0757-06",
@@ -61,7 +56,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, Europa muss mit einer Stimme sprechen. Gleicher Tag: Trump, Xi und Putin treffen sich, die EU schickt zu den Russland-Gesprächen Deutschland, Frankreich, Grossbritannien, Italien, Polen, Brüssel."
+      "text": "Stimmt, Europa muss mit einer Stimme sprechen. Gleicher Tag: Trump, Xi und Putin treffen sich, die EU schickt zu den Russland-Gesprächen Deutschland, Frankreich, Grossbritannien, Italien, Polen, Brüssel.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-14-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Über Lohn redet man nicht, ausser der CEO am Weihnachtsessen über das schwierige Marktumfeld",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Über Lohn redet man in der Schweiz nicht. Ausser der CEO am Weihnachtsessen, zwischen Rindsfilet und Cüpli, über das schwierige Marktumfeld.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-14-0757-11",
@@ -71,37 +86,72 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Das Schweizerkreuz darf künftig nur noch auf Waren, die in der Schweiz hergestellt wurden. Bei Menschen reicht «hier hergestellt» noch lange nicht."
+      "text": "Das Schweizerkreuz darf künftig nur noch auf Waren, die in der Schweiz hergestellt wurden. Bei Menschen reicht «hier hergestellt» noch lange nicht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-14-0757-12",
+      "id": "2026-11-14-0757-21",
       "typ": "politisch-aktuell",
-      "stichwort": "Aktion «3 für 2» bei Coop, im Büro heisst dieselbe Rechnung Reorganisation, gilt solange Vorrat",
+      "stichwort": "Software-Panne legt den US-Flugverkehr vier Stunden lahm, IT-Support-Floskel an die Klimakonferenz",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": 17,
-      "text": "Drei für zwei heisst bei Coop Aktion, im Büro Reorganisation. Solange Vorrat."
+      "text": "Wegen einer Software-Panne durfte in den USA vier Stunden lang kein Flugzeug starten. Klimakonferenz, schon mal mit Aus- und nicht wieder Einschalten versucht?",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-14-0757-27",
+      "id": "2026-11-14-0757-22",
       "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste aller Vermieter*innen, die eine Zinssenkung von sich aus weitergegeben haben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Vermieter*innen, die nach einer Zinssenkung von sich aus die Miete gesenkt haben:\n-\n-\nEnde der Liste."
-    },
-    {
-      "id": "2026-11-14-0757-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lohn voll besteuert, Dividenden nur teilweise: Arbeit als anrüchige Einkommensquelle",
+      "stichwort": "Betrunkener Unteroffizier wird entlassen, am selben Tag verhandelt Kushner ohne Amt über die Ukraine",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Ein Schweizer Unteroffizier fährt betrunken Auto und wird entlassen. Am selben Tag verhandelt Trumps Schwiegersohn Jared Kushner über die Zukunft der Ukraine, Qualifikation: nüchtern, verheiratet.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-14-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Papst Leo XIV. lässt in Lima Jugendliche Handylampen schwenken, Kirche und Kinder mit Sicherheitsabstand",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Papst Leo XIV. lässt in Lima Jugendliche Handylampen schwenken. Kirche und Kinder, mit Sicherheitsabstand.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-14-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf das Oligarchenvermögen, das in Zug unkomplizierter ankommt als ein Mensch bei der Einbürgerung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Lohn wird in der Schweiz voll besteuert, Dividenden aus grossen Beteiligungen höchstens zu siebzig Prozent. Arbeit gilt offenbar als die anrüchigere Einkommensquelle, gleich nach Schwarzgeld."
+      "text": "Einmal so unkompliziert eingebürgert werden wie ein russisches Oligarchenvermögen im Kanton Zug.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     }
   ]
 }
