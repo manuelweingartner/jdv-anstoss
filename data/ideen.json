@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-14",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Papst Leo trifft in Lima Tausende Jugendliche, alle Handys an. Endlich Jugendarbeit mit Zeug*innen."
+    },
+    {
+      "id": "2026-11-14-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Microsoft-Ausfall, Experten warnen vor Klumpenrisiko. Die Angst vor fremden Richtern ernst genommen: die Bundesverwaltung hängt nur an einem Konzern in Redmond",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor fremden Richtern. Zum Glück hängt die Bundesverwaltung nur an einem Konzern in Redmond, und auch das nur, wenn dort der Server läuft."
+    },
+    {
+      "id": "2026-11-14-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizer Gamer nehmen für GTA 6 Ferien, die Klage über die Jungen, die nicht mehr arbeiten wollen, ernst genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Schlimm, die Jungen wollen nicht mehr arbeiten. Für GTA 6 beantragen sie Ferien, schriftlich."
+    },
+    {
+      "id": "2026-11-14-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Dreiertreffen Trump, Xi, Putin am selben Tag, an dem die EU ihr Verhandlungsteam für Russland vorstellt: fünf Länder plus Brüssel als eine Stimme",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Europa muss mit einer Stimme sprechen. Gleicher Tag: Trump, Xi und Putin treffen sich, die EU schickt zu den Russland-Gesprächen Deutschland, Frankreich, Grossbritannien, Italien, Polen, Brüssel."
     },
     {
       "id": "2026-11-14-0757-11",
@@ -72,16 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Lohn wird in der Schweiz voll besteuert, Dividenden aus grossen Beteiligungen höchstens zu siebzig Prozent. Arbeit gilt offenbar als die anrüchigere Einkommensquelle, gleich nach Schwarzgeld."
-    },
-    {
-      "id": "2026-11-14-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neid auf das Oligarchenvermögen, das in Zug unkomplizierter ankommt als ein Mensch bei der Einbürgerung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so unkompliziert eingebürgert werden wie ein russisches Oligarchenvermögen im Kanton Zug."
     }
   ]
 }
