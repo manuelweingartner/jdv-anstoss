@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-14",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -15,6 +15,21 @@
       "jury": {
         "anker": true,
         "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-14-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trumps Schwiegersohn Kushner lädt Europa zu den Ukraine-Gesprächen ein, Familienfest, bei dem die Ukraine ihre Bodenschätze mitbringt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trumps Schwiegersohn Kushner lädt die Europäer zu den Ukraine-Gesprächen ein. Wie jedes Familienfest: alle bringen etwas mit, Europa den Salat, die Ukraine ihre Bodenschätze.",
+      "jury": {
+        "anker": true,
+        "witz": false,
         "neu": false
       }
     },
@@ -34,18 +49,18 @@
       }
     },
     {
-      "id": "2026-11-14-0757-04",
+      "id": "2026-11-14-0757-05",
       "typ": "politisch-aktuell",
-      "stichwort": "Microsoft-Ausfall, Experten warnen vor Klumpenrisiko. Die Angst vor fremden Richtern ernst genommen: die Bundesverwaltung hängt nur an einem Konzern in Redmond",
+      "stichwort": "Schweizer Gamer nehmen für GTA 6 Ferien, die Klage über die Jungen, die nicht mehr arbeiten wollen, ernst genommen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor fremden Richtern. Zum Glück hängt die Bundesverwaltung nur an einem Konzern in Redmond, und auch das nur, wenn dort der Server läuft.",
+      "text": "Schlimm, die Jungen wollen nicht mehr arbeiten. Für GTA 6 beantragen sie Ferien, schriftlich.",
       "jury": {
         "anker": true,
-        "witz": true,
-        "neu": true
+        "witz": false,
+        "neu": false
       }
     },
     {
@@ -94,59 +109,29 @@
       }
     },
     {
-      "id": "2026-11-14-0757-21",
+      "id": "2026-11-14-0757-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Software-Panne legt den US-Flugverkehr vier Stunden lahm, IT-Support-Floskel an die Klimakonferenz",
+      "stichwort": "EU stellt ihr Verhandlungsteam für die Russland-Gespräche ohne die Ukraine auf, gespielte Zustimmung zur Diplomatie über die Köpfe hinweg",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 17,
-      "text": "Wegen einer Software-Panne durfte in den USA vier Stunden lang kein Flugzeug starten. Klimakonferenz, schon mal mit Aus- und nicht wieder Einschalten versucht?",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-14-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Betrunkener Unteroffizier wird entlassen, am selben Tag verhandelt Kushner ohne Amt über die Ukraine",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Ein Schweizer Unteroffizier fährt betrunken Auto und wird entlassen. Am selben Tag verhandelt Trumps Schwiegersohn Jared Kushner über die Zukunft der Ukraine, Qualifikation: nüchtern, verheiratet.",
+      "format": "frei",
+      "text": "EU-Gespräche mit Russland, ohne Ukraine. Klug, sonst redet jemand mit, dem das Land gehört.",
       "jury": {
         "witz": true,
-        "anker": true,
+        "anker": false,
         "neu": false
       }
     },
     {
-      "id": "2026-11-14-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Papst Leo XIV. lässt in Lima Jugendliche Handylampen schwenken, Kirche und Kinder mit Sicherheitsabstand",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "id": "2026-11-14-0757-31",
+      "typ": "schnittmenge",
+      "stichwort": "Swissness-Regel, das Schweizerkreuz nur noch auf Schweizer Ware, ausser auf den Kampfjets aus Texas",
+      "plattform": "Instagram + Threads + Bluesky",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Papst Leo XIV. lässt in Lima Jugendliche Handylampen schwenken. Kirche und Kinder, mit Sicherheitsabstand.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-14-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neid auf das Oligarchenvermögen, das in Zug unkomplizierter ankommt als ein Mensch bei der Einbürgerung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so unkompliziert eingebürgert werden wie ein russisches Oligarchenvermögen im Kanton Zug.",
+      "format": 1,
+      "text": "Schweizerkreuz bald nur noch auf Schweizer Ware. Ausser auf den Kampfjets aus Texas.",
       "jury": {
         "anker": true,
         "witz": false,
