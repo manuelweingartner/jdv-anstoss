@@ -1,63 +1,60 @@
 {
-  "stand": "2026-11-13T17:00:36+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-14T08:01:31+01:00",
+  "lauf": "0801",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Störung bei Outlook und Teams – Das ist über den weltweiten Microsoft-Ausfall bekannt",
-      "was": "Ratlose Büroangestellte vor Bildschirmen mit Outlook- oder Teams-Fehlermeldung",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: weltweiter Produktivitätsverlust gegen den ersten ruhigen Bürotag ohne Teams-Sitzungen.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "SRF",
-      "auch_bei": [
-        "20 Minuten",
-        "Spiegel",
-        "Tagesschau",
-        "taz"
-      ],
-      "artikel": "https://www.srf.ch/news/wirtschaft/stoerung-bei-outlook-und-teams-das-ist-ueber-den-weltweiten-microsoft-ausfall-bekannt",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/041048.jpg",
-      "zeit": "2026-11-13T11:22+01:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "LIVE-TICKER - Krieg in der Ukraine: Merz appelliert an Trump +++ Putin laut Kushner bereit für Europäer am Verhandlungstisch",
-      "was": "Merz am Gipfeltisch in Dublin, gestikulierend zwischen anderen Regierungschefs",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist, also «gesetzt» als reservierter Stuhl. Achse: der Anspruch auf einen Platz am Tisch gegen die offene Frage, wer ihn eingeladen hat.",
+      "id": "0801-1",
+      "titel": "Donald Trump trifft Wladimir Putin und Xi Jinping kommende Woche in China",
+      "was": "Trump, Xi und Putin bei Handschlag oder steifem Gruppenfoto",
+      "richtung": "Mechanik: Rollenrede aus Sicht der drei Abgebildeten. Achse: historischer Gipfel über Atomwaffen gegen drei Männer, die zu Hause gerade selbst aufrüsten.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "NZZ",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "Spiegel",
+        "SRF",
         "Tagesschau"
       ],
-      "artikel": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
-      "bild": "https://img-msp-prod.nzz.ch/2026/11/02/bafe975f-fb77-45b1-98e2-529fcbd1439b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2412,2412,x603,y0",
-      "zeit": "2026-11-13T14:42+01:00"
+      "artikel": "https://www.spiegel.de/ausland/donald-trump-trifft-wladimir-putin-und-xi-jinping-kommende-woche-in-china-a-8c11f808-645a-48b5-b7a1-fb85768c7994#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/d4753dc2-7a31-4eff-ae72-02d22718cda4_w520_r2.08_fpx32_fpy50.jpg",
+      "zeit": "2026-11-14T01:42+01:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Die Weihnachtshauptstadt von Europa liegt in der Schweiz",
-      "was": "Weihnachtlich geschmücktes Basler Tram vor Glühweinständen und Lichterketten",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: europäische Hauptstadt werden, ohne in der EU zu sein, und das ausgerechnet über Glühwein.",
-      "grund": "memetauglich",
+      "id": "0801-2",
+      "titel": "Maues Spiel in Nations League – Minimalistische Nati steigt nach einem 0:0 in Slowenien auf",
+      "was": "Nati-Spieler nach Abpfiff in Maribor, verhaltener Jubel über Aufstieg",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ein Aufstieg wird gefeiert, obwohl in neunzig Minuten nichts passiert ist, als ob Schweizer Kompromisskultur ein Sieg wäre.",
+      "grund": "breit",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "SRF",
+      "auch_bei": [
+        "Spiegel"
+      ],
+      "artikel": "https://www.srf.ch/sport/fussball/nationalmannschaft/maues-spiel-in-nations-league-minimalistische-nati-steigt-nach-einem-0-0-in-slowenien-auf",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/01f826.jpg",
+      "zeit": "2026-11-13T22:54+01:00"
+    },
+    {
+      "id": "0801-3",
+      "titel": "Südamerika-Reise: Papst Leo XIV. besucht alte Wirkungsstätte in Peru",
+      "was": "Papst Leo XIV. in Peru, mit Gläubigen, Trachten oder Kopfschmuck",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Der eine Amerikaner besucht Lateinamerika mit Segen, der andere will Kuba erledigen.",
+      "grund": "memetauglich",
+      "raum": "weltweit",
+      "quelle": "Tagesschau",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/weihnachtshauptstadt-basel-maerkte-ueberzeugen-die-jury-103666649",
-      "bild": "https://image.20min.ch/2026/11/13/ec0d42e7-7aa9-4ea8-afe7-ece3597fe088.jpg?s=083c2238b2ee7ff169ff82c4c2aacde9",
-      "zeit": "2026-11-13T10:58+01:00"
+      "artikel": "https://www.tagesschau.de/tagesthemen/video-1683550.html",
+      "bild": "https://images.tagesschau.de/image/7dacfc65-f0ec-477e-a2f2-77475eeb374a/AAABodbUwtc/AAABnSSvrFg/16x9-big/sendungsbild-1827242.jpg?width=1280",
+      "zeit": "2026-11-13T22:35+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Abend",
-      "was": "Gruppenfoto und Handschläge der Regierungschefs am informellen EU-Gipfel in Dublin"
+      "wann": "heute im Tagesverlauf",
+      "was": "Papst Leo XIV. bei Messe oder Volksbad an seiner früheren Wirkungsstätte in Peru"
     },
     {
-      "wann": "heute",
-      "was": "Gavin Newsom am Rednerpult der Uno-Klimakonferenz in Antalya"
+      "wann": "heute tagsüber",
+      "was": "Delegierte und Politprominenz an der Klimakonferenz COP31 in Antalya, Gruppenfotos und Podien"
     }
   ],
   "hinweis": ""
