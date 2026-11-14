@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-14",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-14-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "USA stoppen wegen einer Panne alle Flüge, am selben Tag verliert Barbara Schöneberger ihren Führerschein: mehr Verkehrswende als die ganze Klimakonferenz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gleicher Tag: Die USA stoppen wegen einer Panne alle Flüge, Barbara Schöneberger verliert den Führerschein. Mehr Verkehrswende hat die ganze Klimakonferenz nicht geschafft."
+    },
+    {
+      "id": "2026-11-14-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trumps Schwiegersohn Kushner lädt Europa zu den Ukraine-Gesprächen ein, Familienfest, bei dem die Ukraine ihre Bodenschätze mitbringt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trumps Schwiegersohn Kushner lädt die Europäer zu den Ukraine-Gesprächen ein. Wie jedes Familienfest: alle bringen etwas mit, Europa den Salat, die Ukraine ihre Bodenschätze."
+    },
+    {
+      "id": "2026-11-14-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Papst Leo trifft in Lima Tausende Jugendliche, alle Handys an: kirchliche Jugendarbeit mit Zeug*innen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Papst Leo trifft in Lima Tausende Jugendliche, alle Handys an. Endlich Jugendarbeit mit Zeug*innen."
+    },
     {
       "id": "2026-11-14-0757-11",
       "typ": "schnittmenge",
