@@ -23797,6 +23797,150 @@
         "neu": true
       },
       "datum": "2026-11-13"
+    },
+    {
+      "id": "2026-11-14-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "USA stoppen wegen einer Panne alle Flüge, am selben Tag verliert Barbara Schöneberger ihren Führerschein: mehr Verkehrswende als die ganze Klimakonferenz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gleicher Tag: Die USA stoppen wegen einer Panne alle Flüge, Barbara Schöneberger verliert den Führerschein. Mehr Verkehrswende hat die ganze Klimakonferenz nicht geschafft.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-11-14"
+    },
+    {
+      "id": "2026-11-14-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trumps Schwiegersohn Kushner lädt Europa zu den Ukraine-Gesprächen ein, Familienfest, bei dem die Ukraine ihre Bodenschätze mitbringt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trumps Schwiegersohn Kushner lädt die Europäer zu den Ukraine-Gesprächen ein. Wie jedes Familienfest: alle bringen etwas mit, Europa den Salat, die Ukraine ihre Bodenschätze.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": false
+      },
+      "datum": "2026-11-14"
+    },
+    {
+      "id": "2026-11-14-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Papst Leo trifft in Lima Tausende Jugendliche, alle Handys an: kirchliche Jugendarbeit mit Zeug*innen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Papst Leo trifft in Lima Tausende Jugendliche, alle Handys an. Endlich Jugendarbeit mit Zeug*innen.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-11-14"
+    },
+    {
+      "id": "2026-11-14-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schweizer Gamer nehmen für GTA 6 Ferien, die Klage über die Jungen, die nicht mehr arbeiten wollen, ernst genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Schlimm, die Jungen wollen nicht mehr arbeiten. Für GTA 6 beantragen sie Ferien, schriftlich.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": false
+      },
+      "datum": "2026-11-14"
+    },
+    {
+      "id": "2026-11-14-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Dreiertreffen Trump, Xi, Putin am selben Tag, an dem die EU ihr Verhandlungsteam für Russland vorstellt: fünf Länder plus Brüssel als eine Stimme",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Europa muss mit einer Stimme sprechen. Gleicher Tag: Trump, Xi und Putin treffen sich, die EU schickt zu den Russland-Gesprächen Deutschland, Frankreich, Grossbritannien, Italien, Polen, Brüssel.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-11-14"
+    },
+    {
+      "id": "2026-11-14-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Über Lohn redet man nicht, ausser der CEO am Weihnachtsessen über das schwierige Marktumfeld",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "Über Lohn redet man in der Schweiz nicht. Ausser der CEO am Weihnachtsessen, zwischen Rindsfilet und Cüpli, über das schwierige Marktumfeld.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-14"
+    },
+    {
+      "id": "2026-11-14-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Schweizerkreuz nur noch auf Waren, die im Inland hergestellt wurden. Bei Menschen reicht «hier hergestellt» nicht für den Pass",
+      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Das Schweizerkreuz darf künftig nur noch auf Waren, die in der Schweiz hergestellt wurden. Bei Menschen reicht «hier hergestellt» noch lange nicht.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-14"
+    },
+    {
+      "id": "2026-11-14-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "EU stellt ihr Verhandlungsteam für die Russland-Gespräche ohne die Ukraine auf, gespielte Zustimmung zur Diplomatie über die Köpfe hinweg",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "EU-Gespräche mit Russland, ohne Ukraine. Klug, sonst redet jemand mit, dem das Land gehört.",
+      "jury": {
+        "witz": true,
+        "anker": false,
+        "neu": false
+      },
+      "datum": "2026-11-14"
+    },
+    {
+      "id": "2026-11-14-0757-31",
+      "typ": "schnittmenge",
+      "stichwort": "Swissness-Regel, das Schweizerkreuz nur noch auf Schweizer Ware, ausser auf den Kampfjets aus Texas",
+      "plattform": "Instagram + Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Schweizerkreuz bald nur noch auf Schweizer Ware. Ausser auf den Kampfjets aus Texas.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-11-14"
     }
   ]
 }
