@@ -1,33 +1,31 @@
 {
-  "stand": "2026-11-15T08:01:53+01:00",
-  "lauf": "0801",
+  "stand": "2026-11-15T17:00:38+01:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0801-1",
-      "titel": "Kantonsbudget 2027 – Tausende Menschen demonstrieren in Genf gegen Sparmassnahmen",
-      "was": "Tausende Demonstrierende mit Transparenten in den Strassen von Genf",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Genf ringt um 240 Millionen Franken, während Zug nicht weiss, wohin mit dem Geld.",
+      "id": "1700-1",
+      "titel": "Pinheiro-Braathen-Sieg in Levi – «Für Mélanie gefahren»: Meillard auch im 1. Slalom auf dem Podest",
+      "was": "Meillard auf dem Podest in Levi, jubelnd neben dem Sieger",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, der Jubel über Platz drei als Schweizer Erfolgsmeldung. Achse: Bronze, gefeiert wie Gold, gegen die Schweizer Pflicht, bescheiden zu bleiben.",
       "grund": "breit",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
-        "taz"
+        "NZZ"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/kantonsbudget-2027-tausende-menschen-demonstrieren-in-genf-gegen-sparmassnahmen",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/52560c.jpg",
-      "zeit": "2026-11-14T17:57+01:00"
+      "artikel": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/pinheiro-braathen-sieg-in-levi-fuer-melanie-gefahren-meillard-auch-im-1-slalom-auf-dem-podest",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/5f01b7.jpg",
+      "zeit": "2026-11-15T14:01+01:00"
     },
     {
-      "id": "0801-2",
+      "id": "1700-2",
       "titel": "US-Raumfahrtunternehmen SpaceX – SpaceX fängt Starship-Rakete erstmals mit Greifarmen auf",
-      "was": "Riesiger Startturm fängt Starship-Stufe mit zwei mechanischen Greifarmen auf",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Die USA fangen eine Rakete aus dem All auf, legen aber mit einem Routertausch den eigenen Flugverkehr lahm.",
+      "was": "Greifarme am Startturm halten die zurückgekehrte Starship-Stufe in der Luft",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, die Präzision des Raketenfangs gegen irdische Alltagspannen. Achse: Ein Milliardär fängt Raketen aus dem All, während am Boden nicht einmal Zug od",
       "grund": "breit",
       "raum": "",
       "quelle": "SRF",
       "auch_bei": [
-        "NZZ",
-        "Spiegel",
         "Tagesschau"
       ],
       "artikel": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-spacex-faengt-starship-rakete-erstmals-mit-greifarmen-auf",
@@ -35,27 +33,23 @@
       "zeit": "2026-11-15T03:44+01:00"
     },
     {
-      "id": "0801-3",
-      "titel": "Dreiergipfel in China – Schliessen Trump, Putin und Xi einen neuen Abrüstungsvertrag?",
-      "was": "Trump, Putin und Xi beim Händeschütteln vor Flaggen in Peking",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Abrüstung als Fototermin gegen Aufrüstung als Tagesgeschäft der drei grössten Arsenale.",
+      "id": "1700-3",
+      "titel": "»Mensch ärgere Dich nicht«: 50-Jährige aus Sachsen verteidigt WM-Titel",
+      "was": "Weltmeisterin mit Pokal am Spielbrett von Mensch ärgere Dich nicht",
+      "richtung": "Mechanik: wörtlich nehmen, was als Spielname gemeint ist, und es als politische Tugend lesen. Achse: Eine Weltmeisterin im Gelassenbleiben beim Rausfliegen gegen eine Politik, in der niemand je freiwi",
       "grund": "memetauglich",
       "raum": "weltweit",
-      "quelle": "SRF",
+      "quelle": "Spiegel",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/dreiergipfel-in-china-schliessen-trump-putin-und-xi-einen-neuen-abruestungsvertrag",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/7c946e4.jpg",
-      "zeit": "2026-11-14T17:04+01:00"
+      "artikel": "https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm-a-4a6b3dd3-4041-414f-8aa4-4a77e797c33b#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/41b3ced5-78fc-4e57-9b99-45e00110fb50_w520_r2.08_fpx33.27_fpy49.99.jpg",
+      "zeit": "2026-11-15T13:00+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute",
-      "was": "Papst Leo XIV. bei Gläubigen in seiner früheren Diözese Chiclayo, Peru"
-    },
-    {
-      "wann": "heute",
-      "was": "Kostümierte Klimaprotestierende am Rand der COP31 in Antalya"
+      "wann": "heute laufend",
+      "was": "Gruppenfotos und Auftritte von Delegationen an der Klimakonferenz COP31 in Antalya"
     }
   ],
   "hinweis": ""
