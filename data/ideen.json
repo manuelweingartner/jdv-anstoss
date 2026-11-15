@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-15",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -132,21 +132,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Kleinpackung Reis bei Coop, Kilopreis so: Aufpreis. Milliardärin mit Pauschalsteuer am Genfersee so: ah, Mengenrabatt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-15-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "Uno-Konferenz in Genf zu KI-Waffen, USA und Russland gegen Regeln, während jeder Roomba vor der Treppe bremst",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Jeder Roomba bremst automatisch vor der Treppe. Bei Drohnen, die selbst entscheiden, wen sie töten, finden die USA und Russland an der Uno Bremsen übertrieben.",
       "jury": {
         "anker": true,
         "witz": true,
