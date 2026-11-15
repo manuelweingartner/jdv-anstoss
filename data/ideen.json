@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-15",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Eine Milliardärsstiftung ist eine selbst bezahlte Feuerwehr. Dafür entscheidet sie, welche Häuser brennen."
+    },
+    {
+      "id": "2026-11-15-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mann wird wegen KI-Mitschrift eines Videogesprächs angezeigt, gleiche Woche fällt Copilot weltweit aus, ratlose Vermutung, dass auch Microsoft eine Vorladung bekam",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Seh ich das richtig, ein Mann wird angezeigt, weil seine KI ein Videogespräch ohne Einwilligung mitschrieb, und in derselben Woche fällt Copilot weltweit aus? Microsoft hat wohl auch Post bekommen."
+    },
+    {
+      "id": "2026-11-15-0757-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ghana will Schokolade selbst herstellen, gespielte Sorge, dass das Geld dann in Ghana bleibt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ghana will seine Schokolade jetzt selbst herstellen. Gefährlich, am Ende bleibt das Geld in Ghana."
+    },
+    {
+      "id": "2026-11-15-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tall People Night in Zürich misst am Eingang nach, gespielte Zustimmung zur Kritik an Türstehern, die nach Aussehen sortieren",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Zürcher Türsteher sortieren nach Aussehen, das geht so nicht. Darum misst die «Tall People Night» jetzt ab 1,85 Meter nach, objektiv, mit Meterband."
     },
     {
       "id": "2026-11-15-0757-31",
