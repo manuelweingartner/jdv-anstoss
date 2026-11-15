@@ -1,8 +1,48 @@
 {
   "datum": "2026-11-15",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-15-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wohltätigkeitsgala im Dolder für Familien, die sich die Krankenkassenprämie nicht leisten können, steuerlich abzugsfähig samt Champagner",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wohltätigkeitsgala im Dolder, Champagner bis Mitternacht, gesammelt für Familien, die sich die Krankenkassenprämie nicht leisten können. Abzugsfähig, der Champagner vermutlich auch."
+    },
+    {
+      "id": "2026-11-15-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Milliardärsnamen auf Spitalflügeln statt auf Steuerrechnungen, rhetorische Frage im Namen der Pflege",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Warum steht auf so vielen Spitalflügeln der Name eines Milliardärs und auf so wenigen Steuerrechnungen? Frage für die Pflegefachfrau, die in diesem Flügel Nachtschicht schiebt."
+    },
+    {
+      "id": "2026-11-15-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Milliardär*innen mit eigener Stiftung, die lieber mehr Steuern bezahlt hätten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier eine Liste aller Milliardär*innen mit eigener Stiftung, die stattdessen lieber mehr Steuern bezahlt hätten:\n-\n-\nWir suchen weiter."
+    },
+    {
+      "id": "2026-11-15-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Milliardärsstiftung als selbst bezahlte Feuerwehr, die entscheidet, welche Häuser brennen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Eine Milliardärsstiftung ist eine selbst bezahlte Feuerwehr. Dafür entscheidet sie, welche Häuser brennen."
+    },
     {
       "id": "2026-11-15-0757-31",
       "typ": "schnittmenge",
