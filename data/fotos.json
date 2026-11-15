@@ -1,62 +1,61 @@
 {
-  "stand": "2026-11-14T17:00:32+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-15T08:01:53+01:00",
+  "lauf": "0801",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
-      "was": "Trump, Xi und Putin beim Handschlag zu dritt vor Flaggen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: historischer Weltfriedensgipfel gegen drei Männer, die gemeinsam aufteilen, was ihnen nicht gehört.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Tagesschau",
-      "auch_bei": [
-        "NZZ",
-        "SRF",
-        "taz"
-      ],
-      "artikel": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
-      "bild": "https://images.tagesschau.de/image/9d3761e3-aa01-4a4b-a182-a99466c453f8/AAABodf8HlI/AAABnSSvrFg/16x9-big/matroschka-trump-putin-xi-100.jpg?width=1280",
-      "zeit": "2026-11-14T04:18+01:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Landesweites Startverbot – Flugchaos in den USA: Was hinter dem seltenen Groundstop steckt",
-      "was": "Anzeigetafel voller gestrichener Flüge, Passagiere schlafen auf Flughafenboden",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Supermacht mit Weltraumambitionen gegen eine Flugsicherung auf dem Stand der Disketten.",
+      "id": "0801-1",
+      "titel": "Kantonsbudget 2027 – Tausende Menschen demonstrieren in Genf gegen Sparmassnahmen",
+      "was": "Tausende Demonstrierende mit Transparenten in den Strassen von Genf",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Genf ringt um 240 Millionen Franken, während Zug nicht weiss, wohin mit dem Geld.",
       "grund": "breit",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
-        "Spiegel",
         "taz"
       ],
-      "artikel": "https://www.srf.ch/news/international/landesweites-startverbot-flugchaos-in-den-usa-was-hinter-dem-seltenen-groundstop-steckt",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/ed807f.jpg",
-      "zeit": "2026-11-14T09:35+01:00"
+      "artikel": "https://www.srf.ch/news/schweiz/kantonsbudget-2027-tausende-menschen-demonstrieren-in-genf-gegen-sparmassnahmen",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/52560c.jpg",
+      "zeit": "2026-11-14T17:57+01:00"
     },
     {
-      "id": "1700-3",
-      "titel": "König Charles und Elton John brillieren als Radio-DJs",
-      "was": "König Charles und Elton John mit Kopfhörern am Radiomischpult",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: ein Monarch, der nie einen Job gesucht hat, gegen die Bewerbung als Radiomoderator mit Musikwunsch fürs Volk.",
+      "id": "0801-2",
+      "titel": "US-Raumfahrtunternehmen SpaceX – SpaceX fängt Starship-Rakete erstmals mit Greifarmen auf",
+      "was": "Riesiger Startturm fängt Starship-Stufe mit zwei mechanischen Greifarmen auf",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Die USA fangen eine Rakete aus dem All auf, legen aber mit einem Routertausch den eigenen Flugverkehr lahm.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "SRF",
+      "auch_bei": [
+        "NZZ",
+        "Spiegel",
+        "Tagesschau"
+      ],
+      "artikel": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-spacex-faengt-starship-rakete-erstmals-mit-greifarmen-auf",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/d63e83.jpg",
+      "zeit": "2026-11-15T03:44+01:00"
+    },
+    {
+      "id": "0801-3",
+      "titel": "Dreiergipfel in China – Schliessen Trump, Putin und Xi einen neuen Abrüstungsvertrag?",
+      "was": "Trump, Putin und Xi beim Händeschütteln vor Flaggen in Peking",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: Abrüstung als Fototermin gegen Aufrüstung als Tagesgeschäft der drei grössten Arsenale.",
       "grund": "memetauglich",
       "raum": "weltweit",
-      "quelle": "Spiegel",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs-a-6d9ec9ee-82b9-423e-a489-59333141d861#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/84d02124-b834-487c-a356-4f95d7baafb3_w520_r2.08_fpx47.97_fpy50.jpg",
-      "zeit": "2026-11-14T16:51+01:00"
+      "artikel": "https://www.srf.ch/news/international/dreiergipfel-in-china-schliessen-trump-putin-und-xi-einen-neuen-abruestungsvertrag",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/7c946e4.jpg",
+      "zeit": "2026-11-14T17:04+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute im Lauf des Tages",
-      "was": "Papst Leo XIV. bad in der Menge in seiner früheren Diözese in Peru"
+      "wann": "heute",
+      "was": "Papst Leo XIV. bei Gläubigen in seiner früheren Diözese Chiclayo, Peru"
     },
     {
-      "wann": "heute, laufend",
-      "was": "Kostümierte Demonstrierende und Delegationen an der Klimakonferenz COP31 in Antalya"
+      "wann": "heute",
+      "was": "Kostümierte Klimaprotestierende am Rand der COP31 in Antalya"
     }
   ],
   "hinweis": ""
