@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-15",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -44,6 +44,36 @@
       "text": "Eine Milliardärsstiftung ist eine selbst bezahlte Feuerwehr. Dafür entscheidet sie, welche Häuser brennen."
     },
     {
+      "id": "2026-11-15-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "SpaceX fängt die Starship-Rakete mit Greifarmen auf, in derselben Woche verliert die Gastro zwei von fünf Lernenden: hätte man halt aus Edelstahl bauen sollen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gleiche Woche: SpaceX fängt eine Rakete mit Greifarmen auf, die Gastro verliert zwei von fünf Lernenden. Hätte man die halt aus Edelstahl bauen sollen."
+    },
+    {
+      "id": "2026-11-15-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ärzte-Präsidentin wirft dem Bundesrat wegen der Sparvorgaben eine Kompetenzüberschreitung vor, chronisch Kranke kennen den Satz aus der Sprechstunde",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "«Kompetenz überschritten», wirft die Ärzte-Präsidentin dem Bundesrat wegen der Sparvorgaben vor. Chronisch Kranke kennen den Satz aus der Sprechstunde, nach der mitgebrachten Studie, ausgedruckt, mit Leuchtstift."
+    },
+    {
+      "id": "2026-11-15-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mafiakrieg um Europas Marihuana in Katalonien, das Cannabisverbot wirkt, bei den Umsätzen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "In Katalonien kämpfen Mafias um Europas Marihuana. Das Verbot wirkt also, bei den Umsätzen."
+    },
+    {
       "id": "2026-11-15-0757-24",
       "typ": "politisch-aktuell",
       "stichwort": "Mann wird wegen KI-Mitschrift eines Videogesprächs angezeigt, gleiche Woche fällt Copilot weltweit aus, ratlose Vermutung, dass auch Microsoft eine Vorladung bekam",
@@ -72,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Stimmt, Zürcher Türsteher sortieren nach Aussehen, das geht so nicht. Darum misst die «Tall People Night» jetzt ab 1,85 Meter nach, objektiv, mit Meterband."
-    },
-    {
-      "id": "2026-11-15-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "Uno-Konferenz in Genf zu KI-Waffen, USA und Russland gegen Regeln, während jeder Roomba vor der Treppe bremst",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Jeder Roomba bremst automatisch vor der Treppe. Bei Drohnen, die selbst entscheiden, wen sie töten, finden die USA und Russland an der Uno Bremsen übertrieben."
-    },
-    {
-      "id": "2026-11-15-0757-32",
-      "typ": "politisch-aktuell",
-      "stichwort": "Netflix-Abo wird jedes Jahr teurer, der Lohn wird nur nach einem Mitarbeitergespräch erhöht",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so zuverlässig erhöht werden wie das Netflix-Abo, jedes Jahr und ohne Mitarbeitergespräch."
     }
   ]
 }
