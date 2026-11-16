@@ -1,57 +1,62 @@
 {
-  "stand": "2026-11-16T08:01:56+01:00",
-  "lauf": "0801",
+  "stand": "2026-11-16T17:00:37+01:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0801-1",
-      "titel": "Nvidia-Affäre: Handelsminister Lutnick gerät in Spionage- und Sexaffäre unter Druck",
-      "was": "Handelsminister Lutnick schüttelt Nvidia-Chef Jensen Huang lächelnd die Hand",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Ein Handschlag, der als harte Exportpolitik verkauft wurde, war in Wahrheit Hofieren.",
+      "id": "1700-1",
+      "titel": "Robert Pattinson wird der neue James Bond",
+      "was": "Robert Pattinson im Smoking, ernster Blick, klassische Bond-Pose",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: der weltgewandte Geheimdienstmythos gegen den Alltag eines Bundesamts, das Warnungen vor Phishing verschickt.",
       "grund": "breit",
       "raum": "",
       "quelle": "Spiegel",
       "auch_bei": [
-        "Tagesschau"
+        "20 Minuten",
+        "NZZ",
+        "SRF"
       ],
-      "artikel": "https://www.spiegel.de/ausland/nvidia-affaere-handelsminister-lutnick-geraet-in-spionage-und-sexaffaere-unter-druck-a-d5a8dd06-a4ad-4dae-a33c-fb6a530f956a#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/31b0cf9a-50d7-424d-9b09-ab574c484880_w520_r2.08_fpx65.39_fpy54.97.jpg",
-      "zeit": "2026-11-16T05:03+01:00"
+      "artikel": "https://www.spiegel.de/kultur/robert-pattinson-wird-der-neue-james-bond-a-bfc865b8-5840-435b-b74a-cd863bfb794b#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/48d8eaee-af4d-4762-93fb-781168240ea7_w520_r2.08_fpx66.65_fpy50.jpg",
+      "zeit": "2026-11-16T16:08+01:00"
     },
     {
-      "id": "0801-2",
-      "titel": "UNO-Klimakonferenz – Das grosse Ziel: 35 Prozent Strom bis 2035",
-      "was": "Delegierte und Staatschefs posieren an der COP31 vor Klimalogo",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Ein Ziel für 2035 wird von Leuten verkündet, die für einen Gipfel um die halbe Welt geflogen sind.",
+      "id": "1700-2",
+      "titel": "Krieg in der Ukraine – Trump vor Treffen mit Xi und Putin: Auch Ukraine ein Thema",
+      "was": "Trump, Xi und Putin beim Handschlag vor Flaggen",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: drei Männer verhandeln über ein Land, das nicht am Tisch sitzt, während Europa nicht einmal die eigene Aussenbeauftragte hineinbringt.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "SRF",
-      "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/uno-klimakonferenz-das-grosse-ziel-35-prozent-strom-bis-2035",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/8f5faf.jpg",
-      "zeit": "2026-11-16T05:45+01:00"
+      "auch_bei": [
+        "NZZ",
+        "taz"
+      ],
+      "artikel": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-trump-vor-treffen-mit-xi-und-putin-auch-ukraine-ein-thema",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/9208db.jpg",
+      "zeit": "2026-11-16T15:55+01:00"
     },
     {
-      "id": "0801-3",
-      "titel": "INTERVIEW - «Ohne die reichen Leute könnten die Schweizer nicht so gut leben, wie sie es heute tun», sagt Samih Sawiris, der Ägypter, der einen Schweizer Skiort neu erfindet",
-      "was": "Samih und Naguib Sawiris posieren zufrieden vor Bergkulisse in Andermatt",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Reiche, die der Schweiz ihren Wohlstand gönnen, gegen ein Dorf, das sich ihn nicht mehr leisten kann.",
+      "id": "1700-3",
+      "titel": "Die Uefa schickt Philippe Diallo ins Rennen um das Fifa-Präsidium",
+      "was": "Gianni Infantino lächelnd am Rednerpult mit Fifa-Logo",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: ein Verband, der sich demokratische Wahlen gibt, gegen einen Präsidenten, für den ein Gegenkandidat eine Betriebsstörung ist.",
       "grund": "memetauglich",
-      "raum": "schweiz",
+      "raum": "weltweit",
       "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/schweiz/ohne-die-reichen-leute-koennten-die-schweizer-nicht-so-gut-leben-wie-sie-es-heute-tun-sagt-samih-sawiris-der-aegypter-der-einen-schweizer-skiort-neu-erfindet-ld.10045975",
-      "bild": "https://img-msp-prod.nzz.ch/2026/11/10/d81cb044-854c-4ca0-8727-a3ca212802dd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2752,2752,x0,y688",
-      "zeit": "2026-11-16T05:48+01:00"
+      "artikel": "https://www.nzz.ch/sport/die-uefa-schickt-philippe-diallo-ins-rennen-um-das-fifa-praesidium-ld.10065563",
+      "bild": "https://img-msp-prod.nzz.ch/2026/11/16/447a2c36-403b-429a-95ca-9c48c2cc63f6.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2182,2182,x659,y0",
+      "zeit": "2026-11-16T16:56+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 20:45",
-      "was": "Nati gegen Schottland, Ehrung von Rodriguez und Freuler mit Jubel oder Frust"
+      "wann": "heute Nachmittag",
+      "was": "Gruppenfoto vom Stahlgipfel in Salzgitter, Politik mit Helm in der Werkshalle"
     },
     {
-      "wann": "heute tagsüber",
-      "was": "Merz bei der CSU in München, Gruppenbild mit Söder"
+      "wann": "heute",
+      "was": "Familienfoto der EU-Aussenminister in Brüssel nach dem Sanktionsbeschluss"
     }
   ],
   "hinweis": ""
