@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-16",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -62,6 +62,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Stimmt, die Kanaren werden von Booten überrannt. Die meisten heissen AIDA."
+    },
+    {
+      "id": "2026-11-16-1906-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Rüstungschefs, deren Kinder an einer Front stehen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Rüstungschefs, deren Kinder gerade an einer Front stehen:\n-\n-\nBitte nicht drängeln."
+    },
+    {
+      "id": "2026-11-16-1906-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rhetorische Frage, warum die Putzkraft stempelt und nie der Verwaltungsrat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Warum stempelt eigentlich die Putzkraft und nie der Verwaltungsrat? Frage für den Arbeitgeberverband, der sich solche Sorgen um die Produktivität macht."
     },
     {
       "id": "2026-11-16-1906-31",
