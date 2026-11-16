@@ -1,46 +1,46 @@
 {
-  "stand": "2026-11-15T08:02:21+01:00",
+  "stand": "2026-11-16T08:02:35+01:00",
   "vorschlaege": [
     {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "Mercedes schliesst zwei Werke",
-        "Mercedes optimiert sein Produktionsnetzwerk"
+        "Plan B heisst auch Microsoft"
       ],
-      "warum": "Werksschliessungen heissen in Konzernsprache nie so, und genau dieser Euphemismus ist die Pointe.",
+      "warum": "der Weckruf nach dem Ausfall ist so oft gekommen, dass niemand mehr widersprechen kann",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "EU-Abstimmung frühestens 2028",
-        "Differenzbereinigung jetzt",
-        "Ständerat"
+        "Quartalsbonus 2026",
+        "Verschlüsselung bis 2030 erneuern",
+        "Schweizer Finanzplatz"
       ],
-      "warum": "Der Ständerat biegt kurz vor dem Ziel in die Vertagung ab, obwohl der direkte Weg frei wäre.",
+      "warum": "die Branche biegt im letzten Moment zum kurzfristigen Gewinn ab, obwohl die Frist bis 2030 läuft",
       "bild": "vorschlag-2.jpg"
-    },
-    {
-      "vorlage": "schild",
-      "name": "Change My Mind",
-      "zeilen": [
-        "Ohne Teams war's produktiver"
-      ],
-      "warum": "Nach dem weltweiten Microsoft-Ausfall kann niemand ehrlich widersprechen.",
-      "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Sparkassen 1850",
-        "Ein ganzes Volk lernt sparen",
-        "FMH 2026",
-        "Sparen ist Kompetenzüberschreitung"
+        "Schweizer Exportkontrolle",
+        "neutral, streng, lückenlos",
+        "Schweizer Munition",
+        "über Umwege in Russland"
       ],
-      "warum": "Früher brachte Sparen den Wohlstand, heute gilt es den Ärzten als Übergriff.",
+      "warum": "der behauptete Ruf der Neutralität trifft auf den Rechercheweg der Munition",
+      "bild": "vorschlag-3.jpg"
+    },
+    {
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
+      "zeilen": [
+        "Fotos ohne Erlaubnis nehmen",
+        "Funktion zur Inhaltsoptimierung"
+      ],
+      "warum": "die 805 Millionen Strafe gibt es für genau den Euphemismus, mit dem Meta das verpackt",
       "bild": "vorschlag-4.jpg"
     }
   ]
