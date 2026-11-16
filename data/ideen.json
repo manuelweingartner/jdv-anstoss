@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-16",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -62,6 +62,36 @@
       "haltbarkeit": "evergreen",
       "format": 3,
       "text": "Weniger drin, gleicher Preis, neue Packung. Im Laden heisst es Shrinkflation, beim Bund Entlastungspaket."
+    },
+    {
+      "id": "2026-11-16-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Quantencomputer knacken bald jede Bankverschlüsselung, die Finanzbranche bleibt gelassen, endlich erfährt jemand, wem die Nummernkonten der Diktatoren gehören",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Quantencomputer knacken bald jede Bankverschlüsselung, und die Finanzbranche bleibt auffällig gelassen. Endlich erfährt jemand, wem die Nummernkonten der Diktatoren gehören, ganz ohne Amtshilfegesuch."
+    },
+    {
+      "id": "2026-11-16-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "COP31 will Öl durch Strom ersetzen, am selben Tag erreicht der nächste US-Flugzeugträger den Nahen Osten, atomgetrieben, also vorbildlich elektrifiziert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "An der Klimakonferenz will die Welt Öl durch Strom ersetzen. Gleichentags schicken die USA den nächsten Flugzeugträger in den Nahen Osten, atomgetrieben, also vorbildlich elektrifiziert."
+    },
+    {
+      "id": "2026-11-16-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Kantone, deren Sparpaket bei den Vermögenden anfängt, danach geht es weiter mit der Spitex",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Kantone, deren Sparpaket bei den Vermögenden anfängt:\n-\n-\nWeiter mit der Spitex."
     }
   ]
 }
