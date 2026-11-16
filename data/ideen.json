@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-16",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -64,21 +64,6 @@
       }
     },
     {
-      "id": "2026-11-16-1906-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Boote erreichen die Kanaren. Die Klage, die Inseln würden überrannt, wird ernst genommen: die meisten Boote heissen AIDA",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Stimmt, die Kanaren werden von Booten überrannt. Die meisten heissen AIDA.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-11-16-1906-08",
       "typ": "politisch-aktuell",
       "stichwort": "Leere Liste der Frauen, die mit Teilzeit, Kindern und gepflegter Schwiegermutter eine volle Pensionskassenrente bekommen",
@@ -121,21 +106,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-11-16-1906-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Australien baut den roten Krabben der Weihnachtsinsel Brücken zum Meer, gleiche Woche plant die EU ein Abschiebezentrum in Ruanda, gespielte Ratlosigkeit über die Beine",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Australien baut den Krabben der Weihnachtsinsel eigene Brücken zum Meer, die EU plant in derselben Woche ein Abschiebezentrum in Ruanda. Weiss auch nicht, vielleicht haben Menschen einfach zu wenig Beine.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
       }
     },
     {
