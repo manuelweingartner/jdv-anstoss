@@ -11,7 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Die Uefa schickt Philippe Diallo gegen Gianni Infantino ins Rennen um die Fifa-Präsidentschaft. Infantino so: Wahl, süss, so was vergeben wir doch, nach Saudi-Arabien, ohne Gegenkandidat."
+      "text": "Die Uefa schickt Philippe Diallo gegen Gianni Infantino ins Rennen um die Fifa-Präsidentschaft. Infantino so: Wahl, süss, so was vergeben wir doch, nach Saudi-Arabien, ohne Gegenkandidat.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-16-1906-02",
@@ -21,17 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Bei einem Microsoft-Ausfall dürfen Angestellte heimgehen, sagt ein Arbeitsrechtler. Asylsuchende auch, verhandelt Europa am selben Tag: heim nach Ruanda, wo sie noch nie waren."
-    },
-    {
-      "id": "2026-11-16-1906-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump trifft Xi und Putin, auch die Ukraine ist Thema, leere Liste der ukrainischen Delegation",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Trump trifft Xi und Putin, Thema ist auch die Ukraine. Ukrainische Delegation:\n-\n-"
+      "text": "Bei einem Microsoft-Ausfall dürfen Angestellte heimgehen, sagt ein Arbeitsrechtler. Asylsuchende auch, verhandelt Europa am selben Tag: heim nach Ruanda, wo sie noch nie waren.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-16-1906-04",
@@ -41,7 +41,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Australien baut roten Krabben eigene Brücken zum Meer, die EU plant gleichzeitig ein Abschiebezentrum in Ruanda. Weiss auch nicht, was die Krabben richtig gemacht haben."
+      "text": "Australien baut roten Krabben eigene Brücken zum Meer, die EU plant gleichzeitig ein Abschiebezentrum in Ruanda. Weiss auch nicht, was die Krabben richtig gemacht haben.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-16-1906-05",
@@ -51,7 +56,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Meta muss in Italien 805 Millionen Euro zahlen, weil es ohne Einwilligung private Fotos durchstöbert hat. Verwirrend, bei IV-Bezüger*innen ist das ein Beruf. Mit Teleobjektiv."
+      "text": "Meta muss in Italien 805 Millionen Euro zahlen, weil es ohne Einwilligung private Fotos durchstöbert hat. Verwirrend, bei IV-Bezüger*innen ist das ein Beruf. Mit Teleobjektiv.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-16-1906-06",
@@ -61,7 +71,72 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Stimmt, die Kanaren werden von Booten überrannt. Die meisten heissen AIDA."
+      "text": "Stimmt, die Kanaren werden von Booten überrannt. Die meisten heissen AIDA.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-16-1906-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Frauen, die mit Teilzeit, Kindern und gepflegter Schwiegermutter eine volle Pensionskassenrente bekommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Frauen, die mit Teilzeitstelle, Kindern und gepflegter Schwiegermutter eine volle Pensionskassenrente bekommen haben:\n-\n-\nHerzliche Gratulation.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-16-1906-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wegen GTA werden Konsolen knapp und teuer, endlich ein Mangel ohne Zuwanderung als Schuldige",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Wegen des neuen GTA explodieren die Konsolenpreise, Händler melden Engpässe. Endlich ein Mangel, an dem nicht die Zuwanderung schuld ist, vorläufig, die SVP prüft noch.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-16-1906-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Europa schickt Afrika Altkleider und Elektroschrott, jetzt verhandelt es mit Ruanda über Asylsuchende",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 15,
+      "text": "Europa schickt Afrika Altkleider und Elektroschrott. Jetzt verhandelt es mit Ruanda über Asylsuchende.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-16-1906-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Australien baut den roten Krabben der Weihnachtsinsel Brücken zum Meer, gleiche Woche plant die EU ein Abschiebezentrum in Ruanda, gespielte Ratlosigkeit über die Beine",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Australien baut den Krabben der Weihnachtsinsel eigene Brücken zum Meer, die EU plant in derselben Woche ein Abschiebezentrum in Ruanda. Weiss auch nicht, vielleicht haben Menschen einfach zu wenig Beine.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-16-1906-27",
@@ -71,37 +146,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Hier alle Rüstungschefs, deren Kinder gerade an einer Front stehen:\n-\n-\nBitte nicht drängeln."
-    },
-    {
-      "id": "2026-11-16-1906-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rhetorische Frage, warum die Putzkraft stempelt und nie der Verwaltungsrat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Warum stempelt eigentlich die Putzkraft und nie der Verwaltungsrat? Frage für den Arbeitgeberverband, der sich solche Sorgen um die Produktivität macht."
-    },
-    {
-      "id": "2026-11-16-1906-31",
-      "typ": "schnittmenge",
-      "stichwort": "Klauen Hacker die Kundendaten eines Konzerns, heisst das Cyberangriff, verkauft der Konzern sie selbst, Geschäftsmodell, mit Häkchen bei Alle akzeptieren",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Klaut ein Hacker die Kundendaten eines Konzerns, ist das ein «Cyberangriff». Verkauft der Konzern sie selbst, ist es ein «Geschäftsmodell». Mit Häkchen bei «Alle akzeptieren»."
-    },
-    {
-      "id": "2026-11-16-1906-32",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kartenterminal beim Bäcker fragt nach Trinkgeld, die Lohnverhandlung führt jetzt die Kundschaft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Neuerdings fragt beim Bäcker das Kartenterminal nach Trinkgeld. Die Lohnverhandlung führt jetzt die Kundschaft."
+      "text": "Hier alle Rüstungschefs, deren Kinder gerade an einer Front stehen:\n-\n-\nBitte nicht drängeln.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     }
   ]
 }
