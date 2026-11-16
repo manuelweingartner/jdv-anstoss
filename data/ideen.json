@@ -1,142 +1,47 @@
 {
-  "datum": "2026-11-15",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "datum": "2026-11-16",
+  "hinweis": "4 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-15-0757-02",
+      "id": "2026-11-16-0757-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Katalonien ist Europas Cannabis-Zentrum mit Mafiakriegen. Gespielte Erleichterung, dass das Verbot das Geld in Familienbetrieben hält",
+      "stichwort": "Totalsanierung als Euphemismus: die Wohnung bekommt neue Fenster, neue Küche und neue Mieter*innen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Katalonien ist Europas Cannabis-Zentrum geworden, samt Mafiakriegen um die Plantagen. Beruhigend, dass der Joint bei uns verboten bleibt, so bleibt das Geld wenigstens in Familienbetrieben.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 15,
+      "text": "Nach der Sanierung hat die Wohnung neue Fenster, eine neue Küche und neue Mieter*innen. Die alten waren nicht mehr zeitgemäss."
     },
     {
-      "id": "2026-11-15-0757-03",
+      "id": "2026-11-16-0757-08",
       "typ": "politisch-aktuell",
-      "stichwort": "Ärztepräsidentin Gilli wirft dem Bundesrat wegen der Sparvorgaben Kompetenzüberschreitung vor, chronisch Kranke kennen das aus der Sprechstunde",
+      "stichwort": "Care-Arbeit als «unbezahlbar» gelobt und genau so bezahlt, rhetorische Frage an die Muttertagsblumen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie nennt man Arbeit eigentlich «unbezahlbar» und bezahlt sie dann exakt so? Frage für alle, die am Muttertag Blumen bringen."
+    },
+    {
+      "id": "2026-11-16-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Konzerne, die eine Steuersenkung an die Angestellten weitergegeben haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Konzerne, die ihre letzte Steuersenkung an die Angestellten weitergegeben haben:\n-\n-\nDie Aktionär*innen bedanken sich trotzdem herzlich."
+    },
+    {
+      "id": "2026-11-16-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf das russische Vermögen, das an der Schweizer Grenze herzlicher empfangen wird als Menschen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ärztepräsidentin Gilli wirft dem Bundesrat Kompetenzüberschreitung vor. Chronisch Kranke kennen das, aus jeder Sprechstunde.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-15-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Tall People Night Zürich, Männer unter 1,85 kommen nicht rein, Leistungslogik ernst genommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Zürcher Party: Männer unter 1,85 müssen draussen bleiben. Stimmt, hätten sich mehr anstrengen müssen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-15-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Wohltätigkeitsgala im Dolder für Familien, die sich die Krankenkassenprämie nicht leisten können, steuerlich abzugsfähig samt Champagner",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wohltätigkeitsgala im Dolder, Champagner bis Mitternacht, gesammelt für Familien, die sich die Krankenkassenprämie nicht leisten können. Abzugsfähig, der Champagner vermutlich auch.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-15-0757-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Milliardärsnamen auf Spitalflügeln statt auf Steuerrechnungen, rhetorische Frage im Namen der Pflege",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Warum steht auf so vielen Spitalflügeln der Name eines Milliardärs und auf so wenigen Steuerrechnungen? Frage für die Pflegefachfrau, die in diesem Flügel Nachtschicht schiebt.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-15-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "UNO-Konferenz in Genf zu autonomen KI-Waffen: USA und Russland gegen Regeln, ein Rasenmähroboter dagegen braucht in Europa eine Sicherheitsprüfung",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Ein Rasenmähroboter braucht in Europa eine Sicherheitsprüfung. Für Roboter, die selbstständig Menschen töten, wollen die USA und Russland in Genf keine Regeln, zu viel Bürokratie.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-15-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ghana will Schokolade selbst herstellen, gespielte Sorge, dass das Geld dann in Ghana bleibt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ghana will seine Schokolade jetzt selbst herstellen. Gefährlich, am Ende bleibt das Geld in Ghana.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-15-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Tall People Night in Zürich misst am Eingang nach, gespielte Zustimmung zur Kritik an Türstehern, die nach Aussehen sortieren",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, Zürcher Türsteher sortieren nach Aussehen, das geht so nicht. Darum misst die «Tall People Night» jetzt ab 1,85 Meter nach, objektiv, mit Meterband.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-15-0757-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kleinpackung bei Coop mit Aufpreis pro Kilo, pauschalbesteuerte Milliardärin am Genfersee kennt das Prinzip als Mengenrabatt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kleinpackung Reis bei Coop, Kilopreis so: Aufpreis. Milliardärin mit Pauschalsteuer am Genfersee so: ah, Mengenrabatt.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
+      "text": "Einmal an der Grenze so herzlich empfangen werden wie ein russisches Vermögen in Zug."
     }
   ]
 }
