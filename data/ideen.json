@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-16",
-  "hinweis": "4 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -42,6 +42,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Einmal an der Grenze so herzlich empfangen werden wie ein russisches Vermögen in Zug."
+    },
+    {
+      "id": "2026-11-16-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Meta muss in Italien 805 Millionen Euro zahlen, weil es ohne Einwilligung auf Nutzerfotos zugegriffen hat. Bei einem Menschen wäre das ein Trennungsgrund",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Durchwühlt jemand heimlich deine Handyfotos, ist das ein Trennungsgrund. Bei Meta kostet dasselbe in Italien 805 Millionen Euro Busse, und man bleibt zusammen."
+    },
+    {
+      "id": "2026-11-16-0757-12",
+      "typ": "politisch-aktuell",
+      "stichwort": "Shrinkflation im Laden: weniger Inhalt, gleicher Preis, neue Packung. Der Bund nennt dasselbe Entlastungspaket",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Weniger drin, gleicher Preis, neue Packung. Im Laden heisst es Shrinkflation, beim Bund Entlastungspaket."
     }
   ]
 }
