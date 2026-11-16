@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-16",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-16-1906-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Uefa schickt Philippe Diallo gegen Infantino ins Rennen um die Fifa-Präsidentschaft, Infantino hält Wahlen für etwas, das man vergibt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Uefa schickt Philippe Diallo gegen Gianni Infantino ins Rennen um die Fifa-Präsidentschaft. Infantino so: Wahl, süss, so was vergeben wir doch, nach Saudi-Arabien, ohne Gegenkandidat."
+    },
+    {
+      "id": "2026-11-16-1906-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Microsoft-Ausfall: Arbeitsrechtler erklärt, wer heimgehen darf, am selben Tag verhandelt Europa mit Ruanda über Zentren für Asylsuchende",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Bei einem Microsoft-Ausfall dürfen Angestellte heimgehen, sagt ein Arbeitsrechtler. Asylsuchende auch, verhandelt Europa am selben Tag: heim nach Ruanda, wo sie noch nie waren."
+    },
+    {
+      "id": "2026-11-16-1906-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump trifft Xi und Putin, auch die Ukraine ist Thema, leere Liste der ukrainischen Delegation",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump trifft Xi und Putin, Thema ist auch die Ukraine. Ukrainische Delegation:\n-\n-"
+    },
     {
       "id": "2026-11-16-1906-04",
       "typ": "politisch-aktuell",
