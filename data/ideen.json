@@ -1,142 +1,27 @@
 {
   "datum": "2026-11-16",
-  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
-  "fertig": true,
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-16-0757-01",
-      "typ": "politisch-aktuell",
-      "stichwort": "Die Klimakonferenz will weg vom Öl, die USA schicken in derselben Woche einen weiteren Flugzeugträger in den Nahen Osten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Klimakonferenz so: weg vom Öl, so schnell wie möglich. USA so, gleiche Woche: noch ein Flugzeugträger in den Nahen Osten, wir holen es ab, persönlich.",
-      "jury": {
-        "witz": true,
-        "neu": false,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-11-16-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Die Bank verlangt von der Kundschaft Sonderzeichen, rüstet selbst aber kaum gegen Quantencomputer auf, die die Verschlüsselung knacken",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 16,
-      "text": "Fürs E-Banking verlangt die Bank Sonderzeichen, Grossbuchstaben und den Mädchennamen der Mutter. Gegen Quantencomputer, die bald jede Verschlüsselung knacken, rüstet sie kaum auf, Sicherheit bleibt Kundensache.",
-      "jury": {
-        "witz": false,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-11-16-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ein Unteroffizier wird wegen einer Trunkenheitsfahrt entlassen, wer den F-35 nüchtern bestellt hat, bleibt im Amt",
-      "plattform": "Threads + Bluesky",
+      "id": "2026-11-16-1906-31",
+      "typ": "schnittmenge",
+      "stichwort": "Klauen Hacker die Kundendaten eines Konzerns, heisst das Cyberangriff, verkauft der Konzern sie selbst, Geschäftsmodell, mit Häkchen bei Alle akzeptieren",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Unteroffizier fährt betrunken und fliegt raus. Wer nüchtern den F-35 bestellt hat, bleibt.",
-      "jury": {
-        "witz": true,
-        "neu": false,
-        "anker": true
-      }
+      "text": "Klaut ein Hacker die Kundendaten eines Konzerns, ist das ein «Cyberangriff». Verkauft der Konzern sie selbst, ist es ein «Geschäftsmodell». Mit Häkchen bei «Alle akzeptieren»."
     },
     {
-      "id": "2026-11-16-0757-06",
+      "id": "2026-11-16-1906-32",
       "typ": "politisch-aktuell",
-      "stichwort": "Millionen Euro Bargeld im ungarischen Wald vergraben, Druck auf Orbáns Fidesz. Der Spruch «Geld wächst nicht auf Bäumen» wird ernst genommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, Geld wächst nicht auf Bäumen. In Orbáns Ungarn liegt es kofferweise drunter.",
-      "jury": {
-        "witz": false,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-11-16-0757-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Totalsanierung als Euphemismus: die Wohnung bekommt neue Fenster, neue Küche und neue Mieter*innen",
+      "stichwort": "Kartenterminal beim Bäcker fragt nach Trinkgeld, die Lohnverhandlung führt jetzt die Kundschaft",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 15,
-      "text": "Nach der Sanierung hat die Wohnung neue Fenster, eine neue Küche und neue Mieter*innen. Die alten waren nicht mehr zeitgemäss.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-11-16-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neid auf das russische Vermögen, das an der Schweizer Grenze herzlicher empfangen wird als Menschen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal an der Grenze so herzlich empfangen werden wie ein russisches Vermögen in Zug.",
-      "jury": {
-        "witz": true,
-        "neu": false,
-        "anker": true
-      }
-    },
-    {
-      "id": "2026-11-16-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Kantone, deren Sparpaket bei den Vermögenden anfängt, danach geht es weiter mit der Spitex",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Kantone, deren Sparpaket bei den Vermögenden anfängt:\n-\n-\nWeiter mit der Spitex.",
-      "jury": {
-        "neu": false,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-16-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "NZZaS-Recherche: Schweizer Munition über Umwege in Russland, gespielte Ratlosigkeit, ob die Ukraine einfach zu direkt gefragt hat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Schweizer Munition kam über Umwege nach Russland. Hat die Ukraine einfach zu direkt gefragt?",
-      "jury": {
-        "neu": false,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-16-0757-32",
-      "typ": "politisch-aktuell",
-      "stichwort": "Lieferapps fragen nach jeder Bestellung die Sternebewertung für den Kurier ab, nie seinen Lohn: Doppelsinn von «verdient»",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Jede Lieferapp fragt, wie viele Sterne der Kurier verdient. Was er verdient, fragt keine.",
-      "jury": {
-        "witz": true,
-        "neu": true,
-        "anker": true
-      }
+      "format": 16,
+      "text": "Neuerdings fragt beim Bäcker das Kartenterminal nach Trinkgeld. Die Lohnverhandlung führt jetzt die Kundschaft."
     }
   ]
 }
