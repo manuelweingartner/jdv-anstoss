@@ -4,6 +4,51 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-11-16-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Die Klimakonferenz will weg vom Öl, die USA schicken in derselben Woche einen weiteren Flugzeugträger in den Nahen Osten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Klimakonferenz so: weg vom Öl, so schnell wie möglich. USA so, gleiche Woche: noch ein Flugzeugträger in den Nahen Osten, wir holen es ab, persönlich.",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-11-16-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Die Bank verlangt von der Kundschaft Sonderzeichen, rüstet selbst aber kaum gegen Quantencomputer auf, die die Verschlüsselung knacken",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 16,
+      "text": "Fürs E-Banking verlangt die Bank Sonderzeichen, Grossbuchstaben und den Mädchennamen der Mutter. Gegen Quantencomputer, die bald jede Verschlüsselung knacken, rüstet sie kaum auf, Sicherheit bleibt Kundensache.",
+      "jury": {
+        "witz": false,
+        "neu": true,
+        "anker": true
+      }
+    },
+    {
+      "id": "2026-11-16-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ein Unteroffizier wird wegen einer Trunkenheitsfahrt entlassen, wer den F-35 nüchtern bestellt hat, bleibt im Amt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Unteroffizier fährt betrunken und fliegt raus. Wer nüchtern den F-35 bestellt hat, bleibt.",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      }
+    },
+    {
       "id": "2026-11-16-0757-07",
       "typ": "politisch-aktuell",
       "stichwort": "Totalsanierung als Euphemismus: die Wohnung bekommt neue Fenster, neue Küche und neue Mieter*innen",
@@ -11,27 +56,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": 15,
-      "text": "Nach der Sanierung hat die Wohnung neue Fenster, eine neue Küche und neue Mieter*innen. Die alten waren nicht mehr zeitgemäss."
-    },
-    {
-      "id": "2026-11-16-0757-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Care-Arbeit als «unbezahlbar» gelobt und genau so bezahlt, rhetorische Frage an die Muttertagsblumen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wie nennt man Arbeit eigentlich «unbezahlbar» und bezahlt sie dann exakt so? Frage für alle, die am Muttertag Blumen bringen."
-    },
-    {
-      "id": "2026-11-16-0757-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Konzerne, die eine Steuersenkung an die Angestellten weitergegeben haben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Konzerne, die ihre letzte Steuersenkung an die Angestellten weitergegeben haben:\n-\n-\nDie Aktionär*innen bedanken sich trotzdem herzlich."
+      "text": "Nach der Sanierung hat die Wohnung neue Fenster, eine neue Küche und neue Mieter*innen. Die alten waren nicht mehr zeitgemäss.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     },
     {
       "id": "2026-11-16-0757-10",
@@ -41,37 +71,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal an der Grenze so herzlich empfangen werden wie ein russisches Vermögen in Zug."
-    },
-    {
-      "id": "2026-11-16-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "Meta muss in Italien 805 Millionen Euro zahlen, weil es ohne Einwilligung auf Nutzerfotos zugegriffen hat. Bei einem Menschen wäre das ein Trennungsgrund",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Durchwühlt jemand heimlich deine Handyfotos, ist das ein Trennungsgrund. Bei Meta kostet dasselbe in Italien 805 Millionen Euro Busse, und man bleibt zusammen."
-    },
-    {
-      "id": "2026-11-16-0757-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "Shrinkflation im Laden: weniger Inhalt, gleicher Preis, neue Packung. Der Bund nennt dasselbe Entlastungspaket",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Weniger drin, gleicher Preis, neue Packung. Im Laden heisst es Shrinkflation, beim Bund Entlastungspaket."
-    },
-    {
-      "id": "2026-11-16-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Quantencomputer knacken bald jede Bankverschlüsselung, die Finanzbranche bleibt gelassen, endlich erfährt jemand, wem die Nummernkonten der Diktatoren gehören",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Quantencomputer knacken bald jede Bankverschlüsselung, und die Finanzbranche bleibt auffällig gelassen. Endlich erfährt jemand, wem die Nummernkonten der Diktatoren gehören, ganz ohne Amtshilfegesuch."
+      "text": "Einmal an der Grenze so herzlich empfangen werden wie ein russisches Vermögen in Zug.",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      }
     },
     {
       "id": "2026-11-16-0757-22",
@@ -81,7 +86,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "An der Klimakonferenz will die Welt Öl durch Strom ersetzen. Gleichentags schicken die USA den nächsten Flugzeugträger in den Nahen Osten, atomgetrieben, also vorbildlich elektrifiziert."
+      "text": "An der Klimakonferenz will die Welt Öl durch Strom ersetzen. Gleichentags schicken die USA den nächsten Flugzeugträger in den Nahen Osten, atomgetrieben, also vorbildlich elektrifiziert.",
+      "jury": {
+        "witz": true,
+        "neu": false,
+        "anker": true
+      }
     },
     {
       "id": "2026-11-16-0757-23",
@@ -91,7 +101,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Hier alle Kantone, deren Sparpaket bei den Vermögenden anfängt:\n-\n-\nWeiter mit der Spitex."
+      "text": "Hier alle Kantone, deren Sparpaket bei den Vermögenden anfängt:\n-\n-\nWeiter mit der Spitex.",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-16-0757-24",
@@ -101,7 +116,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe nie verstanden, warum Rechte so am Bargeld hängen. Dann finden sie in Ungarn 17,7 Millionen Euro im Wald, und Orbáns Partei wackelt. Ah. Wegen der Schaufel."
+      "text": "Habe nie verstanden, warum Rechte so am Bargeld hängen. Dann finden sie in Ungarn 17,7 Millionen Euro im Wald, und Orbáns Partei wackelt. Ah. Wegen der Schaufel.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-11-16-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "NZZaS-Recherche: Schweizer Munition über Umwege in Russland, gespielte Ratlosigkeit, ob die Ukraine einfach zu direkt gefragt hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Schweizer Munition kam über Umwege nach Russland. Hat die Ukraine einfach zu direkt gefragt?",
+      "jury": {
+        "neu": false,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-11-16-0757-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Lieferapps fragen nach jeder Bestellung die Sternebewertung für den Kurier ab, nie seinen Lohn: Doppelsinn von «verdient»",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Jede Lieferapp fragt, wie viele Sterne der Kurier verdient. Was er verdient, fragt keine.",
+      "jury": {
+        "witz": true,
+        "neu": true,
+        "anker": true
+      }
     }
   ]
 }
