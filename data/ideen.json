@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-16",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -49,6 +49,21 @@
       }
     },
     {
+      "id": "2026-11-16-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Millionen Euro Bargeld im ungarischen Wald vergraben, Druck auf Orbáns Fidesz. Der Spruch «Geld wächst nicht auf Bäumen» wird ernst genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Geld wächst nicht auf Bäumen. In Orbáns Ungarn liegt es kofferweise drunter.",
+      "jury": {
+        "witz": false,
+        "neu": true,
+        "anker": true
+      }
+    },
+    {
       "id": "2026-11-16-0757-07",
       "typ": "politisch-aktuell",
       "stichwort": "Totalsanierung als Euphemismus: die Wohnung bekommt neue Fenster, neue Küche und neue Mieter*innen",
@@ -79,21 +94,6 @@
       }
     },
     {
-      "id": "2026-11-16-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "COP31 will Öl durch Strom ersetzen, am selben Tag erreicht der nächste US-Flugzeugträger den Nahen Osten, atomgetrieben, also vorbildlich elektrifiziert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "An der Klimakonferenz will die Welt Öl durch Strom ersetzen. Gleichentags schicken die USA den nächsten Flugzeugträger in den Nahen Osten, atomgetrieben, also vorbildlich elektrifiziert.",
-      "jury": {
-        "witz": true,
-        "neu": false,
-        "anker": true
-      }
-    },
-    {
       "id": "2026-11-16-0757-23",
       "typ": "politisch-aktuell",
       "stichwort": "Leere Liste der Kantone, deren Sparpaket bei den Vermögenden anfängt, danach geht es weiter mit der Spitex",
@@ -104,21 +104,6 @@
       "text": "Hier alle Kantone, deren Sparpaket bei den Vermögenden anfängt:\n-\n-\nWeiter mit der Spitex.",
       "jury": {
         "neu": false,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-16-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ungarn: 17,7 Millionen Euro Bargeld im Wald vergraben, Orbáns Fidesz unter Druck, gespielte Erleuchtung, warum Rechte so am Bargeld hängen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Habe nie verstanden, warum Rechte so am Bargeld hängen. Dann finden sie in Ungarn 17,7 Millionen Euro im Wald, und Orbáns Partei wackelt. Ah. Wegen der Schaufel.",
-      "jury": {
-        "neu": true,
         "anker": true,
         "witz": true
       }
