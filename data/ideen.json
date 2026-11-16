@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-16",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,16 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Hier alle Kantone, deren Sparpaket bei den Vermögenden anfängt:\n-\n-\nWeiter mit der Spitex."
+    },
+    {
+      "id": "2026-11-16-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ungarn: 17,7 Millionen Euro Bargeld im Wald vergraben, Orbáns Fidesz unter Druck, gespielte Erleuchtung, warum Rechte so am Bargeld hängen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe nie verstanden, warum Rechte so am Bargeld hängen. Dann finden sie in Ungarn 17,7 Millionen Euro im Wald, und Orbáns Partei wackelt. Ah. Wegen der Schaufel."
     }
   ]
 }
