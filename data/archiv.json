@@ -24229,6 +24229,134 @@
         "anker": true
       },
       "datum": "2026-11-16"
+    },
+    {
+      "id": "2026-11-16-1906-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Uefa schickt Philippe Diallo gegen Infantino ins Rennen um die Fifa-Präsidentschaft, Infantino hält Wahlen für etwas, das man vergibt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die Uefa schickt Philippe Diallo gegen Gianni Infantino ins Rennen um die Fifa-Präsidentschaft. Infantino so: Wahl, süss, so was vergeben wir doch, nach Saudi-Arabien, ohne Gegenkandidat.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-11-16"
+    },
+    {
+      "id": "2026-11-16-1906-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Microsoft-Ausfall: Arbeitsrechtler erklärt, wer heimgehen darf, am selben Tag verhandelt Europa mit Ruanda über Zentren für Asylsuchende",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Bei einem Microsoft-Ausfall dürfen Angestellte heimgehen, sagt ein Arbeitsrechtler. Asylsuchende auch, verhandelt Europa am selben Tag: heim nach Ruanda, wo sie noch nie waren.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-11-16"
+    },
+    {
+      "id": "2026-11-16-1906-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Australien baut den roten Krabben auf der Weihnachtsinsel eigene Brücken ans Meer, in derselben Woche plant die EU ein Abschiebezentrum in Ruanda. Gespielte Ratlosigkeit, was die Krabben richtig machen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Australien baut roten Krabben eigene Brücken zum Meer, die EU plant gleichzeitig ein Abschiebezentrum in Ruanda. Weiss auch nicht, was die Krabben richtig gemacht haben.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-11-16"
+    },
+    {
+      "id": "2026-11-16-1906-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Meta muss in Italien 805 Millionen Euro zahlen, weil es ohne Einwilligung auf private Fotos zugegriffen hat. Gespielte Verwirrung, weil dasselbe bei IV-Bezüger*innen ein Beruf ist",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Meta muss in Italien 805 Millionen Euro zahlen, weil es ohne Einwilligung private Fotos durchstöbert hat. Verwirrend, bei IV-Bezüger*innen ist das ein Beruf. Mit Teleobjektiv.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-11-16"
+    },
+    {
+      "id": "2026-11-16-1906-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Frauen, die mit Teilzeit, Kindern und gepflegter Schwiegermutter eine volle Pensionskassenrente bekommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Frauen, die mit Teilzeitstelle, Kindern und gepflegter Schwiegermutter eine volle Pensionskassenrente bekommen haben:\n-\n-\nHerzliche Gratulation.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-11-16"
+    },
+    {
+      "id": "2026-11-16-1906-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wegen GTA werden Konsolen knapp und teuer, endlich ein Mangel ohne Zuwanderung als Schuldige",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Wegen des neuen GTA explodieren die Konsolenpreise, Händler melden Engpässe. Endlich ein Mangel, an dem nicht die Zuwanderung schuld ist, vorläufig, die SVP prüft noch.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-11-16"
+    },
+    {
+      "id": "2026-11-16-1906-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Europa schickt Afrika Altkleider und Elektroschrott, jetzt verhandelt es mit Ruanda über Asylsuchende",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 15,
+      "text": "Europa schickt Afrika Altkleider und Elektroschrott. Jetzt verhandelt es mit Ruanda über Asylsuchende.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-16"
+    },
+    {
+      "id": "2026-11-16-1906-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Rüstungschefs, deren Kinder an einer Front stehen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Rüstungschefs, deren Kinder gerade an einer Front stehen:\n-\n-\nBitte nicht drängeln.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-11-16"
     }
   ]
 }
