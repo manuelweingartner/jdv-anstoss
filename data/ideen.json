@@ -4,6 +4,51 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-11-17-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mehr Gewalt gegen Pflegende in Basler Spitälern, oft durch Angehörige und Besuchende: der Applaus vom Balkon kommt jetzt persönlich vorbei",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Gewalt gegen Pflegende in Basler Spitälern nimmt zu, oft durch Besuchende. Geklatscht wird nicht mehr vom Balkon, sondern persönlich, Blumen in der anderen Hand.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-17-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "SVP-Nein-Plakate gegen die AHV-Mehrwertsteuer auf Kuhweiden, obwohl der Bauernverband Ja sagt: endlich eine Basis, die nur wiederkäut",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Nein-Plakate der SVP zur AHV hängen auf Kuhweiden. Endlich eine Basis, die nur wiederkäut.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-17-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Guatemala schickt das Militär gegen die Kartelle, Frankreich stoppt einen Kokain-Halbtaucher im Atlantik, gleiche Woche am Paradeplatz: Kundschaft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Guatemala schickt das Militär gegen die Kartelle, Frankreich fischt einen Halbtaucher voller Kokain aus dem Atlantik. Gleiche Woche am Zürcher Paradeplatz: Kundschaft.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
       "id": "2026-11-17-0757-04",
       "typ": "politisch-aktuell",
       "stichwort": "Zweiter ukrainischer Angriff auf die Krim-Brücke, die Angst der Eskalationswarner ernst genommen: die Ukraine greift mitten auf ihrem eigenen Staatsgebiet an",
@@ -11,7 +56,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor Eskalation: die Ukraine greift die Krim-Brücke an, mitten auf ihrem Staatsgebiet."
+      "text": "Habe Angst vor Eskalation: die Ukraine greift die Krim-Brücke an, mitten auf ihrem Staatsgebiet.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-17-0757-05",
@@ -21,27 +71,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, Prinz William ist wahnsinnig volksnah: in Mumbai spielt er mit Einheimischen Strassencricket. Diesmal sogar, ohne das Land mitzunehmen."
+      "text": "Stimmt, Prinz William ist wahnsinnig volksnah: in Mumbai spielt er mit Einheimischen Strassencricket. Diesmal sogar, ohne das Land mitzunehmen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-17-0757-06",
+      "id": "2026-11-17-0757-10",
       "typ": "politisch-aktuell",
-      "stichwort": "Robert Pattinson wird James Bond, am selben Tag verfehlen Amazon-Satelliten von Bezos die Umlaufbahn: der Milliardär als Bond-Bösewicht ist doch nur ein linkes Klischee",
+      "stichwort": "Rüstungskonzerne feiern Rekordgewinne mit Champagner, Bestatter*innen verdienen am selben Geschäft und tragen wenigstens Schwarz",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ist ein linkes Klischee, dass Milliardäre mit Satellitenflotte Bond-Bösewichte sind. Am selben Tag, an dem Robert Pattinson 007 wird, stürzen Jeff Bezos 40 davon ab."
-    },
-    {
-      "id": "2026-11-17-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "Junge ohne Job gelten als faule Generation, Manager ohne Job als Verwaltungsrat",
-      "plattform": "Instagram + Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Junge ohne Job gelten als «faule Generation». Manager ohne Job gelten als «Verwaltungsrat»."
+      "format": "frei",
+      "text": "Rüstungskonzerne feiern ihre Rekordgewinne an der Generalversammlung mit Champagner. Bestatter*innen verdienen am selben Geschäft und tragen dabei wenigstens Schwarz.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-17-0757-12",
@@ -51,7 +101,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 16,
-      "text": "Beim Cookie-Banner ist «Alle akzeptieren» ein grosser grüner Knopf, «Ablehnen» liegt hinter drei Menüs. Das Migrationsamt hat dieselbe Agentur engagiert, nur mit vertauschten Knöpfen."
+      "text": "Beim Cookie-Banner ist «Alle akzeptieren» ein grosser grüner Knopf, «Ablehnen» liegt hinter drei Menüs. Das Migrationsamt hat dieselbe Agentur engagiert, nur mit vertauschten Knöpfen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
     },
     {
       "id": "2026-11-17-0757-21",
@@ -61,7 +116,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Pflegende werden in Basel immer öfter geschlagen. Angehörige so: Wir zahlen schliesslich Prämien."
+      "text": "Pflegende werden in Basel immer öfter geschlagen. Angehörige so: Wir zahlen schliesslich Prämien.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
     },
     {
       "id": "2026-11-17-0757-22",
@@ -71,37 +131,27 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "SVP-Plakate gegen mehr Mehrwertsteuer für die AHV hängen jetzt auf Kuhweiden. Beste Lage, steuerfinanziert, pro Hektare."
+      "text": "SVP-Plakate gegen mehr Mehrwertsteuer für die AHV hängen jetzt auf Kuhweiden. Beste Lage, steuerfinanziert, pro Hektare.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
     },
     {
-      "id": "2026-11-17-0757-23",
+      "id": "2026-11-17-0757-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Guatemala schickt Soldaten gegen die Kartelle, Frankreich fischt 146 Kilo Kokain aus dem Atlantik, die Kundschaft sitzt im Verwaltungsrat",
+      "stichwort": "Ukraine trifft die Krim-Brücke, gespielte Empörung über die ukrainische Eskalation, die Brücke steht aber im eigenen Land",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Am selben Tag schickt Guatemala Soldaten gegen die Kartelle und Frankreich fischt 146 Kilo Kokain aus dem Atlantik. Die Kundschaft sitzt derweil im Verwaltungsrat, mit Spesenkonto."
-    },
-    {
-      "id": "2026-11-17-0757-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neid auf die Dividende, die im Jahr der Kurzarbeit sicherer ist als jede Stelle",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Einmal so sicher sein wie eine Dividende im Jahr der Kurzarbeit."
-    },
-    {
-      "id": "2026-11-17-0757-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rückkehr-ins-Büro-Pflicht wegen Teamgeist, unterschrieben aus dem Chalet in Gstaad",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Zurück ins Büro, schreibt die Geschäftsleitung, Teamgeist entsteht nur vor Ort. Gezeichnet aus dem Chalet in Gstaad, per Zoom, mit Skipass."
+      "text": "Furchtbar, diese ukrainische Eskalation. Greift einfach die Krim-Brücke an, mitten im eigenen Land.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
