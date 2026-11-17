@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-17",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -22,6 +22,36 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Beim Cookie-Banner ist «Alle akzeptieren» ein grosser grüner Knopf, «Ablehnen» liegt hinter drei Menüs. Das Migrationsamt hat dieselbe Agentur engagiert, nur mit vertauschten Knöpfen."
+    },
+    {
+      "id": "2026-11-17-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mehr Gewalt gegen Spitalpersonal in Basel, auch durch Angehörige: Angehörige so, wir zahlen schliesslich Prämien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Pflegende werden in Basel immer öfter geschlagen. Angehörige so: Wir zahlen schliesslich Prämien."
+    },
+    {
+      "id": "2026-11-17-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "SVP-Nein-Plakate gegen die AHV-Mehrwertsteuer auf Kuhweiden, obwohl der Bauernverband Ja sagt: die Werbefläche ist pro Hektare subventioniert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "SVP-Plakate gegen mehr Mehrwertsteuer für die AHV hängen jetzt auf Kuhweiden. Beste Lage, steuerfinanziert, pro Hektare."
+    },
+    {
+      "id": "2026-11-17-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Guatemala schickt Soldaten gegen die Kartelle, Frankreich fischt 146 Kilo Kokain aus dem Atlantik, die Kundschaft sitzt im Verwaltungsrat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Am selben Tag schickt Guatemala Soldaten gegen die Kartelle und Frankreich fischt 146 Kilo Kokain aus dem Atlantik. Die Kundschaft sitzt derweil im Verwaltungsrat, mit Spesenkonto."
     }
   ]
 }
