@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-17",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,46 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Am selben Tag schickt Guatemala Soldaten gegen die Kartelle und Frankreich fischt 146 Kilo Kokain aus dem Atlantik. Die Kundschaft sitzt derweil im Verwaltungsrat, mit Spesenkonto."
+    },
+    {
+      "id": "2026-11-17-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf die Dividende, die im Jahr der Kurzarbeit sicherer ist als jede Stelle",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so sicher sein wie eine Dividende im Jahr der Kurzarbeit."
+    },
+    {
+      "id": "2026-11-17-0757-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rückkehr-ins-Büro-Pflicht wegen Teamgeist, unterschrieben aus dem Chalet in Gstaad",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Zurück ins Büro, schreibt die Geschäftsleitung, Teamgeist entsteht nur vor Ort. Gezeichnet aus dem Chalet in Gstaad, per Zoom, mit Skipass."
+    },
+    {
+      "id": "2026-11-17-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuerfreie Aktiengewinne gegen versteuerten Putzlohn, Frage an die Partei der Leistung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, Aktiengewinne sind steuerfrei, der Lohn der Putzkraft nicht? Frage für die Partei, nach der sich Leistung lohnen muss."
+    },
+    {
+      "id": "2026-11-17-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pfandflaschensammler und Rüstungsaktionär*innen leben beide von dem, was andere wegwerfen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer Pfandflaschen aus dem Abfall holt, lebt von dem, was andere wegwerfen. Rüstungsaktionär*innen auch, nur wirft man dort Bomben."
     }
   ]
 }
