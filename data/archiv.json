@@ -24357,6 +24357,134 @@
         "neu": false
       },
       "datum": "2026-11-16"
+    },
+    {
+      "id": "2026-11-17-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mehr Gewalt gegen Pflegende in Basler Spitälern, oft durch Angehörige und Besuchende: der Applaus vom Balkon kommt jetzt persönlich vorbei",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Gewalt gegen Pflegende in Basler Spitälern nimmt zu, oft durch Besuchende. Geklatscht wird nicht mehr vom Balkon, sondern persönlich, Blumen in der anderen Hand.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "SVP-Nein-Plakate gegen die AHV-Mehrwertsteuer auf Kuhweiden, obwohl der Bauernverband Ja sagt: endlich eine Basis, die nur wiederkäut",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Nein-Plakate der SVP zur AHV hängen auf Kuhweiden. Endlich eine Basis, die nur wiederkäut.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Guatemala schickt das Militär gegen die Kartelle, Frankreich stoppt einen Kokain-Halbtaucher im Atlantik, gleiche Woche am Paradeplatz: Kundschaft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Guatemala schickt das Militär gegen die Kartelle, Frankreich fischt einen Halbtaucher voller Kokain aus dem Atlantik. Gleiche Woche am Zürcher Paradeplatz: Kundschaft.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zweiter ukrainischer Angriff auf die Krim-Brücke, die Angst der Eskalationswarner ernst genommen: die Ukraine greift mitten auf ihrem eigenen Staatsgebiet an",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor Eskalation: die Ukraine greift die Krim-Brücke an, mitten auf ihrem Staatsgebiet.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Prinz William spielt in Mumbai Strassencricket mit Einheimischen, gespielte Bewunderung für so viel Volksnähe der Familie, die das Spiel einst mitgebracht hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Prinz William ist wahnsinnig volksnah: in Mumbai spielt er mit Einheimischen Strassencricket. Diesmal sogar, ohne das Land mitzunehmen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-0757-12",
+      "typ": "politisch-aktuell",
+      "stichwort": "Cookie-Banner: Akzeptieren ist ein grüner Knopf, Ablehnen versteckt, das Migrationsamt hat dieselbe Agentur mit vertauschten Knöpfen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Beim Cookie-Banner ist «Alle akzeptieren» ein grosser grüner Knopf, «Ablehnen» liegt hinter drei Menüs. Das Migrationsamt hat dieselbe Agentur engagiert, nur mit vertauschten Knöpfen.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Robert Pattinson wird James Bond, gespielte Erleichterung, dass der Staatsdiener mit Lizenz zum Töten nicht woke wird",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Puh, Robert Pattinson wird James Bond. Hatte schon Angst, der Staatsdiener, der Frauen abschleppt und ohne Prozess Leute erschiesst, werde am Ende woke.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuerfreie Aktiengewinne gegen versteuerten Putzlohn, Frage an die Partei der Leistung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, Aktiengewinne sind steuerfrei, der Lohn der Putzkraft nicht? Frage für die Partei, nach der sich Leistung lohnen muss.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      },
+      "datum": "2026-11-17"
     }
   ]
 }
