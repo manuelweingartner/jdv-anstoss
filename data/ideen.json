@@ -4,14 +4,49 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-11-17-2016-04",
+      "id": "2026-11-17-2016-01",
       "typ": "politisch-aktuell",
-      "stichwort": "Deutsche wandern weiter am liebsten in die Schweiz aus, gespielte Zustimmung zur Zuwanderungsangst, das SVP-Plakat bleibt beim schwarzen Schaf",
+      "stichwort": "Trump droht Iran nach mutmasslichem Anschlagsplan und sagt «Sie sind einfach verrückt», dazu gespielter Respekt vor der Fachmeinung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump über die iranische Führung: «Sie sind einfach verrückt.» Endlich ein Gutachten vom Fachmann.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-17-2016-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Microsoft-Ausfall und Datenleak der Deutschen Bank am selben Tag, zwei Datenpannen in entgegengesetzter Richtung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gleicher Tag, zwei Datenpannen: Bei Microsoft kommt weltweit niemand mehr an seine Daten, bei der Deutschen Bank sieht plötzlich jeder ihre Kundschaft.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-17-2016-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "WEF tagt in Kairo, al-Sisi kündigt Reformen an, WEF als begeisterter Gastgeber eines Regimes mit politischen Gefangenen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, die Zuwanderung ist ausser Kontrolle: Deutsche wandern am liebsten in die Schweiz aus. Trotzdem zeigt das SVP-Plakat weiterhin das schwarze Schaf, nie ein blondes."
+      "text": "Ägypten hat Zehntausende politische Gefangene. WEF so: spannende Reformen, tolles Investitionsklima, Panel am Nachmittag: Bremsen Menschenrechte das Wachstum?",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-17-2016-05",
@@ -21,7 +56,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Die USA sind nicht mehr masernfrei, und vielleicht hatten die Impfgegner*innen doch recht: von Impfschäden hört man dort kaum noch etwas. Nur noch von Masern."
+      "text": "Die USA sind nicht mehr masernfrei, und vielleicht hatten die Impfgegner*innen doch recht: von Impfschäden hört man dort kaum noch etwas. Nur noch von Masern.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-17-2016-06",
@@ -31,17 +71,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Dürresommer ruiniert die Ernte. Habe Angst vor Klimaschutz, am Ende rettet der die Bauern."
-    },
-    {
-      "id": "2026-11-17-2016-07",
-      "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Vermieter*innen, die bei sinkendem Referenzzinssatz die Miete von sich aus gesenkt haben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Verzeichnis aller Vermieter*innen, die bei sinkendem Referenzzinssatz die Miete von sich aus gesenkt haben:\n-\n-\nWird laufend ergänzt."
+      "text": "Dürresommer ruiniert die Ernte. Habe Angst vor Klimaschutz, am Ende rettet der die Bauern.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
+      }
     },
     {
       "id": "2026-11-17-2016-08",
@@ -51,17 +86,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "In leeren Chalets in St. Moritz schaltet abends eine Zeitschaltuhr das Licht ein, damit es bewohnt aussieht. Die Pflegerin vom Spital pendelt aus Italien."
-    },
-    {
-      "id": "2026-11-17-2016-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Straflose Selbstanzeige für Steuerhinterziehung, gilt sie auch für die Avocado, die an der Migros-Kasse als Zwiebel gescannt wurde",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wer Millionen am Steueramt vorbeischleust, darf sich einmal straflos selbst anzeigen. Gilt das auch für die Avocado, die an der Migros-Kasse als Zwiebel durchging?"
+      "text": "In leeren Chalets in St. Moritz schaltet abends eine Zeitschaltuhr das Licht ein, damit es bewohnt aussieht. Die Pflegerin vom Spital pendelt aus Italien.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-17-2016-10",
@@ -71,37 +101,57 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 3,
-      "text": "Enteignung, warnt der Hauseigentümerverband. Gemeint ist, dass Mieten künftig dem geltenden Gesetz entsprechen sollen."
+      "text": "Enteignung, warnt der Hauseigentümerverband. Gemeint ist, dass Mieten künftig dem geltenden Gesetz entsprechen sollen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-17-2016-21",
+      "id": "2026-11-17-2016-24",
       "typ": "politisch-aktuell",
-      "stichwort": "Trump nennt den Iran nach dem mutmasslichen Anschlagsplan «einfach verrückt», Urteil vom Fachmann",
+      "stichwort": "Bundeszahlen zum Dürresommer in der Landwirtschaft, gespielte Zustimmung, dass die grösste Gefahr für die Bauern die Klimakleber sind",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
+      "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Trump nennt den Iran «einfach verrückt». Endlich mal ein Gutachten vom Fachmann."
+      "text": "Erste Bundeszahlen zeigen, wie hart der Dürresommer die Bauern getroffen hat. Stimmt aber schon, die grösste Gefahr für die Landwirtschaft sind die Klimakleber. Hardbrücke, Morgenverkehr, Totalschaden.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-11-17-2016-23",
+      "id": "2026-11-17-2016-25",
       "typ": "politisch-aktuell",
-      "stichwort": "Thunfisch in Basel sieht frischer aus, als er ist, am selben Tag wirbt al-Sisi am WEF in Kairo mit Reformen",
+      "stichwort": "Schweiz bleibt Auswanderungsziel Nummer eins der Deutschen, die Angst vor Zuwanderung ernst genommen",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "In Basel wird Thunfisch verkauft, der frischer aussieht, als er ist. Am selben Tag wirbt al-Sisi am WEF in Kairo mit Reformen. Gleiches Rezept, grössere Fische."
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Deutsche wandern am liebsten in die Schweiz aus. Furchtbar, am Ende operiert mich einer.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-11-17-2016-31",
-      "typ": "schnittmenge",
-      "stichwort": "Gelber Teams-Status im Homeoffice gegen den Verwaltungsrat, der ein Jahr verschläft und trotzdem entlastet wird",
+      "id": "2026-11-17-2016-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pendlerzug: stehen im Gang alle, die die Wirtschaft tragen, sitzen in der ersten Klasse tut sie selbst",
       "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "mittel",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Wer im Homeoffice zehn Minuten weg ist, wird am gelben Teams-Status ertappt. Wer im Verwaltungsrat ein Jahr verschläft, wird entlastet."
+      "format": "frei",
+      "text": "Im Pendlerzug steht, wer die Wirtschaft trägt. In der ersten Klasse sitzt sie.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      }
     }
   ]
 }
