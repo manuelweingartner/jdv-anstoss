@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-17",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "7 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Dürresommer ruiniert die Ernte. Habe Angst vor Klimaschutz, am Ende rettet der die Bauern."
+    },
+    {
+      "id": "2026-11-17-2016-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump nennt den Iran nach dem mutmasslichen Anschlagsplan «einfach verrückt», Urteil vom Fachmann",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump nennt den Iran «einfach verrückt». Endlich mal ein Gutachten vom Fachmann."
+    },
+    {
+      "id": "2026-11-17-2016-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Thunfisch in Basel sieht frischer aus, als er ist, am selben Tag wirbt al-Sisi am WEF in Kairo mit Reformen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "In Basel wird Thunfisch verkauft, der frischer aussieht, als er ist. Am selben Tag wirbt al-Sisi am WEF in Kairo mit Reformen. Gleiches Rezept, grössere Fische."
     },
     {
       "id": "2026-11-17-2016-31",
