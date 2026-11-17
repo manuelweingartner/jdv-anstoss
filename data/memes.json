@@ -1,46 +1,46 @@
 {
-  "stand": "2026-11-16T08:02:35+01:00",
+  "stand": "2026-11-17T08:01:37+01:00",
   "vorschlaege": [
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Plan B heisst auch Microsoft"
+        "Meta klaut deine Fotos",
+        "Zugriff ohne gesonderte Zustimmung"
       ],
-      "warum": "der Weckruf nach dem Ausfall ist so oft gekommen, dass niemand mehr widersprechen kann",
+      "warum": "Die Pointe ist das Juristendeutsch, mit dem Meta den Griff in die Galerie verpackt.",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Quartalsbonus 2026",
-        "Verschlüsselung bis 2030 erneuern",
-        "Schweizer Finanzplatz"
+        "Oktoberrennen auf dem Gletscher",
+        "Weltcup ans Klima anpassen",
+        "FIS"
       ],
-      "warum": "die Branche biegt im letzten Moment zum kurzfristigen Gewinn ab, obwohl die Frist bis 2030 läuft",
+      "warum": "Die FIS reisst das Steuer herum, während die eigenen Stars den vernünftigen Weg zeigen.",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Schweizer Exportkontrolle",
-        "neutral, streng, lückenlos",
-        "Schweizer Munition",
-        "über Umwege in Russland"
+        "Mercedes 1990",
+        "Das Beste oder nichts",
+        "Mercedes 2026",
+        "Zwei Werke zu viel"
       ],
-      "warum": "der behauptete Ruf der Neutralität trifft auf den Rechercheweg der Munition",
+      "warum": "Der Slogan von früher steht direkt neben den Schliessungsplänen von heute.",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "Fotos ohne Erlaubnis nehmen",
-        "Funktion zur Inhaltsoptimierung"
+        "Der Bund hat keinen Plan B"
       ],
-      "warum": "die 805 Millionen Strafe gibt es für genau den Euphemismus, mit dem Meta das verpackt",
+      "warum": "Nach dem Microsoft-Ausfall glaubt niemand mehr an einen Plan B, also kann keiner widersprechen.",
       "bild": "vorschlag-4.jpg"
     }
   ]
