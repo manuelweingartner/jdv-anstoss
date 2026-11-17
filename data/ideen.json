@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-17",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-17-2016-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Deutsche wandern weiter am liebsten in die Schweiz aus, gespielte Zustimmung zur Zuwanderungsangst, das SVP-Plakat bleibt beim schwarzen Schaf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, die Zuwanderung ist ausser Kontrolle: Deutsche wandern am liebsten in die Schweiz aus. Trotzdem zeigt das SVP-Plakat weiterhin das schwarze Schaf, nie ein blondes."
+    },
+    {
+      "id": "2026-11-17-2016-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "USA nicht mehr masernfrei, die Impfgegner*innen ernst genommen: Impfschäden hört man keine mehr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die USA sind nicht mehr masernfrei, und vielleicht hatten die Impfgegner*innen doch recht: von Impfschäden hört man dort kaum noch etwas. Nur noch von Masern."
+    },
+    {
+      "id": "2026-11-17-2016-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Dürresommer ruiniert die Ernte, die Angst vor Klimaschutz ernst genommen: der würde am Ende die Bauern retten",
+      "plattform": "Instagram + Threads",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Dürresommer ruiniert die Ernte. Habe Angst vor Klimaschutz, am Ende rettet der die Bauern."
+    },
     {
       "id": "2026-11-17-2016-31",
       "typ": "schnittmenge",
