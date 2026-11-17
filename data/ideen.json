@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-17",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -49,6 +49,21 @@
       }
     },
     {
+      "id": "2026-11-17-2016-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Deutsche wandern weiter am liebsten in die Schweiz aus, gespielte Zustimmung zur Zuwanderungsangst, das SVP-Plakat bleibt beim schwarzen Schaf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, die Zuwanderung ist ausser Kontrolle: Deutsche wandern am liebsten in die Schweiz aus. Trotzdem zeigt das SVP-Plakat weiterhin das schwarze Schaf, nie ein blondes.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": false
+      }
+    },
+    {
       "id": "2026-11-17-2016-05",
       "typ": "politisch-aktuell",
       "stichwort": "USA nicht mehr masernfrei, die Impfgegner*innen ernst genommen: Impfschäden hört man keine mehr",
@@ -61,21 +76,6 @@
         "anker": true,
         "neu": false,
         "witz": true
-      }
-    },
-    {
-      "id": "2026-11-17-2016-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Dürresommer ruiniert die Ernte, die Angst vor Klimaschutz ernst genommen: der würde am Ende die Bauern retten",
-      "plattform": "Instagram + Threads",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Dürresommer ruiniert die Ernte. Habe Angst vor Klimaschutz, am Ende rettet der die Bauern.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
       }
     },
     {
@@ -94,6 +94,21 @@
       }
     },
     {
+      "id": "2026-11-17-2016-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Straflose Selbstanzeige für Steuerhinterziehung, gilt sie auch für die Avocado, die an der Migros-Kasse als Zwiebel gescannt wurde",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer Millionen am Steueramt vorbeischleust, darf sich einmal straflos selbst anzeigen. Gilt das auch für die Avocado, die an der Migros-Kasse als Zwiebel durchging?",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": false
+      }
+    },
+    {
       "id": "2026-11-17-2016-10",
       "typ": "politisch-aktuell",
       "stichwort": "Hauseigentümerverband warnt vor Enteignung, gemeint sind Mieten nach geltendem Gesetz",
@@ -106,36 +121,6 @@
         "anker": true,
         "witz": true,
         "neu": true
-      }
-    },
-    {
-      "id": "2026-11-17-2016-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bundeszahlen zum Dürresommer in der Landwirtschaft, gespielte Zustimmung, dass die grösste Gefahr für die Bauern die Klimakleber sind",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Erste Bundeszahlen zeigen, wie hart der Dürresommer die Bauern getroffen hat. Stimmt aber schon, die grösste Gefahr für die Landwirtschaft sind die Klimakleber. Hardbrücke, Morgenverkehr, Totalschaden.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-17-2016-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schweiz bleibt Auswanderungsziel Nummer eins der Deutschen, die Angst vor Zuwanderung ernst genommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Deutsche wandern am liebsten in die Schweiz aus. Furchtbar, am Ende operiert mich einer.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
       }
     },
     {
