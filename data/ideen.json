@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-17",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-17-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zweiter ukrainischer Angriff auf die Krim-Brücke, die Angst der Eskalationswarner ernst genommen: die Ukraine greift mitten auf ihrem eigenen Staatsgebiet an",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor Eskalation: die Ukraine greift die Krim-Brücke an, mitten auf ihrem Staatsgebiet."
+    },
+    {
+      "id": "2026-11-17-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Prinz William spielt in Mumbai Strassencricket mit Einheimischen, gespielte Bewunderung für so viel Volksnähe der Familie, die das Spiel einst mitgebracht hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, Prinz William ist wahnsinnig volksnah: in Mumbai spielt er mit Einheimischen Strassencricket. Diesmal sogar, ohne das Land mitzunehmen."
+    },
+    {
+      "id": "2026-11-17-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Robert Pattinson wird James Bond, am selben Tag verfehlen Amazon-Satelliten von Bezos die Umlaufbahn: der Milliardär als Bond-Bösewicht ist doch nur ein linkes Klischee",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ist ein linkes Klischee, dass Milliardäre mit Satellitenflotte Bond-Bösewichte sind. Am selben Tag, an dem Robert Pattinson 007 wird, stürzen Jeff Bezos 40 davon ab."
+    },
     {
       "id": "2026-11-17-0757-11",
       "typ": "schnittmenge",
@@ -72,26 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Zurück ins Büro, schreibt die Geschäftsleitung, Teamgeist entsteht nur vor Ort. Gezeichnet aus dem Chalet in Gstaad, per Zoom, mit Skipass."
-    },
-    {
-      "id": "2026-11-17-0757-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Steuerfreie Aktiengewinne gegen versteuerten Putzlohn, Frage an die Partei der Leistung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seh ich das richtig, Aktiengewinne sind steuerfrei, der Lohn der Putzkraft nicht? Frage für die Partei, nach der sich Leistung lohnen muss."
-    },
-    {
-      "id": "2026-11-17-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pfandflaschensammler und Rüstungsaktionär*innen leben beide von dem, was andere wegwerfen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wer Pfandflaschen aus dem Abfall holt, lebt von dem, was andere wegwerfen. Rüstungsaktionär*innen auch, nur wirft man dort Bomben."
     }
   ]
 }
