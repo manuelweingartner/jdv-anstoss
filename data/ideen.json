@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-17",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -79,21 +79,6 @@
       }
     },
     {
-      "id": "2026-11-17-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Rüstungskonzerne feiern Rekordgewinne mit Champagner, Bestatter*innen verdienen am selben Geschäft und tragen wenigstens Schwarz",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Rüstungskonzerne feiern ihre Rekordgewinne an der Generalversammlung mit Champagner. Bestatter*innen verdienen am selben Geschäft und tragen dabei wenigstens Schwarz.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
       "id": "2026-11-17-0757-12",
       "typ": "politisch-aktuell",
       "stichwort": "Cookie-Banner: Akzeptieren ist ein grüner Knopf, Ablehnen versteckt, das Migrationsamt hat dieselbe Agentur mit vertauschten Knöpfen",
@@ -109,48 +94,33 @@
       }
     },
     {
-      "id": "2026-11-17-0757-21",
+      "id": "2026-11-17-0757-26",
       "typ": "politisch-aktuell",
-      "stichwort": "Mehr Gewalt gegen Spitalpersonal in Basel, auch durch Angehörige: Angehörige so, wir zahlen schliesslich Prämien",
+      "stichwort": "Robert Pattinson wird James Bond, gespielte Erleichterung, dass der Staatsdiener mit Lizenz zum Töten nicht woke wird",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Pflegende werden in Basel immer öfter geschlagen. Angehörige so: Wir zahlen schliesslich Prämien.",
+      "text": "Puh, Robert Pattinson wird James Bond. Hatte schon Angst, der Staatsdiener, der Frauen abschleppt und ohne Prozess Leute erschiesst, werde am Ende woke.",
       "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-11-17-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "SVP-Nein-Plakate gegen die AHV-Mehrwertsteuer auf Kuhweiden, obwohl der Bauernverband Ja sagt: die Werbefläche ist pro Hektare subventioniert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "SVP-Plakate gegen mehr Mehrwertsteuer für die AHV hängen jetzt auf Kuhweiden. Beste Lage, steuerfinanziert, pro Hektare.",
-      "jury": {
-        "anker": true,
-        "neu": true,
-        "witz": false
-      }
-    },
-    {
-      "id": "2026-11-17-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ukraine trifft die Krim-Brücke, gespielte Empörung über die ukrainische Eskalation, die Brücke steht aber im eigenen Land",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Furchtbar, diese ukrainische Eskalation. Greift einfach die Krim-Brücke an, mitten im eigenen Land.",
-      "jury": {
-        "witz": true,
+        "witz": false,
         "anker": true,
         "neu": true
+      }
+    },
+    {
+      "id": "2026-11-17-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Steuerfreie Aktiengewinne gegen versteuerten Putzlohn, Frage an die Partei der Leistung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, Aktiengewinne sind steuerfrei, der Lohn der Putzkraft nicht? Frage für die Partei, nach der sich Leistung lohnen muss.",
+      "jury": {
+        "anker": true,
+        "neu": true,
+        "witz": false
       }
     }
   ]
