@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-17",
-  "hinweis": "7 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -34,6 +34,46 @@
       "text": "Dürresommer ruiniert die Ernte. Habe Angst vor Klimaschutz, am Ende rettet der die Bauern."
     },
     {
+      "id": "2026-11-17-2016-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Vermieter*innen, die bei sinkendem Referenzzinssatz die Miete von sich aus gesenkt haben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Verzeichnis aller Vermieter*innen, die bei sinkendem Referenzzinssatz die Miete von sich aus gesenkt haben:\n-\n-\nWird laufend ergänzt."
+    },
+    {
+      "id": "2026-11-17-2016-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zeitschaltuhr in leeren Chalets in St. Moritz, die Pflegerin vom Spital pendelt aus Italien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "In leeren Chalets in St. Moritz schaltet abends eine Zeitschaltuhr das Licht ein, damit es bewohnt aussieht. Die Pflegerin vom Spital pendelt aus Italien."
+    },
+    {
+      "id": "2026-11-17-2016-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Straflose Selbstanzeige für Steuerhinterziehung, gilt sie auch für die Avocado, die an der Migros-Kasse als Zwiebel gescannt wurde",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer Millionen am Steueramt vorbeischleust, darf sich einmal straflos selbst anzeigen. Gilt das auch für die Avocado, die an der Migros-Kasse als Zwiebel durchging?"
+    },
+    {
+      "id": "2026-11-17-2016-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hauseigentümerverband warnt vor Enteignung, gemeint sind Mieten nach geltendem Gesetz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Enteignung, warnt der Hauseigentümerverband. Gemeint ist, dass Mieten künftig dem geltenden Gesetz entsprechen sollen."
+    },
+    {
       "id": "2026-11-17-2016-21",
       "typ": "politisch-aktuell",
       "stichwort": "Trump nennt den Iran nach dem mutmasslichen Anschlagsplan «einfach verrückt», Urteil vom Fachmann",
@@ -62,16 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": 1,
       "text": "Wer im Homeoffice zehn Minuten weg ist, wird am gelben Teams-Status ertappt. Wer im Verwaltungsrat ein Jahr verschläft, wird entlastet."
-    },
-    {
-      "id": "2026-11-17-2016-32",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pendlerzug: stehen im Gang alle, die die Wirtschaft tragen, sitzen in der ersten Klasse tut sie selbst",
-      "plattform": "Threads + Bluesky + Instagram",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Im Pendlerzug steht, wer die Wirtschaft trägt. In der ersten Klasse sitzt sie."
     }
   ]
 }
