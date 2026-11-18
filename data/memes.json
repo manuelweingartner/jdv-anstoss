@@ -1,46 +1,46 @@
 {
-  "stand": "2026-11-17T08:01:37+01:00",
+  "stand": "2026-11-18T08:19:46+01:00",
   "vorschlaege": [
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Meta klaut deine Fotos",
-        "Zugriff ohne gesonderte Zustimmung"
+        "Oligarchengeld parkieren",
+        "Finanzplatz Schweiz"
       ],
-      "warum": "Die Pointe ist das Juristendeutsch, mit dem Meta den Griff in die Galerie verpackt.",
+      "warum": "Das Datenleck zur Deutschen Bank zeigt dieselbe Tätigkeit einmal schlicht und einmal mit dem Etikett, unter dem sie bei uns läuft.",
       "bild": "vorschlag-1.jpg"
-    },
-    {
-      "vorlage": "abzweigung",
-      "name": "Left Exit 12 Off Ramp",
-      "zeilen": [
-        "Oktoberrennen auf dem Gletscher",
-        "Weltcup ans Klima anpassen",
-        "FIS"
-      ],
-      "warum": "Die FIS reisst das Steuer herum, während die eigenen Stars den vernünftigen Weg zeigen.",
-      "bild": "vorschlag-2.jpg"
-    },
-    {
-      "vorlage": "doge",
-      "name": "Buff Doge vs. Cheems",
-      "zeilen": [
-        "Mercedes 1990",
-        "Das Beste oder nichts",
-        "Mercedes 2026",
-        "Zwei Werke zu viel"
-      ],
-      "warum": "Der Slogan von früher steht direkt neben den Schliessungsplänen von heute.",
-      "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Der Bund hat keinen Plan B"
+        "Ohne Microsoft steht Bundesbern still"
       ],
-      "warum": "Nach dem Microsoft-Ausfall glaubt niemand mehr an einen Plan B, also kann keiner widersprechen.",
+      "warum": "Nach dem weltweiten Ausfall braucht die These keine Begründung mehr, und widersprechen kann ihr niemand.",
+      "bild": "vorschlag-2.jpg"
+    },
+    {
+      "vorlage": "abzweigung",
+      "name": "Left Exit 12 Off Ramp",
+      "zeilen": [
+        "Jensen Huang zurückholen",
+        "Skandale aufarbeiten",
+        "Tech-Bros"
+      ],
+      "warum": "Die Aufarbeitung bei Nvidia beginnt gerade, da reisst das Umfeld von Huang schon das Steuer herum.",
+      "bild": "vorschlag-3.jpg"
+    },
+    {
+      "vorlage": "doge",
+      "name": "Buff Doge vs. Cheems",
+      "zeilen": [
+        "13. AHV-Rente",
+        "Klar angenommen",
+        "Finanzierung per MWST",
+        "Eher doch nicht"
+      ],
+      "warum": "Das starke Ja von damals steht neben dem Nein-Trend heute, sobald es ans Bezahlen geht.",
       "bild": "vorschlag-4.jpg"
     }
   ]
