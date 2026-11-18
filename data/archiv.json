@@ -24485,6 +24485,150 @@
         "witz": false
       },
       "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-2016-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trump droht Iran nach mutmasslichem Anschlagsplan und sagt «Sie sind einfach verrückt», dazu gespielter Respekt vor der Fachmeinung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Trump über die iranische Führung: «Sie sind einfach verrückt.» Endlich ein Gutachten vom Fachmann.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-2016-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Microsoft-Ausfall und Datenleak der Deutschen Bank am selben Tag, zwei Datenpannen in entgegengesetzter Richtung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Gleicher Tag, zwei Datenpannen: Bei Microsoft kommt weltweit niemand mehr an seine Daten, bei der Deutschen Bank sieht plötzlich jeder ihre Kundschaft.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": false
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-2016-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "WEF tagt in Kairo, al-Sisi kündigt Reformen an, WEF als begeisterter Gastgeber eines Regimes mit politischen Gefangenen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Ägypten hat Zehntausende politische Gefangene. WEF so: spannende Reformen, tolles Investitionsklima, Panel am Nachmittag: Bremsen Menschenrechte das Wachstum?",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-2016-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Deutsche wandern weiter am liebsten in die Schweiz aus, gespielte Zustimmung zur Zuwanderungsangst, das SVP-Plakat bleibt beim schwarzen Schaf",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, die Zuwanderung ist ausser Kontrolle: Deutsche wandern am liebsten in die Schweiz aus. Trotzdem zeigt das SVP-Plakat weiterhin das schwarze Schaf, nie ein blondes.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": false
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-2016-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "USA nicht mehr masernfrei, die Impfgegner*innen ernst genommen: Impfschäden hört man keine mehr",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Die USA sind nicht mehr masernfrei, und vielleicht hatten die Impfgegner*innen doch recht: von Impfschäden hört man dort kaum noch etwas. Nur noch von Masern.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-2016-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zeitschaltuhr in leeren Chalets in St. Moritz, die Pflegerin vom Spital pendelt aus Italien",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "In leeren Chalets in St. Moritz schaltet abends eine Zeitschaltuhr das Licht ein, damit es bewohnt aussieht. Die Pflegerin vom Spital pendelt aus Italien.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-2016-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Straflose Selbstanzeige für Steuerhinterziehung, gilt sie auch für die Avocado, die an der Migros-Kasse als Zwiebel gescannt wurde",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer Millionen am Steueramt vorbeischleust, darf sich einmal straflos selbst anzeigen. Gilt das auch für die Avocado, die an der Migros-Kasse als Zwiebel durchging?",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": false
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-2016-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Hauseigentümerverband warnt vor Enteignung, gemeint sind Mieten nach geltendem Gesetz",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 3,
+      "text": "Enteignung, warnt der Hauseigentümerverband. Gemeint ist, dass Mieten künftig dem geltenden Gesetz entsprechen sollen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-2016-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pendlerzug: stehen im Gang alle, die die Wirtschaft tragen, sitzen in der ersten Klasse tut sie selbst",
+      "plattform": "Threads + Bluesky + Instagram",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Im Pendlerzug steht, wer die Wirtschaft trägt. In der ersten Klasse sitzt sie.",
+      "jury": {
+        "anker": true,
+        "neu": false,
+        "witz": true
+      },
+      "datum": "2026-11-17"
     }
   ]
 }
