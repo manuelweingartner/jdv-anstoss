@@ -4,6 +4,51 @@
   "fertig": true,
   "ideen": [
     {
+      "id": "2026-11-18-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kim Jong Un posiert im Skiresort, sein Land hungert, die Erklärung ist seine Schulzeit in Bern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Kim Jong Un posiert im Skiresort, während sein Land hungert. Schulzeit in Bern halt.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-11-18-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Basler Thunfisch sieht frischer aus, als er ist, gleiche Woche wie das Oligarchen-Datenleck der Deutschen Bank: für Fisch gibt es ein Labor",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "In Basel fliegt Thunfisch auf, der frischer aussieht, als er ist, gleiche Woche wie das Oligarchen-Datenleck der Deutschen Bank. Für Fisch hat die Schweiz ein Labor.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-11-18-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Abstimmung über lockerere Waffenexporte am 29. November, leere Liste der Garantien, dass die Waffen nie in einem Krieg landen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Am 29. November entscheidet die Schweiz über lockerere Waffenexporte. Hier alle Garantien, dass die Waffen nie in einem Krieg landen:\n-\n-\nEhrenwort.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
       "id": "2026-11-18-0757-04",
       "typ": "politisch-aktuell",
       "stichwort": "Junger Ukrainer redet in einer Strassenumfrage perfekt Ostschweizerisch, die Angst vor der gelungenen Integration ernst genommen",
@@ -11,7 +56,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor dem jungen Ukrainer, der in einer Strassenumfrage perfekt Ostschweizerisch redet. Bald merkt man nur noch am Nachnamen, wen man nicht einbürgern will."
+      "text": "Habe Angst vor dem jungen Ukrainer, der in einer Strassenumfrage perfekt Ostschweizerisch redet. Bald merkt man nur noch am Nachnamen, wen man nicht einbürgern will.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-18-0757-05",
@@ -21,7 +71,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Entzaubern will man die AfD, indem man sie in Sachsen-Anhalt regieren lässt. Schwer zu sagen, was schlimmer wäre: dass sie es nicht kann oder dass sie es kann."
+      "text": "Entzaubern will man die AfD, indem man sie in Sachsen-Anhalt regieren lässt. Schwer zu sagen, was schlimmer wäre: dass sie es nicht kann oder dass sie es kann.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
       "id": "2026-11-18-0757-06",
@@ -31,77 +86,72 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, vom Klimawandel spürt man hier nichts. Mitte November 15 Grad, normales Novemberwetter. In Rom."
+      "text": "Stimmt, vom Klimawandel spürt man hier nichts. Mitte November 15 Grad, normales Novemberwetter. In Rom.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     },
     {
-      "id": "2026-11-18-0757-21",
+      "id": "2026-11-18-0757-07",
       "typ": "politisch-aktuell",
-      "stichwort": "Kim Jong Un im eigenen Skiresort mit leeren Pisten und Sonderregeln, in der Schweiz heisst dieses Modell Gstaad",
+      "stichwort": "Referenzzins: Mieterhöhung kommt eingeschrieben, Senkung muss man selbst einfordern",
       "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Kim Jong Un im eigenen Skiresort: leere Pisten, strammstehendes Personal, Regeln nur fürs Volk. In der Schweiz heisst das Gstaad."
-    },
-    {
-      "id": "2026-11-18-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Basel zieht Thunfisch aus dem Verkauf, der frischer aussah, als er war; gleiche Woche zeigt das Deutsche-Bank-Leak Oligarchengeld, das in der Schweiz sauberer aussieht",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Basel nimmt Thunfisch aus dem Verkauf, der frischer aussah, als er war. Gleiche Woche zeigt das Deutsche-Bank-Leak: Oligarchengeld, das sauberer aussieht, bleibt im Schweizer Regal."
-    },
-    {
-      "id": "2026-11-18-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Abstimmung Ende November: weniger Feuerwerk im Inland, lockerere Waffenexporte ins Ausland",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Schweiz stimmt ab: weniger Feuerwerk, mehr Waffenexporte. Hauptsache, es knallt woanders."
-    },
-    {
-      "id": "2026-11-18-0757-27",
-      "typ": "politisch-aktuell",
-      "stichwort": "«Lassen Sie Ihr Geld für sich arbeiten»: der einzige Angestellte, den nie jemand nach seinen Bemühungen fragt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "«Lassen Sie Ihr Geld für sich arbeiten», rät die Bankberaterin. Endlich ein Angestellter, den niemand fragt, ob er sich genug bemüht. Auch wenn er nur herumliegt."
-    },
-    {
-      "id": "2026-11-18-0757-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Erschöpfter Kadermann bekommt Sabbatical im Waldhaus Flims, Lagerist mit Grippe muss das Arztzeugnis persönlich abgeben",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Kadermann erschöpft, Firma so: Sabbatical, Coach, Wellness im Waldhaus Flims. Lagerist mit Grippe, Firma so: Arztzeugnis ab dem ersten Tag, persönlich abgeben."
-    },
-    {
-      "id": "2026-11-18-0757-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pensionskasse: Börsenverlust ist Pech, achtzig werden ist ein Langlebigkeitsrisiko",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seh ich das richtig, verliert die Pensionskasse an der Börse, ist das Pech, und werde ich achtzig, ist das ein Langlebigkeitsrisiko?"
-    },
-    {
-      "id": "2026-11-18-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Obergrenze für den Wolf ist Konsens, dieselbe Idee bei Vermögen heisst Enteignung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Für den Wolf gibt es eine Obergrenze. Für Vermögen heisst derselbe Gedanke Enteignung."
+      "text": "Steigt der Zins, kommt die Mieterhöhung eingeschrieben. Sinkt er, darf man die Senkung selbst beantragen, schriftlich und mit der Kündigung im Hinterkopf.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-11-18-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf den Picasso im Genfer Zollfreilager, der steuerfrei wohnt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so steuerfrei wohnen wie ein Picasso im Genfer Zollfreilager.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-11-18-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trickle-down als Hund unter dem Esstisch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Dass Steuersenkungen für Reiche irgendwann unten ankommen, stimmt sogar: so wie beim Hund unter dem Esstisch. Zufällig, in Krümeln, und nur fürs brave Sitzen.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
+    },
+    {
+      "id": "2026-11-18-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor Enteignung aus Sicht von Mieter*innen, denen nichts gehört",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe Angst vor Enteignung. Am Ende gehört meine Wohnung plötzlich jemand anderem, so wie seit dem Einzug.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      }
     }
   ]
 }
