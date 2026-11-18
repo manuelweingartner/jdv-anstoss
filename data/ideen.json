@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-18",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -64,24 +64,44 @@
       "text": "Schweiz stimmt ab: weniger Feuerwerk, mehr Waffenexporte. Hauptsache, es knallt woanders."
     },
     {
-      "id": "2026-11-18-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "Lehrling verschläft einmal und muss zum Gespräch, Verwaltungsrat verschläft ein Geschäftsjahr und bekommt «Entlastung»",
-      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
-      "schaerfe": "mittel",
+      "id": "2026-11-18-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "«Lassen Sie Ihr Geld für sich arbeiten»: der einzige Angestellte, den nie jemand nach seinen Bemühungen fragt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Lehrling verschläft einmal: Gespräch bei HR. Verwaltungsrat verschläft ein ganzes Geschäftsjahr: «Entlastung», mit Applaus."
+      "format": 17,
+      "text": "«Lassen Sie Ihr Geld für sich arbeiten», rät die Bankberaterin. Endlich ein Angestellter, den niemand fragt, ob er sich genug bemüht. Auch wenn er nur herumliegt."
     },
     {
-      "id": "2026-11-18-0757-32",
+      "id": "2026-11-18-0757-28",
       "typ": "politisch-aktuell",
-      "stichwort": "Captcha mit Ampelfotos als Beweis fürs Menschsein, an Europas Aussengrenze reicht das nicht",
+      "stichwort": "Erschöpfter Kadermann bekommt Sabbatical im Waldhaus Flims, Lagerist mit Grippe muss das Arztzeugnis persönlich abgeben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Kadermann erschöpft, Firma so: Sabbatical, Coach, Wellness im Waldhaus Flims. Lagerist mit Grippe, Firma so: Arztzeugnis ab dem ersten Tag, persönlich abgeben."
+    },
+    {
+      "id": "2026-11-18-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pensionskasse: Börsenverlust ist Pech, achtzig werden ist ein Langlebigkeitsrisiko",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, verliert die Pensionskasse an der Börse, ist das Pech, und werde ich achtzig, ist das ein Langlebigkeitsrisiko?"
+    },
+    {
+      "id": "2026-11-18-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Obergrenze für den Wolf ist Konsens, dieselbe Idee bei Vermögen heisst Enteignung",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Im Netz beweist man mit ein paar Fotos von Ampeln, dass man ein Mensch ist. An Europas Aussengrenze reicht das nicht, auch mit Zebrastreifen nicht."
+      "format": 1,
+      "text": "Für den Wolf gibt es eine Obergrenze. Für Vermögen heisst derselbe Gedanke Enteignung."
     }
   ]
 }
