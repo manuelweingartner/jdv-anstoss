@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-18",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Stimmt, vom Klimawandel spürt man hier nichts. Mitte November 15 Grad, normales Novemberwetter. In Rom."
+    },
+    {
+      "id": "2026-11-18-0757-31",
+      "typ": "schnittmenge",
+      "stichwort": "Lehrling verschläft einmal und muss zum Gespräch, Verwaltungsrat verschläft ein Geschäftsjahr und bekommt «Entlastung»",
+      "plattform": "Instagram-Textgrafik + Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Lehrling verschläft einmal: Gespräch bei HR. Verwaltungsrat verschläft ein ganzes Geschäftsjahr: «Entlastung», mit Applaus."
+    },
+    {
+      "id": "2026-11-18-0757-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Captcha mit Ampelfotos als Beweis fürs Menschsein, an Europas Aussengrenze reicht das nicht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Im Netz beweist man mit ein paar Fotos von Ampeln, dass man ein Mensch ist. An Europas Aussengrenze reicht das nicht, auch mit Zebrastreifen nicht."
     }
   ]
 }
