@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-18",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Stimmt, vom Klimawandel spürt man hier nichts. Mitte November 15 Grad, normales Novemberwetter. In Rom."
+    },
+    {
+      "id": "2026-11-18-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kim Jong Un im eigenen Skiresort mit leeren Pisten und Sonderregeln, in der Schweiz heisst dieses Modell Gstaad",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Kim Jong Un im eigenen Skiresort: leere Pisten, strammstehendes Personal, Regeln nur fürs Volk. In der Schweiz heisst das Gstaad."
+    },
+    {
+      "id": "2026-11-18-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Basel zieht Thunfisch aus dem Verkauf, der frischer aussah, als er war; gleiche Woche zeigt das Deutsche-Bank-Leak Oligarchengeld, das in der Schweiz sauberer aussieht",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Basel nimmt Thunfisch aus dem Verkauf, der frischer aussah, als er war. Gleiche Woche zeigt das Deutsche-Bank-Leak: Oligarchengeld, das sauberer aussieht, bleibt im Schweizer Regal."
+    },
+    {
+      "id": "2026-11-18-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Abstimmung Ende November: weniger Feuerwerk im Inland, lockerere Waffenexporte ins Ausland",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Schweiz stimmt ab: weniger Feuerwerk, mehr Waffenexporte. Hauptsache, es knallt woanders."
     },
     {
       "id": "2026-11-18-0757-31",
