@@ -1,56 +1,57 @@
 {
-  "stand": "2026-11-18T08:19:07+01:00",
-  "lauf": "0818",
+  "stand": "2026-11-18T17:00:31+01:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0818-1",
-      "titel": "Treffen von Trump, Xi und Putin: Rüstung, KI - und ein heikles Thema",
-      "was": "Trump, Xi und Putin beim Handschlag vor APEC-Kulisse in Shenzhen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Ein Gipfel, der Weltordnung heissen soll, gegen ein Bild, das wie ein Klassentreffen der Alleinherrscher aussieht.",
+      "id": "1700-1",
+      "titel": "BILDSTRECKE - Grosse Bühne in Shenzhen: Der Apec-Gipfel in China ist eröffnet",
+      "was": "Xi umarmt Trump am Flughafen, Putin daneben auf der Gipfelbühne",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Herzliche Umarmung vor der Kamera gegen das Frühstück, das der Gastgeber vorher mit dem anderen hatte.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Tagesschau",
+      "quelle": "NZZ",
       "auch_bei": [
-        "NZZ"
+        "SRF",
+        "Tagesschau",
+        "taz"
       ],
-      "artikel": "https://www.tagesschau.de/ausland/asien/apec-trump-putin-xi-100.html",
-      "bild": "https://images.tagesschau.de/image/cbb4aea2-bb4f-4ee9-85e9-120d18234ece/AAABoelldUM/AAABnSSvrFg/16x9-big/banner-apec-100.jpg?width=1280",
-      "zeit": "2026-11-18T06:17+01:00"
+      "artikel": "https://www.nzz.ch/fotografie/grosse-buehne-in-shenzhen-der-apec-gipfel-in-china-ist-eroeffnet-ld.10067500",
+      "bild": "https://img-msp-prod.nzz.ch/2026/11/18/501ddbe0-c36b-4323-acf2-ae827b79f219.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2929,2929,x1645,y324",
+      "zeit": "2026-11-18T14:50+01:00"
     },
     {
-      "id": "0818-2",
-      "titel": "Koalition einigt sich auf Senkung der Stromsteuer und Spritpreisdeckel",
-      "was": "Übermüdete Merz, Klingbeil und Söder verlassen nachts das Kanzleramt",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Eine Nachtsitzung bis zwei Uhr gegen eine Entlastung, die nur für ein Jahr finanziert ist.",
+      "id": "1700-2",
+      "titel": "Stromsteuer runter, Spritpreisdeckel ab 2027 – das bringen Ihnen die neuen Entlastungen",
+      "was": "Merz und Klingbeil übernächtigt vor Mikrofonen nach dem Koalitionsausschuss",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Acht Stunden Nachtsitzung und eine angekündigte Schicksalsfrage gegen eine Entlastung, die man auf der Stromrechnung kaum findet.",
       "grund": "breit",
       "raum": "",
       "quelle": "Spiegel",
       "auch_bei": [
-        "Tagesschau",
-        "taz"
+        "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/9cd383c6-f0c0-4c6c-95c7-2e5945b92c60_w520_r2.08_fpx66.51_fpy49.99.jpg",
-      "zeit": "2026-11-18T07:37+01:00"
+      "artikel": "https://www.spiegel.de/wirtschaft/soziales/stromsteuer-runter-spritpreisdeckel-ab-2027-das-bringen-ihnen-die-neuen-entlastungen-a-7a13da31-0fe1-40ea-a60c-457fef341154#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/7a371569-87ec-45c8-a05a-be759fba0819_w520_r2.08_fpx69.98_fpy44.99.jpg",
+      "zeit": "2026-11-18T15:01+01:00"
     },
     {
-      "id": "0818-3",
-      "titel": "Die SVP und ihre Findungskommission: Ein SVP-All-Star-Team durchleuchtet die acht Bundesratskandidaten",
-      "was": "Ältere SVP-Grössen im Sitzungszimmer, Caspar Baader am Kopfende",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Eine Findungskommission, die Erneuerung sucht, gegen ein Gremium, das selbst aus der Vergangenheit stammt.",
+      "id": "1700-3",
+      "titel": "Amerikanerin serviert Raclette mit Lachs – «Wotsch Chrieg?»",
+      "was": "Raclettepfännchen mit Lachs auf dem Tisch einer Amerikanerin",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Die Schweiz bleibt bei EU-Paket und Weltpolitik neutral, beim Käse aber ist sofort Kriegszustand.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "NZZ",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/schweiz/die-svp-und-ihre-findungskommission-ein-svp-all-star-team-durchleuchtet-die-acht-bundesratskandidaten-ld.10066340",
-      "bild": "https://img-msp-prod.nzz.ch/2026/11/17/e7e2069a-c2a8-4c9a-86ef-fa7332ac5334.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1497,1497,x276,y0",
-      "zeit": "2026-11-18T05:30+01:00"
+      "artikel": "https://www.20min.ch/story/eklat-willst-du-krieg-amerikanerin-serviert-raclette-mit-lachs-103669537",
+      "bild": "https://image.20min.ch/2026/11/18/f35c57a3-d626-4bc0-bfc1-bdfb52980f66.png?s=d5b38f79b1006ac9d303a8af7cee6eb1",
+      "zeit": "2026-11-18T16:41+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ganztags",
-      "was": "Familienfoto und Dreier-Handschlag von Xi, Trump und Putin am APEC-Treffen in Shenzhen"
+      "wann": "heute Abend",
+      "was": "Apec-Bankett in Shenzhen mit Xi, Trump und Putin am selben Tisch"
     }
   ],
   "hinweis": ""
