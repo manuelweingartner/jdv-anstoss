@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-18",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -27,21 +27,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "In Basel fliegt Thunfisch auf, der frischer aussieht, als er ist, gleiche Woche wie das Oligarchen-Datenleck der Deutschen Bank. Für Fisch hat die Schweiz ein Labor.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
-      "id": "2026-11-18-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Abstimmung über lockerere Waffenexporte am 29. November, leere Liste der Garantien, dass die Waffen nie in einem Krieg landen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Am 29. November entscheidet die Schweiz über lockerere Waffenexporte. Hier alle Garantien, dass die Waffen nie in einem Krieg landen:\n-\n-\nEhrenwort.",
       "jury": {
         "neu": true,
         "anker": true,
@@ -109,21 +94,6 @@
       }
     },
     {
-      "id": "2026-11-18-0757-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Neid auf den Picasso im Genfer Zollfreilager, der steuerfrei wohnt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Einmal so steuerfrei wohnen wie ein Picasso im Genfer Zollfreilager.",
-      "jury": {
-        "neu": true,
-        "anker": true,
-        "witz": true
-      }
-    },
-    {
       "id": "2026-11-18-0757-09",
       "typ": "politisch-aktuell",
       "stichwort": "Trickle-down als Hund unter dem Esstisch",
@@ -139,14 +109,14 @@
       }
     },
     {
-      "id": "2026-11-18-0757-10",
+      "id": "2026-11-18-0757-12",
       "typ": "politisch-aktuell",
-      "stichwort": "Angst vor Enteignung aus Sicht von Mieter*innen, denen nichts gehört",
+      "stichwort": "Kartenterminal in der Bäckerei fragt nach Trinkgeld fürs Gipfeli, die Lohnverhandlung wird an die Kundschaft ausgelagert",
       "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Habe Angst vor Enteignung. Am Ende gehört meine Wohnung plötzlich jemand anderem, so wie seit dem Einzug.",
+      "format": 16,
+      "text": "Das Kartenterminal in der Bäckerei will neuerdings Trinkgeld fürs Gipfeli. Lohnverhandlung, ausgelagert an die Kundschaft.",
       "jury": {
         "neu": true,
         "anker": true,
