@@ -1,59 +1,56 @@
 {
-  "stand": "2026-11-17T08:01:12+01:00",
-  "lauf": "0800",
+  "stand": "2026-11-18T08:19:07+01:00",
+  "lauf": "0818",
   "fotos": [
     {
-      "id": "0800-1",
-      "titel": "Agent 007 – Robert Pattinson wird neuer James Bond",
-      "was": "Robert Pattinson im Anzug, ernster Blick, offizielles Bond-Pressebild",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Glamour-Agent auf der Leinwand gegen echten Agentenalltag mit Formularen und Budgetkürzungen.",
+      "id": "0818-1",
+      "titel": "Treffen von Trump, Xi und Putin: Rüstung, KI - und ein heikles Thema",
+      "was": "Trump, Xi und Putin beim Handschlag vor APEC-Kulisse in Shenzhen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Ein Gipfel, der Weltordnung heissen soll, gegen ein Bild, das wie ein Klassentreffen der Alleinherrscher aussieht.",
       "grund": "breit",
-      "raum": "",
-      "quelle": "SRF",
-      "auch_bei": [
-        "taz"
-      ],
-      "artikel": "https://www.srf.ch/news/agent-007-robert-pattinson-wird-neuer-james-bond",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/4b13a0.jpg",
-      "zeit": "2026-11-16T17:12+01:00"
-    },
-    {
-      "id": "0800-2",
-      "titel": "Bundesnachrichtendienst – Schweizer Geheimdienst unter Druck?",
-      "was": "NDB-Gebäude in Bern oder NDB-Direktor vor Logo an Medienkonferenz",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: neutraler Alleingang als Selbstbild gegen einen Geheimdienst, der ohne fremde Partner nichts sieht.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "weltweit",
+      "quelle": "Tagesschau",
       "auch_bei": [
         "NZZ"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/bundesnachrichtendienst-schweizer-geheimdienst-unter-druck",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/5425ba.jpg",
-      "zeit": "2026-11-17T05:49+01:00"
+      "artikel": "https://www.tagesschau.de/ausland/asien/apec-trump-putin-xi-100.html",
+      "bild": "https://images.tagesschau.de/image/cbb4aea2-bb4f-4ee9-85e9-120d18234ece/AAABoelldUM/AAABnSSvrFg/16x9-big/banner-apec-100.jpg?width=1280",
+      "zeit": "2026-11-18T06:17+01:00"
     },
     {
-      "id": "0800-3",
-      "titel": "Nein-Plakate auf Kuhweiden trotz Ja-Parole: Bauern im AHV-Dilemma",
-      "was": "Kühe grasen neben grossem Nein-Plakat auf einer Weide",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Ja-Parole des Bauernverbands gegen das Nein, das auf dem eigenen Land steht.",
+      "id": "0818-2",
+      "titel": "Koalition einigt sich auf Senkung der Stromsteuer und Spritpreisdeckel",
+      "was": "Übermüdete Merz, Klingbeil und Söder verlassen nachts das Kanzleramt",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Eine Nachtsitzung bis zwei Uhr gegen eine Entlastung, die nur für ein Jahr finanziert ist.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "Spiegel",
+      "auch_bei": [
+        "Tagesschau",
+        "taz"
+      ],
+      "artikel": "https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/9cd383c6-f0c0-4c6c-95c7-2e5945b92c60_w520_r2.08_fpx66.51_fpy49.99.jpg",
+      "zeit": "2026-11-18T07:37+01:00"
+    },
+    {
+      "id": "0818-3",
+      "titel": "Die SVP und ihre Findungskommission: Ein SVP-All-Star-Team durchleuchtet die acht Bundesratskandidaten",
+      "was": "Ältere SVP-Grössen im Sitzungszimmer, Caspar Baader am Kopfende",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Eine Findungskommission, die Erneuerung sucht, gegen ein Gremium, das selbst aus der Vergangenheit stammt.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/mehrwertsteuererhoehung-fuer-die-ahv-bauern-zwischen-mehrkosten-und-rente-103664615",
-      "bild": "https://image.20min.ch/2026/11/10/cf291801-f8d7-4064-bba5-fe6858c098c1.jpg?s=eda57e69c90749d8b716c5d0710f7092",
-      "zeit": "2026-11-17T04:51+01:00"
+      "artikel": "https://www.nzz.ch/schweiz/die-svp-und-ihre-findungskommission-ein-svp-all-star-team-durchleuchtet-die-acht-bundesratskandidaten-ld.10066340",
+      "bild": "https://img-msp-prod.nzz.ch/2026/11/17/e7e2069a-c2a8-4c9a-86ef-fa7332ac5334.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1497,1497,x276,y0",
+      "zeit": "2026-11-18T05:30+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute",
-      "was": "Spitzen von Schwarz-Rot beim Eintreffen zum Koalitionsausschuss in Berlin"
-    },
-    {
-      "wann": "heute",
-      "was": "Delegationen und Gruppenfotos in der Schlussphase der Weltklimakonferenz Antalya"
+      "wann": "heute ganztags",
+      "was": "Familienfoto und Dreier-Handschlag von Xi, Trump und Putin am APEC-Treffen in Shenzhen"
     }
   ],
   "hinweis": ""
