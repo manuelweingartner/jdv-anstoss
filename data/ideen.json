@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-19",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -12,21 +12,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Hier alle Verwaltungsrät*innen, die je selbst in einer Warteschleife hingen:\n-\n-\nDie Assistentin hängt noch.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-19-0853-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "IV-Gesuch dauert, Steuerruling für den Konzern geht morgen früh",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "IV-Gesuch eingereicht, Bern so: Abklärungen dauern, Geduld, vielleicht nächstes Jahr. Konzern will ein Steuerruling, Bern so: Passt Ihnen morgen früh?",
       "jury": {
         "witz": true,
         "anker": true,
@@ -57,21 +42,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 1,
       "text": "Der ORF kündigt einem Regisseur nach 22 Jahren per Mail. Ein Fitnessabo kündigen geht nur eingeschrieben, unterschrieben, drei Monate im Voraus.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-19-0853-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "Jedes Zalando-Paket lässt sich live verfolgen, ein IV-Antrag nicht, als rhetorische Frage",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wieso lässt sich jedes Zalando-Paket live verfolgen, aber kein IV-Antrag?",
       "jury": {
         "witz": true,
         "anker": true,
@@ -147,6 +117,21 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Stimmt, der Staat soll sich aus der Wirtschaft raushalten. Bei der Ski-WM in Crans-Montana entscheidet darum der Skiverband, und der Staat zahlt nur, ohne Fragen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-19-0853-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "EU-Paket und Ständemehr: Angst vor fremden Richtern, darum soll Uri über Zürich entscheiden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe Angst vor fremden Richtern. Darum soll beim EU-Paket lieber Uri über Zürich entscheiden.",
       "jury": {
         "witz": true,
         "anker": true,
