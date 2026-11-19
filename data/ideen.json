@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-19",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -54,6 +54,36 @@
       "text": "Wieso lässt sich jedes Zalando-Paket live verfolgen, aber kein IV-Antrag?"
     },
     {
+      "id": "2026-11-19-0853-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Studie: Kinder können immer seltener einen Purzelbaum, gleiche Woche zeigt das Bundeshaus bei den EU-Verträgen die Rolle rückwärts",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Kinder können immer seltener einen Purzelbaum, warnt eine Studie. Gleiche Woche zeigt das Bundeshaus bei den EU-Verträgen die Rolle rückwärts: mit Anlauf, ohne Hilfestellung."
+    },
+    {
+      "id": "2026-11-19-0853-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Berlin versteigert einen fensterlosen Weltkriegsbunker, im Zürcher Wohnungsinserat wäre das eine ruhige Lage ohne Einblick",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Berlin versteigert einen fensterlosen Weltkriegsbunker. Zürcher Inserat: ruhige Lage, kein Einblick, Preis auf Anfrage."
+    },
+    {
+      "id": "2026-11-19-0853-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neue israelische Bodenoffensive über die gelbe Linie, Europa so: zutiefst besorgt, die Waffenlieferungen kommen trotzdem",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Israelische Panzer rollen im Gazastreifen wieder über die gelbe Linie, die grösste Bodenoffensive seit über einem Jahr. Europa so: zutiefst besorgt, Statement folgt, Waffenlieferungen auch."
+    },
+    {
       "id": "2026-11-19-0853-24",
       "typ": "politisch-aktuell",
       "stichwort": "Laut JAMES-Studie hängt die Jugend drei Stunden am Handy, dieselbe Woche streikt sie europaweit: «geht mal raus» war so auch wieder nicht gemeint",
@@ -72,16 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Stimmt, der Staat soll sich aus der Wirtschaft raushalten. Bei der Ski-WM in Crans-Montana entscheidet darum der Skiverband, und der Staat zahlt nur, ohne Fragen."
-    },
-    {
-      "id": "2026-11-19-0853-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "EU-Paket und Ständemehr: Angst vor fremden Richtern, darum soll Uri über Zürich entscheiden",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Habe Angst vor fremden Richtern. Darum soll beim EU-Paket lieber Uri über Zürich entscheiden."
     }
   ]
 }
