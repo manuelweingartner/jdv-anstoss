@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-19",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-19-0853-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Verwaltungsrät*innen, die je selbst in einer Warteschleife hingen, die Assistentin hängt noch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Verwaltungsrät*innen, die je selbst in einer Warteschleife hingen:\n-\n-\nDie Assistentin hängt noch."
+    },
+    {
+      "id": "2026-11-19-0853-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "IV-Gesuch dauert, Steuerruling für den Konzern geht morgen früh",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "IV-Gesuch eingereicht, Bern so: Abklärungen dauern, Geduld, vielleicht nächstes Jahr. Konzern will ein Steuerruling, Bern so: Passt Ihnen morgen früh?"
+    },
+    {
+      "id": "2026-11-19-0853-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rhetorische Frage: wann die IV das jahrelange Warten auf eine Diagnose zum Beweis macht, dass nichts ist",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wie lange muss man auf eine Diagnose warten, bis die IV das Warten zum Beweis macht, dass nichts ist? Frage an die Gutachter*innen im Dauerauftrag."
+    },
     {
       "id": "2026-11-19-0853-11",
       "typ": "schnittmenge",
