@@ -24629,6 +24629,134 @@
         "witz": true
       },
       "datum": "2026-11-17"
+    },
+    {
+      "id": "2026-11-18-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kim Jong Un posiert im Skiresort, sein Land hungert, die Erklärung ist seine Schulzeit in Bern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Kim Jong Un posiert im Skiresort, während sein Land hungert. Schulzeit in Bern halt.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-11-18"
+    },
+    {
+      "id": "2026-11-18-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Basler Thunfisch sieht frischer aus, als er ist, gleiche Woche wie das Oligarchen-Datenleck der Deutschen Bank: für Fisch gibt es ein Labor",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "In Basel fliegt Thunfisch auf, der frischer aussieht, als er ist, gleiche Woche wie das Oligarchen-Datenleck der Deutschen Bank. Für Fisch hat die Schweiz ein Labor.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-11-18"
+    },
+    {
+      "id": "2026-11-18-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Junger Ukrainer redet in einer Strassenumfrage perfekt Ostschweizerisch, die Angst vor der gelungenen Integration ernst genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor dem jungen Ukrainer, der in einer Strassenumfrage perfekt Ostschweizerisch redet. Bald merkt man nur noch am Nachnamen, wen man nicht einbürgern will.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-11-18"
+    },
+    {
+      "id": "2026-11-18-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "AfD könnte in Sachsen-Anhalt regieren, die Entzauberungs-These ernst genommen, bis offen bleibt, was schlimmer wäre",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Entzaubern will man die AfD, indem man sie in Sachsen-Anhalt regieren lässt. Schwer zu sagen, was schlimmer wäre: dass sie es nicht kann oder dass sie es kann.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-11-18"
+    },
+    {
+      "id": "2026-11-18-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Mitte November bis 15 Grad nach der Sturmnacht, Klimaskepsis mit Ortsangabe beim Wort genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, vom Klimawandel spürt man hier nichts. Mitte November 15 Grad, normales Novemberwetter. In Rom.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-11-18"
+    },
+    {
+      "id": "2026-11-18-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Referenzzins: Mieterhöhung kommt eingeschrieben, Senkung muss man selbst einfordern",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Steigt der Zins, kommt die Mieterhöhung eingeschrieben. Sinkt er, darf man die Senkung selbst beantragen, schriftlich und mit der Kündigung im Hinterkopf.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-11-18"
+    },
+    {
+      "id": "2026-11-18-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Trickle-down als Hund unter dem Esstisch",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Dass Steuersenkungen für Reiche irgendwann unten ankommen, stimmt sogar: so wie beim Hund unter dem Esstisch. Zufällig, in Krümeln, und nur fürs brave Sitzen.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-11-18"
+    },
+    {
+      "id": "2026-11-18-0757-12",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kartenterminal in der Bäckerei fragt nach Trinkgeld fürs Gipfeli, die Lohnverhandlung wird an die Kundschaft ausgelagert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Das Kartenterminal in der Bäckerei will neuerdings Trinkgeld fürs Gipfeli. Lohnverhandlung, ausgelagert an die Kundschaft.",
+      "jury": {
+        "neu": true,
+        "anker": true,
+        "witz": true
+      },
+      "datum": "2026-11-18"
     }
   ]
 }
