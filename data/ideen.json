@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-19",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Wieso lässt sich jedes Zalando-Paket live verfolgen, aber kein IV-Antrag?"
+    },
+    {
+      "id": "2026-11-19-0853-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Laut JAMES-Studie hängt die Jugend drei Stunden am Handy, dieselbe Woche streikt sie europaweit: «geht mal raus» war so auch wieder nicht gemeint",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Laut Studie hängt die Jugend drei Stunden täglich am Handy, dieselbe Woche streikt sie europaweit. Jetzt ist «geht mal raus» auch wieder falsch?"
+    },
+    {
+      "id": "2026-11-19-0853-25",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ski-WM Crans-Montana: der Staat zahlt, der Skiverband entscheidet, die bürgerliche Forderung «Staat raus aus der Wirtschaft» ernst genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Stimmt, der Staat soll sich aus der Wirtschaft raushalten. Bei der Ski-WM in Crans-Montana entscheidet darum der Skiverband, und der Staat zahlt nur, ohne Fragen."
+    },
+    {
+      "id": "2026-11-19-0853-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "EU-Paket und Ständemehr: Angst vor fremden Richtern, darum soll Uri über Zürich entscheiden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Habe Angst vor fremden Richtern. Darum soll beim EU-Paket lieber Uri über Zürich entscheiden."
     }
   ]
 }
