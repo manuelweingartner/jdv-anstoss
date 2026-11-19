@@ -11,7 +11,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Hier alle Verwaltungsrät*innen, die je selbst in einer Warteschleife hingen:\n-\n-\nDie Assistentin hängt noch."
+      "text": "Hier alle Verwaltungsrät*innen, die je selbst in einer Warteschleife hingen:\n-\n-\nDie Assistentin hängt noch.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-19-0853-09",
@@ -21,7 +26,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "IV-Gesuch eingereicht, Bern so: Abklärungen dauern, Geduld, vielleicht nächstes Jahr. Konzern will ein Steuerruling, Bern so: Passt Ihnen morgen früh?"
+      "text": "IV-Gesuch eingereicht, Bern so: Abklärungen dauern, Geduld, vielleicht nächstes Jahr. Konzern will ein Steuerruling, Bern so: Passt Ihnen morgen früh?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-19-0853-10",
@@ -31,7 +41,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wie lange muss man auf eine Diagnose warten, bis die IV das Warten zum Beweis macht, dass nichts ist? Frage an die Gutachter*innen im Dauerauftrag."
+      "text": "Wie lange muss man auf eine Diagnose warten, bis die IV das Warten zum Beweis macht, dass nichts ist? Frage an die Gutachter*innen im Dauerauftrag.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-19-0853-11",
@@ -41,7 +56,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Der ORF kündigt einem Regisseur nach 22 Jahren per Mail. Ein Fitnessabo kündigen geht nur eingeschrieben, unterschrieben, drei Monate im Voraus."
+      "text": "Der ORF kündigt einem Regisseur nach 22 Jahren per Mail. Ein Fitnessabo kündigen geht nur eingeschrieben, unterschrieben, drei Monate im Voraus.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-19-0853-12",
@@ -51,7 +71,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Wieso lässt sich jedes Zalando-Paket live verfolgen, aber kein IV-Antrag?"
+      "text": "Wieso lässt sich jedes Zalando-Paket live verfolgen, aber kein IV-Antrag?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-19-0853-21",
@@ -61,7 +86,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "Kinder können immer seltener einen Purzelbaum, warnt eine Studie. Gleiche Woche zeigt das Bundeshaus bei den EU-Verträgen die Rolle rückwärts: mit Anlauf, ohne Hilfestellung."
+      "text": "Kinder können immer seltener einen Purzelbaum, warnt eine Studie. Gleiche Woche zeigt das Bundeshaus bei den EU-Verträgen die Rolle rückwärts: mit Anlauf, ohne Hilfestellung.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-19-0853-22",
@@ -71,7 +101,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Berlin versteigert einen fensterlosen Weltkriegsbunker. Zürcher Inserat: ruhige Lage, kein Einblick, Preis auf Anfrage."
+      "text": "Berlin versteigert einen fensterlosen Weltkriegsbunker. Zürcher Inserat: ruhige Lage, kein Einblick, Preis auf Anfrage.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-19-0853-23",
@@ -81,7 +116,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Israelische Panzer rollen im Gazastreifen wieder über die gelbe Linie, die grösste Bodenoffensive seit über einem Jahr. Europa so: zutiefst besorgt, Statement folgt, Waffenlieferungen auch."
+      "text": "Israelische Panzer rollen im Gazastreifen wieder über die gelbe Linie, die grösste Bodenoffensive seit über einem Jahr. Europa so: zutiefst besorgt, Statement folgt, Waffenlieferungen auch.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-19-0853-24",
@@ -91,7 +131,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Laut Studie hängt die Jugend drei Stunden täglich am Handy, dieselbe Woche streikt sie europaweit. Jetzt ist «geht mal raus» auch wieder falsch?"
+      "text": "Laut Studie hängt die Jugend drei Stunden täglich am Handy, dieselbe Woche streikt sie europaweit. Jetzt ist «geht mal raus» auch wieder falsch?",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-19-0853-25",
@@ -101,7 +146,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Stimmt, der Staat soll sich aus der Wirtschaft raushalten. Bei der Ski-WM in Crans-Montana entscheidet darum der Skiverband, und der Staat zahlt nur, ohne Fragen."
+      "text": "Stimmt, der Staat soll sich aus der Wirtschaft raushalten. Bei der Ski-WM in Crans-Montana entscheidet darum der Skiverband, und der Staat zahlt nur, ohne Fragen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
     }
   ]
 }
