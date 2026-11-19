@@ -1,57 +1,59 @@
 {
-  "stand": "2026-11-18T17:00:31+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-19T09:25:36+01:00",
+  "lauf": "0925",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "BILDSTRECKE - Grosse Bühne in Shenzhen: Der Apec-Gipfel in China ist eröffnet",
-      "was": "Xi umarmt Trump am Flughafen, Putin daneben auf der Gipfelbühne",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Herzliche Umarmung vor der Kamera gegen das Frühstück, das der Gastgeber vorher mit dem anderen hatte.",
+      "id": "0925-1",
+      "titel": "Apec-Gipfel – Umarmung und Bankett – Xi, Trump und Putin in Shenzhen",
+      "was": "Xi, Trump und Putin umarmen sich beim Gipfel in Shenzhen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Umarmung als Freundschaftsgeste gegen Umarmung als Kräftemessen, wer wen festhält.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "NZZ",
+      "quelle": "SRF",
       "auch_bei": [
-        "SRF",
+        "20 Minuten",
+        "NZZ",
+        "Spiegel",
         "Tagesschau",
         "taz"
       ],
-      "artikel": "https://www.nzz.ch/fotografie/grosse-buehne-in-shenzhen-der-apec-gipfel-in-china-ist-eroeffnet-ld.10067500",
-      "bild": "https://img-msp-prod.nzz.ch/2026/11/18/501ddbe0-c36b-4323-acf2-ae827b79f219.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2929,2929,x1645,y324",
-      "zeit": "2026-11-18T14:50+01:00"
+      "artikel": "https://www.srf.ch/news/international/apec-gipfel-umarmung-und-bankett-xi-trump-und-putin-in-shenzhen",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/5870fd.jpg",
+      "zeit": "2026-11-18T16:42+01:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Stromsteuer runter, Spritpreisdeckel ab 2027 – das bringen Ihnen die neuen Entlastungen",
-      "was": "Merz und Klingbeil übernächtigt vor Mikrofonen nach dem Koalitionsausschuss",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Acht Stunden Nachtsitzung und eine angekündigte Schicksalsfrage gegen eine Entlastung, die man auf der Stromrechnung kaum findet.",
+      "id": "0925-2",
+      "titel": "«Grand Theft Auto 6» – Das haben wir seit Mitternacht in Vice City erlebt",
+      "was": "Gamer in Mitternachtsschlange vor Laden mit GTA-6-Packungen",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: nächtelange Hingabe für ein Videospiel gegen null Geduld für Abstimmungsunterlagen.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Spiegel",
+      "quelle": "SRF",
       "auch_bei": [
         "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/wirtschaft/soziales/stromsteuer-runter-spritpreisdeckel-ab-2027-das-bringen-ihnen-die-neuen-entlastungen-a-7a13da31-0fe1-40ea-a60c-457fef341154#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/7a371569-87ec-45c8-a05a-be759fba0819_w520_r2.08_fpx69.98_fpy44.99.jpg",
-      "zeit": "2026-11-18T15:01+01:00"
+      "artikel": "https://www.srf.ch/kultur/games/grand-theft-auto-6-gta-6-die-ersten-eindruecke",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf/477241.jpg",
+      "zeit": "2026-11-19T05:46+01:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Amerikanerin serviert Raclette mit Lachs – «Wotsch Chrieg?»",
-      "was": "Raclettepfännchen mit Lachs auf dem Tisch einer Amerikanerin",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Die Schweiz bleibt bei EU-Paket und Weltpolitik neutral, beim Käse aber ist sofort Kriegszustand.",
+      "id": "0925-3",
+      "titel": "Tschüss kleinste Münze – Ab Ende 2026 ist der Einräppler nur noch Altmetall",
+      "was": "Nahaufnahme eines Einräpplers oder Haufen Rappenmünzen auf Tisch",
+      "richtung": "Mechanik: Rollenrede aus Sicht der Münze. Achse: offiziell zu Altmetall erklärt gegen die Schweizer Gewohnheit, jeden Rappen umzudrehen.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/eklat-willst-du-krieg-amerikanerin-serviert-raclette-mit-lachs-103669537",
-      "bild": "https://image.20min.ch/2026/11/18/f35c57a3-d626-4bc0-bfc1-bdfb52980f66.png?s=d5b38f79b1006ac9d303a8af7cee6eb1",
-      "zeit": "2026-11-18T16:41+01:00"
+      "artikel": "https://www.srf.ch/radio-srf-1/tschuess-kleinste-muenze-ab-ende-2026-ist-der-einraeppler-nur-noch-altmetall",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf/142960e.jpg",
+      "zeit": "2026-11-19T09:20+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Abend",
-      "was": "Apec-Bankett in Shenzhen mit Xi, Trump und Putin am selben Tisch"
+      "wann": "heute im Tagesverlauf",
+      "was": "Offizielles Familienfoto der Apec-Staatschefs in Shenzhen, Aufstellung und Handschläge"
     }
   ],
   "hinweis": ""
