@@ -1,61 +1,57 @@
 {
-  "stand": "2026-11-19T17:00:28+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-20T08:00:46+01:00",
+  "lauf": "0800",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Dreiergipfel in China – «Bahnbrechend» – Xi, Trump und Putin halten Dreiertreffen ab",
-      "was": "Xi, Trump und Putin am runden Tisch in Shenzhen, Gruppenfoto",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Friedenserklärung am Mittag gegen Vergeltungsdrohung am Nachmittag, beides vom selben Tisch aus.",
-      "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "SRF",
-      "auch_bei": [
-        "NZZ",
-        "Tagesschau",
-        "taz"
-      ],
-      "artikel": "https://www.srf.ch/news/international/dreiergipfel-in-china-bahnbrechend-xi-trump-und-putin-halten-dreiertreffen-ab",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/ce84a2.jpg",
-      "zeit": "2026-11-19T13:27+01:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "Anthropic-Börsengang wird Musk-Rekord übertreffen",
-      "was": "Anthropic-Spitze läutet die Nasdaq-Glocke, Konfetti und Börsenbildschirme",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Firma, die sich als die vorsichtige verkauft, gegen den grössten Börsengang der Geschichte.",
+      "id": "0800-1",
+      "titel": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
+      "was": "Xi, Trump und Putin posieren gemeinsam in Shenzhen",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Wer sich als Hauptdarsteller sieht, ist in Xis Inszenierung nur Statist.",
       "grund": "breit",
       "raum": "weltweit",
       "quelle": "Tagesschau",
-      "auch_bei": [
-        "SRF"
-      ],
-      "artikel": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
-      "bild": "https://images.tagesschau.de/image/e43f8666-d07b-42ca-9a1b-0fd770e7923c/AAABofJ-yzk/AAABnSSvrFg/16x9-big/anthropic-claude-102.jpg?width=1280",
-      "zeit": "2026-11-19T07:44+01:00"
+      "auch_bei": [],
+      "artikel": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html",
+      "bild": "https://images.tagesschau.de/image/64f4a9b9-4e61-4435-b1cf-7382c4ed3995/AAABofRu2k8/AAABnSSvrFg/16x9-big/putin-xi-trump-102.jpg?width=1280",
+      "zeit": "2026-11-19T19:30+01:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Rösti an Konferenz: «AKW sind Schweizer Beitrag zum Klimaschutz»",
-      "was": "Bundesrat Rösti an der UN-Klimakonferenz in Antalya, Mikrofon, Delegationen",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Klimakonferenz voller Delegationen, die Ausstieg verhandeln, gegen den Schweizer Bundesrat, der AKW als Mitbringsel anbietet.",
+      "id": "0800-2",
+      "titel": "Börsengang von KI-Unternehmen: Groß, größer, Anthropic",
+      "was": "Anthropic-Spitze läutet an der Börse die Eröffnungsglocke, Konfetti",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Rhetorik von Sicherheit und Gemeinwohl gegen den grössten Börsengang der Geschichte.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "taz",
+      "auch_bei": [
+        "NZZ"
+      ],
+      "artikel": "https://taz.de/Der-groesste-Boersengang-der-Geschichte-Gross-groesser-Anthropic/!6231351/",
+      "bild": "https://taz.de/picture/8874629/948/42592457.jpeg",
+      "zeit": "2026-11-19T20:21+01:00"
+    },
+    {
+      "id": "0800-3",
+      "titel": "Nachfolge von Guy Parmelin – Die SVP präsentiert ihr Bundesratsticket – die Ausgangslage",
+      "was": "SVP-Bundesratskandidaten mit Blumen und Fraktionsspitze vor Wappenwand",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Die Partei gegen die Classe politique bewirbt sich um deren höchstes Amt.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/antalya-bundesrat-roesti-reist-an-klimakonferenz-20-minuten-ist-dabei-103669572",
-      "bild": "https://image.20min.ch/2026/11/19/7c929938-4e3d-4909-8627-9329a9f83c53.jpg?s=2eea6515d07a38061787387cf90f36f2",
-      "zeit": "2026-11-19T09:58+01:00"
+      "artikel": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-die-svp-praesentiert-ihr-bundesratsticket-die-ausgangslage",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/3d56ef.jpg",
+      "zeit": "2026-11-20T05:56+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute ab 18:00",
-      "was": "Lucy geht an der Zürcher Bahnhofstrasse an, Lichter und Prominenz am Schalter"
+      "wann": "heute, Zeit noch offen",
+      "was": "SVP-Fraktion stellt ihr Bundesratsticket für die Parmelin-Nachfolge vor"
     },
     {
-      "wann": "heute ganztags",
-      "was": "Rösti an der Klimakonferenz in Antalya, Auftritte und Gruppenbilder"
+      "wann": "heute, zum Konferenzschluss",
+      "was": "Schlussplenum und Gruppenbild der Weltklimakonferenz in Antalya"
     }
   ],
   "hinweis": ""
