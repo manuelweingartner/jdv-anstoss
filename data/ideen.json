@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-20",
-  "hinweis": "8 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,36 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Trump hat recht, Europa zahlt zu viel für die Ukraine. Kapitulation wäre billiger."
+    },
+    {
+      "id": "2026-11-20-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Bankchef-Bonus wegen gestiegener Zinsen als Applaus für den Hahn, der die Sonne aufgehen lässt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Wer dem Bankchef einen Bonus zahlt, weil die Zinsen gestiegen sind, applaudiert auch dem Hahn für den Sonnenaufgang. Jeden Morgen. Mit Aktienoptionen."
+    },
+    {
+      "id": "2026-11-20-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kinderbetreuung zu Hause keine Arbeit, in der Kita unbezahlbar, rhetorische Frage an die Partei der Familie",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, Kinderhüten ist zu Hause keine Arbeit, aber in der Kita unbezahlbar? Frage an die Partei der Familie."
+    },
+    {
+      "id": "2026-11-20-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Pensionskasse meldet Rekordrendite mit Rüstungsaktien, Dank an die Gefallenen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": 13,
+      "text": "Pensionskasse meldet Rekordrendite mit Rüstungsaktien. Danke allen, die dafür an der Front gestorben sind."
     },
     {
       "id": "2026-11-20-0757-11",
@@ -72,16 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": 18,
       "text": "Merz verspricht Kiew Hilfe, so lange wie nötig. Gleiche Woche treffen sich Trump, Xi und Putin erstmals zu dritt und legen fest, wie lange das ist."
-    },
-    {
-      "id": "2026-11-20-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "KOF: Gesundheitskosten steigen wegen Pflegebedarf, Bürgerliche warten ab, bis es sich von selbst erledigt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Laut KOF steigen die Gesundheitskosten bis 2028 weiter, vor allem wegen mehr Pflegebedarf. Bürgerliche so: Hm. Abwarten. Erledigt sich ja quasi von selbst."
     }
   ]
 }
