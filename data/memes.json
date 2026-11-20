@@ -1,46 +1,46 @@
 {
-  "stand": "2026-11-19T09:26:17+01:00",
+  "stand": "2026-11-20T08:01:29+01:00",
   "vorschlaege": [
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Die SVP wählt ihren Bundesrat selbst"
+        "Verwaltungsräte haben längst die 1-Tag-Woche"
       ],
-      "warum": "das Zweierticket lässt dem Parlament nur die Wahl zwischen zwei Namen, die die SVP-Fraktion vorher ausgesucht hat",
+      "warum": "die These dreht die 4-Tage-Studie nach oben, und niemand kann ihr widersprechen",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Noch ein Microsoft-Vertrag",
+        "Noch mehr Microsoft-Lizenzen",
         "Digitale Unabhängigkeit",
         "Bundesverwaltung"
       ],
-      "warum": "nach der weltweiten Panne sieht man den Weg weg von Microsoft und nimmt im letzten Moment doch wieder dieselbe Ausfahrt",
+      "warum": "nach jeder Panne biegt die Verwaltung im letzten Moment wieder zum Gewohnten ab",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Einräppler 1850",
-        "Gilt als Geld",
-        "Einräppler 2026",
-        "Altmetall"
+        "Weinbranche 1990",
+        "Zweierli zum Zmittag",
+        "Weinbranche 2026",
+        "hofft auf Blixa Bargeld"
       ],
-      "warum": "der Abstieg von der Münze zum Schrott ist ein Früher und ein Heute",
+      "warum": "eine einst stolze Branche klammert sich an eine Lesung, die «nur mit Wein geht»",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Geld für Oligarchen",
-        "Swiss Private Banking"
+        "Oligarchengeld verstecken",
+        "Drehscheibe für heikle Geschäfte"
       ],
-      "warum": "beim Datenleck der Deutschen Bank ist die vornehme Bezeichnung für den Finanzplatz die Pointe",
+      "warum": "die Formulierung im Deutsche-Bank-Leak ist selbst schon der Euphemismus",
       "bild": "vorschlag-4.jpg"
     }
   ]
