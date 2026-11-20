@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-20",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "8 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -52,6 +52,36 @@
       "haltbarkeit": "evergreen",
       "format": 17,
       "text": "«Wir sind wie eine Familie», steht im Stelleninserat. Stimmt, die Firma erben am Ende die Kinder vom Chef. Steuerfrei."
+    },
+    {
+      "id": "2026-11-20-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Junge finden keine Bürojobs, weil die KI sie macht, rhetorische Frage an den Arbeitgeberverband",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Junge finden keine Bürojobs, weil die KI sie macht. Meinte der Arbeitgeberverband das mit Fachkräftemangel?"
+    },
+    {
+      "id": "2026-11-20-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "Merz verspricht Kiew Hilfe so lange wie nötig, gleiche Woche legen Trump, Xi und Putin zu dritt fest, wie lange das ist",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Merz verspricht Kiew Hilfe, so lange wie nötig. Gleiche Woche treffen sich Trump, Xi und Putin erstmals zu dritt und legen fest, wie lange das ist."
+    },
+    {
+      "id": "2026-11-20-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "KOF: Gesundheitskosten steigen wegen Pflegebedarf, Bürgerliche warten ab, bis es sich von selbst erledigt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Laut KOF steigen die Gesundheitskosten bis 2028 weiter, vor allem wegen mehr Pflegebedarf. Bürgerliche so: Hm. Abwarten. Erledigt sich ja quasi von selbst."
     }
   ]
 }
