@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-20",
-  "hinweis": "3 von 10 da, der Rest lädt noch.",
+  "hinweis": "5 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -32,6 +32,26 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Trump hat recht, Europa zahlt zu viel für die Ukraine. Kapitulation wäre billiger."
+    },
+    {
+      "id": "2026-11-20-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "Florida verbietet Abtreibungen, weil jedes Leben zählt, und zählt dieses Jahr bis zwanzig Hinrichtungen",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Florida verbietet Abtreibungen, weil jedes Leben zählt. Dieses Jahr zählt es bis zwanzig. Hinrichtungen."
+    },
+    {
+      "id": "2026-11-20-0757-12",
+      "typ": "politisch-aktuell",
+      "stichwort": "«Wir sind wie eine Familie» im Stelleninserat beim Wort genommen: die Firma erben die Kinder vom Chef",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 17,
+      "text": "«Wir sind wie eine Familie», steht im Stelleninserat. Stimmt, die Firma erben am Ende die Kinder vom Chef. Steuerfrei."
     }
   ]
 }
