@@ -1,60 +1,55 @@
 {
-  "stand": "2026-11-20T17:00:33+01:00",
+  "stand": "2026-11-21T17:00:43+01:00",
   "lauf": "1700",
   "fotos": [
     {
       "id": "1700-1",
-      "titel": "Schweizweiter Jugendstreik – Demonstrationen in mehreren Schweizer Städten: Ein Überblick",
-      "was": "Jugendliche mit selbstgemalten Transparenten ziehen durch eine Schweizer Innenstadt",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Politik lobt die engagierte Jugend in Sonntagsreden und nennt dieselbe Jugend am Streiktag Schulschwänzer, während sie bei ihr spart und bei der Arm",
+      "titel": "«Ich will Vorbild sein»: Albert Rösti wechselte auf E-Auto",
+      "was": "Bundesrat Rösti am Klimagipfel in Antalya, posierend neben Elektroauto",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: der private Umstieg aufs E-Auto als Vorbild, während beim Klimageld für arme Länder gespart wird.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "20 Minuten",
       "auch_bei": [
-        "Tagesschau"
+        "SRF"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/schweizweiter-jugendstreik-demonstrationen-in-mehreren-schweizer-staedten-ein-ueberblick",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/788f64.jpg",
-      "zeit": "2026-11-20T16:06+01:00"
+      "artikel": "https://www.20min.ch/video/un-klimakonferenz-ich-will-vorbild-sein-albert-roesti-wechselte-auf-e-auto-103671279",
+      "bild": "https://image.20min.ch/2026/11/21/89fc2d05-5add-4517-b9bf-02fdcf4210b3.jpg?s=7bb427bab8bb4609f6244c458836f224",
+      "zeit": "2026-11-21T15:05+01:00"
     },
     {
       "id": "1700-2",
-      "titel": "Nach Anthropic-Börsengang: Warum die KI-Euphorie bröckelt",
-      "was": "Firmenspitze läutet an der Nasdaq die Glocke, Konfetti und Jubel",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Billionenbewertung beim Glockenläuten am Morgen gegen Kurssturz wenige Stunden später.",
+      "titel": "Rafael Nadal: Tennisikone wird in Vorstand von Real Madrid gewählt",
+      "was": "Rafael Nadal im Anzug bei Real Madrid, Händeschütteln mit Vereinsführung",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: 22 Grand-Slam-Titel aus eigener Kraft gegen einen Stuhl am Sitzungstisch, den man durch Händeschütteln bekommt.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "Tagesschau",
+      "quelle": "Spiegel",
       "auch_bei": [
-        "20 Minuten",
-        "NZZ"
+        "SRF"
       ],
-      "artikel": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
-      "bild": "https://images.tagesschau.de/image/41a92787-d98e-47ef-93d5-91607061a7e1/AAABofimfZU/AAABnSSvrFg/16x9-big/nyse-476.jpg?width=1280",
-      "zeit": "2026-11-20T16:12+01:00"
+      "artikel": "https://www.spiegel.de/sport/tennis/rafael-nadal-tennisikone-wird-in-vorstand-von-real-madrid-gewaehlt-a-cfb22f79-f60f-43c1-8d33-3fe4587d5ccd#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/b31d9113-5a0f-4c9a-aafe-13a838feae8d_w520_r2.08_fpx32.02_fpy45.jpg",
+      "zeit": "2026-11-21T14:39+01:00"
     },
     {
       "id": "1700-3",
-      "titel": "Dreiergipfel in China – Expertin: «Für Europa ist das eine bedrohliche Nachricht»",
-      "was": "Xi, Trump und Putin beim Dreier-Handschlag vor Flaggen",
-      "richtung": "Mechanik: Rollenrede aus Sicht der Abgebildeten. Achse: drei Grossmächte posieren als Partner und teilen die Welt auf, während Europa nur über das Ergebnis informiert wird.",
+      "titel": "Kritik an SVP-Bundesratsticket – Wahl von Aeschi und Graber sorgt parteiübergreifend für Unmut",
+      "was": "Thomas Aeschi und Michael Graber lächelnd nebeneinander vor SVP-Logo",
+      "richtung": "Mechanik: Rollenrede aus Sicht der beiden Nominierten. Achse: dem Parlament eine Auswahl anbieten gegen ihm das Ergebnis vorgeben.",
       "grund": "memetauglich",
-      "raum": "",
+      "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/international/dreiergipfel-in-china-expertin-fuer-europa-ist-das-eine-bedrohliche-nachricht",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/7af00e.jpg",
-      "zeit": "2026-11-20T07:45+01:00"
+      "artikel": "https://www.srf.ch/news/schweiz/kritik-an-svp-bundesratsticket-wahl-von-aeschi-und-graber-sorgt-parteiuebergreifend-fuer-unmut",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/a603f9.jpg",
+      "zeit": "2026-11-21T11:36+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Abend",
-      "was": "SVP-Fraktion präsentiert ihr Bundesratsticket, Gruppenbild der Nominierten mit Fraktionsspitze"
-    },
-    {
       "wann": "heute, laufend",
-      "was": "Familienfoto und Handschlag-Choreografie beim Gipfel von EU und Grossbritannien in Brüssel"
+      "was": "Schlussplenum der Klimakonferenz in Antalya mit übermüdeten Delegierten und Hammerschlag"
     }
   ],
   "hinweis": ""
