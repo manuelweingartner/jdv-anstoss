@@ -1,55 +1,60 @@
 {
-  "stand": "2026-11-21T17:00:43+01:00",
+  "stand": "2026-11-22T17:00:33+01:00",
   "lauf": "1700",
   "fotos": [
     {
       "id": "1700-1",
-      "titel": "«Ich will Vorbild sein»: Albert Rösti wechselte auf E-Auto",
-      "was": "Bundesrat Rösti am Klimagipfel in Antalya, posierend neben Elektroauto",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: der private Umstieg aufs E-Auto als Vorbild, während beim Klimageld für arme Länder gespart wird.",
+      "titel": "Klimakonferenz in der Türkei – Keine Einigung bei Weltklimakonferenz – auch Schweiz lehnt ab",
+      "was": "Delegierte im Plenarsaal von Antalya, müde Gesichter, leere Ränge, Schlusshammer",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: zwei Wochen Verhandeln mit Tausenden Flugkilometern gegen eine Schlusserklärung, die es gar nicht gibt.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "SRF",
       "auch_bei": [
-        "SRF"
+        "20 Minuten",
+        "Tagesschau"
       ],
-      "artikel": "https://www.20min.ch/video/un-klimakonferenz-ich-will-vorbild-sein-albert-roesti-wechselte-auf-e-auto-103671279",
-      "bild": "https://image.20min.ch/2026/11/21/89fc2d05-5add-4517-b9bf-02fdcf4210b3.jpg?s=7bb427bab8bb4609f6244c458836f224",
-      "zeit": "2026-11-21T15:05+01:00"
+      "artikel": "https://www.srf.ch/news/international/klimakonferenz-in-der-tuerkei-keine-einigung-bei-weltklimakonferenz-auch-schweiz-lehnt-ab",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/eb5d04.jpg",
+      "zeit": "2026-11-22T13:35+01:00"
     },
     {
       "id": "1700-2",
-      "titel": "Rafael Nadal: Tennisikone wird in Vorstand von Real Madrid gewählt",
-      "was": "Rafael Nadal im Anzug bei Real Madrid, Händeschütteln mit Vereinsführung",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: 22 Grand-Slam-Titel aus eigener Kraft gegen einen Stuhl am Sitzungstisch, den man durch Händeschütteln bekommt.",
+      "titel": "Männer-Slalom in Gurgl – Nef steht bei norwegischem Doppelsieg erstmals auf dem Podest",
+      "was": "Tanguy Nef jubelt auf dem Podest neben zwei Norwegern",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: acht Jahre Anlauf für einen dritten Platz werden gefeiert, während in Bundesbern dasselbe Tempo als normal gilt.",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
+      "raum": "schweiz",
+      "quelle": "SRF",
       "auch_bei": [
-        "SRF"
+        "NZZ"
       ],
-      "artikel": "https://www.spiegel.de/sport/tennis/rafael-nadal-tennisikone-wird-in-vorstand-von-real-madrid-gewaehlt-a-cfb22f79-f60f-43c1-8d33-3fe4587d5ccd#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/b31d9113-5a0f-4c9a-aafe-13a838feae8d_w520_r2.08_fpx32.02_fpy45.jpg",
-      "zeit": "2026-11-21T14:39+01:00"
+      "artikel": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/maenner-slalom-in-gurgl-nef-steht-bei-norwegischem-doppelsieg-erstmals-auf-dem-podest",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/198fbbf.jpg",
+      "zeit": "2026-11-22T14:38+01:00"
     },
     {
       "id": "1700-3",
-      "titel": "Kritik an SVP-Bundesratsticket – Wahl von Aeschi und Graber sorgt parteiübergreifend für Unmut",
-      "was": "Thomas Aeschi und Michael Graber lächelnd nebeneinander vor SVP-Logo",
-      "richtung": "Mechanik: Rollenrede aus Sicht der beiden Nominierten. Achse: dem Parlament eine Auswahl anbieten gegen ihm das Ergebnis vorgeben.",
+      "titel": "Polizeikontrolle mit Armee-Panzern: 684 Personen überprüft",
+      "was": "Armee-Panzer und Polizisten bei nächtlicher Fahrzeugkontrolle in Solothurn",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: schweres Kriegsgerät für eine Ausweiskontrolle gegen eine Armee, die ständig über fehlendes Geld klagt.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/schweiz/kritik-an-svp-bundesratsticket-wahl-von-aeschi-und-graber-sorgt-parteiuebergreifend-fuer-unmut",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/a603f9.jpg",
-      "zeit": "2026-11-21T11:36+01:00"
+      "artikel": "https://www.20min.ch/story/kanton-solothurn-455-fahrzeuge-kontrolliert-militaer-faehrt-mit-panzer-auf-103671701",
+      "bild": "https://image.20min.ch/2026/11/22/7cac6f9a-6636-4603-bc19-6d02f650de53.jpg?s=1ca0180ac7f7f5390302ccbbd6392f46",
+      "zeit": "2026-11-22T10:54+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute, laufend",
-      "was": "Schlussplenum der Klimakonferenz in Antalya mit übermüdeten Delegierten und Hammerschlag"
+      "wann": "heute Nachmittag",
+      "was": "FC Basel gegen Luzern, Jubel oder Frust beim sieglosen FCB unter Jokanovic"
+    },
+    {
+      "wann": "heute",
+      "was": "Söder bei der Jungen Union Bayern in Berchtesgaden, Bühne und Bad in der Menge"
     }
   ],
   "hinweis": ""
