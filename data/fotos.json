@@ -1,60 +1,55 @@
 {
-  "stand": "2026-11-22T17:00:33+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-23T08:01:22+01:00",
+  "lauf": "0800",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Klimakonferenz in der Türkei – Keine Einigung bei Weltklimakonferenz – auch Schweiz lehnt ab",
-      "was": "Delegierte im Plenarsaal von Antalya, müde Gesichter, leere Ränge, Schlusshammer",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: zwei Wochen Verhandeln mit Tausenden Flugkilometern gegen eine Schlusserklärung, die es gar nicht gibt.",
+      "id": "0800-1",
+      "titel": "Weltklimakonferenz in Antalya: Das große Scheitern",
+      "was": "Erschöpfte Delegierte im Schlussplenum von Antalya, leeres Podium, Konferenzlogo",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: zwei Wochen Anreise, Resort und Verhandlungsnächte gegen ein Abschlussdokument, das es nicht gibt.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "weltweit",
+      "quelle": "taz",
       "auch_bei": [
-        "20 Minuten",
         "Tagesschau"
       ],
-      "artikel": "https://www.srf.ch/news/international/klimakonferenz-in-der-tuerkei-keine-einigung-bei-weltklimakonferenz-auch-schweiz-lehnt-ab",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/eb5d04.jpg",
-      "zeit": "2026-11-22T13:35+01:00"
+      "artikel": "https://taz.de/Weltklimakonferenz-in-Antalya/!6232150/",
+      "bild": "https://taz.de/picture/8879811/948/634261798.jpeg",
+      "zeit": "2026-11-22T14:06+01:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Männer-Slalom in Gurgl – Nef steht bei norwegischem Doppelsieg erstmals auf dem Podest",
-      "was": "Tanguy Nef jubelt auf dem Podest neben zwei Norwegern",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: acht Jahre Anlauf für einen dritten Platz werden gefeiert, während in Bundesbern dasselbe Tempo als normal gilt.",
+      "id": "0800-2",
+      "titel": "DER ANDERE BLICK - Der CSU-Chef sägt am Stuhl des Kanzlers: Neben Markus Söder sieht Friedrich Merz ziemlich blass aus",
+      "was": "Markus Söder breit grinsend neben einem blassen Friedrich Merz",
+      "richtung": "Mechanik: Rollenrede aus Sicht von Söder. Achse: treuer Koalitionspartner vor der Kamera gegen Kanzler im Wartestand hinter der Kamera.",
       "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "raum": "",
+      "quelle": "NZZ",
       "auch_bei": [
-        "NZZ"
+        "Spiegel"
       ],
-      "artikel": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/maenner-slalom-in-gurgl-nef-steht-bei-norwegischem-doppelsieg-erstmals-auf-dem-podest",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/198fbbf.jpg",
-      "zeit": "2026-11-22T14:38+01:00"
+      "artikel": "https://www.nzz.ch/der-andere-blick/der-csu-chef-saegt-am-stuhl-des-kanzlers-neben-soeder-sieht-merz-blass-aus-ld.10071593",
+      "bild": "https://img-msp-prod.nzz.ch/2026/11/16/bc948300-e725-48e5-b0c3-e560db26d37a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2575,2575,x3800,y1109",
+      "zeit": "2026-11-23T05:30+01:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Polizeikontrolle mit Armee-Panzern: 684 Personen überprüft",
-      "was": "Armee-Panzer und Polizisten bei nächtlicher Fahrzeugkontrolle in Solothurn",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: schweres Kriegsgerät für eine Ausweiskontrolle gegen eine Armee, die ständig über fehlendes Geld klagt.",
+      "id": "0800-3",
+      "titel": "SVP-Bundesratsticket – So ähnlich sind sich Aeschi und Graber wirklich",
+      "was": "Thomas Aeschi und Michael Graber nebeneinander vor SVP-Logo, Bundesratsticket",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Zweierticket als Suchbild mit null Unterschieden. Achse: der Bundesversammlung eine Auswahl anbieten gegen ihr keine Wahl lassen.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/kanton-solothurn-455-fahrzeuge-kontrolliert-militaer-faehrt-mit-panzer-auf-103671701",
-      "bild": "https://image.20min.ch/2026/11/22/7cac6f9a-6636-4603-bc19-6d02f650de53.jpg?s=1ca0180ac7f7f5390302ccbbd6392f46",
-      "zeit": "2026-11-22T10:54+01:00"
+      "artikel": "https://www.srf.ch/news/schweiz/svp-bundesratsticket-so-aehnlich-sind-sich-aeschi-und-graber-wirklich",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/a48002c.jpg",
+      "zeit": "2026-11-23T05:55+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Nachmittag",
-      "was": "FC Basel gegen Luzern, Jubel oder Frust beim sieglosen FCB unter Jokanovic"
-    },
-    {
-      "wann": "heute",
-      "was": "Söder bei der Jungen Union Bayern in Berchtesgaden, Bühne und Bad in der Menge"
+      "wann": "heute ganzer Tag",
+      "was": "Berner Zibelemärit, Zwiebelzöpfe, Konfetti, möglicherweise Bundesräte oder Stadtpolitik am Marktstand"
     }
   ],
   "hinweis": ""
