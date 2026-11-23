@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-23",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-23-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "COP31 Antalya: Im Entwurf steht wieder nichts zu fossilen Brennstoffen, gespielte Ratlosigkeit, wer dann den Planeten aufheizt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Im Entwurf der Klimakonferenz in Antalya steht wieder kein Wort zu Öl, Gas und Kohle. Weiss jetzt auch nicht, wer den Planeten dann aufheizt, vermutlich Velofahrer*innen."
+    },
+    {
+      "id": "2026-11-23-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Musk will Texas kaufen, gleiche Woche historische Mehrheit der US-Demokraten: lieber sparen statt wählen, für den Kanton Zug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Elon Musk will Texas kaufen, gleiche Woche holen die US-Demokraten eine historische Mehrheit. Vielleicht sollten wir aufhören zu wählen und für den Kanton Zug sparen."
+    },
+    {
+      "id": "2026-11-23-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "SRF-Umfrage: Kantone kontrollieren die Arbeitsbedingungen bei Lieferdiensten kaum, gespielte Angst vor den Kurier*innen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor Uber-Eats-Kurier*innen. Nicht mal die Kantone trauen sich, ihre Arbeitsbedingungen zu kontrollieren."
+    },
     {
       "id": "2026-11-23-0757-27",
       "typ": "politisch-aktuell",
