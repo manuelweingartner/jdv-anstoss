@@ -1,157 +1,27 @@
 {
-  "datum": "2026-11-20",
-  "hinweis": "Anforderung um 07:58 fehlgeschlagen (kein Shard hat geliefert). Liste unverändert, bitte nochmal.",
-  "fertig": true,
+  "datum": "2026-11-23",
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-20-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Erster Dreiergipfel Trump, Xi und Putin, die Guten Dienste der Schweiz enden beim Nummernkonto",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 15,
-      "text": "Trump, Xi und Putin erstmals zu dritt. Gute Dienste der Schweiz: Saal, Apéro, Nummernkonto.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-20-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "Psychologe staunt, wie moralisch sich die meisten in GTA VI verhalten: wer die offene Welt ohne Moral will, geht zu Glencore",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Ein Psychologe staunt, wie moralisch sich die meisten in GTA VI verhalten. Wer die offene Spielwelt ohne Moral will, bewirbt sich bei Glencore, mit Pensionskasse.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-20-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "1,45 Millionen Armutsgefährdete in der Schweiz, Embolo mit garantierten zehn Millionen in der MLS, der Leistungsrat ernst genommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Vielleicht sollten die 1,45 Millionen Armutsgefährdeten der Schweiz einfach in die MLS wechseln, Breel Embolo verdient dort garantierte zehn Millionen. Weiss nicht, warum da noch niemand draufgekommen ist.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-20-0757-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Bankchef-Bonus wegen gestiegener Zinsen als Applaus für den Hahn, der die Sonne aufgehen lässt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Wer dem Bankchef einen Bonus zahlt, weil die Zinsen gestiegen sind, applaudiert auch dem Hahn für den Sonnenaufgang. Jeden Morgen. Mit Aktienoptionen.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-20-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Pensionskasse meldet Rekordrendite mit Rüstungsaktien, Dank an die Gefallenen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 13,
-      "text": "Pensionskasse meldet Rekordrendite mit Rüstungsaktien. Danke allen, die dafür an der Front gestorben sind.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-20-0757-11",
+      "id": "2026-11-23-0757-31",
       "typ": "schnittmenge",
-      "stichwort": "Florida verbietet Abtreibungen, weil jedes Leben zählt, und zählt dieses Jahr bis zwanzig Hinrichtungen",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "stichwort": "KI-Aktien im Sinkflug als «gesunde Bereinigung», dasselbe Etikett für die Sachbearbeiterin, deren Stelle die KI übernimmt",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
       "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Florida verbietet Abtreibungen, weil jedes Leben zählt. Dieses Jahr zählt es bis zwanzig. Hinrichtungen.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
+      "text": "Fallen die KI-Aktien, heisst das an der Börse «gesunde Bereinigung». Fällt die Stelle der Sachbearbeiterin der KI zum Opfer, heisst sie selbst so."
     },
     {
-      "id": "2026-11-20-0757-12",
+      "id": "2026-11-23-0757-32",
       "typ": "politisch-aktuell",
-      "stichwort": "«Wir sind wie eine Familie» im Stelleninserat beim Wort genommen: die Firma erben die Kinder vom Chef",
-      "plattform": "Threads + Bluesky",
+      "stichwort": "Self-Checkout bei der Migros: Kundschaft scannt und packt gratis und wird dafür stichprobenweise kontrolliert",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": 17,
-      "text": "«Wir sind wie eine Familie», steht im Stelleninserat. Stimmt, die Firma erben am Ende die Kinder vom Chef. Steuerfrei.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-20-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Merz verspricht Kiew Hilfe so lange wie nötig, gleiche Woche legen Trump, Xi und Putin zu dritt fest, wie lange das ist",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Merz verspricht Kiew Hilfe, so lange wie nötig. Gleiche Woche treffen sich Trump, Xi und Putin erstmals zu dritt und legen fest, wie lange das ist.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-20-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Trump kritisiert Europas Ukraine-Hilfe direkt nach dem Telefonat mit Putin. Wer mitgeht, lobt ihn dafür, dass er eine Zweitmeinung eingeholt hat.",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Trump findet Europas Ukraine-Hilfe zu hoch, nach dem Telefonat mit Putin. Zweitmeinung eingeholt, vorbildlich.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-20-0757-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Banken stufen Rüstungsaktien als nachhaltig ein, gemeint ist die Nachfrage",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": 3,
-      "text": "Banken stufen Rüstungsaktien neuerdings als nachhaltig ein. Gemeint ist offenbar die Nachfrage.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
+      "format": 16,
+      "text": "Self-Checkout bei der Migros: selbst scannen, selbst einpacken, Stichprobe. Unbezahlt arbeiten und trotzdem verdächtig."
     }
   ]
 }
