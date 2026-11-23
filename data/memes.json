@@ -1,46 +1,46 @@
 {
-  "stand": "2026-11-20T08:01:29+01:00",
+  "stand": "2026-11-23T08:01:49+01:00",
   "vorschlaege": [
     {
       "vorlage": "schild",
       "name": "Change My Mind",
       "zeilen": [
-        "Verwaltungsräte haben längst die 1-Tag-Woche"
+        "Aeschi und Graber sind ein Kandidat"
       ],
-      "warum": "die These dreht die 4-Tage-Studie nach oben, und niemand kann ihr widersprechen",
+      "warum": "die SVP bietet zwei Namen für dieselbe Politik an, und dagegen kann man nichts einwenden",
       "bild": "vorschlag-1.jpg"
     },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Noch mehr Microsoft-Lizenzen",
-        "Digitale Unabhängigkeit",
-        "Bundesverwaltung"
+        "Keine Abschlusserklärung",
+        "Verbindliche Klimaziele",
+        "COP31 Antalya"
       ],
-      "warum": "nach jeder Panne biegt die Verwaltung im letzten Moment wieder zum Gewohnten ab",
+      "warum": "die Klimadiplomatie biegt kurz vor dem Ziel ab und nennt das Scheitern die bessere Lösung",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Weinbranche 1990",
-        "Zweierli zum Zmittag",
-        "Weinbranche 2026",
-        "hofft auf Blixa Bargeld"
+        "KI-Aktien 2025",
+        "Revolution der Menschheit",
+        "KI-Aktien heute",
+        "Gesunde Bereinigung"
       ],
-      "warum": "eine einst stolze Branche klammert sich an eine Lesung, die «nur mit Wein geht»",
+      "warum": "die Börse verspricht erst eine neue Epoche und bezeichnet den Absturz danach als Kur",
       "bild": "vorschlag-3.jpg"
     },
     {
       "vorlage": "winnie",
       "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Oligarchengeld verstecken",
-        "Drehscheibe für heikle Geschäfte"
+        "Niemand kontrolliert Essenskuriere",
+        "Föderale Vollzugsvielfalt"
       ],
-      "warum": "die Formulierung im Deutsche-Bank-Leak ist selbst schon der Euphemismus",
+      "warum": "die Kantone kontrollieren nichts, und die vornehme Fassung macht daraus Föderalismus",
       "bild": "vorschlag-4.jpg"
     }
   ]
