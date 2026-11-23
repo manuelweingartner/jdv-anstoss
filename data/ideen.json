@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-23",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-23-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Iraqi Airways verkauft die zwei Jumbojets von Saddam Hussein für 1,84 Millionen Dollar, in Zürich bekommt man dafür drei Zimmer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Saddams zwei Jumbojets kosten 1,84 Millionen Dollar. In Zürich sind das drei Zimmer."
+    },
+    {
+      "id": "2026-11-23-0757-02",
+      "typ": "politisch-aktuell",
+      "stichwort": "Die Schiffe auf dem Lac des Brenets fahren nicht mehr, weil das Wasser fehlt, und in derselben Woche läuft die Klimakonferenz COP31 auf Grund",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Auf dem Lac des Brenets fahren keine Schiffe mehr, das Wasser fehlt. Gleiche Woche läuft die Klimakonferenz auf Grund, alle Delegationen an Bord."
+    },
+    {
+      "id": "2026-11-23-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wie viele versuchte Femizide es gibt, zeigt erstmals eine SRF-Recherche, während Zürich die Velos automatisch und live zählt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Das Ausmass versuchter Femizide in der Schweiz zeigt erstmals eine Recherche von SRF. Velos zählt die Stadt Zürich automatisch, live auf einer Anzeigetafel."
+    },
     {
       "id": "2026-11-23-0757-04",
       "typ": "politisch-aktuell",
@@ -72,26 +102,6 @@
       "haltbarkeit": "evergreen",
       "format": "frei",
       "text": "Frühpension leisten sich Banker. Maurer bekommen sie auch, als Bandscheibenvorfall, mit Gutachten."
-    },
-    {
-      "id": "2026-11-23-0757-31",
-      "typ": "schnittmenge",
-      "stichwort": "KI-Aktien im Sinkflug als «gesunde Bereinigung», dasselbe Etikett für die Sachbearbeiterin, deren Stelle die KI übernimmt",
-      "plattform": "Threads + Bluesky, IG-Textgrafik",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Fallen die KI-Aktien, heisst das an der Börse «gesunde Bereinigung». Fällt die Stelle der Sachbearbeiterin der KI zum Opfer, heisst sie selbst so."
-    },
-    {
-      "id": "2026-11-23-0757-32",
-      "typ": "politisch-aktuell",
-      "stichwort": "Self-Checkout bei der Migros: Kundschaft scannt und packt gratis und wird dafür stichprobenweise kontrolliert",
-      "plattform": "Threads + Bluesky, IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Self-Checkout bei der Migros: selbst scannen, selbst einpacken, Stichprobe. Unbezahlt arbeiten und trotzdem verdächtig."
     }
   ]
 }
