@@ -1,8 +1,48 @@
 {
   "datum": "2026-11-23",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-23-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rentenalter 67 sei zumutbar, leere Liste der Gerüstbauer*innen, die das auch finden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Rentenalter 67 ist zumutbar, finden die Arbeitgeberverbände. Hier eine Liste aller Gerüstbauer*innen, die das auch finden:\n-\n-"
+    },
+    {
+      "id": "2026-11-23-0757-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Länger arbeiten, weil wir länger leben: bei Gipser*innen löst sich das Problem statistisch von selbst",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Länger arbeiten, weil wir länger leben, sagen die Arbeitgeber. Gute Nachricht für Gipser*innen: bei denen löst sich das Problem von selbst, statistisch, kurz nach der Pension."
+    },
+    {
+      "id": "2026-11-23-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Abschied nach dem Arbeitsleben: Coop-Strauss im Lager, Abgangsentschädigung beim CEO, Vase als Verwaltungsratsmandat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": 1,
+      "text": "Nach einem Arbeitsleben im Lager gibt es zum Abschied einen Coop-Blumenstrauss. Beim CEO heisst der Strauss Abgangsentschädigung, und die Vase ist ein Verwaltungsratsmandat."
+    },
+    {
+      "id": "2026-11-23-0757-30",
+      "typ": "politisch-aktuell",
+      "stichwort": "Frühpension: Banker leisten sie sich, Maurer bekommen sie als Bandscheibenvorfall",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Frühpension leisten sich Banker. Maurer bekommen sie auch, als Bandscheibenvorfall, mit Gutachten."
+    },
     {
       "id": "2026-11-23-0757-31",
       "typ": "schnittmenge",
