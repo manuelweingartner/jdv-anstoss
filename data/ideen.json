@@ -11,17 +11,12 @@
       "schaerfe": "breit",
       "haltbarkeit": "tagesgebunden",
       "format": 19,
-      "text": "Saddams zwei Jumbojets kosten 1,84 Millionen Dollar. In Zürich sind das drei Zimmer."
-    },
-    {
-      "id": "2026-11-23-0757-02",
-      "typ": "politisch-aktuell",
-      "stichwort": "Die Schiffe auf dem Lac des Brenets fahren nicht mehr, weil das Wasser fehlt, und in derselben Woche läuft die Klimakonferenz COP31 auf Grund",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "Auf dem Lac des Brenets fahren keine Schiffe mehr, das Wasser fehlt. Gleiche Woche läuft die Klimakonferenz auf Grund, alle Delegationen an Bord."
+      "text": "Saddams zwei Jumbojets kosten 1,84 Millionen Dollar. In Zürich sind das drei Zimmer.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-23-0757-03",
@@ -31,17 +26,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Das Ausmass versuchter Femizide in der Schweiz zeigt erstmals eine Recherche von SRF. Velos zählt die Stadt Zürich automatisch, live auf einer Anzeigetafel."
-    },
-    {
-      "id": "2026-11-23-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "COP31 Antalya: Im Entwurf steht wieder nichts zu fossilen Brennstoffen, gespielte Ratlosigkeit, wer dann den Planeten aufheizt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Im Entwurf der Klimakonferenz in Antalya steht wieder kein Wort zu Öl, Gas und Kohle. Weiss jetzt auch nicht, wer den Planeten dann aufheizt, vermutlich Velofahrer*innen."
+      "text": "Das Ausmass versuchter Femizide in der Schweiz zeigt erstmals eine Recherche von SRF. Velos zählt die Stadt Zürich automatisch, live auf einer Anzeigetafel.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-23-0757-05",
@@ -51,17 +41,87 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Elon Musk will Texas kaufen, gleiche Woche holen die US-Demokraten eine historische Mehrheit. Vielleicht sollten wir aufhören zu wählen und für den Kanton Zug sparen."
+      "text": "Elon Musk will Texas kaufen, gleiche Woche holen die US-Demokraten eine historische Mehrheit. Vielleicht sollten wir aufhören zu wählen und für den Kanton Zug sparen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
-      "id": "2026-11-23-0757-06",
+      "id": "2026-11-23-0757-11",
+      "typ": "schnittmenge",
+      "stichwort": "KI-Aktien fallen und bekommen eine SRF-Analyse, Lehrstellen fallen wegen KI weg und bekommen vier Tipps",
+      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Fallen KI-Aktien, analysiert das SRF. Fallen wegen KI Lehrstellen weg, gibt es vier Tipps.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-23-0757-22",
       "typ": "politisch-aktuell",
-      "stichwort": "SRF-Umfrage: Kantone kontrollieren die Arbeitsbedingungen bei Lieferdiensten kaum, gespielte Angst vor den Kurier*innen",
+      "stichwort": "Saddam Husseins zwei Regierungsjets kosten weniger als eine Zürcher Wohnung, beide seit 1991 nicht renoviert",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Eine Viereinhalbzimmerwohnung in Zürich kostet mehr als Saddam Husseins zwei Regierungsjets, die für 1,84 Millionen Dollar zu haben sind. Beide seit 1991 nicht renoviert.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-23-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "SRF Investigativ zählt erstmals versuchte Femizide, jedes gestohlene Velo steht längst in der Statistik, und niemand fragt das Velo, was es anhatte",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Jedes gestohlene Velo landet in einer Statistik, versuchte Femizide musste erst SRF Investigativ zusammenzählen. Beim Velo fragt auch niemand, was es anhatte.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-23-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Elon Musk will Texas kaufen, die Angst vor Ausländern, die uns alles wegnehmen, ernst genommen",
       "plattform": "Threads + Bluesky",
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Habe Angst vor Uber-Eats-Kurier*innen. Nicht mal die Kantone trauen sich, ihre Arbeitsbedingungen zu kontrollieren."
+      "text": "Habe Angst vor Ausländern, die uns alles wegnehmen. Elon Musk will jetzt Texas kaufen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-23-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gleiche Woche: Spionin im Bett des Nvidia-Chefs und Hilferuf aus dem Arbeitslager im Schwangerschaftstest, die China-Angst ernst genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Schlimm, was China alles einschleust. Gleiche Woche: dem Nvidia-Chef eine Spionin ins Bett und in Schwangerschaftstests einen Hilferuf aus dem Arbeitslager.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-23-0757-27",
@@ -71,37 +131,27 @@
       "schaerfe": "breit",
       "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Rentenalter 67 ist zumutbar, finden die Arbeitgeberverbände. Hier eine Liste aller Gerüstbauer*innen, die das auch finden:\n-\n-"
+      "text": "Rentenalter 67 ist zumutbar, finden die Arbeitgeberverbände. Hier eine Liste aller Gerüstbauer*innen, die das auch finden:\n-\n-",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     },
     {
-      "id": "2026-11-23-0757-28",
+      "id": "2026-11-23-0757-32",
       "typ": "politisch-aktuell",
-      "stichwort": "Länger arbeiten, weil wir länger leben: bei Gipser*innen löst sich das Problem statistisch von selbst",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
+      "stichwort": "Self-Checkout bei der Migros: Kundschaft scannt und packt gratis und wird dafür stichprobenweise kontrolliert",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
+      "schaerfe": "breit",
       "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Länger arbeiten, weil wir länger leben, sagen die Arbeitgeber. Gute Nachricht für Gipser*innen: bei denen löst sich das Problem von selbst, statistisch, kurz nach der Pension."
-    },
-    {
-      "id": "2026-11-23-0757-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Abschied nach dem Arbeitsleben: Coop-Strauss im Lager, Abgangsentschädigung beim CEO, Vase als Verwaltungsratsmandat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": 1,
-      "text": "Nach einem Arbeitsleben im Lager gibt es zum Abschied einen Coop-Blumenstrauss. Beim CEO heisst der Strauss Abgangsentschädigung, und die Vase ist ein Verwaltungsratsmandat."
-    },
-    {
-      "id": "2026-11-23-0757-30",
-      "typ": "politisch-aktuell",
-      "stichwort": "Frühpension: Banker leisten sie sich, Maurer bekommen sie als Bandscheibenvorfall",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Frühpension leisten sich Banker. Maurer bekommen sie auch, als Bandscheibenvorfall, mit Gutachten."
+      "format": 16,
+      "text": "Self-Checkout bei der Migros: selbst scannen, selbst einpacken, Stichprobe. Unbezahlt arbeiten und trotzdem verdächtig.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
