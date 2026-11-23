@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-23",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "1 Idee aussortiert und nicht ersetzt, Liste hat 9 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -34,6 +34,21 @@
       }
     },
     {
+      "id": "2026-11-23-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "COP31 Antalya: Im Entwurf steht wieder nichts zu fossilen Brennstoffen, gespielte Ratlosigkeit, wer dann den Planeten aufheizt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Im Entwurf der Klimakonferenz in Antalya steht wieder kein Wort zu Öl, Gas und Kohle. Weiss jetzt auch nicht, wer den Planeten dann aufheizt, vermutlich Velofahrer*innen.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-11-23-0757-05",
       "typ": "politisch-aktuell",
       "stichwort": "Musk will Texas kaufen, gleiche Woche historische Mehrheit der US-Demokraten: lieber sparen statt wählen, für den Kanton Zug",
@@ -49,47 +64,17 @@
       }
     },
     {
-      "id": "2026-11-23-0757-11",
-      "typ": "schnittmenge",
-      "stichwort": "KI-Aktien fallen und bekommen eine SRF-Analyse, Lehrstellen fallen wegen KI weg und bekommen vier Tipps",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "id": "2026-11-23-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf das Gemälde im Genfer Zollfreilager: so wohnen wie ein Picasso, klimatisiert, bewacht, steuerfrei",
+      "plattform": "Threads + Bluesky",
       "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": 1,
-      "text": "Fallen KI-Aktien, analysiert das SRF. Fallen wegen KI Lehrstellen weg, gibt es vier Tipps.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-23-0757-22",
-      "typ": "politisch-aktuell",
-      "stichwort": "Saddam Husseins zwei Regierungsjets kosten weniger als eine Zürcher Wohnung, beide seit 1991 nicht renoviert",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 19,
-      "text": "Eine Viereinhalbzimmerwohnung in Zürich kostet mehr als Saddam Husseins zwei Regierungsjets, die für 1,84 Millionen Dollar zu haben sind. Beide seit 1991 nicht renoviert.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-23-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "SRF Investigativ zählt erstmals versuchte Femizide, jedes gestohlene Velo steht längst in der Statistik, und niemand fragt das Velo, was es anhatte",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
+      "haltbarkeit": "evergreen",
       "format": "frei",
-      "text": "Jedes gestohlene Velo landet in einer Statistik, versuchte Femizide musste erst SRF Investigativ zusammenzählen. Beim Velo fragt auch niemand, was es anhatte.",
+      "text": "Einmal so wohnen wie ein Picasso im Genfer Zollfreilager. Klimatisiert. Bewacht. Steuerfrei.",
       "jury": {
         "anker": true,
-        "witz": true,
+        "witz": false,
         "neu": true
       }
     },
