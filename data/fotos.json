@@ -1,59 +1,60 @@
 {
-  "stand": "2026-11-24T08:02:51+01:00",
-  "lauf": "0802",
+  "stand": "2026-11-24T17:00:37+01:00",
+  "lauf": "1700",
   "fotos": [
     {
-      "id": "0802-1",
-      "titel": "US-Chiphersteller Nvidia – Trump drängte auf Huangs Rückkehr und erzürnt damit den Kongress",
-      "was": "Jensen Huang in Lederjacke jubelt bei der Rückkehr ins Nvidia-Hauptquartier",
-      "richtung": "Mechanik: Rollenrede aus Sicht von Trump, der die Rückkehr als sein Werk verbucht. Achse: Eine Regierung, die von freier Marktwirtschaft spricht, setzt selbst den Firmenchef ein.",
+      "id": "1700-1",
+      "titel": "Nvidia-Skandal: Wie Donald Trump die Rückkehr von Jensen Huang durchsetzte",
+      "was": "Jensen Huang in Lederjacke neben Donald Trump, Handschlag im Weissen Haus",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Silicon-Valley-Freiheit gegen einen Präsidenten, der den CEO wieder einsetzt wie ein Personalchef.",
       "grund": "breit",
       "raum": "weltweit",
-      "quelle": "SRF",
-      "auch_bei": [
-        "20 Minuten"
-      ],
-      "artikel": "https://www.srf.ch/news/wirtschaft/us-chiphersteller-nvidia-trump-draengte-auf-huangs-rueckkehr-und-erzuernt-damit-den-kongress",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/c7b97c.jpg",
-      "zeit": "2026-11-24T06:35+01:00"
-    },
-    {
-      "id": "0802-2",
-      "titel": "Bundesratskandidaten-Mandate – Die wirtschaftlichen Verflechtungen von Aeschi und Graber",
-      "was": "Thomas Aeschi und Michael Graber nebeneinander bei der Präsentation des SVP-Tickets",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, also die Mandate zählen wie Trophäen. Achse: Volksvertreter gegen Verwaltungsratsmandate.",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "Spiegel",
       "auch_bei": [
         "NZZ"
       ],
-      "artikel": "https://www.srf.ch/news/wirtschaft/bundesratskandidaten-mandate-die-wirtschaftlichen-verflechtungen-von-aeschi-und-graber",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/b5e7b4e.jpg",
-      "zeit": "2026-11-24T05:51+01:00"
+      "artikel": "https://www.spiegel.de/ausland/nvidia-skandal-wie-donald-trump-die-rueckkehr-von-jensen-huang-durchsetzte-a-5133b7fe-b964-4915-a3ad-579bedcb1659#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/829ac1d1-efb6-4862-aef1-0f065abe1357_w520_r2.08_fpx44_fpy43.jpg",
+      "zeit": "2026-11-24T16:42+01:00"
     },
     {
-      "id": "0802-3",
-      "titel": "Heute beginnt in Genf die Schach-WM. Zwei 20-Jährige spielen um den Titel",
-      "was": "Gukesh und Sindarow sitzen sich in Genf am Brett gegenüber, Augen geschlossen",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Augenschliessen als Konzentrationstechnik wird zum Wegschauen. Achse: Weltklasse-Strategie gegen eine Politik, die genau so mit Problemen umgeht.",
+      "id": "1700-2",
+      "titel": "TAS hat entschieden – Nach Final-Eklat: Senegal erhält Afrika-Cup-Titel 2025 zurück",
+      "was": "Senegalesische Spieler jubeln mit dem Pokal, Marokkaner stehen enttäuscht daneben",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Ein Titel, der auf dem Rasen gewonnen wurde, gegen einen Titel, den Juristen Monate später zurückgeben.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "SRF",
+      "auch_bei": [
+        "NZZ",
+        "Spiegel"
+      ],
+      "artikel": "https://www.srf.ch/sport/fussball/fussball-allgemein/tas-hat-entschieden-nach-final-eklat-senegal-erhaelt-afrika-cup-titel-2025-zurueck",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/a1f371.jpg",
+      "zeit": "2026-11-24T16:09+01:00"
+    },
+    {
+      "id": "1700-3",
+      "titel": "Ignazio Cassis persönlich eröffnete in Pjongjang die Schweizer Aussenstelle. Nun droht die Schwester von Nordkoreas Diktator mit der Schliessung",
+      "was": "Ignazio Cassis lächelt bei der Eröffnung der Schweizer Aussenstelle in Pjongjang",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Schweizer Neutralität mit Band durchschneiden und Händeschütteln gegen EU-Sanktionen kurz danach.",
       "grund": "memetauglich",
       "raum": "schweiz",
       "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/sport/weitere-sportarten/wenn-der-titelverteidiger-der-aussenseiter-ist-an-der-schach-wm-in-cologny-bei-genf-treten-zwei-20-jaehrige-gegeneinander-an-ld.10072110",
-      "bild": "https://img-msp-prod.nzz.ch/2026/11/22/233095aa-618a-4a45-82b1-7cac5101601c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3100,3100,x775,y0",
-      "zeit": "2026-11-24T05:30+01:00"
+      "artikel": "https://www.nzz.ch/schweiz/nordkorea-droht-mit-der-schliessung-des-erst-kuerzlich-wiedereroeffneten-schweizer-bueros-ld.10072867",
+      "bild": "https://img-msp-prod.nzz.ch/2026/10/31/41335285-f1f7-4dfe-9412-e43263c69702.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2928,2928,x1121,y307",
+      "zeit": "2026-11-24T16:16+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute",
-      "was": "Eröffnung und erste Partie der Schach-WM in Genf, Handschlag am Brett"
+      "wann": "heute, Vatikan",
+      "was": "Papst Leo XIV. und Friedrich Merz bei der ersten Privataudienz, Handschlag und Geschenkübergabe"
     },
     {
-      "wann": "heute",
-      "was": "Rutte und Merz bei einer gemeinsamen Medienkonferenz in Berlin, Handschlag vor Flaggen"
+      "wann": "heute, Genf",
+      "was": "Zwei junge Schachspieler am WM-Brett, konzentriert oder ratlos über den Figuren"
     }
   ],
   "hinweis": ""
