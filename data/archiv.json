@@ -25061,6 +25061,150 @@
         "neu": true
       },
       "datum": "2026-11-20"
+    },
+    {
+      "id": "2026-11-23-0757-01",
+      "typ": "politisch-aktuell",
+      "stichwort": "Iraqi Airways verkauft die zwei Jumbojets von Saddam Hussein für 1,84 Millionen Dollar, in Zürich bekommt man dafür drei Zimmer",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 19,
+      "text": "Saddams zwei Jumbojets kosten 1,84 Millionen Dollar. In Zürich sind das drei Zimmer.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-0757-03",
+      "typ": "politisch-aktuell",
+      "stichwort": "Wie viele versuchte Femizide es gibt, zeigt erstmals eine SRF-Recherche, während Zürich die Velos automatisch und live zählt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 1,
+      "text": "Das Ausmass versuchter Femizide in der Schweiz zeigt erstmals eine Recherche von SRF. Velos zählt die Stadt Zürich automatisch, live auf einer Anzeigetafel.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "COP31 Antalya: Im Entwurf steht wieder nichts zu fossilen Brennstoffen, gespielte Ratlosigkeit, wer dann den Planeten aufheizt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Im Entwurf der Klimakonferenz in Antalya steht wieder kein Wort zu Öl, Gas und Kohle. Weiss jetzt auch nicht, wer den Planeten dann aufheizt, vermutlich Velofahrer*innen.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Musk will Texas kaufen, gleiche Woche historische Mehrheit der US-Demokraten: lieber sparen statt wählen, für den Kanton Zug",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Elon Musk will Texas kaufen, gleiche Woche holen die US-Demokraten eine historische Mehrheit. Vielleicht sollten wir aufhören zu wählen und für den Kanton Zug sparen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Neid auf das Gemälde im Genfer Zollfreilager: so wohnen wie ein Picasso, klimatisiert, bewacht, steuerfrei",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Einmal so wohnen wie ein Picasso im Genfer Zollfreilager. Klimatisiert. Bewacht. Steuerfrei.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      },
+      "datum": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "Elon Musk will Texas kaufen, die Angst vor Ausländern, die uns alles wegnehmen, ernst genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Habe Angst vor Ausländern, die uns alles wegnehmen. Elon Musk will jetzt Texas kaufen.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-0757-26",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gleiche Woche: Spionin im Bett des Nvidia-Chefs und Hilferuf aus dem Arbeitslager im Schwangerschaftstest, die China-Angst ernst genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Schlimm, was China alles einschleust. Gleiche Woche: dem Nvidia-Chef eine Spionin ins Bett und in Schwangerschaftstests einen Hilferuf aus dem Arbeitslager.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": false
+      },
+      "datum": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-0757-27",
+      "typ": "politisch-aktuell",
+      "stichwort": "Rentenalter 67 sei zumutbar, leere Liste der Gerüstbauer*innen, die das auch finden",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Rentenalter 67 ist zumutbar, finden die Arbeitgeberverbände. Hier eine Liste aller Gerüstbauer*innen, die das auch finden:\n-\n-",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-0757-32",
+      "typ": "politisch-aktuell",
+      "stichwort": "Self-Checkout bei der Migros: Kundschaft scannt und packt gratis und wird dafür stichprobenweise kontrolliert",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Self-Checkout bei der Migros: selbst scannen, selbst einpacken, Stichprobe. Unbezahlt arbeiten und trotzdem verdächtig.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      },
+      "datum": "2026-11-23"
     }
   ]
 }
