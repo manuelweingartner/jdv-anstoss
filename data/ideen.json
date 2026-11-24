@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-24",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "2 Ideen aussortiert und nicht ersetzt, Liste hat 8 statt 10.",
   "fertig": true,
   "ideen": [
     {
@@ -64,6 +64,21 @@
       }
     },
     {
+      "id": "2026-11-24-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Waffenstillstand als Gewinnwarnung für Rheinmetall",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ein Waffenstillstand in der Ukraine wäre für Rheinmetall keine Hoffnung, sondern eine Gewinnwarnung.",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
       "id": "2026-11-24-0757-11",
       "typ": "schnittmenge",
       "stichwort": "Handtasche klauen gegen Lebensversicherungen am Küchentisch verkaufen, Haft gegen Rotary Club",
@@ -106,51 +121,6 @@
         "witz": true,
         "anker": true,
         "neu": false
-      }
-    },
-    {
-      "id": "2026-11-24-0757-24",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kim Yo Jong droht wegen Sanktionen, das Schweizer Büro in Pjöngjang zu schliessen, gespielte Überraschung, dass die Schweiz Sanktionen durchsetzt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Seh ich das richtig, Nordkorea droht wegen Schweizer Sanktionen, unser Büro in Pjöngjang zu schliessen? Die Oligarchen in Gstaad wussten gar nicht, dass es welche gibt.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-24-0757-28",
-      "typ": "politisch-aktuell",
-      "stichwort": "Briefkasten in Zug mit mehr Firmen als Bewohner*innen, Steuersitz ohne Zahnbürste",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "In Zug hat ein einziger Briefkasten mehr Firmen als das Haus dahinter Bewohner*innen. Alle mit Steuersitz. Keine mit Zahnbürste.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-24-0757-29",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vier-Tage-Woche angeblich nicht finanzierbar, am Zürichberg läuft der Pilot mit der Null-Tage-Woche seit Generationen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Die Vier-Tage-Woche sei nicht finanzierbar, warnt der Arbeitgeberverband. Am Zürichberg läuft der Pilotversuch mit der Null-Tage-Woche seit Generationen. Ohne Lohneinbusse.",
-      "jury": {
-        "anker": true,
-        "witz": true,
-        "neu": true
       }
     }
   ]
