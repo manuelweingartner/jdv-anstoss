@@ -1,59 +1,59 @@
 {
-  "stand": "2026-11-23T17:00:37+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-24T08:02:51+01:00",
+  "lauf": "0802",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Nach SVP-Bundesratsticket – Grüne schicken Sprengkandidatin ins Rennen",
-      "was": "Delphine Klopfenstein Broggini lächelnd vor Grünen-Logo an der Nominations-Medienkonferenz",
-      "richtung": "Mechanik: wörtlich nehmen, was symbolisch gemeint ist, nämlich die Sprengkandidatin. Achse: angekündigte Sprengung gegen eine Kandidatur, die im Bundeshaus allen vorher als chancenlos gilt.",
+      "id": "0802-1",
+      "titel": "US-Chiphersteller Nvidia – Trump drängte auf Huangs Rückkehr und erzürnt damit den Kongress",
+      "was": "Jensen Huang in Lederjacke jubelt bei der Rückkehr ins Nvidia-Hauptquartier",
+      "richtung": "Mechanik: Rollenrede aus Sicht von Trump, der die Rückkehr als sein Werk verbucht. Achse: Eine Regierung, die von freier Marktwirtschaft spricht, setzt selbst den Firmenchef ein.",
+      "grund": "breit",
+      "raum": "weltweit",
+      "quelle": "SRF",
+      "auch_bei": [
+        "20 Minuten"
+      ],
+      "artikel": "https://www.srf.ch/news/wirtschaft/us-chiphersteller-nvidia-trump-draengte-auf-huangs-rueckkehr-und-erzuernt-damit-den-kongress",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/c7b97c.jpg",
+      "zeit": "2026-11-24T06:35+01:00"
+    },
+    {
+      "id": "0802-2",
+      "titel": "Bundesratskandidaten-Mandate – Die wirtschaftlichen Verflechtungen von Aeschi und Graber",
+      "was": "Thomas Aeschi und Michael Graber nebeneinander bei der Präsentation des SVP-Tickets",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen, also die Mandate zählen wie Trophäen. Achse: Volksvertreter gegen Verwaltungsratsmandate.",
       "grund": "breit",
       "raum": "schweiz",
       "quelle": "SRF",
       "auch_bei": [
         "NZZ"
       ],
-      "artikel": "https://www.srf.ch/news/schweiz/nach-svp-bundesratsticket-gruene-schicken-sprengkandidatin-ins-rennen",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/2a6f6a.jpg",
-      "zeit": "2026-11-23T16:28+01:00"
+      "artikel": "https://www.srf.ch/news/wirtschaft/bundesratskandidaten-mandate-die-wirtschaftlichen-verflechtungen-von-aeschi-und-graber",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/b5e7b4e.jpg",
+      "zeit": "2026-11-24T05:51+01:00"
     },
     {
-      "id": "1700-2",
-      "titel": "Paukenschlag bei Nvidia: Jensen Huang ist wieder CEO",
-      "was": "Jensen Huang in Lederjacke auf der Bühne, Arme ausgebreitet",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Angestellte fliegen für viel weniger, der Chef wird nach zwei Wochen und mitten in der Spionageaffäre zurückgeholt, weil der Aktienkurs ihn braucht.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "20 Minuten",
-      "auch_bei": [
-        "NZZ",
-        "SRF",
-        "Spiegel",
-        "Tagesschau",
-        "taz"
-      ],
-      "artikel": "https://www.20min.ch/story/nvidia-jensen-huang-ist-wieder-nvidia-ceo-103672569",
-      "bild": "https://image.20min.ch/2026/11/23/d3909737-7a90-4ad8-b71b-f70597967633.jpg?s=9fff796ef0d6d29a4391adb74d615dcf",
-      "zeit": "2026-11-23T15:06+01:00"
-    },
-    {
-      "id": "1700-3",
-      "titel": "2031 & 2035 mit 48 Teams – Frauen-WM: Erst in USA und Mittelamerika, dann in Grossbritannien",
-      "was": "FIFA-Spitze posiert mit WM-Pokal zwischen Flaggen der Gastgeberländer",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Förderung des Frauenfussballs als Botschaft gegen ein auf 48 Teams aufgeblähtes Turnier, das vor allem mehr Einnahmen bringt.",
+      "id": "0802-3",
+      "titel": "Heute beginnt in Genf die Schach-WM. Zwei 20-Jährige spielen um den Titel",
+      "was": "Gukesh und Sindarow sitzen sich in Genf am Brett gegenüber, Augen geschlossen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung, das Augenschliessen als Konzentrationstechnik wird zum Wegschauen. Achse: Weltklasse-Strategie gegen eine Politik, die genau so mit Problemen umgeht.",
       "grund": "memetauglich",
-      "raum": "weltweit",
-      "quelle": "SRF",
+      "raum": "schweiz",
+      "quelle": "NZZ",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/sport/fussball/frauen-fussball/2031-2035-mit-48-teams-frauen-wm-erst-in-usa-und-mittelamerika-dann-in-grossbritannien",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/56e044.jpg",
-      "zeit": "2026-11-23T16:22+01:00"
+      "artikel": "https://www.nzz.ch/sport/weitere-sportarten/wenn-der-titelverteidiger-der-aussenseiter-ist-an-der-schach-wm-in-cologny-bei-genf-treten-zwei-20-jaehrige-gegeneinander-an-ld.10072110",
+      "bild": "https://img-msp-prod.nzz.ch/2026/11/22/233095aa-618a-4a45-82b1-7cac5101601c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3100,3100,x775,y0",
+      "zeit": "2026-11-24T05:30+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute Nachmittag",
-      "was": "Merz und Rutte beim Treffen, Handschlag und Pressestatement vor Flaggen"
+      "wann": "heute",
+      "was": "Eröffnung und erste Partie der Schach-WM in Genf, Handschlag am Brett"
+    },
+    {
+      "wann": "heute",
+      "was": "Rutte und Merz bei einer gemeinsamen Medienkonferenz in Berlin, Handschlag vor Flaggen"
     }
   ],
   "hinweis": ""
