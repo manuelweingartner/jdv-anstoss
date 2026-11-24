@@ -1,46 +1,46 @@
 {
-  "stand": "2026-11-23T08:01:49+01:00",
+  "stand": "2026-11-24T08:03:18+01:00",
   "vorschlaege": [
-    {
-      "vorlage": "schild",
-      "name": "Change My Mind",
-      "zeilen": [
-        "Aeschi und Graber sind ein Kandidat"
-      ],
-      "warum": "die SVP bietet zwei Namen für dieselbe Politik an, und dagegen kann man nichts einwenden",
-      "bild": "vorschlag-1.jpg"
-    },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Keine Abschlusserklärung",
-        "Verbindliche Klimaziele",
-        "COP31 Antalya"
+        "Huang zurückholen",
+        "Neuer CEO nach Untersuchung",
+        "Trump"
       ],
-      "warum": "die Klimadiplomatie biegt kurz vor dem Ziel ab und nennt das Scheitern die bessere Lösung",
+      "warum": "Der Verwaltungsrat biegt in letzter Sekunde ab, obwohl die Untersuchung den geraden Weg vorgegeben hat, und das Bild zeigt, wer wirklich len",
+      "bild": "vorschlag-1.jpg"
+    },
+    {
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
+      "zeilen": [
+        "Vermummt an der Demo",
+        "Polizei in Zivil"
+      ],
+      "warum": "Was Demonstrierenden verboten ist, heisst bei der Stadtpolizei Zürich plötzlich Einsatztaktik.",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "KI-Aktien 2025",
-        "Revolution der Menschheit",
-        "KI-Aktien heute",
-        "Gesunde Bereinigung"
+        "Wasserschloss Europas",
+        "Quellen für alle",
+        "Hochdorf 2026",
+        "Autowaschen verboten"
       ],
-      "warum": "die Börse verspricht erst eine neue Epoche und bezeichnet den Absturz danach als Kur",
+      "warum": "Der Schweizer Mythos vom Wasserüberfluss steht neben einer Luzerner Gemeinde, die das Autowaschen verbieten muss.",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
+      "vorlage": "schild",
+      "name": "Change My Mind",
       "zeilen": [
-        "Niemand kontrolliert Essenskuriere",
-        "Föderale Vollzugsvielfalt"
+        "Mandate sind keine Exekutiverfahrung"
       ],
-      "warum": "die Kantone kontrollieren nichts, und die vornehme Fassung macht daraus Föderalismus",
+      "warum": "Der SRF-Vergleich von Aeschi und Graber steckt schon in einem Satz, dem niemand widersprechen kann.",
       "bild": "vorschlag-4.jpg"
     }
   ]
