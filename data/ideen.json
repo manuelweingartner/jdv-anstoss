@@ -1,8 +1,48 @@
 {
   "datum": "2026-11-24",
-  "hinweis": "5 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-24-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Personalabteilungen, die Pflege der eigenen Mutter als Führungserfahrung anrechnen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Personalabteilungen, die die Pflege der eigenen Mutter im Lebenslauf als Führungserfahrung anrechnen:\n-\n-\nLücke bleibt Lücke."
+    },
+    {
+      "id": "2026-11-24-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Ausweis am Postschalter fürs Paket, Rohstoffkonzern in Zug braucht nur einen Briefkasten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Für ein Paket will die Post den Ausweis sehen. Ein Rohstoffkonzern in Zug braucht für seinen Sitz nur den Briefkasten. Ohne Gesicht. Mit Steuerrabatt."
+    },
+    {
+      "id": "2026-11-24-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Viertagewoche ruiniert die Wirtschaft, Dividendenleben mit null Arbeitstagen gilt als Leistung",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Seh ich das richtig, die Viertagewoche ruiniert die Wirtschaft, aber wer von Dividenden lebt, arbeitet null Tage und heisst Leistungsträger? Frage an den Gewerbeverband."
+    },
+    {
+      "id": "2026-11-24-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Waffenstillstand als Gewinnwarnung für Rheinmetall",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ein Waffenstillstand in der Ukraine wäre für Rheinmetall keine Hoffnung, sondern eine Gewinnwarnung."
+    },
     {
       "id": "2026-11-24-0757-11",
       "typ": "schnittmenge",
