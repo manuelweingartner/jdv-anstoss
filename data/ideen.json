@@ -4,44 +4,64 @@
   "fertig": true,
   "ideen": [
     {
-      "id": "2026-11-24-0757-07",
+      "id": "2026-11-24-0757-03",
       "typ": "politisch-aktuell",
-      "stichwort": "Leere Liste der Personalabteilungen, die Pflege der eigenen Mutter als Führungserfahrung anrechnen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Hier alle Personalabteilungen, die die Pflege der eigenen Mutter im Lebenslauf als Führungserfahrung anrechnen:\n-\n-\nLücke bleibt Lücke."
-    },
-    {
-      "id": "2026-11-24-0757-08",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ausweis am Postschalter fürs Paket, Rohstoffkonzern in Zug braucht nur einen Briefkasten",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Für ein Paket will die Post den Ausweis sehen. Ein Rohstoffkonzern in Zug braucht für seinen Sitz nur den Briefkasten. Ohne Gesicht. Mit Steuerrabatt."
-    },
-    {
-      "id": "2026-11-24-0757-09",
-      "typ": "politisch-aktuell",
-      "stichwort": "Viertagewoche ruiniert die Wirtschaft, Dividendenleben mit null Arbeitstagen gilt als Leistung",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Seh ich das richtig, die Viertagewoche ruiniert die Wirtschaft, aber wer von Dividenden lebt, arbeitet null Tage und heisst Leistungsträger? Frage an den Gewerbeverband."
-    },
-    {
-      "id": "2026-11-24-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Waffenstillstand als Gewinnwarnung für Rheinmetall",
+      "stichwort": "EU will russische Athlet*innen ohne Flagge starten lassen, russische Vermögen in Zug machen das längst",
       "plattform": "Threads + Bluesky",
       "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Ein Waffenstillstand in der Ukraine wäre für Rheinmetall keine Hoffnung, sondern eine Gewinnwarnung."
+      "text": "Die EU will russische Sportler*innen nur noch ohne Landesflagge antreten lassen. In Zug machen russische Vermögen das seit Jahren freiwillig. Unter Briefkastenadresse.",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-24-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vergleich der SVP-Kandidaten Aeschi und Graber: der eine kann regieren, der andere hat Verwaltungsratsmandate, gespielte Ratlosigkeit bei der Wahl",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Vergleich der SVP-Bundesratskandidaten: Graber hat Erfahrung in der Exekutive, Aeschi mehr Verwaltungsratsmandate. Schwierige Wahl, der eine weiss, wie man regiert, der andere, für wen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
+    },
+    {
+      "id": "2026-11-24-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Schuldsprüche im Fall Joanne Young nach Gisèle Pelicot, die Warnung vor dem fremden Mann im Park ernst genommen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Frauen sollen nachts nicht allein durch den Park. Seh ich das richtig, Gisèle Pelicot und Joanne Young hat beide der eigene Ehemann betäubt?",
+      "jury": {
+        "witz": false,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-24-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Kim Yo Jong droht wegen Sanktionen mit der Schliessung des Schweizer Büros in Pjöngjang, gespieltes Staunen, dass es Schweizer Sanktionen gibt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Moment, Nordkorea droht wegen Sanktionen, das Schweizer Büro zu schliessen? Die gibt's wirklich?",
+      "jury": {
+        "anker": true,
+        "witz": false,
+        "neu": true
+      }
     },
     {
       "id": "2026-11-24-0757-11",
@@ -51,27 +71,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "evergreen",
       "format": 1,
-      "text": "Wer einer Rentnerin die Handtasche klaut, kommt in Haft. Wer ihr drei Lebensversicherungen verkauft, kommt in den Rotary Club."
-    },
-    {
-      "id": "2026-11-24-0757-12",
-      "typ": "politisch-aktuell",
-      "stichwort": "Waschküchenplan regelt jede Viertelstunde, für Glencore reicht eine freiwillige Selbstverpflichtung",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 16,
-      "text": "Der Waschküchenplan regelt jede Viertelstunde. Für Glencore reicht eine freiwillige Selbstverpflichtung."
-    },
-    {
-      "id": "2026-11-24-0757-21",
-      "typ": "politisch-aktuell",
-      "stichwort": "Zehn Jahre Friedensvertrag Kolumbien: vier Jahre Verhandlung gegen fünfzig Jahre Krieg, die Schweiz ringt seit 2014 mit der EU, ganz ohne Schuss",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "evergreen",
-      "format": 19,
-      "text": "Kolumbien brauchte vier Jahre Verhandlung, um ein halbes Jahrhundert Bürgerkrieg zu beenden. Die Schweiz ringt seit 2014 um einen Vertrag mit der EU, ganz ohne Schuss."
+      "text": "Wer einer Rentnerin die Handtasche klaut, kommt in Haft. Wer ihr drei Lebensversicherungen verkauft, kommt in den Rotary Club.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-24-0757-22",
@@ -81,7 +86,12 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": 18,
-      "text": "KI-Aktien stürzen ab, gleiche Woche holt Trump Jensen Huang zurück an die Nvidia-Spitze. Im Rennen mit China holen die USA endlich auf: bei der Planwirtschaft."
+      "text": "KI-Aktien stürzen ab, gleiche Woche holt Trump Jensen Huang zurück an die Nvidia-Spitze. Im Rennen mit China holen die USA endlich auf: bei der Planwirtschaft.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-24-0757-23",
@@ -91,7 +101,12 @@
       "schaerfe": "steil",
       "haltbarkeit": "tagesgebunden",
       "format": 13,
-      "text": "Luzerner Gemeinden verbieten wegen Wassermangel das Autowaschen. Endlich trifft die Klimakrise die Richtigen."
+      "text": "Luzerner Gemeinden verbieten wegen Wassermangel das Autowaschen. Endlich trifft die Klimakrise die Richtigen.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": false
+      }
     },
     {
       "id": "2026-11-24-0757-24",
@@ -101,7 +116,42 @@
       "schaerfe": "mittel",
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
-      "text": "Seh ich das richtig, Nordkorea droht wegen Schweizer Sanktionen, unser Büro in Pjöngjang zu schliessen? Die Oligarchen in Gstaad wussten gar nicht, dass es welche gibt."
+      "text": "Seh ich das richtig, Nordkorea droht wegen Schweizer Sanktionen, unser Büro in Pjöngjang zu schliessen? Die Oligarchen in Gstaad wussten gar nicht, dass es welche gibt.",
+      "jury": {
+        "witz": true,
+        "anker": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-24-0757-28",
+      "typ": "politisch-aktuell",
+      "stichwort": "Briefkasten in Zug mit mehr Firmen als Bewohner*innen, Steuersitz ohne Zahnbürste",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "In Zug hat ein einziger Briefkasten mehr Firmen als das Haus dahinter Bewohner*innen. Alle mit Steuersitz. Keine mit Zahnbürste.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-24-0757-29",
+      "typ": "politisch-aktuell",
+      "stichwort": "Vier-Tage-Woche angeblich nicht finanzierbar, am Zürichberg läuft der Pilot mit der Null-Tage-Woche seit Generationen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Die Vier-Tage-Woche sei nicht finanzierbar, warnt der Arbeitgeberverband. Am Zürichberg läuft der Pilotversuch mit der Null-Tage-Woche seit Generationen. Ohne Lohneinbusse.",
+      "jury": {
+        "anker": true,
+        "witz": true,
+        "neu": true
+      }
     }
   ]
 }
