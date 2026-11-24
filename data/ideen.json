@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-24",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -64,6 +64,36 @@
       "text": "Der Waschküchenplan regelt jede Viertelstunde. Für Glencore reicht eine freiwillige Selbstverpflichtung."
     },
     {
+      "id": "2026-11-24-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "Zehn Jahre Friedensvertrag Kolumbien: vier Jahre Verhandlung gegen fünfzig Jahre Krieg, die Schweiz ringt seit 2014 mit der EU, ganz ohne Schuss",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 19,
+      "text": "Kolumbien brauchte vier Jahre Verhandlung, um ein halbes Jahrhundert Bürgerkrieg zu beenden. Die Schweiz ringt seit 2014 um einen Vertrag mit der EU, ganz ohne Schuss."
+    },
+    {
+      "id": "2026-11-24-0757-22",
+      "typ": "politisch-aktuell",
+      "stichwort": "KI-Aktien stürzen ab, gleiche Woche holt Trump Jensen Huang an die Nvidia-Spitze zurück: Aufholen gegen China bei der Planwirtschaft",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "KI-Aktien stürzen ab, gleiche Woche holt Trump Jensen Huang zurück an die Nvidia-Spitze. Im Rennen mit China holen die USA endlich auf: bei der Planwirtschaft."
+    },
+    {
+      "id": "2026-11-24-0757-23",
+      "typ": "politisch-aktuell",
+      "stichwort": "Luzerner Gemeinden verbieten wegen versiegender Quellen das Autowaschen, Klimakrise trifft endlich die Richtigen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": 13,
+      "text": "Luzerner Gemeinden verbieten wegen Wassermangel das Autowaschen. Endlich trifft die Klimakrise die Richtigen."
+    },
+    {
       "id": "2026-11-24-0757-24",
       "typ": "politisch-aktuell",
       "stichwort": "Kim Yo Jong droht wegen Sanktionen, das Schweizer Büro in Pjöngjang zu schliessen, gespielte Überraschung, dass die Schweiz Sanktionen durchsetzt",
@@ -72,26 +102,6 @@
       "haltbarkeit": "tagesgebunden",
       "format": "frei",
       "text": "Seh ich das richtig, Nordkorea droht wegen Schweizer Sanktionen, unser Büro in Pjöngjang zu schliessen? Die Oligarchen in Gstaad wussten gar nicht, dass es welche gibt."
-    },
-    {
-      "id": "2026-11-24-0757-25",
-      "typ": "politisch-aktuell",
-      "stichwort": "Spanien als Drehscheibe für illegal verschobenen Abfall, die Angst vor illegaler Einreise ernst genommen, Frontex sucht weiter nur Boote ab",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Stimmt, Europa hat ein Problem mit illegaler Einreise nach Spanien. Zehntausende Tonnen Abfall jährlich, ohne Bewilligung, und Frontex kontrolliert weiterhin nur Schlauchboote."
-    },
-    {
-      "id": "2026-11-24-0757-26",
-      "typ": "politisch-aktuell",
-      "stichwort": "Ständeratspräsident Engler nennt das SVP-Bundesratsticket eine Provokation, aber wählbar, gespielte Ratlosigkeit, was dann unwählbar wäre",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Provokation, aber wählbar, sagt der Ständeratspräsident zum SVP-Ticket. Fragt sich, was dann unwählbar wäre."
     }
   ]
 }
