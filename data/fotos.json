@@ -1,53 +1,57 @@
 {
-  "stand": "2026-11-26T08:41:54+01:00",
+  "stand": "2026-11-26T17:00:30+01:00",
   "lauf": "1700",
   "fotos": [
     {
       "id": "1700-1",
-      "titel": "Ablehnung nur von ganz rechts: Das EU-Parlament stimmt dem bilateralen Vertrag mit der Schweiz haushoch zu",
-      "was": "Ablehnung nur von ganz rechts: Das EU-Parlament stimmt dem bilateralen Vertrag mit der Schweiz haushoch zu",
-      "richtung": "",
-      "grund": "breit",
-      "raum": "schweiz",
-      "quelle": "NZZ",
-      "auch_bei": [
-        "SRF",
-        "Tagesschau"
-      ],
-      "artikel": "https://www.nzz.ch/wirtschaft/opposition-nur-von-ganz-rechts-das-eu-parlament-stimmt-dem-bilateralen-vertrag-mit-der-schweiz-haushoch-zu-ld.10074337",
-      "bild": "https://img-msp-prod.nzz.ch/2026/11/25/50001ecd-6e89-449e-85fe-5209eb9e72e5.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2633,2633,x1887,y992",
-      "zeit": "2026-11-25T16:07+01:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "USA planen neue Zölle gegen EU, China und 13 weitere Handelspartner",
-      "was": "USA planen neue Zölle gegen EU, China und 13 weitere Handelspartner",
-      "richtung": "",
+      "titel": "Nachfolge für Christine Lagarde: Pablo Hernández de Cos wird neuer EZB-Chef",
+      "was": "Porträt von Hernández de Cos, eventuell Händedruck mit Lagarde",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Billionen schwere Geldpolitik gegen Postengeschacher wie bei einer Vereinsvorstandswahl.",
       "grund": "breit",
       "raum": "",
-      "quelle": "Spiegel",
+      "quelle": "taz",
       "auch_bei": [
         "NZZ",
         "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/wirtschaft/usa-planen-neue-zoelle-gegen-eu-china-und-13-weitere-handelspartner-a-7ef83cdc-c400-43be-afd1-e5ab1a246e7d#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/19e61923-4eba-4298-a157-3aab36febfb9_w520_r2.08_fpx41.16_fpy49.99.jpg",
-      "zeit": "2026-11-25T14:35+01:00"
+      "artikel": "https://taz.de/Nachfolge-fuer-Christine-Lagarde/!6233514/",
+      "bild": "https://taz.de/picture/8888950/948/42647075.jpeg",
+      "zeit": "2026-11-26T16:35+01:00"
+    },
+    {
+      "id": "1700-2",
+      "titel": "MELDUNGEN SCHWEIZ - Italien nimmt wieder Asylsuchende aus der Schweiz zurück",
+      "was": "MELDUNGEN SCHWEIZ - Italien nimmt wieder Asylsuchende aus der Schweiz zurück",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Der eigene Einzelsieg als Trostpreis gegen das Scheitern der ganzen Mannschaft.",
+      "grund": "breit",
+      "raum": "schweiz",
+      "quelle": "NZZ",
+      "auch_bei": [
+        "SRF"
+      ],
+      "artikel": "https://www.nzz.ch/schweiz/schweiz-die-neuesten-meldungen-ld.10054175",
+      "bild": "https://img-msp-prod.nzz.ch/2026/06/29/6281bfce-732e-44f9-8698-4682111aa167.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
+      "zeit": "2026-11-26T16:30+01:00"
     },
     {
       "id": "1700-3",
-      "titel": "Sie schlafen ein – und wachen mit komplett tätowiertem Körper auf",
-      "was": "Sie schlafen ein, und wachen mit komplett tätowiertem Körper auf",
-      "richtung": "",
+      "titel": "Wegen Ticket-Knatsch – Krisentreffen soll Unmut der SVP-Romands besänftigen",
+      "was": "SVP-Präsident Dettling mit Romands am Sitzungstisch, angespannte Mienen",
+      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Eine Partei, die gegen Sonderbehandlung von Minderheiten wettert, übergeht ihre eigene Minderheit aus der Romandie.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "20 Minuten",
+      "quelle": "SRF",
       "auch_bei": [],
-      "artikel": "https://www.20min.ch/story/trend-mit-risiko-sie-schlafen-ein-und-wachen-mit-komplett-taetowiertem-koerper-auf-103670622",
-      "bild": "https://image.20min.ch/2026/11/20/75fa6e09-04e4-436b-9d2a-4e0881889602.png?s=6ac55829027466e5beb0b3aecf3815ed",
-      "zeit": "2026-11-25T16:43+01:00"
+      "artikel": "https://www.srf.ch/news/dialog/wegen-ticket-knatsch-krisentreffen-soll-unmut-der-svp-romands-besaenftigen",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/f5da56.jpg",
+      "zeit": "2026-11-26T14:41+01:00"
     }
   ],
-  "erwartet": [],
-  "hinweis": "Auswahl ohne Modell zusammengestellt, Details in tages-anstoss.log."
+  "erwartet": [
+    {
+      "wann": "heute laufend",
+      "was": "EU-Sondergipfel zum Haushalt: Ankunft, Gruppenfoto, Fico und Merz im Gespräch"
+    }
+  ],
+  "hinweis": ""
 }
