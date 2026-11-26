@@ -1,61 +1,53 @@
 {
-  "stand": "2026-11-24T17:00:37+01:00",
+  "stand": "2026-11-26T08:41:54+01:00",
   "lauf": "1700",
   "fotos": [
     {
       "id": "1700-1",
-      "titel": "Nvidia-Skandal: Wie Donald Trump die Rückkehr von Jensen Huang durchsetzte",
-      "was": "Jensen Huang in Lederjacke neben Donald Trump, Handschlag im Weissen Haus",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Silicon-Valley-Freiheit gegen einen Präsidenten, der den CEO wieder einsetzt wie ein Personalchef.",
+      "titel": "Ablehnung nur von ganz rechts: Das EU-Parlament stimmt dem bilateralen Vertrag mit der Schweiz haushoch zu",
+      "was": "Ablehnung nur von ganz rechts: Das EU-Parlament stimmt dem bilateralen Vertrag mit der Schweiz haushoch zu",
+      "richtung": "",
       "grund": "breit",
-      "raum": "weltweit",
-      "quelle": "Spiegel",
+      "raum": "schweiz",
+      "quelle": "NZZ",
       "auch_bei": [
-        "NZZ"
+        "SRF",
+        "Tagesschau"
       ],
-      "artikel": "https://www.spiegel.de/ausland/nvidia-skandal-wie-donald-trump-die-rueckkehr-von-jensen-huang-durchsetzte-a-5133b7fe-b964-4915-a3ad-579bedcb1659#ref=rss",
-      "bild": "https://cdn.prod.www.spiegel.de/images/829ac1d1-efb6-4862-aef1-0f065abe1357_w520_r2.08_fpx44_fpy43.jpg",
-      "zeit": "2026-11-24T16:42+01:00"
+      "artikel": "https://www.nzz.ch/wirtschaft/opposition-nur-von-ganz-rechts-das-eu-parlament-stimmt-dem-bilateralen-vertrag-mit-der-schweiz-haushoch-zu-ld.10074337",
+      "bild": "https://img-msp-prod.nzz.ch/2026/11/25/50001ecd-6e89-449e-85fe-5209eb9e72e5.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2633,2633,x1887,y992",
+      "zeit": "2026-11-25T16:07+01:00"
     },
     {
       "id": "1700-2",
-      "titel": "TAS hat entschieden – Nach Final-Eklat: Senegal erhält Afrika-Cup-Titel 2025 zurück",
-      "was": "Senegalesische Spieler jubeln mit dem Pokal, Marokkaner stehen enttäuscht daneben",
-      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: Ein Titel, der auf dem Rasen gewonnen wurde, gegen einen Titel, den Juristen Monate später zurückgeben.",
+      "titel": "USA planen neue Zölle gegen EU, China und 13 weitere Handelspartner",
+      "was": "USA planen neue Zölle gegen EU, China und 13 weitere Handelspartner",
+      "richtung": "",
       "grund": "breit",
       "raum": "",
-      "quelle": "SRF",
+      "quelle": "Spiegel",
       "auch_bei": [
         "NZZ",
-        "Spiegel"
+        "Tagesschau"
       ],
-      "artikel": "https://www.srf.ch/sport/fussball/fussball-allgemein/tas-hat-entschieden-nach-final-eklat-senegal-erhaelt-afrika-cup-titel-2025-zurueck",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_sport/a1f371.jpg",
-      "zeit": "2026-11-24T16:09+01:00"
+      "artikel": "https://www.spiegel.de/wirtschaft/usa-planen-neue-zoelle-gegen-eu-china-und-13-weitere-handelspartner-a-7ef83cdc-c400-43be-afd1-e5ab1a246e7d#ref=rss",
+      "bild": "https://cdn.prod.www.spiegel.de/images/19e61923-4eba-4298-a157-3aab36febfb9_w520_r2.08_fpx41.16_fpy49.99.jpg",
+      "zeit": "2026-11-25T14:35+01:00"
     },
     {
       "id": "1700-3",
-      "titel": "Ignazio Cassis persönlich eröffnete in Pjongjang die Schweizer Aussenstelle. Nun droht die Schwester von Nordkoreas Diktator mit der Schliessung",
-      "was": "Ignazio Cassis lächelt bei der Eröffnung der Schweizer Aussenstelle in Pjongjang",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Schweizer Neutralität mit Band durchschneiden und Händeschütteln gegen EU-Sanktionen kurz danach.",
+      "titel": "Sie schlafen ein – und wachen mit komplett tätowiertem Körper auf",
+      "was": "Sie schlafen ein, und wachen mit komplett tätowiertem Körper auf",
+      "richtung": "",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "NZZ",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.nzz.ch/schweiz/nordkorea-droht-mit-der-schliessung-des-erst-kuerzlich-wiedereroeffneten-schweizer-bueros-ld.10072867",
-      "bild": "https://img-msp-prod.nzz.ch/2026/10/31/41335285-f1f7-4dfe-9412-e43263c69702.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2928,2928,x1121,y307",
-      "zeit": "2026-11-24T16:16+01:00"
+      "artikel": "https://www.20min.ch/story/trend-mit-risiko-sie-schlafen-ein-und-wachen-mit-komplett-taetowiertem-koerper-auf-103670622",
+      "bild": "https://image.20min.ch/2026/11/20/75fa6e09-04e4-436b-9d2a-4e0881889602.png?s=6ac55829027466e5beb0b3aecf3815ed",
+      "zeit": "2026-11-25T16:43+01:00"
     }
   ],
-  "erwartet": [
-    {
-      "wann": "heute, Vatikan",
-      "was": "Papst Leo XIV. und Friedrich Merz bei der ersten Privataudienz, Handschlag und Geschenkübergabe"
-    },
-    {
-      "wann": "heute, Genf",
-      "was": "Zwei junge Schachspieler am WM-Brett, konzentriert oder ratlos über den Figuren"
-    }
-  ],
-  "hinweis": ""
+  "erwartet": [],
+  "hinweis": "Auswahl ohne Modell zusammengestellt, Details in tages-anstoss.log."
 }
