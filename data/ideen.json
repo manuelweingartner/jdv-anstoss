@@ -1,8 +1,48 @@
 {
   "datum": "2026-11-27",
-  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "hinweis": "6 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-27-0757-07",
+      "typ": "politisch-aktuell",
+      "stichwort": "Über Lohn spricht man nicht, ausser mit Vermieter, Krankenkasse und Betreibungsamt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Über Lohn spricht man in der Schweiz nicht. Ausser mit dem Vermieter, der Krankenkasse und dem Betreibungsamt."
+    },
+    {
+      "id": "2026-11-27-0757-08",
+      "typ": "politisch-aktuell",
+      "stichwort": "Leere Liste der Firmen, die gegen Lohnkontrollen sind, weil Frauen zu viel verdienen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Hier alle Firmen, die gegen Lohnkontrollen sind, weil die Frauen zu viel verdienen:\n-\n-\nFertig."
+    },
+    {
+      "id": "2026-11-27-0757-09",
+      "typ": "politisch-aktuell",
+      "stichwort": "Offene Lohnlisten schaden dem Betriebsklima wie Licht im Vorratskeller dem Klima der Ratten",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Offene Lohnlisten schaden dem Betriebsklima, warnt der Arbeitgeberverband. Genau wie das Licht im Vorratskeller dem Betriebsklima der Ratten."
+    },
+    {
+      "id": "2026-11-27-0757-10",
+      "typ": "politisch-aktuell",
+      "stichwort": "Angst vor Lohntransparenz: die Migros-Verkäuferin merkt, dass der Konzernchef auch nur 24 Stunden hat",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Ich habe Angst vor Lohntransparenz. Am Ende merkt die Verkäuferin bei der Migros, dass ihr Konzernchef auch nur vierundzwanzig Stunden am Tag hat."
+    },
     {
       "id": "2026-11-27-0757-11",
       "typ": "schnittmenge",
