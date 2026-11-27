@@ -1,46 +1,46 @@
 {
-  "stand": "2026-11-24T08:03:18+01:00",
+  "stand": "2026-11-27T08:01:33+01:00",
   "vorschlaege": [
+    {
+      "vorlage": "schild",
+      "name": "Change My Mind",
+      "zeilen": [
+        "Rekordvermögen braucht keine Steuergeschenke"
+      ],
+      "warum": "drei Rekordjahre der 300 Reichsten machen die These unwiderlegbar",
+      "bild": "vorschlag-1.jpg"
+    },
     {
       "vorlage": "abzweigung",
       "name": "Left Exit 12 Off Ramp",
       "zeilen": [
-        "Huang zurückholen",
-        "Neuer CEO nach Untersuchung",
-        "Trump"
+        "Haftung light für Konzerne",
+        "Konzernverantwortung nach EU-Mass",
+        "Bundesrat"
       ],
-      "warum": "Der Verwaltungsrat biegt in letzter Sekunde ab, obwohl die Untersuchung den geraden Weg vorgegeben hat, und das Bild zeigt, wer wirklich len",
-      "bild": "vorschlag-1.jpg"
-    },
-    {
-      "vorlage": "winnie",
-      "name": "Tuxedo Winnie The Pooh",
-      "zeilen": [
-        "Vermummt an der Demo",
-        "Polizei in Zivil"
-      ],
-      "warum": "Was Demonstrierenden verboten ist, heisst bei der Stadtpolizei Zürich plötzlich Einsatztaktik.",
+      "warum": "der Bundesrat zielt auf die EU-Linie und biegt bei Haftung und Aufsicht kurz vor dem Ziel zu den Unternehmen ab",
       "bild": "vorschlag-2.jpg"
     },
     {
       "vorlage": "doge",
       "name": "Buff Doge vs. Cheems",
       "zeilen": [
-        "Wasserschloss Europas",
-        "Quellen für alle",
-        "Hochdorf 2026",
-        "Autowaschen verboten"
+        "Hansjörg Walter 2008",
+        "wählt sich nicht selbst",
+        "Bundeshaus heute",
+        "wählt nur noch sich selbst"
       ],
-      "warum": "Der Schweizer Mythos vom Wasserüberfluss steht neben einer Luzerner Gemeinde, die das Autowaschen verbieten muss.",
+      "warum": "Walters Anstand von damals zeigt im Vergleich, wie dürftig der heutige Machtbetrieb aussieht",
       "bild": "vorschlag-3.jpg"
     },
     {
-      "vorlage": "schild",
-      "name": "Change My Mind",
+      "vorlage": "winnie",
+      "name": "Tuxedo Winnie The Pooh",
       "zeilen": [
-        "Mandate sind keine Exekutiverfahrung"
+        "Keine Ahnung, was Trump will",
+        "Wir stehen mit US-Behörden in Kontakt"
       ],
-      "warum": "Der SRF-Vergleich von Aeschi und Graber steckt schon in einem Satz, dem niemand widersprechen kann.",
+      "warum": "die Floskel aus dem Wirtschaftsdepartement ist die vornehme Verpackung für Ratlosigkeit",
       "bild": "vorschlag-4.jpg"
     }
   ]
