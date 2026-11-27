@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-27",
-  "hinweis": "10 Vorschläge, Dubletten-Check läuft noch.",
+  "hinweis": "",
   "fertig": true,
   "ideen": [
     {
@@ -64,21 +64,6 @@
       }
     },
     {
-      "id": "2026-11-27-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Angst vor Lohntransparenz: die Migros-Verkäuferin merkt, dass der Konzernchef auch nur 24 Stunden hat",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ich habe Angst vor Lohntransparenz. Am Ende merkt die Verkäuferin bei der Migros, dass ihr Konzernchef auch nur vierundzwanzig Stunden am Tag hat.",
-      "jury": {
-        "anker": true,
-        "neu": false,
-        "witz": true
-      }
-    },
-    {
       "id": "2026-11-27-0757-12",
       "typ": "politisch-aktuell",
       "stichwort": "Chipstüte halb voll Luft heisst Mogelpackung, bei der Pensionskasse heisst dasselbe Rente",
@@ -135,6 +120,21 @@
       "jury": {
         "anker": false,
         "witz": true,
+        "neu": true
+      }
+    },
+    {
+      "id": "2026-11-27-0757-24",
+      "typ": "politisch-aktuell",
+      "stichwort": "China baut Solarparks im Rekordtempo, neben den Kohlemeilern. Das Argument «zuerst muss China etwas tun» wird ernst genommen und die Frist verschoben",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, zuerst muss China etwas fürs Klima tun. Jetzt baut China Solarparks im Rekordtempo, aber nebendran rauchen noch Kohlemeiler, also warten wir sicherheitshalber noch ein bisschen.",
+      "jury": {
+        "witz": false,
+        "anker": true,
         "neu": true
       }
     },
