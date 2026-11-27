@@ -1,8 +1,38 @@
 {
   "datum": "2026-11-27",
-  "hinweis": "6 von 10 da, der Rest lädt noch.",
+  "hinweis": "9 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
+    {
+      "id": "2026-11-27-0757-04",
+      "typ": "politisch-aktuell",
+      "stichwort": "Gegenvorschlag zur Konzernverantwortung kommt Konzernen bei der Haftung entgegen, gespielter Vorschlag, dasselbe beim Ladendiebstahl ab einem gewissen Umsatz einzuführen",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "steil",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Konzernverantwortung: Der Bundesrat kommt Konzernen bei der Haftung entgegen. Vielleicht sollten wir das beim Ladendiebstahl auch so machen, ab einem gewissen Umsatz."
+    },
+    {
+      "id": "2026-11-27-0757-05",
+      "typ": "politisch-aktuell",
+      "stichwort": "Klimaausrede «zuerst muss China» ernst genommen, China baut Solarparks im Rekordtempo, gespielte Ratlosigkeit",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": "frei",
+      "text": "Stimmt, zuerst muss China. Nur baut China jetzt Solarparks im Rekordtempo, und nun?"
+    },
+    {
+      "id": "2026-11-27-0757-06",
+      "typ": "politisch-aktuell",
+      "stichwort": "Tempo 30 auf der Kantonsstrasse in Kriens, die Angst der Autofahrer*innen ernst genommen: Sekunden verloren, öfter überlebt",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "mittel",
+      "haltbarkeit": "tagesgebunden",
+      "format": "frei",
+      "text": "Auf der Kantonsstrasse in Kriens gilt neu Tempo 30. Furchtbar, man verliert ein paar Sekunden und überlebt dafür öfter."
+    },
     {
       "id": "2026-11-27-0757-07",
       "typ": "politisch-aktuell",
