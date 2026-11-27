@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-27",
-  "hinweis": "9 von 10 da, der Rest lädt noch.",
+  "hinweis": "10 von 10 da, der Rest lädt noch.",
   "fertig": false,
   "ideen": [
     {
@@ -92,6 +92,16 @@
       "haltbarkeit": "evergreen",
       "format": 16,
       "text": "Halb Luft heisst bei der Chipstüte Mogelpackung. Bei der Pensionskasse heisst es Rente."
+    },
+    {
+      "id": "2026-11-27-0757-21",
+      "typ": "politisch-aktuell",
+      "stichwort": "EU verlängert Energie-Staatshilfen für Industrie und Landwirtschaft, gleiche Woche Studie: kalt duschen ist gesünder",
+      "plattform": "Threads + Bluesky",
+      "schaerfe": "breit",
+      "haltbarkeit": "tagesgebunden",
+      "format": 18,
+      "text": "Brüssel verlängert die Energie-Staatshilfen für Industrie und Landwirtschaft. Für alle anderen erscheint in derselben Woche eine Studie: Kalt duschen ist gesünder."
     }
   ]
 }
