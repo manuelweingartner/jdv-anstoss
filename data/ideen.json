@@ -1,127 +1,27 @@
 {
-  "datum": "2026-11-24",
-  "hinweis": "Anforderung um 08:03 fehlgeschlagen (kein Shard hat geliefert). Liste unverändert, bitte nochmal.",
-  "fertig": true,
+  "datum": "2026-11-27",
+  "hinweis": "2 von 10 da, der Rest lädt noch.",
+  "fertig": false,
   "ideen": [
     {
-      "id": "2026-11-24-0757-03",
-      "typ": "politisch-aktuell",
-      "stichwort": "EU will russische Athlet*innen ohne Flagge starten lassen, russische Vermögen in Zug machen das längst",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Die EU will russische Sportler*innen nur noch ohne Landesflagge antreten lassen. In Zug machen russische Vermögen das seit Jahren freiwillig. Unter Briefkastenadresse.",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-24-0757-04",
-      "typ": "politisch-aktuell",
-      "stichwort": "Vergleich der SVP-Kandidaten Aeschi und Graber: der eine kann regieren, der andere hat Verwaltungsratsmandate, gespielte Ratlosigkeit bei der Wahl",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Vergleich der SVP-Bundesratskandidaten: Graber hat Erfahrung in der Exekutive, Aeschi mehr Verwaltungsratsmandate. Schwierige Wahl, der eine weiss, wie man regiert, der andere, für wen.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-24-0757-05",
-      "typ": "politisch-aktuell",
-      "stichwort": "Schuldsprüche im Fall Joanne Young nach Gisèle Pelicot, die Warnung vor dem fremden Mann im Park ernst genommen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Frauen sollen nachts nicht allein durch den Park. Seh ich das richtig, Gisèle Pelicot und Joanne Young hat beide der eigene Ehemann betäubt?",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-24-0757-06",
-      "typ": "politisch-aktuell",
-      "stichwort": "Kim Yo Jong droht wegen Sanktionen mit der Schliessung des Schweizer Büros in Pjöngjang, gespieltes Staunen, dass es Schweizer Sanktionen gibt",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "breit",
-      "haltbarkeit": "tagesgebunden",
-      "format": "frei",
-      "text": "Moment, Nordkorea droht wegen Sanktionen, das Schweizer Büro zu schliessen? Die gibt's wirklich?",
-      "jury": {
-        "anker": true,
-        "witz": false,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-24-0757-10",
-      "typ": "politisch-aktuell",
-      "stichwort": "Waffenstillstand als Gewinnwarnung für Rheinmetall",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "evergreen",
-      "format": "frei",
-      "text": "Ein Waffenstillstand in der Ukraine wäre für Rheinmetall keine Hoffnung, sondern eine Gewinnwarnung.",
-      "jury": {
-        "witz": false,
-        "anker": true,
-        "neu": true
-      }
-    },
-    {
-      "id": "2026-11-24-0757-11",
+      "id": "2026-11-27-0757-11",
       "typ": "schnittmenge",
-      "stichwort": "Handtasche klauen gegen Lebensversicherungen am Küchentisch verkaufen, Haft gegen Rotary Club",
-      "plattform": "Threads + Bluesky + IG-Textgrafik",
+      "stichwort": "Bilanz-Ranking: die 300 Reichsten zum dritten Mal in Folge auf Rekord, beim Personal heisst dasselbe Jahr «schwieriges Umfeld» und es gibt Pizza",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
       "schaerfe": "mittel",
-      "haltbarkeit": "evergreen",
+      "haltbarkeit": "tagesgebunden",
       "format": 1,
-      "text": "Wer einer Rentnerin die Handtasche klaut, kommt in Haft. Wer ihr drei Lebensversicherungen verkauft, kommt in den Rotary Club.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
+      "text": "Die 300 Reichsten der Schweiz sind zum dritten Mal in Folge so reich wie nie. Beim Personal heisst dasselbe Jahr «schwieriges Umfeld», darum gibt's Pizza."
     },
     {
-      "id": "2026-11-24-0757-22",
+      "id": "2026-11-27-0757-12",
       "typ": "politisch-aktuell",
-      "stichwort": "KI-Aktien stürzen ab, gleiche Woche holt Trump Jensen Huang an die Nvidia-Spitze zurück: Aufholen gegen China bei der Planwirtschaft",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "mittel",
-      "haltbarkeit": "tagesgebunden",
-      "format": 18,
-      "text": "KI-Aktien stürzen ab, gleiche Woche holt Trump Jensen Huang zurück an die Nvidia-Spitze. Im Rennen mit China holen die USA endlich auf: bei der Planwirtschaft.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
-    },
-    {
-      "id": "2026-11-24-0757-23",
-      "typ": "politisch-aktuell",
-      "stichwort": "Luzerner Gemeinden verbieten wegen versiegender Quellen das Autowaschen, Klimakrise trifft endlich die Richtigen",
-      "plattform": "Threads + Bluesky",
-      "schaerfe": "steil",
-      "haltbarkeit": "tagesgebunden",
-      "format": 13,
-      "text": "Luzerner Gemeinden verbieten wegen Wassermangel das Autowaschen. Endlich trifft die Klimakrise die Richtigen.",
-      "jury": {
-        "witz": true,
-        "anker": true,
-        "neu": false
-      }
+      "stichwort": "Chipstüte halb voll Luft heisst Mogelpackung, bei der Pensionskasse heisst dasselbe Rente",
+      "plattform": "Threads + Bluesky, IG-Textgrafik",
+      "schaerfe": "breit",
+      "haltbarkeit": "evergreen",
+      "format": 16,
+      "text": "Halb Luft heisst bei der Chipstüte Mogelpackung. Bei der Pensionskasse heisst es Rente."
     }
   ]
 }
