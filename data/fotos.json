@@ -1,56 +1,59 @@
 {
-  "stand": "2026-11-26T17:00:30+01:00",
-  "lauf": "1700",
+  "stand": "2026-11-27T08:01:05+01:00",
+  "lauf": "0800",
   "fotos": [
     {
-      "id": "1700-1",
-      "titel": "Nachfolge für Christine Lagarde: Pablo Hernández de Cos wird neuer EZB-Chef",
-      "was": "Porträt von Hernández de Cos, eventuell Händedruck mit Lagarde",
-      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Billionen schwere Geldpolitik gegen Postengeschacher wie bei einer Vereinsvorstandswahl.",
-      "grund": "breit",
-      "raum": "",
-      "quelle": "taz",
-      "auch_bei": [
-        "NZZ",
-        "Tagesschau"
-      ],
-      "artikel": "https://taz.de/Nachfolge-fuer-Christine-Lagarde/!6233514/",
-      "bild": "https://taz.de/picture/8888950/948/42647075.jpeg",
-      "zeit": "2026-11-26T16:35+01:00"
-    },
-    {
-      "id": "1700-2",
-      "titel": "MELDUNGEN SCHWEIZ - Italien nimmt wieder Asylsuchende aus der Schweiz zurück",
-      "was": "MELDUNGEN SCHWEIZ - Italien nimmt wieder Asylsuchende aus der Schweiz zurück",
-      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Der eigene Einzelsieg als Trostpreis gegen das Scheitern der ganzen Mannschaft.",
+      "id": "0800-1",
+      "titel": "«Bilanz»-Ranking – Das sind die 300 reichsten Menschen in der Schweiz",
+      "was": "Porträts der reichsten Familien, Aponte in Siegerpose vor Firmenkulisse",
+      "richtung": "Mechanik: Grössenordnung an etwas Unpassendem messen. Achse: Rekordvermögen der 300 gegen die Mehrwertsteuererhöhung für alle, über die am Sonntag abgestimmt wird.",
       "grund": "breit",
       "raum": "schweiz",
-      "quelle": "NZZ",
+      "quelle": "SRF",
+      "auch_bei": [
+        "20 Minuten"
+      ],
+      "artikel": "https://www.srf.ch/news/wirtschaft/bilanz-ranking-das-sind-die-300-reichsten-menschen-in-der-schweiz",
+      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/ce3c29.jpg",
+      "zeit": "2026-11-26T22:40+01:00"
+    },
+    {
+      "id": "0800-2",
+      "titel": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
+      "was": "Merz am Pult in Brüssel, dahinter leere Gipfelstühle und Flaggen",
+      "richtung": "Mechanik: Umetikettieren derselben Handlung. Achse: ergebnisloser Abbruch wird als planmässig effizienter Gipfel verkauft.",
+      "grund": "breit",
+      "raum": "",
+      "quelle": "Tagesschau",
       "auch_bei": [
         "SRF"
       ],
-      "artikel": "https://www.nzz.ch/schweiz/schweiz-die-neuesten-meldungen-ld.10054175",
-      "bild": "https://img-msp-prod.nzz.ch/2026/06/29/6281bfce-732e-44f9-8698-4682111aa167.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
-      "zeit": "2026-11-26T16:30+01:00"
+      "artikel": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
+      "bild": "https://images.tagesschau.de/image/9661d086-75d2-4c4e-94da-70f83c687c91/AAABohpAjdo/AAABnSSvrFg/16x9-big/merz-1832.jpg?width=1280",
+      "zeit": "2026-11-27T01:02+01:00"
     },
     {
-      "id": "1700-3",
-      "titel": "Wegen Ticket-Knatsch – Krisentreffen soll Unmut der SVP-Romands besänftigen",
-      "was": "SVP-Präsident Dettling mit Romands am Sitzungstisch, angespannte Mienen",
-      "richtung": "Mechanik: Doppelmoral zwischen zwei Gruppen. Achse: Eine Partei, die gegen Sonderbehandlung von Minderheiten wettert, übergeht ihre eigene Minderheit aus der Romandie.",
+      "id": "0800-3",
+      "titel": "«König der Schweiz» hat es auf Pfarrhäuser und Kapellen abgesehen",
+      "was": "Selbsternannter König der Schweiz posiert vor einer Jurassischen Kapelle",
+      "richtung": "Mechanik: Rollenrede aus Sicht des Abgebildeten. Achse: Monarch mit Immobilienhunger gegen eine Demokratie, die ihn nicht einmal bemerkt.",
       "grund": "memetauglich",
       "raum": "schweiz",
-      "quelle": "SRF",
+      "quelle": "20 Minuten",
       "auch_bei": [],
-      "artikel": "https://www.srf.ch/news/dialog/wegen-ticket-knatsch-krisentreffen-soll-unmut-der-svp-romands-besaenftigen",
-      "bild": "https://www.srf.ch/static/cms/images/branded_srf_news/f5da56.jpg",
-      "zeit": "2026-11-26T14:41+01:00"
+      "artikel": "https://www.20min.ch/story/jonas-lauwiner-koenig-der-schweiz-hat-es-auf-pfarrhaeuser-und-kapellen-abgesehen-103674138",
+      "bild": "https://image.20min.ch/2026/11/26/7585b594-080b-4761-9730-0863e36b85f2.jpg?s=829d28f3801f1b57af7bf0898ac76b70",
+      "zeit": "2026-11-27T04:57+01:00"
     }
   ],
   "erwartet": [
     {
-      "wann": "heute laufend",
-      "was": "EU-Sondergipfel zum Haushalt: Ankunft, Gruppenfoto, Fico und Merz im Gespräch"
+      "wann": "heute im Lauf des Tages",
+      "was": "Bundestag stimmt über Haushalt 2027 ab, Abgeordnete beim Abstimmen"
+    },
+    {
+      "wann": "heute ab Ladenöffnung",
+      "was": "Black Friday, Gedränge an Kassen und Rabattschildern"
     }
   ],
   "hinweis": ""
